@@ -1,0 +1,280 @@
+## 145 | OS MENINOS DA LAJE | futebol | dia
+G: ⚽ Uma bola caiu da laje direto no capô do meu carro. Os meninos desceram correndo achando que iam levar bronca. O que aconteceu depois ninguém esperava.
+P: Onde você jogava bola quando era criança?
+H: #futebol #infancia #comunidade
+neutra | titulo | Sobe aí, que essa corrida começou com uma bolada no meu capô.
+neutra | relogio: SÁBADO · 16H | Sábado, quatro da tarde. Eu estava parado numa rua estreita esperando um passageiro. E pou. Uma bola de plástico caiu do céu, direto no capô.
+desconfiada | - | Olhei pra cima. Na laje de uma casa, três andares de altura, uns seis meninos me olhando com cara de quem fez besteira.
+neutra | - | Desceram correndo. Seis meninos de oito a doze anos, descalços, um deles de chinelo trocado. Pararam na frente do carro, quietos.
+triste | conversa: Desculpa, tio. | O maior falou: desculpa, tio. A gente paga o amassado. Eu olhei o capô. Não tinha nada. Bola de plástico, só susto.
+desconfiada | conversa: Por que vocês jogam na laje? | Eu perguntei: por que vocês jogam na laje? É perigoso. O pequeno respondeu: porque não tem campo, tio. A rua é cheia de carro.
+neutra | carimbo: A LAJE | A laje era o campo deles. Com rede de pesca amarrada em volta pra bola não cair. Gol de tijolo. A bola caía mesmo assim, umas vinte vezes por tarde.
+neutra | - | Meu passageiro chegou nessa hora. Um homem de uns trinta e cinco anos, de óculos escuros e boné. Viu os meninos, viu a bola, e sorriu.
+desconfiada | conversa: Essa laje é da dona Neném? | Ele perguntou pros meninos: essa laje ainda é da dona Neném? Os meninos: é da neta dela agora. Como o senhor sabe?
+chocada | manchete: ELE JOGAVA ALI | Ele tirou os óculos. E disse: porque eu jogava aí. Nessa laje. Com bola de meia. Faz vinte e cinco anos.
+chocada | - | O maior dos meninos ficou olhando. Olhando. E arregalou os olhos. Gritou o nome dele. Um nome que eu conhecia do jornal.
+chocada | carimbo: O JOGADOR | Era um jogador de futebol profissional. Volante. Jogou em time grande e fora do país. Tinha voltado pra visitar a mãe no bairro.
+rindo | - | Os seis meninos ficaram paralisados. Um deles começou a chorar. Outro correu pra chamar a rua inteira.
+rindo | conversa: Bora jogar? | Ele olhou pra mim, olhou pro relógio, e disse: motorista, o senhor pode esperar meia hora? Eu quero jogar na laje.
+neutra | - | Subimos os três andares de escada estreita. Eu também. Ninguém ia me deixar de fora.
+rindo | carimbo: A PELADA NA LAJE | Pelada na laje. Seis meninos, um jogador profissional e um motorista de aplicativo de goleiro. A vizinhança assistindo das outras lajes.
+rindo | - | Ele jogava com cuidado, fazia lençol, tocava de calcanhar. Os meninos gritando, tentando roubar a bola dele. Eu tomei onze gols.
+triste | conversa: Aqui eu aprendi tudo. | No meio do jogo ele parou e disse pros meninos: aqui eu aprendi a dominar a bola. Num espaço pequeno, você aprende a pensar rápido.
+neutra | - | E aí ele olhou a rede de pesca rasgada, os tijolos de gol, a bola de plástico murcha. Ficou quieto um tempo.
+chocada | conversa: Tem um terreno ali? | Perguntou pra dona da laje: aquele terreno baldio no fim da rua, de quem é? Ela disse que era da prefeitura, abandonado.
+rindo | coracao: O CAMPO DOS MENINOS | Três meses depois, o terreno baldio virou um campinho de grama sintética. Com trave de verdade. Pago por ele. Nome do campo: Laje da Dona Neném.
+neutra | carro | Eu fui na inauguração. Os seis meninos de uniforme. Ele de padrinho. E eu de goleiro, de novo. Tomei sete.
+neutra | manchete_v: VOLTA PRA LAJE | Moral da história: quem chega longe e lembra de onde veio abre o caminho pra quem vem atrás.
+rindo | coracao: LAJE DA DONA NENÉM | E se uma bola cair no seu carro hoje, não briga. Pode ser um futuro craque pedindo desculpa.
+
+## 146 | O CASAL DO LAR | amor | noite
+G: 💕 Ela tem 84, ele tem 87. Se conheceram na casa de repouso. Naquela noite, iam ao primeiro jantar fora como namorados. A família não sabia.
+P: Você acredita que dá pra se apaixonar em qualquer idade?
+H: #amor #terceiraidade #namoro
+neutra | titulo | Sobe aí, que essa corrida foi um encontro escondido. Com hora pra voltar e enfermeira cúmplice.
+neutra | relogio: SEXTA · 19H | Sexta, sete da noite. Pedido saindo de uma casa de repouso. Na porta, uma enfermeira segurando o braço de dois idosos arrumados. Ela de colar de pérola, ele de gravata.
+rindo | conversa: Volta às dez, hein. | A enfermeira falou baixinho comigo: leva os dois naquele restaurante italiano da esquina da praça. Volta às dez. Não conta pra ninguém.
+neutra | carimbo: DONA LÚCIA E SEU HUGO | Dona Lúcia, oitenta e quatro. Seu Hugo, oitenta e sete. Os dois viúvos. Se conheceram na casa de repouso, oito meses antes, numa aula de pintura.
+rindo | conversa: Ele pinta muito mal. | A dona Lúcia riu: ele pinta muito mal. Pintou um gato que parecia um travesseiro. Eu ri tanto que ele ficou bravo. Depois riu junto.
+rindo | - | O seu Hugo se defendeu: era um gato sentado. Ela: era um travesseiro com orelha. Os dois discutindo de mão dada no banco de trás.
+neutra | - | Disseram que começaram sentando juntos no almoço. Depois no café da tarde. Depois na novela das nove. Depois ele pediu: posso segurar sua mão?
+triste | conversa: Os filhos dela não gostam. | Mas o seu Hugo contou: os filhos dela não gostam. Acham que é bobagem. Que ela tá confusa. Mas ela não tá. Ela é a mais lúcida de lá.
+triste | - | A dona Lúcia disse: meus filhos acham que eu tenho que ficar sentada esperando o fim. Eu não quero esperar o fim. Eu quero jantar.
+neutra | mapa | Chegamos no restaurante. Toalha xadrez, vela na mesa, garçom de gravata. Ele abriu a porta pra ela devagar, com a bengala.
+neutra | - | Eu ia buscar às dez. Fiquei por perto, rodando. Às nove e meia o aplicativo me mandou uma corrida. Do mesmo restaurante. Mas era outra pessoa.
+chocada | - | Era uma mulher de uns cinquenta anos. Brava. Falando no telefone. Entrou no carro e disse: vou na casa de repouso. Minha mãe sumiu.
+chocada | manchete: ERA A FILHA | Era a filha da dona Lúcia. Tinha ido visitar de surpresa e não achou a mãe. A enfermeira não quis dizer onde estava. Ela estava furiosa.
+desconfiada | - | Eu fiquei num dilema. Eu sabia exatamente onde a mãe dela estava. A duzentos metros. Comendo lasanha com o namorado.
+neutra | conversa: Eu sei onde ela tá. | Respirei fundo e falei: senhora, eu sei onde a sua mãe tá. E ela tá bem. Mais que bem. Posso levar a senhora lá. Mas me promete uma coisa: olha antes de falar.
+neutra | mapa | Voltei pro restaurante. Parei na frente da vitrine. A filha olhou pra dentro. E ficou.
+triste | carimbo: ELA VIU A MÃE RINDO | A mãe dela estava rindo. Às gargalhadas. Com a mão do seu Hugo segurando a dela por cima da toalha xadrez. Ele contando alguma piada com o garfo no ar.
+triste | - | A filha ficou um tempão olhando pela vitrine. Depois disse baixinho: faz cinco anos que eu não vejo a minha mãe rir assim. Desde o meu pai.
+triste | coracao: DEIXA ELA RIR | Ela não entrou. Pediu pra eu ir embora. Disse: deixa ela. Amanhã eu converso. Hoje deixa ela rir.
+neutra | - | Às dez em ponto eu busquei os dois. Eles não souberam de nada. Voltaram falando do tiramisù.
+neutra | carro | Uma semana depois, a enfermeira me chamou de novo. Mesmo restaurante. Quatro pessoas. Os dois, a filha e o genro. Jantar de família.
+neutra | manchete_v: DEIXA SER FELIZ | Moral da história: o amor não pede documento de idade. E a felicidade dos pais não precisa da nossa permissão.
+rindo | coracao: O GATO TRAVESSEIRO | E se seus pais ou avós estão sorrindo de novo por causa de alguém, não atrapalha. Leva pra jantar.
+
+## 147 | A LISTA DE COMPRAS CIFRADA | humor | dia
+G: 📝 A esposa deu a lista de compras pro marido. O problema: estava escrita no código secreto dela. Viramos detetives no supermercado.
+P: Qual palavra da sua família só vocês entendem?
+H: #humor #casal #supermercado
+neutra | titulo | Sobe aí, que essa corrida teve decifração de enigma no meio do corredor de enlatados.
+neutra | relogio: SÁBADO · 10H | Sábado, dez da manhã. Entrou um senhor de uns sessenta anos com um papel amassado na mão e uma cara de quem ia fazer prova de matemática.
+desconfiada | conversa: O senhor me ajuda? | Disse: supermercado, por favor. E o senhor me ajuda a entender essa lista? A minha mulher viajou e me deixou isso.
+rindo | carimbo: A LISTA | Leu em voz alta: aquele negócio da dona Zefa. Dois do bom, não do barato. O verde do domingo. A coisa do pé da mesa. E pão. Só pão.
+rindo | - | Seu Osvaldo. Trinta e cinco anos de casado. Nunca tinha feito compra sozinho. A esposa, dona Célia, foi visitar a irmã e deixou a lista.
+ironica | conversa: Pelo menos o pão é fácil. | Eu disse: pelo menos o pão é fácil. Ele: é? Que pão? Francês, de forma, de queijo, integral? Ela escreveu só pão.
+neutra | - | Ligou pra ela. Caixa postal. Ligou de novo. Caixa postal. A irmã mora no interior, sem sinal. Ele estava sozinho.
+rindo | conversa: Vamos decifrar. | Eu, que estava no fim do turno e com tempo, falei: vamos decifrar. Eu entro no supermercado com o senhor. Investigação.
+neutra | mapa | Entramos no supermercado. Eu de detetive, ele de assistente. Ou ao contrário. Ninguém sabia.
+desconfiada | carimbo: AQUELE NEGÓCIO DA DONA ZEFA | Primeiro: aquele negócio da dona Zefa. Quem é dona Zefa? Ele pensou. A vizinha. Que uma vez trouxe um bolo de fubá. Fubá! Achamos o fubá.
+rindo | - | Dois do bom, não do barato. Do bom o quê? Ele andou pelo corredor olhando. E parou no café. Ela sempre reclamava quando ele comprava o café barato. Dois do bom.
+desconfiada | carimbo: O VERDE DO DOMINGO | O verde do domingo. Aí travou. Alface? Couve? Salsinha? Ficamos dez minutos no hortifrúti. Até que ele lembrou: todo domingo ela faz frango com quiabo.
+rindo | - | Quiabo! Ele pegou o quiabo como quem acha ouro. Uma senhora do lado perguntou o que estava acontecendo. A gente explicou. Ela entrou na investigação.
+chocada | carimbo: A COISA DO PÉ DA MESA | A coisa do pé da mesa. Esse ninguém sabia. Nem a senhora. Nem o repositor que também entrou na história. Já éramos cinco.
+desconfiada | - | Pé da mesa. Calço? Feltro? Produto de limpeza? O repositor sugeriu: cola. A senhora: lustra-móveis. Eu: aquele feltrinho de colar no pé.
+chocada | conversa: Formiga! | Aí o seu Osvaldo gritou: formiga! Tem formiga no pé da mesa da cozinha! Ela falou semana passada! E correu pro corredor de veneno de formiga.
+rindo | manchete: CASO RESOLVIDO | Caso resolvido. Fubá, café do bom, quiabo, formicida. Faltava o pão. A senhora, que já era da equipe, decretou: pão francês. Mulher que escreve só pão quer francês.
+rindo | - | Ele comprou dez pães franceses. Agradeceu a senhora, o repositor, o caixa. Saiu do supermercado como quem ganhou um campeonato.
+neutra | notificacao: Ligação: Célia | Quando a gente estava no carro, a dona Célia ligou. Ele atendeu no viva-voz e leu os itens. Um por um.
+triste | coracao: ACERTOU TUDO | Do outro lado, silêncio. Depois ela riu: acertou tudo, Osvaldo. Até a formiga. Trinta e cinco anos e você presta atenção, hein.
+rindo | conversa: Você escreveu difícil de propósito? | Ele perguntou: você escreveu difícil de propósito? Ela riu mais ainda: escrevi. Queria saber se você me escuta.
+neutra | carro | Deixei ele em casa com as sacolas. Ele disse que ia guardar a lista. Que era a prova mais difícil que ele já passou.
+neutra | manchete_v: PRESTA ATENÇÃO | Moral da história: casamento bom é aquele em que a lista de compras é um código que só os dois entendem.
+rindo | coracao: SÓ PÃO | E se alguém te mandar comprar só pão, compra francês. Confia em mim.
+
+## 148 | A ESCOLA DO BERNARDO | superacao | noite
+G: 🎭 Nenhuma escola de dança aceitou o filho dela, que tem síndrome de Down. Então ela abriu a própria escola. Hoje era a inauguração.
+P: Você conhece alguém que criou o que faltava no mundo?
+H: #inclusao #sindromededown #superacao
+neutra | titulo | Sobe aí, que essa corrida levou uma mãe que, quando a porta fechou, construiu uma porta nova.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Entraram uma mulher de uns quarenta anos e um rapaz de dezenove, de colete brilhante e gravata borboleta. Ele com um sorriso enorme.
+rindo | conversa: Hoje é a minha escola. | O rapaz anunciou: hoje é a inauguração da minha escola. Eu sou o professor assistente. A mãe riu: é verdade.
+neutra | carimbo: BERNARDO | Chama-se Bernardo. Tem síndrome de Down. Ama dançar desde os três anos. Dança tudo. Forró, valsa, samba, até balé.
+triste | conversa: Nenhuma escola aceitou. | A mãe, Fabiana, contou: quando ele tinha dez anos, eu procurei escola de dança. Fui em sete. Nenhuma aceitou.
+triste | - | Diziam que não tinham estrutura. Que ia atrapalhar a turma. Que ele não ia acompanhar. Uma disse na frente dele.
+neutra | - | Ela ensinou ele em casa. Com vídeo, na sala, empurrando o sofá. Depois chamou outras crianças do bairro com deficiência que também não tinham onde dançar.
+rindo | carimbo: A GARAGEM | Começou na garagem de casa. Três crianças. Depois oito. Depois quinze. Os vizinhos reclamavam do barulho e depois iam assistir.
+neutra | - | Ela fez faculdade de educação física à noite, já com quarenta anos. Juntou dinheiro. Alugou um galpão. Pintou com as próprias mãos.
+desconfiada | conversa: E a escola tem nome? | Perguntei o nome da escola. O Bernardo respondeu antes: Escola de Dança Todo Mundo Dança. Fui eu que escolhi.
+neutra | mapa | Chegamos no galpão. Pintado de colorido. Espelho na parede, barra de balé. E na porta, uma faixa: aqui todo mundo dança.
+chocada | - | E tinha gente. Muita gente. Umas duzentas pessoas na calçada. Famílias, crianças em cadeira de rodas, crianças cegas, jovens com autismo, idosos.
+neutra | - | Eu fiquei pra ver. A Fabiana pediu pra eu ficar. Disse que precisava de alguém pra ajudar a arrumar as cadeiras. Arrumei.
+neutra | relogio: A APRESENTAÇÃO | Teve apresentação de abertura. Os alunos da garagem, que agora eram trinta. Cada um do seu jeito. Uma menina dançando na cadeira de rodas. Um menino cego seguindo o ritmo pelo som.
+chocada | manchete: O SOLO DO BERNARDO | E no final, o solo do Bernardo. Ele entrou no centro, de colete brilhante, e dançou um samba. Sozinho. Com uma alegria que encheu o galpão.
+chocada | - | O galpão inteiro levantou. Batendo palma no ritmo. Ele terminou com uma pose de braço pra cima e uma piscadela pra plateia.
+triste | carimbo: A DONA DA ESCOLA QUE RECUSOU | Aí aconteceu uma coisa. Uma senhora se aproximou da Fabiana. Disse: eu sou dona de uma das escolas que recusaram o Bernardo. Eu vim pedir desculpa.
+triste | conversa: Eu errei. | Ela disse: eu errei. Eu tive medo do que eu não conhecia. Eu queria saber se posso mandar os meus professores aprenderem aqui.
+triste | coracao: A PORTA ABERTA | A Fabiana ficou um tempo calada. Depois abraçou ela. E disse: pode. Aqui todo mundo dança. Inclusive quem errou.
+rindo | - | O Bernardo chegou no meio do abraço e perguntou: a senhora quer dançar? E puxou a mulher pro meio da pista. Ela dançou. Mal. Mas dançou.
+neutra | carro | Na volta, o Bernardo dormiu de colete brilhante. A mãe olhando pela janela. Disse: nove anos atrás uma porta fechou. Hoje eu abri a minha.
+neutra | manchete_v: ABRE A PORTA | Moral da história: quando o mundo não tem lugar pra quem a gente ama, a gente constrói.
+rindo | coracao: TODO MUNDO DANÇA | E se você tem uma escola, uma loja, um espaço, pergunta: todo mundo cabe aqui? Se não cabe, dá um jeito.
+
+## 149 | AS PEGADAS NO CIMENTO | curiosa | dia
+G: 👣 Na calçada de uma rua antiga, tem pegadas de criança no cimento, de 1985. Um homem pediu pra procurar. Eram dele. E tinha mais uma do lado.
+P: Tem alguma marca da sua infância que ainda existe?
+H: #infancia #pai #saudade
+neutra | titulo | Sobe aí, que essa corrida procurou duas pegadas numa calçada de quarenta anos.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Entrou um homem de uns quarenta e cinco anos com uma foto antiga na mão. Preta e branca. Um menino pequeno sentado numa calçada.
+desconfiada | conversa: Quero achar uma calçada. | Disse: quero achar uma calçada. Eu perguntei: qual? Ele riu: é aí que tá. Eu não sei qual.
+neutra | carimbo: A FOTO DE 1985 | Chama-se Mauro. A foto era de mil novecentos e oitenta e cinco. Ele tinha quatro anos. Sentado ao lado de uma calçada de cimento fresco. Com o pé sujo.
+triste | conversa: Meu pai era pedreiro. | Contou: meu pai era pedreiro. Ele fazia calçada pra prefeitura. Num dia, me levou junto. E deixou eu pisar no cimento fresco.
+triste | - | O pai faleceu quando ele tinha nove anos. Ele só lembrava disso: do pé afundando no cimento e o pai rindo. E da foto.
+neutra | - | Mudou de cidade com a mãe. Nunca mais voltou. E agora, quarenta anos depois, tinha decidido procurar a calçada.
+neutra | carimbo: AS PISTAS | Na foto, dava pra ver o fundo. Um muro com uma propaganda pintada de refrigerante. E a ponta de uma igreja com uma torre fina.
+neutra | mapa | Rodamos. Igreja de torre fina, eu conhecia três na cidade. Fomos na primeira. Nada. Na segunda, nada. Ele foi ficando desanimado.
+neutra | mapa | Na terceira, num bairro antigo, eu parei. A torre era igual. Mas o muro da propaganda não existia mais. Virou um prédio.
+desconfiada | - | Ele desceu. Andou pela calçada, olhando pro chão. Uma rua inteira. Calçada velha, rachada, remendada. Eu desci junto.
+chocada | manchete: AS PEGADAS | E aí, perto de um poste, meio cobertas de folha seca, eu vi. Duas pegadinhas pequenas. Afundadas no cimento. E uma data riscada: oitenta e cinco.
+chocada | - | Eu chamei. Ele veio correndo. Se ajoelhou. Tirou as folhas com a mão. E colocou o dedo dentro de uma das pegadinhas.
+triste | - | Ficou um tempão ali, de joelho, na calçada. Um homem de quarenta e cinco anos com o dedo dentro do próprio pé de quatro anos.
+chocada | carimbo: MAIS UMA PEGADA | Aí ele limpou mais folha do lado. E apareceu outra. Uma pegada grande. De bota. Do lado das pequenas. Ele não sabia que estava ali.
+triste | conversa: É a bota do meu pai. | Ele disse, com a voz quebrando: é a bota do meu pai. Ele pisou junto comigo. Eu não lembrava disso.
+triste | coracao: O PÉ DO PAI | Uma pegada grande e duas pequenas. Lado a lado. Há quarenta anos. Esperando no meio das folhas.
+neutra | - | Uma senhora saiu de uma casa e perguntou o que estava acontecendo. Ele mostrou a foto. Ela disse: ah, as pegadinhas! Eu varro em volta delas há trinta anos. Nunca deixei ninguém cobrir.
+triste | conversa: Eu achava que era de anjo. | Ela riu: eu achava que era pegada de anjo. Porque apareceu do nada, com uma pegada de homem do lado, guiando.
+neutra | - | Ele tirou uma foto. Do mesmo ângulo da foto antiga. Ele adulto sentado do lado, com o pé ao lado da bota do pai.
+neutra | carro | Na volta, ele colocou as duas fotos lado a lado no celular. Oitenta e cinco e hoje. Disse que ia levar o filho dele lá. Pra pisar do lado.
+neutra | manchete_v: DEIXA MARCA | Moral da história: tem marcas que a gente deixa sem saber. E alguém cuida delas sem saber de quem são.
+rindo | coracao: PEGADAS DE 1985 | E se você tem uma marca da infância em algum lugar, vai visitar. Ela pode estar te esperando debaixo das folhas.
+
+## 150 | O TIO SOLTEIRÃO | familia | noite
+G: 🎁 Ele nunca casou nem teve filhos. Mas foi em todo aniversário, toda formatura, todo hospital dos sobrinhos. Hoje, eles fizeram uma festa pra ele.
+P: Qual tio ou tia foi como um segundo pai ou mãe pra você?
+H: #tio #familia #gratidao
+neutra | titulo | Sobe aí, que essa corrida levou o homem mais presente de uma família que nem era dele.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Peguei um senhor de uns sessenta e cinco anos, de camisa xadrez, perfume barato e um pacote de bala de coco no bolso.
+rindo | conversa: Bala de coco pros sobrinhos. | Disse: é pros sobrinhos. Eu sempre levo bala de coco. Eu perguntei: quantos sobrinhos? Ele contou nos dedos: sete. E onze sobrinhos-netos.
+neutra | carimbo: TIO NECO | Tio Neco. Nunca casou. Nunca teve filho. Trabalhou a vida inteira como conferente num armazém. E disse que tinha dezoito filhos emprestados.
+rindo | conversa: Eu fui em tudo. | Riu: eu fui em tudo, moço. Batizado, primeira comunhão, formatura, casamento. Levei sobrinho no hospital de madrugada. Ensinei andar de bicicleta.
+neutra | - | Disse que a irmã, mãe dos sobrinhos, ficou viúva cedo. E ele foi ajudar. Ficou trinta anos ajudando.
+triste | conversa: Nunca dava tempo de casar. | Perguntei se ele nunca quis casar. Ele pensou: quis. Mas nunca dava tempo. Sempre tinha um sobrinho precisando de alguma coisa.
+neutra | - | Naquela noite, a sobrinha mais velha tinha chamado ele pra um jantar. Ele achava que era aniversário de algum sobrinho-neto. Não sabia de quem.
+desconfiada | conversa: De quem é o aniversário? | Eu perguntei: de quem é a festa? Ele disse: não sei. Ela só falou: tio, vem jantar. Eu venho. Nunca pergunto.
+neutra | mapa | Chegamos num salão de festas pequeno. Ele desceu com as balas de coco. Eu ia embora, mas a sobrinha me fez sinal pela janela: entra também.
+chocada | manchete: DIA DO TIO NECO | Lá dentro, uma faixa enorme: dia do tio Neco. Os sete sobrinhos, os onze sobrinhos-netos, todos de camiseta com a foto dele.
+chocada | - | Ele parou na porta com o pacote de bala na mão. Disse: mas não é meu aniversário. A sobrinha respondeu: não é. É o dia que a gente decidiu te agradecer.
+rindo | carimbo: CADA UM CONTOU | E cada sobrinho foi lá na frente contar uma história. Um falou da bicicleta. Outro, da noite no hospital. Outro, de quando o tio pagou a inscrição do vestibular escondido.
+triste | - | O sobrinho que é médico contou que o tio vendeu a única moto que tinha pra pagar o cursinho dele. Ninguém sabia. Nem a mãe.
+triste | conversa: A gente nunca disse. | A sobrinha mais velha falou: a gente nunca disse, tio. Que o senhor foi nosso pai também. Que todo mundo aqui é um pouco seu.
+triste | - | O tio Neco ficou parado no meio do salão, com as balas de coco amassando na mão. Um senhor de camisa xadrez chorando igual criança.
+triste | coracao: DEZOITO FILHOS | Aí o menorzinho, um sobrinho-neto de quatro anos, foi até ele e perguntou: tio, cadê a bala de coco? E ele riu chorando e abriu o pacote.
+rindo | carimbo: O PRESENTE | Os sobrinhos fizeram vaquinha e deram um presente. Uma viagem pra praia. A primeira viagem de férias da vida dele.
+rindo | conversa: Mas quem vai cuidar de vocês? | Ele perguntou, preocupado: mas e se alguém precisar de mim nessa semana? A sobrinha riu: aí a gente se vira, tio. Vai.
+neutra | carro | Na volta, ele me deu a última bala de coco. Disse: a primeira vez em trinta anos que alguém me deu presente sem ser aniversário.
+neutra | manchete_v: AGRADECE O TIO | Moral da história: tem gente que não tem filho, mas cria uma família inteira. Agradece enquanto dá tempo.
+rindo | coracao: TIO NECO | E se você tem um tio Neco, liga hoje. Diz que ele foi importante. Ele nunca vai pedir isso.
+
+## 151 | A LINHA QUE NÃO PASSA MAIS | reflexao | dia
+G: 🚏 Todo dia às 18h ele espera no mesmo ponto um ônibus que não existe mais há cinco anos. Um dia eu parei pra perguntar.
+P: Que rotina você mantém só por amor a alguém?
+H: #reflexao #saudade #rotina
+neutra | titulo | Sobe aí, que essa corrida fez uma linha de ônibus que não existe mais.
+neutra | relogio: TODO DIA · 18H | Por semanas eu passava num ponto de ônibus às seis da tarde e via o mesmo senhor sentado. Chapéu, paletó, uma sacola de pão. Sempre ali.
+desconfiada | - | Um dia reparei na placa do ponto. A linha que passava ali tinha sido extinta. Tinha um aviso velho, colado havia anos. Ninguém pegava ônibus ali.
+desconfiada | conversa: O senhor espera qual ônibus? | Eu parei e perguntei: o senhor espera qual ônibus? Essa linha não passa mais. Ele sorriu: eu sei, meu filho. Eu sei.
+neutra | carimbo: SEU JOSÉ | Seu José. Setenta e nove anos. Disse que por quarenta anos esperou nesse ponto, às seis da tarde, a esposa voltar do trabalho. Na linha quinhentos e doze.
+triste | conversa: Ela descia sorrindo. | Ela trabalhava numa fábrica de costura. Descia do ônibus cansada, mas sorrindo. Ele levava pão fresco. Iam a pé pra casa juntos.
+triste | - | Ela faleceu seis anos antes. A linha foi extinta um ano depois. E ele continuou indo. Todo dia. Às seis. Com o pão.
+desconfiada | conversa: Por que o senhor vem? | Perguntei por quê. Ele disse: porque se eu ficar em casa às seis, eu não sei o que fazer com as mãos.
+neutra | - | Disse que ficava ali dez minutos. Olhava a rua. Lembrava dela descendo. Depois ia pra casa comer o pão sozinho.
+neutra | conversa: Quer fazer a linha? | Eu tive uma ideia. Perguntei: o senhor quer fazer a linha? O caminho do quinhentos e doze? Eu levo. Hoje eu tô sem pressa.
+neutra | mapa | Ele entrou. Me guiou. Rua por rua. O caminho que o ônibus fazia. Ele lembrava de tudo. Cada ponto, cada curva.
+rindo | carimbo: CADA PONTO, UMA HISTÓRIA | Em cada ponto, uma história. Aqui uma vez ela esqueceu a sombrinha. Ali o motorista esperou ela correr. Aqui ela comprou o primeiro presente do neto.
+neutra | mapa | No fim da linha, a fábrica de costura onde ela trabalhava. Fechada. Virou uma igreja. Ele pediu pra descer.
+triste | - | Ficou na frente do prédio um tempão. Disse: quarenta anos ela entrou por essa porta. Eu nunca entrei. Nunca vi onde ela costurava.
+chocada | - | A porta da igreja estava aberta. Ele entrou. Eu fui junto. Lá dentro, no fundo, tinha uma parede de tijolo antigo. E uma placa pequena.
+chocada | manchete: A PLACA DAS COSTUREIRAS | Aqui funcionou a fábrica de costura. Homenagem às costureiras que trabalharam aqui. E uma lista de nomes. Gravados no metal.
+triste | carimbo: O NOME DELA | Ele leu a lista com o dedo. Devagar. E parou num nome. Maria das Graças. O nome dela. Gravado. Ele não sabia.
+triste | coracao: MARIA DAS GRAÇAS | Ele encostou a mão na placa. E disse: achei você, Graça. Achei onde você ficava enquanto eu esperava.
+neutra | - | Ficamos ali uns minutos. Depois ele tirou o pão da sacola e deixou um pedaço no banco da igreja. Disse que era o lanche dela.
+neutra | carro | Na volta, ele disse: acho que agora eu não preciso mais ir no ponto. Agora eu sei onde ela tá. Venho aqui. Uma vez por semana.
+neutra | manchete_v: SAUDADE CAMINHA | Moral da história: a saudade às vezes espera no ponto. Mas um dia ela precisa fazer o caminho até o fim.
+rindo | coracao: LINHA 512 | E se você mantém uma rotina por saudade de alguém, tudo bem. Mas um dia, vai até o fim da linha. Ela pode ter deixado uma placa.
+
+## 152 | OS COLEGAS DA FÁBRICA | amizade | noite
+G: 🏭 Oito anos depois de a fábrica fechar, os ex-colegas se reuniram. E eu fui o motorista da noite. E um dos convidados.
+P: Você ainda fala com seus colegas do primeiro emprego?
+H: #amizade #trabalho #reencontro
+neutra | titulo | Sobe aí, que essa corrida foi diferente. Os passageiros eram meus colegas. De vinte anos atrás.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Eu recebi um convite pelo celular. Um grupo novo. Nome: metalúrgicos da antiga. Reencontro de oito anos.
+neutra | carimbo: A FÁBRICA | A fábrica onde eu trabalhei dezoito anos. A que fechou de uma vez. Quatrocentos demitidos. Eu entre eles.
+triste | - | Eu quase não fui. Fazia oito anos. Eu tinha vergonha de chegar como motorista de aplicativo. Os outros, imaginei, deviam estar melhor.
+rindo | conversa: Vai, Caixeiro. | A Rosângela disse: vai, Caixeiro. E leva o carro. Alguém vai precisar de carona. E foi o que aconteceu.
+neutra | mapa | No caminho, o grupo apitou. O Tião, meu colega de prensa, pedindo carona. Depois o Chicão, o da solda. Depois o Baixinho, do almoxarifado.
+rindo | carimbo: O CARRO CHEIO | O carro encheu. Três homens de cinquenta e tantos anos no meu carro. Falando alto. Rindo igual na hora do almoço da fábrica.
+rindo | conversa: Você engordou, Caixeiro. | O Chicão entrou e disse: você engordou, Caixeiro. Eu disse: você ficou careca, Chicão. Ele riu: pelo menos o meu cabelo foi embora com dignidade.
+neutra | - | No caminho, cada um contou o que fez depois. O Tião virou porteiro. O Chicão abriu uma serralheria pequena. O Baixinho virou motorista de ônibus.
+triste | conversa: Ninguém ficou rico. | O Tião falou: ninguém aqui ficou rico. Mas ninguém desistiu. Isso é coisa de quem aprendeu a trabalhar naquele chão.
+neutra | mapa | Chegamos num bar do bairro antigo. Na frente da fábrica, que hoje é a escola técnica que o filho do dono construiu.
+chocada | manchete: SETENTA COLEGAS | Tinha uns setenta. Setenta ex-metalúrgicos, de cabelo branco, barriga, bengala alguns. Abraçando, gritando o apelido um do outro.
+rindo | - | Ninguém lembrava o nome de ninguém. Só o apelido. Baixinho, Chicão, Tampinha, Professor. E eu, que sempre fui Caixeiro. Até lá.
+neutra | carimbo: O CRACHÁ | Alguém tinha guardado uma caixa de crachás antigos. Distribuiu. Eu achei o meu. Com a minha foto de vinte e poucos anos. Cabelo preto, bigode fino.
+triste | - | Fiquei olhando aquela foto um tempão. Aquele rapaz não sabia que a fábrica ia fechar. Não sabia que ia virar motorista. Não sabia que ia ser feliz assim mesmo.
+triste | conversa: Brinde aos que não vieram. | No meio da noite, o Professor levantou um copo de refrigerante e disse: um brinde aos que não puderam vir. Os que já foram.
+triste | coracao: OS QUE FORAM | Leu uma lista de nomes. Uns vinte. Colegas que faleceram nesses oito anos. O bar inteiro em silêncio. Copos levantados.
+rindo | - | Depois o Tião pegou um violão e cantou a música que tocava no rádio da fábrica todo dia às seis da manhã. Setenta homens cantando juntos.
+neutra | carro | De madrugada, eu levei de volta os três que eu trouxe. E mais dois que pediram carona. Cinco no carro, um no colo do outro, cantando.
+rindo | - | Na despedida, o Chicão me disse: Caixeiro, você continua o mesmo. Só mudou de máquina. Antes era a prensa, agora é o volante.
+neutra | manchete_v: REENCONTRA | Moral da história: o emprego acaba. Os amigos que a gente fez nele, não precisam acabar.
+rindo | coracao: METALÚRGICOS DA ANTIGA | E se você tem colegas antigos, cria o grupo. Marca o reencontro. Oito anos passam rápido.
+
+## 153 | O CONCURSO DE BIGODE | humor | dia
+G: 👨 Três senhores rivais iam disputar o concurso de bigode da cidade. No meu carro. Um deles chegou com meio bigode.
+P: Alguém da sua família tem um bigode marcante?
+H: #bigode #humor #concurso
+neutra | titulo | Sobe aí, que essa corrida teve três bigodes, uma rivalidade antiga e uma tesoura no lugar errado.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Corrida compartilhada. Três paradas. Três senhores. Três bigodes enormes.
+rindo | carimbo: OS TRÊS BIGODES | O primeiro: bigode estilo guidão, enrolado nas pontas com cera. O segundo: bigode de morsa, que cobria a boca inteira. O terceiro: bigodinho fino e milimétrico.
+rindo | conversa: Concurso de bigode. | Iam pro mesmo lugar: o concurso de bigode da festa da cidade. Disputado há vinte anos. Os três já tinham ganhado. Cada um em anos diferentes.
+rindo | - | Seu Alcebíades, do guidão. Seu Teodoro, da morsa. Seu Wanderley, do bigodinho. Rivais declarados. Mas iam no mesmo carro porque o aplicativo juntou.
+rindo | conversa: Bigode de morsa é preguiça. | O do guidão começou: bigode de morsa é preguiça, Teodoro. É só não cortar. O da morsa: e o seu é cera. Sem cera, não fica de pé.
+rindo | - | E o do bigodinho, de lado: bigode bom é o que dá trabalho. O meu eu aparo com pinça, fio por fio. Os outros dois riram dele.
+neutra | carimbo: A TESOURINHA | Aí o seu Wanderley tirou uma tesourinha do bolso pra dar o último retoque. No espelhinho. No banco de trás.
+chocada | manchete: O BURACO | E eu passei num buraco. O carro pulou. A tesourinha escorregou. E cortou metade do bigodinho dele. Metade.
+chocada | - | Silêncio total. O seu Wanderley olhando no espelhinho. Metade de um bigode. Do lado esquerdo, perfeito. Do lado direito, nada.
+triste | conversa: Vinte anos de bigode. | Ele disse: vinte anos de bigode. Vinte anos. E acabou num buraco. Eu pedi desculpa umas dez vezes. Eu e a prefeitura.
+neutra | - | Os outros dois, os rivais, ficaram quietos. Eu achei que iam rir. Mas não. O seu Teodoro, o da morsa, se inclinou.
+rindo | conversa: Me dá a tesoura. | Disse: me dá essa tesoura. O seu Alcebíades: o que você vai fazer? O seu Teodoro: vou cortar metade do meu também.
+chocada | - | E cortou. Metade do bigode de morsa. Do lado direito. O seu Alcebíades olhou os dois. Pegou a tesoura. E cortou metade do guidão.
+rindo | carimbo: TRÊS MEIOS BIGODES | Três senhores com meio bigode cada um. No meu banco de trás. Rindo igual criança que fez arte.
+rindo | conversa: Ninguém ganha sozinho hoje. | O seu Teodoro falou: hoje ninguém ganha sozinho. Ou ganha os três, ou não ganha ninguém.
+neutra | mapa | Chegamos no concurso. Palco na praça, banda tocando, uns vinte competidores. E os três entraram de braço dado. Com meio bigode cada um.
+chocada | - | A praça inteira caiu na gargalhada. Depois aplaudiu. O apresentador não sabia o que fazer. Perguntou: o que é isso?
+rindo | conversa: É um bigode só. | O seu Wanderley respondeu no microfone: é um bigode só. Dividido em três. Se juntar, dá o melhor bigode da história.
+rindo | manchete: CATEGORIA ESPECIAL | O júri criou uma categoria especial ali na hora: melhor bigode coletivo. Os três ganharam. Dividiram o troféu. Uma escova de bigode dourada.
+triste | coracao: OS RIVAIS VIRARAM AMIGOS | Depois tiraram uma foto juntos, cada um encostando a metade do bigode na metade do outro. Formando um bigode inteiro. A foto foi pro jornal.
+neutra | carro | Eles me chamaram pra voltar. Os três. No caminho, combinaram de deixar crescer juntos e voltar ano que vem. Como um time.
+neutra | manchete_v: DIVIDE A DERROTA | Moral da história: rival de verdade é aquele que corta metade do bigode pra você não passar vergonha sozinho.
+rindo | coracao: MEIO BIGODE | E se o seu amigo passar vergonha, passa junto. A vergonha dividida vira história boa.
+
+## 154 | A ENFERMEIRA DA UTI | superacao | noite
+G: 🍼 Ele nasceu com 900 gramas e passou 3 meses na UTI neonatal. Hoje, 25 anos depois, começava a trabalhar como enfermeiro na mesma UTI.
+P: Quem cuidou de você quando você era pequeno demais pra lembrar?
+H: #enfermagem #gratidao #superacao
+neutra | titulo | Sobe aí, que essa corrida levou um enfermeiro de volta pro lugar onde ele aprendeu a respirar.
+neutra | relogio: SEGUNDA · 18H30 | Segunda, seis e meia da tarde. Entrou um rapaz de uns vinte e cinco anos, de jaleco branco dobrado no braço e um crachá novo, ainda com o plástico.
+rindo | conversa: Primeiro plantão. | Disse: primeiro plantão. Enfermeiro. Na UTI neonatal. Eu disse: com bebê? Coragem, hein. Ele riu: eu já fui um daqueles bebês.
+neutra | carimbo: NOVECENTOS GRAMAS | Chama-se Daniel. Nasceu de seis meses. Novecentos gramas. Cabia na palma da mão. Passou três meses na UTI neonatal. No mesmo hospital.
+triste | conversa: Ninguém achava que eu ia viver. | Contou: os médicos disseram pra minha mãe que eu tinha poucas chances. Ela ia todo dia. E tinha uma enfermeira que não saía do meu lado.
+neutra | - | A mãe dele sempre falava dessa enfermeira. Dona Vera. Que cantava pra ele de madrugada. Que segurava o dedinho dele na incubadora.
+triste | conversa: Ela me deu o primeiro banho. | A dona Vera deu o primeiro banho nele. Ensinou a mãe a trocar fralda num bebê do tamanho de uma garrafinha de água.
+neutra | - | Ele cresceu ouvindo essa história. E decidiu, aos quinze anos: vou ser enfermeiro. Vou trabalhar onde eu nasci.
+desconfiada | conversa: E a dona Vera? | Perguntei: e a dona Vera? Ele disse: não sei. A minha mãe perdeu contato. Deve ter aposentado. Deve ter uns sessenta e poucos.
+neutra | mapa | Chegamos no hospital. Ele ficou parado na entrada, olhando o prédio. Disse: eu nasci no quarto andar. Hoje vou trabalhar no quarto andar.
+neutra | - | Eu fiquei esperando um pouquinho, porque ele estava nervoso. Pediu pra eu esperar ele entrar. Como se fosse primeiro dia de escola.
+neutra | relogio: TRÊS DIAS DEPOIS | Três dias depois, ele me chamou de novo. Pra voltar do plantão. Entrou no carro com uma cara que eu nunca vou esquecer.
+chocada | conversa: Ela ainda trabalha lá. | Disse: ela ainda trabalha lá, moço. A dona Vera. Ela é a chefe da enfermagem da UTI. A minha chefe.
+chocada | manchete: A CHEFE DELE | A dona Vera. Com sessenta e três anos. Trinta e oito anos de UTI neonatal. Chefe da equipe. E ele não sabia.
+neutra | - | Contou que no primeiro plantão ela passou explicando as rotinas. Ele não teve coragem de falar nada. No segundo, também não.
+triste | carimbo: A MÚSICA | No terceiro, de madrugada, ele ouviu ela cantando pra um bebê na incubadora. Uma música de ninar antiga. A mesma que a mãe dele cantava. Que tinha aprendido com ela.
+triste | conversa: Eu sou o Daniel. | Ele chegou perto e disse: dona Vera, eu sou o Daniel. Novecentos gramas. Mil novecentos e noventa e nove. Leito quatro.
+triste | - | Ela parou de cantar. Olhou pra ele. Tirou os óculos. E disse: o menino do leito quatro? O que segurava meu dedo com força?
+triste | coracao: O LEITO QUATRO | Ela abraçou ele no meio da UTI, de madrugada. Os dois chorando baixinho pra não acordar os bebês.
+rindo | conversa: Você sobreviveu pra cuidar. | Ela disse: eu sempre disse que você ia sobreviver. Mas não imaginei que ia sobreviver pra cuidar dos meus bebês.
+neutra | - | Ele me contou que ela tirou do armário uma foto antiga. Um bebê minúsculo com um gorro de lã. Ela guardava foto de todos que passaram por ela.
+neutra | carro | Deixei ele em casa de manhã. Ele disse: amanhã eu vou cantar pro bebê do leito quatro. A mesma música.
+neutra | manchete_v: CUIDA | Moral da história: o cuidado que a gente recebe pequeno vira o cuidado que a gente dá grande.
+rindo | coracao: NOVECENTOS GRAMAS | E se você tem uma enfermeira, um médico, uma parteira na sua história, procura. Agradece. Eles guardam a sua foto.
