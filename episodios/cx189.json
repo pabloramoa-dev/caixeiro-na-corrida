@@ -1,0 +1,243 @@
+{
+ "id": "cx189",
+ "ep": 189,
+ "avulso": true,
+ "titulo": "O ESCRIVÃO DO AMOR",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "✍️ Na praça, um senhor escreve cartas de amor por encomenda, numa máquina de escrever de 1960. Naquele dia, o cliente pediu uma carta impossível.\n\nVocê já pediu ajuda pra escrever uma declaração de amor? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#cartas #amor #curiosidades #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "✍️ Na praça, um senhor escreve cartas de amor por encomenda, numa máquina de escrever de 1960. Naquele dia, o cliente pediu uma carta impossível. Você já pediu ajuda pra escrever uma declaração de amor? 👇\nHistória de ficção.\n#cartas #amor #curiosidades #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem que escreveu metade das declarações de amor da cidade.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "amor",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Quinta, oito da manhã. Entrou um senhor de oitenta anos, terno antigo, chapéu, e uma máquina de escrever pesada numa maleta.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 8H"
+   ],
+   "destaque": [
+    "numa",
+    "maleta."
+   ]
+  },
+  {
+   "fala": "Pediu: praça da matriz. O meu escritório. Eu perguntei: o senhor trabalha na praça? Ele: há cinquenta anos. Debaixo da mesma árvore.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Praça da matriz."
+   ],
+   "destaque": [
+    "mesma",
+    "árvore."
+   ]
+  },
+  {
+   "fala": "Seu Isaías. Escrivão público. Começou escrevendo carta pra quem não sabia escrever. Requerimento, carta pra família, documento.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ISAÍAS, ESCRIVÃO"
+   ],
+   "destaque": [
+    "família,",
+    "documento."
+   ]
+  },
+  {
+   "fala": "Disse: depois virou carta de amor. Rapaz tímido que não sabia se declarar. Marido que queria pedir desculpa. Noivo nervoso.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Depois virou carta de amor."
+   ],
+   "destaque": [
+    "Noivo",
+    "nervoso."
+   ]
+  },
+  {
+   "fala": "Contou que já escreveu mais de dez mil cartas de amor. Que tem casal com quarenta anos de casado por causa de carta dele. Que muitos nem sabem.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "sabem."
+   ]
+  },
+  {
+   "fala": "Chegamos na praça. Ele armou a mesinha dobrável debaixo de uma árvore enorme. A máquina em cima. Uma placa: cartas, requerimentos, declarações.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "requerimentos,",
+    "declarações."
+   ]
+  },
+  {
+   "fala": "Eu ia embora. Mas ele me ofreceu um café de garrafa térmica. Fiquei. E aí chegou o primeiro cliente do dia.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cliente",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Um senhor de uns setenta e cinco anos. De bengala. Sentou na cadeira de plástico na frente da máquina. Ficou um tempo calado.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "tempo",
+    "calado."
+   ]
+  },
+  {
+   "fala": "Disse: eu quero uma carta pra minha esposa. O seu Isaías: e o que o senhor quer dizer? O homem: que eu sinto falta dela. Ela faleceu mês passado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Uma carta pra minha esposa."
+   ],
+   "destaque": [
+    "mês",
+    "passado."
+   ]
+  },
+  {
+   "fala": "O seu Isaías tirou os óculos. Ficou um tempo quieto. Disse: o senhor sabe que ela não vai ler, né? O homem respondeu: eu sei. Mas eu nunca escrevi uma carta pra ela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "escrevi",
+    "carta"
+   ]
+  },
+  {
+   "fala": "Contou: cinquenta anos de casados. Nunca escreveu uma carta. Ela sempre pedia. Ele dizia que não sabia escrever bonito.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "CINQUENTA ANOS SEM CARTA"
+   ],
+   "destaque": [
+    "escrever",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "O seu Isaías colocou o papel na máquina. E começou a perguntar. Como se conheceram. O que ela gostava. O que ele não disse.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "gostava.",
+    "disse."
+   ]
+  },
+  {
+   "fala": "Uma hora de conversa. O homem falando, o seu Isaías datilografando. Tec, tec, tec. A praça passando em volta. Eu do lado, ouvindo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA HORA"
+   ],
+   "destaque": [
+    "lado,",
+    "ouvindo."
+   ]
+  },
+  {
+   "fala": "Quando terminou, o seu Isaías leu em voz alta. Era a carta mais bonita que eu já ouvi. E nenhuma palavra era dele. Todas eram do homem.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A CARTA PRONTA"
+   ],
+   "destaque": [
+    "eram",
+    "homem."
+   ]
+  },
+  {
+   "fala": "O seu Isaías disse: as palavras são suas. Eu só arrumei na linha. O homem segurou o papel com as duas mãos e chorou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu só arrumei."
+   ],
+   "destaque": [
+    "mãos",
+    "chorou."
+   ]
+  },
+  {
+   "fala": "Disse que ia levar no cemitério. Ler pra ela em voz alta. E deixar lá, numa caixinha, protegida da chuva.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A CARTA NO TÚMULO"
+   ],
+   "destaque": [
+    "protegida",
+    "chuva."
+   ]
+  },
+  {
+   "fala": "Na hora de pagar, o seu Isaías não aceitou. Disse: carta pra quem partiu eu nunca cobro. Essa é por conta da praça.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "conta",
+    "praça."
+   ]
+  },
+  {
+   "fala": "No fim do dia, voltei pra buscar o seu Isaías. Ele me contou que escreveu mais nove cartas. E que aquela foi a mais bonita em cinquenta anos.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cinquenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Moral da história: não espera alguém partir pra escrever a carta que essa pessoa sempre pediu.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCREVE AGORA"
+   ],
+   "destaque": [
+    "sempre",
+    "pediu."
+   ]
+  },
+  {
+   "fala": "E se alguém que você ama sempre pediu uma carta, escreve hoje. Nem que seja torta. Ela vai guardar pra sempre.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TEC TEC TEC"
+   ],
+   "destaque": [
+    "guardar",
+    "sempre."
+   ]
+  }
+ ]
+}

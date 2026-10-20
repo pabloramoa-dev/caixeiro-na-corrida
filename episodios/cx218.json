@@ -1,0 +1,258 @@
+{
+ "id": "cx218",
+ "ep": 218,
+ "avulso": true,
+ "titulo": "A COSTUREIRA DAS GORDINHAS",
+ "categoria": "superacao",
+ "cenario": "dia",
+ "legenda_post": "👗 Nenhuma loja tinha roupa bonita no tamanho dela. Então ela aprendeu a costurar. Hoje, aos 45, era o primeiro desfile da marca dela.\n\nVocê já teve dificuldade pra achar roupa que você gostasse? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#moda #autoestima #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👗 Nenhuma loja tinha roupa bonita no tamanho dela. Então ela aprendeu a costurar. Hoje, aos 45, era o primeiro desfile da marca dela. Você já teve dificuldade pra achar roupa que você gostasse? 👇\nHistória de ficção.\n#moda #autoestima #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma estilista que começou costurando por raiva.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "costurando",
+    "raiva."
+   ]
+  },
+  {
+   "fala": "Sábado, três da tarde. Entrou uma mulher de uns quarenta e cinco anos, vestido vermelho de estampa linda, cabelo armado e uma arara de roupas desmontada no porta-malas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 15H"
+   ],
+   "destaque": [
+    "desmontada",
+    "porta-malas."
+   ]
+  },
+  {
+   "fala": "Disse: hoje é o desfile da minha marca. O primeiro. Eu disse: que vestido bonito. Ela riu: fui eu que fiz. Tudo que eu visto, eu faço.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Desfile hoje."
+   ],
+   "destaque": [
+    "visto,",
+    "faço."
+   ]
+  },
+  {
+   "fala": "Dona Valéria. Começou a costurar aos trinta. Disse que foi por raiva. Nenhuma loja tinha roupa bonita no tamanho dela.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA VALÉRIA"
+   ],
+   "destaque": [
+    "tamanho",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Contou: eu ia nas lojas e só tinha roupa de vovó pro meu tamanho. Bege, larga, sem forma. Como se mulher gorda tivesse que se esconder.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Só tinha roupa de vovó."
+   ],
+   "destaque": [
+    "tivesse",
+    "esconder."
+   ]
+  },
+  {
+   "fala": "Disse que uma vendedora falou na cara dela: aqui não tem nada pro seu tamanho, senhora. Tenta loja de roupa grande. Ela saiu chorando.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "saiu",
+    "chorando."
+   ]
+  },
+  {
+   "fala": "Aquela noite, ela comprou uma máquina de costura usada. Aprendeu com vídeo na internet. Fez o primeiro vestido. Torto. Mas colorido.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Torto.",
+    "colorido."
+   ]
+  },
+  {
+   "fala": "Riu: aí as minhas amigas viram e pediram. Depois as amigas das amigas. Depois eu tive que alugar uma salinha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Minhas amigas pediram."
+   ],
+   "destaque": [
+    "alugar",
+    "salinha."
+   ]
+  },
+  {
+   "fala": "Quinze anos. Hoje tem um ateliê, duas costureiras e uma loja na internet. E naquele sábado, o primeiro desfile. Numa praça do centro.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "QUINZE ANOS DE COSTURA"
+   ],
+   "destaque": [
+    "praça",
+    "centro."
+   ]
+  },
+  {
+   "fala": "Perguntei: e as modelos? Ela sorriu: são minhas clientes. Mulheres reais. De todo tamanho. Nenhuma é modelo profissional.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E as modelos?"
+   ],
+   "destaque": [
+    "modelo",
+    "profissional."
+   ]
+  },
+  {
+   "fala": "Chegamos na praça. Uma passarela improvisada de tablado. Cadeiras de plástico. Uma plateia de umas duzentas pessoas. E um camarim de lona.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "camarim",
+    "lona."
+   ]
+  },
+  {
+   "fala": "Eu ajudei a montar a arara. Ela pediu pra eu ficar. Disse que precisava de alguém pra segurar a porta do camarim. Fiquei.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "camarim.",
+    "Fiquei."
+   ]
+  },
+  {
+   "fala": "O desfile começou. E as mulheres foram entrando. Gordas, magras, altas, baixas, de bengala, de cadeira de rodas. Todas de vestido colorido.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O DESFILE"
+   ],
+   "destaque": [
+    "vestido",
+    "colorido."
+   ]
+  },
+  {
+   "fala": "E elas sorriam. Um sorriso que eu nunca tinha visto em desfile de televisão. De quem nunca tinha se sentido bonita em público.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELAS SORRIAM"
+   ],
+   "destaque": [
+    "bonita",
+    "público."
+   ]
+  },
+  {
+   "fala": "Uma senhora de setenta anos desfilou de vestido amarelo e parou no meio da passarela pra mandar beijo pros netos. A praça veio abaixo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "veio",
+    "abaixo."
+   ]
+  },
+  {
+   "fala": "Aí, na plateia, a dona Valéria viu uma mulher. Ficou paralisada. Depois me contou: era a vendedora. A da loja. A que disse que não tinha nada pro tamanho dela.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A VENDEDORA"
+   ],
+   "destaque": [
+    "tamanho",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Depois do desfile, a vendedora foi até ela. Envergonhada. Disse: eu não sei se a senhora lembra de mim.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "lembra",
+    "mim."
+   ]
+  },
+  {
+   "fala": "A dona Valéria disse: eu lembro. Você mudou a minha vida. A vendedora começou a pedir desculpa. E a dona Valéria interrompeu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu lembro."
+   ],
+   "destaque": [
+    "Valéria",
+    "interrompeu."
+   ]
+  },
+  {
+   "fala": "Disse: não precisa pedir desculpa. Se você não tivesse dito aquilo, eu não teria feito nada disso. E entregou um cartão: quer trabalhar comigo? Vendendo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OBRIGADA"
+   ],
+   "destaque": [
+    "comigo?",
+    "Vendendo."
+   ]
+  },
+  {
+   "fala": "Na volta, a dona Valéria disse: quinze anos atrás eu saí chorando de uma loja. Hoje eu fiz duzentas mulheres se sentirem bonitas.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "sentirem",
+    "bonitas."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando o mundo não tem lugar pra você, costura o seu. E chama as outras.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VESTE O QUE VOCÊ QUER"
+   ],
+   "destaque": [
+    "chama",
+    "outras."
+   ]
+  },
+  {
+   "fala": "E se alguém te disse que não tem nada pro seu tamanho, procura uma dona Valéria. Ou vira uma.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DESFILE REAL"
+   ],
+   "destaque": [
+    "Ou",
+    "vira"
+   ]
+  }
+ ]
+}

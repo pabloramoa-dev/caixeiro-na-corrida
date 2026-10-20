@@ -1,0 +1,243 @@
+{
+ "id": "cx204",
+ "ep": 204,
+ "avulso": true,
+ "titulo": "A MESTRE DE OBRAS",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "👷‍♀️ Os peões riam quando ela chegava na obra. Hoje ela é mestre de obras e entregava o primeiro prédio. Os peões que riam estavam na festa.\n\nVocê conhece uma mulher que trabalha numa profissão \"de homem\"? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#mulheres #construcao #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👷‍♀️ Os peões riam quando ela chegava na obra. Hoje ela é mestre de obras e entregava o primeiro prédio. Os peões que riam estavam na festa. Você conhece uma mulher que trabalha numa profissão \"de homem\"? 👇\nHistória de ficção.\n#mulheres #construcao #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a mestre de obras mais respeitada da cidade. De capacete rosa.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "capacete",
+    "rosa."
+   ]
+  },
+  {
+   "fala": "Sexta, cinco da tarde. Entrou uma mulher de uns quarenta anos, botina de obra, calça jeans com respingo de cimento e um capacete rosa no colo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 17H"
+   ],
+   "destaque": [
+    "rosa",
+    "colo."
+   ]
+  },
+  {
+   "fala": "Disse: hoje eu entrego o meu primeiro prédio. Oito andares. Como mestre de obras. Eu disse: parabéns, chefe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje eu entrego o prédio."
+   ],
+   "destaque": [
+    "parabéns,",
+    "chefe."
+   ]
+  },
+  {
+   "fala": "Dona Rose. Começou como servente de pedreiro aos vinte e cinco, depois de ficar desempregada. Única mulher na obra.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA ROSE, MESTRE DE OBRAS"
+   ],
+   "destaque": [
+    "mulher",
+    "obra."
+   ]
+  },
+  {
+   "fala": "Contou: no primeiro dia, os peões riram. Disseram que eu ia durar uma semana. Que mulher não aguenta carregar saco de cimento.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eles riam de mim."
+   ],
+   "destaque": [
+    "saco",
+    "cimento."
+   ]
+  },
+  {
+   "fala": "Disse que escondiam a ferramenta dela. Davam o serviço mais pesado de propósito. Faziam piada o dia inteiro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dia",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "Riu: então eu carregava dois sacos. De propósito. Na frente deles. Até pararem de rir.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu carregava dois sacos."
+   ],
+   "destaque": [
+    "pararem",
+    "rir."
+   ]
+  },
+  {
+   "fala": "Aprendeu tudo. Massa, reboco, tijolo, laje, armação. Fez curso técnico à noite. Virou pedreira. Depois encarregada. Depois mestre de obras.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mestre",
+    "obras."
+   ]
+  },
+  {
+   "fala": "O capacete rosa ela comprou no primeiro dia como mestre. Disse que era pra ninguém esquecer quem estava mandando.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O CAPACETE ROSA"
+   ],
+   "destaque": [
+    "estava",
+    "mandando."
+   ]
+  },
+  {
+   "fala": "Chegamos no prédio. Novinho. Oito andares, tinta fresca, jardim na entrada. Faixa: entrega das chaves. E uma festinha no salão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "festinha",
+    "salão."
+   ]
+  },
+  {
+   "fala": "E lá dentro, uns trinta peões. De roupa limpa, cabelo penteado. A equipe dela. Alguns com mais de cinquenta anos.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "cinquenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ela me mostrou dois senhores. Disse baixinho: esses dois eram os que mais riam de mim, vinte anos atrás. Hoje são da minha equipe.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "OS QUE RIAM"
+   ],
+   "destaque": [
+    "minha",
+    "equipe."
+   ]
+  },
+  {
+   "fala": "Os dois vieram cumprimentar. Um deles, seu Geraldo, tirou o boné e pediu a palavra. No meio da festa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "festa."
+   ]
+  },
+  {
+   "fala": "Disse: eu quero falar uma coisa. Vinte anos atrás, eu ri dessa mulher. Disse que ela não ia aguentar uma semana. A gente estava errado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente estava errado."
+   ],
+   "destaque": [
+    "estava",
+    "errado."
+   ]
+  },
+  {
+   "fala": "E a equipe deu um presente. Uma trena de metal, gravada: Dona Rose, a mestre. Da sua equipe, que aprendeu com você.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O PRESENTE DOS PEÕES"
+   ],
+   "destaque": [
+    "aprendeu",
+    "você."
+   ]
+  },
+  {
+   "fala": "O seu Geraldo completou: em quarenta anos de obra, ela é a melhor chefe que eu já tive. Não tem um tijolo torto nesse prédio.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MELHOR CHEFE"
+   ],
+   "destaque": [
+    "nesse",
+    "prédio."
+   ]
+  },
+  {
+   "fala": "A dona Rose chorou de capacete rosa. Os peões aplaudiram. Os moradores novos, que chegavam com as caixas de mudança, aplaudiram junto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "aplaudiram",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Aí uma menina de uns oito anos, filha de uma moradora, chegou perto e perguntou: moça, mulher pode construir prédio? A dona Rose deu o capacete pra ela experimentar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "capacete",
+    "experimentar."
+   ]
+  },
+  {
+   "fala": "Na volta, ela disse: vinte anos atrás eu chorava no banheiro da obra. Hoje eu chorei na frente de todo mundo. Mas de alegria.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mundo.",
+    "alegria."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando duvidarem de você, não discute. Carrega dois sacos. E constrói um prédio.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CARREGA DOIS SACOS"
+   ],
+   "destaque": [
+    "constrói",
+    "prédio."
+   ]
+  },
+  {
+   "fala": "E se você conhece uma menina que quer fazer algo que dizem que não é pra ela, mostra a dona Rose. É pra ela sim.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CAPACETE ROSA"
+   ],
+   "destaque": [
+    "Rose.",
+    "sim."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "id": "cx176",
+ "ep": 176,
+ "avulso": true,
+ "titulo": "A VOLTA PRA TERRA NATAL",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "✈️ Ela saiu da cidade natal aos 20 e nunca voltou. Aos 85, a neta comprou duas passagens de avião. Primeira vez dela num avião.\n\nVocê ainda tem vontade de visitar a cidade onde nasceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #viagem #terranatal #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "✈️ Ela saiu da cidade natal aos 20 e nunca voltou. Aos 85, a neta comprou duas passagens de avião. Primeira vez dela num avião. Você ainda tem vontade de visitar a cidade onde nasceu? 👇\nHistória de ficção.\n#avo #viagem #terranatal #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi o começo de uma viagem de sessenta e cinco anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "cinco",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Quinta, cinco da manhã. Entrou uma senhora de oitenta e cinco anos, vestido de domingo, chapéu, uma mala de couro antiga, e a neta de uns trinta, com uma mochila.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 5H"
+   ],
+   "destaque": [
+    "trinta,",
+    "mochila."
+   ]
+  },
+  {
+   "fala": "A neta disse: aeroporto. É a primeira vez da vó num avião. A avó segurou no meu banco: e a última, se esse negócio balançar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeira vez de avião."
+   ],
+   "destaque": [
+    "negócio",
+    "balançar."
+   ]
+  },
+  {
+   "fala": "Dona Benedita. Nasceu numa cidadezinha do interior de outro estado. Saiu aos vinte, pra trabalhar de doméstica na cidade grande. Nunca mais voltou.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA BENEDITA"
+   ],
+   "destaque": [
+    "mais",
+    "voltou."
+   ]
+  },
+  {
+   "fala": "Disse: primeiro eu não tinha dinheiro. Depois tinha os filhos. Depois os netos. Depois eu achei que já estava velha demais.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Nunca tive dinheiro."
+   ],
+   "destaque": [
+    "velha",
+    "demais."
+   ]
+  },
+  {
+   "fala": "A neta juntou dinheiro um ano. E deu as passagens de presente de aniversário. Ida e volta. Uma semana na terra dela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "terra",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: a senhora ainda tem alguém lá? Ela pensou: uma irmã. A Zefinha. A gente se fala por carta. Ela não usa telefone.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Ainda tem alguém lá?"
+   ],
+   "destaque": [
+    "usa",
+    "telefone."
+   ]
+  },
+  {
+   "fala": "Sessenta e cinco anos de carta. Uma por mês. Mais de setecentas cartas. A neta disse que a avó guarda todas numa caixa de sapato.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "caixa",
+    "sapato."
+   ]
+  },
+  {
+   "fala": "Chegamos no aeroporto. A dona Benedita olhando tudo com os olhos arregalados. As esteiras, os painéis, os aviões pela janela.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "pela",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Eu ajudei com a mala até o check-in. Ela segurou meu braço e disse: o senhor vem buscar a gente na volta? Eu disse: venho. Combinado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "venho.",
+    "Combinado."
+   ]
+  },
+  {
+   "fala": "Uma semana depois, eu busquei as duas no aeroporto. E no caminho, a neta me contou tudo. Mostrando vídeo no celular.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA SEMANA DEPOIS"
+   ],
+   "destaque": [
+    "vídeo",
+    "celular."
+   ]
+  },
+  {
+   "fala": "Disse que a cidade tinha mudado. A rua de terra virou asfalto. A casa da família virou uma farmácia. A avó ficou parada na calçada.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A CIDADE MUDOU"
+   ],
+   "destaque": [
+    "parada",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Mas aí, na pracinha, uma senhora de oitenta e dois anos, sentada num banco, levantou a cabeça. Era a Zefinha.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Era",
+    "Zefinha."
+   ]
+  },
+  {
+   "fala": "As duas se olharam. Sessenta e cinco anos. E a Zefinha disse: Benedita? Você tá velha. E a Benedita: e você tá igual a mãe.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "AS DUAS IRMÃS"
+   ],
+   "destaque": [
+    "igual",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "Se abraçaram no meio da praça. A cidade inteira parou. Porque todo mundo conhecia a Zefinha e as cartas da irmã que morava longe.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "morava",
+    "longe."
+   ]
+  },
+  {
+   "fala": "A Zefinha também tinha uma caixa de sapato. Com as setecentas cartas da Benedita. As duas abriram as caixas na mesa da cozinha.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CAIXA DE CARTAS"
+   ],
+   "destaque": [
+    "mesa",
+    "cozinha."
+   ]
+  },
+  {
+   "fala": "Passaram a semana lendo as cartas uma da outra em voz alta. Rindo, chorando. Relembrando a vida inteira que viveram longe.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SETECENTAS CARTAS"
+   ],
+   "destaque": [
+    "viveram",
+    "longe."
+   ]
+  },
+  {
+   "fala": "A neta disse que a avó fez tudo na viagem. Tomou banho de rio. Comeu doce de buriti. Dançou forró na praça. Com oitenta e cinco anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "cinco",
+    "anos."
+   ]
+  },
+  {
+   "fala": "No carro, na volta, a dona Benedita dormiu com a cabeça no ombro da neta. Segurando uma carta nova. A primeira entregue em mãos em sessenta e cinco anos.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cinco",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra voltar pro lugar de onde a gente veio. Ele guarda a gente.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA PRA CASA"
+   ],
+   "destaque": [
+    "guarda",
+    "gente."
+   ]
+  },
+  {
+   "fala": "E se sua avó fala da terra dela, pergunta se ela quer voltar. Pode ser o melhor presente da vida dela.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA BENEDITA"
+   ],
+   "destaque": [
+    "vida",
+    "dela."
+   ]
+  }
+ ]
+}

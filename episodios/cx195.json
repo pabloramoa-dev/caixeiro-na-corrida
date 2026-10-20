@@ -1,0 +1,267 @@
+{
+ "id": "cx195",
+ "ep": 195,
+ "avulso": true,
+ "titulo": "A VÓ DO BOLÃO",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "🔮 A avó de 86 anos acerta o placar de todo jogo do bolão da família. Dez anos seguidos. Na final, todo mundo copiou o palpite dela.\n\nQuem é o pé-quente do bolão da sua família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #bolao #avo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🔮 A avó de 86 anos acerta o placar de todo jogo do bolão da família. Dez anos seguidos. Na final, todo mundo copiou o palpite dela. Quem é o pé-quente do bolão da sua família? 👇\nHistória de ficção.\n#futebol #bolao #avo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a maior vidente do futebol brasileiro. Ela usa tricô e não assiste aos jogos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "aos",
+    "jogos."
+   ]
+  },
+  {
+   "fala": "Domingo, três da tarde. Entrou uma família de cinco no meu carro. Pai, mãe, dois adolescentes e uma avó de oitenta e seis anos, com um tricô no colo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 15H"
+   ],
+   "destaque": [
+    "tricô",
+    "colo."
+   ]
+  },
+  {
+   "fala": "O neto disse: hoje a vó vai ganhar de novo. A avó, sem tirar os olhos do tricô: vou. Dois a um.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje a vó vai ganhar de novo."
+   ],
+   "destaque": [
+    "vou.",
+    "Dois"
+   ]
+  },
+  {
+   "fala": "Dona Nair. Há dez anos ganha o bolão da família. Trinta pessoas apostando. E ela acerta o placar exato de quase todo jogo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA NAIR, A VIDENTE"
+   ],
+   "destaque": [
+    "todo",
+    "jogo."
+   ]
+  },
+  {
+   "fala": "A filha explicou: ela nem assiste. Fica tricotando na cozinha. Quando acaba o jogo, pergunta: deu quanto? E já sabia.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela nem assiste."
+   ],
+   "destaque": [
+    "já",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: qual o segredo, dona Nair? Ela parou o tricô. Olhou pra mim pelo retrovisor. Disse: o ponto do tricô.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Qual o segredo?"
+   ],
+   "destaque": [
+    "ponto",
+    "tricô."
+   ]
+  },
+  {
+   "fala": "Explicou: quando o jogo começa, eu começo uma carreira. Se o ponto sai certinho, o time da casa ganha. Se embola, empate. Se eu erro o ponto, é zebra.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ponto,",
+    "zebra."
+   ]
+  },
+  {
+   "fala": "A família inteira riu. O genro disse: ninguém entende. Mas funciona. Ela acertou a Copa do Mundo inteira há quatro anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "quatro",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Aquele era o jogo da final do campeonato estadual. E o bolão estava acumulado. A família ia assistir na casa de um tio.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A FINAL"
+   ],
+   "destaque": [
+    "casa",
+    "tio."
+   ]
+  },
+  {
+   "fala": "E todo mundo, todo mundo, tinha copiado o palpite dela. Dois a um. Trinta pessoas. O mesmo placar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "placar."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e se todo mundo acertar, como divide? A neta riu: aí ninguém ganha nada. Mas pelo menos ninguém perde pra vó.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se todo mundo acertar?"
+   ],
+   "destaque": [
+    "perde",
+    "vó."
+   ]
+  },
+  {
+   "fala": "Chegamos na casa do tio. Quintal cheio, churrasqueira acesa, televisão grande na varanda. Me chamaram pra entrar. Era final, eu fiquei.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "final,",
+    "fiquei."
+   ]
+  },
+  {
+   "fala": "O jogo começou. A dona Nair na cozinha, tricotando. Todo mundo na varanda gritando. Eu num banquinho, comendo pão de alho.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O JOGO"
+   ],
+   "destaque": [
+    "pão",
+    "alho."
+   ]
+  },
+  {
+   "fala": "Primeiro tempo: um a zero. Segundo tempo: dois a zero. Todo mundo começou a ficar nervoso. Dois a zero não era o palpite.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "era",
+    "palpite."
+   ]
+  },
+  {
+   "fala": "Aí a neta foi até a cozinha. Voltou correndo: gente, a vó errou um ponto! Ela errou um ponto no tricô!",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ponto",
+    "tricô!"
+   ]
+  },
+  {
+   "fala": "Aos quarenta do segundo tempo, gol do time de fora. Dois a um. A varanda explodiu. Trinta pessoas acertando o placar ao mesmo tempo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "GOL DE ZEBRA"
+   ],
+   "destaque": [
+    "mesmo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "A dona Nair apareceu na porta da cozinha com o tricô na mão. Disse: eu sabia que tinha um ponto errado. Sempre tem.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Sempre",
+    "tem."
+   ]
+  },
+  {
+   "fala": "Trinta pessoas acertaram. O bolão foi dividido por trinta. Cada um ganhou o equivalente a um pão de alho. A família riu até chorar.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "TRINTA VENCEDORES"
+   ],
+   "destaque": [
+    "até",
+    "chorar."
+   ]
+  },
+  {
+   "fala": "Eu perguntei, curioso, pra quem era o tricô. Ela mostrou. Um cachecol. Do time. Comprido. Com a data de cada jogo que ela acertou bordada.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O tricô é pra quem?"
+   ],
+   "destaque": [
+    "acertou",
+    "bordada."
+   ]
+  },
+  {
+   "fala": "Dez anos de jogos. Um cachecol de quatro metros. Ela disse que vai dar pro bisneto quando ele nascer. Com a história de cada ponto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DEZ ANOS DE CACHECOL"
+   ],
+   "destaque": [
+    "cada",
+    "ponto."
+   ]
+  },
+  {
+   "fala": "Na volta, ela me deu um pedaço de lã do time. Disse que dá sorte no trânsito. Tá pendurado no meu retrovisor, junto com o terço.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "junto",
+    "terço."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem sabedoria que nenhuma estatística explica. Às vezes ela está num ponto de tricô.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONFIA NA VÓ"
+   ],
+   "destaque": [
+    "ponto",
+    "tricô."
+   ]
+  },
+  {
+   "fala": "E se a sua avó tem um palpite, escuta. Ela já viu mais jogo da vida do que qualquer comentarista.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA NAIR"
+   ],
+   "destaque": [
+    "qualquer",
+    "comentarista."
+   ]
+  }
+ ]
+}

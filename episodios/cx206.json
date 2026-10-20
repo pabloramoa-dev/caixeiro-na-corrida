@@ -1,0 +1,260 @@
+{
+ "id": "cx206",
+ "ep": 206,
+ "avulso": true,
+ "titulo": "A MOÇA DO CARTÓRIO",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "💍 Em 30 anos de cartório, ela registrou mais de 5 mil casamentos. Nunca casou. Até o noivo da vez ser alguém que ela não esperava.\n\nVocê acredita que o amor chega quando a gente menos espera? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #cartorio #casamento #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💍 Em 30 anos de cartório, ela registrou mais de 5 mil casamentos. Nunca casou. Até o noivo da vez ser alguém que ela não esperava. Você acredita que o amor chega quando a gente menos espera? 👇\nHistória de ficção.\n#amor #cartorio #casamento #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a oficial de cartório mais romântica que eu já conheci. E a mais solteira.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mais",
+    "solteira."
+   ]
+  },
+  {
+   "fala": "Sexta, oito da manhã. Entrou uma senhora de uns cinquenta e cinco anos, coque, óculos de corrente e uma pasta de documentos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 8H"
+   ],
+   "destaque": [
+    "pasta",
+    "documentos."
+   ]
+  },
+  {
+   "fala": "Pediu: cartório de registro civil, no centro. Trabalho lá. Eu disse: deve ver muito casamento. Ela: cinco mil. Mais ou menos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cartório de registro civil."
+   ],
+   "destaque": [
+    "ou",
+    "menos."
+   ]
+  },
+  {
+   "fala": "Dona Heloísa. Trinta anos no cartório. Registrou mais de cinco mil casamentos. Conhece todos os tipos de noivo nervoso.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA HELOÍSA"
+   ],
+   "destaque": [
+    "noivo",
+    "nervoso."
+   ]
+  },
+  {
+   "fala": "Contou do noivo que desmaiou. Da noiva que chegou de pijama. Do casal de noventa anos. Do casal que casou e separou no mesmo mês.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e a senhora, já casou? Ela riu: eu? Não. Nunca deu tempo. Eu caso os outros.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E a senhora?"
+   ],
+   "destaque": [
+    "caso",
+    "outros."
+   ]
+  },
+  {
+   "fala": "Disse que teve um namorado na juventude. Mas ele foi embora trabalhar fora e eles perderam contato. Depois disso, ela se dedicou ao trabalho.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dedicou",
+    "trabalho."
+   ]
+  },
+  {
+   "fala": "Contou que naquela sexta tinha um casamento às dez. De um casal de idosos. Ela gostava dos casamentos de idoso. Dizia que eram os mais bonitos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "bonitos."
+   ]
+  },
+  {
+   "fala": "Deixei ela no cartório. Às nove e cinquenta, o aplicativo me mandou outra corrida. Pro mesmo cartório. Um senhor de terno, sozinho, com um buquê.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "sozinho,",
+    "buquê."
+   ]
+  },
+  {
+   "fala": "Perguntei: o senhor é o noivo do casamento das dez? Ele riu nervoso: não. Eu sou o padrinho. O noivo é o meu irmão.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O senhor é o noivo?"
+   ],
+   "destaque": [
+    "meu",
+    "irmão."
+   ]
+  },
+  {
+   "fala": "Seu Rubens. Sessenta anos. Veio de outro estado pro casamento do irmão. Disse que não pisava naquela cidade fazia trinta e cinco anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cinco",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Chegamos. Ele desceu com o buquê. Pediu pra eu esperar, porque ia precisar voltar pro hotel. Eu esperei. Entrei pra tomar água.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "tomar",
+    "água."
+   ]
+  },
+  {
+   "fala": "Lá dentro, na mesa do cartório, a dona Heloísa organizando os papéis. O seu Rubens entrou, ela levantou os olhos. E os dois pararam.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "pararam."
+   ]
+  },
+  {
+   "fala": "Ela tirou os óculos. Ele quase derrubou o buquê. E falou: Heloísa? E ela: Rubens? Era o namorado. O de trinta e cinco anos antes.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA ELE"
+   ],
+   "destaque": [
+    "anos",
+    "antes."
+   ]
+  },
+  {
+   "fala": "Ninguém no cartório entendeu nada. O casal de noivos idosos olhando. A dona Heloísa sentou de novo. Respirou fundo. Disse: vamos casar seu irmão primeiro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "irmão",
+    "primeiro."
+   ]
+  },
+  {
+   "fala": "Ela fez a cerimônia. A voz tremendo um pouquinho. O seu Rubens de padrinho, olhando pra ela o tempo todo. Ela evitando olhar pra ele.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O CASAMENTO DO IRMÃO"
+   ],
+   "destaque": [
+    "evitando",
+    "olhar"
+   ]
+  },
+  {
+   "fala": "No fim, ele foi até a mesa dela. Disse: eu escrevi. Três cartas. Elas voltaram. Endereço errado. Eu achei que você não queria.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Você nunca escreveu."
+   ],
+   "destaque": [
+    "você",
+    "queria."
+   ]
+  },
+  {
+   "fala": "Ela disse: eu mudei de casa naquele ano. Ninguém me avisou que tinha carta. Trinta e cinco anos achando que você esqueceu.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "AS CARTAS QUE VOLTARAM"
+   ],
+   "destaque": [
+    "você",
+    "esqueceu."
+   ]
+  },
+  {
+   "fala": "Ele tirou da carteira uma das cartas. Guardada trinta e cinco anos. Envelope amarelado, carimbo de devolvido. Entregou pra ela.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "devolvido.",
+    "Entregou"
+   ]
+  },
+  {
+   "fala": "Eu levei o seu Rubens pro hotel. E à noite, levei os dois pra jantar. Ela de vestido. Ele com o buquê do casamento do irmão.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "casamento",
+    "irmão."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, eu fui num casamento naquele cartório. Quem fez a cerimônia foi uma colega. A noiva era a dona Heloísa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dona",
+    "Heloísa."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o amor só se perdeu no endereço. Ele volta. Nem que seja trinta e cinco anos depois.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "O AMOR VOLTA"
+   ],
+   "destaque": [
+    "anos",
+    "depois."
+   ]
+  },
+  {
+   "fala": "E se você perdeu contato com alguém importante, procura. As cartas podem ter voltado sem você saber.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CINCO MIL E UM"
+   ],
+   "destaque": [
+    "você",
+    "saber."
+   ]
+  }
+ ]
+}

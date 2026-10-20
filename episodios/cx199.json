@@ -1,0 +1,252 @@
+{
+ "id": "cx199",
+ "ep": 199,
+ "avulso": true,
+ "titulo": "O MUSEU NA GARAGEM",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🏛️ Ele transformou a garagem num museu do bairro. Cada objeto doado por um vizinho, com a história escrita do lado. A escola foi visitar.\n\nQue objeto da sua família merecia estar num museu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#museu #bairro #memoria #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏛️ Ele transformou a garagem num museu do bairro. Cada objeto doado por um vizinho, com a história escrita do lado. A escola foi visitar. Que objeto da sua família merecia estar num museu? 👇\nHistória de ficção.\n#museu #bairro #memoria #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma turma de escola pro museu mais pequeno da cidade. E mais bonito.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mais",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "Quarta, nove da manhã. Uma professora me chamou com outros quatro motoristas. Precisava levar vinte crianças numa excursão. Pertinho. Dois quilômetros.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 9H"
+   ],
+   "destaque": [
+    "Dois",
+    "quilômetros."
+   ]
+  },
+  {
+   "fala": "Disse o destino: museu do seu Neném. Eu nunca tinha ouvido falar. Ela riu: ninguém ouviu. É uma garagem.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Museu do Seu Neném."
+   ],
+   "destaque": [
+    "ouviu.",
+    "garagem."
+   ]
+  },
+  {
+   "fala": "Seu Neném. Setenta e cinco anos. Há quinze anos, transformou a garagem de casa num museu. O museu do bairro. Entrada franca.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O MUSEU DA GARAGEM"
+   ],
+   "destaque": [
+    "Entrada",
+    "franca."
+   ]
+  },
+  {
+   "fala": "Levei quatro crianças no meu carro. Iam perguntando: museu tem dinossauro? Tem múmia? Tem espada? A professora ria: tem coisa melhor.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "coisa",
+    "melhor."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa simples. Portão de garagem aberto. Uma placa pintada à mão: Museu da Vila Esperança. Aqui mora a nossa história.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "nossa",
+    "história."
+   ]
+  },
+  {
+   "fala": "Lá dentro, prateleiras de madeira. Cheias de objetos. Cada um com um cartãozinho do lado, escrito à mão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "à",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Uma panela de pressão: da dona Cida, que fez feijão pra rua inteira na enchente de oitenta e oito. Um rádio: do seu Tião, que ouvia jogo na calçada.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "OS OBJETOS"
+   ],
+   "destaque": [
+    "jogo",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Um par de chuteiras: do primeiro jogador do bairro que virou profissional. Um vestido de noiva: da primeira moradora da vila, de mil novecentos e sessenta.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "novecentos",
+    "sessenta."
+   ]
+  },
+  {
+   "fala": "Uma bicicleta de carteiro. Uma máquina de costura. Um tijolo da primeira casa. Uma bola de capotão. Um caderno da primeira escola.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "escola."
+   ]
+  },
+  {
+   "fala": "O seu Neném explicou pras crianças: tudo isso foi doado pelos vizinhos. Cada coisa tem uma história. A história é mais importante que a coisa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tudo foi doado."
+   ],
+   "destaque": [
+    "importante",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "As crianças passeavam lendo os cartões. Perguntando. Uma menina parou na frente de um par de óculos antigo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "óculos",
+    "antigo."
+   ]
+  },
+  {
+   "fala": "Ela gritou: professora! Esse óculos é do meu bisavô! Tá escrito o nome dele! O seu Neném se abaixou do lado dela.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Esse é do meu bisavô!"
+   ],
+   "destaque": [
+    "lado",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ele contou: seu bisavô era o fotógrafo da vila. Tirou foto de todo casamento, todo batizado, toda formatura. Por quarenta anos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O BISAVÔ DA MENINA"
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "E mostrou uma parede. Coberta de fotos antigas. Todas tiradas pelo bisavô dela. A vila inteira, em preto e branco.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "preto",
+    "branco."
+   ]
+  },
+  {
+   "fala": "E no meio, uma foto de casamento. A menina reconheceu: é a minha vó! Casando! O bisavô fotografou o casamento da própria filha.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FOTO DA AVÓ"
+   ],
+   "destaque": [
+    "própria",
+    "filha."
+   ]
+  },
+  {
+   "fala": "A menina ficou parada olhando. Depois virou pras outras crianças e disse, orgulhosa: o meu bisavô fez esse museu também. Com foto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MENINA E A HISTÓRIA"
+   ],
+   "destaque": [
+    "também.",
+    "foto."
+   ]
+  },
+  {
+   "fala": "Aí todas as crianças começaram a procurar. Se tinha alguma coisa da família delas. Três acharam. Ficaram eufóricas.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Ficaram",
+    "eufóricas."
+   ]
+  },
+  {
+   "fala": "No final, o seu Neném pediu: perguntem pros avós de vocês. Se eles têm alguma coisa com história. O museu ainda tem espaço.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O PEDIDO DO SEU NENÉM"
+   ],
+   "destaque": [
+    "tem",
+    "espaço."
+   ]
+  },
+  {
+   "fala": "Na semana seguinte, o museu recebeu trinta e duas doações novas. Das famílias das crianças. A professora me mandou a foto.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mandou",
+    "foto."
+   ]
+  },
+  {
+   "fala": "Moral da história: o bairro também tem história. Só precisa de alguém que escreva o cartãozinho do lado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "GUARDA A HISTÓRIA"
+   ],
+   "destaque": [
+    "cartãozinho",
+    "lado."
+   ]
+  },
+  {
+   "fala": "E se a sua família tem um objeto antigo, escreve a história dele num papel. Guarda junto. Daqui a cem anos, vai valer ouro.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MUSEU DA VILA"
+   ],
+   "destaque": [
+    "valer",
+    "ouro."
+   ]
+  }
+ ]
+}

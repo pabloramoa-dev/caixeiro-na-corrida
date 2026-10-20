@@ -1,0 +1,255 @@
+{
+ "id": "cx216",
+ "ep": 216,
+ "avulso": true,
+ "titulo": "OS VIZINHOS DE LOJA",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "🧵 A costureira e o alfaiate tinham lojas lado a lado e eram rivais há 15 anos. Uma enchente obrigou os dois a dividir a mesma sala.\n\nVocê já se apaixonou por alguém de quem não gostava no começo? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #rivais #costura #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧵 A costureira e o alfaiate tinham lojas lado a lado e eram rivais há 15 anos. Uma enchente obrigou os dois a dividir a mesma sala. Você já se apaixonou por alguém de quem não gostava no começo? 👇\nHistória de ficção.\n#amor #rivais #costura #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma máquina de costura e um coração costurado ao contrário.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "costurado",
+    "contrário."
+   ]
+  },
+  {
+   "fala": "Segunda, nove da manhã. Peguei uma mulher de uns cinquenta anos com uma máquina de costura no colo. Pesada. Antiga. E muita linha na bolsa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 9H"
+   ],
+   "destaque": [
+    "linha",
+    "bolsa."
+   ]
+  },
+  {
+   "fala": "Disse: rua do comércio, número doze. Eu vou trabalhar na loja do inimigo. Eu perguntei: inimigo? Ela riu: o alfaiate.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Rua do comércio, número 12."
+   ],
+   "destaque": [
+    "riu:",
+    "alfaiate."
+   ]
+  },
+  {
+   "fala": "Dona Célia, costureira. Seu Otávio, alfaiate. Lojas lado a lado havia quinze anos. E quinze anos de guerra.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA CÉLIA E SEU OTÁVIO"
+   ],
+   "destaque": [
+    "anos",
+    "guerra."
+   ]
+  },
+  {
+   "fala": "Ela fazia barra, ele fazia barra. Ela reformava vestido, ele reformava terno. Disputavam cliente na calçada. Ela baixava o preço, ele baixava mais.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "baixava",
+    "mais."
+   ]
+  },
+  {
+   "fala": "Contou: ele roubou minha melhor cliente em dois mil e quinze. Eu nunca perdoei. Ele diz que foi ela que escolheu. Mentira.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele roubou minha cliente."
+   ],
+   "destaque": [
+    "escolheu.",
+    "Mentira."
+   ]
+  },
+  {
+   "fala": "Mas na semana anterior, uma enchente encheu a loja dela de água. Tudo perdido. Tecido, linha, prateleira. Só a máquina se salvou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "máquina",
+    "salvou."
+   ]
+  },
+  {
+   "fala": "E o seu Otávio, que estava no segundo andar, foi o único que apareceu pra ajudar. E ofereceu: pode trabalhar na minha sala até arrumar a sua.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele ofereceu a sala dele."
+   ],
+   "destaque": [
+    "arrumar",
+    "sua."
+   ]
+  },
+  {
+   "fala": "Chegamos. A loja dela fechada, com a marca da água na parede. A loja dele aberta. Ele na porta, de terno, esperando.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "terno,",
+    "esperando."
+   ]
+  },
+  {
+   "fala": "Eu ajudei a levar a máquina pro lado de dentro. Uma sala pequena, com espelho de corpo inteiro, manequim e duas mesas. Ele tinha arrumado uma pra ela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "arrumado"
+   ]
+  },
+  {
+   "fala": "Depois a dona Célia me chamou mais vezes. Pra levar e buscar. E foi me contando a novela da primeira semana.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A PRIMEIRA SEMANA"
+   ],
+   "destaque": [
+    "primeira",
+    "semana."
+   ]
+  },
+  {
+   "fala": "Primeiro dia: não se falaram. Segundo dia: brigaram pela tomada. Terceiro dia: ele pediu emprestada uma linha vermelha. Ela emprestou. Resmungando.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "emprestou.",
+    "Resmungando."
+   ]
+  },
+  {
+   "fala": "Quarto dia, ela me contou: ele faz um café horrível. Eu fiz um decente. Ele tomou três xícaras e não reclamou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele faz um café horrível."
+   ],
+   "destaque": [
+    "xícaras",
+    "reclamou."
+   ]
+  },
+  {
+   "fala": "Quinto dia: uma cliente chegou com um vestido de noiva rasgado. Urgente. Casamento no dia seguinte. Era serviço pra duas pessoas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "duas",
+    "pessoas."
+   ]
+  },
+  {
+   "fala": "Os dois trabalharam juntos a noite inteira. Ele na estrutura, ela no bordado. Ele cortando, ela costurando. Até as quatro da manhã.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O VESTIDO DE NOIVA"
+   ],
+   "destaque": [
+    "quatro",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "De madrugada, com o vestido pronto no manequim, ele disse: a gente faz um bom par, Célia. Ela respondeu: de costura, você quer dizer. Ele: de costura também.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente faz um bom par."
+   ],
+   "destaque": [
+    "costura",
+    "também."
+   ]
+  },
+  {
+   "fala": "E aí ele confessou. A cliente de dois mil e quinze. Ele não roubou. Ele mandou a mulher pra loja dele porque queria ter motivo pra Célia ir lá brigar com ele.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CLIENTE DE 2015"
+   ],
+   "destaque": [
+    "lá",
+    "brigar"
+   ]
+  },
+  {
+   "fala": "A dona Célia me contou isso no carro, rindo e indignada ao mesmo tempo. Disse: quinze anos, moço. Quinze anos ele arrumando briga pra me ver.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "briga",
+    "ver."
+   ]
+  },
+  {
+   "fala": "A loja dela foi reformada. Mas ela não voltou. Hoje a placa da loja diz: Célia e Otávio, costura e alfaiataria. Uma loja só.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "COSTURA A DOIS"
+   ],
+   "destaque": [
+    "loja",
+    "só."
+   ]
+  },
+  {
+   "fala": "Eu levei os dois no cartório seis meses depois. Ela de vestido que ela fez. Ele de terno que ele fez. Os dois reclamando da barra um do outro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "barra",
+    "outro."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes quem mais briga com a gente só está procurando um motivo pra chegar perto.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OLHA DE PERTO"
+   ],
+   "destaque": [
+    "chegar",
+    "perto."
+   ]
+  },
+  {
+   "fala": "E se você tem um rival que vive puxando briga, repara. Pode ser só falta de coragem de chamar pra um café.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CÉLIA E OTÁVIO"
+   ],
+   "destaque": [
+    "chamar",
+    "café."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "id": "cx188",
+ "ep": 188,
+ "avulso": true,
+ "titulo": "O MENINO DO LIXÃO",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "♻️ Aos 10 anos ele catava material reciclável no lixão. Hoje, aos 30, formado em engenharia ambiental, ia apresentar o projeto que fechou aquele lixão.\n\nQuem você conhece que transformou a própria dor em solução? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #engenharia #meioambiente #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "♻️ Aos 10 anos ele catava material reciclável no lixão. Hoje, aos 30, formado em engenharia ambiental, ia apresentar o projeto que fechou aquele lixão. Quem você conhece que transformou a própria dor em solução? 👇\nHistória de ficção.\n#superacao #engenharia #meioambiente #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um engenheiro de volta pro lugar onde ele aprendeu o valor de tudo que se joga fora.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "joga",
+    "fora."
+   ]
+  },
+  {
+   "fala": "Quarta, cinco da tarde. Entrou um homem de uns trinta anos, terno azul, crachá da prefeitura e uma pasta de projeto debaixo do braço.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 17H"
+   ],
+   "destaque": [
+    "debaixo",
+    "braço."
+   ]
+  },
+  {
+   "fala": "Pediu: antigo lixão da zona norte, por favor. Eu estranhei: de terno? Ele sorriu: é a inauguração do parque.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Antigo lixão, por favor."
+   ],
+   "destaque": [
+    "inauguração",
+    "parque."
+   ]
+  },
+  {
+   "fala": "Explicou: o lixão a céu aberto da cidade foi fechado. E no lugar, depois de anos de recuperação, ia ser inaugurado um parque. Com árvore, lago, quadra.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O LIXÃO VIROU PARQUE"
+   ],
+   "destaque": [
+    "lago,",
+    "quadra."
+   ]
+  },
+  {
+   "fala": "E ele era o engenheiro responsável pelo projeto. Engenheiro Wesley. Engenharia ambiental. Mestrado em recuperação de áreas degradadas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "áreas",
+    "degradadas."
+   ]
+  },
+  {
+   "fala": "Aí falou: eu catava material lá. Dos dez aos dezesseis anos. Com a minha mãe. Todo dia, depois da escola.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu catava lá."
+   ],
+   "destaque": [
+    "depois",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Contou que a família vivia da reciclagem. Ele separava latinha, papelão, garrafa. Sabia o preço de cada material de cor.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "material",
+    "cor."
+   ]
+  },
+  {
+   "fala": "Uma professora de ciências viu ele um dia no lixão, depois da escola. Ele achou que ia levar bronca. Ela perguntou: você sabe separar plástico por tipo?",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A PROFESSORA DE CIÊNCIAS"
+   ],
+   "destaque": [
+    "plástico",
+    "tipo?"
+   ]
+  },
+  {
+   "fala": "Riu: eu sabia mais que ela. Ela ficou impressionada. Começou a levar livro pra mim. Sobre reciclagem, química, meio ambiente.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sabia mais que ela."
+   ],
+   "destaque": [
+    "meio",
+    "ambiente."
+   ]
+  },
+  {
+   "fala": "Ele estudou com bolsa. Fez faculdade com bolsa. Mestrado com bolsa. Disse que cada bolsa ele agradecia como quem acha cobre no lixo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cobre",
+    "lixo."
+   ]
+  },
+  {
+   "fala": "Chegamos. Onde era o lixão, um parque enorme. Grama, árvores pequenas plantadas, um lago, uma pista de caminhada. Gente de toda a cidade. Prefeito, imprensa.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Prefeito,",
+    "imprensa."
+   ]
+  },
+  {
+   "fala": "Ele subiu no palanque. Fez o discurso técnico. Toneladas, metros cúbicos, gás metano, recuperação do solo. Todo mundo aplaudindo educado.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "aplaudindo",
+    "educado."
+   ]
+  },
+  {
+   "fala": "Aí ele parou. Olhou pra primeira fila. Lá estava uma senhora de uns sessenta anos, de vestido florido, com as mãos grossas no colo. A mãe dele.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MÃE NA PLATEIA"
+   ],
+   "destaque": [
+    "mãe",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ele disse no microfone: antes de engenheiro, eu fui catador. Aqui. Nesse chão. Com a minha mãe. Ela tá ali na primeira fila.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Minha mãe trabalhou aqui."
+   ],
+   "destaque": [
+    "primeira",
+    "fila."
+   ]
+  },
+  {
+   "fala": "O parque ficou em silêncio. A imprensa virou a câmera pra ela. A mãe abaixou a cabeça, com vergonha. Ele desceu do palanque.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "desceu",
+    "palanque."
+   ]
+  },
+  {
+   "fala": "Pegou a mão da mãe e levou ela até uma muda de ipê, no centro do parque. Disse: mãe, essa árvore é sua. Plantada onde a gente separava papelão.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A PRIMEIRA ÁRVORE"
+   ],
+   "destaque": [
+    "separava",
+    "papelão."
+   ]
+  },
+  {
+   "fala": "Tinha uma placa do lado: em homenagem aos catadores que trabalharam aqui. Vocês limparam a cidade antes de todos nós.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "todos",
+    "nós."
+   ]
+  },
+  {
+   "fala": "Os catadores antigos estavam lá. Convidados por ele. Uns vinte. Aplaudindo, chorando, abraçando ele como se fosse filho de todos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "filho",
+    "todos."
+   ]
+  },
+  {
+   "fala": "Na volta, a mãe dele foi comigo. Disse que nunca imaginou passear naquele lugar. Que só lembrava do cheiro. Agora tem cheiro de grama.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cheiro",
+    "grama."
+   ]
+  },
+  {
+   "fala": "Moral da história: o lugar mais difícil da sua vida pode virar o mais bonito. Depende do que você faz com ele.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "TRANSFORMA"
+   ],
+   "destaque": [
+    "você",
+    "faz"
+   ]
+  },
+  {
+   "fala": "E se você vir um catador hoje, cumprimenta. Ele está limpando a sua cidade. E pode ter um engenheiro do lado dele.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PARQUE DOS CATADORES"
+   ],
+   "destaque": [
+    "lado",
+    "dele."
+   ]
+  }
+ ]
+}

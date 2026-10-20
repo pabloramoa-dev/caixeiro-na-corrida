@@ -1,0 +1,243 @@
+{
+ "id": "cx210",
+ "ep": 210,
+ "avulso": true,
+ "titulo": "A CARTEIRA DO AVÔ",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "🎒 O avô levou o neto pro primeiro dia de aula. Na mesma escola onde estudou há 70 anos. E achou a própria carteira, com o nome gravado.\n\nVocê ainda lembra da sua primeira escola? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #escola #primeirodiadeaula #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎒 O avô levou o neto pro primeiro dia de aula. Na mesma escola onde estudou há 70 anos. E achou a própria carteira, com o nome gravado. Você ainda lembra da sua primeira escola? 👇\nHistória de ficção.\n#avo #escola #primeirodiadeaula #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou dois alunos pro primeiro dia de aula. Um de seis anos e um de setenta e seis.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "setenta",
+    "seis."
+   ]
+  },
+  {
+   "fala": "Segunda, sete da manhã. Entraram um avô de setenta e seis anos e um menino de seis, de uniforme novo, mochila maior que ele e lancheira de dinossauro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 7H"
+   ],
+   "destaque": [
+    "lancheira",
+    "dinossauro."
+   ]
+  },
+  {
+   "fala": "O menino anunciou: hoje é meu primeiro dia de aula! O avô completou: e o meu também. De novo. Setenta anos depois.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeiro dia de aula."
+   ],
+   "destaque": [
+    "anos",
+    "depois."
+   ]
+  },
+  {
+   "fala": "Seu Waldir. O neto, Theo, ia estudar na mesma escola onde o avô estudou em mil novecentos e cinquenta e seis. Escola estadual antiga, no centro.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A MESMA ESCOLA"
+   ],
+   "destaque": [
+    "antiga,",
+    "centro."
+   ]
+  },
+  {
+   "fala": "O avô riu: eu era bagunceiro. Fui pra diretoria umas trinta vezes. A minha professora, dona Odete, me botava de castigo atrás da porta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu era bagunceiro."
+   ],
+   "destaque": [
+    "atrás",
+    "porta."
+   ]
+  },
+  {
+   "fala": "O neto perguntando tudo. O senhor apanhava? Tinha recreio? Tinha merenda? O avô respondendo com histórias que pareciam de outro planeta.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "outro",
+    "planeta."
+   ]
+  },
+  {
+   "fala": "Contou: no último ano, eu gravei meu nome com um prego numa carteira de madeira. Ganhei uma semana de castigo. Valeu a pena.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu gravei meu nome numa carteira."
+   ],
+   "destaque": [
+    "Valeu",
+    "pena."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola. O prédio antigo, de janelas altas, com escadaria de pedra. Reformado, pintado, mas o mesmo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "pintado,",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "O avô ficou parado na calçada. Olhando. Disse: setenta anos e parece que foi ontem. Até o cheiro é o mesmo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cheiro",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Ele me pediu pra esperar, ia ser rápido. Só ia deixar o neto. Mas a diretora, quando soube que ele era ex-aluno, convidou ele pra entrar. E ele me chamou junto.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "chamou",
+    "junto."
+   ]
+  },
+  {
+   "fala": "A diretora disse: a gente guarda as carteiras antigas no porão. Não tem coragem de jogar fora. Quer ver? Ele quis.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O PORÃO"
+   ],
+   "destaque": [
+    "ver?",
+    "quis."
+   ]
+  },
+  {
+   "fala": "Descemos. Um porão empoeirado, cheio de carteiras de madeira empilhadas. Dezenas. Velhas, riscadas, cheias de nome gravado.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "nome",
+    "gravado."
+   ]
+  },
+  {
+   "fala": "O avô começou a procurar. Uma por uma. Passando a mão. E parou numa. Gravado com prego, torto: Waldir, mil novecentos e sessenta e um.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O NOME GRAVADO"
+   ],
+   "destaque": [
+    "novecentos",
+    "sessenta"
+   ]
+  },
+  {
+   "fala": "Ele sentou no chão empoeirado. Passou o dedo no nome. Disse: eu tinha onze anos. Achava que ia ser astronauta. Fui marceneiro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Fui",
+    "marceneiro."
+   ]
+  },
+  {
+   "fala": "Aí o neto perguntou pra diretora: posso sentar na carteira do meu avô? A diretora olhou pro avô, olhou pro menino. E disse: pode.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Posso levar pra sala?"
+   ],
+   "destaque": [
+    "disse:",
+    "pode."
+   ]
+  },
+  {
+   "fala": "E a carteira subiu. Dois funcionários levaram pra sala do primeiro ano. Limparam. Colocaram na primeira fila.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CARTEIRA SUBIU"
+   ],
+   "destaque": [
+    "primeira",
+    "fila."
+   ]
+  },
+  {
+   "fala": "O Theo sentou na carteira do avô. Passou o dedo no nome gravado. E disse: vô, eu vou ser astronauta por você.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O NETO SENTOU"
+   ],
+   "destaque": [
+    "astronauta",
+    "você."
+   ]
+  },
+  {
+   "fala": "O avô, que era marceneiro, ainda deu um jeito. Disse pra diretora: essa carteira tá bamba. Amanhã eu venho com ferramenta e conserto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ferramenta",
+    "conserto."
+   ]
+  },
+  {
+   "fala": "Ele consertou. E consertou mais dez carteiras antigas. De graça. Hoje vai na escola toda semana. Virou o marceneiro voluntário.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "marceneiro",
+    "voluntário."
+   ]
+  },
+  {
+   "fala": "Moral da história: o que a gente grava na infância fica. Às vezes setenta anos esperando alguém sentar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA PRA ESCOLA"
+   ],
+   "destaque": [
+    "alguém",
+    "sentar."
+   ]
+  },
+  {
+   "fala": "E se você ainda passa pela sua escola antiga, entra um dia. Pode ter um nome seu esperando no porão.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "WALDIR, 1961"
+   ],
+   "destaque": [
+    "esperando",
+    "porão."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "id": "cx197",
+ "ep": 197,
+ "avulso": true,
+ "titulo": "A MÃE DO RASTREADOR",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "📍 A mãe seguia o filho adolescente pelo rastreador do celular. Ele percebeu e pediu um carro pra despistar. O motivo do segredo era o aniversário dela.\n\nSeus pais já te vigiaram pelo celular? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#mae #adolescente #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📍 A mãe seguia o filho adolescente pelo rastreador do celular. Ele percebeu e pediu um carro pra despistar. O motivo do segredo era o aniversário dela. Seus pais já te vigiaram pelo celular? 👇\nHistória de ficção.\n#mae #adolescente #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma operação secreta. Contra a agência de espionagem mais eficiente do mundo: uma mãe.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mundo:",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "Sábado, dez da manhã. Entrou um menino de quinze anos, boné, mochila e uma cara de quem estava fugindo da polícia.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 10H"
+   ],
+   "destaque": [
+    "fugindo",
+    "polícia."
+   ]
+  },
+  {
+   "fala": "Disse baixinho: ela tá me rastreando, moço. Pelo celular. Eu perguntei: quem? Ele: a minha mãe. Ela vê tudo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Ela tá me rastreando."
+   ],
+   "destaque": [
+    "vê",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Chama-se Pedro. A mãe instalou um aplicativo de localização no celular dele. Sabe onde ele está a cada minuto.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O RASTREADOR"
+   ],
+   "destaque": [
+    "cada",
+    "minuto."
+   ]
+  },
+  {
+   "fala": "Disse: se eu paro mais de dez minutos num lugar, ela liga. O que você tá fazendo na padaria? Por que demorou no banheiro da escola?",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela me liga se eu paro muito."
+   ],
+   "destaque": [
+    "banheiro",
+    "escola?"
+   ]
+  },
+  {
+   "fala": "E naquele sábado ele precisava ir num lugar sem a mãe saber. Ela ia descobrir em segundos. O plano: deixar o celular em casa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "celular",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Riu: deixei o celular com o meu irmão de oito anos. Mandei ele andar pela casa. Pra ela achar que eu tô em casa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Deixei o celular com o meu irmão."
+   ],
+   "destaque": [
+    "achar",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Mas o irmão de oito anos não sabia mentir. Já tinha recebido três ligações da mãe. E na terceira, contou tudo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "contou",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "O telefone do meu carro tocou. Pelo aplicativo. Era a mãe dele. Ela tinha ligado pro número do motorista. Pro meu.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "Ligação: Mãe"
+   ],
+   "destaque": [
+    "Pro",
+    "meu."
+   ]
+  },
+  {
+   "fala": "Eu atendi no viva-voz. A voz de uma mulher brava: motorista, pra onde você tá levando o meu filho?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Pra onde você tá levando meu filho?"
+   ],
+   "destaque": [
+    "meu",
+    "filho?"
+   ]
+  },
+  {
+   "fala": "O Pedro fazendo sinal desesperado: não fala! Não fala! Eu fiquei entre um adolescente e uma mãe. O pior lugar do mundo.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "lugar",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "Eu disse: senhora, ele tá seguro. Eu tenho cinquenta anos de idade e juízo. Ele vai num lugar bom. Eu levo e trago de volta. Prometo.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ele tá seguro, senhora."
+   ],
+   "destaque": [
+    "volta.",
+    "Prometo."
+   ]
+  },
+  {
+   "fala": "Ela ficou quieta. Depois disse: quero foto de onde ele tá, a cada meia hora. Eu disse: combinado. O Pedro suspirou de alívio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "suspirou",
+    "alívio."
+   ]
+  },
+  {
+   "fala": "O destino era uma loja de artesanato. O Pedro desceu e eu fui junto, porque prometi a foto. Lá dentro, uma senhora esperava ele com uma caixa.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "esperava",
+    "caixa."
+   ]
+  },
+  {
+   "fala": "Era uma caixa de música. Que ele tinha encomendado. Feita à mão. Com uma bailarina dentro. Tocando uma música de ninar antiga.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PRESENTE"
+   ],
+   "destaque": [
+    "ninar",
+    "antiga."
+   ]
+  },
+  {
+   "fala": "O Pedro explicou: é a música que a minha mãe cantava pra mim quando eu era pequeno. Amanhã é aniversário dela.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MÚSICA DA MÃE"
+   ],
+   "destaque": [
+    "aniversário",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Disse que juntou a mesada de seis meses. Que pesquisou a música, achou o nome, encomendou a caixinha. E não podia deixar ela saber.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "deixar",
+    "saber."
+   ]
+  },
+  {
+   "fala": "Aí eu lembrei: e a foto pra sua mãe? Ele pensou. E tirou uma foto. De costas, na frente de uma parede branca, onde não dava pra ver nada.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E a foto?"
+   ],
+   "destaque": [
+    "ver",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Mandou. A mãe respondeu: que lugar é esse? Ele respondeu: segredo de Estado. Ela mandou um emoji bravo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "emoji",
+    "bravo."
+   ]
+  },
+  {
+   "fala": "Levei ele pra casa. A mãe na porta, de braço cruzado. Ele passou rápido, escondendo a caixa na mochila. Ela olhou pra mim. Eu fiz cara de paisagem.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cara",
+    "paisagem."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, ele me mandou um vídeo. A mãe abrindo a caixa. A bailarina girando. A música tocando. A mãe chorando e abraçando ele.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "NO DIA SEGUINTE"
+   ],
+   "destaque": [
+    "chorando",
+    "abraçando"
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o filho some do rastreador porque está preparando o melhor presente da sua vida.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONFIA UM POUCO"
+   ],
+   "destaque": [
+    "sua",
+    "vida."
+   ]
+  },
+  {
+   "fala": "E se você é mãe ou pai, confia um pouquinho. E se você é filho, faz o presente. Valeu cada ligação.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEGREDO DE ESTADO"
+   ],
+   "destaque": [
+    "cada",
+    "ligação."
+   ]
+  }
+ ]
+}

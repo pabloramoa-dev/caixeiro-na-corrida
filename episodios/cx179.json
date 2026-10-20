@@ -1,0 +1,264 @@
+{
+ "id": "cx179",
+ "ep": 179,
+ "avulso": true,
+ "titulo": "O HOMEM QUE LEMBRA DE TODOS",
+ "categoria": "curiosa",
+ "cenario": "noite",
+ "legenda_post": "🧠 Ele nunca esquece um rosto. Entrou no meu carro e disse: você pegava o ônibus 302 em 2010, sempre de marmita. Era verdade.\n\nVocê é bom de lembrar rosto ou de lembrar nome? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#memoria #curiosidades #misterio #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧠 Ele nunca esquece um rosto. Entrou no meu carro e disse: você pegava o ônibus 302 em 2010, sempre de marmita. Era verdade. Você é bom de lembrar rosto ou de lembrar nome? 👇\nHistória de ficção.\n#memoria #curiosidades #misterio #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um passageiro que lembrava da minha vida melhor que eu.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "vida",
+    "melhor"
+   ]
+  },
+  {
+   "fala": "Terça, nove da noite. Entrou um senhor de uns setenta anos, magro, olhos muito atentos. Sentou, me olhou pelo retrovisor e falou uma coisa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 21H"
+   ],
+   "destaque": [
+    "falou",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Disse: você pegava o ônibus trezentos e dois em dois mil e dez. Às cinco e meia da manhã. Sempre com uma marmita azul.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Ônibus 302, 2010."
+   ],
+   "destaque": [
+    "marmita",
+    "azul."
+   ]
+  },
+  {
+   "fala": "Eu quase bati o carro. Era verdade. Eu pegava o trezentos e dois pra ir pra fábrica. E a Rosângela me dava uma marmita azul. Todo dia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Todo",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Perguntei: como o senhor sabe disso? Ele sorriu: eu era o cobrador do trezentos e dois. Vinte e oito anos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Como o senhor sabe?"
+   ],
+   "destaque": [
+    "oito",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Seu Hélio. Cobrador de ônibus por quase trinta anos. E com uma memória que ele mesmo não sabia explicar. Nunca esquecia um rosto.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU HÉLIO, O COBRADOR"
+   ],
+   "destaque": [
+    "esquecia",
+    "rosto."
+   ]
+  },
+  {
+   "fala": "Ele continuou: você sentava no quarto banco do lado esquerdo. Dormia com a cabeça no vidro. E roncava. Baixinho, mas roncava.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você sentava no quarto banco."
+   ],
+   "destaque": [
+    "Baixinho,",
+    "roncava."
+   ]
+  },
+  {
+   "fala": "Eu ri de vergonha. Ele riu também. Disse que lembrava de milhares de passageiros. O nome, às vezes não. Mas o rosto e o banco, sempre.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "banco,",
+    "sempre."
+   ]
+  },
+  {
+   "fala": "Contou que hoje faz um trabalho curioso. Ajuda famílias a encontrar pessoas desaparecidas olhando fotos. Voluntário.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fotos.",
+    "Voluntário."
+   ]
+  },
+  {
+   "fala": "E naquela noite, estava indo encontrar uma família. Uma senhora procurando o irmão que sumiu de casa havia quarenta anos.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O CASO DA FOTO"
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Disse que tinha visto a foto do irmão num jornal do bairro. E lembrou. O rapaz pegava o trezentos e dois. Em mil novecentos e oitenta e seis.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "oitenta",
+    "seis."
+   ]
+  },
+  {
+   "fala": "Perguntei: e o senhor sabe onde ele tá? Ele disse: não. Mas sei onde ele descia. Todo dia. Durante dois anos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o senhor sabe onde ele tá?"
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ele me pediu pra passar no ponto. Um ponto de ônibus perto de uma oficina mecânica antiga. Ainda funcionando. Uma placa desbotada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "placa",
+    "desbotada."
+   ]
+  },
+  {
+   "fala": "Desceu. Entrou na oficina. Perguntou pelo dono. Saiu um senhor de uns sessenta anos, macacão sujo de graxa.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "sujo",
+    "graxa."
+   ]
+  },
+  {
+   "fala": "O seu Hélio olhou e disse: é você. Trezentos e dois, mil novecentos e oitenta e seis. Descia aqui às seis e quinze. Sentava no último banco.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA ELE"
+   ],
+   "destaque": [
+    "último",
+    "banco."
+   ]
+  },
+  {
+   "fala": "O homem ficou parado. Disse: como o senhor sabe? E o seu Hélio respondeu: a sua irmã tá procurando você. Ela nunca parou de procurar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "parou",
+    "procurar."
+   ]
+  },
+  {
+   "fala": "O homem tinha saído de casa aos vinte, depois de uma briga com o pai. Ficou com vergonha de voltar. O tempo passou. A vergonha cresceu.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "QUARENTA ANOS"
+   ],
+   "destaque": [
+    "vergonha",
+    "cresceu."
+   ]
+  },
+  {
+   "fala": "Ele perguntou baixinho: ela não tá brava comigo? O seu Hélio disse: ela tá com saudade. Brava, quem sabe, mas com mais saudade.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela não tá brava?"
+   ],
+   "destaque": [
+    "mais",
+    "saudade."
+   ]
+  },
+  {
+   "fala": "O seu Hélio tinha o telefone da irmã. Discou. Entregou. O homem segurou o celular com a mão suja de graxa. E disse: Fátima? Sou eu.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O TELEFONE"
+   ],
+   "destaque": [
+    "Fátima?",
+    "Sou"
+   ]
+  },
+  {
+   "fala": "Do outro lado, um grito. Depois um choro. Eu ouvi do carro. O homem sentou no banco da oficina, chorando igual menino.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Levei o seu Hélio pra casa. Ele foi quieto, satisfeito. Disse: trinta anos cobrando passagem. Hoje eu entreguei um passageiro no destino certo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "destino",
+    "certo."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que repara em tudo. E um dia esse olhar devolve alguém pra casa.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "REPARA NAS PESSOAS"
+   ],
+   "destaque": [
+    "alguém",
+    "casa."
+   ]
+  },
+  {
+   "fala": "E se você tem alguém que sumiu da sua vida, não para de procurar. Alguém pode lembrar do banco onde ele sentava.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ÔNIBUS 302"
+   ],
+   "destaque": [
+    "onde",
+    "sentava."
+   ]
+  }
+ ]
+}

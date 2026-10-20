@@ -1,0 +1,242 @@
+{
+ "id": "cx191",
+ "ep": 191,
+ "avulso": true,
+ "titulo": "A ÚLTIMA AULA DE DIREÇÃO",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "🚗 O pai ensinou o filho a dirigir aos 18. Aos 82, o médico disse que ele não podia mais. O filho levou o pai pra uma última volta. Com o pai no volante.\n\nQuem te ensinou a dirigir? Ou a fazer algo importante? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#pai #reflexao #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚗 O pai ensinou o filho a dirigir aos 18. Aos 82, o médico disse que ele não podia mais. O filho levou o pai pra uma última volta. Com o pai no volante. Quem te ensinou a dirigir? Ou a fazer algo importante? 👇\nHistória de ficção.\n#pai #reflexao #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma aula de direção ao contrário.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "direção",
+    "contrário."
+   ]
+  },
+  {
+   "fala": "Domingo, sete da manhã. Recebi uma corrida estranha. O passageiro pediu: preciso que o senhor leve a gente até um estacionamento vazio e espere.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 7H"
+   ],
+   "destaque": [
+    "vazio",
+    "espere."
+   ]
+  },
+  {
+   "fala": "Cheguei. Entraram um homem de uns cinquenta anos e um senhor de oitenta e dois. O pai. De boné, óculos grossos, e as mãos tremendo um pouquinho.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "tremendo",
+    "pouquinho."
+   ]
+  },
+  {
+   "fala": "O filho, Marcos, explicou. O pai, seu Odair, dirigiu por sessenta anos. Foi caminhoneiro, taxista, motorista de ônibus. E na semana anterior, o médico disse: chega.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O PAI E O CARRO"
+   ],
+   "destaque": [
+    "disse:",
+    "chega."
+   ]
+  },
+  {
+   "fala": "Disse: ele não aceita. Fica olhando o carro dele na garagem. Pegou a chave escondido três vezes essa semana.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele não aceita."
+   ],
+   "destaque": [
+    "essa",
+    "semana."
+   ]
+  },
+  {
+   "fala": "E o filho teve uma ideia. Ia vender o carro do pai. Mas antes, queria dar uma última volta. Num lugar seguro. Com o pai no volante.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pai",
+    "volante."
+   ]
+  },
+  {
+   "fala": "E pediu um carro de aplicativo pra levar e trazer. Pra eu ficar de olho. Pra ter alguém de fora. Pra ninguém se machucar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ninguém",
+    "machucar."
+   ]
+  },
+  {
+   "fala": "Fomos até o estacionamento de um shopping fechado, domingo cedo. Vazio. Enorme. E lá estava o carro do seu Odair. O filho tinha levado de guincho.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "levado",
+    "guincho."
+   ]
+  },
+  {
+   "fala": "O seu Odair viu o carro e parou. Ficou olhando. Disse: é a última vez, né? O filho não respondeu. Só entregou a chave.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "entregou",
+    "chave."
+   ]
+  },
+  {
+   "fala": "O pai sentou no volante. O filho no banco do carona. E eu fiquei do lado de fora, encostado no meu carro, olhando.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A ÚLTIMA VOLTA"
+   ],
+   "destaque": [
+    "carro,",
+    "olhando."
+   ]
+  },
+  {
+   "fala": "O seu Odair ajustou o banco. Ajustou o retrovisor. Colocou as duas mãos no volante. Do jeito que ensinou o filho trinta e dois anos antes.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "antes."
+   ]
+  },
+  {
+   "fala": "E eu ouvi pela janela aberta. O pai falando: embreagem devagar, olha o retrovisor, seta antes de virar. Ensinando de novo. O filho dizendo: sim, pai.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Embreagem devagar."
+   ],
+   "destaque": [
+    "sim,",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Quarenta minutos dando volta no estacionamento vazio. Devagar. Fazendo baliza entre as linhas pintadas. Ele acertou todas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "40 MINUTOS"
+   ],
+   "destaque": [
+    "acertou",
+    "todas."
+   ]
+  },
+  {
+   "fala": "No final, ele parou o carro no meio do estacionamento. Desligou. E ficou com as mãos no volante um tempão. Em silêncio.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "tempão.",
+    "silêncio."
+   ]
+  },
+  {
+   "fala": "Depois tirou a chave da ignição. E entregou pro filho. Disse: toma. Agora é você que me leva.",
+   "expr": "triste",
+   "arte": [
+    "manchete",
+    "ELE ENTREGOU A CHAVE"
+   ],
+   "destaque": [
+    "você",
+    "leva."
+   ]
+  },
+  {
+   "fala": "O filho segurou a chave. E abraçou o pai ali dentro do carro. Dois homens chorando no meio de um estacionamento vazio, às oito da manhã.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "AGORA É VOCÊ"
+   ],
+   "destaque": [
+    "oito",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "Depois o seu Odair desceu. Andou até o meu carro. Sentou no banco de trás. E disse: me leva pra casa, motorista. Eu sou passageiro agora.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "passageiro",
+    "agora."
+   ]
+  },
+  {
+   "fala": "No caminho, ele disse: sessenta anos levando os outros. Agora eu vou aprender a ser levado. O senhor me ensina? Eu disse: é fácil. É só confiar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Passageiro também aprende."
+   ],
+   "destaque": [
+    "só",
+    "confiar."
+   ]
+  },
+  {
+   "fala": "Deixei os dois em casa. O filho guardou a chave do carro do pai numa caixinha. Disse que não vai vender. Vai deixar pra quando o neto tirar carteira.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "tirar",
+    "carteira."
+   ]
+  },
+  {
+   "fala": "Moral da história: um dia quem ensinou a gente a dirigir vai precisar que a gente dirija. Faz com o mesmo carinho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEIXA SER LEVADO"
+   ],
+   "destaque": [
+    "mesmo",
+    "carinho."
+   ]
+  },
+  {
+   "fala": "E se seu pai ou sua mãe está ficando mais velho, tem paciência. Ele teve com você na primeira aula.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "EMBREAGEM DEVAGAR"
+   ],
+   "destaque": [
+    "primeira",
+    "aula."
+   ]
+  }
+ ]
+}

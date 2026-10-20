@@ -1,0 +1,240 @@
+{
+ "id": "cx222",
+ "ep": 222,
+ "avulso": true,
+ "titulo": "OS RECRUTAS DE 1968",
+ "categoria": "amizade",
+ "cenario": "dia",
+ "legenda_post": "🎖️ Eles serviram juntos no quartel em 1968. Prometeram se reencontrar em 50 anos. Passaram 58. Só dois apareceram. E bastou.\n\nVocê tem um amigo de juventude que ainda faz parte da sua vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #reencontro #quartel #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎖️ Eles serviram juntos no quartel em 1968. Prometeram se reencontrar em 50 anos. Passaram 58. Só dois apareceram. E bastou. Você tem um amigo de juventude que ainda faz parte da sua vida? 👇\nHistória de ficção.\n#amizade #reencontro #quartel #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um soldado pro encontro marcado há cinquenta e oito anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "oito",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou um senhor de setenta e seis anos, boina, bengala e uma foto antiga em preto e branco num envelope plástico.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "envelope",
+    "plástico."
+   ]
+  },
+  {
+   "fala": "Pediu: antigo quartel do exército, na avenida tal. Hoje é um museu. Tenho um encontro lá. Marcado em mil novecentos e sessenta e oito.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Antigo quartel."
+   ],
+   "destaque": [
+    "sessenta",
+    "oito."
+   ]
+  },
+  {
+   "fala": "Seu Benedito. Serviu no quartel com dezoito anos. Fez amizade com outros cinco recrutas. No último dia, prometeram: daqui a cinquenta anos, a gente se encontra aqui.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A PROMESSA"
+   ],
+   "destaque": [
+    "encontra",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "Disse: em dois mil e dezoito, fez cinquenta anos. Eu vim. Fiquei o dia inteiro na frente do portão. Ninguém apareceu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém apareceu em 2018."
+   ],
+   "destaque": [
+    "Ninguém",
+    "apareceu."
+   ]
+  },
+  {
+   "fala": "Ele achou que os outros tinham esquecido. Ou morrido. Ficou triste. Mas no ano seguinte, voltou. E no outro. E no outro. Todo dia vinte de outubro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "vinte",
+    "outubro."
+   ]
+  },
+  {
+   "fala": "Era vinte de outubro. Fazia cinquenta e oito anos. E ele estava indo de novo. Com a foto dos seis recrutas, sorrindo, de farda.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sorrindo,",
+    "farda."
+   ]
+  },
+  {
+   "fala": "Chegamos no museu. Um prédio antigo, muro alto, portão de ferro. Ele desceu devagar. Ficou em pé na frente do portão. Sozinho.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "portão.",
+    "Sozinho."
+   ]
+  },
+  {
+   "fala": "Eu fiquei no carro, porque ele pediu pra eu esperar. Disse: se ninguém vier em uma hora, eu volto. Como todo ano.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "todo",
+    "ano."
+   ]
+  },
+  {
+   "fala": "Cinquenta minutos. Ele em pé, olhando a rua. Eu olhando ele. Começou a garoar. Ele não saiu.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "50 MINUTOS"
+   ],
+   "destaque": [
+    "garoar.",
+    "saiu."
+   ]
+  },
+  {
+   "fala": "Aí parou um carro na frente do museu. Desceu uma moça de uns trinta anos e, do banco do carona, um senhor de cadeira de rodas.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "cadeira",
+    "rodas."
+   ]
+  },
+  {
+   "fala": "O senhor da cadeira olhou pro seu Benedito. E levantou a mão. Na continência. Igual no quartel. O seu Benedito bateu continência de volta.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O SEGUNDO RECRUTA"
+   ],
+   "destaque": [
+    "continência",
+    "volta."
+   ]
+  },
+  {
+   "fala": "Era o Osvaldo. Um dos seis. A neta trouxe ele. Disse que ele falava desse encontro todo ano, mas a família achava que era história de velho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "história",
+    "velho."
+   ]
+  },
+  {
+   "fala": "Até que, naquela semana, a neta achou a foto antiga num álbum. E viu uma postagem na internet: senhor espera amigos de quartel todo vinte de outubro. Era o seu Benedito.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A NETA ACHOU"
+   ],
+   "destaque": [
+    "seu",
+    "Benedito."
+   ]
+  },
+  {
+   "fala": "Alguém tinha filmado ele, num dos anos anteriores, esperando sozinho no portão. E o vídeo tinha circulado. A neta reconheceu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "neta",
+    "reconheceu."
+   ]
+  },
+  {
+   "fala": "Os dois se abraçaram na garoa. Um de pé, um sentado. Choraram. Riram. Falaram dos outros quatro. Dois já tinham partido. Dois ninguém sabia.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DOIS DE SEIS"
+   ],
+   "destaque": [
+    "ninguém",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "O seu Osvaldo disse: você engordou, recruta. O seu Benedito: e você ficou careca, soldado. Os dois riram igual em mil novecentos e sessenta e oito.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você engordou, recruta."
+   ],
+   "destaque": [
+    "sessenta",
+    "oito."
+   ]
+  },
+  {
+   "fala": "O museu abriu a porta e deixou os dois entrarem. Acharam o alojamento antigo. O beliche dos dois ainda estava lá. Sentaram nele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Sentaram",
+    "nele."
+   ]
+  },
+  {
+   "fala": "Eu levei os dois pra almoçar depois. A neta junto. Eles combinaram: ano que vem, vinte de outubro, de novo. E vão postar pra achar os outros dois.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "outros",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem promessa que vale a pena esperar oito anos a mais. Nem que apareça só um.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CUMPRE O ENCONTRO"
+   ],
+   "destaque": [
+    "apareça",
+    "só"
+   ]
+  },
+  {
+   "fala": "E se você tem um amigo antigo que perdeu contato, posta uma foto. Alguém pode reconhecer.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VINTE DE OUTUBRO"
+   ],
+   "destaque": [
+    "pode",
+    "reconhecer."
+   ]
+  }
+ ]
+}

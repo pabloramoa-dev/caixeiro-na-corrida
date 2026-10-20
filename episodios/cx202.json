@@ -1,0 +1,252 @@
+{
+ "id": "cx202",
+ "ep": 202,
+ "avulso": true,
+ "titulo": "O ENTREGADOR E A DONA EDITH",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🛵 Toda semana ele entregava o mercado da dona Edith, de 89 anos. Cinco minutos de conversa no portão. Um dia, ela não atendeu.\n\nVocê conversa com quem faz entregas pra você? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #entregador #idosos #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🛵 Toda semana ele entregava o mercado da dona Edith, de 89 anos. Cinco minutos de conversa no portão. Um dia, ela não atendeu. Você conversa com quem faz entregas pra você? 👇\nHistória de ficção.\n#amizade #entregador #idosos #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida começou com uma entrega que não foi atendida.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "foi",
+    "atendida."
+   ]
+  },
+  {
+   "fala": "Quinta, sete da noite. Peguei um rapaz de uns vinte e cinco anos, de jaqueta de entregador, capacete na mão. A moto tinha quebrado. Ele estava aflito.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 19H"
+   ],
+   "destaque": [
+    "estava",
+    "aflito."
+   ]
+  },
+  {
+   "fala": "Pediu: rua das Flores, rápido, por favor. Eu perguntei: entrega atrasada? Ele disse: não. É a dona Edith. Ela não atendeu.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Rua das Flores, rápido."
+   ],
+   "destaque": [
+    "Edith.",
+    "atendeu."
+   ]
+  },
+  {
+   "fala": "Chama-se Lucas. Entregador de aplicativo. Há dois anos, toda quinta, entrega o mercado de uma senhora de oitenta e nove anos. A dona Edith.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A ENTREGA DE QUINTA"
+   ],
+   "destaque": [
+    "dona",
+    "Edith."
+   ]
+  },
+  {
+   "fala": "Disse: ela me espera no portão. Com café. Sempre. Cinco minutos de conversa. Ela me conta da novela, eu conto da faculdade.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela me espera no portão."
+   ],
+   "destaque": [
+    "conto",
+    "faculdade."
+   ]
+  },
+  {
+   "fala": "Ele estuda enfermagem à noite. A dona Edith pergunta das provas, do professor chato, da namorada. Ela não tem família perto.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "família",
+    "perto."
+   ]
+  },
+  {
+   "fala": "Mas naquela tarde, ele tocou a campainha. Uma vez. Duas. Cinco. Ninguém. Ligou. Ninguém. Ele ficou com um pressentimento.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Hoje ela não atendeu."
+   ],
+   "destaque": [
+    "ficou",
+    "pressentimento."
+   ]
+  },
+  {
+   "fala": "Tinha que fazer outras entregas. A moto quebrou no meio do caminho. Ele largou a moto num posto e pediu um carro. Pra voltar na dona Edith.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dona",
+    "Edith."
+   ]
+  },
+  {
+   "fala": "Chegamos. Casa escura. Portão fechado. As compras da tarde ainda na calçada, onde ele tinha deixado. Ele pulou o portão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "pulou",
+    "portão."
+   ]
+  },
+  {
+   "fala": "Eu desci também. Bati na janela. Ouvimos uma voz fraquinha lá dentro: socorro. Tô aqui.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "socorro.",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "A dona Edith tinha caído na cozinha. Estava no chão havia horas. Consciente, mas sem conseguir levantar. Sem alcançar o telefone.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA TINHA CAÍDO"
+   ],
+   "destaque": [
+    "alcançar",
+    "telefone."
+   ]
+  },
+  {
+   "fala": "O Lucas entrou pela janela da cozinha. Eu liguei pro serviço de emergência. Ele fez tudo que aprendeu na faculdade. Calmo. Firme.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Calmo.",
+    "Firme."
+   ]
+  },
+  {
+   "fala": "Verificou se ela tinha batido a cabeça. Não mexeu nela de mal jeito. Pegou um cobertor. Segurou a mão dela até a ambulância chegar.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O ESTUDANTE DE ENFERMAGEM"
+   ],
+   "destaque": [
+    "ambulância",
+    "chegar."
+   ]
+  },
+  {
+   "fala": "A dona Edith, deitada no chão, disse pra ele: eu sabia que você vinha. É quinta-feira. Você nunca falha.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sabia que você vinha."
+   ],
+   "destaque": [
+    "nunca",
+    "falha."
+   ]
+  },
+  {
+   "fala": "A ambulância levou ela. Foi só uma luxação no quadril. Nada grave. Mas os paramédicos disseram: se ficasse a noite inteira no chão, podia ser pior.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ser",
+    "pior."
+   ]
+  },
+  {
+   "fala": "Uma semana depois, o Lucas me chamou de novo. Disse que ia visitar a dona Edith. Que tinha voltado pra casa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA SEMANA DEPOIS"
+   ],
+   "destaque": [
+    "voltado",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Chegamos. Ela estava no portão. De andador. Com café. E um bolo. Disse: hoje não é entrega. Hoje é visita.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Hoje",
+    "visita."
+   ]
+  },
+  {
+   "fala": "E ela entregou uma coisa pra ele. Uma cópia da chave da casa. Disse: você é a pessoa que eu mais confio nesse mundo. Toma.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A CHAVE"
+   ],
+   "destaque": [
+    "mundo.",
+    "Toma."
+   ]
+  },
+  {
+   "fala": "A filha dela, que mora em outro estado, ligou por vídeo e agradeceu chorando. Disse: obrigada por cuidar da minha mãe quando eu não posso.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quando",
+    "posso."
+   ]
+  },
+  {
+   "fala": "Hoje o Lucas é enfermeiro formado. E continua indo toda quinta. Não entrega mais o mercado. Agora leva bolo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "leva",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Moral da história: cinco minutos de conversa toda semana podem salvar uma vida. Literalmente.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONVERSA NO PORTÃO"
+   ],
+   "destaque": [
+    "vida.",
+    "Literalmente."
+   ]
+  },
+  {
+   "fala": "E se você recebe entregas, pergunta o nome do entregador. E se ele é entregador de alguém sozinho, ele pode ser o anjo da guarda dela.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA EDITH"
+   ],
+   "destaque": [
+    "guarda",
+    "dela."
+   ]
+  }
+ ]
+}
