@@ -1,0 +1,267 @@
+{
+ "id": "cx044",
+ "ep": 44,
+ "avulso": true,
+ "titulo": "A CARTEIRA DEVOLVIDA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🪪 Ele morou na rua por quatro anos. No dia de assinar a carteira de trabalho, descobriu quem era o dono da empresa.\n\nVocê acredita que o bem que a gente faz volta? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #honestidade #recomeco #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🪪 Ele morou na rua por quatro anos. No dia de assinar a carteira de trabalho, descobriu quem era o dono da empresa. Você acredita que o bem que a gente faz volta? 👇\nHistória de ficção.\n#superacao #honestidade #recomeco #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi pro primeiro emprego de carteira assinada de um homem de quarenta anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Segunda-feira, seis da manhã. Pedido saindo de um abrigo municipal. Entrou um homem de uns quarenta anos, barba feita agora, camisa social dois números maior.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 6H"
+   ],
+   "destaque": [
+    "números",
+    "maior."
+   ]
+  },
+  {
+   "fala": "Disse com um orgulho que enchia o carro: primeiro dia de trabalho, moço. Carteira assinada.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeiro dia de trabalho."
+   ],
+   "destaque": [
+    "Carteira",
+    "assinada."
+   ]
+  },
+  {
+   "fala": "Seu nome é Josias. Morou quatro anos na rua. Perdeu emprego, perdeu casa, perdeu contato com a família. Um atrás do outro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "atrás",
+    "outro."
+   ]
+  },
+  {
+   "fala": "Há seis meses entrou no abrigo. Fez curso de almoxarife. E agora tinha uma vaga numa distribuidora grande.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "ABRIGO, CURSO, VAGA"
+   ],
+   "destaque": [
+    "distribuidora",
+    "grande."
+   ]
+  },
+  {
+   "fala": "A camisa era doação. O sapato também. A corrida, paga pela assistente social. Ele contou tudo sem vergonha nenhuma.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "A camisa é emprestada."
+   ],
+   "destaque": [
+    "vergonha",
+    "nenhuma."
+   ]
+  },
+  {
+   "fala": "Disse: teve noite que eu achei que não ia ter volta. Que eu ia morrer numa marquise e ninguém ia saber meu nome.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu achei que não ia ter volta."
+   ],
+   "destaque": [
+    "meu",
+    "nome."
+   ]
+  },
+  {
+   "fala": "Perguntei o que tinha segurado ele. Ele pensou um pouco e contou uma história.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "contou",
+    "história."
+   ]
+  },
+  {
+   "fala": "No segundo ano de rua, ele achou uma carteira na calçada. Dinheiro, cartões, documento. Muito dinheiro pra quem não tinha nada.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A CARTEIRA NO CHÃO"
+   ],
+   "destaque": [
+    "tinha",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Ele foi até o endereço do documento e devolveu. Um empresário, que nem anotou o nome dele direito. Deu um obrigado e fechou o portão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fechou",
+    "portão."
+   ]
+  },
+  {
+   "fala": "Eu fiquei com fome aquele dia, ele riu. Mas dormi tranquilo. Isso me lembrou que eu ainda era eu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Fiquei com fome aquele dia."
+   ],
+   "destaque": [
+    "ainda",
+    "era"
+   ]
+  },
+  {
+   "fala": "Chegamos na distribuidora. Um galpão enorme, caminhão saindo, gente de uniforme entrando. Ele ficou parado no portão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "parado",
+    "portão."
+   ]
+  },
+  {
+   "fala": "Pediu pra eu esperar um pouquinho, porque não sabia se ia conseguir entrar. Eu esperei.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "entrar.",
+    "esperei."
+   ]
+  },
+  {
+   "fala": "Aí veio um senhor de cabelo grisalho, de camisa polo, cumprimentando todo mundo na porta. Parou na frente do Josias.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "frente",
+    "Josias."
+   ]
+  },
+  {
+   "fala": "Disse: eu conheço você. Você devolveu a minha carteira na porta de casa, faz dois anos.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Eu conheço você."
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Era o dono da distribuidora. O mesmo homem da carteira. Que tinha procurado o Josias por semanas depois daquilo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA O DONO DA EMPRESA"
+   ],
+   "destaque": [
+    "depois",
+    "daquilo."
+   ]
+  },
+  {
+   "fala": "Ele disse: eu fui grosso naquele dia, estava com pressa. Me arrependi na hora. Voltei na rua, procurei, nunca mais te achei.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca esqueci seu rosto."
+   ],
+   "destaque": [
+    "te",
+    "achei."
+   ]
+  },
+  {
+   "fala": "E contou: a vaga de almoxarife foi aberta pelo programa de reinserção que ele criou na empresa. Por causa daquela carteira.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A VAGA ERA DELE"
+   ],
+   "destaque": [
+    "daquela",
+    "carteira."
+   ]
+  },
+  {
+   "fala": "Sem saber, o Josias tinha inspirado a vaga que ia receber. O bem voltou exatamente pro lugar de onde saiu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "onde",
+    "saiu."
+   ]
+  },
+  {
+   "fala": "Os dois entraram juntos no galpão. O dono com a mão no ombro dele. Pela porta da frente.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ENTROU PELA PORTA DA FRENTE"
+   ],
+   "destaque": [
+    "porta",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Eu fui embora com o dia ganho antes das sete da manhã. Contei pra Rosângela no almoço e ela ficou quieta um tempão.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "quieta",
+    "tempão."
+   ]
+  },
+  {
+   "fala": "Moral da história: fazer o certo quando ninguém está olhando é o que segura a gente de pé. E um dia alguém está olhando.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FAZ O CERTO"
+   ],
+   "destaque": [
+    "está",
+    "olhando."
+   ]
+  },
+  {
+   "fala": "E se você encontrar alguém recomeçando, deseja boa sorte de verdade. Pode ser o dia mais importante da vida dele.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CARTEIRA ASSINADA"
+   ],
+   "destaque": [
+    "vida",
+    "dele."
+   ]
+  }
+ ]
+}

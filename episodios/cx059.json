@@ -1,0 +1,285 @@
+{
+ "id": "cx059",
+ "ep": 59,
+ "avulso": true,
+ "titulo": "A TRANÇA TORTA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🎀 Um pai sozinho tentava fazer uma trança na filha, vendo vídeo no celular, a caminho da apresentação de balé. Uma senhora no carro salvou o dia.\n\nQual foi a coisa mais difícil que você aprendeu por amor? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#paisolo #familia #bale #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎀 Um pai sozinho tentava fazer uma trança na filha, vendo vídeo no celular, a caminho da apresentação de balé. Uma senhora no carro salvou o dia. Qual foi a coisa mais difícil que você aprendeu por amor? 👇\nHistória de ficção.\n#paisolo #familia #bale #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve aula de penteado em movimento.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "penteado",
+    "movimento."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Corrida compartilhada. Entrou um pai de uns trinta e cinco anos com uma menina de sete, de collant rosa e meia-calça.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "rosa",
+    "meia-calça."
+   ]
+  },
+  {
+   "fala": "O pai pediu: moço, vai devagarinho, por favor. Eu preciso fazer uma trança aqui atrás.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Moço, vai devagar."
+   ],
+   "destaque": [
+    "aqui",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Chama-se Edson. Pai solo havia dois anos. A filha, a Clarinha, ia ter a primeira apresentação de balé às sete.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "às",
+    "sete."
+   ]
+  },
+  {
+   "fala": "Ele com o celular apoiado no encosto do meu banco, um vídeo de tutorial passando, e os dedos embolados no cabelo da menina.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "TUTORIAL NO CELULAR"
+   ],
+   "destaque": [
+    "cabelo",
+    "menina."
+   ]
+  },
+  {
+   "fala": "Separa em três. Cruza a da direita. Cruza a da esquerda. E a trança saía parecendo uma corda de varal.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "corda",
+    "varal."
+   ]
+  },
+  {
+   "fala": "A Clarinha reclamava: pai, tá puxando. Pai, tá torto. As outras meninas vão rir de mim.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Pai, tá doendo."
+   ],
+   "destaque": [
+    "rir",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Ele desmanchou pela terceira vez. Disse baixinho, mais pra ele do que pra mim: a mãe dela fazia isso em dois minutos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "O aplicativo apitou. Segunda parada. Entrou uma senhora de uns setenta anos, magrinha, postura de rainha, coque perfeito no cabelo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Nova passageira"
+   ],
+   "destaque": [
+    "perfeito",
+    "cabelo."
+   ]
+  },
+  {
+   "fala": "Ela sentou do lado da menina, olhou a trança torta, olhou o tutorial, e não aguentou.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "tutorial,",
+    "aguentou."
+   ]
+  },
+  {
+   "fala": "Disse: meu filho, me dá esse cabelo aqui. Em dois minutos eu resolvo e ainda te ensino.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Me dá esse cabelo aqui."
+   ],
+   "destaque": [
+    "te",
+    "ensino."
+   ]
+  },
+  {
+   "fala": "E ensinou. Pegou na mão dele e guiou. Mecha por mecha. Puxa firme, mas sem machucar. Cruza por baixo, não por cima.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "baixo,",
+    "cima."
+   ]
+  },
+  {
+   "fala": "Em três tentativas, a trança saiu. Firme, bonita, com uma fitinha rosa na ponta. A Clarinha se olhou no celular e sorriu.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "TRANÇA PERFEITA"
+   ],
+   "destaque": [
+    "celular",
+    "sorriu."
+   ]
+  },
+  {
+   "fala": "O pai perguntou: a senhora é cabeleireira? Ela riu: não. Eu fui bailarina. Quarenta anos de coque.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "A senhora é cabeleireira?"
+   ],
+   "destaque": [
+    "anos",
+    "coque."
+   ]
+  },
+  {
+   "fala": "Dona Helena. Primeira bailarina do teatro municipal nos anos setenta. A Clarinha arregalou os olhos igual pires.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PRIMEIRA BAILARINA"
+   ],
+   "destaque": [
+    "igual",
+    "pires."
+   ]
+  },
+  {
+   "fala": "A menina perguntou um monte de coisa. Se ela já tinha caído no palco. Se dava medo. Se o sapato machucava.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sapato",
+    "machucava."
+   ]
+  },
+  {
+   "fala": "Dona Helena contou: eu caí na estreia. Na frente de mil pessoas. Levantei, sorri e dancei melhor do que no ensaio.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu caí na estreia."
+   ],
+   "destaque": [
+    "melhor",
+    "ensaio."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola de balé. A dona Helena não ia descer ali. Mas mudou de ideia. Disse que queria ver a Clarinha dançar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Clarinha",
+    "dançar."
+   ]
+  },
+  {
+   "fala": "Ela se sentou na plateia, do lado do Edson. E eu, como já tinha virado parte da família, estacionei e fui também.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "fui",
+    "também."
+   ]
+  },
+  {
+   "fala": "A Clarinha dançou. Errou um passo. Olhou pra plateia. A dona Helena fez um sinal com a mão: sorri e continua. Ela sorriu e continuou.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "sorriu",
+    "continuou."
+   ]
+  },
+  {
+   "fala": "No final, a menina correu pros braços do pai e disse: foi a trança mais bonita da escola, pai. Você que fez.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SORRI E CONTINUA"
+   ],
+   "destaque": [
+    "Você",
+    "fez."
+   ]
+  },
+  {
+   "fala": "E ele, olhando pra dona Helena: fui eu, né? Ela piscou: foi você. Eu só segurei a sua mão.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Fui eu, né?"
+   ],
+   "destaque": [
+    "sua",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Hoje o Edson faz trança, coque e rabo de cavalo. E me manda foto toda apresentação. Uma por mês.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "apresentação.",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Moral da história: ninguém nasce sabendo ser pai e mãe ao mesmo tempo. Aprende com a mão de quem já sabe.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APRENDE POR AMOR"
+   ],
+   "destaque": [
+    "já",
+    "sabe."
+   ]
+  },
+  {
+   "fala": "E se você vir um pai fazendo trança torta por aí, não ri. Ajuda. Ele tá fazendo o melhor que pode.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CLARINHA DANÇOU"
+   ],
+   "destaque": [
+    "melhor",
+    "pode."
+   ]
+  }
+ ]
+}

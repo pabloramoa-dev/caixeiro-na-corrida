@@ -1,0 +1,267 @@
+{
+ "id": "cx060",
+ "ep": 60,
+ "avulso": true,
+ "titulo": "OS GUARDA-CHUVAS EMPRESTADOS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "☂️ Ele espalha guarda-chuvas pela cidade com um bilhete: “devolva quando puder”. Um dia, um voltou com uma carta.\n\nQual foi o gesto de um desconhecido que mudou o seu dia? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#gentileza #chuva #historias #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "☂️ Ele espalha guarda-chuvas pela cidade com um bilhete: “devolva quando puder”. Um dia, um voltou com uma carta. Qual foi o gesto de um desconhecido que mudou o seu dia? 👇\nHistória de ficção.\n#gentileza #chuva #historias #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida tinha mais guarda-chuva no porta-malas que loja de departamento.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "loja",
+    "departamento."
+   ]
+  },
+  {
+   "fala": "Terça, sete da manhã, céu escuro de chuva. Entrou um senhor de uns sessenta anos com duas sacolas enormes cheias de guarda-chuvas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 7H"
+   ],
+   "destaque": [
+    "cheias",
+    "guarda-chuvas."
+   ]
+  },
+  {
+   "fala": "Perguntei: o senhor vende guarda-chuva? Ele riu: não. Eu empresto.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Vende guarda-chuva?"
+   ],
+   "destaque": [
+    "riu:",
+    "empresto."
+   ]
+  },
+  {
+   "fala": "Seu Natanael. Há oito anos, todo dia de previsão de chuva, ele deixa guarda-chuvas pendurados em pontos de ônibus da cidade.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DEVOLVA QUANDO PUDER"
+   ],
+   "destaque": [
+    "ônibus",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Em cada um, uma etiqueta: devolva quando puder. E um endereço de uma caixa de coleta na porta da casa dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "casa",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Eu perguntei o óbvio: e o povo devolve? Ele disse: uns sessenta por cento. O resto eu considero presente.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E devolvem?"
+   ],
+   "destaque": [
+    "considero",
+    "presente."
+   ]
+  },
+  {
+   "fala": "Contou que começou quando a esposa pegou uma chuva forte esperando ônibus, voltando do trabalho, e ficou muito doente.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "muito",
+    "doente."
+   ]
+  },
+  {
+   "fala": "Disse: tinha gente com guarda-chuva do lado dela, e ninguém ofereceu. Eu pensei: e se eu oferecer por todo mundo?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém ofereceu abrigo."
+   ],
+   "destaque": [
+    "todo",
+    "mundo?"
+   ]
+  },
+  {
+   "fala": "Fomos parando de ponto em ponto. Ele descia, pendurava o guarda-chuva com um gancho, conferia a etiqueta. Eu ajudava com as sacolas.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ajudava",
+    "sacolas."
+   ]
+  },
+  {
+   "fala": "No sétimo ponto, tinha uma moça de uns vinte e oito anos, de terninho, esperando. Ela viu ele e veio correndo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "veio",
+    "correndo."
+   ]
+  },
+  {
+   "fala": "Ela perguntou: é o senhor dos guarda-chuvas? Ele, desconfiado, disse que sim. Ela abriu a bolsa.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "É o senhor? Dos guarda-chuvas?"
+   ],
+   "destaque": [
+    "abriu",
+    "bolsa."
+   ]
+  },
+  {
+   "fala": "Tirou um guarda-chuva azul, velho, com a etiqueta original. E um envelope. Disse: tô procurando o senhor há quatro anos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "UM GUARDA-CHUVA E UMA CARTA"
+   ],
+   "destaque": [
+    "quatro",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ela pediu pra ele ler ali mesmo. Eu fiquei dentro do carro, mas ele leu em voz alta, de tão emocionado.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tão",
+    "emocionado."
+   ]
+  },
+  {
+   "fala": "Quatro anos antes, ela estava indo pra uma entrevista de emprego. A única roupa boa que tinha. E desabou uma tempestade.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A ENTREVISTA DE EMPREGO"
+   ],
+   "destaque": [
+    "desabou",
+    "tempestade."
+   ]
+  },
+  {
+   "fala": "Ela ia desistir. Molhada, ia voltar pra casa e não ir. Aí viu o guarda-chuva pendurado no ponto com o bilhete.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ia desistir e voltar pra casa."
+   ],
+   "destaque": [
+    "ponto",
+    "bilhete."
+   ]
+  },
+  {
+   "fala": "Chegou seca na entrevista. Passou. Era o primeiro emprego formal dela, numa empresa de engenharia.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "empresa",
+    "engenharia."
+   ]
+  },
+  {
+   "fala": "Hoje ela era gerente na mesma empresa. E guardou o guarda-chuva quatro anos, porque queria devolver pessoalmente.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "HOJE ELA É GERENTE"
+   ],
+   "destaque": [
+    "devolver",
+    "pessoalmente."
+   ]
+  },
+  {
+   "fala": "E tinha mais. Ela disse: eu convenci a empresa. A partir de hoje, todos os pontos perto das nossas obras vão ter guarda-chuva de empréstimo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E tem mais uma coisa."
+   ],
+   "destaque": [
+    "guarda-chuva",
+    "empréstimo."
+   ]
+  },
+  {
+   "fala": "Quinhentos guarda-chuvas. Com o mesmo bilhete dele. Devolva quando puder.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "QUINHENTOS GUARDA-CHUVAS"
+   ],
+   "destaque": [
+    "quando",
+    "puder."
+   ]
+  },
+  {
+   "fala": "O seu Natanael sentou no banco do ponto, segurando o guarda-chuva azul. Começou a chover. Ninguém abriu nada. Ficamos os três ali, molhando.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ali,",
+    "molhando."
+   ]
+  },
+  {
+   "fala": "Eu levei ele de volta pra casa, com as sacolas vazias. Ele disse que a esposa, se estivesse aqui, ia rir de ver aquilo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "ver",
+    "aquilo."
+   ]
+  },
+  {
+   "fala": "Moral da história: um gesto pequeno pode chegar seco numa entrevista. E mudar uma vida inteira.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OFERECE"
+   ],
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "E se você tiver um guarda-chuva sobrando hoje, oferece pra alguém no ponto. Devolva quando puder.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DEVOLVA QUANDO PUDER"
+   ],
+   "destaque": [
+    "quando",
+    "puder."
+   ]
+  }
+ ]
+}

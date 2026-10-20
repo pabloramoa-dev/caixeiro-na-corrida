@@ -1,0 +1,291 @@
+{
+ "id": "cx029",
+ "ep": 29,
+ "avulso": true,
+ "titulo": "O MOTOBOY E O ANEL",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "💍 Um motoboy pediu um carro pela primeira vez na vida… porque o que ele ia levar não podia cair.\n\nQual foi o pedido de casamento mais bonito que você já viu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #pedidodecasamento #romance #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💍 Um motoboy pediu um carro pela primeira vez na vida… porque o que ele ia levar não podia cair. Qual foi o pedido de casamento mais bonito que você já viu? 👇\nHistória de ficção.\n#amor #pedidodecasamento #romance #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi de alguém que vive em cima de duas rodas e nunca tinha chamado um carro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "chamado",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Domingo, três da tarde. Entrou um rapaz de jaqueta de motoboy, capacete no colo e uma caixinha de veludo apertada na mão.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "DOMINGO · 15H"
+   ],
+   "destaque": [
+    "apertada",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Disse: é a primeira vez que eu ando de aplicativo como passageiro. Eu só entrego.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a primeira vez que eu ando de Uber."
+   ],
+   "destaque": [
+    "só",
+    "entrego."
+   ]
+  },
+  {
+   "fala": "Perguntei por que não foi de moto. Ele levantou a caixinha. Disse: isso aqui não pode cair, não pode molhar e não pode ser roubado.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Por que não veio de moto?"
+   ],
+   "destaque": [
+    "ser",
+    "roubado."
+   ]
+  },
+  {
+   "fala": "Era o anel. Ia pedir a namorada em casamento naquela tarde, no aniversário dela, na frente da família toda.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PEDIDO É HOJE"
+   ],
+   "destaque": [
+    "família",
+    "toda."
+   ]
+  },
+  {
+   "fala": "Sete anos de namoro. Ele pagou o anel em dez vezes, fazendo entrega extra de madrugada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "extra",
+    "madrugada."
+   ]
+  },
+  {
+   "fala": "Eu perguntei, só pra provocar: e se ela disser não? Ele riu: aí eu peço de novo amanhã. E depois de amanhã.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E se ela disser não?"
+   ],
+   "destaque": [
+    "depois",
+    "amanhã."
+   ]
+  },
+  {
+   "fala": "Contou como se conheceram. Ele foi entregar uma pizza errada no prédio dela. Ela não tinha pedido pizza.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pedido",
+    "pizza."
+   ]
+  },
+  {
+   "fala": "Ela pagou mesmo assim, porque ficou com pena dele. E ainda ofereceu um copo d'água.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela pagou mesmo assim."
+   ],
+   "destaque": [
+    "copo",
+    "d'água."
+   ]
+  },
+  {
+   "fala": "Ele voltou no dia seguinte pra devolver o dinheiro. E no outro. E no outro. Hoje são sete anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A PIZZA ERRADA"
+   ],
+   "destaque": [
+    "sete",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Aí travou tudo. Acidente na avenida. Trânsito parado, o aplicativo dizendo mais quarenta minutos.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "TRÂNSITO PARADO"
+   ],
+   "destaque": [
+    "quarenta",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "Ele começou a suar. A festa é às quatro, moço. Eu prometi que chegava antes do bolo.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "A festa é às quatro!"
+   ],
+   "destaque": [
+    "antes",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Eu olhei pro lado. Uma fila de motos passando no corredor. E tive uma ideia meio maluca.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "maluca."
+   ]
+  },
+  {
+   "fala": "Falei: liga pros teus colegas. Motoboy se ajuda, não ajuda?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Liga pros seus colegas."
+   ],
+   "destaque": [
+    "ajuda,",
+    "ajuda?"
+   ]
+  },
+  {
+   "fala": "Ele mandou mensagem no grupo. Em dez minutos tinha doze motos paradas do lado do meu carro, buzinando.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "12 motoboys a caminho"
+   ],
+   "destaque": [
+    "carro,",
+    "buzinando."
+   ]
+  },
+  {
+   "fala": "Ele desceu, beijou a caixinha, guardou no bolso de dentro da jaqueta e subiu na garupa de um colega.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "garupa",
+    "colega."
+   ]
+  },
+  {
+   "fala": "Mas antes me fez prometer uma coisa: que eu ia levar o capacete dele até a festa, porque ele saiu com o do amigo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "saiu",
+    "amigo."
+   ]
+  },
+  {
+   "fala": "Quarenta minutos depois, eu cheguei com o capacete. Música alta no quintal, família toda reunida.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "toda",
+    "reunida."
+   ]
+  },
+  {
+   "fala": "Na frente da casa, doze motos estacionadas em fila, com os pilotos de jaqueta, todos em silêncio, olhando lá pra dentro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "DOZE MOTOS NA PORTA"
+   ],
+   "destaque": [
+    "lá",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Cheguei bem na hora. Ele de joelho, ela com a mão na boca, e o sim mais alto que eu já ouvi.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "ELA DISSE SIM"
+   ],
+   "destaque": [
+    "já",
+    "ouvi."
+   ]
+  },
+  {
+   "fala": "Os motoboys buzinaram todos juntos. A vizinhança achou que era jogo do Brasil.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "jogo",
+    "Brasil."
+   ]
+  },
+  {
+   "fala": "Ele me viu com o capacete na mão e gritou: esse aí é o padrinho! Fiquei pro bolo, não vou mentir.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "O senhor é convidado."
+   ],
+   "destaque": [
+    "vou",
+    "mentir."
+   ]
+  },
+  {
+   "fala": "A Rosângela até hoje acha que eu inventei essa. Eu mostro a foto: eu, o capacete e doze motos.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "doze",
+    "motos."
+   ]
+  },
+  {
+   "fala": "Moral da história: amor de verdade chega. Nem que seja na garupa dos amigos.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CHEGA JUNTO"
+   ],
+   "destaque": [
+    "dos",
+    "amigos."
+   ]
+  },
+  {
+   "fala": "E a pizza errada virou o bolo de casamento. Formato de pizza. Ideia dela.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ELA DISSE SIM"
+   ],
+   "destaque": [
+    "Ideia",
+    "dela."
+   ]
+  }
+ ]
+}

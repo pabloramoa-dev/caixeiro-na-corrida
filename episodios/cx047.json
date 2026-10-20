@@ -1,0 +1,270 @@
+{
+ "id": "cx047",
+ "ep": 47,
+ "avulso": true,
+ "titulo": "A BATERIA NO ENGARRAFAMENTO",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🥁 Um ritmista de escola de samba ficou preso no engarrafamento com o surdo no meu carro. Em dez minutos, a avenida virou Sapucaí.\n\nQual a sua escola de samba do coração? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#samba #carnaval #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥁 Um ritmista de escola de samba ficou preso no engarrafamento com o surdo no meu carro. Em dez minutos, a avenida virou Sapucaí. Qual a sua escola de samba do coração? 👇\nHistória de ficção.\n#samba #carnaval #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve desfile, bateria e comissão de frente no meio do trânsito.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "meio",
+    "trânsito."
+   ]
+  },
+  {
+   "fala": "Quinta-feira, oito da noite. Entrou um rapaz de camiseta de escola de samba carregando um surdo. Um surdo enorme. Que não cabia em lugar nenhum.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "QUINTA · 20H"
+   ],
+   "destaque": [
+    "lugar",
+    "nenhum."
+   ]
+  },
+  {
+   "fala": "Ele disse: o surdo vai no meu colo, igual neném. Ensaio técnico hoje, eu não posso chegar atrasado.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele vai no colo."
+   ],
+   "destaque": [
+    "chegar",
+    "atrasado."
+   ]
+  },
+  {
+   "fala": "Chama-se Tiago. Ritmista há quinze anos. Primeiro surdo da bateria. Disse que o surdo é o coração da escola. Se ele para, a escola para.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "escola",
+    "para."
+   ]
+  },
+  {
+   "fala": "Aí travou tudo. Caminhão quebrado na ponte. Ninguém andava. O aplicativo dizendo mais cinquenta minutos.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "ENGARRAFAMENTO"
+   ],
+   "destaque": [
+    "cinquenta",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "O Tiago começou a ficar nervoso. Batia o pé. Olhava o relógio. Disse que o mestre de bateria era capaz de tirar ele do desfile.",
+   "expr": "brava",
+   "arte": null,
+   "destaque": [
+    "tirar",
+    "desfile."
+   ]
+  },
+  {
+   "fala": "Eu falei de brincadeira: então ensaia aqui, rapaz. Ninguém vai sair do lugar mesmo.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Então ensaia aqui."
+   ],
+   "destaque": [
+    "lugar",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Ele me olhou. Olhou o surdo. Abriu a janela. E desceu do carro com o surdo pendurado no ombro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "pendurado",
+    "ombro."
+   ]
+  },
+  {
+   "fala": "E começou. Pá, pá, pá. No meio da ponte parada. Aquele grave entrando no peito de todo mundo.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "PÁ! PÁ! PÁ!"
+   ],
+   "destaque": [
+    "todo",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "O motorista do lado abriu a janela e começou a batucar no teto do carro. A moça da frente pegou uma garrafa e um chaveiro e fez de agogô.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "fez",
+    "agogô."
+   ]
+  },
+  {
+   "fala": "Desceu um senhor de um ônibus com um pandeiro. Juro. Um pandeiro. Disse que tinha comprado pro neto e ia estrear ali.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "estrear",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Em dez minutos tinha umas trinta pessoas batucando na ponte. Buzina no ritmo. Gente sambando entre os carros.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A PONTE VIROU AVENIDA"
+   ],
+   "destaque": [
+    "entre",
+    "carros."
+   ]
+  },
+  {
+   "fala": "Eu fiquei dentro do carro marcando o tempo no volante. Não tenho ritmo nenhum, mas a Rosângela diz que eu sou esforçado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sou",
+    "esforçado."
+   ]
+  },
+  {
+   "fala": "Aí chegou a polícia de trânsito. Um guarda de colete parou na frente do Tiago, sério, e pediu: documentos, por favor.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Documentos, por favor."
+   ],
+   "destaque": [
+    "documentos,",
+    "favor."
+   ]
+  },
+  {
+   "fala": "A ponte inteira ficou em silêncio. O Tiago entregou a carteira. O guarda olhou. Devolveu. E falou.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Devolveu.",
+    "falou."
+   ]
+  },
+  {
+   "fala": "Falou: o senhor tá atravessando o ritmo no terceiro tempo. E pegou as baquetas.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tá atravessando o ritmo."
+   ],
+   "destaque": [
+    "pegou",
+    "baquetas."
+   ]
+  },
+  {
+   "fala": "O guarda era ritmista da escola rival. Tocou um minuto que deixou todo mundo de boca aberta. A ponte aplaudiu de pé.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "O GUARDA ERA RITMISTA"
+   ],
+   "destaque": [
+    "aplaudiu",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Aí o caminhão foi rebocado. O trânsito andou. Cada um voltou pro seu carro rindo, como se tivesse saído de um show.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "saído",
+    "show."
+   ]
+  },
+  {
+   "fala": "Chegamos na quadra da escola quarenta minutos atrasados. O mestre de bateria na porta, de cara feia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "cara",
+    "feia."
+   ]
+  },
+  {
+   "fala": "Mas alguém tinha filmado a ponte. O vídeo já tinha rodado o bairro inteiro. O mestre viu e só falou: entra, maluco.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Vídeo viralizou"
+   ],
+   "destaque": [
+    "entra,",
+    "maluco."
+   ]
+  },
+  {
+   "fala": "E ainda chamou o guarda pra tocar com eles no domingo. Rivalidade de escola, só na avenida.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "só",
+    "avenida."
+   ]
+  },
+  {
+   "fala": "Eu fiquei com o pandeiro do senhor do ônibus, que esqueceu no meu banco. Tá no porta-malas esperando o dono.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "esperando",
+    "dono."
+   ]
+  },
+  {
+   "fala": "Moral da história: o trânsito para. A gente não precisa parar junto.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FAZ DO LIMÃO SAMBA"
+   ],
+   "destaque": [
+    "parar",
+    "junto."
+   ]
+  },
+  {
+   "fala": "E se você ficar preso no engarrafamento hoje, batuca no volante. Vai que alguém responde.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PÁ PÁ PÁ"
+   ],
+   "destaque": [
+    "alguém",
+    "responde."
+   ]
+  }
+ ]
+}

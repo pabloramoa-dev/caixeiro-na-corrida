@@ -1,0 +1,273 @@
+{
+ "id": "cx072",
+ "ep": 72,
+ "avulso": true,
+ "titulo": "OS TRÊS DO PASTEL",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🥟 Três amigos de 80 e poucos anos fogem toda terça pra comer pastel na feira. O pasteleiro guarda um segredo sobre o quarto amigo.\n\nQual tradição você mantém com seus amigos há anos? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #feira #idosos #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥟 Três amigos de 80 e poucos anos fogem toda terça pra comer pastel na feira. O pasteleiro guarda um segredo sobre o quarto amigo. Qual tradição você mantém com seus amigos há anos? 👇\nHistória de ficção.\n#amizade #feira #idosos #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida tinha três senhores, uma feira e um banquinho vazio.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "banquinho",
+    "vazio."
+   ]
+  },
+  {
+   "fala": "Terça, seis da tarde. Feira noturna. Entraram três senhores no meu carro. Um de boina, um de suspensório, um de bengala com fita do time.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 18H"
+   ],
+   "destaque": [
+    "fita",
+    "time."
+   ]
+  },
+  {
+   "fala": "O de boina falou: feira da praça, e não conta pras nossas filhas. Elas acham que a gente tá no grupo de oração.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Feira da praça, e não conta pra ninguém."
+   ],
+   "destaque": [
+    "grupo",
+    "oração."
+   ]
+  },
+  {
+   "fala": "Seu Nilo, seu Arnaldo e seu Geraldo. Oitenta e dois, oitenta e quatro e oitenta e seis. Se chamavam de os mosqueteiros.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "OS MOSQUETEIROS"
+   ],
+   "destaque": [
+    "chamavam",
+    "mosqueteiros."
+   ]
+  },
+  {
+   "fala": "Toda terça fugiam pra comer pastel. Pastel de carne com ovo, caldo de cana e uma hora de conversa fiada. Faziam isso havia quarenta anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e as filhas nunca descobriram? O seu Arnaldo riu: elas sabem. Elas fingem que não sabem. É o acordo.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E as filhas não sabem?"
+   ],
+   "destaque": [
+    "sabem.",
+    "acordo."
+   ]
+  },
+  {
+   "fala": "No caminho, discutiram futebol, reclamaram do preço do remédio e disputaram quem tinha mais neto.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "neto."
+   ]
+  },
+  {
+   "fala": "Eu, que lembro do livro, falei: os mosqueteiros eram quatro, não eram? Os três ficaram quietos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Os mosqueteiros eram três?"
+   ],
+   "destaque": [
+    "ficaram",
+    "quietos."
+   ]
+  },
+  {
+   "fala": "O seu Geraldo falou: eram quatro. O Toninho. Foi embora ano passado. Ele que inventou o pastel de terça.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O nosso quarto foi embora."
+   ],
+   "destaque": [
+    "pastel",
+    "terça."
+   ]
+  },
+  {
+   "fala": "Disse que desde então eles continuavam indo. Mas que o banquinho do Toninho ficava vazio. Ninguém sentava.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Ninguém",
+    "sentava."
+   ]
+  },
+  {
+   "fala": "Chegamos na feira. Barraca de pastel, luz amarela, cheiro de óleo quente. Quatro banquinhos de plástico na frente do balcão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "frente",
+    "balcão."
+   ]
+  },
+  {
+   "fala": "O pasteleiro, um rapaz de uns trinta anos, já sabia o pedido. Três de carne com ovo e três caldos de cana. Sem perguntar.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Sem",
+    "perguntar."
+   ]
+  },
+  {
+   "fala": "Mas ele fritou quatro pastéis. E pôs quatro caldos de cana no balcão. Um na frente do banquinho vazio.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "QUATRO PASTÉIS"
+   ],
+   "destaque": [
+    "banquinho",
+    "vazio."
+   ]
+  },
+  {
+   "fala": "Os três se olharam. Isso nunca tinha acontecido. O seu Nilo perguntou: rapaz, você errou. Somos três agora.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "três",
+    "agora."
+   ]
+  },
+  {
+   "fala": "O pasteleiro limpou a mão no avental e falou: não errei, não. O quarto é meu. Eu sento hoje, se os senhores deixarem.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Não errei, não."
+   ],
+   "destaque": [
+    "senhores",
+    "deixarem."
+   ]
+  },
+  {
+   "fala": "Ele contou. O Toninho era o pai dele. Por isso, quinze anos atrás, quando a barraca antiga fechou, ele abriu essa ali. Na frente do banquinho.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA O FILHO DO TONINHO"
+   ],
+   "destaque": [
+    "frente",
+    "banquinho."
+   ]
+  },
+  {
+   "fala": "Disse: meu pai me pediu pra não deixar os senhores sem pastel. Disse que essa terça era o que segurava os quatro de pé.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai me pediu."
+   ],
+   "destaque": [
+    "quatro",
+    "pé."
+   ]
+  },
+  {
+   "fala": "O seu Geraldo levantou a bengala, bateu no chão e disse: senta, menino. O lugar é seu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "lugar",
+    "seu."
+   ]
+  },
+  {
+   "fala": "Ele sentou no banquinho do pai. Pastel na mão. E os três contaram histórias do Toninho que ele nunca tinha ouvido.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O BANQUINHO DO TONINHO"
+   ],
+   "destaque": [
+    "tinha",
+    "ouvido."
+   ]
+  },
+  {
+   "fala": "Riram até chorar. O seu Arnaldo contou que o Toninho uma vez comeu sete pastéis numa terça e passou mal na quarta.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mal",
+    "quarta."
+   ]
+  },
+  {
+   "fala": "Eu fiquei encostado no carro, comendo um pastel que eles fizeram questão de pagar. Não pude recusar. Eu tentei. Pouco.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tentei.",
+    "Pouco."
+   ]
+  },
+  {
+   "fala": "Levei os três de volta às nove. Um deles dormiu antes da segunda esquina. Os outros dois cantaram a música do time.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "música",
+    "time."
+   ]
+  },
+  {
+   "fala": "Moral da história: amizade de verdade não deixa banquinho vazio. Sempre aparece alguém pra sentar no lugar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "GUARDA O LUGAR"
+   ],
+   "destaque": [
+    "sentar",
+    "lugar."
+   ]
+  },
+  {
+   "fala": "E se você tem um amigo de muito tempo, marca a terça do pastel. Não espera ninguém sumir.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "OS QUATRO DE NOVO"
+   ],
+   "destaque": [
+    "ninguém",
+    "sumir."
+   ]
+  }
+ ]
+}

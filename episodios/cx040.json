@@ -1,0 +1,276 @@
+{
+ "id": "cx040",
+ "ep": 40,
+ "avulso": true,
+ "titulo": "A TURMA DE 1986",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🎓 Dois homens dividiram a corrida sem saber que foram melhores amigos na escola. Um deles ia desistir da festa dos 40 anos da turma.\n\nVocê ainda fala com seu melhor amigo de infância? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #reencontro #escola #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎓 Dois homens dividiram a corrida sem saber que foram melhores amigos na escola. Um deles ia desistir da festa dos 40 anos da turma. Você ainda fala com seu melhor amigo de infância? 👇\nHistória de ficção.\n#amizade #reencontro #escola #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida juntou dois meninos de 1986 que estavam com cinquenta e tantos anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "tantos",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, oito da noite. Corrida compartilhada. Primeiro entrou um homem de blazer, perfumado, nervoso, olhando o relógio toda hora.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "SÁBADO · 20H"
+   ],
+   "destaque": [
+    "toda",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Ia pra um salão de festas. Reencontro de quarenta anos da turma da escola. Ele era o organizador.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "organizador."
+   ]
+  },
+  {
+   "fala": "Disse que estava chateado: o melhor amigo dele da escola, o Beto, tinha confirmado e depois cancelado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O Beto não vem."
+   ],
+   "destaque": [
+    "depois",
+    "cancelado."
+   ]
+  },
+  {
+   "fala": "Eram inseparáveis. Jogavam bola, colavam na prova, dividiam merenda. Depois cada um foi pra um lado e perderam contato.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "perderam",
+    "contato."
+   ]
+  },
+  {
+   "fala": "O aplicativo apitou. Segunda parada. Entrou um homem de camisa simples, boné, desses de quem saiu do trabalho agora.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Nova parada no caminho"
+   ],
+   "destaque": [
+    "trabalho",
+    "agora."
+   ]
+  },
+  {
+   "fala": "Ia pro mesmo bairro, mas pra outro endereço. Uma lanchonete. Sentou na frente comigo, calado.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "comigo,",
+    "calado."
+   ]
+  },
+  {
+   "fala": "O de blazer, puxando assunto, contou da festa. Falou dos professores, das brincadeiras, da turma da sexta B.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Vai pra festa também?"
+   ],
+   "destaque": [
+    "sexta",
+    "B."
+   ]
+  },
+  {
+   "fala": "O de boné ficou quieto. Mas eu vi pelo canto do olho que ele estava sorrindo de um jeito diferente.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "jeito",
+    "diferente."
+   ]
+  },
+  {
+   "fala": "Quando o de blazer falou da professora Dalva, o de boné soltou: aquela que confiscou nossa bola de meia?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "E a professora Dalva?"
+   ],
+   "destaque": [
+    "bola",
+    "meia?"
+   ]
+  },
+  {
+   "fala": "O de blazer parou. Se inclinou pra frente. Tirou o boné do homem. Era o Beto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA O BETO"
+   ],
+   "destaque": [
+    "Era",
+    "Beto."
+   ]
+  },
+  {
+   "fala": "Gritaram os dois juntos. O carro balançou. Eu quase subi na calçada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "subi",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Aí veio a pergunta: Beto, por que você cancelou? O Beto ficou sério.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que você cancelou?"
+   ],
+   "destaque": [
+    "ficou",
+    "sério."
+   ]
+  },
+  {
+   "fala": "Ele disse: todo mundo virou doutor, empresário. Eu sou porteiro de prédio. Fiquei com vergonha de aparecer.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sou porteiro, cara."
+   ],
+   "destaque": [
+    "vergonha",
+    "aparecer."
+   ]
+  },
+  {
+   "fala": "Ia jantar sozinho na lanchonete, na mesma rua do salão, só pra ver o pessoal chegando de longe.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "VERGONHA DE APARECER"
+   ],
+   "destaque": [
+    "chegando",
+    "longe."
+   ]
+  },
+  {
+   "fala": "O amigo ficou um tempo calado. E aí contou uma coisa que o Beto não sabia.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Beto",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Lembra da oitava série, quando eu ia repetir e meu pai ia me tirar da escola? Você estudou comigo todo dia, de graça, na sua casa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Você me salvou na oitava série."
+   ],
+   "destaque": [
+    "sua",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Eu me formei por sua causa. Tudo que eu tenho começou na mesa da cozinha da sua mãe.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "GRAÇAS AO BETO"
+   ],
+   "destaque": [
+    "sua",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "Chegamos na lanchonete. O Beto não desceu. O amigo segurou o braço dele e falou pra mim: segue direto pro salão, motorista.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "salão,",
+    "motorista."
+   ]
+  },
+  {
+   "fala": "Entraram juntos no salão. O de blazer gritou no microfone: atenção, sexta B, o Beto chegou!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Beto",
+    "chegou!"
+   ]
+  },
+  {
+   "fala": "A turma inteira se levantou e aplaudiu. A professora Dalva, com oitenta anos, estava lá. Com uma bola de meia na bolsa.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "A TURMA APLAUDIU"
+   ],
+   "destaque": [
+    "meia",
+    "bolsa."
+   ]
+  },
+  {
+   "fala": "Eu fiquei do lado de fora um pouquinho, olhando pelo vidro. Dois meninos de cinquenta e quatro anos dançando a música da formatura.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "música",
+    "formatura."
+   ]
+  },
+  {
+   "fala": "Moral da história: amigo de verdade não pergunta o que você virou. Pergunta onde você estava.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APARECE"
+   ],
+   "destaque": [
+    "você",
+    "estava."
+   ]
+  },
+  {
+   "fala": "E se tiver uma festa da sua turma chegando, vai. Alguém lá tá esperando você aparecer.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEXTA B"
+   ],
+   "destaque": [
+    "você",
+    "aparecer."
+   ]
+  }
+ ]
+}

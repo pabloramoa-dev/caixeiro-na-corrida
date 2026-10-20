@@ -1,0 +1,284 @@
+{
+ "id": "cx043",
+ "ep": 43,
+ "avulso": true,
+ "titulo": "A MUDANÇA NO SEDAN",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "📦 Um estudante tentou fazer a mudança inteira no meu carro. Geladeira, violão, gato… e a mãe seguindo a gente escondida.\n\nComo foi o dia em que você saiu da casa dos seus pais? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #mudanca #mae #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📦 Um estudante tentou fazer a mudança inteira no meu carro. Geladeira, violão, gato… e a mãe seguindo a gente escondida. Como foi o dia em que você saiu da casa dos seus pais? 👇\nHistória de ficção.\n#humor #mudanca #mae #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve mais bagagem que voo internacional.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "voo",
+    "internacional."
+   ]
+  },
+  {
+   "fala": "Domingo, nove da manhã. Cheguei no endereço e tinha um rapaz de uns dezenove anos na calçada, cercado de caixas.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "DOMINGO · 9H"
+   ],
+   "destaque": [
+    "cercado",
+    "caixas."
+   ]
+  },
+  {
+   "fala": "Era a mudança. A mudança inteira. Pra caber num sedan. Ele ia morar sozinho pela primeira vez, perto da faculdade.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A MUDANÇA INTEIRA"
+   ],
+   "destaque": [
+    "perto",
+    "faculdade."
+   ]
+  },
+  {
+   "fala": "Perguntou, com uma esperança que me cortou o coração: o senhor acha que cabe? Eu olhei. Tinha uma geladeira.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "O senhor acha que cabe?"
+   ],
+   "destaque": [
+    "Tinha",
+    "geladeira."
+   ]
+  },
+  {
+   "fala": "Uma geladeira pequena, daquelas de quarto. Um violão. Um ventilador. Três sacos de roupa. Um vaso de samambaia. E um gato.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "samambaia.",
+    "gato."
+   ]
+  },
+  {
+   "fala": "O gato vai no meu colo, ele disse. O nome dele é Professor. Ele tem ansiedade de carro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O gato vai no colo."
+   ],
+   "destaque": [
+    "ansiedade",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Começamos o tetris. A geladeira no banco de trás, deitada. O violão atravessado. A samambaia no banco da frente, com o cinto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "frente,",
+    "cinto."
+   ]
+  },
+  {
+   "fala": "Eu nunca coloquei cinto numa samambaia na vida. Mas ela foi, presa, balançando as folhas na minha orelha.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "A SAMAMBAIA DE CINTO"
+   ],
+   "destaque": [
+    "minha",
+    "orelha."
+   ]
+  },
+  {
+   "fala": "O rapaz no meio de tudo, espremido, com o Professor no colo miando igual sirene.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "sirene."
+   ]
+  },
+  {
+   "fala": "Aí eu reparei: tinha um carro prateado parado na esquina, com uma mulher de óculos escuros, olhando pra gente.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "olhando",
+    "gente."
+   ]
+  },
+  {
+   "fala": "Saímos. O carro prateado saiu atrás. Eu virei à direita. Ele virou à direita. Eu parei no sinal. Ele parou.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "sinal.",
+    "parou."
+   ]
+  },
+  {
+   "fala": "Eu falei: rapaz, acho que tem alguém seguindo a gente. Ele olhou pra trás e afundou no banco.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Tô sendo seguido?"
+   ],
+   "destaque": [
+    "afundou",
+    "banco."
+   ]
+  },
+  {
+   "fala": "É minha mãe. Eu falei que queria ir sozinho. Que eu sou adulto. Ela concordou. E tá ali.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "ERA A MÃE"
+   ],
+   "destaque": [
+    "tá",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Disse que a mãe chorou a semana inteira. Que tinha feito comida pra trinta dias e congelado em potinho com etiqueta.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "potinho",
+    "etiqueta."
+   ]
+  },
+  {
+   "fala": "E ela acha que tá disfarçada porque colocou óculos escuros. O carro é o mesmo há doze anos, moço.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela tá de óculos escuros."
+   ],
+   "destaque": [
+    "anos,",
+    "moço."
+   ]
+  },
+  {
+   "fala": "Quarenta minutos de viagem. A mãe atrás o tempo todo. Uma hora ela passou do lado, olhou e fingiu que era outra pessoa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "40 MINUTOS"
+   ],
+   "destaque": [
+    "outra",
+    "pessoa."
+   ]
+  },
+  {
+   "fala": "Chegamos no prediozinho dele. Terceiro andar, sem elevador. Eu olhei a geladeira. A geladeira olhou pra mim.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "olhou",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Aí estaciona o carro prateado. A mãe desce, tira os óculos e fala: já que eu tô passando por aqui, por acaso.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "aqui,",
+    "acaso."
+   ]
+  },
+  {
+   "fala": "O filho: por acaso, mãe? Quarenta minutos atrás de mim? Ela: o trânsito me trouxe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Por acaso, mãe?"
+   ],
+   "destaque": [
+    "trânsito",
+    "trouxe."
+   ]
+  },
+  {
+   "fala": "E aí aconteceu a coisa mais bonita. Os dois pegaram a geladeira juntos. Subiram três andares brigando sobre quem segurava o lado pesado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "lado",
+    "pesado."
+   ]
+  },
+  {
+   "fala": "Eu subi com a samambaia. Lá em cima, vi a mãe colocar um bilhete na porta da geladeira, escondido, antes de ir embora.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELA DEIXOU UM BILHETE"
+   ],
+   "destaque": [
+    "ir",
+    "embora."
+   ]
+  },
+  {
+   "fala": "Ela me pediu pra não contar. Mas eu li. Estava escrito: a casa ficou grande. Volta pra almoçar domingo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "almoçar",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "Desci, e a mãe estava no carro dela chorando com a cabeça no volante. Bati no vidro e falei: ele vai voltar domingo. Eu vi o bilhete.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "vi",
+    "bilhete."
+   ]
+  },
+  {
+   "fala": "Moral da história: filho sai de casa. Mas mãe nenhuma sai de perto. Nem que seja de óculos escuros.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA DOMINGO"
+   ],
+   "destaque": [
+    "óculos",
+    "escuros."
+   ]
+  },
+  {
+   "fala": "E se você saiu de casa faz tempo, liga pra sua mãe hoje. Ela ainda tem um potinho congelado com o seu nome.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "COMIDA PRA 30 DIAS"
+   ],
+   "destaque": [
+    "seu",
+    "nome."
+   ]
+  }
+ ]
+}

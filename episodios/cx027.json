@@ -1,0 +1,276 @@
+{
+ "id": "cx027",
+ "ep": 27,
+ "avulso": true,
+ "titulo": "O DISCURSO DA PADARIA",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🥖 Ele ensaiou o discurso de demissão o caminho todo… e o chefe dele entrou no meu carro na parada seguinte.\n\nVocê já ensaiou uma conversa difícil e na hora deu tudo diferente? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #trabalho #emprego #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥖 Ele ensaiou o discurso de demissão o caminho todo… e o chefe dele entrou no meu carro na parada seguinte. Você já ensaiou uma conversa difícil e na hora deu tudo diferente? 👇\nHistória de ficção.\n#humor #trabalho #emprego #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve ensaio geral, plateia e uma estreia que ninguém esperava.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "ninguém",
+    "esperava."
+   ]
+  },
+  {
+   "fala": "Segunda-feira, sete e quinze. Entrou um rapaz de uns vinte e oito anos com uma folha de caderno dobrada e cara de quem não dormiu.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 7H15"
+   ],
+   "destaque": [
+    "quem",
+    "dormiu."
+   ]
+  },
+  {
+   "fala": "Mal sentou, perguntou: o senhor pode me ouvir um minuto e dizer se tá bom? Eu disse: manda.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "O senhor me ajuda?"
+   ],
+   "destaque": [
+    "disse:",
+    "manda."
+   ]
+  },
+  {
+   "fala": "Era um discurso de demissão. Trabalhava há seis anos numa padaria e ia pedir as contas pra abrir a própria confeitaria.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CARTA DE DEMISSÃO"
+   ],
+   "destaque": [
+    "própria",
+    "confeitaria."
+   ]
+  },
+  {
+   "fala": "Começou: seu Valdir, com todo respeito, eu sou grato por tudo, mas chegou a minha hora de voar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Seu Valdir, com todo respeito…"
+   ],
+   "destaque": [
+    "hora",
+    "voar."
+   ]
+  },
+  {
+   "fala": "Eu falei: voar tá bonito, mas fala mais firme. Patrão sente medo de longe, igual cachorro.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "cachorro."
+   ]
+  },
+  {
+   "fala": "Ele repetiu umas cinco vezes. Cada vez mais alto. Na quinta já tava batendo no encosto do banco, todo empolgado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "todo",
+    "empolgado."
+   ]
+  },
+  {
+   "fala": "Aí o aplicativo apitou. Corrida compartilhada. Uma parada no caminho, dois quarteirões pra frente.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Nova parada adicionada"
+   ],
+   "destaque": [
+    "quarteirões",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Parei, e entrou um senhor de uns sessenta anos, bigode, avental dobrado debaixo do braço e um saco de pão na mão.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "pão",
+    "mão."
+   ]
+  },
+  {
+   "fala": "O rapaz ficou branco. Branco igual farinha. Era o seu Valdir. O próprio. Que tinha deixado o carro na oficina.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "SEU VALDIR"
+   ],
+   "destaque": [
+    "carro",
+    "oficina."
+   ]
+  },
+  {
+   "fala": "O senhor disse: ué, Juninho, que coincidência boa! E o Juninho escondeu a folha embaixo da coxa.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Ué, Juninho?"
+   ],
+   "destaque": [
+    "embaixo",
+    "coxa."
+   ]
+  },
+  {
+   "fala": "Silêncio. Eu olhava pelo retrovisor e o Juninho me olhava de volta com olho de socorro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "olho",
+    "socorro."
+   ]
+  },
+  {
+   "fala": "Aí o seu Valdir soltou: tava ensaiando alguma coisa? Ouvi uma voz alta lá de fora.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Tava ensaiando alguma coisa?"
+   ],
+   "destaque": [
+    "lá",
+    "fora."
+   ]
+  },
+  {
+   "fala": "Eu tossi. Liguei o rádio. Desliguei o rádio. Não sabia onde enfiar a cara, e eu nem era o funcionário.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "era",
+    "funcionário."
+   ]
+  },
+  {
+   "fala": "Aí o Juninho respirou fundo e falou, sem papel nenhum: seu Valdir, eu vou sair. Vou abrir minha confeitaria.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Seu Valdir, eu vou sair."
+   ],
+   "destaque": [
+    "minha",
+    "confeitaria."
+   ]
+  },
+  {
+   "fala": "O carro inteiro ficou esperando. Até o semáforo parece que demorou mais pra abrir.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "abrir."
+   ]
+  },
+  {
+   "fala": "E o seu Valdir deu um tapa na perna e falou: até que enfim, rapaz! Achei que ia ter que te demitir pra você criar coragem.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Até que enfim, rapaz!"
+   ],
+   "destaque": [
+    "criar",
+    "coragem."
+   ]
+  },
+  {
+   "fala": "Contou que sabia de tudo. Viu as encomendas do Juninho no celular da filha, que era cliente fiel dos doces dele.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "ELE JÁ SABIA"
+   ],
+   "destaque": [
+    "doces",
+    "dele."
+   ]
+  },
+  {
+   "fala": "E ainda propôs: o pão da sua confeitaria vem da minha padaria. Preço de amigo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Quero ser seu fornecedor."
+   ],
+   "destaque": [
+    "Preço",
+    "amigo."
+   ]
+  },
+  {
+   "fala": "Chegamos na padaria. Os dois desceram juntos, conversando de forno, de massa, de aluguel.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "massa,",
+    "aluguel."
+   ]
+  },
+  {
+   "fala": "O Juninho voltou correndo, bateu no vidro e me entregou a folha do discurso. Disse: fica pro senhor, deu sorte.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "deu",
+    "sorte."
+   ]
+  },
+  {
+   "fala": "Guardei no porta-luvas. Tá lá até hoje, ao lado do terço e do manual do carro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "manual",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem conversa que a gente ensaia meses. E quando sai do coração, sai melhor que o ensaio.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FALA SEM PAPEL"
+   ],
+   "destaque": [
+    "melhor",
+    "ensaio."
+   ]
+  },
+  {
+   "fala": "E se você for na confeitaria do Juninho, pede o sonho. Recheio de doce de leite, pão do seu Valdir.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "DISCURSO APROVADO"
+   ],
+   "destaque": [
+    "seu",
+    "Valdir."
+   ]
+  }
+ ]
+}
