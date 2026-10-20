@@ -1,0 +1,288 @@
+{
+ "id": "cx088",
+ "ep": 88,
+ "avulso": true,
+ "titulo": "A MOÇA DO PEDÁGIO",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🛣️ Por 22 anos, um caminhoneiro passou no mesmo pedágio e recebeu o mesmo sorriso. No dia da aposentadoria, ele foi dizer obrigado.\n\nTem algum sorriso de desconhecido que fez parte da sua rotina? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #caminhoneiro #estrada #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🛣️ Por 22 anos, um caminhoneiro passou no mesmo pedágio e recebeu o mesmo sorriso. No dia da aposentadoria, ele foi dizer obrigado. Tem algum sorriso de desconhecido que fez parte da sua rotina? 👇\nHistória de ficção.\n#amor #caminhoneiro #estrada #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi até um pedágio. E não era pra pagar.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "era",
+    "pagar."
+   ]
+  },
+  {
+   "fala": "Terça, nove da noite. Entrou um senhor de uns sessenta e cinco anos, boné de transportadora, braço queimado de sol e um buquê de flores do campo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 21H"
+   ],
+   "destaque": [
+    "flores",
+    "campo."
+   ]
+  },
+  {
+   "fala": "Pediu: pedágio da serra, por favor. Cabine sete. Eu perguntei: o senhor vai viajar? Ele disse: não. Vou entregar flores.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Pedágio da serra."
+   ],
+   "destaque": [
+    "entregar",
+    "flores."
+   ]
+  },
+  {
+   "fala": "Seu Gilmar. Caminhoneiro por quarenta anos. E nos últimos vinte e dois, fez a mesma rota toda semana, passando pelo mesmo pedágio.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "22 ANOS DE ESTRADA"
+   ],
+   "destaque": [
+    "mesmo",
+    "pedágio."
+   ]
+  },
+  {
+   "fala": "Disse: eu sempre escolhia a cabine sete. Mesmo com fila. Porque lá trabalhava a dona Rosa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cabine sete. Sempre a sete."
+   ],
+   "destaque": [
+    "dona",
+    "Rosa."
+   ]
+  },
+  {
+   "fala": "Dona Rosa. Cobradora do pedágio. Que dava o troco, sorria e falava: boa viagem, seu Gilmar. Toda semana. Vinte e dois anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ele ficou viúvo há oito anos. E disse que muitas vezes, naquela estrada sozinho, o único sorriso da semana era o dela.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "era",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Mas nunca falou nada além de obrigado. Às vezes comentava do tempo, da chuva. Trinta segundos por semana.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Nunca falei mais que obrigado."
+   ],
+   "destaque": [
+    "segundos",
+    "semana."
+   ]
+  },
+  {
+   "fala": "Naquela semana ele se aposentou. Vendeu o caminhão. E disse que não podia parar de passar ali sem dizer obrigado direito.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "obrigado",
+    "direito."
+   ]
+  },
+  {
+   "fala": "Chegamos no pedágio, uma hora de estrada. Eu parei no acostamento depois das cabines, e ele desceu andando com as flores.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "andando",
+    "flores."
+   ]
+  },
+  {
+   "fala": "Foi até a cabine sete. Dava pra ver de onde eu estava. Tinha uma moça jovem lá dentro. Não era a dona Rosa.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "dona",
+    "Rosa."
+   ]
+  },
+  {
+   "fala": "Ele perguntou. A moça disse que a dona Rosa estava no último dia. Aposentando. Estava na sala da administração, na festa de despedida.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela não trabalha mais aqui?"
+   ],
+   "destaque": [
+    "festa",
+    "despedida."
+   ]
+  },
+  {
+   "fala": "O mesmo dia. Os dois se aposentando no mesmo dia, sem saber um do outro. Eu, do carro, arrepiei.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O MESMO DIA"
+   ],
+   "destaque": [
+    "carro,",
+    "arrepiei."
+   ]
+  },
+  {
+   "fala": "Ele foi até a sala da administração. Bateu na porta. Lá dentro, um bolo, uns balões e uma senhora de cabelo grisalho de uniforme.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "grisalho",
+    "uniforme."
+   ]
+  },
+  {
+   "fala": "Ela olhou e falou: seu Gilmar? O da cabine sete? O que o senhor tá fazendo aqui sem o caminhão?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Seu Gilmar?"
+   ],
+   "destaque": [
+    "sem",
+    "caminhão?"
+   ]
+  },
+  {
+   "fala": "Ele estendeu as flores e disse: vim dizer obrigado. Vinte e dois anos de boa viagem. A senhora não sabe o quanto me ajudou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Vim dizer obrigado."
+   ],
+   "destaque": [
+    "quanto",
+    "ajudou."
+   ]
+  },
+  {
+   "fala": "Ela pegou as flores sem conseguir falar. Os colegas dela em volta, em silêncio. Aí ela contou uma coisa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "contou",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Ela disse: eu sabia o seu dia. Terça. Quando o senhor não passava, eu ficava preocupada. Eu anotava a sua placa num caderno.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA ANOTAVA AS PLACAS"
+   ],
+   "destaque": [
+    "num",
+    "caderno."
+   ]
+  },
+  {
+   "fala": "E foi buscar o caderno na bolsa. Um caderno velho, cheio de datas. Ao lado de cada uma: passou, sorriu. Ou: não passou, rezei.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O CADERNO"
+   ],
+   "destaque": [
+    "passou,",
+    "rezei."
+   ]
+  },
+  {
+   "fala": "Ela também era viúva. Também esperava aquela terça. Os dois, vinte e dois anos, trocando trinta segundos de sorriso, sem saber.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELA TAMBÉM ESPERAVA"
+   ],
+   "destaque": [
+    "sem",
+    "saber."
+   ]
+  },
+  {
+   "fala": "Os colegas cortaram o bolo. Deram um pedaço pra ele. E um pra mim, que tinha ido até a porta curioso.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "porta",
+    "curioso."
+   ]
+  },
+  {
+   "fala": "Ela perguntou: e agora, seu Gilmar, qual a próxima viagem? Ele disse: a senhora aceita um café? Sem pedágio no meio.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E agora, qual a próxima viagem?"
+   ],
+   "destaque": [
+    "pedágio",
+    "meio."
+   ]
+  },
+  {
+   "fala": "Levei os dois de volta pra cidade. Um em cada ponta do banco de trás. No meio do caminho, já estavam no meio do banco.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "meio",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Moral da história: trinta segundos por semana podem ser a coisa mais importante da vida de alguém. Diz obrigado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AGRADECE"
+   ],
+   "destaque": [
+    "Diz",
+    "obrigado."
+   ]
+  },
+  {
+   "fala": "E se tem alguém que te atende com sorriso toda semana, agradece hoje. Pode ter um caderno do outro lado.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CABINE SETE"
+   ],
+   "destaque": [
+    "outro",
+    "lado."
+   ]
+  }
+ ]
+}

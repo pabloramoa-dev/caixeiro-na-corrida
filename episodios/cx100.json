@@ -1,0 +1,270 @@
+{
+ "id": "cx100",
+ "ep": 100,
+ "avulso": true,
+ "titulo": "A PASSAGEIRA ROSÂNGELA",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "❤️ Episódio 100. Nessa corrida, a passageira foi a minha esposa. E ela tinha preparado uma surpresa.\n\nComo você comemoraria uma data especial com quem você ama? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #casamento #episodio100 #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "❤️ Episódio 100. Nessa corrida, a passageira foi a minha esposa. E ela tinha preparado uma surpresa. Como você comemoraria uma data especial com quem você ama? 👇\nHistória de ficção.\n#amor #casamento #episodio100 #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida é a centésima. E a passageira, eu conheço há vinte e três anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "três",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sexta, oito da noite. Eu estava rodando quando apitou uma corrida. Nome da passageira: Rosângela. Pensei: Rosângela é nome comum. Aceitei.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 20H"
+   ],
+   "destaque": [
+    "comum.",
+    "Aceitei."
+   ]
+  },
+  {
+   "fala": "Cheguei no endereço. Era a porta da minha casa. E ela saiu de vestido vermelho, batom, perfume. Entrou no banco de trás. Boa noite, motorista.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Boa noite, motorista."
+   ],
+   "destaque": [
+    "noite,",
+    "motorista."
+   ]
+  },
+  {
+   "fala": "Eu, sem entender nada, comecei a rir. Ela séria: o senhor é casado? Eu disse: sou. Com uma mulher que tá muito estranha hoje.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O senhor é casado?"
+   ],
+   "destaque": [
+    "estranha",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "Ela não saiu do personagem. Disse o destino: um restaurante pequeno no centro. Eu conheço. Foi onde a gente comemorou o noivado.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "ELA ENTROU NO PAPEL"
+   ],
+   "destaque": [
+    "comemorou",
+    "noivado."
+   ]
+  },
+  {
+   "fala": "No caminho, ela fez comigo o que eu faço com os passageiros. Perguntou da vida, do dia, do que eu sonhava quando era moleque.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "moleque."
+   ]
+  },
+  {
+   "fala": "Perguntou: e o que o senhor queria ser quando era menino? Eu disse: piloto de corrida. Ela riu: e virou piloto de corrida. De outro tipo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O que você queria ser?"
+   ],
+   "destaque": [
+    "outro",
+    "tipo."
+   ]
+  },
+  {
+   "fala": "Aí ela contou a vida dela pro motorista. Que era auxiliar de limpeza num hospital quando conheceu um metalúrgico numa fila de pão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fila",
+    "pão."
+   ]
+  },
+  {
+   "fala": "Disse: quando a fábrica fechou, ele achou que ia perder tudo. Inclusive eu. Chorava escondido no banheiro achando que eu não ouvia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele tinha medo de não dar conta."
+   ],
+   "destaque": [
+    "achando",
+    "ouvia."
+   ]
+  },
+  {
+   "fala": "Eu fiquei quieto. Achei que ela não sabia. Vinte anos e eu achando que ela não sabia.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "achando",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Ela falou: eu ouvia, sim. Eu ficava do outro lado da porta. E rezava pra ele descobrir que não precisava ser forte sozinho.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu ouvia, sim."
+   ],
+   "destaque": [
+    "forte",
+    "sozinho."
+   ]
+  },
+  {
+   "fala": "Chegamos no restaurante. Ela pagou a corrida pelo aplicativo. E me avaliou. Na hora. Na minha frente.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "minha",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Cinco estrelas. E um comentário. Ela pediu pra eu ler em voz alta.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "Nova avaliação: 5 estrelas"
+   ],
+   "destaque": [
+    "voz",
+    "alta."
+   ]
+  },
+  {
+   "fala": "Dizia: motorista excelente. Escuta todo mundo. Mas esquece que também merece ser escutado. Recomendo pra vida inteira.",
+   "expr": "triste",
+   "arte": [
+    "manchete",
+    "O COMENTÁRIO"
+   ],
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Eu tive que ficar um tempo parado no carro, segurando o celular. A Rosângela me olhando pelo retrovisor, com o olho brilhando.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "olho",
+    "brilhando."
+   ]
+  },
+  {
+   "fala": "Aí ela disse: desce, motorista. Hoje a corrida é minha. Hoje você é o passageiro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Desce, motorista."
+   ],
+   "destaque": [
+    "você",
+    "passageiro."
+   ]
+  },
+  {
+   "fala": "Lá dentro, na mesa, tinha um caderno. Ela tinha anotado, durante esses anos, cada história que eu contava em casa. Cem histórias. Com data.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CEM HISTÓRIAS"
+   ],
+   "destaque": [
+    "histórias.",
+    "data."
+   ]
+  },
+  {
+   "fala": "O menino da peneira. A professora. O papagaio do pudim. O carteiro. O seu Valmir. Tudo escrito na letra dela, com observação na margem.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "observação",
+    "margem."
+   ]
+  },
+  {
+   "fala": "Eu achava que contava pra ela pra desabafar. Ela guardou todas. Disse: um dia você vai querer lembrar. E eu quero que você saiba que eu tava ouvindo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELA GUARDOU TODAS"
+   ],
+   "destaque": [
+    "tava",
+    "ouvindo."
+   ]
+  },
+  {
+   "fala": "E pediu: agora conta a nossa. Do começo. Como se eu fosse passageira e nunca tivesse ouvido. E eu contei. Do pão francês até ali.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Agora conta a nossa."
+   ],
+   "destaque": [
+    "até",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Voltamos pra casa de madrugada, ela no banco da frente. Primeira vez em anos que eu dirigi sem pressa, sem aplicativo, sem rumo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "sem",
+    "rumo."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem passa a vida ouvindo os outros também precisa de alguém que ouça. Eu tenho. Ela anota tudo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCUTA QUEM TE ESCUTA"
+   ],
+   "destaque": [
+    "anota",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Obrigado a você que tá aqui desde a primeira corrida. Essa foi a centésima. E a Rosângela manda um beijo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CORRIDA 100"
+   ],
+   "destaque": [
+    "manda",
+    "beijo."
+   ]
+  }
+ ]
+}

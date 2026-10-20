@@ -1,0 +1,267 @@
+{
+ "id": "cx080",
+ "ep": 80,
+ "avulso": true,
+ "titulo": "A ÚLTIMA CORRIDA DO TAXISTA",
+ "categoria": "reflexao",
+ "cenario": "noite",
+ "legenda_post": "🚕 Um taxista de 72 anos se aposentou e pediu um último favor: dirigir o meu carro, comigo de passageiro.\n\nO que o seu trabalho te ensinou sobre a vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #taxista #aposentadoria #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚕 Um taxista de 72 anos se aposentou e pediu um último favor: dirigir o meu carro, comigo de passageiro. O que o seu trabalho te ensinou sobre a vida? 👇\nHistória de ficção.\n#reflexao #taxista #aposentadoria #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida quem dirigiu não fui eu. E eu aprendi mais no banco de trás do que em anos de volante.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "anos",
+    "volante."
+   ]
+  },
+  {
+   "fala": "Sexta, dez da noite. Pedido saindo de um ponto de táxi antigo no centro. Entrou um senhor de setenta e dois anos, boina de motorista e um jaleco cinza.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 22H"
+   ],
+   "destaque": [
+    "jaleco",
+    "cinza."
+   ]
+  },
+  {
+   "fala": "Sentou atrás e disse: hoje eu entreguei a placa. Quarenta e cinco anos de táxi. Me aposentei.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Hoje eu entreguei a placa."
+   ],
+   "destaque": [
+    "táxi.",
+    "aposentei."
+   ]
+  },
+  {
+   "fala": "Seu Waldir. Rodou a cidade antes de existir GPS, celular e aplicativo. Disse que sabia o nome de cada rua pelo cheiro.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU WALDIR"
+   ],
+   "destaque": [
+    "pelo",
+    "cheiro."
+   ]
+  },
+  {
+   "fala": "Passamos numa rua e ele disse: essa aqui é a rua do pão quente. Tem uma padaria que abre às quatro. Senti o cheiro antes de ver.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Rua do pão quente."
+   ],
+   "destaque": [
+    "antes",
+    "ver."
+   ]
+  },
+  {
+   "fala": "Ele ia contando cada esquina. Onde levou uma grávida às pressas. Onde um passageiro esqueceu um violino. Onde viu o primeiro semáforo da cidade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "semáforo",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Aí ficou quieto e falou: eu não sei o que fazer amanhã de manhã, moço. Há quarenta e cinco anos eu acordo pra rodar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu não sei o que fazer amanhã."
+   ],
+   "destaque": [
+    "acordo",
+    "rodar."
+   ]
+  },
+  {
+   "fala": "Eu entendi. Eu conheço esse medo. Quando a fábrica fechou, eu também não sabia o que fazer no dia seguinte.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dia",
+    "seguinte."
+   ]
+  },
+  {
+   "fala": "Aí ele fez um pedido estranho: posso dirigir seu carro? Só um pouquinho. Uma última corrida. Com você de passageiro.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Posso dirigir?"
+   ],
+   "destaque": [
+    "você",
+    "passageiro."
+   ]
+  },
+  {
+   "fala": "Eu pensei no seguro. Pensei no aplicativo. Pensei na Rosângela. E pensei também que um homem daqueles não ia pedir aquilo à toa.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "à",
+    "toa."
+   ]
+  },
+  {
+   "fala": "Encostei num lugar seguro, desliguei o aplicativo, e troquei de lugar. Eu atrás, ele no volante. A primeira vez que eu era passageiro no meu carro.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Ele ajustou o banco, o retrovisor, botou as duas mãos no volante, às dez e dez. Respirou fundo. E saiu. Suave igual manteiga.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "manteiga."
+   ]
+  },
+  {
+   "fala": "E começou a fazer comigo o que fazia com os passageiros dele. Perguntou de onde eu vinha. Como estava a família. O que me tirava o sono.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "PASSAGEIRO NO MEU CARRO"
+   ],
+   "destaque": [
+    "tirava",
+    "sono."
+   ]
+  },
+  {
+   "fala": "Eu falei. Coisa que eu nunca falo. Falei do meu pai, da fábrica, do medo de envelhecer sem conseguir pagar as contas.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pagar",
+    "contas."
+   ]
+  },
+  {
+   "fala": "Ele ouviu tudo e disse: sabe o que eu aprendi em quarenta e cinco anos? O passageiro não quer motorista. Quer alguém que escute.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "O passageiro não quer motorista."
+   ],
+   "destaque": [
+    "alguém",
+    "escute."
+   ]
+  },
+  {
+   "fala": "O resto é caminho. Rua a gente aprende. Escutar, não. Escutar é dom. E você tem.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "O resto é caminho."
+   ],
+   "destaque": [
+    "você",
+    "tem."
+   ]
+  },
+  {
+   "fala": "Eu fiquei quieto no banco de trás. Pela primeira vez entendi por que eu gosto tanto desse trabalho.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ESCUTAR É DOM"
+   ],
+   "destaque": [
+    "desse",
+    "trabalho."
+   ]
+  },
+  {
+   "fala": "Ele dirigiu uma hora. Pela cidade inteira. Passou nos pontos de táxi, buzinou pros colegas, deu adeus pra padaria do pão quente.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "MEIA-NOITE"
+   ],
+   "destaque": [
+    "pão",
+    "quente."
+   ]
+  },
+  {
+   "fala": "Parou na frente da casa dele. Desligou o carro. Ficou um minuto com a mão no volante, de olho fechado.",
+   "expr": "neutra",
+   "arte": [
+    "porta"
+   ],
+   "destaque": [
+    "olho",
+    "fechado."
+   ]
+  },
+  {
+   "fala": "Depois disse: corrida encerrada. Abriu a porta e falou: quanto foi? Eu disse: essa é por conta da casa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Corrida encerrada."
+   ],
+   "destaque": [
+    "conta",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Combinamos de tomar café toda segunda. Ele me ensina rua, eu ensino aplicativo. Ele diz que aplicativo não tem cheiro. Tem razão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Tem",
+    "razão."
+   ]
+  },
+  {
+   "fala": "Moral da história: o trabalho acaba um dia. O que você aprendeu com as pessoas no caminho, não.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCUTA"
+   ],
+   "destaque": [
+    "pessoas",
+    "caminho,"
+   ]
+  },
+  {
+   "fala": "E se você conhece um taxista antigo, pergunta uma história. Ele tem mil. E sabe a rua pelo cheiro.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CORRIDA ENCERRADA"
+   ],
+   "destaque": [
+    "pelo",
+    "cheiro."
+   ]
+  }
+ ]
+}

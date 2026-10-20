@@ -1,0 +1,264 @@
+{
+ "id": "cx121",
+ "ep": 121,
+ "avulso": true,
+ "titulo": "O ÚLTIMO CORTE",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "💈 Aos 91 anos, o barbeiro mais antigo da cidade ia fazer o último corte da carreira. O cliente era alguém que esperou a vida inteira.\n\nQuem é o profissional mais antigo que você conhece? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#barbeiro #reflexao #oficio #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💈 Aos 91 anos, o barbeiro mais antigo da cidade ia fazer o último corte da carreira. O cliente era alguém que esperou a vida inteira. Quem é o profissional mais antigo que você conhece? 👇\nHistória de ficção.\n#barbeiro #reflexao #oficio #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem que cortou o cabelo de meia cidade.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "meia",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Sábado, oito da manhã. Entrou um senhor de noventa e um anos, terno cinza, chapéu e uma maleta de couro gasto. Andava devagar, mas com o queixo erguido.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 8H"
+   ],
+   "destaque": [
+    "queixo",
+    "erguido."
+   ]
+  },
+  {
+   "fala": "Pediu: barbearia do seu Nonô, no centro. Eu perguntei: o senhor vai cortar o cabelo? Ele riu: eu sou o seu Nonô.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Barbearia do Seu Nonô."
+   ],
+   "destaque": [
+    "seu",
+    "Nonô."
+   ]
+  },
+  {
+   "fala": "Setenta e cinco anos de tesoura. Começou aos dezesseis, varrendo cabelo na barbearia do pai. E naquele sábado, ia se aposentar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "75 ANOS DE TESOURA"
+   ],
+   "destaque": [
+    "ia",
+    "aposentar."
+   ]
+  },
+  {
+   "fala": "Contou que já cortou cabelo de prefeito, de jogador de futebol, de padre, de ladrão arrependido. E de quatro gerações da mesma família.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesma",
+    "família."
+   ]
+  },
+  {
+   "fala": "Disse: o cabelo conta tudo, meu filho. Quem tá apaixonado corta curto. Quem tá triste deixa crescer. Quem vai casar pede navalha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O cabelo conta tudo."
+   ],
+   "destaque": [
+    "pede",
+    "navalha."
+   ]
+  },
+  {
+   "fala": "E disse: na cadeira de barbeiro, o homem fala. Eu ouvi mais confissão que padre. E nunca contei uma.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu ouvi mais confissão que padre."
+   ],
+   "destaque": [
+    "nunca",
+    "contei"
+   ]
+  },
+  {
+   "fala": "Perguntei por que parar agora. Ele mostrou a mão. Tremia um pouquinho. Disse: a tesoura já não obedece como antes.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "como",
+    "antes."
+   ]
+  },
+  {
+   "fala": "Chegamos na barbearia. Pequena, cadeira de ferro antiga, espelho com moldura de madeira, um pente dentro de um copo de vidro com líquido azul.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "líquido",
+    "azul."
+   ]
+  },
+  {
+   "fala": "E tinha uma fila na calçada. Homens de todas as idades. Clientes de décadas. Vieram pro último dia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "último",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Mas ele só ia cortar um cabelo. O último. E não disse de quem. Os clientes ficaram curiosos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "QUEM SERIA O ÚLTIMO"
+   ],
+   "destaque": [
+    "ficaram",
+    "curiosos."
+   ]
+  },
+  {
+   "fala": "Ele me pediu pra ficar. Disse que precisava de alguém pra varrer, como ele fazia aos dezesseis. Peguei a vassoura.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Peguei",
+    "vassoura."
+   ]
+  },
+  {
+   "fala": "Aí chegou um menino de uns oito anos, de mão dada com o pai. O seu Nonô sorriu e bateu na cadeira de ferro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "cadeira",
+    "ferro."
+   ]
+  },
+  {
+   "fala": "Era o bisneto dele. Primeiro corte de cabelo de verdade, na barbearia. O menino esperou fazer oito anos pra poder sentar na cadeira do bisavô.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O BISNETO"
+   ],
+   "destaque": [
+    "cadeira",
+    "bisavô."
+   ]
+  },
+  {
+   "fala": "O seu Nonô colocou uma tábua na cadeira, pro menino ficar mais alto. Igual o pai dele fez com ele, oitenta anos antes.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "antes."
+   ]
+  },
+  {
+   "fala": "E cortou. Devagar. Os clientes todos em silêncio, olhando pela vitrine. E a mão dele, eu juro, não tremeu nenhuma vez.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MÃO NÃO TREMEU"
+   ],
+   "destaque": [
+    "nenhuma",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Perguntou pro bisneto: como quer, rapaz? O menino disse: igual o do senhor. O seu Nonô riu: careca não, que sua mãe me mata.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Como quer, rapaz?"
+   ],
+   "destaque": [
+    "mãe",
+    "mata."
+   ]
+  },
+  {
+   "fala": "No final, ele limpou a tesoura, guardou na maleta de couro e entregou pro bisneto. Disse: quando você tiver dezesseis, ela é sua.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A TESOURA PASSOU ADIANTE"
+   ],
+   "destaque": [
+    "dezesseis,",
+    "sua."
+   ]
+  },
+  {
+   "fala": "Os clientes da fila entraram um por um. Ninguém cortou o cabelo. Só apertaram a mão dele. Uns choraram. Uns contaram uma história.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "contaram",
+    "história."
+   ]
+  },
+  {
+   "fala": "Ao meio-dia, ele fechou a porta de ferro da barbearia. Pela última vez. Encostou a mão na porta um tempão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "MEIO-DIA"
+   ],
+   "destaque": [
+    "porta",
+    "tempão."
+   ]
+  },
+  {
+   "fala": "Na volta, ele me disse: setenta e cinco anos ouvindo os outros. Agora eu quero ouvir os passarinhos.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "ouvir",
+    "passarinhos."
+   ]
+  },
+  {
+   "fala": "Moral da história: ofício bom não termina. Ele só muda de mão.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PASSA ADIANTE"
+   ],
+   "destaque": [
+    "muda",
+    "mão."
+   ]
+  },
+  {
+   "fala": "E se você tem um barbeiro, uma costureira, um sapateiro antigo, vai lá antes que feche. E agradece.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU NONÔ"
+   ],
+   "destaque": [
+    "feche.",
+    "agradece."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "id": "cx075",
+ "ep": 75,
+ "avulso": true,
+ "titulo": "O TORCEDOR SOLITÁRIO",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "🚌 Por 12 anos ele foi o único torcedor do time pequeno em todos os jogos fora de casa. No dia do acesso, o time foi buscar ele.\n\nQual time pequeno você acompanha de coração? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #torcedor #varzea #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚌 Por 12 anos ele foi o único torcedor do time pequeno em todos os jogos fora de casa. No dia do acesso, o time foi buscar ele. Qual time pequeno você acompanha de coração? 👇\nHistória de ficção.\n#futebol #torcedor #varzea #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma torcida inteira. De uma pessoa só.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "pessoa",
+    "só."
+   ]
+  },
+  {
+   "fala": "Domingo, oito da manhã. Entrou um homem de uns cinquenta anos com uma bandeira enrolada, um radinho e uma camisa de um time que eu nunca tinha ouvido falar.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 8H"
+   ],
+   "destaque": [
+    "ouvido",
+    "falar."
+   ]
+  },
+  {
+   "fala": "Disse: rodoviária, por favor. Jogo fora de casa. Quatro horas de ônibus. Eu perguntei: e a torcida vai junto? Ele riu: a torcida sou eu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Rodoviária. Jogo fora."
+   ],
+   "destaque": [
+    "torcida",
+    "sou"
+   ]
+  },
+  {
+   "fala": "Seu Clóvis. Torcedor de um time da quarta divisão do estadual. Doze anos indo a todos os jogos fora de casa. Sozinho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TORCIDA DE UM HOMEM SÓ"
+   ],
+   "destaque": [
+    "casa.",
+    "Sozinho."
+   ]
+  },
+  {
+   "fala": "Contou que já foi o único torcedor numa arquibancada inteira. Que a polícia uma vez fez escolta só pra ele. Um carro, uma pessoa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "carro,",
+    "pessoa."
+   ]
+  },
+  {
+   "fala": "Disse: eu canto o hino sozinho, bato palma sozinho, xingo o juiz sozinho. Os jogadores me conhecem pelo nome.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu canto o hino sozinho."
+   ],
+   "destaque": [
+    "pelo",
+    "nome."
+   ]
+  },
+  {
+   "fala": "Perguntei por que aquele time e não um grande. Ele ficou quieto um pouco.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que esse time?"
+   ],
+   "destaque": [
+    "quieto",
+    "pouco."
+   ]
+  },
+  {
+   "fala": "Respondeu: meu filho jogava na base desse time. Ele faleceu num acidente aos dezessete. O time foi no velório de uniforme.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu filho jogava lá."
+   ],
+   "destaque": [
+    "velório",
+    "uniforme."
+   ]
+  },
+  {
+   "fala": "Desde então, ele vai em todos os jogos. Disse que é o jeito dele de continuar levando o filho no futebol.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "filho",
+    "futebol."
+   ]
+  },
+  {
+   "fala": "E aquele jogo era especial. Se empatasse, o time subia de divisão. Primeira vez em trinta anos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "JOGO DO ACESSO"
+   ],
+   "destaque": [
+    "trinta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Deixei ele na rodoviária. Quando ele foi descer, pediu meu número. Disse: se a gente subir, eu te ligo da arquibancada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ligo",
+    "arquibancada."
+   ]
+  },
+  {
+   "fala": "Às seis da tarde, o telefone tocou. Era ele. Gritando tão alto que eu tive que afastar o celular da orelha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "18H"
+   ],
+   "destaque": [
+    "celular",
+    "orelha."
+   ]
+  },
+  {
+   "fala": "Subimos! Subimos, motorista! Um a um! Gol aos quarenta e oito! E desligou. Eu fiquei rindo sozinho no carro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "SUBIMOS! SUBIMOS!"
+   ],
+   "destaque": [
+    "sozinho",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Duas horas depois, outra mensagem dele. Pedindo pra eu buscar na rodoviária às onze da noite. Topei na hora.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Mensagem do seu Clóvis"
+   ],
+   "destaque": [
+    "Topei",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Cheguei na rodoviária às onze. E tinha um ônibus parado na frente. O ônibus do time. Com os jogadores dentro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "jogadores",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Eles tinham parado o ônibus do clube no meio da estrada pra pegar o seu Clóvis, que estava esperando o ônibus de linha na rodoviária de lá.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O TIME FOI BUSCAR"
+   ],
+   "destaque": [
+    "rodoviária",
+    "lá."
+   ]
+  },
+  {
+   "fala": "Trouxeram ele junto, no ônibus do time, sentado na primeira poltrona, com a bandeira pendurada na janela. A viagem inteira cantando.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "inteira",
+    "cantando."
+   ]
+  },
+  {
+   "fala": "O capitão desceu e me explicou: ele é o nosso décimo segundo jogador. Doze anos sem faltar. Ele tinha que voltar com a gente.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele é o nosso décimo segundo."
+   ],
+   "destaque": [
+    "voltar",
+    "gente."
+   ]
+  },
+  {
+   "fala": "E desceram com uma faixa. Tinham feito na cidade do jogo, às pressas, com tinta de parede: obrigado, seu Clóvis. E embaixo o nome do filho dele.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A FAIXA"
+   ],
+   "destaque": [
+    "filho",
+    "dele."
+   ]
+  },
+  {
+   "fala": "O seu Clóvis pegou a faixa e não conseguiu falar. Os jogadores, um por um, foram abraçando ele no meio da rodoviária.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "rodoviária."
+   ]
+  },
+  {
+   "fala": "Disse depois, no meu carro: doze anos eu carreguei o nome dele. Hoje foram eles que carregaram.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O NOME DO FILHO"
+   ],
+   "destaque": [
+    "eles",
+    "carregaram."
+   ]
+  },
+  {
+   "fala": "Levei ele em casa à meia-noite. A faixa no banco de trás, ocupando o carro inteiro. Ele dormiu abraçado com a bandeira.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "abraçado",
+    "bandeira."
+   ]
+  },
+  {
+   "fala": "Na terceira divisão, a torcida dele já tem doze pessoas. Eu fui num jogo. Fiz a décima terceira.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "décima",
+    "terceira."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que torce pelo placar. E tem gente que torce pra manter alguém vivo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VAI JUNTO"
+   ],
+   "destaque": [
+    "alguém",
+    "vivo."
+   ]
+  },
+  {
+   "fala": "E se você tem um time pequeno no coração, vai no próximo jogo. Pode ter um seu Clóvis sozinho na arquibancada.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DÉCIMO SEGUNDO JOGADOR"
+   ],
+   "destaque": [
+    "sozinho",
+    "arquibancada."
+   ]
+  }
+ ]
+}

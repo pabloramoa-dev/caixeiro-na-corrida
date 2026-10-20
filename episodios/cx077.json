@@ -1,0 +1,267 @@
+{
+ "id": "cx077",
+ "ep": 77,
+ "avulso": true,
+ "titulo": "O LIVRO DA DONA FRANCISCA",
+ "categoria": "superacao",
+ "cenario": "dia",
+ "legenda_post": "📖 Ela não sabe ler, mas ditou 200 receitas pra neta. Hoje é o lançamento do livro dela na biblioteca da cidade.\n\nQual receita da sua família merecia virar livro? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #receitas #avo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📖 Ela não sabe ler, mas ditou 200 receitas pra neta. Hoje é o lançamento do livro dela na biblioteca da cidade. Qual receita da sua família merecia virar livro? 👇\nHistória de ficção.\n#superacao #receitas #avo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma escritora que nunca escreveu uma palavra.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "escreveu",
+    "palavra."
+   ]
+  },
+  {
+   "fala": "Sábado, duas da tarde. Entrou uma senhora de setenta e oito anos, vestido florido, cabelo preso, e uma neta de uns vinte anos carregando uma caixa de livros.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 14H"
+   ],
+   "destaque": [
+    "caixa",
+    "livros."
+   ]
+  },
+  {
+   "fala": "A senhora disse, toda séria: hoje é o meu lançamento, moço. Eu sou autora agora.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje é meu lançamento."
+   ],
+   "destaque": [
+    "autora",
+    "agora."
+   ]
+  },
+  {
+   "fala": "Dona Francisca. Cozinheira de mão cheia. Duzentas receitas na cabeça, aprendidas com a mãe e a avó, no fogão de lenha do interior.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DUZENTAS RECEITAS"
+   ],
+   "destaque": [
+    "lenha",
+    "interior."
+   ]
+  },
+  {
+   "fala": "Disse sem vergonha nenhuma: eu nunca aprendi a ler. Trabalhei na roça desde os sete. Mas a receita eu sei de cor.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca aprendi a ler."
+   ],
+   "destaque": [
+    "sei",
+    "cor."
+   ]
+  },
+  {
+   "fala": "A neta explicou. Durante a pandemia, ficou um ano na casa da avó. E começou a anotar tudo que ela cozinhava.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tudo",
+    "cozinhava."
+   ]
+  },
+  {
+   "fala": "A neta riu: o mais difícil foi a medida. A vó fala um punhado, uma pitadinha, até ficar no ponto. Eu tinha que medir escondido.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela não sabe medida."
+   ],
+   "destaque": [
+    "medir",
+    "escondido."
+   ]
+  },
+  {
+   "fala": "Dona Francisca reclamou: pitadinha é pitadinha, menina. Quem precisa de colher pra saber o que é pitadinha?",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "saber",
+    "pitadinha?"
+   ]
+  },
+  {
+   "fala": "Três anos. Duzentas receitas. A neta digitou, fotografou, juntou as histórias de cada prato. E um professor da faculdade ajudou a publicar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TRÊS ANOS DE TRABALHO"
+   ],
+   "destaque": [
+    "ajudou",
+    "publicar."
+   ]
+  },
+  {
+   "fala": "No caminho, dona Francisca ficou quieta. Perguntou pra neta: e se ninguém aparecer? Livro de velha analfabeta, quem compra?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se ninguém aparecer?"
+   ],
+   "destaque": [
+    "quem",
+    "compra?"
+   ]
+  },
+  {
+   "fala": "Chegamos na biblioteca municipal. Pequena, antiga, com escada de pedra na frente. E uma fila. Uma fila na calçada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "fila",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Gente da cidade inteira. Vizinhas, ex-patroas, filhos de amigas, alunos da escola. Todos com dinheiro na mão pra comprar o livro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "FILA NA CALÇADA"
+   ],
+   "destaque": [
+    "comprar",
+    "livro."
+   ]
+  },
+  {
+   "fala": "A dona Francisca parou no degrau. Segurou no meu braço. Disse: moço, isso aqui é tudo pra mim?",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tudo",
+    "mim?"
+   ]
+  },
+  {
+   "fala": "Eu ajudei a carregar as caixas. A bibliotecária pediu pra eu ficar na mesa, ajudando a passar o troco. Fiquei.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "troco.",
+    "Fiquei."
+   ]
+  },
+  {
+   "fala": "Aí veio o problema. Todo mundo queria autógrafo. E ela não sabia escrever o nome.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O AUTÓGRAFO"
+   ],
+   "destaque": [
+    "escrever",
+    "nome."
+   ]
+  },
+  {
+   "fala": "Ela olhou pra neta, aflita. A neta se abaixou e cochichou alguma coisa. A dona Francisca sorriu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Francisca",
+    "sorriu."
+   ]
+  },
+  {
+   "fala": "Pegou um pouquinho de farinha de trigo que a neta tinha levado na bolsa, molhou o dedo, e carimbou cada livro com a digital. Igual assinatura.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A DIGITAL DE FARINHA"
+   ],
+   "destaque": [
+    "Igual",
+    "assinatura."
+   ]
+  },
+  {
+   "fala": "O povo amou. Cada livro com uma digital de farinha. Ela dizia: essa é a assinatura de quem cozinha.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "quem",
+    "cozinha."
+   ]
+  },
+  {
+   "fala": "No meio dos autógrafos, ela me falou baixinho: eu sempre tive vergonha de não saber ler. Hoje eu tenho um livro na biblioteca.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sempre tive vergonha."
+   ],
+   "destaque": [
+    "livro",
+    "biblioteca."
+   ]
+  },
+  {
+   "fala": "Venderam trezentos livros. A bibliotecária colocou um exemplar na estante, na seção de autores da cidade. Com a digital na capa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "300 LIVROS"
+   ],
+   "destaque": [
+    "digital",
+    "capa."
+   ]
+  },
+  {
+   "fala": "Na volta, ela pediu pra eu parar numa escola de alfabetização de adultos. Pegou o folheto de matrícula. Disse: agora eu quero ler o meu livro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "meu",
+    "livro."
+   ]
+  },
+  {
+   "fala": "Moral da história: ninguém precisa saber ler pra ter uma história que vale um livro.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONTA SUA HISTÓRIA"
+   ],
+   "destaque": [
+    "vale",
+    "livro."
+   ]
+  },
+  {
+   "fala": "E se você tem uma avó que cozinha sem medida, anota. Essa receita não pode se perder.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PITADINHA"
+   ],
+   "destaque": [
+    "pode",
+    "perder."
+   ]
+  }
+ ]
+}

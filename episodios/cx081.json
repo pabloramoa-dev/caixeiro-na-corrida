@@ -1,0 +1,278 @@
+{
+ "id": "cx081",
+ "ep": 81,
+ "avulso": true,
+ "titulo": "O VIOLÃO DA MADRUGADA",
+ "categoria": "amizade",
+ "cenario": "dia",
+ "legenda_post": "🎸 O vizinho novo tocava violão de madrugada. A vizinha de 80 anos foi reclamar… e descobriu que ele tocava as músicas dela.\n\nVocê já virou amigo de alguém depois de uma briga? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#vizinhos #musica #amizade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎸 O vizinho novo tocava violão de madrugada. A vizinha de 80 anos foi reclamar… e descobriu que ele tocava as músicas dela. Você já virou amigo de alguém depois de uma briga? 👇\nHistória de ficção.\n#vizinhos #musica #amizade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve uma reclamação de barulho que virou dupla musical.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "dupla",
+    "musical."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou uma senhora de oitenta anos, cabelo branco armado, batom vinho e uma cara de quem ia brigar com alguém.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "brigar",
+    "alguém."
+   ]
+  },
+  {
+   "fala": "Disse: me leva na administração do condomínio da frente. Vou reclamar de um vizinho. Três semanas sem dormir.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Vou na administração reclamar."
+   ],
+   "destaque": [
+    "sem",
+    "dormir."
+   ]
+  },
+  {
+   "fala": "Dona Iracema. Um rapaz novo se mudou pro apartamento de cima. E toda madrugada, às duas, tocava violão.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "VIOLÃO ÀS 2 DA MANHÃ"
+   ],
+   "destaque": [
+    "tocava",
+    "violão."
+   ]
+  },
+  {
+   "fala": "Disse que tentou dormir com algodão no ouvido. Com travesseiro na cabeça. Bateu no teto com cabo de vassoura. Nada.",
+   "expr": "brava",
+   "arte": null,
+   "destaque": [
+    "vassoura.",
+    "Nada."
+   ]
+  },
+  {
+   "fala": "Perguntei, provocando: e ele toca bem, pelo menos? Ela ficou quieta. Depois admitiu: toca. Esse é o problema.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E ele toca bem?"
+   ],
+   "destaque": [
+    "Esse",
+    "problema."
+   ]
+  },
+  {
+   "fala": "Esse é o problema? Ela explicou: ele toca umas músicas antigas. Que eu conheço. E eu fico acordada ouvindo.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "acordada",
+    "ouvindo."
+   ]
+  },
+  {
+   "fala": "O condomínio era a duas quadras, mas ela não andava bem. Chegando lá, a administração estava fechada. Domingo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "fechada.",
+    "Domingo."
+   ]
+  },
+  {
+   "fala": "Ela disse: então eu vou bater na porta dele. O senhor sobe comigo? Eu tenho oitenta anos, preciso de testemunha.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Então eu vou bater na porta dele."
+   ],
+   "destaque": [
+    "preciso",
+    "testemunha."
+   ]
+  },
+  {
+   "fala": "Eu, de testemunha. Subimos no elevador. Ela ensaiando o discurso. Ele ia ouvir umas verdades.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "umas",
+    "verdades."
+   ]
+  },
+  {
+   "fala": "Ela bateu. Abriu um rapaz de uns vinte e cinco anos, de olheira, cabelo bagunçado, segurando o violão.",
+   "expr": "neutra",
+   "arte": [
+    "porta"
+   ],
+   "destaque": [
+    "segurando",
+    "violão."
+   ]
+  },
+  {
+   "fala": "Ela começou firme: o senhor sabe que toca violão às duas da manhã? Ele ficou vermelho: desculpa, senhora. Eu trabalho de noite. Chego e toco pra relaxar.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "O senhor toca de madrugada."
+   ],
+   "destaque": [
+    "toco",
+    "relaxar."
+   ]
+  },
+  {
+   "fala": "E ela, em vez de continuar a bronca, perguntou: e essas músicas, onde você aprendeu? Ninguém da sua idade conhece.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E essas músicas?"
+   ],
+   "destaque": [
+    "idade",
+    "conhece."
+   ]
+  },
+  {
+   "fala": "Ele disse que achou um disco de vinil numa feira de antiguidades. De uma cantora dos anos sessenta. E aprendeu todas as músicas de ouvido.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "UM DISCO DE VINIL"
+   ],
+   "destaque": [
+    "músicas",
+    "ouvido."
+   ]
+  },
+  {
+   "fala": "Ele foi buscar o disco pra mostrar. Voltou com ele na mão. E a dona Iracema sentou no sofá dele sem pedir licença.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "pedir",
+    "licença."
+   ]
+  },
+  {
+   "fala": "Na capa, uma moça de cabelo armado e batom escuro. Iracema e seu conjunto. Mil novecentos e sessenta e quatro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA ELA NA CAPA"
+   ],
+   "destaque": [
+    "sessenta",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Ela disse baixinho: eu gravei esse disco. Foi o único. Depois casei, tive filho, e larguei a música. Nunca mais ouvi.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu gravei esse disco."
+   ],
+   "destaque": [
+    "mais",
+    "ouvi."
+   ]
+  },
+  {
+   "fala": "O rapaz não acreditou. Ela pediu o violão. Ele deu. E ela, com as mãos tremendo, tocou os três primeiros acordes da primeira faixa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "faixa."
+   ]
+  },
+  {
+   "fala": "E cantou. A voz mais velha, mais grave. Mas era ela. A do disco. O rapaz começou a chorar. Eu, de testemunha, também.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CANTOU DE NOVO"
+   ],
+   "destaque": [
+    "testemunha,",
+    "também."
+   ]
+  },
+  {
+   "fala": "Ficamos duas horas ali. Ela ensinou os acordes certos, que ele tinha tirado meio errado de ouvido. Ele aprendeu tudo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "aprendeu",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Um mês depois, eu fui convidado pra festa do condomínio. No palco: dona Iracema e o vizinho do violão. Iracema e seu conjunto. Formação nova.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "SHOW DO CONDOMÍNIO"
+   ],
+   "destaque": [
+    "Formação",
+    "nova."
+   ]
+  },
+  {
+   "fala": "E as madrugadas? Agora ele toca às oito da noite. No apartamento dela. Com ela cantando. Os vizinhos que reclamem.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "vizinhos",
+    "reclamem."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes, o barulho que incomoda é uma lembrança batendo na porta.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCUTA ANTES"
+   ],
+   "destaque": [
+    "batendo",
+    "porta."
+   ]
+  },
+  {
+   "fala": "E se você tem um vizinho barulhento, toca a campainha. Mas escuta primeiro. Pode ser uma história.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "IRACEMA E SEU CONJUNTO"
+   ],
+   "destaque": [
+    "ser",
+    "história."
+   ]
+  }
+ ]
+}

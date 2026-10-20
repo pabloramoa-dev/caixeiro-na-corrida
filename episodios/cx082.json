@@ -1,0 +1,276 @@
+{
+ "id": "cx082",
+ "ep": 82,
+ "avulso": true,
+ "titulo": "O BOLO DA DONA MARTA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🎂 Ela procurava havia três anos a receita do bolo da mãe falecida. Uma vizinha antiga guardava o papel. Com um recado escrito atrás.\n\nQual comida tem o gosto da sua infância? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#familia #receita #saudade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎂 Ela procurava havia três anos a receita do bolo da mãe falecida. Uma vizinha antiga guardava o papel. Com um recado escrito atrás. Qual comida tem o gosto da sua infância? 👇\nHistória de ficção.\n#familia #receita #saudade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi buscar uma receita. E achou um recado.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "achou",
+    "recado."
+   ]
+  },
+  {
+   "fala": "Quinta, sete da noite. Entrou uma mulher de uns quarenta e cinco anos, com uma forma de bolo vazia no colo. Uma forma velha, amassada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 19H"
+   ],
+   "destaque": [
+    "velha,",
+    "amassada."
+   ]
+  },
+  {
+   "fala": "Disse: hoje eu tô numa busca. Eu perguntei: de quê? Ela levantou a forma: de um bolo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "É uma busca."
+   ],
+   "destaque": [
+    "forma:",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Chama-se Simone. A mãe dela, dona Marta, fazia um bolo de fubá com goiabada que ninguém no mundo fazia igual. Faleceu há três anos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O BOLO DE FUBÁ"
+   ],
+   "destaque": [
+    "três",
+    "anos."
+   ]
+  },
+  {
+   "fala": "E nunca escreveu a receita. Fazia de olho. Simone tentou mais de cinquenta vezes. Nunca ficou igual.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela nunca escreveu."
+   ],
+   "destaque": [
+    "ficou",
+    "igual."
+   ]
+  },
+  {
+   "fala": "Disse que testou com mais ovo, menos ovo, leite, iogurte, erva-doce. A família inteira provava e falava: tá bom, mas não é o da vó.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "bom,",
+    "vó."
+   ]
+  },
+  {
+   "fala": "Até que, na semana anterior, encontrou uma ex-vizinha da mãe no mercado. Dona Lurdes. E ela disse uma coisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disse",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Disse: sua mãe me deu essa receita uma vez, escrita à mão. Eu acho que ainda tenho.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Sua mãe me deu a receita."
+   ],
+   "destaque": [
+    "ainda",
+    "tenho."
+   ]
+  },
+  {
+   "fala": "Estávamos indo pra casa da dona Lurdes, do outro lado da cidade. A Simone apertava a forma no colo como se fosse um bebê.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "fosse",
+    "bebê."
+   ]
+  },
+  {
+   "fala": "Chegamos. Uma casinha com plantas na varanda. A dona Lurdes, de oitenta anos, esperava no portão com uma caixa de lata de biscoito.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "lata",
+    "biscoito."
+   ]
+  },
+  {
+   "fala": "A lata tinha receitas de cinquenta anos. Escritas em papel de pão, em guardanapo, atrás de nota fiscal. Ela foi passando uma por uma.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A LATA DE BISCOITO"
+   ],
+   "destaque": [
+    "foi",
+    "passando"
+   ]
+  },
+  {
+   "fala": "A Simone ia olhando, com a mão no peito. Até que a dona Lurdes parou num papel amarelado, dobrado em quatro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dobrado",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Bolo de fubá da Marta. Na letra da mãe. A Simone reconheceu na hora. O jeito de fazer o B, inclinado.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A LETRA DA MÃE"
+   ],
+   "destaque": [
+    "B,",
+    "inclinado."
+   ]
+  },
+  {
+   "fala": "Ela leu em voz alta. Dois ovos. Uma xícara de fubá. E no final, o segredo que nunca tinha passado pela cabeça dela.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "cabeça",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Uma colher de café coado. Frio. Na massa. Era isso. Cinquenta tentativas, e o segredo era o café.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "UMA COLHER DE CAFÉ COADO"
+   ],
+   "destaque": [
+    "era",
+    "café."
+   ]
+  },
+  {
+   "fala": "Aí a dona Lurdes disse: vira o papel, Simone. A Simone virou. Atrás, na mesma letra, um recado.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Vira o papel."
+   ],
+   "destaque": [
+    "letra,",
+    "recado."
+   ]
+  },
+  {
+   "fala": "Dizia: Lurdes, se um dia a minha Simone pedir essa receita, entrega pra ela. Ela é teimosa, vai tentar fazer sozinha antes. Diz que eu tô orgulhosa.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "PRA MINHA SIMONE"
+   ],
+   "destaque": [
+    "Diz",
+    "orgulhosa."
+   ]
+  },
+  {
+   "fala": "A Simone sentou no degrau da varanda e chorou. A dona Lurdes sentou do lado. Eu fiquei encostado no carro, olhando pro céu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "céu."
+   ]
+  },
+  {
+   "fala": "A Simone repetia: ela sabia. Ela sabia que eu ia tentar sozinha. Ela me conhecia demais.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela sabia."
+   ],
+   "destaque": [
+    "conhecia",
+    "demais."
+   ]
+  },
+  {
+   "fala": "A dona Lurdes deu o papel original pra ela. E ficou com uma cópia, que a Simone fez questão de escrever ali mesmo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ali",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Na volta, passamos num mercado. Ela comprou fubá, goiabada e café. Disse que ia fazer naquela noite mesmo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "noite",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Às onze da noite recebi uma foto. Um bolo amarelo com goiabada derretendo. E a mensagem: é o da vó. Finalmente.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Foto: o bolo"
+   ],
+   "destaque": [
+    "vó.",
+    "Finalmente."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem ama deixa recado até no verso da receita. Só precisa alguém guardar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCREVE A RECEITA"
+   ],
+   "destaque": [
+    "alguém",
+    "guardar."
+   ]
+  },
+  {
+   "fala": "E se sua mãe ou sua avó faz alguma coisa de olho, pede pra escrever hoje. E pede pra assinar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "UMA COLHER DE CAFÉ"
+   ],
+   "destaque": [
+    "pede",
+    "assinar."
+   ]
+  }
+ ]
+}

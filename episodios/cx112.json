@@ -1,0 +1,255 @@
+{
+ "id": "cx112",
+ "ep": 112,
+ "avulso": true,
+ "titulo": "O VELÓRIO ANTECIPADO",
+ "categoria": "reflexao",
+ "cenario": "noite",
+ "legenda_post": "⚱️ Aos 80 anos, ele organizou o próprio velório. Vivo. Queria ouvir o que os amigos iam falar dele. E queria comer o bolo.\n\nO que você gostaria de ouvir das pessoas que você ama, ainda em vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #vida #gratidao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⚱️ Aos 80 anos, ele organizou o próprio velório. Vivo. Queria ouvir o que os amigos iam falar dele. E queria comer o bolo. O que você gostaria de ouvir das pessoas que você ama, ainda em vida? 👇\nHistória de ficção.\n#reflexao #vida #gratidao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi pro velório mais animado que eu já fui. O defunto estava de terno, contando piada.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "contando",
+    "piada."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Entrou um senhor de oitenta anos, terno preto, gravata, flor na lapela e um sorriso de quem está aprontando.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "está",
+    "aprontando."
+   ]
+  },
+  {
+   "fala": "Disse: me leva no salão da associação do bairro. Vou no meu velório. Eu olhei pra ele pelo retrovisor. Ele riu: calma, eu tô vivo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou pro meu velório."
+   ],
+   "destaque": [
+    "calma,",
+    "vivo."
+   ]
+  },
+  {
+   "fala": "Seu Leocádio. Oitenta anos. E organizou o próprio velório. Em vida. Com convite, flores, bolo e música.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "VELÓRIO EM VIDA"
+   ],
+   "destaque": [
+    "bolo",
+    "música."
+   ]
+  },
+  {
+   "fala": "Explicou: eu fui em muito velório na minha vida. E sempre ouvi coisas lindas sobre o falecido. Que ele nunca ouviu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu fui em muito velório."
+   ],
+   "destaque": [
+    "nunca",
+    "ouviu."
+   ]
+  },
+  {
+   "fala": "Disse que o melhor amigo dele morreu sem saber o quanto era amado. Que no velório todo mundo falou maravilhas. E ele ali, sem ouvir nada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ouvir",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Então decidiu: eu quero ouvir. E quero comer o bolo. No meu velório de verdade, eu não vou poder comer o bolo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu quero ouvir."
+   ],
+   "destaque": [
+    "comer",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Chegamos no salão. Coroa de flores na porta com a faixa: saudades do Leocádio, que ainda está aqui. Gente chegando de roupa escura e rindo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "escura",
+    "rindo."
+   ]
+  },
+  {
+   "fala": "Ele me convidou pra entrar. Disse que velório precisa de testemunha neutra. Eu entrei. Sentei no fundo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Sentei",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "Tinha um microfone. E cada um que quisesse podia ir lá falar sobre ele. Como num velório. Mas com ele sentado na primeira fila.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS DISCURSOS"
+   ],
+   "destaque": [
+    "primeira",
+    "fila."
+   ]
+  },
+  {
+   "fala": "O primeiro foi um amigo de infância. Contou que o Leocádio roubava manga do vizinho e botava a culpa no cachorro. O salão riu. O Leocádio mais.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Leocádio",
+    "mais."
+   ]
+  },
+  {
+   "fala": "Depois um homem de uns cinquenta anos disse: em mil novecentos e noventa e oito, eu estava desempregado e o senhor me emprestou dinheiro sem eu pedir. Nunca cobrou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Você me emprestou dinheiro."
+   ],
+   "destaque": [
+    "Nunca",
+    "cobrou."
+   ]
+  },
+  {
+   "fala": "O seu Leocádio ficou sério. Disse baixinho pra esposa: eu nem lembrava disso. O homem lembrava de cada centavo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "cada",
+    "centavo."
+   ]
+  },
+  {
+   "fala": "Aí subiu a filha dele. Disse que ele foi um pai difícil. Bravo, teimoso, ausente às vezes. O salão ficou em silêncio.",
+   "expr": "triste",
+   "arte": [
+    "manchete",
+    "A FILHA FALOU"
+   ],
+   "destaque": [
+    "ficou",
+    "silêncio."
+   ]
+  },
+  {
+   "fala": "E continuou: mas eu nunca, nem por um dia, duvidei que ele me amava. E queria que ele ouvisse isso antes de ir.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Mas eu nunca duvidei."
+   ],
+   "destaque": [
+    "antes",
+    "ir."
+   ]
+  },
+  {
+   "fala": "O seu Leocádio levantou. Andou até a filha. E abraçou ela no meio do palco. Um abraço que, pelo que a esposa me disse depois, não acontecia havia muitos anos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "muitos",
+    "anos."
+   ]
+  },
+  {
+   "fala": "O salão inteiro chorou. Eu, no fundo, de testemunha neutra, não fui nada neutro.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O ABRAÇO"
+   ],
+   "destaque": [
+    "nada",
+    "neutro."
+   ]
+  },
+  {
+   "fala": "Depois ele pegou o microfone e disse: agora que eu já ouvi tudo, vamos comer o bolo antes que eu morra de verdade.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "morra",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "Bolo de chocolate com uma vela escrito: oitenta anos e ainda vivo. Música, dança. O defunto foi o primeiro a dançar.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O BOLO DO DEFUNTO"
+   ],
+   "destaque": [
+    "primeiro",
+    "dançar."
+   ]
+  },
+  {
+   "fala": "Na volta, ele foi quieto. Depois disse: eu passei a vida achando que ninguém notava as coisas que eu fazia. Notavam. Só não falavam.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Só",
+    "falavam."
+   ]
+  },
+  {
+   "fala": "Moral da história: o que você falaria no velório de alguém, fala hoje. Enquanto a pessoa ainda pode comer o bolo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FALA EM VIDA"
+   ],
+   "destaque": [
+    "comer",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "E se tem alguém que você admira, manda uma mensagem agora. Não guarda o elogio pro velório.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "AINDA VIVO"
+   ],
+   "destaque": [
+    "pro",
+    "velório."
+   ]
+  }
+ ]
+}

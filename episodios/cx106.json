@@ -1,0 +1,288 @@
+{
+ "id": "cx106",
+ "ep": 106,
+ "avulso": true,
+ "titulo": "A ÚLTIMA FIGURINHA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "📒 Pai e filho passaram três meses completando o álbum da Copa. Faltava uma figurinha. A mais rara. Rodamos a cidade inteira atrás dela.\n\nVocê completava álbum de figurinhas? Qual faltou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#figurinhas #paiefilho #copa #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📒 Pai e filho passaram três meses completando o álbum da Copa. Faltava uma figurinha. A mais rara. Rodamos a cidade inteira atrás dela. Você completava álbum de figurinhas? Qual faltou? 👇\nHistória de ficção.\n#figurinhas #paiefilho #copa #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma caçada. Atrás de um pedaço de papel adesivo.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "papel",
+    "adesivo."
+   ]
+  },
+  {
+   "fala": "Quinta, sete da noite. Entrou um pai de uns quarenta anos e um menino de nove, os dois segurando um álbum de figurinhas como se fosse a Bíblia.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 19H"
+   ],
+   "destaque": [
+    "fosse",
+    "Bíblia."
+   ]
+  },
+  {
+   "fala": "O menino disse: falta uma, moço. Só uma. Seiscentos e trinta e nove figurinhas. Falta a seiscentos e quarenta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Falta uma. Só uma."
+   ],
+   "destaque": [
+    "seiscentos",
+    "quarenta."
+   ]
+  },
+  {
+   "fala": "A legendária. A figurinha brilhante do capitão do time. A mais difícil do álbum inteiro. Ninguém na escola tinha.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A FIGURINHA LEGENDÁRIA"
+   ],
+   "destaque": [
+    "escola",
+    "tinha."
+   ]
+  },
+  {
+   "fala": "O pai se chama Wagner. Trabalha de motoboy. O filho, Davi. Juntos, três meses de troca na praça, na banca, na porta da escola.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "porta",
+    "escola."
+   ]
+  },
+  {
+   "fala": "O pai riu: ele troca melhor que eu. Uma vez trocou uma repetida por três. O menino é empresário.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele troca melhor que eu."
+   ],
+   "destaque": [
+    "menino",
+    "empresário."
+   ]
+  },
+  {
+   "fala": "Ficaram sabendo que num shopping do outro lado da cidade tinha um ponto de troca de figurinhas às quintas. Gente que vinha de longe.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vinha",
+    "longe."
+   ]
+  },
+  {
+   "fala": "Fomos. Quarenta minutos de trânsito. O Davi não piscava. Segurando o álbum aberto na página que faltava, com o buraco vazio.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "buraco",
+    "vazio."
+   ]
+  },
+  {
+   "fala": "O ponto de troca era uma mesa grande com uns trinta adultos e crianças. Pastas, caixas, listas. Parecia bolsa de valores.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "bolsa",
+    "valores."
+   ]
+  },
+  {
+   "fala": "Rodaram a mesa inteira. Ninguém tinha a seiscentos e quarenta. Um senhor riu: essa aí ninguém tem, menino. Desiste.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "NINGUÉM TINHA"
+   ],
+   "destaque": [
+    "menino.",
+    "Desiste."
+   ]
+  },
+  {
+   "fala": "O Davi voltou pro carro calado. O pai também. Eu achei que ia ser uma volta triste.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "volta",
+    "triste."
+   ]
+  },
+  {
+   "fala": "Perguntei pro pai, baixinho: por que essa importa tanto pra vocês?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que essa importa tanto?"
+   ],
+   "destaque": [
+    "tanto",
+    "vocês?"
+   ]
+  },
+  {
+   "fala": "Ele respondeu: em noventa e quatro, eu e meu pai tentamos completar o álbum. Faltou uma. Ele morreu naquele ano.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai e eu nunca completamos."
+   ],
+   "destaque": [
+    "naquele",
+    "ano."
+   ]
+  },
+  {
+   "fala": "Disse que prometeu pra ele mesmo que, quando tivesse filho, ia completar um álbum junto. Do começo ao fim.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "começo",
+    "fim."
+   ]
+  },
+  {
+   "fala": "Aí, na saída do estacionamento, um menino de uns doze anos bateu no vidro do meu carro, correndo, ofegante.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "NA SAÍDA DO SHOPPING"
+   ],
+   "destaque": [
+    "correndo,",
+    "ofegante."
+   ]
+  },
+  {
+   "fala": "Perguntou: vocês procuram a seiscentos e quarenta? Eu tenho repetida. Meu tio me deu duas.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Vocês procuram a 640?"
+   ],
+   "destaque": [
+    "deu",
+    "duas."
+   ]
+  },
+  {
+   "fala": "Tirou do bolso. A figurinha brilhante do capitão. Reluzindo na luz do estacionamento. O Davi quase saiu pela janela.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A 640"
+   ],
+   "destaque": [
+    "pela",
+    "janela."
+   ]
+  },
+  {
+   "fala": "O pai perguntou: o que você quer em troca? O menino olhou o Davi, olhou o álbum, e disse: nada. Eu completei o meu ontem.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O que você quer em troca?"
+   ],
+   "destaque": [
+    "meu",
+    "ontem."
+   ]
+  },
+  {
+   "fala": "Ele disse: meu pai me ajudou a completar. Eu sei como é ficar faltando uma. Pode ficar.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "DE PRESENTE"
+   ],
+   "destaque": [
+    "Pode",
+    "ficar."
+   ]
+  },
+  {
+   "fala": "O Davi colou ali mesmo, no banco de trás. Devagar. Alinhando a borda com o dedo. Como quem coloca a última pedra de uma casa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pedra",
+    "casa."
+   ]
+  },
+  {
+   "fala": "O pai ficou olhando o álbum completo. E falou pro alto, baixinho: completamos, pai. Demorou trinta anos, mas completamos.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SEISCENTOS E QUARENTA"
+   ],
+   "destaque": [
+    "anos,",
+    "completamos."
+   ]
+  },
+  {
+   "fala": "O Davi, sem entender o pai chorando, abraçou ele e disse: pai, agora a gente começa o da próxima Copa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "próxima",
+    "Copa."
+   ]
+  },
+  {
+   "fala": "Na volta, o menino dormiu abraçado no álbum. O pai ficou mexendo na figurinha brilhante com a ponta do dedo, sem tirar do álbum.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "tirar",
+    "álbum."
+   ]
+  },
+  {
+   "fala": "Moral da história: não é a figurinha que importa. É quem estava do seu lado procurando ela.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "COMPLETA JUNTO"
+   ],
+   "destaque": [
+    "lado",
+    "procurando"
+   ]
+  },
+  {
+   "fala": "E se você ainda tem um álbum faltando uma, procura. Alguém por aí tem a repetida.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ÁLBUM COMPLETO"
+   ],
+   "destaque": [
+    "tem",
+    "repetida."
+   ]
+  }
+ ]
+}

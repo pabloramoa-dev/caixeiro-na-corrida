@@ -1,0 +1,276 @@
+{
+ "id": "cx098",
+ "ep": 98,
+ "avulso": true,
+ "titulo": "O ESTAGIÁRIO DE 58 ANOS",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "💻 Demitido aos 55, ele aprendeu programação sozinho. No primeiro dia como programador júnior, descobriu que o chefe era o menino que ele treinava no futebol.\n\nVocê já pensou em mudar de profissão depois dos 50? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #tecnologia #recomeco #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💻 Demitido aos 55, ele aprendeu programação sozinho. No primeiro dia como programador júnior, descobriu que o chefe era o menino que ele treinava no futebol. Você já pensou em mudar de profissão depois dos 50? 👇\nHistória de ficção.\n#superacao #tecnologia #recomeco #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um estagiário com cabelo branco e uma mochila de adolescente.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mochila",
+    "adolescente."
+   ]
+  },
+  {
+   "fala": "Segunda, sete da manhã. Entrou um senhor de cinquenta e oito anos, mochila de notebook nas costas, crachá ainda no plástico e uma cara de primeiro dia de escola.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 7H"
+   ],
+   "destaque": [
+    "dia",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Disse: primeiro dia de trabalho. Eu sou programador júnior. Riu: júnior com cinquenta e oito anos. Sou o júnior mais sênior da história.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeiro dia de trabalho."
+   ],
+   "destaque": [
+    "sênior",
+    "história."
+   ]
+  },
+  {
+   "fala": "Seu Valmir. Trabalhou trinta anos num banco. Gerente. Aos cinquenta e cinco, foi demitido num corte. Ninguém contratava mais.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DEMITIDO AOS 55"
+   ],
+   "destaque": [
+    "contratava",
+    "mais."
+   ]
+  },
+  {
+   "fala": "Disse: mandei mais de duzentos currículos. Me chamavam pra entrevista e, quando viam o cabelo, diziam que o perfil era mais jovem.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Diziam que eu era velho."
+   ],
+   "destaque": [
+    "mais",
+    "jovem."
+   ]
+  },
+  {
+   "fala": "Aí o neto deu uma ideia: vô, aprende a programar. Tem curso grátis na internet. Ele riu. Depois tentou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Depois",
+    "tentou."
+   ]
+  },
+  {
+   "fala": "Três anos. Estudando de madrugada, com o neto ensinando pelo telefone. Errando, chorando, desistindo, voltando.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu estudava de madrugada."
+   ],
+   "destaque": [
+    "desistindo,",
+    "voltando."
+   ]
+  },
+  {
+   "fala": "O primeiro programa que fez foi uma lista de compras pra esposa. Ela usa até hoje. Disse que é o melhor aplicativo do mundo.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "SEU PRIMEIRO PROGRAMA"
+   ],
+   "destaque": [
+    "aplicativo",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "E finalmente, depois de cinquenta tentativas, uma empresa de tecnologia chamou. Vaga de júnior. Sem limite de idade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "limite",
+    "idade."
+   ]
+  },
+  {
+   "fala": "No caminho, ele confessou o medo: e se os colegas rirem? Todo mundo lá deve ter idade pra ser meu neto.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se rirem de mim?"
+   ],
+   "destaque": [
+    "meu",
+    "neto."
+   ]
+  },
+  {
+   "fala": "Contou que no tempo livre, antes de tudo, treinava um time de futebol de crianças no bairro. De graça. Quinze anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Quinze",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Riu: eu era o técnico Valmir. Ensinava os moleques a não desistir quando tomavam gol. Agora é minha vez de aprender isso.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu era o técnico Valmir."
+   ],
+   "destaque": [
+    "aprender",
+    "isso."
+   ]
+  },
+  {
+   "fala": "Chegamos num prédio de vidro moderno, com pufes coloridos na recepção e gente de bermuda e tênis. Ele de camisa social e sapato.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "social",
+    "sapato."
+   ]
+  },
+  {
+   "fala": "Ele pediu pra eu esperar cinco minutos, caso desse coragem de fugir. Eu fiquei na frente.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fiquei",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Pelo vidro, eu vi um rapaz de uns vinte e oito anos, de moletom, vir até ele na recepção. E parar. E abrir os braços.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "abrir",
+    "braços."
+   ]
+  },
+  {
+   "fala": "Eu ouvi o grito pela porta aberta: técnico Valmir?! O senhor é o novo júnior?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Técnico Valmir?!"
+   ],
+   "destaque": [
+    "novo",
+    "júnior?"
+   ]
+  },
+  {
+   "fala": "Era o chefe da equipe. O líder de tecnologia. E tinha sido o goleiro do time do seu Valmir, aos dez anos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O CHEFE ERA O GOLEIRO"
+   ],
+   "destaque": [
+    "dez",
+    "anos."
+   ]
+  },
+  {
+   "fala": "O rapaz disse, na frente da recepção inteira: o senhor me ensinou a não desistir quando eu tomei sete gols numa final. Lembra?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O senhor me ensinou a não desistir."
+   ],
+   "destaque": [
+    "final.",
+    "Lembra?"
+   ]
+  },
+  {
+   "fala": "O seu Valmir lembrava. Riu. Disse: você chorou igual bezerro. O rapaz: e o senhor me deu um picolé e disse que goleiro bom é o que volta pro gol.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "gol."
+   ]
+  },
+  {
+   "fala": "Agora era o chefe dizendo pro técnico: bem-vindo, seu Valmir. Aqui o senhor vai tomar uns gols também. Mas volta pro gol.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "VOLTA PRO GOL"
+   ],
+   "destaque": [
+    "pro",
+    "gol."
+   ]
+  },
+  {
+   "fala": "O seu Valmir saiu na porta, me fez um sinal de positivo, e entrou. Nunca vi um estagiário tão feliz.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tão",
+    "feliz."
+   ]
+  },
+  {
+   "fala": "Um mês depois, me chamou de novo. Me mostrou no celular o primeiro sistema dele que foi pro ar. E a lista de compras da esposa, atualizada.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "esposa,",
+    "atualizada."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra recomeçar. E o bem que você planta volta. Às vezes como chefe.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA PRO GOL"
+   ],
+   "destaque": [
+    "como",
+    "chefe."
+   ]
+  },
+  {
+   "fala": "E se você acha que tá velho pra aprender, liga pro seu neto. Ele te ensina. E você ensina ele de volta.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "JÚNIOR DE 58"
+   ],
+   "destaque": [
+    "ensina",
+    "volta."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "id": "cx111",
+ "ep": 111,
+ "avulso": true,
+ "titulo": "O GARI POETA",
+ "categoria": "superacao",
+ "cenario": "dia",
+ "legenda_post": "🧹 Ele varre a mesma rua há 20 anos e escreve poesia nos intervalos. Hoje ia lançar o primeiro livro. E a rua foi junto.\n\nQuem é o artista escondido que você conhece? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #poesia #gari #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧹 Ele varre a mesma rua há 20 anos e escreve poesia nos intervalos. Hoje ia lançar o primeiro livro. E a rua foi junto. Quem é o artista escondido que você conhece? 👇\nHistória de ficção.\n#superacao #poesia #gari #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um poeta de uniforme laranja.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "uniforme",
+    "laranja."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro da tarde. Entrou um homem de uns cinquenta anos, de uniforme de gari, com um embrulho de papel pardo no colo e cheiro de colônia forte.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 16H"
+   ],
+   "destaque": [
+    "colônia",
+    "forte."
+   ]
+  },
+  {
+   "fala": "Disse: desculpa o uniforme, moço. Saí do turno agora e não deu tempo de trocar. Hoje é o lançamento do meu livro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Não deu tempo de trocar."
+   ],
+   "destaque": [
+    "meu",
+    "livro."
+   ]
+  },
+  {
+   "fala": "Seu Wilson. Gari há vinte anos. A mesma rua do centro. E em cada intervalo, sentado no meio-fio, escrevia poesia num caderninho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "VINTE ANOS DE VASSOURA"
+   ],
+   "destaque": [
+    "num",
+    "caderninho."
+   ]
+  },
+  {
+   "fala": "Contou: no começo eu escrevia em papel de pão, em nota fiscal que achava no chão, em guardanapo de lanchonete.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu escrevo no verso da nota."
+   ],
+   "destaque": [
+    "guardanapo",
+    "lanchonete."
+   ]
+  },
+  {
+   "fala": "Abriu o embrulho. Um livro fino, de capa simples. Na capa, uma vassoura apoiada num poste. O título: poemas do meio-fio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "poemas",
+    "meio-fio."
+   ]
+  },
+  {
+   "fala": "Pedi pra ele ler um. Ele ficou tímido. Depois leu. Sobre uma folha que caiu na calçada e ele não teve coragem de varrer porque estava bonita demais.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "bonita",
+    "demais."
+   ]
+  },
+  {
+   "fala": "Eu tive que encostar o carro um minuto. Não esperava aquilo. Gente que passa o dia invisível, vendo tudo.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FOLHA NÃO VARRIDA"
+   ],
+   "destaque": [
+    "vendo",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Ele disse: ninguém olha pro gari, moço. A gente vira parte da rua. Mas a rua conta muita coisa pra quem é invisível.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém olha pro gari."
+   ],
+   "destaque": [
+    "quem",
+    "invisível."
+   ]
+  },
+  {
+   "fala": "Contou que uma professora de literatura passava todo dia na rua dele. Um dia viu ele escrevendo e perguntou o que era.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "perguntou",
+    "era."
+   ]
+  },
+  {
+   "fala": "Ela leu e chorou. Depois pediu pra ler mais. Dois anos depois, conseguiu uma editora pequena pra publicar. Mil exemplares.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela leu e chorou."
+   ],
+   "destaque": [
+    "Mil",
+    "exemplares."
+   ]
+  },
+  {
+   "fala": "E agora o medo: e se ninguém for no lançamento? Gari lançando livro. Quem vai num negócio desses?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se ninguém for?"
+   ],
+   "destaque": [
+    "negócio",
+    "desses?"
+   ]
+  },
+  {
+   "fala": "O lançamento era numa livraria pequena. Na mesma rua que ele varre. E quando a gente virou a esquina, eu vi.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "esquina,",
+    "vi."
+   ]
+  },
+  {
+   "fala": "A rua inteira. Os comerciantes. O jornaleiro. A moça da farmácia. O porteiro do prédio. A dona da lanchonete. Uma fila na porta da livraria.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A RUA INTEIRA"
+   ],
+   "destaque": [
+    "porta",
+    "livraria."
+   ]
+  },
+  {
+   "fala": "Ele parou o carro com o braço, como se pudesse parar o tempo. Disse: são todos da minha rua. Todos que me dão bom-dia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "dão",
+    "bom-dia."
+   ]
+  },
+  {
+   "fala": "Desceu de uniforme laranja e o povo aplaudiu. O jornaleiro gritou: o poeta chegou! E ele riu de vergonha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "riu",
+    "vergonha."
+   ]
+  },
+  {
+   "fala": "E na fila, de uniforme laranja igual, uns quinze garis. Os colegas dele. Que tinham feito vaquinha pra comprar um livro cada um.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "OUTROS GARIS"
+   ],
+   "destaque": [
+    "livro",
+    "cada"
+   ]
+  },
+  {
+   "fala": "Ele autografou o livro de cada um. Pra cada um, escreveu uma frase diferente. Disse que conhecia a rua de cada um também.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "cada",
+    "também."
+   ]
+  },
+  {
+   "fala": "Na primeira página do livro, a dedicatória: pra todos que passam pela rua e não me veem. E pra quem viu.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A DEDICATÓRIA"
+   ],
+   "destaque": [
+    "quem",
+    "viu."
+   ]
+  },
+  {
+   "fala": "Venderam trezentos livros em duas horas. A livraria pediu mais. A professora de literatura chorando no canto, com o primeiro caderno de papel de pão emoldurado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "300 LIVROS"
+   ],
+   "destaque": [
+    "pão",
+    "emoldurado."
+   ]
+  },
+  {
+   "fala": "Ele me deu um livro autografado. Escreveu: pro motorista, que também conhece a rua de muita gente. Tá no meu porta-luvas.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "meu",
+    "porta-luvas."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem poeta varrendo a sua rua. Tem artista no balcão da padaria. Olha pro lado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OLHA PRO LADO"
+   ],
+   "destaque": [
+    "pro",
+    "lado."
+   ]
+  },
+  {
+   "fala": "E se você passar por um gari hoje, diz bom-dia. Ele pode estar escrevendo sobre você.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "POEMAS DO MEIO-FIO"
+   ],
+   "destaque": [
+    "sobre",
+    "você."
+   ]
+  }
+ ]
+}

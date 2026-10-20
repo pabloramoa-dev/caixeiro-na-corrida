@@ -1,0 +1,279 @@
+{
+ "id": "cx094",
+ "ep": 94,
+ "avulso": true,
+ "titulo": "A FESTA SURPRESA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🎉 No aniversário de 70 anos, ela achou que os filhos tinham esquecido. Pediu uma corrida pra lugar nenhum. Mal sabia que eu fazia parte do plano.\n\nJá fizeram uma festa surpresa pra você? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#festasurpresa #mae #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎉 No aniversário de 70 anos, ela achou que os filhos tinham esquecido. Pediu uma corrida pra lugar nenhum. Mal sabia que eu fazia parte do plano. Já fizeram uma festa surpresa pra você? 👇\nHistória de ficção.\n#festasurpresa #mae #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu era cúmplice. E a passageira não podia saber.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "podia",
+    "saber."
+   ]
+  },
+  {
+   "fala": "Sábado, cinco da tarde. Eu tinha recebido uma mensagem estranha de manhã, de um número desconhecido. Um pedido de ajuda.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 17H"
+   ],
+   "destaque": [
+    "pedido",
+    "ajuda."
+   ]
+  },
+  {
+   "fala": "Era um rapaz chamado Douglas. Disse que a mãe dele ia fazer setenta anos. E ia ter uma festa surpresa. E precisava tirar ela de casa por duas horas.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A MISSÃO"
+   ],
+   "destaque": [
+    "duas",
+    "horas."
+   ]
+  },
+  {
+   "fala": "Ele explicou: ela vai chamar um carro. A gente vai fazer ela chamar. O senhor precisa aceitar e enrolar. Duas horas. Eu pago tudo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela vai chamar um carro."
+   ],
+   "destaque": [
+    "pago",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Às cinco em ponto, o aplicativo apitou. Dona Lígia. Eu aceitei. Ela entrou com o rosto triste, bolsa no colo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Nova corrida: Dona Lígia"
+   ],
+   "destaque": [
+    "bolsa",
+    "colo."
+   ]
+  },
+  {
+   "fala": "Pediu: me leva pra qualquer lugar, moço. Hoje é meu aniversário e ninguém lembrou. Não quero ficar em casa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Pra qualquer lugar."
+   ],
+   "destaque": [
+    "ficar",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Disse que os três filhos não ligaram. Que o neto mandou só um emoji. Que a vizinha nem apareceu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "apareceu."
+   ]
+  },
+  {
+   "fala": "Eu, sabendo de tudo, segurando o riso e a culpa ao mesmo tempo. Ela realmente estava triste. Eu tinha que melhorar aquilo sem estragar o plano.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estragar",
+    "plano."
+   ]
+  },
+  {
+   "fala": "Falei: dona Lígia, aniversário sem sorvete não é aniversário. Vamos tomar um? Ela deu um sorrisinho: vamos.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vamos tomar um sorvete."
+   ],
+   "destaque": [
+    "sorrisinho:",
+    "vamos."
+   ]
+  },
+  {
+   "fala": "Levei numa sorveteria antiga. Ela pediu de coco. Eu de chocolate. Ela contou que o marido levava ela ali quando namoravam.",
+   "expr": "rindo",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quando",
+    "namoravam."
+   ]
+  },
+  {
+   "fala": "Contou a história dos três filhos. O Douglas que quebrou o braço pulando do muro. A filha do meio que queria ser astronauta. O caçula que chorava pra ir na escola.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ir",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Meu celular vibrou. Mensagem do Douglas: o bolo atrasou, enrola mais quarenta minutos. Eu suei frio.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Mensagem: mais 40 minutos"
+   ],
+   "destaque": [
+    "suei",
+    "frio."
+   ]
+  },
+  {
+   "fala": "Levei ela pra ver o pôr do sol no mirante. Depois na igreja onde ela casou. Depois na escola onde ela foi merendeira por trinta anos.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PASSEIO MAIS LONGO"
+   ],
+   "destaque": [
+    "trinta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Na frente da escola, ela chorou. Disse que passou a vida cuidando dos filhos dos outros e dos dela. E que no aniversário de setenta, estava sozinha num carro de aplicativo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "carro",
+    "aplicativo."
+   ]
+  },
+  {
+   "fala": "Eu quase contei. Quase. Só disse: a senhora não tá sozinha, dona Lígia. Às vezes as pessoas estão mais perto do que parece.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A senhora não tá sozinha."
+   ],
+   "destaque": [
+    "perto",
+    "parece."
+   ]
+  },
+  {
+   "fala": "Aí chegou a mensagem: pode trazer. Eu disse que precisava passar na casa dela pra pegar uma coisa que ela tinha esquecido. Ela nem questionou.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "PODE TRAZER"
+   ],
+   "destaque": [
+    "nem",
+    "questionou."
+   ]
+  },
+  {
+   "fala": "Chegamos. Casa escura. Ela abriu o portão. Abriu a porta. Acendeu a luz.",
+   "expr": "neutra",
+   "arte": [
+    "porta"
+   ],
+   "destaque": [
+    "Acendeu",
+    "luz."
+   ]
+  },
+  {
+   "fala": "Surpresa! A sala lotada. Os três filhos, os netos, a vizinha, as ex-merendeiras da escola, até o padre. Balão, bolo e uma faixa: setenta anos de dona Lígia.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "SURPRESA!"
+   ],
+   "destaque": [
+    "dona",
+    "Lígia."
+   ]
+  },
+  {
+   "fala": "Ela ficou parada na porta com a mão no peito. Depois olhou pra mim. E entendeu tudo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "entendeu",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Ela gritou: você sabia! Você me enrolou duas horas! E começou a rir e chorar ao mesmo tempo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você sabia!"
+   ],
+   "destaque": [
+    "mesmo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "O neto chegou perto e explicou: vó, o emoji era um bolo. Era uma pista. A senhora que não entendeu.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O EMOJI DO NETO"
+   ],
+   "destaque": [
+    "senhora",
+    "entendeu."
+   ]
+  },
+  {
+   "fala": "Me fizeram entrar. Comi bolo. Cantei parabéns. O Douglas tentou pagar as duas horas. Eu cobrei só o sorvete.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "só",
+    "sorvete."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes quem parece ter esquecido está só planejando lembrar do jeito mais bonito.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "LEMBRA"
+   ],
+   "destaque": [
+    "mais",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "E se o aniversário de alguém está chegando, planeja alguma coisa. Nem que seja um sorvete de coco.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SETENTA ANOS"
+   ],
+   "destaque": [
+    "sorvete",
+    "coco."
+   ]
+  }
+ ]
+}

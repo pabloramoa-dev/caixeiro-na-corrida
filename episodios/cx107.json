@@ -1,0 +1,279 @@
+{
+ "id": "cx107",
+ "ep": 107,
+ "avulso": true,
+ "titulo": "A DIETA DO SEU JUVENAL",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🥐 Ele estava de dieta rigorosa, vigiado pela esposa. Pediu pra eu fazer “uma parada rápida”. Era a terceira padaria em vinte minutos.\n\nQual comida você nunca consegue resistir? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#dieta #humor #casal #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥐 Ele estava de dieta rigorosa, vigiado pela esposa. Pediu pra eu fazer “uma parada rápida”. Era a terceira padaria em vinte minutos. Qual comida você nunca consegue resistir? 👇\nHistória de ficção.\n#dieta #humor #casal #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma operação secreta. Contra uma nutricionista que não estava no carro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "estava",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Terça, dez da manhã. Entrou um senhor de uns sessenta e oito anos, camisa de academia apertada, tênis novo e um relógio de contar passos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 10H"
+   ],
+   "destaque": [
+    "contar",
+    "passos."
+   ]
+  },
+  {
+   "fala": "Disse logo: tô de dieta, moço. A patroa e a médica me colocaram na linha. Hoje vou na consulta da nutricionista.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tô de dieta."
+   ],
+   "destaque": [
+    "consulta",
+    "nutricionista."
+   ]
+  },
+  {
+   "fala": "Seu Juvenal. Três meses de dieta. Sem açúcar, sem fritura, sem pão branco. Disse que estava perdendo peso e a alegria de viver.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU JUVENAL"
+   ],
+   "destaque": [
+    "alegria",
+    "viver."
+   ]
+  },
+  {
+   "fala": "Na segunda esquina, pediu: faz uma parada rapidinha ali? Preciso comprar um remédio. Parei na frente de uma padaria.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Faz uma parada rapidinha?"
+   ],
+   "destaque": [
+    "frente",
+    "padaria."
+   ]
+  },
+  {
+   "fala": "Ele voltou em dois minutos, mastigando, com farelo no bigode. Disse: remédio. Pra garganta. Eu não falei nada.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "falei",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Cinco quadras depois: mais uma paradinha, por favor. Esqueci uma coisa. Outra padaria. Voltou com a boca cheia de coxinha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Mais uma paradinha."
+   ],
+   "destaque": [
+    "cheia",
+    "coxinha."
+   ]
+  },
+  {
+   "fala": "Na terceira padaria, eu já estava parando sozinho. Ele nem precisou pedir. Ele me olhou e disse: o senhor entende a vida.",
+   "expr": "ironica",
+   "arte": [
+    "carimbo",
+    "TERCEIRA PADARIA"
+   ],
+   "destaque": [
+    "entende",
+    "vida."
+   ]
+  },
+  {
+   "fala": "Ele comeu um sonho, uma coxinha e um pão de queijo em vinte minutos. E escondeu os guardanapos no meu porta-copos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "porta-copos."
+   ]
+  },
+  {
+   "fala": "Aí o celular tocou. Patroa. Ele atendeu com a boca cheia, engoliu tudo de uma vez e quase engasgou.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Ligação: Patroa"
+   ],
+   "destaque": [
+    "quase",
+    "engasgou."
+   ]
+  },
+  {
+   "fala": "A esposa, do outro lado: Juvenal, você tá comendo? Ele: não, amor, tô no carro. Tô bebendo água.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Juvenal, você tá comendo?"
+   ],
+   "destaque": [
+    "bebendo",
+    "água."
+   ]
+  },
+  {
+   "fala": "E eu ouvi ela dizer: o seu relógio de passos tá conectado no meu celular, Juvenal. Ele marcou três paradas em padaria.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "paradas",
+    "padaria."
+   ]
+  },
+  {
+   "fala": "O relógio. Com localização. Ligado no celular dela. Ela estava acompanhando a rota inteira. Em tempo real.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O RELÓGIO ENTREGOU"
+   ],
+   "destaque": [
+    "tempo",
+    "real."
+   ]
+  },
+  {
+   "fala": "Ele desligou pálido e me pediu: me ajuda, moço. Fala que a padaria era caminho. Fala que eu só comprei água.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Me ajuda, moço."
+   ],
+   "destaque": [
+    "comprei",
+    "água."
+   ]
+  },
+  {
+   "fala": "Eu disse: seu Juvenal, eu sou motorista, não sou advogado. Ele riu nervoso e pediu pra eu pelo menos abrir a janela pra sair o cheiro de coxinha.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "cheiro",
+    "coxinha."
+   ]
+  },
+  {
+   "fala": "Chegamos na clínica da nutricionista. E na porta, de braço cruzado, a esposa. Dona Zuleide. Tinha chegado antes de táxi.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "antes",
+    "táxi."
+   ]
+  },
+  {
+   "fala": "Ele desceu devagar, com farelo ainda no peito da camisa. Ela olhou o farelo. Olhou ele. E eu me preparei pro pior.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "pior."
+   ]
+  },
+  {
+   "fala": "Mas ela disse: Juvenal, você tá triste com essa dieta, né? Ele abaixou a cabeça: tô, Zu. Tô com saudade de pão.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Você tá triste com essa dieta."
+   ],
+   "destaque": [
+    "saudade",
+    "pão."
+   ]
+  },
+  {
+   "fala": "Ela segurou a mão dele e falou: então a gente vai pedir pra nutricionista uma dieta que deixe você feliz também. Mas sem mentir pra mim.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELA ENTENDEU"
+   ],
+   "destaque": [
+    "mentir",
+    "mim."
+   ]
+  },
+  {
+   "fala": "E ainda tirou da bolsa um pão de queijo pequenininho. Disse: eu comprei pra você. Pra comer depois da consulta. Um.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "depois",
+    "consulta."
+   ]
+  },
+  {
+   "fala": "Na consulta, a nutricionista liberou um pão de queijo por semana. Ele saiu de lá como quem ganhou na loteria.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "UM PÃO DE QUEIJO POR SEMANA"
+   ],
+   "destaque": [
+    "ganhou",
+    "loteria."
+   ]
+  },
+  {
+   "fala": "Levei os dois de volta. De mãos dadas. Ela contando os passos dele no celular. Ele contando os dias pro próximo pão de queijo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "pão",
+    "queijo."
+   ]
+  },
+  {
+   "fala": "Moral da história: cuidado que vem com amor funciona melhor do que cuidado que vem com proibição. E sem esconder coxinha.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SEM MENTIRA"
+   ],
+   "destaque": [
+    "esconder",
+    "coxinha."
+   ]
+  },
+  {
+   "fala": "E se você tá de dieta, lembra: o relógio de passos sabe tudo. Inclusive onde fica a padaria.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU JUVENAL"
+   ],
+   "destaque": [
+    "fica",
+    "padaria."
+   ]
+  }
+ ]
+}
