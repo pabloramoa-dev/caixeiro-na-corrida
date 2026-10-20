@@ -1,0 +1,265 @@
+{
+ "id": "cx227",
+ "ep": 227,
+ "avulso": true,
+ "titulo": "O BOLO TROCADO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🎂 Dois casamentos na mesma rua, no mesmo sábado. A confeitaria trocou os bolos. Eu levei um dos bolos. E a correria começou.\n\nQual foi o maior imprevisto num casamento que você viu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#casamento #humor #bolo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎂 Dois casamentos na mesma rua, no mesmo sábado. A confeitaria trocou os bolos. Eu levei um dos bolos. E a correria começou. Qual foi o maior imprevisto num casamento que você viu? 👇\nHistória de ficção.\n#casamento #humor #bolo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o bolo certo pro casamento errado. E depois o errado pro certo.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "pro",
+    "certo."
+   ]
+  },
+  {
+   "fala": "Sábado, cinco da tarde. Peguei um bolo de casamento numa confeitaria. Três andares. Com a confeiteira junto, segurando no banco de trás.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 17H"
+   ],
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Ela disse: salão de festas da rua das Palmeiras. O casamento começa às oito. Vai devagar, pelo amor de Deus.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Salão da rua das Palmeiras."
+   ],
+   "destaque": [
+    "amor",
+    "Deus."
+   ]
+  },
+  {
+   "fala": "Dona Marilda. Vinte anos fazendo bolo de casamento. Naquele sábado, dois casamentos. Na mesma rua. Em dois salões vizinhos.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "DONA MARILDA, CONFEITEIRA"
+   ],
+   "destaque": [
+    "salões",
+    "vizinhos."
+   ]
+  },
+  {
+   "fala": "Um bolo branco com flores amarelas. Outro branco com flores azuis. Ela levava o de flores amarelas. O ajudante dela levou o azul uma hora antes.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "hora",
+    "antes."
+   ]
+  },
+  {
+   "fala": "Chegamos no salão. A cerimonialista na porta. Olhou o bolo. Ficou pálida. Disse: esse não é o nosso bolo. O nosso é azul.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "nosso",
+    "azul."
+   ]
+  },
+  {
+   "fala": "A dona Marilda olhou o papel. Olhou o bolo. Ficou branca. O ajudante tinha levado o azul pro salão errado. Os dois bolos estavam trocados.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "OS BOLOS TROCADOS"
+   ],
+   "destaque": [
+    "estavam",
+    "trocados."
+   ]
+  },
+  {
+   "fala": "Detalhe: em cima de cada bolo, um casal de noivinhos. Com o nome dos noivos escrito na base. Errados.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "base.",
+    "Errados."
+   ]
+  },
+  {
+   "fala": "Ela gritou: corre no outro salão! Era do lado. Duzentos metros. Mas com um bolo de três andares no colo, duzentos metros é uma maratona.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Corre no outro salão!"
+   ],
+   "destaque": [
+    "metros",
+    "maratona."
+   ]
+  },
+  {
+   "fala": "Fui de primeira marcha. A dona Marilda abraçada no bolo. Eu desviando de cada buraco como quem desvia de mina.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "desvia",
+    "mina."
+   ]
+  },
+  {
+   "fala": "Chegamos no outro salão. E lá, na mesa de doces, o bolo azul. Com os noivinhos do outro casal. E os convidados começando a chegar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "começando",
+    "chegar."
+   ]
+  },
+  {
+   "fala": "A operação: tirar o bolo azul da mesa, colocar o amarelo, levar o azul pro outro salão. Sem os convidados perceberem. Com dois bolos de três andares.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A TROCA"
+   ],
+   "destaque": [
+    "três",
+    "andares."
+   ]
+  },
+  {
+   "fala": "Eu e a dona Marilda entramos pela cozinha. Os garçons ajudando. Um deles tropeçou com o bolo azul. Eu segurei o andar de cima com as duas mãos. No ar.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mãos.",
+    "ar."
+   ]
+  },
+  {
+   "fala": "O andar de cima ficou na minha mão. O resto na mão do garçom. Os noivinhos azuis caíram no meu peito. Eu fiquei com glacê até no queixo.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "O ANDAR DE CIMA"
+   ],
+   "destaque": [
+    "até",
+    "queixo."
+   ]
+  },
+  {
+   "fala": "A dona Marilda, rápida, montou de novo. Com espátula. Disfarçou a rachadura com uma flor a mais. Ninguém ia perceber. Ou quase ninguém.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quase",
+    "ninguém."
+   ]
+  },
+  {
+   "fala": "Levamos o bolo azul pro primeiro salão. Faltavam dez minutos pros noivos chegarem. Colocamos na mesa. A cerimonialista quase desmaiou de alívio.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "desmaiou",
+    "alívio."
+   ]
+  },
+  {
+   "fala": "Aí os noivos chegaram mais cedo. E a noiva foi direto na mesa de doces. E viu o bolo. E viu a flor a mais. E perguntou: que flor é essa?",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "flor",
+    "essa?"
+   ]
+  },
+  {
+   "fala": "A dona Marilda, sem pensar: é a flor da sorte. A gente coloca em casamento especial. A noiva ficou emocionada. Tirou foto. Postou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a flor da sorte."
+   ],
+   "destaque": [
+    "foto.",
+    "Postou."
+   ]
+  },
+  {
+   "fala": "Depois disso, a dona Marilda me contou: todo mundo pede a flor da sorte. Virou o item mais vendido da confeitaria.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A FLOR DA SORTE"
+   ],
+   "destaque": [
+    "vendido",
+    "confeitaria."
+   ]
+  },
+  {
+   "fala": "No fim da noite, a noiva soube da história. Mandou um pedaço do bolo pra mim, embrulhado em guardanapo. Com um bilhete: pro motorista do glacê.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O PEDAÇO DO GLACÊ"
+   ],
+   "destaque": [
+    "motorista",
+    "glacê."
+   ]
+  },
+  {
+   "fala": "Cheguei em casa com glacê na camisa. A Rosângela perguntou se eu tinha ido a um casamento. Eu disse: fui em dois. E não fui convidado em nenhum.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "convidado",
+    "nenhum."
+   ]
+  },
+  {
+   "fala": "Moral da história: o erro às vezes vira a melhor parte da festa. Só precisa de alguém rápido com a espátula.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "IMPROVISA"
+   ],
+   "destaque": [
+    "rápido",
+    "espátula."
+   ]
+  },
+  {
+   "fala": "E se der errado na sua festa, chama de tradição. Ninguém vai saber. Só eu.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FLOR DA SORTE"
+   ],
+   "destaque": [
+    "saber.",
+    "Só"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,243 @@
+{
+ "id": "cx272",
+ "ep": 272,
+ "avulso": true,
+ "titulo": "A FAXINEIRA E A ADVOGADA",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🛗 Toda noite, às 22h, as duas desciam no mesmo elevador do prédio comercial. Uma limpava, a outra fazia hora extra. Viraram melhores amigas. Sem saber o sobrenome uma da outra.\n\nVocê tem um amigo que conheceu no trabalho e virou família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #trabalho #mulheres #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🛗 Toda noite, às 22h, as duas desciam no mesmo elevador do prédio comercial. Uma limpava, a outra fazia hora extra. Viraram melhores amigas. Sem saber o sobrenome uma da outra. Você tem um amigo que conheceu no trabalho e virou família? 👇\nHistória de ficção.\n#amizade #trabalho #mulheres #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou duas amigas que se conheceram no elevador. E nunca tinham se visto fora dele.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "fora",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Sexta, dez da noite. Peguei duas mulheres na porta de um prédio comercial. Uma de uniforme de limpeza, uns cinquenta anos. A outra de terninho, uns trinta e cinco.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 22H"
+   ],
+   "destaque": [
+    "trinta",
+    "cinco."
+   ]
+  },
+  {
+   "fala": "A de terninho disse: hoje a gente vai jantar. Fora do prédio. Pela primeira vez em cinco anos. A de uniforme riu: eu nem sei como ela é sem o crachá.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje a gente vai jantar."
+   ],
+   "destaque": [
+    "sem",
+    "crachá."
+   ]
+  },
+  {
+   "fala": "Dona Lucinéia, faxineira do prédio, turno da noite. E a doutora Fernanda, advogada, que fazia hora extra até tarde. Todo dia, às dez, desciam no mesmo elevador.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O ELEVADOR DAS DEZ"
+   ],
+   "destaque": [
+    "mesmo",
+    "elevador."
+   ]
+  },
+  {
+   "fala": "Contaram que no começo era só boa noite. Depois comentário sobre o tempo. Depois sobre o cansaço. Depois sobre a vida.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sobre",
+    "vida."
+   ]
+  },
+  {
+   "fala": "A dona Lucinéia riu: o elevador demorava. Era antigo. Parava em todo andar. Dava tempo de contar a novela inteira.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "O elevador demorava."
+   ],
+   "destaque": [
+    "novela",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Cinco anos de conversa de elevador. Doze andares por noite. Uma conhecia os filhos da outra pelo nome. Sabia do divórcio, da doença, da promoção.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "CINCO ANOS DE ELEVADOR"
+   ],
+   "destaque": [
+    "doença,",
+    "promoção."
+   ]
+  },
+  {
+   "fala": "A doutora Fernanda contou: quando o meu pai faleceu, a primeira pessoa que me abraçou foi ela. No elevador. Às dez da noite. Antes da minha família.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "minha",
+    "família."
+   ]
+  },
+  {
+   "fala": "A dona Lucinéia contou: quando o meu filho foi preso injustamente, foi ela que pegou o caso. De graça. E provou que ele era inocente.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "era",
+    "inocente."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e vocês nunca saíram juntas? As duas se olharam. A doutora disse: nunca. A gente tinha a amizade do elevador. Achava que fora não ia dar certo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E nunca saíram juntas?"
+   ],
+   "destaque": [
+    "dar",
+    "certo."
+   ]
+  },
+  {
+   "fala": "Mas naquela semana, o prédio anunciou: o elevador antigo ia ser trocado. Por um novo. Rápido. Que não parava em todo andar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "todo",
+    "andar."
+   ]
+  },
+  {
+   "fala": "A dona Lucinéia disse: aí eu pensei: com elevador rápido, acaba a nossa conversa. Doze andares em vinte segundos. Não dá nem pra dizer boa noite direito.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ia acabar a conversa."
+   ],
+   "destaque": [
+    "noite",
+    "direito."
+   ]
+  },
+  {
+   "fala": "Levei as duas num restaurante simples, de comida caseira. Escolha da dona Lucinéia. A doutora Fernanda nunca tinha ido. Disse que ia adorar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ia",
+    "adorar."
+   ]
+  },
+  {
+   "fala": "Elas me convidaram pra jantar junto. Disseram que eu também ia fazer parte da história. Eu aceitei. Era sexta. A Rosângela liberou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Rosângela",
+    "liberou."
+   ]
+  },
+  {
+   "fala": "No jantar, elas descobriram coisas novas. Que as duas gostam de forró. Que as duas têm medo de barata. Que as duas fazem aniversário em março.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O JANTAR"
+   ],
+   "destaque": [
+    "aniversário",
+    "março."
+   ]
+  },
+  {
+   "fala": "Aí, no meio do jantar, a doutora perguntou: Lucinéia, qual o seu sobrenome? A dona Lucinéia riu: cinco anos e você não sabe? Silva. E o seu? Ela: Silva também.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O SOBRENOME"
+   ],
+   "destaque": [
+    "Silva",
+    "também."
+   ]
+  },
+  {
+   "fala": "As duas caíram na risada. Cinco anos. Mesmo sobrenome. E nunca perguntaram.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nunca",
+    "perguntaram."
+   ]
+  },
+  {
+   "fala": "No final, a doutora disse: o elevador vai mudar. Mas a gente não. Toda sexta, jantar. A dona Lucinéia: e o forró é por minha conta.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "AMIZADE DE ELEVADOR"
+   ],
+   "destaque": [
+    "minha",
+    "conta."
+   ]
+  },
+  {
+   "fala": "Levei as duas pra casa. A dona Lucinéia primeiro. A doutora Fernanda depois. No caminho, ela me disse: a melhor amiga que eu tenho, eu conheci no elevador.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "conheci",
+    "elevador."
+   ]
+  },
+  {
+   "fala": "Moral da história: não importa o crachá. Gente boa se reconhece em doze andares.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PUXA CONVERSA"
+   ],
+   "destaque": [
+    "doze",
+    "andares."
+   ]
+  },
+  {
+   "fala": "E se você vê a mesma pessoa todo dia no elevador, no ônibus, na fila, diz boa noite. Pode virar a melhor amiga da sua vida.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SILVA E SILVA"
+   ],
+   "destaque": [
+    "sua",
+    "vida."
+   ]
+  }
+ ]
+}

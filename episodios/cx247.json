@@ -1,0 +1,243 @@
+{
+ "id": "cx247",
+ "ep": 247,
+ "avulso": true,
+ "titulo": "O INFLUENCER MIRIM",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "📹 Um menino de 9 anos entrou com o pai e começou a gravar a corrida pro canal dele. 47 inscritos. Até o motorista virar personagem.\n\nVocê teria coragem de aparecer no canal de uma criança? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #youtuber #criancas #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📹 Um menino de 9 anos entrou com o pai e começou a gravar a corrida pro canal dele. 47 inscritos. Até o motorista virar personagem. Você teria coragem de aparecer no canal de uma criança? 👇\nHistória de ficção.\n#humor #youtuber #criancas #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi gravada, editada e postada por um diretor de nove anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nove",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, dez da manhã. Entrou um pai e um menino de nove anos com o celular na mão, já filmando. Antes de sentar, o menino falou pra câmera.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 10H"
+   ],
+   "destaque": [
+    "falou",
+    "câmera."
+   ]
+  },
+  {
+   "fala": "Fala, galera! Aqui é o Davizinho Games! Hoje eu vou mostrar como é andar de Uber! Deixa o like! E virou a câmera pra mim.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Fala, galera!"
+   ],
+   "destaque": [
+    "câmera",
+    "mim."
+   ]
+  },
+  {
+   "fala": "O pai, envergonhado, explicou: ele tem um canal. Quarenta e sete inscritos. A maioria é da família. Ele leva muito a sério.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "DAVIZINHO GAMES"
+   ],
+   "destaque": [
+    "muito",
+    "sério."
+   ]
+  },
+  {
+   "fala": "O Davi apontou a câmera pra mim: moço, apresenta o seu carro pros inscritos. Eu travei. Disse: é um carro prata. Ele disse: mais emoção, moço.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Apresenta o seu carro."
+   ],
+   "destaque": [
+    "emoção,",
+    "moço."
+   ]
+  },
+  {
+   "fala": "Eu tentei de novo, com emoção: é um carro prata! Com um terço no retrovisor! E um banco de trás que já ouviu muita história! Ele aprovou: boa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "aprovou:",
+    "boa."
+   ]
+  },
+  {
+   "fala": "Aí ele fez entrevista. Perguntou quantos anos eu tinha. Qual a corrida mais doida. Se eu já levei alguém famoso. Se eu já atropelei um pombo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "atropelei",
+    "pombo."
+   ]
+  },
+  {
+   "fala": "E pediu: conta uma história pros inscritos. Uma das boas. Eu contei a do papagaio do pudim. Ele riu tanto que derrubou o celular.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Conta uma história."
+   ],
+   "destaque": [
+    "derrubou",
+    "celular."
+   ]
+  },
+  {
+   "fala": "O pai disse que o Davi queria ser youtuber famoso. Que passava horas editando vídeo. Que os vídeos tinham dez, quinze visualizações.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quinze",
+    "visualizações."
+   ]
+  },
+  {
+   "fala": "O Davi ficou sério por um segundo. Disse: ninguém assiste os meus vídeos. Só a minha vó. Ela assiste todos. Três vezes.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém assiste."
+   ],
+   "destaque": [
+    "Três",
+    "vezes."
+   ]
+  },
+  {
+   "fala": "Eu pensei: e se eu ajudar? Eu tenho um monte de passageiro. Falei: Davi, me manda o link desse vídeo quando você postar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "você",
+    "postar."
+   ]
+  },
+  {
+   "fala": "Deixei os dois no shopping. O Davi encerrou o vídeo: valeu, galera! O motorista Caixeiro é o mais legal! Se inscreve!",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "legal!",
+    "inscreve!"
+   ]
+  },
+  {
+   "fala": "À noite, ele me mandou o link. O vídeo editado. Com efeito de explosão, música de suspense e meu rosto com um bigode desenhado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "À NOITE"
+   ],
+   "destaque": [
+    "bigode",
+    "desenhado."
+   ]
+  },
+  {
+   "fala": "Eu mostrei pra Rosângela. Ela riu tanto que compartilhou no grupo da família dela. Que compartilhou no grupo da igreja. Que compartilhou no grupo do bairro.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "EU COMPARTILHEI"
+   ],
+   "destaque": [
+    "grupo",
+    "bairro."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, o vídeo tinha duas mil visualizações. O pai me ligou desesperado: o que aconteceu? O Davi não para de pular.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "DUAS MIL VISUALIZAÇÕES"
+   ],
+   "destaque": [
+    "para",
+    "pular."
+   ]
+  },
+  {
+   "fala": "Os comentários: queremos mais Caixeiro! Conta mais história! O motorista é muito engraçado! E o Davi respondendo cada um.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "respondendo",
+    "cada"
+   ]
+  },
+  {
+   "fala": "Mas o comentário que eu mais gostei foi o primeiro. Da vó dele: eu sempre disse que você ia ser famoso, meu neto. Assisti cinco vezes.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A VÓ DO DAVI"
+   ],
+   "destaque": [
+    "cinco",
+    "vezes."
+   ]
+  },
+  {
+   "fala": "Hoje o Davi tem mil e duzentos inscritos. E de vez em quando ele chama um carro de aplicativo pra gravar. Torcendo pra ser eu.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Torcendo",
+    "ser"
+   ]
+  },
+  {
+   "fala": "Eu apareci em mais três vídeos dele. Em todos, ele desenha um bigode em mim. Eu já tenho bigode. Ele diz que o desenhado é melhor.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "desenhado",
+    "melhor."
+   ]
+  },
+  {
+   "fala": "Moral da história: todo sonho grande começa com quarenta e sete inscritos. E uma vó que assiste três vezes.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ASSISTE O VÍDEO DA CRIANÇA"
+   ],
+   "destaque": [
+    "três",
+    "vezes."
+   ]
+  },
+  {
+   "fala": "E se uma criança da sua família tem um canal, assiste. Comenta. Deixa o like. Pode ser o começo de tudo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DAVIZINHO GAMES"
+   ],
+   "destaque": [
+    "começo",
+    "tudo."
+   ]
+  }
+ ]
+}

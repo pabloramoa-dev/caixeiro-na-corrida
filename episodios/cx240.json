@@ -1,0 +1,255 @@
+{
+ "id": "cx240",
+ "ep": 240,
+ "avulso": true,
+ "titulo": "A VIAGEM DOS PRIMOS",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🚐 Cinco primos de 60 e poucos anos refizeram a viagem que faziam de Kombi nas férias da infância. Agora de aplicativo. Comigo.\n\nQual viagem de família da sua infância você nunca esqueceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#primos #viagem #nostalgia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚐 Cinco primos de 60 e poucos anos refizeram a viagem que faziam de Kombi nas férias da infância. Agora de aplicativo. Comigo. Qual viagem de família da sua infância você nunca esqueceu? 👇\nHistória de ficção.\n#primos #viagem #nostalgia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou cinco crianças de sessenta e poucos anos numa viagem de cinquenta anos atrás.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "anos",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Sexta, sete da noite. Recebi um pedido de corrida intermunicipal. Três horas de estrada. Pra uma praia pequena. Cinco passageiros.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 19H"
+   ],
+   "destaque": [
+    "Cinco",
+    "passageiros."
+   ]
+  },
+  {
+   "fala": "Entraram cinco senhores e senhoras. Uma delas anunciou: somos os primos. E essa é a viagem da Kombi. Versão dois mil e vinte e seis.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Somos os primos."
+   ],
+   "destaque": [
+    "vinte",
+    "seis."
+   ]
+  },
+  {
+   "fala": "Contaram. Nas férias de janeiro, entre mil novecentos e setenta e mil novecentos e oitenta, o tio Juca levava os cinco sobrinhos pra praia. Numa Kombi azul.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A KOMBI DO TIO JUCA"
+   ],
+   "destaque": [
+    "Kombi",
+    "azul."
+   ]
+  },
+  {
+   "fala": "Riram juntos: a Kombi quebrava sempre. No mesmo lugar. Numa ladeira antes da praia. A gente empurrava. Todo ano.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A Kombi quebrava sempre."
+   ],
+   "destaque": [
+    "Todo",
+    "ano."
+   ]
+  },
+  {
+   "fala": "O tio Juca cantava o caminho inteiro. Músicas antigas. Os primos no banco de trás, brigando por janela, dividindo farofa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dividindo",
+    "farofa."
+   ]
+  },
+  {
+   "fala": "O tio Juca faleceu há dois anos. E no velório, os cinco primos, que não se viam direito há décadas, prometeram: vamos refazer a viagem.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O TIO JUCA SE FOI"
+   ],
+   "destaque": [
+    "refazer",
+    "viagem."
+   ]
+  },
+  {
+   "fala": "Combinaram por um grupo. Marcaram a data. E agora estavam ali. No meu carro, já que nenhum deles queria dirigir três horas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "três",
+    "horas."
+   ]
+  },
+  {
+   "fala": "Na primeira meia hora, brigaram por janela. Igualzinho. Os dois mais velhos foram na janela. Os três do meio reclamando. Eu ri muito.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ri",
+    "muito."
+   ]
+  },
+  {
+   "fala": "Aí uma prima pegou o celular e colocou uma música antiga. A do tio Juca. E os cinco começaram a cantar. A música inteira. Sabiam de cor.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "AS MÚSICAS DO TIO"
+   ],
+   "destaque": [
+    "Sabiam",
+    "cor."
+   ]
+  },
+  {
+   "fala": "Cantaram três horas. Tudo que o tio cantava. Comeram farofa que uma das primas trouxe numa marmita. Igual nos anos setenta.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "setenta."
+   ]
+  },
+  {
+   "fala": "Quando chegamos perto da praia, numa ladeira, eles pediram pra eu parar. Disseram: é aqui. Aqui a Kombi quebrava.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "A LADEIRA"
+   ],
+   "destaque": [
+    "Kombi",
+    "quebrava."
+   ]
+  },
+  {
+   "fala": "E desceram todos. Os cinco. Com sessenta e poucos anos. E disseram: vamos empurrar. Pela tradição. Eu deixei o carro em ponto morto.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vamos empurrar."
+   ],
+   "destaque": [
+    "ponto",
+    "morto."
+   ]
+  },
+  {
+   "fala": "Os cinco empurrando o meu carro ladeira acima. Rindo. Chorando. Gritando: vai, tio Juca! Eu no volante, sem entender nada, emocionado.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "EMPURRANDO O CARRO"
+   ],
+   "destaque": [
+    "nada,",
+    "emocionado."
+   ]
+  },
+  {
+   "fala": "Empurraram uns vinte metros. Depois cansaram. Entraram de volta no carro, suados, ofegantes. E disseram: tá bom. Ele ia achar engraçado.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "achar",
+    "engraçado."
+   ]
+  },
+  {
+   "fala": "Chegamos na praia. A mesma. A pousada onde ficavam tinha virado outra coisa. Mas a praia era igual.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "era",
+    "igual."
+   ]
+  },
+  {
+   "fala": "Eles foram até a areia. Se posicionaram. Igual numa foto de mil novecentos e setenta e cinco, que um deles trouxe impressa. Os cinco crianças, na mesma pose.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FOTO"
+   ],
+   "destaque": [
+    "mesma",
+    "pose."
+   ]
+  },
+  {
+   "fala": "Eu tirei a foto. Os cinco de sessenta anos, na mesma pose da infância. No lugar do tio Juca, eles deixaram um espaço vazio.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "CINCO PRIMOS"
+   ],
+   "destaque": [
+    "espaço",
+    "vazio."
+   ]
+  },
+  {
+   "fala": "Depois foram pro mar. De roupa mesmo. Os cinco. Pulando onda como se tivessem dez anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dez",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Eu voltei sozinho pra cidade. Eles ficaram três dias. Me mandaram as fotos. Na última, os cinco num banco de praia, de chinelo. Escrito: viagem número vinte e um.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "número",
+    "vinte"
+   ]
+  },
+  {
+   "fala": "Moral da história: os primos que dividiam janela na infância podem dividir a vida de novo. Só precisa alguém marcar a data.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "REFAZ A VIAGEM"
+   ],
+   "destaque": [
+    "marcar",
+    "data."
+   ]
+  },
+  {
+   "fala": "E se você tem primos que não vê há anos, cria o grupo. Marca a viagem. E leva farofa.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "KOMBI AZUL"
+   ],
+   "destaque": [
+    "leva",
+    "farofa."
+   ]
+  }
+ ]
+}

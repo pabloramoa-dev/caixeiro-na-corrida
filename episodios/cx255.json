@@ -1,0 +1,264 @@
+{
+ "id": "cx255",
+ "ep": 255,
+ "avulso": true,
+ "titulo": "A PELADA DOS PAIS",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "⚽ Todo ano, a escola faz um jogo de pais contra filhos. Um pai que nunca aparecia em nada resolveu ir. De chinelo. E virou o herói do dia.\n\nSeus pais já jogaram futebol contra você? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #paiefilho #escola #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⚽ Todo ano, a escola faz um jogo de pais contra filhos. Um pai que nunca aparecia em nada resolveu ir. De chinelo. E virou o herói do dia. Seus pais já jogaram futebol contra você? 👇\nHistória de ficção.\n#futebol #paiefilho #escola #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um pai atrasado dez anos pra um jogo de futebol.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "jogo",
+    "futebol."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da manhã. Entrou um homem de uns quarenta anos, de uniforme de segurança, cara de quem saiu do plantão agora. Com um par de chinelos na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 9H"
+   ],
+   "destaque": [
+    "chinelos",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Pediu: escola municipal, rápido. Tem jogo dos pais contra os filhos. O meu filho joga. Eu nunca fui em nada.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Escola municipal."
+   ],
+   "destaque": [
+    "fui",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Seu Jorge. Vigilante noturno. Trabalha de noite, dorme de dia. Disse que nunca foi numa reunião, num teatro, numa festa da escola do filho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU JORGE, VIGILANTE"
+   ],
+   "destaque": [
+    "escola",
+    "filho."
+   ]
+  },
+  {
+   "fala": "Disse: ele parou de me convidar. No começo ele chamava. Eu dizia que não dava. Ele parou. Isso doeu mais que tudo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele parou de me convidar."
+   ],
+   "destaque": [
+    "mais",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "O filho, o Caio, tinha doze anos. E o jogo de pais contra filhos era o evento mais esperado do ano na escola.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ano",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Disse: ele não sabe que eu vou. Eu saí do plantão agora. Não dormi. Mas eu vou. Nem que seja de chinelo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele não sabe que eu vou."
+   ],
+   "destaque": [
+    "seja",
+    "chinelo."
+   ]
+  },
+  {
+   "fala": "Perguntei: por que de chinelo? Ele riu: porque eu não tenho chuteira. Nem tênis. Eu só tenho a botina do trabalho e esse chinelo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que de chinelo?"
+   ],
+   "destaque": [
+    "esse",
+    "chinelo."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola. A quadra cheia. Pais de um lado, de camiseta combinando, de chuteira nova. Os filhos do outro. O Caio no meio, de capitão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "meio,",
+    "capitão."
+   ]
+  },
+  {
+   "fala": "Ele desceu. Eu fiquei, porque ele pediu pra eu esperar e levar ele pra casa dormir depois. Sentei na arquibancada com os avós.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "arquibancada",
+    "avós."
+   ]
+  },
+  {
+   "fala": "O Caio viu o pai entrando na quadra. De uniforme de vigilante e chinelo. Parou. Largou a bola. E ficou olhando sem acreditar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "acreditar."
+   ]
+  },
+  {
+   "fala": "Depois saiu correndo e abraçou o pai. No meio da quadra. Os outros pais e filhos olhando. O Caio dizendo: o senhor veio! O senhor veio!",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O FILHO CORREU"
+   ],
+   "destaque": [
+    "senhor",
+    "veio!"
+   ]
+  },
+  {
+   "fala": "Os outros pais emprestaram uma camiseta pra ele. E o técnico, o professor de educação física, perguntou: vai jogar de chinelo? Ele disse: vou.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "disse:",
+    "vou."
+   ]
+  },
+  {
+   "fala": "O jogo começou. Os pais cansando em dez minutos. Os filhos correndo como foguete. Três a zero pros filhos no primeiro tempo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O JOGO"
+   ],
+   "destaque": [
+    "primeiro",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "No segundo tempo, o seu Jorge pegou a bola. De chinelo. E driblou. Um, dois, três meninos. Um chinelo voou. Ele continuou descalço.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "continuou",
+    "descalço."
+   ]
+  },
+  {
+   "fala": "E chutou. De bico, descalço. Gol. A quadra inteira gritou. Os pais pulando. Os filhos aplaudindo, mesmo sendo do time adversário.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O GOL DESCALÇO"
+   ],
+   "destaque": [
+    "time",
+    "adversário."
+   ]
+  },
+  {
+   "fala": "Aí os outros pais tiraram a chuteira. Todos. E jogaram descalços. Em homenagem. O professor nem tentou impedir.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "TODO MUNDO DESCALÇO"
+   ],
+   "destaque": [
+    "tentou",
+    "impedir."
+   ]
+  },
+  {
+   "fala": "O jogo terminou cinco a três pros filhos. Mas quem ganhou foi o seu Jorge. Saiu carregado nos ombros. Pelos meninos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Pelos",
+    "meninos."
+   ]
+  },
+  {
+   "fala": "O Caio disse no microfone da escola: esse é o meu pai. Ele trabalha a noite inteira cuidando dos outros. Hoje ele veio cuidar de mim.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O PAI QUE VEIO"
+   ],
+   "destaque": [
+    "cuidar",
+    "mim."
+   ]
+  },
+  {
+   "fala": "O seu Jorge chorou na quadra. Descalço, suado, de camiseta emprestada. Disse: eu perdi dez anos. Não vou perder mais nenhum.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "nenhum."
+   ]
+  },
+  {
+   "fala": "Na volta, ele dormiu no carro antes da primeira esquina. Com o chinelo que voou no colo. O Caio guardou o outro de lembrança.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "outro",
+    "lembrança."
+   ]
+  },
+  {
+   "fala": "Moral da história: filho não lembra se você estava de chuteira. Lembra que você estava lá.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VAI NA ESCOLA"
+   ],
+   "destaque": [
+    "estava",
+    "lá."
+   ]
+  },
+  {
+   "fala": "E se você nunca foi numa festa da escola do seu filho, vai na próxima. Nem que seja de chinelo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "GOL DESCALÇO"
+   ],
+   "destaque": [
+    "seja",
+    "chinelo."
+   ]
+  }
+ ]
+}

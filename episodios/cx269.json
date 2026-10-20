@@ -1,0 +1,240 @@
+{
+ "id": "cx269",
+ "ep": 269,
+ "avulso": true,
+ "titulo": "O LEITOR DE JORNAL",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "📰 Todo dia às 7h, ele lê o jornal em voz alta numa rádio comunitária. Pros ouvintes que não enxergam. Há 25 anos. Um dia, ele perdeu a voz.\n\nVocê conhece alguém que lê para quem não pode ler? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#radio #leitura #inclusao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📰 Todo dia às 7h, ele lê o jornal em voz alta numa rádio comunitária. Pros ouvintes que não enxergam. Há 25 anos. Um dia, ele perdeu a voz. Você conhece alguém que lê para quem não pode ler? 👇\nHistória de ficção.\n#radio #leitura #inclusao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a voz que lê o jornal pra quem não enxerga. E o dia em que ela falhou.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "dia",
+    "falhou."
+   ]
+  },
+  {
+   "fala": "Segunda, seis e meia da manhã. Entrou um senhor de setenta anos com um jornal debaixo do braço e um cachecol enrolado no pescoço. Rouco.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 6H30"
+   ],
+   "destaque": [
+    "pescoço.",
+    "Rouco."
+   ]
+  },
+  {
+   "fala": "Disse, quase sem voz: rádio comunitária do bairro, por favor. Eu leio o jornal às sete. Eu disse: com essa voz? Ele fez que sim.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Rádio comunitária."
+   ],
+   "destaque": [
+    "fez",
+    "sim."
+   ]
+  },
+  {
+   "fala": "Seu Geraldo. Professor aposentado. Há vinte e cinco anos, todo dia às sete, lê o jornal inteiro na rádio comunitária. Pros ouvintes cegos e com baixa visão.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU GERALDO DO JORNAL"
+   ],
+   "destaque": [
+    "baixa",
+    "visão."
+   ]
+  },
+  {
+   "fala": "Disse com esforço: eles dependem de mim. Tem gente que só sabe das notícias por mim. Tem senhora que acorda e liga o rádio só pra ouvir a minha voz.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eles dependem de mim."
+   ],
+   "destaque": [
+    "minha",
+    "voz."
+   ]
+  },
+  {
+   "fala": "Começou quando a mãe dele perdeu a visão. Ele lia o jornal pra ela todo dia. Quando ela faleceu, ele pensou: quantas outras mães não têm quem leia?",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quem",
+    "leia?"
+   ]
+  },
+  {
+   "fala": "Mas naquela segunda, estava com uma gripe forte. A voz sumindo. E não tinha ninguém pra substituir. Nunca teve.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Nunca",
+    "teve."
+   ]
+  },
+  {
+   "fala": "Chegamos na rádio. Uma salinha nos fundos de uma igreja. Um microfone, uma mesa, um banquinho. Ele sentou. Tentou ler a primeira notícia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "primeira",
+    "notícia."
+   ]
+  },
+  {
+   "fala": "Saiu um fio de voz. Rouco, falhando. Ele tentou de novo. Pior. Ficou parado, olhando o jornal, com o microfone ligado. No ar.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ligado.",
+    "ar."
+   ]
+  },
+  {
+   "fala": "Silêncio na rádio. Dez segundos. Vinte. Os ouvintes do outro lado sem entender. Eu fiquei olhando ele pela porta.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O SILÊNCIO NO AR"
+   ],
+   "destaque": [
+    "pela",
+    "porta."
+   ]
+  },
+  {
+   "fala": "Ele me olhou. Fez um sinal com a mão. Me chamou. E apontou pro jornal. Depois pro microfone. Depois pra mim.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Depois",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Eu falei baixinho: eu? Ler no rádio? Ele fez que sim. Escreveu num papel: por favor. Eles estão esperando.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Eu? Ler no rádio?"
+   ],
+   "destaque": [
+    "estão",
+    "esperando."
+   ]
+  },
+  {
+   "fala": "Eu sentei. Peguei o jornal. Tremendo. E li. Bom dia, ouvintes. Hoje o seu Geraldo está sem voz. Eu sou o Caixeiro, o motorista dele. Vou ler pra vocês.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O MOTORISTA NO AR"
+   ],
+   "destaque": [
+    "ler",
+    "vocês."
+   ]
+  },
+  {
+   "fala": "Li a primeira página. Política, economia, tempo. Gaguejei. Errei nome de ministro. Ele do lado, corrigindo com o dedo no papel.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dedo",
+    "papel."
+   ]
+  },
+  {
+   "fala": "Aí o telefone da rádio tocou. Era uma ouvinte. Uma senhora cega. Disse: moço, lê mais devagar. E lê o horóscopo de leão primeiro. É o meu.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O TELEFONE TOCOU"
+   ],
+   "destaque": [
+    "primeiro.",
+    "meu."
+   ]
+  },
+  {
+   "fala": "Eu li o horóscopo de leão. Depois de todos os signos. Depois a novela. Depois o resultado do futebol. Os ouvintes ligando, pedindo coisa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pedindo",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "No final, uma senhora ligou e disse no ar: seu Geraldo, melhora logo. A gente gosta da sua voz. Mas o motorista também lê bonito.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OS OUVINTES LIGARAM"
+   ],
+   "destaque": [
+    "lê",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "O seu Geraldo chorou do meu lado. E escreveu no papel: vinte e cinco anos e eu nunca tive um substituto. Agora eu tenho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Agora",
+    "tenho."
+   ]
+  },
+  {
+   "fala": "Eu fui lá a semana inteira. Às sete. Enquanto ele se recuperava. E hoje, uma vez por mês, eu leio no lugar dele. Pra ele descansar.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "dele.",
+    "descansar."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a gente é a voz de alguém que não pode ver. E às vezes alguém tem que ser a nossa voz.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "EMPRESTA A VOZ"
+   ],
+   "destaque": [
+    "nossa",
+    "voz."
+   ]
+  },
+  {
+   "fala": "E se você conhece alguém que não enxerga, lê alguma coisa pra ele hoje. Uma notícia, uma receita. Ele vai lembrar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU GERALDO"
+   ],
+   "destaque": [
+    "vai",
+    "lembrar."
+   ]
+  }
+ ]
+}

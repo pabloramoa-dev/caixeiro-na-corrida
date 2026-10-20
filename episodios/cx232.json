@@ -1,0 +1,255 @@
+{
+ "id": "cx232",
+ "ep": 232,
+ "avulso": true,
+ "titulo": "O PORTEIRO DO SEU OSCAR",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🏢 Todo dia, durante 15 anos, o porteiro conversava com o morador mais velho do prédio. Quando o seu Oscar fez 90, o porteiro preparou tudo.\n\nVocê conhece o porteiro do seu prédio pelo nome? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #porteiro #idosos #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏢 Todo dia, durante 15 anos, o porteiro conversava com o morador mais velho do prédio. Quando o seu Oscar fez 90, o porteiro preparou tudo. Você conhece o porteiro do seu prédio pelo nome? 👇\nHistória de ficção.\n#amizade #porteiro #idosos #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma amizade de portaria. E um bolo de noventa velas.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "noventa",
+    "velas."
+   ]
+  },
+  {
+   "fala": "Domingo, três da tarde. Peguei um rapaz de uns trinta e cinco anos, de uniforme de porteiro, com uma caixa de bolo e um saco de balões.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 15H"
+   ],
+   "destaque": [
+    "saco",
+    "balões."
+   ]
+  },
+  {
+   "fala": "Disse: é aniversário do seu Oscar. Noventa anos. Morador do apartamento quarenta e dois. Eu sou o porteiro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É aniversário do seu Oscar."
+   ],
+   "destaque": [
+    "sou",
+    "porteiro."
+   ]
+  },
+  {
+   "fala": "Josiel. Porteiro do prédio há quinze anos. E todo dia, de manhã e de tarde, o seu Oscar descia e conversava com ele. Meia hora.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU OSCAR E O JOSIEL"
+   ],
+   "destaque": [
+    "Meia",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Riu: ele me ensinou xadrez. História do Brasil. A fazer nó de gravata. Eu ensinei ele a usar o celular e a mandar figurinha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele me ensinou xadrez."
+   ],
+   "destaque": [
+    "mandar",
+    "figurinha."
+   ]
+  },
+  {
+   "fala": "O seu Oscar era viúvo. Os filhos moravam fora do país. Ligavam uma vez por mês. O Josiel era a pessoa com quem ele mais falava.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "falava."
+   ]
+  },
+  {
+   "fala": "Disse: os filhos não vão conseguir vir. A irmã dele morreu ano passado. Ninguém ia lembrar dos noventa anos dele. Só eu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém ia lembrar."
+   ],
+   "destaque": [
+    "dele.",
+    "Só"
+   ]
+  },
+  {
+   "fala": "E ele resolveu fazer uma festa. Pediu ajuda pros moradores do prédio. Pelo grupo do condomínio. Disse que se ninguém ajudasse, ele fazia sozinho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fazia",
+    "sozinho."
+   ]
+  },
+  {
+   "fala": "Chegamos no prédio. O salão de festas do térreo. O Josiel pediu ajuda pra subir com os balões. Eu ajudei. E fiquei, porque a curiosidade não deixa.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "curiosidade",
+    "deixa."
+   ]
+  },
+  {
+   "fala": "O salão estava cheio. Os moradores tinham ajudado. Uns trinta. Com salgado, refrigerante, faixa pendurada: feliz noventa, seu Oscar.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O SALÃO CHEIO"
+   ],
+   "destaque": [
+    "seu",
+    "Oscar."
+   ]
+  },
+  {
+   "fala": "Até a síndica, que era famosa por ser brava, estava lá. Enchendo balão. Disse: o seu Oscar é o morador mais educado desse prédio. Merece.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "prédio.",
+    "Merece."
+   ]
+  },
+  {
+   "fala": "Às quatro horas, o Josiel subiu pra buscar o seu Oscar. Disse que precisava ajudar a trocar uma lâmpada. Mentira, claro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "16H"
+   ],
+   "destaque": [
+    "Mentira,",
+    "claro."
+   ]
+  },
+  {
+   "fala": "O seu Oscar desceu. De chinelo e pijama. Entrou no salão. E todo mundo gritou: surpresa! Ele ficou parado na porta.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "parado",
+    "porta."
+   ]
+  },
+  {
+   "fala": "Ele olhou o pijama. Olhou o salão. E disse: Josiel, você me trouxe de pijama pra festa? O salão inteiro riu. Ele também.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "DE PIJAMA"
+   ],
+   "destaque": [
+    "riu.",
+    "também."
+   ]
+  },
+  {
+   "fala": "Cantaram parabéns. Ele assoprou as velas. Um nove e um zero. E aí pediu pra falar alguma coisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "alguma",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Disse: eu tenho dois filhos que moram longe. Eu amo eles. Mas esse rapaz aqui, o Josiel, é meu filho também. Quinze anos de bom dia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Esse rapaz é meu filho."
+   ],
+   "destaque": [
+    "bom",
+    "dia."
+   ]
+  },
+  {
+   "fala": "O Josiel, de uniforme, segurando o bolo, começou a chorar. O seu Oscar abraçou ele. De pijama. Os moradores aplaudindo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "QUINZE ANOS DE BOM DIA"
+   ],
+   "destaque": [
+    "moradores",
+    "aplaudindo."
+   ]
+  },
+  {
+   "fala": "Aí a síndica fez uma videochamada. Com os filhos dele, do exterior. Eles cantaram parabéns de longe. E agradeceram o Josiel por tudo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Videochamada"
+   ],
+   "destaque": [
+    "Josiel",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "O filho mais velho disse no vídeo: Josiel, a gente te deve muito. Ele respondeu: não deve nada. O seu Oscar me deve uma partida de xadrez. Ele perdeu ontem.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "perdeu",
+    "ontem."
+   ]
+  },
+  {
+   "fala": "Eu fui embora com um pedaço de bolo. O seu Oscar me agradeceu pela carona dos balões. De pijama, no portão. Acenando.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "portão.",
+    "Acenando."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que passa o dia na portaria e guarda a vida dos moradores. Pergunta o nome dele.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONHECE O PORTEIRO"
+   ],
+   "destaque": [
+    "nome",
+    "dele."
+   ]
+  },
+  {
+   "fala": "E se você passa pela portaria todo dia, para um minuto e conversa. Pode ser a melhor parte do dia de alguém.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "APARTAMENTO 42"
+   ],
+   "destaque": [
+    "dia",
+    "alguém."
+   ]
+  }
+ ]
+}

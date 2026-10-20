@@ -1,0 +1,261 @@
+{
+ "id": "cx234",
+ "ep": 234,
+ "avulso": true,
+ "titulo": "O DJ QUE NÃO OUVE",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🎧 Ele é surdo de nascença. E é DJ. Sente a música pelo chão, pelas mãos, pelo peito. Hoje ia tocar na maior festa da cidade.\n\nVocê acha que dá pra sentir música sem ouvir? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#dj #surdo #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎧 Ele é surdo de nascença. E é DJ. Sente a música pelo chão, pelas mãos, pelo peito. Hoje ia tocar na maior festa da cidade. Você acha que dá pra sentir música sem ouvir? 👇\nHistória de ficção.\n#dj #surdo #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um DJ que nunca ouviu uma batida. Mas sente cada uma.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sente",
+    "cada"
+   ]
+  },
+  {
+   "fala": "Sábado, dez da noite. Entrou um rapaz de uns vinte e oito anos, fone gigante no pescoço, bolsa de equipamento e um sorriso enorme.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 22H"
+   ],
+   "destaque": [
+    "sorriso",
+    "enorme."
+   ]
+  },
+  {
+   "fala": "Ele mostrou o celular com uma mensagem escrita: boa noite. Eu sou surdo. Vou pra casa de shows tal. Eu sou o DJ de hoje.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ele é surdo."
+   ],
+   "destaque": [
+    "DJ",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "Eu li duas vezes. DJ? Surdo? Ele percebeu minha cara e riu. Escreveu: todo mundo faz essa cara.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "essa",
+    "cara."
+   ]
+  },
+  {
+   "fala": "Chama-se Lucas. Mas o nome artístico é DJ Vibra. Nasceu surdo. E sempre amou música. Do jeito dele.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DJ VIBRA"
+   ],
+   "destaque": [
+    "jeito",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Escreveu no celular: quando eu era criança, eu deitava no chão perto da caixa de som da igreja. Sentia a música pelo corpo. Pelo peito.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Pelo",
+    "peito."
+   ]
+  },
+  {
+   "fala": "Aprendeu a ler a música pelas vibrações. O grave no peito. O médio na mão. O agudo pelo visual, no programa de computador, que mostra as ondas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mostra",
+    "ondas."
+   ]
+  },
+  {
+   "fala": "Eu perguntei, falando devagar pra ele ler meus lábios: como você sabe se a música tá boa? Ele respondeu escrevendo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Como você sabe se tá bom?"
+   ],
+   "destaque": [
+    "respondeu",
+    "escrevendo."
+   ]
+  },
+  {
+   "fala": "Disse: pelo chão. E pelo povo. Se o chão treme do jeito certo e o povo pula, tá boa. Se o povo para, eu mudo.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "PELO CHÃO E PELO POVO"
+   ],
+   "destaque": [
+    "para,",
+    "mudo."
+   ]
+  },
+  {
+   "fala": "Ele colocou a mão no painel do meu carro. Pediu pra eu ligar o rádio. Sentiu a vibração. E escreveu: o seu som tem pouco grave. Comprou barato. Acertou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "barato.",
+    "Acertou."
+   ]
+  },
+  {
+   "fala": "Eu ri. Ele riu também. Escreveu: eu sei mais do seu carro do que você.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "carro",
+    "você."
+   ]
+  },
+  {
+   "fala": "Chegamos na casa de shows. Fila enorme na porta. Ele era a atração principal. A primeira vez que tocava num lugar tão grande.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "tão",
+    "grande."
+   ]
+  },
+  {
+   "fala": "Ele me deu uma pulseira de acesso. Escreveu: fica. Quero que você veja. Eu fiquei. Primeira vez numa festa dessas em vinte anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  },
+  {
+   "fala": "À meia-noite ele subiu no palco. Descalço. Disse que toca descalço pra sentir o chão. Colocou as mãos na mesa de som.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "MEIA-NOITE"
+   ],
+   "destaque": [
+    "mesa",
+    "som."
+   ]
+  },
+  {
+   "fala": "E começou. Uma batida que eu senti no estômago. O chão tremendo. Duas mil pessoas pulando. E ele lá em cima, de olho fechado, sentindo tudo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O CHÃO TREMEU"
+   ],
+   "destaque": [
+    "sentindo",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Eu olhei e entendi. Ele não precisava ouvir. Ele estava dentro da música. Mais do que qualquer um ali.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "qualquer",
+    "ali."
+   ]
+  },
+  {
+   "fala": "No meio do show, ele fez uma pausa. Um intérprete de libras subiu no palco. E traduziu o que ele sinalizava pro público.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O INTÉRPRETE"
+   ],
+   "destaque": [
+    "pro",
+    "público."
+   ]
+  },
+  {
+   "fala": "Ele disse: a música não é só pro ouvido. É pro corpo inteiro. Hoje tem cinquenta surdos aqui. Essa próxima é pra vocês.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A música não é só pro ouvido."
+   ],
+   "destaque": [
+    "próxima",
+    "vocês."
+   ]
+  },
+  {
+   "fala": "E num canto, perto das caixas de som, um grupo de surdos dançando com a mão encostada na caixa. Sentindo a vibração. Chorando de alegria.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OS CINQUENTA"
+   ],
+   "destaque": [
+    "Chorando",
+    "alegria."
+   ]
+  },
+  {
+   "fala": "Ele tocou até as três da manhã. Eu saí meia-noite e meia, que eu não tenho mais idade. Mas saí com o chão ainda tremendo no peito.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tremendo",
+    "peito."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, ele me mandou mensagem: e aí, motorista, gostou? Eu respondi: senti. Ele mandou um emoji de coração. E escreveu: então você entendeu.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "você",
+    "entendeu."
+   ]
+  },
+  {
+   "fala": "Moral da história: a gente acha que precisa de tudo pra fazer o que ama. Às vezes basta sentir.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SENTE"
+   ],
+   "destaque": [
+    "basta",
+    "sentir."
+   ]
+  },
+  {
+   "fala": "E se alguém disser que você não pode fazer algo por causa de uma limitação, lembra do DJ Vibra. Ele dança descalço.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DJ VIBRA"
+   ],
+   "destaque": [
+    "dança",
+    "descalço."
+   ]
+  }
+ ]
+}

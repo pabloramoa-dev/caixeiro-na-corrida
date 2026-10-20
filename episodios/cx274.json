@@ -1,0 +1,255 @@
+{
+ "id": "cx274",
+ "ep": 274,
+ "avulso": true,
+ "titulo": "A BORDADEIRA NO MUSEU",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🪡 Ela bordava toalha pra vender na feira por 20 reais. Uma curadora viu. Hoje, aos 71 anos, as toalhas dela estavam no museu de arte da capital.\n\nQual arte da sua família merecia estar num museu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bordado #arte #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🪡 Ela bordava toalha pra vender na feira por 20 reais. Uma curadora viu. Hoje, aos 71 anos, as toalhas dela estavam no museu de arte da capital. Qual arte da sua família merecia estar num museu? 👇\nHistória de ficção.\n#bordado #arte #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma artista que não sabia que era artista.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "era",
+    "artista."
+   ]
+  },
+  {
+   "fala": "Sexta, seis da tarde. Entrou uma senhora de setenta e um anos, vestido simples, cabelo preso com grampo, e uma sacola de feira. Com o neto do lado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 18H"
+   ],
+   "destaque": [
+    "neto",
+    "lado."
+   ]
+  },
+  {
+   "fala": "O neto disse: a vó vai no museu. A inauguração da exposição dela. A senhora disse: exposição não, meu filho. São só os meus paninhos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela vai no museu."
+   ],
+   "destaque": [
+    "meus",
+    "paninhos."
+   ]
+  },
+  {
+   "fala": "Dona Zulmira. Bordadeira desde os oito anos. Aprendeu com a mãe, numa roça do interior. Bordava toalha, pano de prato, fronha. E vendia na feira.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA ZULMIRA"
+   ],
+   "destaque": [
+    "vendia",
+    "feira."
+   ]
+  },
+  {
+   "fala": "Disse: eu vendia a vinte reais cada. Às vezes dez, se a freguesa chorava. Cinquenta anos de feira.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vinte reais cada."
+   ],
+   "destaque": [
+    "anos",
+    "feira."
+   ]
+  },
+  {
+   "fala": "Mas os bordados dela não eram comuns. Ela bordava histórias. A roça da infância. O casamento dela. Os filhos nascendo. A cidade crescendo. Tudo em linha colorida.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "linha",
+    "colorida."
+   ]
+  },
+  {
+   "fala": "Um dia, uma moça parou na banca dela. Ficou meia hora olhando. Comprou tudo. Depois voltou e se apresentou: curadora de um museu de arte da capital.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A CURADORA"
+   ],
+   "destaque": [
+    "arte",
+    "capital."
+   ]
+  },
+  {
+   "fala": "A dona Zulmira riu: eu achei que era golpe. Museu? Pra mim museu é coisa de quadro de gente morta. Eu sou viva e borda pano de prato.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu achei que era golpe."
+   ],
+   "destaque": [
+    "pano",
+    "prato."
+   ]
+  },
+  {
+   "fala": "A curadora insistiu. Visitou a casa dela. Viu o quartinho cheio de bordados guardados. Cinquenta anos de histórias. E disse: isso é arte. Precisa ser visto.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ser",
+    "visto."
+   ]
+  },
+  {
+   "fala": "Chegamos no museu. Um prédio enorme, de colunas. Escadaria de mármore. Gente de roupa elegante na porta. Ela parou no primeiro degrau.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "primeiro",
+    "degrau."
+   ]
+  },
+  {
+   "fala": "Disse pro neto: eu não sou dessas coisas, meu filho. Olha essa gente chique. Eu vim de chinelo. O neto segurou a mão dela: a senhora é a estrela, vó.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu não sou dessas coisas."
+   ],
+   "destaque": [
+    "estrela,",
+    "vó."
+   ]
+  },
+  {
+   "fala": "Ela me pediu pra entrar junto. Disse que precisava de um rosto conhecido. Eu entrei. De camisa de motorista. Ninguém me barrou. Estavam todos olhando ela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "todos",
+    "olhando"
+   ]
+  },
+  {
+   "fala": "Uma sala inteira. Paredes brancas, iluminação de museu. E os bordados dela. Emoldurados. Com plaquinha. Cinquenta anos de vida pendurados como quadro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A SALA DA DONA ZULMIRA"
+   ],
+   "destaque": [
+    "como",
+    "quadro."
+   ]
+  },
+  {
+   "fala": "Ela entrou devagar. Olhando cada um. Passando a mão perto, sem encostar. Como quem cumprimenta um velho amigo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "velho",
+    "amigo."
+   ]
+  },
+  {
+   "fala": "No meio da sala, o maior. Um bordado da mãe dela. Ensinando uma menina a bordar. Debaixo de uma mangueira. Ela tinha bordado aquilo aos vinte anos.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O BORDADO DA MÃE"
+   ],
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ela parou na frente. E disse pra curadora: essa é a minha mãe. Ela me ensinou tudo. Ela nunca saiu da roça. E agora ela tá num museu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Essa é a minha mãe."
+   ],
+   "destaque": [
+    "num",
+    "museu."
+   ]
+  },
+  {
+   "fala": "As pessoas da inauguração, todas elegantes, foram parando em volta dela. Ouvindo. Algumas chorando. Uma senhora de colar de pérola segurou a mão dela.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MÃE NO MUSEU"
+   ],
+   "destaque": [
+    "mão",
+    "dela."
+   ]
+  },
+  {
+   "fala": "A curadora fez um discurso. Disse: a dona Zulmira é uma das maiores artistas populares que eu já conheci. E ela vendia arte a vinte reais na feira.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "reais",
+    "feira."
+   ]
+  },
+  {
+   "fala": "A dona Zulmira pegou o microfone e disse só uma coisa: eu continuo vendendo na feira. Sábado. A vinte. Quem quiser, aparece. O museu inteiro riu.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "inteiro",
+    "riu."
+   ]
+  },
+  {
+   "fala": "Na volta, ela foi bordando no banco de trás. Disse que ia bordar aquela noite. O museu, as colunas, o neto, o motorista. Disse que eu ia ficar bonito em linha azul.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "linha",
+    "azul."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem arte em toda feira, em toda cozinha, em todo quintal. Só falta alguém dizer em voz alta.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOCÊ É ARTISTA"
+   ],
+   "destaque": [
+    "voz",
+    "alta."
+   ]
+  },
+  {
+   "fala": "E se alguém da sua família borda, costura, pinta, desenha, guarda. Mostra. Pode ser arte de museu.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA ZULMIRA"
+   ],
+   "destaque": [
+    "arte",
+    "museu."
+   ]
+  }
+ ]
+}

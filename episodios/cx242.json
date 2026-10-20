@@ -1,0 +1,246 @@
+{
+ "id": "cx242",
+ "ep": 242,
+ "avulso": true,
+ "titulo": "A RAMPA DO SKATE",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🛹 Um menino cadeirante ficava olhando os skatistas na praça. Um deles chamou ele pra andar. Na rampa. De cadeira de rodas.\n\nVocê já incluiu alguém que estava só olhando? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#skate #inclusao #amizade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🛹 Um menino cadeirante ficava olhando os skatistas na praça. Um deles chamou ele pra andar. Na rampa. De cadeira de rodas. Você já incluiu alguém que estava só olhando? 👇\nHistória de ficção.\n#skate #inclusao #amizade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma cadeira de rodas pra pista de skate. E ela voou.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "skate.",
+    "voou."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro da tarde. Entrou um menino de doze anos numa cadeira de rodas esportiva, cheia de adesivo, e a mãe dele. Pediram pra ir na pista de skate do parque.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 16H"
+   ],
+   "destaque": [
+    "skate",
+    "parque."
+   ]
+  },
+  {
+   "fala": "O menino disse: hoje tem campeonato. E eu vou competir. A mãe olhou pra mim e disse baixinho: ele vai. Eu ainda não acredito.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Campeonato de skate."
+   ],
+   "destaque": [
+    "ainda",
+    "acredito."
+   ]
+  },
+  {
+   "fala": "Chama-se Arthur. Cadeirante desde que nasceu. Durante dois anos, todo sábado, ia na praça e ficava olhando os skatistas. Na beira da pista.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O MENINO QUE OLHAVA"
+   ],
+   "destaque": [
+    "beira",
+    "pista."
+   ]
+  },
+  {
+   "fala": "Disse: eu só olhava. Ninguém me chamava. Eu achava que não era pra mim. Skate é de pé.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu só olhava."
+   ],
+   "destaque": [
+    "Skate",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Até que um skatista de uns dezesseis anos, o Bruno, chegou perto dele. E perguntou: quer descer a rampa?",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "descer",
+    "rampa?"
+   ]
+  },
+  {
+   "fala": "O Arthur riu: ele empurrou a minha cadeira na rampa pequena. Eu desci gritando. A minha mãe quase desmaiou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele empurrou minha cadeira."
+   ],
+   "destaque": [
+    "quase",
+    "desmaiou."
+   ]
+  },
+  {
+   "fala": "Depois disso, o Bruno começou a ensinar. Como equilibrar a cadeira na rampa. Como inclinar o corpo. Como cair sem se machucar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "machucar."
+   ]
+  },
+  {
+   "fala": "Descobriram que existia um esporte. Skate de cadeira de rodas. Com manobra, salto, tudo. Os outros skatistas da praça começaram a ajudar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SKATE EM CADEIRA"
+   ],
+   "destaque": [
+    "começaram",
+    "ajudar."
+   ]
+  },
+  {
+   "fala": "O Arthur disse: agora eu tenho amigos. Dez. Todos skatistas. Eles me chamam de Flash. Porque eu sou o mais rápido na rampa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Agora eu tenho amigos."
+   ],
+   "destaque": [
+    "rápido",
+    "rampa."
+   ]
+  },
+  {
+   "fala": "Chegamos no parque. A pista cheia. Skatistas de todas as idades. E na entrada, o Bruno e mais uns dez, esperando o Arthur.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "esperando",
+    "Arthur."
+   ]
+  },
+  {
+   "fala": "Quando ele desceu do carro, os skatistas bateram o skate no chão. Todos ao mesmo tempo. Um barulho de saudação. Ele sorriu do tamanho do mundo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tamanho",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "O campeonato. Categorias por idade. E uma categoria nova, criada naquele ano: cadeira de rodas. Com três inscritos. Um era o Arthur.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O CAMPEONATO"
+   ],
+   "destaque": [
+    "era",
+    "Arthur."
+   ]
+  },
+  {
+   "fala": "O locutor chamou: Arthur, o Flash! E ele foi. Subiu a rampa grande. Ficou parado lá em cima. A mãe com as mãos no rosto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A VEZ DO FLASH"
+   ],
+   "destaque": [
+    "mãos",
+    "rosto."
+   ]
+  },
+  {
+   "fala": "Desceu. Rápido. Subiu do outro lado. Fez uma manobra no alto. Equilibrou a cadeira na borda. E desceu de novo. A pista inteira gritando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "inteira",
+    "gritando."
+   ]
+  },
+  {
+   "fala": "Os skatistas batendo o skate no chão. O Bruno gritando: Flash! Flash! A mãe chorando. Eu de pé na grade, gritando junto.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A PISTA EXPLODIU"
+   ],
+   "destaque": [
+    "gritando",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Segundo lugar. Ele ganhou uma medalha e um skate de presente. Disse no microfone: esse skate eu vou dar pro Bruno. Ele me deu a rampa.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SEGUNDO LUGAR"
+   ],
+   "destaque": [
+    "deu",
+    "rampa."
+   ]
+  },
+  {
+   "fala": "O Bruno pegou o skate e disse: só se você me ensinar a sua manobra. Ninguém aqui consegue fazer aquilo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "fazer",
+    "aquilo."
+   ]
+  },
+  {
+   "fala": "Na volta, a mãe me disse: dois anos ele só olhava. Bastou um menino chamar. Um só. Eu quero encontrar a mãe desse Bruno pra agradecer.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Bruno",
+    "agradecer."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente esperando um convite na beira da pista. Chama.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CHAMA PRA PERTO"
+   ],
+   "destaque": [
+    "pista.",
+    "Chama."
+   ]
+  },
+  {
+   "fala": "E se você vê alguém só olhando, convida. A rampa é de todo mundo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FLASH"
+   ],
+   "destaque": [
+    "todo",
+    "mundo."
+   ]
+  }
+ ]
+}

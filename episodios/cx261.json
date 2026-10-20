@@ -1,0 +1,241 @@
+{
+ "id": "cx261",
+ "ep": 261,
+ "avulso": true,
+ "titulo": "O CAFÉ PENDURADO",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "☕ Na padaria, ele pagava dois cafés: um pra ele, outro pendurado pra quem não pudesse pagar. Fazia isso há 10 anos. Um dia descobriu quem tomava.\n\nVocê já deixou alguma coisa paga pra um desconhecido? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #gentileza #cafe #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "☕ Na padaria, ele pagava dois cafés: um pra ele, outro pendurado pra quem não pudesse pagar. Fazia isso há 10 anos. Um dia descobriu quem tomava. Você já deixou alguma coisa paga pra um desconhecido? 👇\nHistória de ficção.\n#reflexao #gentileza #cafe #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou numa padaria com um café que estava esperando há dez anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "dez",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Terça, sete da manhã. Peguei um senhor de uns sessenta e cinco anos. Pediu pra parar numa padaria no caminho. Disse: é rapidinho. Só o meu café.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 7H"
+   ],
+   "destaque": [
+    "meu",
+    "café."
+   ]
+  },
+  {
+   "fala": "Eu entrei com ele. Precisava de um café também. Ele pediu dois. Tomou um. E o outro, disse pra atendente: pendura. A atendente anotou num quadro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "num",
+    "quadro."
+   ]
+  },
+  {
+   "fala": "Atrás do balcão, um quadro de giz. Com risquinhos. Cada risquinho, um café pago. Esperando alguém que não pudesse pagar.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O QUADRO DOS CAFÉS"
+   ],
+   "destaque": [
+    "pudesse",
+    "pagar."
+   ]
+  },
+  {
+   "fala": "Ele explicou: é o café pendurado. Uma tradição de outro país. Você paga um a mais. E quem não tem dinheiro chega e pede um café pendurado.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "É o café pendurado."
+   ],
+   "destaque": [
+    "café",
+    "pendurado."
+   ]
+  },
+  {
+   "fala": "Seu Rubens. Fazia isso todo dia, há dez anos. Na mesma padaria. Disse que começou depois de uma época difícil da vida dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vida",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Disse: eu passei fome. Fiquei desempregado, perdi tudo. E um dia, um homem que eu não conhecia pagou um café pra mim. E um pão. Sem dizer nada.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu passei fome."
+   ],
+   "destaque": [
+    "dizer",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Ele nunca soube quem era. Não pôde agradecer. Então decidiu agradecer do jeito que dava: pagando pra outro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pagando",
+    "outro."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e o senhor sabe quem toma os seus cafés? Ele disse: não. E nem quero saber. Não é pra mim.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o senhor sabe quem toma?"
+   ],
+   "destaque": [
+    "saber.",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Mas a atendente, que ouviu, chegou perto. E disse: seu Rubens, desculpa. Mas eu acho que o senhor precisa saber de uma coisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "saber",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Ela disse: tem um rapaz que vem toda manhã. Há uns três anos. Toma o café pendurado. E sempre deixa uma coisa no lugar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A ATENDENTE CONTOU"
+   ],
+   "destaque": [
+    "coisa",
+    "lugar."
+   ]
+  },
+  {
+   "fala": "E tirou de uma gaveta uma caixa. Cheia de bilhetes. Pequenos. Em guardanapo, em papel de pão. Uns trezentos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "OS BILHETES"
+   ],
+   "destaque": [
+    "Uns",
+    "trezentos."
+   ]
+  },
+  {
+   "fala": "O seu Rubens abriu um. Escrito à mão: obrigado pelo café. Hoje eu consegui uma entrevista. Outro: obrigado. Hoje eu dormi num albergue. Outro: obrigado. Hoje eu comecei a trabalhar.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "comecei",
+    "trabalhar."
+   ]
+  },
+  {
+   "fala": "Três anos de bilhetes. Contando a vida de alguém que levantou. Café por café.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "TRÊS ANOS DE BILHETES"
+   ],
+   "destaque": [
+    "Café",
+    "café."
+   ]
+  },
+  {
+   "fala": "Aí entrou na padaria um rapaz de uns trinta anos. Uniforme de empresa de limpeza. Chegou no balcão e disse: um café pendurado, por favor.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "pendurado,",
+    "favor."
+   ]
+  },
+  {
+   "fala": "A atendente olhou pro seu Rubens. O seu Rubens olhou pro rapaz. E disse: esse aqui é por minha conta. Mas eu quero tomar com você.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tomar",
+    "você."
+   ]
+  },
+  {
+   "fala": "Os dois sentaram numa mesinha. O rapaz contou que dormia na rua quando começou a tomar o café. Que hoje tinha emprego, quarto alugado, e estava juntando dinheiro.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OS DOIS NA MESA"
+   ],
+   "destaque": [
+    "juntando",
+    "dinheiro."
+   ]
+  },
+  {
+   "fala": "E aí o rapaz pagou dois cafés. Um pra ele. E disse pra atendente: e um pendurado. Agora é a minha vez.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Agora eu penduro também."
+   ],
+   "destaque": [
+    "minha",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Eu levei o seu Rubens pro destino. Ele ficou quieto o caminho todo. Depois disse: dez anos achando que eu pagava café. Eu pagava esperança.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "pagava",
+    "esperança."
+   ]
+  },
+  {
+   "fala": "Moral da história: a gentileza que alguém fez por você continua viva enquanto você passar adiante.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PENDURA UM CAFÉ"
+   ],
+   "destaque": [
+    "passar",
+    "adiante."
+   ]
+  },
+  {
+   "fala": "E se a sua padaria aceitar, pendura um café amanhã. Você nunca vai saber de quem é a manhã que você salvou.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CAFÉ PENDURADO"
+   ],
+   "destaque": [
+    "você",
+    "salvou."
+   ]
+  }
+ ]
+}

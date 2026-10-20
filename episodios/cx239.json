@@ -1,0 +1,239 @@
+{
+ "id": "cx239",
+ "ep": 239,
+ "avulso": true,
+ "titulo": "OS MAPAS DO SEU OLAVO",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🗺️ Há 50 anos ele desenha à mão o mapa do bairro. Cada rua, cada casa, cada árvore. E anota quem mora em cada uma. O mapa salvou uma criança perdida.\n\nVocê sabe desenhar o mapa do seu bairro de cabeça? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#mapas #bairro #curiosidades #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🗺️ Há 50 anos ele desenha à mão o mapa do bairro. Cada rua, cada casa, cada árvore. E anota quem mora em cada uma. O mapa salvou uma criança perdida. Você sabe desenhar o mapa do seu bairro de cabeça? 👇\nHistória de ficção.\n#mapas #bairro #curiosidades #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o maior GPS do bairro. Feito à mão, com lápis.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mão,",
+    "lápis."
+   ]
+  },
+  {
+   "fala": "Terça, quatro da tarde. Entrou um senhor de setenta e oito anos, com um tubo de papelão debaixo do braço e lápis atrás da orelha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 16H"
+   ],
+   "destaque": [
+    "atrás",
+    "orelha."
+   ]
+  },
+  {
+   "fala": "Disse: vou na rua das Hortênsias. Atualizar o mapa. Abriram uma padaria nova lá. Eu perguntei: que mapa? Ele abriu o tubo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou atualizar o mapa."
+   ],
+   "destaque": [
+    "abriu",
+    "tubo."
+   ]
+  },
+  {
+   "fala": "Um mapa enorme. Desenhado à mão. Do bairro inteiro. Cada rua, cada casa, cada árvore, cada poste. Com nomes escritos em letra miúda.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O MAPA DO BAIRRO"
+   ],
+   "destaque": [
+    "letra",
+    "miúda."
+   ]
+  },
+  {
+   "fala": "Seu Olavo. Desenhista técnico aposentado. Começou o mapa em mil novecentos e setenta e seis. E atualiza até hoje. Toda semana, uma rua.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "semana,",
+    "rua."
+   ]
+  },
+  {
+   "fala": "Disse: eu anoto quem mora em cada casa. Quem nasceu, quem casou, quem mudou. O mapa é uma história do bairro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu anoto quem mora."
+   ],
+   "destaque": [
+    "história",
+    "bairro."
+   ]
+  },
+  {
+   "fala": "Me mostrou detalhes. Uma árvore que caiu em mil novecentos e noventa. A casa onde morou o primeiro médico do bairro. O campinho que virou prédio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "virou",
+    "prédio."
+   ]
+  },
+  {
+   "fala": "Chegamos na rua das Hortênsias. Ele desceu, olhou a padaria nova, sentou no meio-fio e desenhou. Com régua e lápis. Em dez minutos.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dez",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "Eu ia embora. Mas aí aconteceu uma coisa na rua. Uma mulher correndo, gritando um nome. Desesperada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "nome.",
+    "Desesperada."
+   ]
+  },
+  {
+   "fala": "Era uma mãe. O filho de quatro anos tinha sumido. Estava brincando no portão e desapareceu. Fazia vinte minutos. Ela não sabia onde procurar.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A CRIANÇA PERDIDA"
+   ],
+   "destaque": [
+    "onde",
+    "procurar."
+   ]
+  },
+  {
+   "fala": "Os vizinhos saíram. Uns foram pra um lado, outros pro outro. Ninguém sabia pra onde uma criança de quatro anos iria.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "iria."
+   ]
+  },
+  {
+   "fala": "O seu Olavo levantou e perguntou pra mãe: o seu filho gosta de quê? Ela, chorando: de cachorro. Ele ama cachorro.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Ele gosta de quê?"
+   ],
+   "destaque": [
+    "ama",
+    "cachorro."
+   ]
+  },
+  {
+   "fala": "O seu Olavo abriu o mapa no capô do meu carro. Correu o dedo pelas ruas. E marcou três pontos com o lápis.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "pontos",
+    "lápis."
+   ]
+  },
+  {
+   "fala": "Disse: num raio de quatro quadras, tem três casas com cachorro que fica no portão. Ele foi atrás de um desses. Criança segue cachorro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "TRÊS CASAS COM CACHORRO"
+   ],
+   "destaque": [
+    "segue",
+    "cachorro."
+   ]
+  },
+  {
+   "fala": "Fomos de carro. Eu, ele e a mãe. Primeira casa: nada. Segunda casa, a duas ruas dali: um portão baixo, um labrador. E um menininho sentado na calçada, fazendo carinho.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "fazendo",
+    "carinho."
+   ]
+  },
+  {
+   "fala": "A mãe correu e agarrou o filho. Chorando. O menino sem entender nada. Disse só: mãe, olha o cachorro! Ele é meu amigo!",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "amigo!"
+   ]
+  },
+  {
+   "fala": "A mãe virou pro seu Olavo e perguntou: como o senhor sabia? Ele mostrou o mapa. Disse: cinquenta anos olhando o bairro. A gente aprende onde as coisas acontecem.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O MAPA SALVOU"
+   ],
+   "destaque": [
+    "coisas",
+    "acontecem."
+   ]
+  },
+  {
+   "fala": "Os vizinhos que tinham saído pra procurar foram chegando. E pela primeira vez viram o mapa. Ficaram encantados. Cada um procurando a própria casa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "própria",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Hoje o mapa do seu Olavo está emoldurado na associação do bairro. Com uma cópia digital. E ele ainda atualiza. Toda semana. Com lápis.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "semana.",
+    "lápis."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem conhece o próprio bairro, cuida dele melhor do que qualquer aplicativo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONHECE O SEU LUGAR"
+   ],
+   "destaque": [
+    "qualquer",
+    "aplicativo."
+   ]
+  },
+  {
+   "fala": "E se você mora num lugar há muito tempo, anota a história dele. Um dia alguém vai precisar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O MAPA DO SEU OLAVO"
+   ],
+   "destaque": [
+    "vai",
+    "precisar."
+   ]
+  }
+ ]
+}

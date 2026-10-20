@@ -1,0 +1,249 @@
+{
+ "id": "cx249",
+ "ep": 249,
+ "avulso": true,
+ "titulo": "OS CARTÕES-POSTAIS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "📮 Ela coleciona cartões-postais antigos comprados em feira. Um deles, de 1962, tinha uma mensagem que parecia escrita pra ela.\n\nVocê guarda cartões-postais ou cartas antigas? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#cartoespostais #misterio #curiosidades #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📮 Ela coleciona cartões-postais antigos comprados em feira. Um deles, de 1962, tinha uma mensagem que parecia escrita pra ela. Você guarda cartões-postais ou cartas antigas? 👇\nHistória de ficção.\n#cartoespostais #misterio #curiosidades #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma mensagem que viajou sessenta e quatro anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "quatro",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Domingo, onze da manhã. Feira de antiguidades. Entrou uma moça de uns trinta anos com uma caixa de sapato cheia de cartões-postais antigos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 11H"
+   ],
+   "destaque": [
+    "cartões-postais",
+    "antigos."
+   ]
+  },
+  {
+   "fala": "Disse: coleciono cartões-postais antigos. Compro na feira. Tenho mais de mil. Cada um tem uma história escrita atrás.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Coleciono cartões."
+   ],
+   "destaque": [
+    "escrita",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Chama-se Mariana. Bibliotecária. Disse que lê os cartões como quem lê um livro. Gente que viajou, que sentiu saudade, que mandou beijo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A COLEÇÃO"
+   ],
+   "destaque": [
+    "mandou",
+    "beijo."
+   ]
+  },
+  {
+   "fala": "Me mostrou alguns. Um de mil novecentos e cinquenta, de uma praia: aqui está um calor de rachar, mãe. Outro: casei ontem, foi lindo, depois te conto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "te",
+    "conto."
+   ]
+  },
+  {
+   "fala": "Mas aí ela tirou um cartão da bolsa. Separado. Dentro de um plástico. Disse: esse aqui eu comprei hoje. E não consigo parar de ler.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "parar",
+    "ler."
+   ]
+  },
+  {
+   "fala": "Um cartão de mil novecentos e sessenta e dois. De uma cidade do interior. Endereçado a uma moça chamada Mariana. No mesmo bairro onde ela mora.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O CARTÃO DE 1962"
+   ],
+   "destaque": [
+    "onde",
+    "mora."
+   ]
+  },
+  {
+   "fala": "A mensagem dizia: Mariana, se um dia você ler isso, saiba que eu voltei pra te buscar. Te espero na praça da matriz, todo domingo, às cinco. Assinado: J.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Assinado:",
+    "J."
+   ]
+  },
+  {
+   "fala": "Perguntei: e será que essa Mariana recebeu o cartão? Ela disse: não sei. Mas se esse cartão foi parar na feira, talvez não.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Será que ela recebeu?"
+   ],
+   "destaque": [
+    "feira,",
+    "talvez"
+   ]
+  },
+  {
+   "fala": "Ela tinha decidido investigar. Foi no endereço do cartão. A casa ainda existia. E estava indo lá. Comigo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "lá.",
+    "Comigo."
+   ]
+  },
+  {
+   "fala": "Chegamos. Uma casa antiga, de muro baixo, com um jardim bem cuidado. Uma senhora de oitenta e cinco anos regando as plantas.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "regando",
+    "plantas."
+   ]
+  },
+  {
+   "fala": "A Mariana desceu, se apresentou, mostrou o cartão. A senhora pegou o cartão. Leu. Levou a mão no peito. E sentou no degrau.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "sentou",
+    "degrau."
+   ]
+  },
+  {
+   "fala": "Era ela. A Mariana do cartão. E disse: eu nunca recebi isso. Nunca. A minha mãe não gostava dele. Deve ter escondido.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA ELA"
+   ],
+   "destaque": [
+    "ter",
+    "escondido."
+   ]
+  },
+  {
+   "fala": "Contou que o J era o Joaquim. O namorado da juventude. Que foi trabalhar no interior e prometeu voltar. Ela esperou. Ele nunca apareceu. Ela achou que ele tinha esquecido.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "esquecido."
+   ]
+  },
+  {
+   "fala": "E ele estava esperando. Na praça da matriz. Todo domingo, às cinco. E ela nunca soube. Casou com outro. Teve filhos. Viúva há dez anos.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "ELE ESPERAVA NA PRAÇA"
+   ],
+   "destaque": [
+    "dez",
+    "anos."
+   ]
+  },
+  {
+   "fala": "A Mariana, a bibliotecária, perguntou: a senhora quer saber o que aconteceu com ele? A senhora ficou um tempo quieta. E disse: quero.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disse:",
+    "quero."
+   ]
+  },
+  {
+   "fala": "Uma semana depois, a Mariana me chamou de novo. Tinha pesquisado. Achou o Joaquim. Vivo. Oitenta e sete anos. Morando num asilo da mesma cidade.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA SEMANA DEPOIS"
+   ],
+   "destaque": [
+    "mesma",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Ela organizou o encontro. Na praça da matriz. Num domingo. Às cinco. Eu levei a dona Mariana. A neta do Joaquim levou ele.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A PRAÇA DA MATRIZ"
+   ],
+   "destaque": [
+    "Joaquim",
+    "levou"
+   ]
+  },
+  {
+   "fala": "Os dois se olharam no banco da praça. Sessenta e quatro anos. Ele disse: eu esperei uns cinco anos, todo domingo. Ela disse: eu nunca soube, Joaquim.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "soube,",
+    "Joaquim."
+   ]
+  },
+  {
+   "fala": "Agora eles se encontram todo domingo. Às cinco. Na praça. A bibliotecária vai junto às vezes. Diz que é a melhor história da coleção dela.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "coleção",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem mensagem que se perde no caminho. Mas às vezes alguém acha numa feira e entrega.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "A MENSAGEM CHEGA"
+   ],
+   "destaque": [
+    "feira",
+    "entrega."
+   ]
+  },
+  {
+   "fala": "E se você tem cartas antigas guardadas, lê de novo. Pode ter uma história esperando um final.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DOMINGO ÀS CINCO"
+   ],
+   "destaque": [
+    "esperando",
+    "final."
+   ]
+  }
+ ]
+}

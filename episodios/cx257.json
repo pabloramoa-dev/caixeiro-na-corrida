@@ -1,0 +1,264 @@
+{
+ "id": "cx257",
+ "ep": 257,
+ "avulso": true,
+ "titulo": "O MOTORISTA NOVATO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🚗 Um rapaz no primeiro dia como motorista de aplicativo pediu: posso te seguir hoje pra aprender? Foi o dia mais engraçado da minha carreira.\n\nComo foi o seu primeiro dia no trabalho atual? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #motorista #primeirodia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚗 Um rapaz no primeiro dia como motorista de aplicativo pediu: posso te seguir hoje pra aprender? Foi o dia mais engraçado da minha carreira. Como foi o seu primeiro dia no trabalho atual? 👇\nHistória de ficção.\n#humor #motorista #primeirodia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu fui professor. De um aluno que errou tudo que dava pra errar.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "dava",
+    "errar."
+   ]
+  },
+  {
+   "fala": "Segunda, sete da manhã. Eu estava tomando café no posto quando um rapaz de uns vinte e cinco anos parou do meu lado. Carro novo, adesivo do aplicativo ainda brilhando.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 7H"
+   ],
+   "destaque": [
+    "ainda",
+    "brilhando."
+   ]
+  },
+  {
+   "fala": "Ele perguntou: o senhor é motorista há quanto tempo? Eu disse: oito anos. Ele: hoje é o meu primeiro dia. Posso te seguir pra aprender?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O senhor é motorista há quanto tempo?"
+   ],
+   "destaque": [
+    "seguir",
+    "aprender?"
+   ]
+  },
+  {
+   "fala": "Chama-se Igor. Perdeu o emprego de vendedor. Comprou um carro financiado. E estava morrendo de medo. Eu lembrei de mim mesmo.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O APRENDIZ"
+   ],
+   "destaque": [
+    "mim",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Eu disse: senta aí que eu te ensino o básico. Paguei mais um café. E dei a primeira aula. No balcão do posto.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Te ensino o básico."
+   ],
+   "destaque": [
+    "balcão",
+    "posto."
+   ]
+  },
+  {
+   "fala": "Regra um: bom dia sempre. Regra dois: ar ligado no verão. Regra três: rádio baixo, e pergunta se pode. Regra quatro: nunca discute futebol na primeira corrida.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "corrida."
+   ]
+  },
+  {
+   "fala": "Ele perguntou: e se o passageiro chorar? Eu disse: aí você escuta. Não precisa falar nada. Só dirige devagar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E se o passageiro chorar?"
+   ],
+   "destaque": [
+    "dirige",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "Combinamos de trocar mensagem durante o dia. Ele ia me contando as corridas. Eu ia respondendo entre uma e outra.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "entre",
+    "outra."
+   ]
+  },
+  {
+   "fala": "Primeira mensagem, oito e meia: Caixeiro, peguei a primeira corrida. Fui no endereço errado. A senhora esperou vinte minutos. Me deu uma estrela.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem do Igor"
+   ],
+   "destaque": [
+    "deu",
+    "estrela."
+   ]
+  },
+  {
+   "fala": "Segunda, nove e quinze: Caixeiro, eu tranquei a chave dentro do carro com o passageiro dentro. Ele abriu por dentro. Me deu três estrelas por pena.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem do Igor"
+   ],
+   "destaque": [
+    "estrelas",
+    "pena."
+   ]
+  },
+  {
+   "fala": "Terceira, dez horas: o passageiro discutiu futebol comigo. Eu esqueci a regra quatro. Ele torce pro meu rival. Uma estrela.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem do Igor"
+   ],
+   "destaque": [
+    "rival.",
+    "estrela."
+   ]
+  },
+  {
+   "fala": "Ao meio-dia, ele me ligou. Quase chorando. Disse: minha nota tá dois vírgula oito. O aplicativo vai me bloquear. Eu não sirvo pra isso.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A MÉDIA DESPENCANDO"
+   ],
+   "destaque": [
+    "sirvo",
+    "isso."
+   ]
+  },
+  {
+   "fala": "Eu combinei de encontrar ele num restaurante de motorista. Prato feito. E fui. Ele estava sentado sozinho, olhando o celular, desanimado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "celular,",
+    "desanimado."
+   ]
+  },
+  {
+   "fala": "Eu contei do meu primeiro dia. Que eu levei uma moça chorando pra rodoviária. Que eu não sabia o que fazer. Que eu também achei que não servia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu primeiro dia foi pior."
+   ],
+   "destaque": [
+    "achei",
+    "servia."
+   ]
+  },
+  {
+   "fala": "E disse: o que importa não é a nota de hoje. É se amanhã você volta. Ele ficou quieto. Comeu o prato inteiro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "prato",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "À tarde, ele voltou a rodar. E as mensagens mudaram.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "À TARDE"
+   ],
+   "destaque": [
+    "mensagens",
+    "mudaram."
+   ]
+  },
+  {
+   "fala": "Três horas: peguei uma senhora que tava indo no médico com medo. Eu fiquei conversando com ela. Cinco estrelas.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem do Igor"
+   ],
+   "destaque": [
+    "Cinco",
+    "estrelas."
+   ]
+  },
+  {
+   "fala": "Seis horas: um rapaz entrou chorando. Eu não falei nada. Só dirigi devagar. No final ele disse obrigado. Cinco estrelas.",
+   "expr": "triste",
+   "arte": [
+    "notificacao",
+    "Mensagem do Igor"
+   ],
+   "destaque": [
+    "Cinco",
+    "estrelas."
+   ]
+  },
+  {
+   "fala": "Nove da noite, a última mensagem: Caixeiro, a minha nota subiu pra quatro vírgula dois. E eu gostei. Eu acho que eu gosto disso.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "CINCO ESTRELAS"
+   ],
+   "destaque": [
+    "gosto",
+    "disso."
+   ]
+  },
+  {
+   "fala": "Hoje o Igor tem quatro vírgula nove. E de vez em quando a gente se encontra no posto pra tomar café. Agora ele dá aula pros novatos.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "pros",
+    "novatos."
+   ]
+  },
+  {
+   "fala": "Moral da história: ninguém nasce sabendo. O primeiro dia é sempre ruim. O segundo é o que importa.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA AMANHÃ"
+   ],
+   "destaque": [
+    "segundo",
+    "importa."
+   ]
+  },
+  {
+   "fala": "E se você tá no primeiro dia de alguma coisa, aguenta. Amanhã é melhor. E nunca discute futebol na primeira corrida.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "REGRA QUATRO"
+   ],
+   "destaque": [
+    "primeira",
+    "corrida."
+   ]
+  }
+ ]
+}
