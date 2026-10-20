@@ -1,0 +1,39 @@
+name: Vigia da fila
+
+# Todo dia confere se há pelo menos 6 vídeos prontos (2 dias) e quantos roteiros restam.
+
+on:
+  schedule:
+    - cron: "30 9 * * *"    # 06:30 Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  vigiar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - id: f
+        run: |
+          python -m src.fila --resumo | tail -2 >> $GITHUB_OUTPUT
+          python - >> $GITHUB_OUTPUT <<'PY'
+          from src import fila
+          print(f"restantes={len([e for e in fila.episodios() if e not in fila.ids_publicados()])}")
+          PY
+      - name: Avisar reserva baixa
+        if: steps.f.outputs.reserva_baixa == 'true' || steps.f.outputs.restantes < 30
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const abertas = await github.rest.issues.listForRepo({owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: 'fila'});
+            if (abertas.data.length) return;
+            await github.rest.issues.create({owner: context.repo.owner, repo: context.repo.repo, labels: ['fila'],
+              title: 'Caixeiro: ${{ steps.f.outputs.prontos }} vídeo(s) pronto(s), ${{ steps.f.outputs.restantes }} roteiro(s) restante(s)',
+              body: 'Se há poucos vídeos prontos, confira o workflow Produzir episódios. Se há menos de 30 roteiros, peça um lote novo do Caixeiro no Claude.'});

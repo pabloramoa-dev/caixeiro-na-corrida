@@ -1,0 +1,32 @@
+name: Compactar histórico
+
+# Os MP4 já apagados continuam ocupando espaço no histórico do Git. Uma vez por
+# semana a main vira um commit único com os arquivos atuais (roteiros, histórico
+# e vídeos ainda na fila são preservados), e o repositório não cresce sem limite.
+
+on:
+  schedule:
+    - cron: "30 13 * * 0"   # domingo, 10:30 Brasília (fora dos renders e posts)
+  workflow_dispatch:
+
+concurrency:
+  group: caixeiro-publicacao
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  compactar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git checkout --orphan nova
+          git add -A
+          git commit -q -m "histórico compactado em $(date -u +%F) [skip ci]"
+          git push --force origin nova:main
