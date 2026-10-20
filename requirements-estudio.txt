@@ -1,0 +1,9 @@
+manim==0.20.1
+kokoro-onnx
+soundfile
+numpy
+Pillow
+edge-tts==7.2.8
+pedalboard==0.9.25
+
+requests>=2.32,<3
