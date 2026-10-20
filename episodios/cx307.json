@@ -1,0 +1,243 @@
+{
+ "id": "cx307",
+ "ep": 307,
+ "avulso": true,
+ "titulo": "O TERNO ALUGADO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🤵 Alugou o terno pelo telefone. Veio três números maior. O casamento da filha era em uma hora. E a costureira estava no meu carro.\n\nQual foi a sua maior gafe de roupa? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #casamento #terno #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🤵 Alugou o terno pelo telefone. Veio três números maior. O casamento da filha era em uma hora. E a costureira estava no meu carro. Qual foi a sua maior gafe de roupa? 👇\nHistória de ficção.\n#humor #casamento #terno #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve uma costureira, um pai desesperado e um terno onde cabiam dois.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "cabiam",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Sábado, três da tarde. Entrou um senhor baixinho, de uns sessenta anos, segurando a calça com as duas mãos. Literalmente. Segurando a calça.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 15H"
+   ],
+   "destaque": [
+    "Segurando",
+    "calça."
+   ]
+  },
+  {
+   "fala": "Disse: o terno veio errado! Eu pedi quarenta e dois. Veio quarenta e oito. E o casamento da minha filha é às quatro!",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Veio errado!"
+   ],
+   "destaque": [
+    "às",
+    "quatro!"
+   ]
+  },
+  {
+   "fala": "Seu Dorival. Pai da noiva. Alugou o terno pelo telefone pra economizar. A loja entregou. Ele nem provou. Provou na hora de vestir.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU DORIVAL"
+   ],
+   "destaque": [
+    "hora",
+    "vestir."
+   ]
+  },
+  {
+   "fala": "O paletó chegava no joelho. A manga cobria a mão inteira. Parecia um menino com a roupa do pai. A calça ele segurava com cinto, barbante e esperança.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "barbante",
+    "esperança."
+   ]
+  },
+  {
+   "fala": "Disse: toca pra casa da dona Lindalva, a costureira do bairro. Ela é a única que pode me salvar. Eu toquei.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Toca pra costureira!"
+   ],
+   "destaque": [
+    "salvar.",
+    "toquei."
+   ]
+  },
+  {
+   "fala": "Chegamos. A dona Lindalva veio de chinelo, com a fita métrica no pescoço e a boca cheia de alfinete. Olhou o seu Dorival e disse: misericórdia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "disse:",
+    "misericórdia."
+   ]
+  },
+  {
+   "fala": "Disse: não dá tempo de costurar. Mas dá tempo de alfinetar. Entra no carro que eu vou alfinetando no caminho.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Não dá tempo de costurar."
+   ],
+   "destaque": [
+    "alfinetando",
+    "caminho."
+   ]
+  },
+  {
+   "fala": "E entrou. A dona Lindalva no banco de trás com o seu Dorival. Alfinetando o terno com o carro andando. Eu dirigindo devagar igual carro de cortejo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "carro",
+    "cortejo."
+   ]
+  },
+  {
+   "fala": "Cada lombada ela gritava: devagar, motorista! E pro seu Dorival: não respira! Não mexe! Se mexer, fura!",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Não respira!"
+   ],
+   "destaque": [
+    "mexer,",
+    "fura!"
+   ]
+  },
+  {
+   "fala": "Ela dobrou a manga pra dentro e prendeu. Apertou as costas com doze alfinetes. Fez uma prega na calça. O seu Dorival virou uma almofada de alfinete.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "almofada",
+    "alfinete."
+   ]
+  },
+  {
+   "fala": "Ele disse: tô parecendo um porco-espinho. A dona Lindalva disse: um porco-espinho elegante. Agora não abraça ninguém com força.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Tô parecendo um porco-espinho."
+   ],
+   "destaque": [
+    "ninguém",
+    "força."
+   ]
+  },
+  {
+   "fala": "Chegamos na igreja faltando cinco minutos. Ele desceu duro, igual robô. Andando sem dobrar o braço. A filha já estava na porta, de noiva.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "porta,",
+    "noiva."
+   ]
+  },
+  {
+   "fala": "A noiva olhou pro pai. Olhou de cima a baixo. E perguntou: pai, por que você tá andando assim? Ele disse: depois eu te conto, minha filha.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A NOIVA"
+   ],
+   "destaque": [
+    "minha",
+    "filha."
+   ]
+  },
+  {
+   "fala": "A dona Lindalva entrou junto. Sentou no primeiro banco. Com o kit de costura no colo. Pronta pra emergência.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Pronta",
+    "emergência."
+   ]
+  },
+  {
+   "fala": "Na entrada, ele levou a filha até o altar. Bem devagar. Dizem que foi a entrada mais elegante que a igreja já viu. Ninguém sabia que era por causa dos alfinetes.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dos",
+    "alfinetes."
+   ]
+  },
+  {
+   "fala": "Só que no final o noivo veio dar um abraço apertado no sogro. O seu Dorival gritou: ai! Na frente da igreja inteira. O padre achou que era emoção.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "O ABRAÇO DO NOIVO"
+   ],
+   "destaque": [
+    "era",
+    "emoção."
+   ]
+  },
+  {
+   "fala": "Na festa, ele não dançou. Ficou sentado, duro, na cadeira. A dona Lindalva foi tirando os alfinetes um por um. Quarenta e sete alfinetes.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sete",
+    "alfinetes."
+   ]
+  },
+  {
+   "fala": "Depois ele me mandou mensagem: ano que vem eu compro um terno. Do meu tamanho. E provo antes. A dona Lindalva me cobrou cinquenta reais e um pedaço de bolo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ano que vem eu compro um."
+   ],
+   "destaque": [
+    "pedaço",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Moral da história: economizar é bom. Mas prova a roupa antes do grande dia. E tenha sempre uma costureira de confiança.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PROVA ANTES"
+   ],
+   "destaque": [
+    "costureira",
+    "confiança."
+   ]
+  },
+  {
+   "fala": "E se a costureira do seu bairro já te salvou, manda um abraço pra ela. Elas salvam casamento todo fim de semana.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VIVA AS COSTUREIRAS"
+   ],
+   "destaque": [
+    "fim",
+    "semana."
+   ]
+  }
+ ]
+}

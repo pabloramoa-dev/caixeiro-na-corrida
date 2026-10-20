@@ -1,0 +1,253 @@
+{
+ "id": "cx316",
+ "ep": 316,
+ "avulso": true,
+ "titulo": "O CORREIO ELEGANTE",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "💌 Festa junina de 1979. Ela recebeu um correio elegante sem assinatura. Passou quarenta e cinco anos sem saber quem mandou.\n\nVocê já mandou ou recebeu correio elegante? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #festajunina #correioelegante #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💌 Festa junina de 1979. Ela recebeu um correio elegante sem assinatura. Passou quarenta e cinco anos sem saber quem mandou. Você já mandou ou recebeu correio elegante? 👇\nHistória de ficção.\n#amor #festajunina #correioelegante #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida resolveu um mistério de festa junina de quarenta e cinco anos atrás.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "anos",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Entrou uma senhora de uns sessenta e oito anos, vestido de chita, chapéu de palha. Indo pra uma festa junina de escola.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "junina",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Disse: é a festa da escola da minha neta. Mas eu vou é pela canjica. E abriu a bolsa. Tirou um papel velhinho, dobrado em quatro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a festa da minha neta."
+   ],
+   "destaque": [
+    "dobrado",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Dona Matilde. Viúva há dez anos. E aquele papel era um correio elegante. De mil novecentos e setenta e nove. Amarelo, com a tinta quase sumindo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA MATILDE"
+   ],
+   "destaque": [
+    "quase",
+    "sumindo."
+   ]
+  },
+  {
+   "fala": "Ela leu: para a moça de trança e fita vermelha. Você é a quadrilha mais bonita do arraial. De quem não tem coragem de assinar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Escuta o que diz."
+   ],
+   "destaque": [
+    "coragem",
+    "assinar."
+   ]
+  },
+  {
+   "fala": "Contou que tinha quatorze anos. Usava trança com fita vermelha. Recebeu o bilhete e passou a festa inteira procurando o autor. Nunca descobriu.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Nunca",
+    "descobriu."
+   ]
+  },
+  {
+   "fala": "Riu: eu desconfiava de três meninos. O Rui do bar, o Cícero da farmácia e o Hermes da igreja. Nenhum confessou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu desconfiava de três."
+   ],
+   "destaque": [
+    "Nenhum",
+    "confessou."
+   ]
+  },
+  {
+   "fala": "Depois ela casou com outro. Foi feliz. Muito feliz. Mas guardou o bilhete. Disse que não por amor. Por curiosidade. Mistério que fica.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Mistério",
+    "fica."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola. Ela pediu pra eu entrar. Disse: você vai querer ver a quadrilha. A minha neta é a noiva. Entrei. Comprei uma pamonha.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Comprei",
+    "pamonha."
+   ]
+  },
+  {
+   "fala": "No meio da festa, tinha uma barraca de correio elegante. As crianças mandando bilhete pros coleguinhas. A dona Matilde ficou olhando, sorrindo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "olhando,",
+    "sorrindo."
+   ]
+  },
+  {
+   "fala": "Aí um senhor de chapéu de palha parou do lado dela. Uns setenta anos. Avô de outra criança. E olhou pro papel na mão dela.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O SENHOR DO BILHETE"
+   ],
+   "destaque": [
+    "mão",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ele disse baixinho: a senhora ainda guarda isso? A dona Matilde ficou branca. Perguntou: como você sabe o que é isso?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Ainda guarda isso?"
+   ],
+   "destaque": [
+    "sabe",
+    "isso?"
+   ]
+  },
+  {
+   "fala": "Ele tirou o chapéu. E disse: porque fui eu que escrevi. Em setenta e nove. Era o Abel. O menino tímido do fundo da sala. Que ela nem tinha na lista.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O AUTOR"
+   ],
+   "destaque": [
+    "tinha",
+    "lista."
+   ]
+  },
+  {
+   "fala": "A dona Matilde riu: você nem estava na minha lista, Abel! Ele riu também: eu sei. Por isso eu não assinei. Eu sabia que não estava.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você nem estava na lista!"
+   ],
+   "destaque": [
+    "sabia",
+    "estava."
+   ]
+  },
+  {
+   "fala": "Contou que quis entregar pessoalmente. Mas ficou com vergonha. Depois a família dele mudou de cidade. E ele voltou só agora. Viúvo também. Pra perto dos netos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dos",
+    "netos."
+   ]
+  },
+  {
+   "fala": "E a coincidência: a neta dele e a neta dela dançavam juntas na quadrilha. O noivo e a noiva. Eles nem sabiam.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "sabiam."
+   ]
+  },
+  {
+   "fala": "O seu Abel disse: a senhora ainda fica bonita de chapéu de palha. Ela ficou vermelha. Igual a fita da trança de setenta e nove.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A FITA VERMELHA"
+   ],
+   "destaque": [
+    "setenta",
+    "nove."
+   ]
+  },
+  {
+   "fala": "Na hora do correio elegante, a barraca anunciou: bilhete para a dona Matilde! Era dele. Dessa vez, assinado. Com nome completo e telefone.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "completo",
+    "telefone."
+   ]
+  },
+  {
+   "fala": "Ela leu e disse alto: demorou, hein, Abel? Quarenta e cinco anos! A festa inteira riu. As netas não entenderam nada.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Demorou, hein?"
+   ],
+   "destaque": [
+    "entenderam",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Levei os dois embora juntos. Ela com dois bilhetes na bolsa. O de setenta e nove e o de hoje. Ele de chapéu na mão, igual menino.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Moral da história: coragem que falta aos quatorze às vezes aparece aos setenta. Mas não precisa esperar tanto.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ASSINA O BILHETE"
+   ],
+   "destaque": [
+    "esperar",
+    "tanto."
+   ]
+  },
+  {
+   "fala": "E se tem alguém pra quem você nunca teve coragem de falar, fala. Assina o bilhete. Quarenta e cinco anos é muito tempo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MANDA O RECADO"
+   ],
+   "destaque": [
+    "muito",
+    "tempo."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "id": "cx277",
+ "ep": 277,
+ "avulso": true,
+ "titulo": "O MARIDO ESQUECIDO NO POSTO",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "⛽ Na viagem de férias, a família parou no posto. O pai foi no banheiro. A família foi embora. 80 quilômetros depois, perceberam. Eu fui o resgate.\n\nQual foi a maior confusão numa viagem de família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#viagem #humor #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⛽ Na viagem de férias, a família parou no posto. O pai foi no banheiro. A família foi embora. 80 quilômetros depois, perceberam. Eu fui o resgate. Qual foi a maior confusão numa viagem de família? 👇\nHistória de ficção.\n#viagem #humor #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida resgatou um pai esquecido num posto de gasolina. De chinelo e sem celular.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sem",
+    "celular."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da noite. Eu estava abastecendo num posto na rodovia quando um homem de uns cinquenta anos veio correndo até mim. De bermuda e chinelo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 21H"
+   ],
+   "destaque": [
+    "bermuda",
+    "chinelo."
+   ]
+  },
+  {
+   "fala": "Disse: moço, a minha família me esqueceu! Eu fui no banheiro e eles foram embora. Sem mim. Eu tô sem celular, sem carteira, sem nada.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "A minha família me esqueceu!"
+   ],
+   "destaque": [
+    "sem",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Seu Walter. Viajando com a esposa e os três filhos pra praia. Parou no posto. Foi no banheiro. Quando saiu, o carro tinha ido.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "SEU WALTER"
+   ],
+   "destaque": [
+    "tinha",
+    "ido."
+   ]
+  },
+  {
+   "fala": "Disse: eles nem perceberam que eu não tava. Eu vi o carro saindo pela janela do banheiro. Gritei. Ninguém ouviu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eles nem perceberam."
+   ],
+   "destaque": [
+    "Ninguém",
+    "ouviu."
+   ]
+  },
+  {
+   "fala": "Eu emprestei o meu celular. Ele ligou pra esposa. Caixa postal. Pro filho mais velho. Caixa postal. Tentou mais três vezes. Nada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vezes.",
+    "Nada."
+   ]
+  },
+  {
+   "fala": "Ele suspirou: devem estar todos dormindo. A minha mulher dirigindo e os meninos com fone de ouvido. Ninguém vai notar até chegar na praia.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tá todo mundo dormindo."
+   ],
+   "destaque": [
+    "chegar",
+    "praia."
+   ]
+  },
+  {
+   "fala": "A praia ficava a duzentos quilômetros. Ele sem dinheiro. Eu pensei um pouco. E disse: entra aí. A gente vai atrás deles.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "atrás",
+    "deles."
+   ]
+  },
+  {
+   "fala": "Saímos pela rodovia. Ele no banco da frente, de chinelo, olhando cada carro na estrada. Procurando um carro prata. Igual ao meu. Igual a milhões.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Igual",
+    "milhões."
+   ]
+  },
+  {
+   "fala": "Cada carro prata que a gente passava, ele gritava: é aquele! Não era. É aquele! Não era. Uns vinte carros prata. Nenhum era.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CADA CARRO PRATA"
+   ],
+   "destaque": [
+    "Nenhum",
+    "era."
+   ]
+  },
+  {
+   "fala": "Quarenta minutos de estrada. O telefone tocou. Era a esposa dele. Ligando pro número que tinha aparecido no celular dela. O meu.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "40 MINUTOS"
+   ],
+   "destaque": [
+    "dela.",
+    "meu."
+   ]
+  },
+  {
+   "fala": "A esposa, do outro lado: Walter? Cadê você? A gente parou num posto pra lanchar e o menino perguntou: cadê o pai?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Walter?!"
+   ],
+   "destaque": [
+    "cadê",
+    "pai?"
+   ]
+  },
+  {
+   "fala": "Eles tinham andado oitenta quilômetros sem ele. E só perceberam quando pararam pra lanchar e sobrou um sanduíche.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "OITENTA QUILÔMETROS"
+   ],
+   "destaque": [
+    "sobrou",
+    "sanduíche."
+   ]
+  },
+  {
+   "fala": "O seu Walter no viva-voz: eu tô bem, Marta. Tô com um motorista muito bondoso. A gente tá indo aí. Me guarda o sanduíche.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "guarda",
+    "sanduíche."
+   ]
+  },
+  {
+   "fala": "Chegamos no outro posto. Os três filhos e a esposa na porta da lanchonete, esperando. Quando ele desceu do meu carro, de chinelo, os quatro correram.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quatro",
+    "correram."
+   ]
+  },
+  {
+   "fala": "Abraçaram ele. E depois começaram a rir. O filho mais novo, de oito anos, disse: pai, a gente achou que você tava dormindo atrás. Você é muito quieto.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O ABRAÇO E A ZOAÇÃO"
+   ],
+   "destaque": [
+    "muito",
+    "quieto."
+   ]
+  },
+  {
+   "fala": "O seu Walter ficou pensativo. Disse: eu sou quieto, né? Tão quieto que nem perceberam que eu sumi.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sou quieto, né?"
+   ],
+   "destaque": [
+    "perceberam",
+    "sumi."
+   ]
+  },
+  {
+   "fala": "A esposa abraçou ele de novo. E disse: perceberam, sim. O caçula chorou quando viu o banco vazio. Ele que me obrigou a parar.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O PAI QUIETO"
+   ],
+   "destaque": [
+    "obrigou",
+    "parar."
+   ]
+  },
+  {
+   "fala": "O caçula confirmou: eu chorei. O seu Walter pegou o menino no colo. E disse: então valeu ser esquecido. Pra saber que alguém sente falta.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sente",
+    "falta."
+   ]
+  },
+  {
+   "fala": "Eles quiseram pagar a corrida. Eu cobrei só o combustível. E ganhei o sanduíche que sobrou. Que era do seu Walter. Ele fez questão.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "fez",
+    "questão."
+   ]
+  },
+  {
+   "fala": "Moral da história: na correria, a gente esquece quem é quieto. Confere quem tá no banco de trás. Em todos os sentidos.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONFERE O BANCO DE TRÁS"
+   ],
+   "destaque": [
+    "todos",
+    "sentidos."
+   ]
+  },
+  {
+   "fala": "E se você viaja em família, conta todo mundo antes de sair do posto. Inclusive o pai quieto.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU WALTER"
+   ],
+   "destaque": [
+    "pai",
+    "quieto."
+   ]
+  }
+ ]
+}

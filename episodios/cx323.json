@@ -1,0 +1,241 @@
+{
+ "id": "cx323",
+ "ep": 323,
+ "avulso": true,
+ "titulo": "O ENSAIO DO PEDIDO",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "💍 Ele ensaiou o pedido de casamento comigo no carro. Vinte minutos de discurso. Na hora H, esqueceu tudo. E falou a coisa mais certa.\n\nComo foi o pedido de casamento mais engraçado que você já viu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #pedidodecasamento #amor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💍 Ele ensaiou o pedido de casamento comigo no carro. Vinte minutos de discurso. Na hora H, esqueceu tudo. E falou a coisa mais certa. Como foi o pedido de casamento mais engraçado que você já viu? 👇\nHistória de ficção.\n#humor #pedidodecasamento #amor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu fui pedido em casamento. Quer dizer. Mais ou menos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "ou",
+    "menos."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Entrou um rapaz de uns vinte e oito anos, camisa social, cabelo arrumado, suando frio. Com uma caixinha no bolso que ele apalpava a cada minuto.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "cada",
+    "minuto."
+   ]
+  },
+  {
+   "fala": "Disse: vou pedir a minha namorada em casamento. Hoje. Num restaurante. E eu esqueço tudo quando fico nervoso.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Vou pedir ela em casamento."
+   ],
+   "destaque": [
+    "fico",
+    "nervoso."
+   ]
+  },
+  {
+   "fala": "Vinícius. Namora a Rebeca há cinco anos. Escreveu um discurso de duas páginas. Decorou. E esqueceu três vezes só no elevador.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O VINÍCIUS"
+   ],
+   "destaque": [
+    "só",
+    "elevador."
+   ]
+  },
+  {
+   "fala": "Perguntou: posso ensaiar com você? Eu disse: pode. Ele disse: então finge que é ela. Eu disse: amigo, eu tenho barba. Ele: finge.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Posso ensaiar com você?"
+   ],
+   "destaque": [
+    "barba.",
+    "finge."
+   ]
+  },
+  {
+   "fala": "E começou. Rebeca, desde o primeiro dia que eu te vi na fila do pão... Parou. Perguntou: tá muito brega? Eu disse: tá. Mas é bonito.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tá.",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "Perguntou: e na hora eu ajoelho antes ou depois de abrir a caixinha? Eu disse: depois. Ele: mas e se a caixinha cair? Eu disse: aí ajoelha pra pegar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E agora ajoelha?"
+   ],
+   "destaque": [
+    "ajoelha",
+    "pegar."
+   ]
+  },
+  {
+   "fala": "Ele ensaiou quatro vezes. Na primeira esqueceu o nome do restaurante onde se conheceram. Na segunda, o nome do cachorro deles. Na terceira, chorou.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "terceira,",
+    "chorou."
+   ]
+  },
+  {
+   "fala": "Na quarta, ele estava tão concentrado que, no sinal vermelho, se virou pra mim e disse: Caixeiro, você aceita casar comigo? O motorista do lado viu.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O SINAL VERMELHO"
+   ],
+   "destaque": [
+    "lado",
+    "viu."
+   ]
+  },
+  {
+   "fala": "O motorista do carro do lado buzinou e gritou: aceita, rapaz! Os dois combinam! Eu ri tanto que perdi o sinal verde.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sinal",
+    "verde."
+   ]
+  },
+  {
+   "fala": "Chegamos no restaurante. Ele pediu pra eu esperar. Disse: se ela disser não, eu preciso ir embora rápido. Eu fiquei. Confesso que também queria ver.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "queria",
+    "ver."
+   ]
+  },
+  {
+   "fala": "Dava pra ver pela janela. Ele sentado com a Rebeca. Mexendo no bolso. Suando. Tomando água. Três copos de água.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "copos",
+    "água."
+   ]
+  },
+  {
+   "fala": "Aí ele levantou. O restaurante percebeu. Ficou em silêncio. Ele ajoelhou. Abriu a caixinha. E eu vi pela janela: ele travou. Esqueceu tudo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A HORA H"
+   ],
+   "destaque": [
+    "Esqueceu",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Passou uns cinco segundos. Que pareceram cinco minutos. O restaurante inteiro esperando. A Rebeca de mão na boca.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mão",
+    "boca."
+   ]
+  },
+  {
+   "fala": "E ele disse, alto, com a voz tremendo: eu esqueci tudo que eu ia falar. Eu só sei que eu quero esquecer as coisas do seu lado pro resto da vida.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu esqueci tudo."
+   ],
+   "destaque": [
+    "resto",
+    "vida."
+   ]
+  },
+  {
+   "fala": "A Rebeca riu e chorou ao mesmo tempo. E disse: sim, seu esquecido. Sim. O restaurante inteiro aplaudiu. O garçom bateu na bandeja.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O SIM"
+   ],
+   "destaque": [
+    "bateu",
+    "bandeja."
+   ]
+  },
+  {
+   "fala": "Depois ele saiu na porta e acenou pra mim. Gritou: ela disse sim! E o discurso de duas páginas? Ele riu: nem precisou!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "precisou!"
+   ]
+  },
+  {
+   "fala": "E ainda disse: ela quer te conhecer. Eu contei que te pedi em casamento primeiro. Ela disse que você foi o ensaio. Eu fui a estreia.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela quer te conhecer."
+   ],
+   "destaque": [
+    "fui",
+    "estreia."
+   ]
+  },
+  {
+   "fala": "A Rebeca veio na janela do carro. Me agradeceu. E disse: obrigada por aguentar ele vinte minutos. Eu aguento a vida inteira.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Moral da história: a gente ensaia tudo. Mas as palavras mais certas são as que saem na hora. Do coração.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "O CORAÇÃO NÃO ESQUECE"
+   ],
+   "destaque": [
+    "hora.",
+    "coração."
+   ]
+  },
+  {
+   "fala": "E se você vai fazer um pedido importante, ensaia. Mas se esquecer, tudo bem. Fala o que o coração mandar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FALA DO CORAÇÃO"
+   ],
+   "destaque": [
+    "coração",
+    "mandar."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "id": "cx318",
+ "ep": 318,
+ "avulso": true,
+ "titulo": "O LIVREIRO QUE NÃO LIA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "📚 Aprendeu a ler aos cinquenta e dois anos. Aos cinquenta e oito, abriu uma livraria. Hoje ele lê pra quem também não sabe.\n\nQual foi o livro que mudou a sua vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #leitura #livros #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📚 Aprendeu a ler aos cinquenta e dois anos. Aos cinquenta e oito, abriu uma livraria. Hoje ele lê pra quem também não sabe. Qual foi o livro que mudou a sua vida? 👇\nHistória de ficção.\n#superacao #leitura #livros #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um livreiro que passou cinquenta anos escondendo que não sabia ler.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sabia",
+    "ler."
+   ]
+  },
+  {
+   "fala": "Quinta, sete da noite. Entrou um senhor de uns sessenta anos com três caixas de livro. Pesadas. Pediu ajuda pra colocar no porta-malas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 19H"
+   ],
+   "destaque": [
+    "colocar",
+    "porta-malas."
+   ]
+  },
+  {
+   "fala": "Disse: são livros usados. Doação. Vou levar pra minha livraria. Uma livrariazinha. Pequenininha. Mas é minha.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "São livros usados."
+   ],
+   "destaque": [
+    "Pequenininha.",
+    "minha."
+   ]
+  },
+  {
+   "fala": "Seu Severino. Veio do interior com dez anos. Trabalhou desde menino. Pedreiro, porteiro, vigia. Nunca foi pra escola.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU SEVERINO"
+   ],
+   "destaque": [
+    "foi",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Disse: eu fingia que lia. Pegava o jornal e ficava olhando. Na hora de assinar, dizia que tinha esquecido o óculos. Quarenta anos de óculos esquecido.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu fingia que lia."
+   ],
+   "destaque": [
+    "óculos",
+    "esquecido."
+   ]
+  },
+  {
+   "fala": "Contou da vergonha. No banco, pedia pro caixa preencher. No médico, decorava o que o doutor falava. No ônibus, decorava a cor e não o nome da linha.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "nome",
+    "linha."
+   ]
+  },
+  {
+   "fala": "Até que o neto de sete anos pediu: vô, lê uma história pra mim? Ele inventou uma história. O menino disse: não é isso que tá escrito, vô.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O NETO"
+   ],
+   "destaque": [
+    "escrito,",
+    "vô."
+   ]
+  },
+  {
+   "fala": "Disse: naquele dia eu decidi. Fui numa escola de adultos. À noite. Com cinquenta e dois anos. Sentado do lado de um rapaz de dezoito.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Naquele dia eu decidi."
+   ],
+   "destaque": [
+    "rapaz",
+    "dezoito."
+   ]
+  },
+  {
+   "fala": "Riu: a professora tinha a idade da minha filha. Eu chamava ela de dona. Ela me chamava de seu Severino. Parecia que eu era o professor.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "era",
+    "professor."
+   ]
+  },
+  {
+   "fala": "Levou dois anos pra ler uma frase inteira sem parar. A primeira coisa que ele leu sozinho foi o nome da própria rua. Ficou meia hora parado na placa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "parado",
+    "placa."
+   ]
+  },
+  {
+   "fala": "Disse: eu chorei na placa. Passei quarenta anos por aquela rua sem saber o nome dela. Rua das Flores. Era bonito o nome.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu chorei na placa."
+   ],
+   "destaque": [
+    "bonito",
+    "nome."
+   ]
+  },
+  {
+   "fala": "Depois leu o primeiro livro. Demorou seis meses. Depois o segundo. Em três meses. Depois não parou mais. Virou viciado em livro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "viciado",
+    "livro."
+   ]
+  },
+  {
+   "fala": "Chegamos na livraria dele. Um cômodo na frente da casa. Estante feita de caixote. Uns dois mil livros. Todos de doação. E uma plaquinha: troca-se livro por livro.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "livro",
+    "livro."
+   ]
+  },
+  {
+   "fala": "Tinha umas oito pessoas esperando. Adultos. Sentados em banquinho. Ele disse: é a hora da leitura. Toda quinta. Eu leio pra quem não sabe ler.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A HORA DA LEITURA"
+   ],
+   "destaque": [
+    "sabe",
+    "ler."
+   ]
+  },
+  {
+   "fala": "Disse: eles têm vergonha igual eu tinha. Eu leio em voz alta. Depois a gente vê as letras juntos. Sem pressa. Sem professora.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eles têm vergonha igual eu tinha."
+   ],
+   "destaque": [
+    "Sem",
+    "professora."
+   ]
+  },
+  {
+   "fala": "Já ensinou quatorze pessoas a ler. Na livraria. Uma delas abriu um negócio. Outra tirou carteira de motorista. Outra escreveu uma carta pra mãe.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "carta",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "E sabe quem ajuda ele toda quinta? O neto. Hoje com quinze anos. Que fica na porta recebendo as pessoas. O mesmo neto da história inventada.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A LEITURA DO NETO"
+   ],
+   "destaque": [
+    "história",
+    "inventada."
+   ]
+  },
+  {
+   "fala": "O seu Severino riu: hoje quem lê história pra ele sou eu. E ele reclama que eu leio devagar. Mas eu leio o que tá escrito.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Agora quem lê sou eu."
+   ],
+   "destaque": [
+    "tá",
+    "escrito."
+   ]
+  },
+  {
+   "fala": "Antes de eu ir, ele me deu um livro. Disse: pra ler no ponto, esperando passageiro. E escreveu uma dedicatória. Com letra caprichada, devagar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "caprichada,",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra aprender. E quem aprendeu tarde sabe ensinar com mais paciência.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "NUNCA É TARDE"
+   ],
+   "destaque": [
+    "mais",
+    "paciência."
+   ]
+  },
+  {
+   "fala": "E se você conhece alguém com vergonha de não saber ler, oferece ajuda. Com carinho. Sem pressa. Pode mudar uma vida.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "LÊ PRA ALGUÉM"
+   ],
+   "destaque": [
+    "mudar",
+    "vida."
+   ]
+  }
+ ]
+}

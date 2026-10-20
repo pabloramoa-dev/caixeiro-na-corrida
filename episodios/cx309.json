@@ -1,0 +1,244 @@
+{
+ "id": "cx309",
+ "ep": 309,
+ "avulso": true,
+ "titulo": "O LEILÃO DOS ACHADOS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "📦 Comprou uma caixa fechada num leilão de objetos perdidos do metrô. Vinte reais. Dentro, tinha um caderno com quarenta anos de história de alguém.\n\nQual foi a coisa mais estranha que você já achou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#curiosidade #leilao #achados #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📦 Comprou uma caixa fechada num leilão de objetos perdidos do metrô. Vinte reais. Dentro, tinha um caderno com quarenta anos de história de alguém. Qual foi a coisa mais estranha que você já achou? 👇\nHistória de ficção.\n#curiosidade #leilao #achados #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma caixa de vinte reais que valia uma vida inteira.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Sábado, uma da tarde. Entrou uma moça de uns trinta anos com uma caixa de papelão lacrada no colo. Animada que só.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 13H"
+   ],
+   "destaque": [
+    "Animada",
+    "só."
+   ]
+  },
+  {
+   "fala": "Disse: é uma caixa-surpresa. Leilão de achados e perdidos do metrô. Tudo que ninguém foi buscar em um ano vai pra leilão em lote fechado.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É uma caixa-surpresa."
+   ],
+   "destaque": [
+    "lote",
+    "fechado."
+   ]
+  },
+  {
+   "fala": "Raquel. Faz isso por hobby. Compra lote fechado, abre em casa, revende o que dá. Já achou guarda-chuva, fone, até uma dentadura.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A RAQUEL"
+   ],
+   "destaque": [
+    "até",
+    "dentadura."
+   ]
+  },
+  {
+   "fala": "Eu falei: abre aqui no carro, eu também quero ver. Ela riu e abriu no sinal vermelho. Tinha três guarda-chuvas, um cachecol, uma lancheira.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Abre aqui!"
+   ],
+   "destaque": [
+    "cachecol,",
+    "lancheira."
+   ]
+  },
+  {
+   "fala": "E no fundo, um caderno de capa dura. Velho, com elástico. Escrito na capa: diário de bordo. Ela abriu na primeira página.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "página."
+   ]
+  },
+  {
+   "fala": "Era o diário de um condutor de trem. Começava em mil novecentos e oitenta e quatro. Ia até o ano passado. Quarenta anos de anotações.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O DIÁRIO DE BORDO"
+   ],
+   "destaque": [
+    "anos",
+    "anotações."
+   ]
+  },
+  {
+   "fala": "Ela leu em voz alta: hoje uma senhora deu à luz no vagão três. Chamaram a menina de Estação. Eu fui o padrinho.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Escuta isso."
+   ],
+   "destaque": [
+    "fui",
+    "padrinho."
+   ]
+  },
+  {
+   "fala": "E outra: hoje um rapaz pediu a namorada em casamento entre duas estações. Ela disse sim antes da porta abrir. O vagão inteiro aplaudiu.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "inteiro",
+    "aplaudiu."
+   ]
+  },
+  {
+   "fala": "E outra: hoje um homem chorou a viagem inteira. Eu parei o trem um minuto a mais na estação dele. Ninguém reclamou.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Ninguém",
+    "reclamou."
+   ]
+  },
+  {
+   "fala": "Na última página, a letra mais tremida: último dia de trabalho. Aposentadoria. Quarenta anos sem atrasar. Obrigado, linha vermelha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "linha",
+    "vermelha."
+   ]
+  },
+  {
+   "fala": "A Raquel disse: ele esqueceu o diário no último dia de trabalho. Ninguém foi buscar. Tem que voltar pra ele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele esqueceu isso no último dia."
+   ],
+   "destaque": [
+    "Tem",
+    "voltar"
+   ]
+  },
+  {
+   "fala": "Fomos na administração do metrô. Um senhor do atendimento olhou o caderno e riu: isso é do seu Ubirajara! Todo mundo conhecia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "mundo",
+    "conhecia."
+   ]
+  },
+  {
+   "fala": "Seu Ubirajara. Condutor da linha vermelha. Aposentou com festa. Achou que tinha perdido o diário em casa. Ficou triste um ano inteiro.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU UBIRAJARA"
+   ],
+   "destaque": [
+    "ano",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "O funcionário ligou pra ele. Ele morava a vinte minutos. A Raquel disse: vamos levar. Eu disse: vamos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disse:",
+    "vamos."
+   ]
+  },
+  {
+   "fala": "Um senhor de setenta anos abriu a porta. Viu o caderno na mão da Raquel. E ficou parado. Sem falar nada. Pegou com as duas mãos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A PORTA ABRIU"
+   ],
+   "destaque": [
+    "duas",
+    "mãos."
+   ]
+  },
+  {
+   "fala": "Disse: achei que tinha perdido a minha vida inteira. Abraçou o caderno no peito. Igual se abraça uma pessoa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Achei que tinha perdido."
+   ],
+   "destaque": [
+    "abraça",
+    "pessoa."
+   ]
+  },
+  {
+   "fala": "E aí veio uma moça lá de dentro. Uns trinta e cinco anos. Ele disse: essa é a Estação. A menina que nasceu no vagão três. Afilhada.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "três.",
+    "Afilhada."
+   ]
+  },
+  {
+   "fala": "A Raquel riu: então agora eu também tô no diário? O seu Ubirajara pegou uma caneta. E escreveu ali mesmo: hoje uma moça devolveu meus quarenta anos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Então eu tô no diário?"
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem objeto que não vale nada em leilão. E vale uma vida pra quem perdeu.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "COISAS GUARDAM VIDAS"
+   ],
+   "destaque": [
+    "quem",
+    "perdeu."
+   ]
+  },
+  {
+   "fala": "E se você achar alguma coisa perdida, procura o dono. Pode ser só um caderno. Pode ser a vida de alguém.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DEVOLVE O ACHADO"
+   ],
+   "destaque": [
+    "vida",
+    "alguém."
+   ]
+  }
+ ]
+}

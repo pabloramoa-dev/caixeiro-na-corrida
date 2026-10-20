@@ -1,0 +1,249 @@
+{
+ "id": "cx304",
+ "ep": 304,
+ "avulso": true,
+ "titulo": "O ALPINISTA DE SETENTA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🏔️ Aos 70 anos, depois de vencer uma doença, ele decidiu subir o pico mais alto da região. Os filhos acharam loucura. Ele chegou lá em cima.\n\nQual desafio físico você quer vencer? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #montanha #terceiraidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏔️ Aos 70 anos, depois de vencer uma doença, ele decidiu subir o pico mais alto da região. Os filhos acharam loucura. Ele chegou lá em cima. Qual desafio físico você quer vencer? 👇\nHistória de ficção.\n#superacao #montanha #terceiraidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um alpinista de setenta anos até o pé da montanha. O resto ele fez a pé.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "fez",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro da manhã. Entrou um senhor de setenta anos, bota de trilha, mochila grande, bastão de caminhada e uma bandeira enrolada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 4H"
+   ],
+   "destaque": [
+    "bandeira",
+    "enrolada."
+   ]
+  },
+  {
+   "fala": "Pediu: pé da serra, na entrada da trilha. Vou subir o pico. Eu perguntei: hoje? Ele: hoje. Em oito horas, eu tô lá em cima.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pé da serra, por favor."
+   ],
+   "destaque": [
+    "lá",
+    "cima."
+   ]
+  },
+  {
+   "fala": "Seu Roberto. Engenheiro aposentado. Há dois anos, ficou muito doente. Passou meses no hospital. Os médicos não sabiam se ele ia andar de novo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ROBERTO"
+   ],
+   "destaque": [
+    "andar",
+    "novo."
+   ]
+  },
+  {
+   "fala": "Disse: no hospital, eu prometi uma coisa pra mim mesmo. Se eu saísse dali andando, eu ia subir o pico que eu via da janela de casa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu prometi uma coisa."
+   ],
+   "destaque": [
+    "janela",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Saiu do hospital de cadeira de rodas. Depois de andador. Depois de bengala. Fisioterapia todo dia. Caminhada todo dia. Dois anos treinando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "treinando."
+   ]
+  },
+  {
+   "fala": "Riu: os meus filhos acham que eu tô doido. Disseram que se eu subir, eles vão junto pra me carregar de volta. Eu disse: vão ter que me alcançar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Os filhos acham que eu tô doido."
+   ],
+   "destaque": [
+    "ter",
+    "alcançar."
+   ]
+  },
+  {
+   "fala": "Chegamos na entrada da trilha. Ainda escuro. E lá estavam os três filhos dele. De bota e mochila. Esperando. Com lanterna na cabeça.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "lanterna",
+    "cabeça."
+   ]
+  },
+  {
+   "fala": "Ele disse: eu falei que não precisava. A filha respondeu: pai, a gente não veio te carregar. A gente veio subir com o senhor.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "subir",
+    "senhor."
+   ]
+  },
+  {
+   "fala": "Eles me pediram pra voltar às quatro da tarde pra buscar. Eu disse que sim. E fiquei olhando as quatro lanternas subindo a montanha no escuro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "montanha",
+    "escuro."
+   ]
+  },
+  {
+   "fala": "Durante o dia, a filha me mandou fotos. Às sete: o pai na primeira subida. Às nove: o pai descansando numa pedra. Ao meio-dia: o pai com o rosto vermelho, mas sorrindo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O DIA INTEIRO"
+   ],
+   "destaque": [
+    "vermelho,",
+    "sorrindo."
+   ]
+  },
+  {
+   "fala": "À uma da tarde, a filha mandou um vídeo. O pai subindo os últimos metros. Devagar. Apoiado no bastão. Os três filhos atrás, segurando o choro.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "13H"
+   ],
+   "destaque": [
+    "segurando",
+    "choro."
+   ]
+  },
+  {
+   "fala": "E ele chegou. No topo. Mil e oitocentos metros. Abriu a bandeira que levava na mochila. Era uma bandeira feita pelos netos. Escrito: o vô venceu.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PICO"
+   ],
+   "destaque": [
+    "vô",
+    "venceu."
+   ]
+  },
+  {
+   "fala": "No vídeo, ele fica parado no topo. Olhando a cidade lá embaixo. Procurando a casa dele. Achou. Apontou. Disse: lá. Da janela de lá eu olhava pra cá.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "olhava",
+    "cá."
+   ]
+  },
+  {
+   "fala": "E disse pra câmera, ofegante: dois anos atrás eu não conseguia sentar na cama. Hoje eu tô aqui. Não desiste. Nunca desiste.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O QUE ELE DISSE NO TOPO"
+   ],
+   "destaque": [
+    "Nunca",
+    "desiste."
+   ]
+  },
+  {
+   "fala": "Os três filhos abraçaram ele no topo. Os quatro chorando, abraçados, com a bandeira dos netos voando no vento.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OS FILHOS NO TOPO"
+   ],
+   "destaque": [
+    "voando",
+    "vento."
+   ]
+  },
+  {
+   "fala": "Às quatro da tarde, eu busquei os quatro no pé da serra. Destruídos. Com as pernas tremendo. Mas o seu Roberto era o mais animado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "16H"
+   ],
+   "destaque": [
+    "mais",
+    "animado."
+   ]
+  },
+  {
+   "fala": "No carro, ele disse: próxima montanha? A filha: pai, pelo amor de Deus, descansa. Ele: descanso eu tive dois anos no hospital.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Próxima montanha?"
+   ],
+   "destaque": [
+    "anos",
+    "hospital."
+   ]
+  },
+  {
+   "fala": "Deixei ele em casa. Da janela, ele apontou o pico. Disse: eu olhava pra lá todo dia sonhando. Agora eu olho lembrando.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "olho",
+    "lembrando."
+   ]
+  },
+  {
+   "fala": "Moral da história: toda montanha começa com o primeiro passo. Às vezes o primeiro passo é sair da cama.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SOBE A SUA MONTANHA"
+   ],
+   "destaque": [
+    "sair",
+    "cama."
+   ]
+  },
+  {
+   "fala": "E se você tá passando por um momento difícil, escolhe a sua montanha. Pode ser pequena. Mas escolhe. E sobe.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O VÔ VENCEU"
+   ],
+   "destaque": [
+    "escolhe.",
+    "sobe."
+   ]
+  }
+ ]
+}

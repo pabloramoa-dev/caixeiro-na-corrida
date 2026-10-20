@@ -1,0 +1,247 @@
+{
+ "id": "cx282",
+ "ep": 282,
+ "avulso": true,
+ "titulo": "O MOTORISTA E O MENINO DO ÔNIBUS",
+ "categoria": "amizade",
+ "cenario": "dia",
+ "legenda_post": "🚌 O menino autista só pegava o ônibus se fosse com o mesmo motorista. Todo dia. Durante seis anos. No último dia do motorista, o menino tinha um presente.\n\nQuem fez parte da sua rotina de infância e você nunca esqueceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#autismo #amizade #onibus #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚌 O menino autista só pegava o ônibus se fosse com o mesmo motorista. Todo dia. Durante seis anos. No último dia do motorista, o menino tinha um presente. Quem fez parte da sua rotina de infância e você nunca esqueceu? 👇\nHistória de ficção.\n#autismo #amizade #onibus #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu levei um motorista de ônibus. E ele me contou a amizade mais bonita da carreira dele.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "carreira",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Sexta, três da tarde. Peguei um senhor de sessenta e dois anos de uniforme de motorista de ônibus. Saindo da garagem da empresa. Com uma caixa de presente no colo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 15H"
+   ],
+   "destaque": [
+    "presente",
+    "colo."
+   ]
+  },
+  {
+   "fala": "Disse: hoje foi o meu último dia. Trinta anos de volante de ônibus. Me aposentei. E ganhei isso aqui de um passageiro.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Hoje foi o meu último dia."
+   ],
+   "destaque": [
+    "aqui",
+    "passageiro."
+   ]
+  },
+  {
+   "fala": "Seu Gilson. Motorista da linha da escola. E um dos passageiros, havia seis anos, era o Gabriel. Um menino autista. Hoje com quinze.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU GILSON E O GABRIEL"
+   ],
+   "destaque": [
+    "Hoje",
+    "quinze."
+   ]
+  },
+  {
+   "fala": "Contou: no primeiro dia, o Gabriel teve uma crise no ponto. Barulho, gente, confusão. A mãe desesperada. Eu desci do ônibus e esperei ele se acalmar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele só ia comigo."
+   ],
+   "destaque": [
+    "esperei",
+    "acalmar."
+   ]
+  },
+  {
+   "fala": "Esperou dez minutos. Com o ônibus parado. Os passageiros reclamando. Ele sentou no meio-fio do lado do menino e não falou nada. Só ficou ali.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ficou",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Disse: depois de dez minutos, ele levantou, entrou e sentou no banco atrás de mim. E dali em diante, todo dia, no mesmo banco.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele entrou e sentou do meu lado."
+   ],
+   "destaque": [
+    "mesmo",
+    "banco."
+   ]
+  },
+  {
+   "fala": "E aí virou rotina. O Gabriel só pegava o ônibus se fosse o seu Gilson dirigindo. Se fosse outro motorista, ele não entrava. A mãe ligava pra empresa pra saber a escala.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A ROTINA"
+   ],
+   "destaque": [
+    "saber",
+    "escala."
+   ]
+  },
+  {
+   "fala": "O seu Gilson começou a falar com ele. Sobre ônibus. O Gabriel sabia tudo de ônibus. Modelo, motor, ano de fabricação. Sabia mais que o mecânico da empresa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mecânico",
+    "empresa."
+   ]
+  },
+  {
+   "fala": "Disse: a mãe me contou que ele não falava com ninguém fora de casa. Comigo ele falava. De ônibus. Seis anos falando de ônibus.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele aprendeu a falar comigo."
+   ],
+   "destaque": [
+    "falando",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "E o seu Gilson estava preocupado com a aposentadoria. Como o Gabriel ia reagir. Avisou com meses de antecedência. Preparou o menino.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Preparou",
+    "menino."
+   ]
+  },
+  {
+   "fala": "No último dia, o Gabriel entrou no ônibus. Sentou no mesmo banco. E no ponto da escola, antes de descer, entregou a caixa. E falou uma frase inteira.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O ÚLTIMO DIA"
+   ],
+   "destaque": [
+    "frase",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "O seu Gilson repetiu a frase pra mim, com a voz embargada: obrigado por esperar eu no primeiro dia, seu Gilson. Você foi o primeiro que esperou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Obrigado por esperar."
+   ],
+   "destaque": [
+    "primeiro",
+    "esperou."
+   ]
+  },
+  {
+   "fala": "Pediu pra eu ajudar a abrir a caixa. Porque as mãos dele estavam tremendo. Eu abri no sinal vermelho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sinal",
+    "vermelho."
+   ]
+  },
+  {
+   "fala": "Dentro, um ônibus em miniatura. Feito à mão. De papelão e tinta. Com o número da linha. Perfeito em cada detalhe. E um bonequinho no volante.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "UM ÔNIBUS EM MINIATURA"
+   ],
+   "destaque": [
+    "bonequinho",
+    "volante."
+   ]
+  },
+  {
+   "fala": "O bonequinho tinha um bigode. E um crachá escrito: seu Gilson. E no banco atrás, outro bonequinho menor. Escrito: Gabriel.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O BONEQUINHO"
+   ],
+   "destaque": [
+    "Escrito:",
+    "Gabriel."
+   ]
+  },
+  {
+   "fala": "Embaixo do ônibus, um papel: seis anos, dois mil cento e noventa viagens. Eu contei todas. Você nunca atrasou.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SEIS ANOS NO MESMO BANCO"
+   ],
+   "destaque": [
+    "nunca",
+    "atrasou."
+   ]
+  },
+  {
+   "fala": "O seu Gilson chorou no meu banco de trás. Disse: trinta anos de volante. Milhões de passageiros. E o que eu levo é essa caixa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "essa",
+    "caixa."
+   ]
+  },
+  {
+   "fala": "Deixei ele em casa. Ele desceu segurando o ônibus de papelão com as duas mãos. Disse que vai visitar o Gabriel todo sábado. Pra falar de ônibus.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "falar",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o maior presente que você pode dar pra alguém é esperar dez minutos no meio-fio.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESPERA"
+   ],
+   "destaque": [
+    "minutos",
+    "meio-fio."
+   ]
+  },
+  {
+   "fala": "E se você conhece alguém que precisa de um tempo diferente, espera. Pode ser o começo de seis anos de amizade.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "LINHA DO GABRIEL"
+   ],
+   "destaque": [
+    "anos",
+    "amizade."
+   ]
+  }
+ ]
+}

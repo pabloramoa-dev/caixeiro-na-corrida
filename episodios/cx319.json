@@ -1,0 +1,247 @@
+{
+ "id": "cx319",
+ "ep": 319,
+ "avulso": true,
+ "titulo": "O RELÓGIO DE BOLSO",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "⌚ Achou um relógio de bolso na casa que comprou. Dentro da tampa, uma gravação de 1931. Ela procurou a família por oito meses.\n\nVocê tem algum objeto de família muito antigo? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#curiosidade #historia #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⌚ Achou um relógio de bolso na casa que comprou. Dentro da tampa, uma gravação de 1931. Ela procurou a família por oito meses. Você tem algum objeto de família muito antigo? 👇\nHistória de ficção.\n#curiosidade #historia #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um relógio de noventa e cinco anos de volta pra casa.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "volta",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Quarta, três da tarde. Entrou uma moça de uns trinta e cinco anos com uma caixinha de veludo nas mãos. Segurava como se fosse de vidro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 15H"
+   ],
+   "destaque": [
+    "fosse",
+    "vidro."
+   ]
+  },
+  {
+   "fala": "Disse: encontrei a família. Depois de oito meses. Eu tô indo devolver. Tô tremendo. Mostrou as mãos. Tremendo mesmo.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Encontrei a família."
+   ],
+   "destaque": [
+    "Tremendo",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Lorena. Comprou uma casa antiga no centro histórico. Na reforma, o pedreiro achou uma caixinha dentro de uma parede. Atrás de um tijolo solto.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A LORENA"
+   ],
+   "destaque": [
+    "tijolo",
+    "solto."
+   ]
+  },
+  {
+   "fala": "Abriu a caixinha. Um relógio de bolso dourado. Parado. Ela abriu a tampa. Tinha uma gravação: Para Vicente, meu filho. Que o tempo seja gentil. 1931.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Olha a tampa."
+   ],
+   "destaque": [
+    "gentil.",
+    "1931."
+   ]
+  },
+  {
+   "fala": "Contou que podia ter vendido. O relógio valia dinheiro. Um antiquário ofereceu bem. Mas ela não conseguia parar de pensar naquela frase.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "naquela",
+    "frase."
+   ]
+  },
+  {
+   "fala": "Disse: que o tempo seja gentil. Quem escreve isso pro filho? Eu precisava saber quem era o Vicente.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Que o tempo seja gentil."
+   ],
+   "destaque": [
+    "era",
+    "Vicente."
+   ]
+  },
+  {
+   "fala": "Ela foi no cartório. Na igreja. No arquivo da prefeitura. Descobriu que a casa pertenceu a uma família de relojoeiros. Nos anos trinta.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A INVESTIGAÇÃO"
+   ],
+   "destaque": [
+    "anos",
+    "trinta."
+   ]
+  },
+  {
+   "fala": "O pai, relojoeiro, fez o relógio pro filho Vicente quando ele fez dezoito anos. Depois a família mudou de cidade. A casa foi vendida. O relógio ficou na parede.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ficou",
+    "parede."
+   ]
+  },
+  {
+   "fala": "Ela perguntou: por que ele escondeu o relógio na parede? Ninguém sabia. Ela procurou os descendentes. Pelas redes sociais. Por meses.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Por que ele escondeu?"
+   ],
+   "destaque": [
+    "sociais.",
+    "meses."
+   ]
+  },
+  {
+   "fala": "Até que achou um bisneto. Morava a quarenta minutos dali. Chamado Vicente também. Vicente Neto. E ele disse: a minha avó ainda é viva.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O BISNETO"
+   ],
+   "destaque": [
+    "ainda",
+    "viva."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa simples, de varanda. Na porta, um rapaz de uns trinta anos. E lá dentro, numa poltrona, uma senhora de noventa e dois anos.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Dona Noêmia. Filha do Vicente. Neta do relojoeiro. Lúcida, de óculos, cabelo branquinho preso. Olhou a caixinha no colo da Lorena.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA NOÊMIA"
+   ],
+   "destaque": [
+    "colo",
+    "Lorena."
+   ]
+  },
+  {
+   "fala": "Ela pegou o relógio. Abriu a tampa. Leu a gravação sem óculos. E disse: o relógio do papai. Ele procurou isso a vida inteira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O relógio do papai."
+   ],
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Contou a história. O pai dela escondeu o relógio na parede quando a família teve que mudar às pressas. Ia voltar pra buscar. Nunca conseguiu voltar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "conseguiu",
+    "voltar."
+   ]
+  },
+  {
+   "fala": "Disse: ele falava dessa parede até o fim. Atrás do tijolo da cozinha. A gente achava que era história de velho. Era verdade.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele falava dessa parede."
+   ],
+   "destaque": [
+    "Era",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "E aí o bisneto pegou o relógio. Deu corda. Uma volta. Duas. E o relógio voltou a funcionar. Tic, tac. Depois de noventa e cinco anos parado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "parado."
+   ]
+  },
+  {
+   "fala": "A dona Noêmia segurou o relógio no ouvido. Fechou os olhos. E disse: o tempo foi gentil. Demorou. Mas foi gentil.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O TEMPO GENTIL"
+   ],
+   "destaque": [
+    "foi",
+    "gentil."
+   ]
+  },
+  {
+   "fala": "A família quis pagar a Lorena. Ela não aceitou. Pediu só uma coisa: uma foto do relógio de volta no bolso de alguém da família. Ganhou a foto. E um convite pro almoço de domingo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "almoço",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "Moral da história: o que vale dinheiro pra você pode valer uma vida pra outra pessoa. Devolver também é um presente.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEVOLVER É UM PRESENTE"
+   ],
+   "destaque": [
+    "também",
+    "presente."
+   ]
+  },
+  {
+   "fala": "E se você tem um objeto antigo na família, pergunta a história dele hoje. Antes que ninguém mais saiba contar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "GUARDA A HISTÓRIA"
+   ],
+   "destaque": [
+    "saiba",
+    "contar."
+   ]
+  }
+ ]
+}

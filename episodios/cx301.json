@@ -1,0 +1,243 @@
+{
+ "id": "cx301",
+ "ep": 301,
+ "avulso": true,
+ "titulo": "A PERGUNTA DA MÃE CANSADA",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "😮‍💨 Uma mãe exausta entrou no meu carro e perguntou: será que eu tô fazendo tudo errado? Eu não sabia o que responder. A filha dela respondeu por mim.\n\nVocê também se cobra demais como pai ou mãe? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#maternidade #reflexao #mae #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "😮‍💨 Uma mãe exausta entrou no meu carro e perguntou: será que eu tô fazendo tudo errado? Eu não sabia o que responder. A filha dela respondeu por mim. Você também se cobra demais como pai ou mãe? 👇\nHistória de ficção.\n#maternidade #reflexao #mae #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu não precisei responder. Uma criança de sete anos respondeu melhor.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "respondeu",
+    "melhor."
+   ]
+  },
+  {
+   "fala": "Terça, seis da tarde. Entraram uma mulher de uns trinta e cinco anos, uniforme de enfermeira, olheira profunda, e uma menina de sete anos de mochila.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 18H"
+   ],
+   "destaque": [
+    "anos",
+    "mochila."
+   ]
+  },
+  {
+   "fala": "A mulher sentou e fechou os olhos. Não falou nada. A menina ficou cantando baixinho, olhando a janela. A mãe de vez em quando suspirava.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quando",
+    "suspirava."
+   ]
+  },
+  {
+   "fala": "No meio do caminho, a mãe abriu os olhos e falou, mais pra ela mesma do que pra mim: será que eu tô fazendo tudo errado?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Será que eu tô errando?"
+   ],
+   "destaque": [
+    "tudo",
+    "errado?"
+   ]
+  },
+  {
+   "fala": "Eu olhei pelo retrovisor. Ela percebeu que tinha falado alto. Ficou sem graça. Mas continuou. Precisava falar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Precisava",
+    "falar."
+   ]
+  },
+  {
+   "fala": "Contou: enfermeira. Plantão de doze horas. Mãe solo. Busca a filha na escola correndo, faz janta, ajuda na lição, dorme quatro horas, volta pro hospital.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A ROTINA"
+   ],
+   "destaque": [
+    "pro",
+    "hospital."
+   ]
+  },
+  {
+   "fala": "Disse: eu nunca tô presente. Perdi a apresentação dela na escola semana passada. Esqueci o dia da fantasia. Ontem eu gritei com ela por nada.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca tô presente."
+   ],
+   "destaque": [
+    "gritei",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Disse: as outras mães parecem que fazem tudo certo. Lanche bonito, festa caprichada, tempo pra brincar. E eu chego em casa e só quero dormir.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "quero",
+    "dormir."
+   ]
+  },
+  {
+   "fala": "Eu ia dizer alguma coisa. Ia falar que ela era uma boa mãe. Mas a menina, que tinha parado de cantar, falou antes.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "falou",
+    "antes."
+   ]
+  },
+  {
+   "fala": "A menina disse: mãe, você salva gente. Todo dia. No hospital. A minha professora disse que enfermeira é herói.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Mãe, você salva gente."
+   ],
+   "destaque": [
+    "enfermeira",
+    "herói."
+   ]
+  },
+  {
+   "fala": "A mãe olhou pra ela. A menina continuou, como quem explica uma coisa óbvia.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "coisa",
+    "óbvia."
+   ]
+  },
+  {
+   "fala": "E você me salva também. Quando eu tenho pesadelo, você vem. Mesmo cansada. E você faz o melhor miojo do mundo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E você me salva também."
+   ],
+   "destaque": [
+    "miojo",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "A mãe começou a rir e chorar ao mesmo tempo. O melhor miojo do mundo. Disse: filha, isso não é comida de verdade.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O MELHOR MIOJO"
+   ],
+   "destaque": [
+    "comida",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "A menina disse: é comida de mãe. Tem gosto de mãe. A mãe abraçou a filha no banco de trás. Eu dirigi mais devagar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É comida de mãe."
+   ],
+   "destaque": [
+    "mais",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "Aí a menina contou o que ela via. Que a mãe dorme no sofá com ela no colo. Que a mãe canta no banho. Que a mãe sempre guarda o último biscoito pra ela.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O QUE A MENINA VIA"
+   ],
+   "destaque": [
+    "último",
+    "biscoito"
+   ]
+  },
+  {
+   "fala": "A mãe ouvindo tudo. Uma lista de coisas que ela nem lembrava que fazia. Que pra ela era nada. Que pra filha era tudo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "era",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Eu só falei uma coisa no final. Disse: a senhora perguntou se tá fazendo tudo errado. Acho que ela respondeu. A senhora tá fazendo o que dá. E o que dá é muito.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "VOCÊ NÃO TÁ ERRANDO"
+   ],
+   "destaque": [
+    "dá",
+    "muito."
+   ]
+  },
+  {
+   "fala": "Chegamos no prédio delas. A mãe desceu. Antes de ir, a menina me perguntou: moço, você também acha que a minha mãe é herói? Eu disse: acho. Ela salva gente.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "salva",
+    "gente."
+   ]
+  },
+  {
+   "fala": "A mãe me agradeceu pela corrida. Disse: eu precisava ouvir isso hoje. De qualquer pessoa. Foi da minha filha. Melhor ainda.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Melhor",
+    "ainda."
+   ]
+  },
+  {
+   "fala": "Moral da história: os filhos não lembram do lanche perfeito. Lembram de quem veio no pesadelo. Mesmo cansada.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOCÊ FAZ O QUE DÁ"
+   ],
+   "destaque": [
+    "Mesmo",
+    "cansada."
+   ]
+  },
+  {
+   "fala": "E se você é mãe ou pai e acha que tá errando tudo, pergunta pro seu filho o que ele lembra de bom. Você vai se surpreender.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MIOJO DE MÃE"
+   ],
+   "destaque": [
+    "vai",
+    "surpreender."
+   ]
+  }
+ ]
+}

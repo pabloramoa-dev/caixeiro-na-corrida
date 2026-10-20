@@ -1,0 +1,243 @@
+{
+ "id": "cx279",
+ "ep": 279,
+ "avulso": true,
+ "titulo": "O AFINADOR DE PIANOS",
+ "categoria": "curiosa",
+ "cenario": "noite",
+ "legenda_post": "🎹 Ele é cego e afina pianos há 50 anos. Pelo som. Já afinou mais de 10 mil. Naquela noite, um piano antigo tinha um segredo dentro.\n\nVocê conhece alguém com um talento que parece impossível? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#piano #afinador #curiosidades #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎹 Ele é cego e afina pianos há 50 anos. Pelo som. Já afinou mais de 10 mil. Naquela noite, um piano antigo tinha um segredo dentro. Você conhece alguém com um talento que parece impossível? 👇\nHistória de ficção.\n#piano #afinador #curiosidades #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o ouvido mais afinado da cidade. E um segredo de setenta anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "setenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Quinta, seis da tarde. Entrou um senhor de setenta e dois anos, óculos escuros, bengala e uma maleta de couro gasto. Cheia de ferramenta.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 18H"
+   ],
+   "destaque": [
+    "Cheia",
+    "ferramenta."
+   ]
+  },
+  {
+   "fala": "Disse: vou afinar um piano. Numa casa antiga do centro. Eu perguntei: o senhor afina piano? Ele riu: há cinquenta anos. Pelo ouvido.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vou afinar um piano."
+   ],
+   "destaque": [
+    "Pelo",
+    "ouvido."
+   ]
+  },
+  {
+   "fala": "Seu Armando. Cego desde os cinco anos. Aprendeu a afinar piano com um tio, que também era afinador. Já afinou mais de dez mil.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ARMANDO"
+   ],
+   "destaque": [
+    "dez",
+    "mil."
+   ]
+  },
+  {
+   "fala": "Disse: eu ouço o piano respirar. Cada corda tem uma voz. Quando ela desafina, parece que tá chorando. Eu só acalmo ela.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu ouço o piano respirar."
+   ],
+   "destaque": [
+    "só",
+    "acalmo"
+   ]
+  },
+  {
+   "fala": "Contou que já afinou piano de teatro, de igreja, de escola, de casa de família. E que cada piano tem uma história. Ele ouve pelas cordas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pelas",
+    "cordas."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa antiga. Um casarão de dois andares, janelas altas. Uma senhora de uns oitenta anos atendeu. Dona Leonor. Viúva.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Leonor.",
+    "Viúva."
+   ]
+  },
+  {
+   "fala": "Ela levou a gente até a sala. Um piano de cauda, preto, empoeirado. Disse: era do meu marido. Ninguém toca há vinte anos. Eu quero que a minha neta aprenda.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Era do meu marido."
+   ],
+   "destaque": [
+    "neta",
+    "aprenda."
+   ]
+  },
+  {
+   "fala": "O seu Armando sentou no banquinho. Passou a mão nas teclas. Tocou uma nota. Depois outra. E fez uma cara estranha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cara",
+    "estranha."
+   ]
+  },
+  {
+   "fala": "Disse: tem alguma coisa aqui dentro. Essa corda não vibra direito. Tá abafada. Tem alguma coisa em cima dela.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Tem alguma coisa aqui dentro."
+   ],
+   "destaque": [
+    "cima",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Pediu pra eu abrir a tampa grande do piano. Eu abri. E com a lanterna do celular, olhei dentro. Entre as cordas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Entre",
+    "cordas."
+   ]
+  },
+  {
+   "fala": "Tinha um envelope. Amarelado. Encaixado entre as cordas graves. Escondido. Eu tirei com cuidado. Estava fechado. Escrito: pra Leonor.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "UM ENVELOPE"
+   ],
+   "destaque": [
+    "Escrito:",
+    "Leonor."
+   ]
+  },
+  {
+   "fala": "A dona Leonor sentou. Pegou o envelope. Reconheceu a letra do marido. As mãos tremendo. Abriu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "tremendo.",
+    "Abriu."
+   ]
+  },
+  {
+   "fala": "Era uma carta. Datada de mil novecentos e noventa e nove. Ele escreveu um ano antes de falecer. E escondeu no piano.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CARTA DO MARIDO"
+   ],
+   "destaque": [
+    "escondeu",
+    "piano."
+   ]
+  },
+  {
+   "fala": "A carta dizia: Leonor, se você achou essa carta, é porque alguém voltou a tocar esse piano. Fico feliz. Toca a nossa música. Eu vou estar ouvindo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Se você achou essa carta..."
+   ],
+   "destaque": [
+    "estar",
+    "ouvindo."
+   ]
+  },
+  {
+   "fala": "Ela chorou com a carta no peito. Disse: vinte anos. Ele escondeu aí esperando alguém voltar a tocar. Eu nunca tive coragem de abrir.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "coragem",
+    "abrir."
+   ]
+  },
+  {
+   "fala": "O seu Armando afinou o piano. Duas horas. Corda por corda. Quando terminou, perguntou: qual era a música de vocês? Ela disse o nome.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A NOSSA MÚSICA"
+   ],
+   "destaque": [
+    "disse",
+    "nome."
+   ]
+  },
+  {
+   "fala": "E ele tocou. O seu Armando. Cego, de memória. A música deles. No piano recém-afinado. Na sala onde o casal dançou por quarenta anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Na volta, ele ficou quieto um tempão. Depois disse: cinquenta anos afinando piano. Primeira vez que um piano me entrega uma carta.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "entrega",
+    "carta."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem coisa que fica guardada esperando a gente ter coragem de abrir a tampa.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA A TOCAR"
+   ],
+   "destaque": [
+    "abrir",
+    "tampa."
+   ]
+  },
+  {
+   "fala": "E se você tem um instrumento parado em casa, manda afinar. Pode ter uma música esperando. Ou uma carta.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU ARMANDO"
+   ],
+   "destaque": [
+    "Ou",
+    "carta."
+   ]
+  }
+ ]
+}

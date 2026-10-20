@@ -1,0 +1,243 @@
+{
+ "id": "cx276",
+ "ep": 276,
+ "avulso": true,
+ "titulo": "O BILHETE NO PÃO",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "🥖 Todo dia, a padeira escondia um bilhete dentro do saco de pão de um cliente tímido. Ele nunca respondeu. Até descobrir que ela ia fechar a padaria.\n\nQual foi o bilhete mais bonito que você já recebeu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #padaria #timidez #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥖 Todo dia, a padeira escondia um bilhete dentro do saco de pão de um cliente tímido. Ele nunca respondeu. Até descobrir que ela ia fechar a padaria. Qual foi o bilhete mais bonito que você já recebeu? 👇\nHistória de ficção.\n#amor #padaria #timidez #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem mais tímido da cidade pra responder trezentos bilhetes de uma vez.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "bilhetes",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da manhã. Entrou um homem de uns quarenta anos com uma caixa de sapato cheia de papelzinho. Nervoso. Mãos suadas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 6H"
+   ],
+   "destaque": [
+    "Mãos",
+    "suadas."
+   ]
+  },
+  {
+   "fala": "Pediu: padaria da esquina da rua tal. É perto, mas eu preciso de coragem. Se eu for a pé, eu desisto no caminho.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Padaria da esquina."
+   ],
+   "destaque": [
+    "desisto",
+    "caminho."
+   ]
+  },
+  {
+   "fala": "Chama-se Otávio. Contador. Tímido de nascença. Há um ano, comprava pão todo dia na mesma padaria. Seis pães franceses. Às sete.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS BILHETES DO PÃO"
+   ],
+   "destaque": [
+    "Às",
+    "sete."
+   ]
+  },
+  {
+   "fala": "Contou: um dia, eu cheguei em casa e tinha um bilhete dentro do saco de pão. Escrito: bom dia, moço do pão. Hoje vai fazer sol.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela colocava bilhete no saco."
+   ],
+   "destaque": [
+    "fazer",
+    "sol."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, outro: bom dia, moço do pão. A sua camisa azul é a mais bonita. No outro: você sempre agradece. Pouca gente agradece.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "gente",
+    "agradece."
+   ]
+  },
+  {
+   "fala": "Abriu a caixa pra mim. Trezentos bilhetes. Um por dia. Em papel de pão, em guardanapo, em papel de embrulho. Todos na mesma letra.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mesma",
+    "letra."
+   ]
+  },
+  {
+   "fala": "Disse: eu nunca respondi. Eu sabia que era a padeira. A dona Clara. Mas eu não tinha coragem. Eu chegava, pegava o pão, falava obrigado e saía vermelho.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca respondi."
+   ],
+   "destaque": [
+    "saía",
+    "vermelho."
+   ]
+  },
+  {
+   "fala": "Mas na sexta, o bilhete foi diferente. Dizia: moço do pão, a padaria vai fechar na semana que vem. O aluguel ficou caro demais. Foi bom te ver todo dia.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O ÚLTIMO BILHETE"
+   ],
+   "destaque": [
+    "todo",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Ele passou a noite sem dormir. Lendo os trezentos bilhetes. E decidiu: ia responder. Todos de uma vez.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Todos",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Ele tinha outra caixa. Menor. Eu perguntei o que era. Ele abriu: um bilhete. Um só. Escrito por ele. Disse: é a resposta.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o que tem na outra caixa?"
+   ],
+   "destaque": [
+    "Disse:",
+    "resposta."
+   ]
+  },
+  {
+   "fala": "Chegamos na padaria. Pequena, de esquina, cheiro de pão quente. A dona Clara atrás do balcão. Uns quarenta anos, avental branco, sorriso cansado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "sorriso",
+    "cansado."
+   ]
+  },
+  {
+   "fala": "Ele ficou parado na porta. Eu dei um empurrãozinho nas costas dele. Literalmente. Ele entrou. Eu fiquei olhando pela vitrine.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pela",
+    "vitrine."
+   ]
+  },
+  {
+   "fala": "Ele chegou no balcão. Pediu seis pães. Ela colocou no saco. E ele, em vez de pegar o pão, colocou a caixinha no balcão.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "caixinha",
+    "balcão."
+   ]
+  },
+  {
+   "fala": "Ela abriu. Leu. E levou a mão na boca. Eu vi pela vitrine. Ela leu de novo. E começou a chorar e rir ao mesmo tempo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A RESPOSTA"
+   ],
+   "destaque": [
+    "mesmo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "Depois ele me contou o que escreveu: Clara, eu guardei todos os seus bilhetes. Eu não quero que a padaria feche. Eu sou contador. Deixa eu ajudar. E deixa eu te levar pra jantar.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O QUE ELE ESCREVEU"
+   ],
+   "destaque": [
+    "levar",
+    "jantar."
+   ]
+  },
+  {
+   "fala": "Ela saiu de trás do balcão. Com o avental sujo de farinha. E abraçou ele. Na frente dos clientes. Que aplaudiram, segurando o saco de pão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "saco",
+    "pão."
+   ]
+  },
+  {
+   "fala": "Ele ajudou com as contas. Renegociou o aluguel. Organizou o caixa. A padaria não fechou. Está aberta até hoje.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A PADARIA NÃO FECHOU"
+   ],
+   "destaque": [
+    "até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "E toda manhã, ele ainda compra seis pães. E dentro do saco, ainda tem bilhete. Agora ele responde. No dia seguinte. Num guardanapo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Num",
+    "guardanapo."
+   ]
+  },
+  {
+   "fala": "Moral da história: não espera a padaria fechar pra responder um bilhete de amor.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "RESPONDE"
+   ],
+   "destaque": [
+    "bilhete",
+    "amor."
+   ]
+  },
+  {
+   "fala": "E se alguém te deixa recado todo dia, responde. Nem que seja num guardanapo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MOÇO DO PÃO"
+   ],
+   "destaque": [
+    "num",
+    "guardanapo."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,255 @@
+{
+ "id": "cx275",
+ "ep": 275,
+ "avulso": true,
+ "titulo": "A SELEÇÃO DO LAR",
+ "categoria": "futebol",
+ "cenario": "noite",
+ "legenda_post": "⚽ Os idosos da casa de repouso não podiam ir ao estádio. Então montaram um time. De cadeira de rodas, andador e bengala. O jogo foi contra os netos.\n\nVocê já viu um jogo de futebol que não tinha como dar errado? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #idosos #alegria #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⚽ Os idosos da casa de repouso não podiam ir ao estádio. Então montaram um time. De cadeira de rodas, andador e bengala. O jogo foi contra os netos. Você já viu um jogo de futebol que não tinha como dar errado? 👇\nHistória de ficção.\n#futebol #idosos #alegria #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a seleção mais experiente do Brasil. Média de idade: oitenta e um anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "oitenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da manhã. Fui chamado numa casa de repouso. Na porta, uma cuidadora de uns trinta anos com uma sacola cheia de camisas de futebol.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 9H"
+   ],
+   "destaque": [
+    "camisas",
+    "futebol."
+   ]
+  },
+  {
+   "fala": "Disse: hoje é o jogo dos vovôs. Vou buscar o resto dos uniformes e a bola. O senhor me leva na loja e volta? Eu levei.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o jogo dos vovôs."
+   ],
+   "destaque": [
+    "volta?",
+    "levei."
+   ]
+  },
+  {
+   "fala": "A cuidadora se chama Jéssica. Disse que os idosos do lar viviam falando de futebol. De jogos antigos. De quando jogavam na várzea. E ficavam tristes.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A IDEIA DA CUIDADORA"
+   ],
+   "destaque": [
+    "ficavam",
+    "tristes."
+   ]
+  },
+  {
+   "fala": "Disse: eles achavam que futebol tinha acabado pra eles. Que agora era só televisão. Eu pensei: e se a gente adaptar?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eles achavam que tinha acabado."
+   ],
+   "destaque": [
+    "gente",
+    "adaptar?"
+   ]
+  },
+  {
+   "fala": "Criou regras. Bola de espuma. Gol de caixa de papelão. Quem anda, anda. Quem é de cadeira, empurra a bola com a mão. Quem usa bengala, pode usar a bengala.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "usar",
+    "bengala."
+   ]
+  },
+  {
+   "fala": "Riu: tem cartão amarelo pra quem reclama do juiz. Já dei dezessete. Pro mesmo senhor. O seu Tião. Ele reclama de tudo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tem até cartão amarelo."
+   ],
+   "destaque": [
+    "reclama",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Voltei com ela pro lar. No pátio, uma quadra improvisada. Linha de giz no chão. Dois gols de caixa de papelão pintada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "papelão",
+    "pintada."
+   ]
+  },
+  {
+   "fala": "E o adversário: os netos. Os netos dos idosos. Uns quinze, de seis a quinze anos. De uniforme de outro time. Desafiando os avós.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "OS ADVERSÁRIOS"
+   ],
+   "destaque": [
+    "Desafiando",
+    "avós."
+   ]
+  },
+  {
+   "fala": "Os avós entraram em campo. Uns de cadeira de rodas, uns de andador, uns de bengala. De camisa e short. Com cara de final de Copa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "final",
+    "Copa."
+   ]
+  },
+  {
+   "fala": "A Jéssica me pediu pra ser o juiz. Já virou costume eu apitar jogo esquisito. Peguei o apito. E a pilha de cartões amarelos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cartões",
+    "amarelos."
+   ]
+  },
+  {
+   "fala": "Começou. Os netos correndo, os avós no ritmo deles. Os netos, com pena, chutando fraquinho. Os avós ofendidos: chuta direito, menino!",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O JOGO"
+   ],
+   "destaque": [
+    "direito,",
+    "menino!"
+   ]
+  },
+  {
+   "fala": "Primeiro minuto: cartão amarelo pro seu Tião. Por reclamar que a bola de espuma estava murcha. Ele aceitou o cartão com orgulho. O décimo oitavo.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PRIMEIRO CARTÃO"
+   ],
+   "destaque": [
+    "décimo",
+    "oitavo."
+   ]
+  },
+  {
+   "fala": "Aí uma senhora de cadeira de rodas, a dona Albertina, de oitenta e nove anos, pegou a bola no colo. Girou a cadeira. E arremessou no gol de papelão.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "gol",
+    "papelão."
+   ]
+  },
+  {
+   "fala": "Gol. Os avós gritando. As cuidadoras pulando. A dona Albertina com os braços pra cima, dizendo: eu jogava de ponta-esquerda em mil novecentos e cinquenta!",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "GOL DA DONA ALBERTINA"
+   ],
+   "destaque": [
+    "novecentos",
+    "cinquenta!"
+   ]
+  },
+  {
+   "fala": "O jogo seguiu. Os netos fizeram dois. Os avós fizeram mais um. Com o seu Tião de bengala, empurrando a bola pra dentro. E reclamando que tinha sido impedimento dele mesmo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Fim de jogo. Dois a dois. Os netos correram pra abraçar os avós. Os avós rindo, suados, com o rosto vermelho de alegria.",
+   "expr": "triste",
+   "arte": [
+    "relogio",
+    "FIM DE JOGO"
+   ],
+   "destaque": [
+    "vermelho",
+    "alegria."
+   ]
+  },
+  {
+   "fala": "O seu Tião, o reclamão, pegou o apito da minha mão. Apitou três vezes. E disse: faz trinta anos que eu não suava assim. Obrigado, menina.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O SEU TIÃO"
+   ],
+   "destaque": [
+    "Obrigado,",
+    "menina."
+   ]
+  },
+  {
+   "fala": "Ele falou isso pra Jéssica. Que chorou. As famílias que vieram assistir aplaudiram. Uma neta disse: eu nunca vi o meu avô tão feliz.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tão",
+    "feliz."
+   ]
+  },
+  {
+   "fala": "Hoje tem jogo todo mês no lar. Com tabela, artilharia e cartão amarelo. O seu Tião já tem quarenta e dois. É o recordista.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "dois.",
+    "recordista."
+   ]
+  },
+  {
+   "fala": "Moral da história: ninguém é velho demais pra jogar. Só precisa de alguém que mude a regra.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ADAPTA, NÃO EXCLUI"
+   ],
+   "destaque": [
+    "mude",
+    "regra."
+   ]
+  },
+  {
+   "fala": "E se você conhece um lar de idosos, visita. Leva uma bola de espuma. E um cartão amarelo pro reclamão.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SELEÇÃO DO LAR"
+   ],
+   "destaque": [
+    "pro",
+    "reclamão."
+   ]
+  }
+ ]
+}
