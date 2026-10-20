@@ -1,0 +1,281 @@
+{
+ "id": "cx127",
+ "ep": 127,
+ "avulso": true,
+ "titulo": "O REI DO BINGO",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🎱 Um senhor de 84 anos foi ao bingo da paróquia e ganhou o prêmio principal: uma geladeira. Detalhe: ele foi de aplicativo.\n\nQual foi o prêmio mais inesperado que alguém da sua família ganhou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bingo #humor #idosos #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎱 Um senhor de 84 anos foi ao bingo da paróquia e ganhou o prêmio principal: uma geladeira. Detalhe: ele foi de aplicativo. Qual foi o prêmio mais inesperado que alguém da sua família ganhou? 👇\nHistória de ficção.\n#bingo #humor #idosos #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida voltou com um passageiro a mais. De dois metros, branco e gelado.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "branco",
+    "gelado."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Levei um senhor de oitenta e quatro anos pro bingo da paróquia. Seu Aníbal. Camisa de botão, boina e doze cartelas na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "cartelas",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Disse: eu sempre ganho, moço. Ganhei um liquidificador, um ventilador, uma bicicleta e três cestas básicas. A paróquia já tem medo de mim.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sempre ganho."
+   ],
+   "destaque": [
+    "medo",
+    "mim."
+   ]
+  },
+  {
+   "fala": "O prêmio principal daquela noite era uma geladeira. Duas portas. Doação de uma loja do bairro.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PRÊMIO DA NOITE"
+   ],
+   "destaque": [
+    "loja",
+    "bairro."
+   ]
+  },
+  {
+   "fala": "Eu brinquei: e se o senhor ganhar a geladeira, como leva? Ele riu: aí eu te chamo. Eu ri também. Não devia.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E se o senhor ganhar?"
+   ],
+   "destaque": [
+    "também.",
+    "devia."
+   ]
+  },
+  {
+   "fala": "Às dez da noite, o celular tocou. Seu Aníbal. Gritando. Eu ouvi um monte de gente rindo atrás.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "22H"
+   ],
+   "destaque": [
+    "rindo",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Ganhei a geladeira, motorista! Vem me buscar! Com ela! Eu fiquei olhando o telefone pensando que era pegadinha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ganhei a geladeira!"
+   ],
+   "destaque": [
+    "era",
+    "pegadinha."
+   ]
+  },
+  {
+   "fala": "Fui. Na porta da paróquia, o seu Aníbal sentado numa cadeira de plástico. E do lado dele, ainda embalada no papelão, uma geladeira de dois metros.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dois",
+    "metros."
+   ]
+  },
+  {
+   "fala": "Os paroquianos em volta. O padre rindo. Uma senhora dizendo que ele tem pacto com santo. Ele dizendo que é estratégia.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dizendo",
+    "estratégia."
+   ]
+  },
+  {
+   "fala": "Eu olhei pra geladeira. Olhei pro meu carro. Um sedan. Disse: seu Aníbal, isso não cabe nem se eu tirar os bancos.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "NÃO CABE"
+   ],
+   "destaque": [
+    "tirar",
+    "bancos."
+   ]
+  },
+  {
+   "fala": "Ele sugeriu: amarra no teto. Eu disse: não. Ele: amarra de lado. Eu: não. Ele: então eu levo no colo. Todo mundo riu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Amarra no teto."
+   ],
+   "destaque": [
+    "mundo",
+    "riu."
+   ]
+  },
+  {
+   "fala": "O padre lembrou que o sacristão tinha uma caminhonete. Mas estava sem gasolina. Os paroquianos fizeram vaquinha ali mesmo. Juntaram pra gasolina.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Juntaram",
+    "gasolina."
+   ]
+  },
+  {
+   "fala": "Saímos em comboio. A caminhonete do sacristão com a geladeira na caçamba, amarrada com corda de varal. E eu atrás, com o seu Aníbal no banco de trás, orgulhoso.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O COMBOIO"
+   ],
+   "destaque": [
+    "trás,",
+    "orgulhoso."
+   ]
+  },
+  {
+   "fala": "Ele abriu a janela e ia acenando pras pessoas na rua. Como se fosse desfile. Apontando pra caçamba: ganhei no bingo!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ganhei",
+    "bingo!"
+   ]
+  },
+  {
+   "fala": "Chegamos na casa dele. Uma casinha pequena. Abrimos a porta da cozinha. E lá estava a geladeira antiga dele. Funcionando. Novinha.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Funcionando.",
+    "Novinha."
+   ]
+  },
+  {
+   "fala": "Eu falei: seu Aníbal, mas o senhor já tem geladeira. Nova. Pra que outra? Ele ficou sério pela primeira vez na noite.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Mas o senhor tem geladeira."
+   ],
+   "destaque": [
+    "vez",
+    "noite."
+   ]
+  },
+  {
+   "fala": "Disse: não é pra mim. É pra dona Cotinha, da casa do lado. A geladeira dela quebrou faz um mês. Ela guarda a insulina num isopor.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "NÃO ERA PRA ELE"
+   ],
+   "destaque": [
+    "num",
+    "isopor."
+   ]
+  },
+  {
+   "fala": "Ele jogava todo sábado pra ganhar alguma coisa pra alguém. O liquidificador foi pra uma vizinha. A bicicleta pra um menino da rua. As cestas, pra quem precisava.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "quem",
+    "precisava."
+   ]
+  },
+  {
+   "fala": "O rei do bingo nunca ficava com nada. Os paroquianos olhando sem saber o que dizer. O padre tirou a boina, emocionado.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O REI DO BINGO"
+   ],
+   "destaque": [
+    "boina,",
+    "emocionado."
+   ]
+  },
+  {
+   "fala": "Levamos a geladeira pra casa do lado. A dona Cotinha abriu a porta de camisola. Viu a geladeira. Viu ele. E disse: Aníbal, você jogou de novo?",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "jogou",
+    "novo?"
+   ]
+  },
+  {
+   "fala": "Ele respondeu: joguei. E ganhei. Agora me dá um café que eu tô cansado de carregar geladeira. Ele não carregou nada.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Joguei. E ganhei."
+   ],
+   "destaque": [
+    "carregou",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Eu fui embora quase meia-noite. Ele me deu uma cartela do bingo de presente. Disse: guarda, que dá sorte. Eu guardei.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "sorte.",
+    "guardei."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que tem sorte. E tem gente que divide a sorte com a rua inteira.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "JOGA PELOS OUTROS"
+   ],
+   "destaque": [
+    "rua",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "E se você ganhar alguma coisa hoje, pensa: quem do seu lado tá precisando mais?",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU ANÍBAL"
+   ],
+   "destaque": [
+    "precisando",
+    "mais?"
+   ]
+  }
+ ]
+}

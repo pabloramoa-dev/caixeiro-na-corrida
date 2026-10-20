@@ -1,0 +1,247 @@
+{
+ "id": "cx163",
+ "ep": 163,
+ "avulso": true,
+ "titulo": "O CELULAR NO BUEIRO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "📱 O celular caiu no bueiro. Com a única foto da avó que ela tinha. Começou a maior operação de resgate que o bairro já viu.\n\nQual foi o maior desespero que você já passou com um celular? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #celular #vizinhanca #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📱 O celular caiu no bueiro. Com a única foto da avó que ela tinha. Começou a maior operação de resgate que o bairro já viu. Qual foi o maior desespero que você já passou com um celular? 👇\nHistória de ficção.\n#humor #celular #vizinhanca #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou com um bairro inteiro de cabeça pra baixo num bueiro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "num",
+    "bueiro."
+   ]
+  },
+  {
+   "fala": "Quarta, três da tarde. Parei pra pegar uma moça de uns vinte e cinco anos. Ela vinha correndo, mexendo no celular. Tropeçou no meio-fio.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 15H"
+   ],
+   "destaque": [
+    "Tropeçou",
+    "meio-fio."
+   ]
+  },
+  {
+   "fala": "E o celular voou. Girou no ar. E caiu direto no bueiro. Entre as grades. Ploft. Lá no fundo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "PLOFT"
+   ],
+   "destaque": [
+    "Lá",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "Ela ficou parada olhando a grade. Depois se ajoelhou. Depois começou a chorar. Eu desci do carro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "desci",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Disse: a única foto que eu tenho da minha vó tá nesse celular. Nunca salvei na nuvem. Ela faleceu mês passado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A foto da minha vó."
+   ],
+   "destaque": [
+    "mês",
+    "passado."
+   ]
+  },
+  {
+   "fala": "Olhei pelo bueiro. O celular estava lá, em cima de um monte de folha, uns dois metros pra baixo. A tela ainda acesa. Brilhando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "acesa.",
+    "Brilhando."
+   ]
+  },
+  {
+   "fala": "Eu peguei a lanterna do carro. Ela pegou o celular emprestado de uma mulher que parou pra ver. A gente começou a pensar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OPERAÇÃO RESGATE"
+   ],
+   "destaque": [
+    "começou",
+    "pensar."
+   ]
+  },
+  {
+   "fala": "Primeira tentativa: um cabide de arame. Não chegou nem na metade. Segunda: o cabide amarrado num cabo de vassoura que um senhor trouxe de casa. Quase.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "casa.",
+    "Quase."
+   ]
+  },
+  {
+   "fala": "Já tinha umas dez pessoas em volta. Cada uma com uma ideia. Um menino sugeriu ímã. Uma senhora sugeriu rezar. Um rapaz sugeriu chamar os bombeiros.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "chamar",
+    "bombeiros."
+   ]
+  },
+  {
+   "fala": "O dono da banca de jornal veio com a ideia final: chiclete na ponta de uma vara de bambu. Ele mascou três chicletes ao mesmo tempo, sério, como cirurgião.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O CHICLETE"
+   ],
+   "destaque": [
+    "como",
+    "cirurgião."
+   ]
+  },
+  {
+   "fala": "Grudou o chiclete na ponta do bambu. Desceu pelo bueiro devagar. O bairro inteiro em silêncio. A moça segurando a respiração.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "segurando",
+    "respiração."
+   ]
+  },
+  {
+   "fala": "Encostou no celular. Grudou. Subiu devagar. Devagar. Quase na grade, o celular escorregou. E caiu de novo. O bairro inteiro gemeu: aaah.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "gemeu:",
+    "aaah."
+   ]
+  },
+  {
+   "fala": "O dono da banca gritou: mais chiclete! E distribuiu. Em um minuto, tinha oito pessoas mascando chiclete pra ele.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Mais chiclete!"
+   ],
+   "destaque": [
+    "mascando",
+    "chiclete"
+   ]
+  },
+  {
+   "fala": "Segunda tentativa. Uma bola de chiclete do tamanho de uma laranja na ponta do bambu. Desceu. Grudou. Subiu. Devagar.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "SEGUNDA TENTATIVA"
+   ],
+   "destaque": [
+    "Subiu.",
+    "Devagar."
+   ]
+  },
+  {
+   "fala": "Passou pela grade. Saiu. O celular grudado no chiclete, coberto de folha e de lama. Mas inteiro. A tela acesa.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tela",
+    "acesa."
+   ]
+  },
+  {
+   "fala": "O bairro explodiu. Gente batendo palma, buzina, o menino do ímã pulando. O dono da banca levantando o bambu como troféu.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O BAIRRO COMEMOROU"
+   ],
+   "destaque": [
+    "como",
+    "troféu."
+   ]
+  },
+  {
+   "fala": "A moça limpou a tela com a manga. Abriu a galeria. E lá estava a foto. A avó sorrindo, de avental, segurando um bolo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "segurando",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Ela mostrou a foto pra todo mundo em volta. Cada um que tinha ajudado. Disse: essa é a minha vó. Vocês salvaram ela.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A FOTO DA VÓ"
+   ],
+   "destaque": [
+    "Vocês",
+    "salvaram"
+   ]
+  },
+  {
+   "fala": "E ali mesmo, eu peguei o celular e mandei a foto pro e-mail dela, pra nuvem, pro WhatsApp da mãe, pra prima. Cinco cópias.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Cinco",
+    "cópias."
+   ]
+  },
+  {
+   "fala": "Levei ela pro destino com o celular embrulhado num guardanapo. Ela disse que vai mandar fazer um quadro da foto. E que vai pendurar chiclete do lado.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "chiclete",
+    "lado."
+   ]
+  },
+  {
+   "fala": "Moral da história: o bairro te salva quando você cai. Mas, por favor, salva as fotos importantes em mais de um lugar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SALVA NA NUVEM"
+   ],
+   "destaque": [
+    "mais",
+    "lugar."
+   ]
+  },
+  {
+   "fala": "E se você tem uma foto que não pode perder, para o vídeo agora e manda pra alguém. É sério.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "OPERAÇÃO CHICLETE"
+   ],
+   "destaque": [
+    "alguém.",
+    "sério."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "id": "cx137",
+ "ep": 137,
+ "avulso": true,
+ "titulo": "O MÁGICO DESASTRADO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🎩 Um mágico infantil ensaiou os truques no meu carro. Todos deram errado. Na festa, as crianças acharam que era de propósito.\n\nQual foi a festa infantil mais engraçada que você já foi? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#magico #humor #festainfantil #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎩 Um mágico infantil ensaiou os truques no meu carro. Todos deram errado. Na festa, as crianças acharam que era de propósito. Qual foi a festa infantil mais engraçada que você já foi? 👇\nHistória de ficção.\n#magico #humor #festainfantil #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve truque de mágica, pomba voando e baralho espalhado pelo meu carro inteiro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "carro",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "Domingo, uma da tarde. Entrou um rapaz de uns vinte e cinco anos de cartola, capa preta e uma maleta cheia de lenço colorido.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 13H"
+   ],
+   "destaque": [
+    "lenço",
+    "colorido."
+   ]
+  },
+  {
+   "fala": "Se apresentou: sou o Grande Zandor. Mágico. Na verdade, Diego. Primeiro show profissional. Festa de sete anos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Sou o Grande Zandor."
+   ],
+   "destaque": [
+    "sete",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Diego trabalhava num supermercado. Mágica era o sonho dele. Treinou dois anos vendo vídeo. E naquele domingo, o primeiro show pago.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "PRIMEIRO SHOW"
+   ],
+   "destaque": [
+    "show",
+    "pago."
+   ]
+  },
+  {
+   "fala": "Pediu: posso ensaiar com o senhor? Eu preciso de uma plateia. Eu disse: manda, Zandor.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Posso ensaiar?"
+   ],
+   "destaque": [
+    "manda,",
+    "Zandor."
+   ]
+  },
+  {
+   "fala": "Primeiro truque: adivinhar a carta. Ele pediu pra eu escolher uma no sinal vermelho. Eu escolhi. O baralho escorregou e caiu inteiro no tapete do carro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tapete",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Segundo truque: os lenços que saem da manga. Saiu um. Saiu dois. O terceiro enganchou no cinto de segurança e rasgou.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "segurança",
+    "rasgou."
+   ]
+  },
+  {
+   "fala": "Terceiro truque: a pomba. Ele abriu a cartola. E a pomba, que estava escondida num compartimento, saiu voando dentro do meu carro.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A POMBA"
+   ],
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "A pomba voou pro painel. Pro retrovisor. Pro meu boné. Eu encostei o carro gritando. Ele gritando. A pomba arrulhando, tranquila, no meu ombro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "ombro."
+   ]
+  },
+  {
+   "fala": "Levamos dez minutos pra pegar a pomba. Ela pousou no terço do retrovisor e ficou olhando a gente como quem diz: amadores.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "A POMBA NO RETROVISOR"
+   ],
+   "destaque": [
+    "diz:",
+    "amadores."
+   ]
+  },
+  {
+   "fala": "Depois de guardar a pomba, ele sentou desanimado. Disse: vai dar tudo errado. Eu não nasci pra isso. Vou cancelar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Vai dar tudo errado."
+   ],
+   "destaque": [
+    "Vou",
+    "cancelar."
+   ]
+  },
+  {
+   "fala": "Eu falei: Zandor, eu ri mais nesses quinze minutos do que no ano inteiro. Se errar rindo, já é show.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Errou rindo, já é show."
+   ],
+   "destaque": [
+    "já",
+    "show."
+   ]
+  },
+  {
+   "fala": "Chegamos na festa. Salão colorido, trinta crianças de sete anos correndo, pais na mesa. Ele me pediu pra ficar. Fiquei na porta.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Fiquei",
+    "porta."
+   ]
+  },
+  {
+   "fala": "Começou o show. E começou dando errado. O baralho caiu no chão logo no primeiro truque.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O SHOW"
+   ],
+   "destaque": [
+    "primeiro",
+    "truque."
+   ]
+  },
+  {
+   "fala": "Ele ficou paralisado. Olhou pra mim na porta. Eu fiz um sinal: ri. Ele riu. E falou: ops. O Grande Zandor tropeçou nas cartas.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "nas",
+    "cartas."
+   ]
+  },
+  {
+   "fala": "As crianças caíram na gargalhada. Acharam que era de propósito. Pediram: de novo! Joga de novo!",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "AS CRIANÇAS RIRAM"
+   ],
+   "destaque": [
+    "Joga",
+    "novo!"
+   ]
+  },
+  {
+   "fala": "Ele percebeu. E começou a errar de propósito. Os lenços enroscando, a varinha quebrando, o chapéu caindo. Cada erro, uma gargalhada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "erro,",
+    "gargalhada."
+   ]
+  },
+  {
+   "fala": "No final, abriu a cartola. A pomba saiu voando de novo. Pelo salão. E pousou na cabeça do aniversariante.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A POMBA DE NOVO"
+   ],
+   "destaque": [
+    "cabeça",
+    "aniversariante."
+   ]
+  },
+  {
+   "fala": "O menino ficou paralisado, com a pomba na cabeça, e depois gritou: é o melhor aniversário da minha vida!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "minha",
+    "vida!"
+   ]
+  },
+  {
+   "fala": "Os pais aplaudiram de pé. Três mães pegaram o telefone dele pra festas. Uma perguntou o nome do personagem. Ele disse: Zandor, o Desastrado.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ZANDOR, O DESASTRADO"
+   ],
+   "destaque": [
+    "Zandor,",
+    "Desastrado."
+   ]
+  },
+  {
+   "fala": "Na volta, ele contava as encomendas no dedo. Seis festas marcadas. Disse que agora vai treinar errar melhor.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "errar",
+    "melhor."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o seu maior erro é exatamente o que faz você ser único.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "RI DO ERRO"
+   ],
+   "destaque": [
+    "ser",
+    "único."
+   ]
+  },
+  {
+   "fala": "E se você errar hoje na frente de todo mundo, faz uma reverência. Pode ser que aplaudam.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ABRACADABRA"
+   ],
+   "destaque": [
+    "ser",
+    "aplaudam."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,264 @@
+{
+ "id": "cx134",
+ "ep": 134,
+ "avulso": true,
+ "titulo": "A PRIMEIRA PALAVRA EM LIBRAS",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "🤟 O neto nasceu surdo. A família inteira começou a aprender Libras. Mas foi a bisavó de 88 anos, em segredo, quem chegou primeiro.\n\nVocê sabe alguma palavra em Libras? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#libras #inclusao #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🤟 O neto nasceu surdo. A família inteira começou a aprender Libras. Mas foi a bisavó de 88 anos, em segredo, quem chegou primeiro. Você sabe alguma palavra em Libras? 👇\nHistória de ficção.\n#libras #inclusao #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve uma conversa inteira sem nenhuma palavra.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nenhuma",
+    "palavra."
+   ]
+  },
+  {
+   "fala": "Domingo, onze da manhã. Entraram uma mãe de uns trinta anos e um menino de seis. Ele fazendo sinais com as mãos. Ela respondendo, devagar.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 11H"
+   ],
+   "destaque": [
+    "respondendo,",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "A mãe explicou: ele é surdo de nascença. A gente tá indo pro almoço na casa da bisavó dele. Aniversário dela.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ele é surdo."
+   ],
+   "destaque": [
+    "Aniversário",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Chama-se Miguel. Quando nasceu, a família inteira decidiu aprender Libras. Pai, mãe, avós, tios. Curso de sábado à tarde.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A FAMÍLIA APRENDEU"
+   ],
+   "destaque": [
+    "à",
+    "tarde."
+   ]
+  },
+  {
+   "fala": "A mãe riu: o pai ainda erra muito. Outro dia ele quis dizer que amava o Miguel e disse que amava a banana.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O pai ainda erra muito."
+   ],
+   "destaque": [
+    "amava",
+    "banana."
+   ]
+  },
+  {
+   "fala": "O Miguel, entendendo pela leitura dos lábios, fez um sinal e riu. A mãe traduziu: ele disse que o pai é engraçado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pai",
+    "engraçado."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e a bisavó também aprendeu? A mãe ficou triste: não. Ela tem oitenta e oito. Disse que já não tem cabeça pra isso.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E a bisavó?"
+   ],
+   "destaque": [
+    "cabeça",
+    "isso."
+   ]
+  },
+  {
+   "fala": "Contou que a bisavó, dona Amélia, amava o Miguel. Mas os dois não conseguiam conversar. Ficavam só se olhando e sorrindo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "olhando",
+    "sorrindo."
+   ]
+  },
+  {
+   "fala": "Ela só faz carinho no cabelo dele. E ele fica do lado dela. Mas eu sei que ela sofre por não conseguir falar com ele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela só faz carinho."
+   ],
+   "destaque": [
+    "conseguir",
+    "falar"
+   ]
+  },
+  {
+   "fala": "O Miguel ficou fazendo sinais pra mim pelo retrovisor. A mãe traduzia. Ele perguntou meu nome. Eu disse. Ela soletrou com os dedos pra ele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "soletrou",
+    "dedos"
+   ]
+  },
+  {
+   "fala": "Ele inventou um sinal pra mim. A mão no volante imaginário e depois um polegar pra cima. Disse que era: o motorista legal. Eu adorei.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O SINAL DO CAIXEIRO"
+   ],
+   "destaque": [
+    "legal.",
+    "adorei."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa com jardim. A família toda na varanda. E na cadeira de balanço, uma senhora miudinha de cabelo branquinho. A dona Amélia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dona",
+    "Amélia."
+   ]
+  },
+  {
+   "fala": "Eles me convidaram pra um café, já que eu estava ali. Eu aceitei. Fiquei na varanda vendo a festa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vendo",
+    "festa."
+   ]
+  },
+  {
+   "fala": "Aí o Miguel foi até a bisavó. Ela segurou o rosto dele com as duas mãos. E soltou. E levantou as mãos.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "levantou",
+    "mãos."
+   ]
+  },
+  {
+   "fala": "Ela fez um sinal. Devagar. Tremido. A mão no peito e depois apontando pra ele. A família inteira parou de falar.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA FEZ UM SINAL"
+   ],
+   "destaque": [
+    "parou",
+    "falar."
+   ]
+  },
+  {
+   "fala": "O Miguel arregalou os olhos. Respondeu com as mãos. E ela respondeu de novo. Uma frase inteira. A mãe traduziu, chorando: eu te amo. Feliz por você estar aqui.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "EU TE AMO"
+   ],
+   "destaque": [
+    "estar",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "A dona Amélia tinha aprendido escondida. Seis meses. Com uma vizinha que é intérprete. Uma hora por dia. Pra fazer surpresa no aniversário dela.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "aniversário",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ela disse em voz alta, pra família: eu não queria morrer sem conversar com o meu bisneto. Agora eu converso.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu queria conversar com ele."
+   ],
+   "destaque": [
+    "Agora",
+    "converso."
+   ]
+  },
+  {
+   "fala": "O Miguel abraçou a bisavó. Depois sentou no colo dela e os dois ficaram conversando com as mãos. Rindo. Ninguém mais entendia nada. Só eles.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OITENTA E OITO ANOS"
+   ],
+   "destaque": [
+    "Só",
+    "eles."
+   ]
+  },
+  {
+   "fala": "O pai do Miguel tentou entrar na conversa. Errou um sinal. A bisavó corrigiu ele. A família inteira riu.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "inteira",
+    "riu."
+   ]
+  },
+  {
+   "fala": "Eu fui embora com o meu sinal novo. Mão no volante, polegar pra cima. Uso até hoje, quando alguém me agradece.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "alguém",
+    "agradece."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra aprender a língua de quem a gente ama.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APRENDE"
+   ],
+   "destaque": [
+    "gente",
+    "ama."
+   ]
+  },
+  {
+   "fala": "E se você quer aprender uma palavra em Libras, começa por obrigado. Mão no queixo, pra frente. Viu? Já sabe uma.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA AMÉLIA"
+   ],
+   "destaque": [
+    "Já",
+    "sabe"
+   ]
+  }
+ ]
+}

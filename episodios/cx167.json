@@ -1,0 +1,256 @@
+{
+ "id": "cx167",
+ "ep": 167,
+ "avulso": true,
+ "titulo": "A BOLSA INFINITA DA DONA NICE",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "👜 A passageira de 80 anos tinha uma bolsa de onde saía de tudo. Guarda-chuva, sanduíche, chave de roda. Ela salvou a corrida três vezes.\n\nO que não pode faltar na bolsa da sua mãe ou avó? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #humor #bolsa #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👜 A passageira de 80 anos tinha uma bolsa de onde saía de tudo. Guarda-chuva, sanduíche, chave de roda. Ela salvou a corrida três vezes. O que não pode faltar na bolsa da sua mãe ou avó? 👇\nHistória de ficção.\n#avo #humor #bolsa #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi salva por uma bolsa que parecia de mágico.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "parecia",
+    "mágico."
+   ]
+  },
+  {
+   "fala": "Quinta, uma da tarde. Entrou uma senhora de oitenta anos, baixinha, de chapéu, com uma bolsa de couro que era maior que ela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 13H"
+   ],
+   "destaque": [
+    "era",
+    "maior"
+   ]
+  },
+  {
+   "fala": "Eu ofereci: quer pôr a bolsa no porta-malas? Ela agarrou a bolsa: nunca. Essa bolsa não sai de perto de mim.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pode pôr no porta-malas?"
+   ],
+   "destaque": [
+    "perto",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Dona Nice. Ia visitar a irmã do outro lado da cidade. Uma hora de viagem. Com a bolsa no colo, as duas mãos em cima.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA NICE"
+   ],
+   "destaque": [
+    "mãos",
+    "cima."
+   ]
+  },
+  {
+   "fala": "Começou a chover forte. E o meu limpador de para-brisa travou. Parou no meio do vidro. Eu sem enxergar nada. Encostei.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "nada.",
+    "Encostei."
+   ]
+  },
+  {
+   "fala": "Eu desci na chuva pra tentar arrumar. Sem guarda-chuva. Encharcado em dois segundos. A dona Nice abriu a janela.",
+   "expr": "brava",
+   "arte": null,
+   "destaque": [
+    "abriu",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Disse: pega aqui, meu filho. E tirou da bolsa um guarda-chuva. Daqueles grandes, de dois metros. De dentro da bolsa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pega aqui."
+   ],
+   "destaque": [
+    "dentro",
+    "bolsa."
+   ]
+  },
+  {
+   "fala": "E não parou por aí. Tirou também um pedaço de arame. Disse: o meu marido consertava limpador assim. E consertou. Com o arame. Pela janela.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PRIMEIRO MILAGRE"
+   ],
+   "destaque": [
+    "Pela",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Eu voltei pro carro, molhado, olhando pra bolsa. Ela olhando pra frente, como se nada tivesse acontecido.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tivesse",
+    "acontecido."
+   ]
+  },
+  {
+   "fala": "Meia hora depois, o trânsito parou. Acidente na frente. Uma hora de engarrafamento. Já era hora do almoço. Eu com fome.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "almoço.",
+    "fome."
+   ]
+  },
+  {
+   "fala": "E ela abriu a bolsa. Tirou um pote com dois sanduíches de mortadela. Uma garrafa de café. Dois copinhos. E um pedaço de bolo de laranja.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "SEGUNDO MILAGRE"
+   ],
+   "destaque": [
+    "bolo",
+    "laranja."
+   ]
+  },
+  {
+   "fala": "Disse: eu sempre levo pra dois. Nunca se sabe quem vai estar com fome. E me deu um sanduíche. Melhor almoço da semana.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sempre levo pra dois."
+   ],
+   "destaque": [
+    "almoço",
+    "semana."
+   ]
+  },
+  {
+   "fala": "Aí, no meio do engarrafamento, um carro na frente com uma família. O pneu tinha furado. O pai desesperado, sem chave de roda.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "chave",
+    "roda."
+   ]
+  },
+  {
+   "fala": "A dona Nice olhou. Abriu a bolsa. E tirou. Uma chave de roda. De dentro da bolsa. Eu juro pela Rosângela.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "TERCEIRO MILAGRE"
+   ],
+   "destaque": [
+    "pela",
+    "Rosângela."
+   ]
+  },
+  {
+   "fala": "Ela me entregou a chave de roda. Eu fui lá ajudar a família. O pai olhando pra mim e pra senhora no meu carro, sem entender.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "entender."
+   ]
+  },
+  {
+   "fala": "Quando voltei, eu não aguentei: dona Nice, o que mais tem nessa bolsa? Ela sorriu e abriu pra eu ver.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O que mais tem aí?"
+   ],
+   "destaque": [
+    "abriu",
+    "ver."
+   ]
+  },
+  {
+   "fala": "Lanterna. Fósforo. Band-aid. Agulha e linha. Um terço. Uma faca de pão. Remédio pra dor de cabeça. Bala de menta. Uma lupa. E uma foto do marido.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O INVENTÁRIO"
+   ],
+   "destaque": [
+    "foto",
+    "marido."
+   ]
+  },
+  {
+   "fala": "Ela disse: o meu marido era assim. Andava com tudo no carro. Dizia: Nice, a gente nunca sabe quando alguém vai precisar. Quando ele se foi, eu passei a carregar por ele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele era assim."
+   ],
+   "destaque": [
+    "passei",
+    "carregar"
+   ]
+  },
+  {
+   "fala": "A bolsa era o porta-malas do marido. Em miniatura. Ela carregava ele junto, ajudando os outros, do jeito que ele fazia.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A BOLSA DO MARIDO"
+   ],
+   "destaque": [
+    "jeito",
+    "fazia."
+   ]
+  },
+  {
+   "fala": "Deixei ela na casa da irmã. Antes de descer, ela abriu a bolsa e me deu uma bala de menta. Disse: pra viagem de volta.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "viagem",
+    "volta."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que carrega o mundo na bolsa só pra ajudar quem aparecer no caminho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESTEJA PRONTO"
+   ],
+   "destaque": [
+    "aparecer",
+    "caminho."
+   ]
+  },
+  {
+   "fala": "E se sua mãe ou avó tem uma bolsa assim, não reclama do peso. Um dia ela vai te salvar com uma chave de roda.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA NICE"
+   ],
+   "destaque": [
+    "chave",
+    "roda."
+   ]
+  }
+ ]
+}

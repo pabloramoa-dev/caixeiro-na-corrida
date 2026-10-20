@@ -1,0 +1,276 @@
+{
+ "id": "cx135",
+ "ep": 135,
+ "avulso": true,
+ "titulo": "A JUÍZA DE TREZE ANOS",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "🟨 Uma menina de 13 anos ia apitar a final da escolinha. Um dos times era treinado pelo pai dela. No último minuto, pênalti contra o time do pai.\n\nVocê teria coragem de apitar contra alguém da sua família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #arbitragem #honestidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🟨 Uma menina de 13 anos ia apitar a final da escolinha. Um dos times era treinado pelo pai dela. No último minuto, pênalti contra o time do pai. Você teria coragem de apitar contra alguém da sua família? 👇\nHistória de ficção.\n#futebol #arbitragem #honestidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a juíza mais corajosa que eu já vi. E ela ainda usa aparelho no dente.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "aparelho",
+    "dente."
+   ]
+  },
+  {
+   "fala": "Sábado, oito da manhã. Entraram um pai de uns quarenta anos, de agasalho de técnico, e uma menina de treze, de uniforme preto de árbitra e apito no pescoço.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 8H"
+   ],
+   "destaque": [
+    "apito",
+    "pescoço."
+   ]
+  },
+  {
+   "fala": "O pai disse: ela apita, eu treino. Hoje é a final da escolinha do bairro. Sub-onze.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela apita, eu treino."
+   ],
+   "destaque": [
+    "bairro.",
+    "Sub-onze."
+   ]
+  },
+  {
+   "fala": "Chama-se Bianca. Fez um curso de arbitragem infantil na federação. Apitava jogos de escolinha havia um ano. A mais nova da região.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A ÁRBITRA MAIS NOVA"
+   ],
+   "destaque": [
+    "nova",
+    "região."
+   ]
+  },
+  {
+   "fala": "Eu perguntei pro pai: e o seu time tá na final? Ele disse: tá. E quem apita é ela. A federação deixou porque não tinha outra árbitra disponível.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o seu time tá na final?"
+   ],
+   "destaque": [
+    "árbitra",
+    "disponível."
+   ]
+  },
+  {
+   "fala": "Eu falei: rapaz, isso vai dar problema. Ele riu: ela é mais rígida comigo do que com todo mundo. Semana passada me deu cartão amarelo por reclamar.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "amarelo",
+    "reclamar."
+   ]
+  },
+  {
+   "fala": "A Bianca falou séria: eu não protejo ninguém, pai. Nem o senhor. O pai riu: eu sei, filha. Eu sei.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu não protejo ninguém."
+   ],
+   "destaque": [
+    "filha.",
+    "sei."
+   ]
+  },
+  {
+   "fala": "Chegamos num campo de grama sintética. Arquibancada pequena, cheia de pais e mães gritando. Crianças de onze anos aquecendo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "anos",
+    "aquecendo."
+   ]
+  },
+  {
+   "fala": "Eu fiquei pra ver. Comprei um pastel e sentei na arquibancada, no meio dos pais.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dos",
+    "pais."
+   ]
+  },
+  {
+   "fala": "O jogo foi duro. Zero a zero o tempo todo. A Bianca correndo de um lado pro outro, apitando firme. Dando bronca em pai que gritava.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "0 A 0"
+   ],
+   "destaque": [
+    "pai",
+    "gritava."
+   ]
+  },
+  {
+   "fala": "Último minuto. Ataque do time adversário. Um menino entrou na área. E um zagueiro do time do pai dela deu um carrinho atrasado. Derrubou.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "ÚLTIMO MINUTO"
+   ],
+   "destaque": [
+    "atrasado.",
+    "Derrubou."
+   ]
+  },
+  {
+   "fala": "A Bianca apitou na hora. Correu e apontou pra marca do pênalti. Contra o time do pai dela. No último minuto da final.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "PÊNALTI"
+   ],
+   "destaque": [
+    "minuto",
+    "final."
+   ]
+  },
+  {
+   "fala": "A arquibancada do time do pai explodiu. Gritando. Uns pais dizendo que não foi nada. Um até gritou que ela queria prejudicar o próprio pai.",
+   "expr": "brava",
+   "arte": null,
+   "destaque": [
+    "próprio",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Ela não olhou pra arquibancada. Olhou pro pai, na beira do campo. E o pai, de braços cruzados, balançou a cabeça. Devagar. Concordando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Devagar.",
+    "Concordando."
+   ]
+  },
+  {
+   "fala": "Depois ele me disse: foi pênalti. Claro que foi. Meu zagueiro chegou atrasado. Ela viu certo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O PAI CONCORDOU"
+   ],
+   "destaque": [
+    "viu",
+    "certo."
+   ]
+  },
+  {
+   "fala": "O menino bateu. Gol. Um a zero. Fim de jogo. O time do pai perdeu a final.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "perdeu",
+    "final."
+   ]
+  },
+  {
+   "fala": "Os meninos do time do pai choraram. Alguns pais reclamaram com a Bianca na saída do campo. Ela segurou o apito e ficou firme.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ficou",
+    "firme."
+   ]
+  },
+  {
+   "fala": "Aí o pai dela foi até a arquibancada e falou alto: pode parar. Foi pênalti. E quem disser o contrário, vai ter que discutir comigo.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Pode parar."
+   ],
+   "destaque": [
+    "discutir",
+    "comigo."
+   ]
+  },
+  {
+   "fala": "Depois foi até a filha, tirou o boné e disse na frente de todo mundo: a melhor árbitra que eu já vi. Eu perdi a final e nunca tive tanto orgulho.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ORGULHO DO PAI"
+   ],
+   "destaque": [
+    "tanto",
+    "orgulho."
+   ]
+  },
+  {
+   "fala": "Ela tentou continuar séria. Mas não aguentou. Chorou de alívio e abraçou o pai. Os meninos do time dele vieram abraçar ela também.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "abraçar",
+    "também."
+   ]
+  },
+  {
+   "fala": "O zagueiro que fez o pênalti chegou e disse: desculpa, eu cheguei atrasado mesmo. A Bianca respondeu: eu sei. Mas foi um bom carrinho.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O ZAGUEIRO PEDIU DESCULPA"
+   ],
+   "destaque": [
+    "bom",
+    "carrinho."
+   ]
+  },
+  {
+   "fala": "Na volta, ela foi mexendo no apito e falando que quer apitar Copa do Mundo. O pai disse: e eu vou estar na arquibancada. Reclamando.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "arquibancada.",
+    "Reclamando."
+   ]
+  },
+  {
+   "fala": "Moral da história: ser justo com estranho é fácil. Difícil é ser justo com quem a gente ama.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APITA CERTO"
+   ],
+   "destaque": [
+    "gente",
+    "ama."
+   ]
+  },
+  {
+   "fala": "E se você vir uma menina apitando jogo, respeita. Ela tá aprendendo a ser justa num mundo que grita.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "JUÍZA BIANCA"
+   ],
+   "destaque": [
+    "mundo",
+    "grita."
+   ]
+  }
+ ]
+}

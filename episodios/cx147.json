@@ -1,0 +1,279 @@
+{
+ "id": "cx147",
+ "ep": 147,
+ "avulso": true,
+ "titulo": "A LISTA DE COMPRAS CIFRADA",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "📝 A esposa deu a lista de compras pro marido. O problema: estava escrita no código secreto dela. Viramos detetives no supermercado.\n\nQual palavra da sua família só vocês entendem? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #casal #supermercado #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📝 A esposa deu a lista de compras pro marido. O problema: estava escrita no código secreto dela. Viramos detetives no supermercado. Qual palavra da sua família só vocês entendem? 👇\nHistória de ficção.\n#humor #casal #supermercado #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve decifração de enigma no meio do corredor de enlatados.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "corredor",
+    "enlatados."
+   ]
+  },
+  {
+   "fala": "Sábado, dez da manhã. Entrou um senhor de uns sessenta anos com um papel amassado na mão e uma cara de quem ia fazer prova de matemática.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 10H"
+   ],
+   "destaque": [
+    "prova",
+    "matemática."
+   ]
+  },
+  {
+   "fala": "Disse: supermercado, por favor. E o senhor me ajuda a entender essa lista? A minha mulher viajou e me deixou isso.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O senhor me ajuda?"
+   ],
+   "destaque": [
+    "deixou",
+    "isso."
+   ]
+  },
+  {
+   "fala": "Leu em voz alta: aquele negócio da dona Zefa. Dois do bom, não do barato. O verde do domingo. A coisa do pé da mesa. E pão. Só pão.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A LISTA"
+   ],
+   "destaque": [
+    "Só",
+    "pão."
+   ]
+  },
+  {
+   "fala": "Seu Osvaldo. Trinta e cinco anos de casado. Nunca tinha feito compra sozinho. A esposa, dona Célia, foi visitar a irmã e deixou a lista.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "deixou",
+    "lista."
+   ]
+  },
+  {
+   "fala": "Eu disse: pelo menos o pão é fácil. Ele: é? Que pão? Francês, de forma, de queijo, integral? Ela escreveu só pão.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Pelo menos o pão é fácil."
+   ],
+   "destaque": [
+    "só",
+    "pão."
+   ]
+  },
+  {
+   "fala": "Ligou pra ela. Caixa postal. Ligou de novo. Caixa postal. A irmã mora no interior, sem sinal. Ele estava sozinho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estava",
+    "sozinho."
+   ]
+  },
+  {
+   "fala": "Eu, que estava no fim do turno e com tempo, falei: vamos decifrar. Eu entro no supermercado com o senhor. Investigação.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vamos decifrar."
+   ],
+   "destaque": [
+    "senhor.",
+    "Investigação."
+   ]
+  },
+  {
+   "fala": "Entramos no supermercado. Eu de detetive, ele de assistente. Ou ao contrário. Ninguém sabia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Ninguém",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Primeiro: aquele negócio da dona Zefa. Quem é dona Zefa? Ele pensou. A vizinha. Que uma vez trouxe um bolo de fubá. Fubá! Achamos o fubá.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "AQUELE NEGÓCIO DA DONA ZEFA"
+   ],
+   "destaque": [
+    "Achamos",
+    "fubá."
+   ]
+  },
+  {
+   "fala": "Dois do bom, não do barato. Do bom o quê? Ele andou pelo corredor olhando. E parou no café. Ela sempre reclamava quando ele comprava o café barato. Dois do bom.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Dois",
+    "bom."
+   ]
+  },
+  {
+   "fala": "O verde do domingo. Aí travou. Alface? Couve? Salsinha? Ficamos dez minutos no hortifrúti. Até que ele lembrou: todo domingo ela faz frango com quiabo.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O VERDE DO DOMINGO"
+   ],
+   "destaque": [
+    "frango",
+    "quiabo."
+   ]
+  },
+  {
+   "fala": "Quiabo! Ele pegou o quiabo como quem acha ouro. Uma senhora do lado perguntou o que estava acontecendo. A gente explicou. Ela entrou na investigação.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "entrou",
+    "investigação."
+   ]
+  },
+  {
+   "fala": "A coisa do pé da mesa. Esse ninguém sabia. Nem a senhora. Nem o repositor que também entrou na história. Já éramos cinco.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A COISA DO PÉ DA MESA"
+   ],
+   "destaque": [
+    "éramos",
+    "cinco."
+   ]
+  },
+  {
+   "fala": "Pé da mesa. Calço? Feltro? Produto de limpeza? O repositor sugeriu: cola. A senhora: lustra-móveis. Eu: aquele feltrinho de colar no pé.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "colar",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Aí o seu Osvaldo gritou: formiga! Tem formiga no pé da mesa da cozinha! Ela falou semana passada! E correu pro corredor de veneno de formiga.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Formiga!"
+   ],
+   "destaque": [
+    "veneno",
+    "formiga."
+   ]
+  },
+  {
+   "fala": "Caso resolvido. Fubá, café do bom, quiabo, formicida. Faltava o pão. A senhora, que já era da equipe, decretou: pão francês. Mulher que escreve só pão quer francês.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "CASO RESOLVIDO"
+   ],
+   "destaque": [
+    "quer",
+    "francês."
+   ]
+  },
+  {
+   "fala": "Ele comprou dez pães franceses. Agradeceu a senhora, o repositor, o caixa. Saiu do supermercado como quem ganhou um campeonato.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ganhou",
+    "campeonato."
+   ]
+  },
+  {
+   "fala": "Quando a gente estava no carro, a dona Célia ligou. Ele atendeu no viva-voz e leu os itens. Um por um.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Ligação: Célia"
+   ],
+   "destaque": [
+    "leu",
+    "itens."
+   ]
+  },
+  {
+   "fala": "Do outro lado, silêncio. Depois ela riu: acertou tudo, Osvaldo. Até a formiga. Trinta e cinco anos e você presta atenção, hein.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ACERTOU TUDO"
+   ],
+   "destaque": [
+    "atenção,",
+    "hein."
+   ]
+  },
+  {
+   "fala": "Ele perguntou: você escreveu difícil de propósito? Ela riu mais ainda: escrevi. Queria saber se você me escuta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você escreveu difícil de propósito?"
+   ],
+   "destaque": [
+    "você",
+    "escuta."
+   ]
+  },
+  {
+   "fala": "Deixei ele em casa com as sacolas. Ele disse que ia guardar a lista. Que era a prova mais difícil que ele já passou.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "já",
+    "passou."
+   ]
+  },
+  {
+   "fala": "Moral da história: casamento bom é aquele em que a lista de compras é um código que só os dois entendem.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PRESTA ATENÇÃO"
+   ],
+   "destaque": [
+    "dois",
+    "entendem."
+   ]
+  },
+  {
+   "fala": "E se alguém te mandar comprar só pão, compra francês. Confia em mim.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SÓ PÃO"
+   ],
+   "destaque": [
+    "Confia",
+    "mim."
+   ]
+  }
+ ]
+}

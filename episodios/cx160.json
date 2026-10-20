@@ -1,0 +1,252 @@
+{
+ "id": "cx160",
+ "ep": 160,
+ "avulso": true,
+ "titulo": "A CASA DA VÓ",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🏡 A casa da avó ia ser vendida depois que ela se foi. Os doze netos fizeram uma vaquinha e compraram. Pra ninguém perder o quintal.\n\nQual cômodo da casa dos seus avós você mais lembra? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #casa #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏡 A casa da avó ia ser vendida depois que ela se foi. Os doze netos fizeram uma vaquinha e compraram. Pra ninguém perder o quintal. Qual cômodo da casa dos seus avós você mais lembra? 👇\nHistória de ficção.\n#avo #casa #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou num quintal com pé de jabuticaba e doze netos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "doze",
+    "netos."
+   ]
+  },
+  {
+   "fala": "Sexta, sete da noite. Entrou uma moça de uns trinta anos com uma pasta de documentos e uma chave antiga, de ferro, com um chaveiro de crochê.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 19H"
+   ],
+   "destaque": [
+    "chaveiro",
+    "crochê."
+   ]
+  },
+  {
+   "fala": "Disse: hoje eu comprei a casa da minha vó. Quer dizer, a gente comprou. Os doze netos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Comprei a casa da minha vó."
+   ],
+   "destaque": [
+    "doze",
+    "netos."
+   ]
+  },
+  {
+   "fala": "Chama-se Patrícia. A avó, dona Zilá, faleceu oito meses antes. Os filhos decidiram vender a casa. Ninguém tinha dinheiro pra ficar com ela sozinho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS DOZE NETOS"
+   ],
+   "destaque": [
+    "ficar",
+    "sozinho."
+   ]
+  },
+  {
+   "fala": "Disse: um comprador queria derrubar e fazer estacionamento. Eu chorei uma semana. A casa onde todo mundo cresceu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ia virar estacionamento."
+   ],
+   "destaque": [
+    "mundo",
+    "cresceu."
+   ]
+  },
+  {
+   "fala": "Aí ela criou um grupo. Só dos netos. Doze. Uns morando longe, uns desempregados, uns recém-casados. E perguntou: e se a gente comprar junto?",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "comprar",
+    "junto?"
+   ]
+  },
+  {
+   "fala": "Riu: todo mundo topou em cinco minutos. Ninguém sabia como ia pagar. Mas todo mundo topou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Todo mundo topou."
+   ],
+   "destaque": [
+    "mundo",
+    "topou."
+   ]
+  },
+  {
+   "fala": "Oito meses de vaquinha. Um vendeu a moto. Outra fez hora extra. Um primo fez rifa. A caçula, de dezoito, vendeu bolo de pote na faculdade.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OITO MESES DE VAQUINHA"
+   ],
+   "destaque": [
+    "pote",
+    "faculdade."
+   ]
+  },
+  {
+   "fala": "E naquele dia, finalmente, assinaram a escritura. Doze nomes no documento. E uma chave só.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "chave",
+    "só."
+   ]
+  },
+  {
+   "fala": "Chegamos na casa. Um sobrado simples, portão de ferro, pé de jabuticaba no quintal. E as luzes acesas.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "luzes",
+    "acesas."
+   ]
+  },
+  {
+   "fala": "Os outros onze netos estavam lá dentro. Esperando ela chegar com a chave. Eles tinham entrado pela casa do vizinho, que tinha cópia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "cópia."
+   ]
+  },
+  {
+   "fala": "Ela abriu o portão. E os onze gritaram juntos: é nossa! A vizinhança saiu na janela.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "saiu",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Ela me puxou pra dentro. Disse que eu tinha que ver. Eu entrei. Uma casa simples, móveis antigos ainda lá. Cheiro de casa de vó.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "casa",
+    "vó."
+   ]
+  },
+  {
+   "fala": "Na cozinha, em cima da mesa, um caderno. O caderno de receitas da dona Zilá. Aberto numa página. Escrito na letra dela: bolo de fubá dos meus netos.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O CADERNO DA COZINHA"
+   ],
+   "destaque": [
+    "meus",
+    "netos."
+   ]
+  },
+  {
+   "fala": "Os doze ficaram em volta da mesa. Ninguém falou nada. Um primo leu em voz alta. A receita e o recado embaixo: dobra a receita, que eles comem tudo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "comem",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Todos riram e choraram juntos. Porque era verdade. A avó sempre fazia dois bolos. E os dois acabavam.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DOBRA A RECEITA"
+   ],
+   "destaque": [
+    "dois",
+    "acabavam."
+   ]
+  },
+  {
+   "fala": "A Patrícia disse: vamos fazer agora. E fizeram. Doze netos numa cozinha pequena, brigando por quem mexia a massa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vamos fazer agora."
+   ],
+   "destaque": [
+    "mexia",
+    "massa."
+   ]
+  },
+  {
+   "fala": "Fizeram as regras da casa: ninguém mora, todo mundo usa. Natal, aniversário, domingo de sol. E o pé de jabuticaba não se corta nunca.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "AS REGRAS DA CASA"
+   ],
+   "destaque": [
+    "corta",
+    "nunca."
+   ]
+  },
+  {
+   "fala": "O bolo ficou pronto. Dobrado. Me deram um pedaço. E eu fui pro quintal comer debaixo da jabuticabeira, que estava florindo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "estava",
+    "florindo."
+   ]
+  },
+  {
+   "fala": "Na saída, a Patrícia pendurou a chave de ferro num prego atrás da porta. Disse que é ali que a avó deixava. Ali vai ficar.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "vai",
+    "ficar."
+   ]
+  },
+  {
+   "fala": "Moral da história: casa de vó não é de tijolo. É de gente. Mas às vezes vale a pena salvar o tijolo também.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "GUARDA O QUINTAL"
+   ],
+   "destaque": [
+    "tijolo",
+    "também."
+   ]
+  },
+  {
+   "fala": "E se você tem primos que não vê há tempo, marca um domingo na casa de alguém. Faz o bolo da vó. Dobra a receita.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DOZE NETOS"
+   ],
+   "destaque": [
+    "Dobra",
+    "receita."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "id": "cx130",
+ "ep": 130,
+ "avulso": true,
+ "titulo": "AS CARTAS PARA DESCONHECIDOS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "💌 Há 12 anos ela escreve cartas para desconhecidos e deixa em bancos de praça. Um dia, alguém respondeu. Com uma história que ela não esperava.\n\nVocê já recebeu um recado de um desconhecido que te ajudou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#cartas #gentileza #misterio #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💌 Há 12 anos ela escreve cartas para desconhecidos e deixa em bancos de praça. Um dia, alguém respondeu. Com uma história que ela não esperava. Você já recebeu um recado de um desconhecido que te ajudou? 👇\nHistória de ficção.\n#cartas #gentileza #misterio #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma carteira de cartas sem destinatário.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sem",
+    "destinatário."
+   ]
+  },
+  {
+   "fala": "Terça, nove da manhã. Entrou uma senhora de uns sessenta e cinco anos, chapéu de abas largas, e uma bolsa cheia de envelopes coloridos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 9H"
+   ],
+   "destaque": [
+    "envelopes",
+    "coloridos."
+   ]
+  },
+  {
+   "fala": "Pediu: o senhor pode passar pelas praças do centro? Uma por uma. Vou deixar umas cartas.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Rodar pelas praças, por favor."
+   ],
+   "destaque": [
+    "umas",
+    "cartas."
+   ]
+  },
+  {
+   "fala": "Dona Ofélia. Professora aposentada. Há doze anos escreve cartas pra desconhecidos. Deixa em banco de praça, ponto de ônibus, banheiro de rodoviária.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "CARTAS PARA NINGUÉM"
+   ],
+   "destaque": [
+    "banheiro",
+    "rodoviária."
+   ]
+  },
+  {
+   "fala": "No envelope está escrito: pra você que encontrou essa carta. Dentro, uma mensagem de carinho. De força. De bom dia.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "bom",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Perguntei por quê. Ela disse: porque um dia eu precisei de uma palavra de um estranho e não tive.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que a senhora faz isso?"
+   ],
+   "destaque": [
+    "estranho",
+    "tive."
+   ]
+  },
+  {
+   "fala": "Contou que, quando perdeu o marido, ficou meses sem conversar com ninguém. E pensou: quanta gente passa por isso calada?",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "isso",
+    "calada?"
+   ]
+  },
+  {
+   "fala": "Fomos de praça em praça. Ela descia, deixava o envelope num banco, ajeitava com uma pedrinha em cima pra não voar, e voltava.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "voar,",
+    "voltava."
+   ]
+  },
+  {
+   "fala": "Em doze anos, mais de quatro mil cartas. Ela nunca soube quem achou nenhuma. Nunca teve resposta. Disse que não precisava.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Disse",
+    "precisava."
+   ]
+  },
+  {
+   "fala": "Na quinta praça, ela foi deixar a carta no banco de sempre. E parou. Tinha um envelope lá. Endereçado a ela.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "lá.",
+    "Endereçado"
+   ]
+  },
+  {
+   "fala": "No envelope, escrito à mão: pra senhora que deixa as cartas. Ela voltou pro carro tremendo. Pediu pra eu ler. Ela não conseguia.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "PRA DONA DAS CARTAS"
+   ],
+   "destaque": [
+    "ler.",
+    "conseguia."
+   ]
+  },
+  {
+   "fala": "Eu li em voz alta. Dizia: há sete anos eu achei uma carta sua nesse banco. Eu estava sentado aqui decidindo se eu ia desistir de tudo.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CARTA DE VOLTA"
+   ],
+   "destaque": [
+    "desistir",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "A carta dizia: você não me conhece, mas a sua vida importa. Eu li vinte vezes. E levantei do banco. E fui procurar ajuda.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "procurar",
+    "ajuda."
+   ]
+  },
+  {
+   "fala": "E continuava: hoje eu sou psicólogo. Atendo pessoas que estão no banco, como eu estava. Eu passei sete anos procurando a senhora.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Hoje eu sou psicólogo."
+   ],
+   "destaque": [
+    "procurando",
+    "senhora."
+   ]
+  },
+  {
+   "fala": "Tinha um telefone embaixo. E uma frase: se a senhora quiser, eu queria te dar um abraço. Ele assinava: Leandro, o rapaz do banco.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "rapaz",
+    "banco."
+   ]
+  },
+  {
+   "fala": "A dona Ofélia ficou um tempão em silêncio, segurando a carta. Disse: quatro mil cartas e eu nunca soube se alguma serviu pra alguma coisa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "alguma",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Ela ligou. Ele atendeu no segundo toque. Combinaram de se encontrar ali mesmo, naquele banco, em meia hora.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Ligação"
+   ],
+   "destaque": [
+    "meia",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Meia hora depois, chegou um rapaz de uns trinta e cinco anos, de jaleco, correndo. Ela levantou do banco. Ele parou na frente dela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "30 MINUTOS"
+   ],
+   "destaque": [
+    "frente",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Os dois se abraçaram no meio da praça. Um abraço longo. Os pombos voando em volta. Eu olhando do carro com o vidro aberto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O ABRAÇO NO BANCO"
+   ],
+   "destaque": [
+    "vidro",
+    "aberto."
+   ]
+  },
+  {
+   "fala": "Depois ele tirou da carteira a carta original. Dobrada, gasta, com fita adesiva nas dobras. Guardada sete anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sete",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Hoje os dois escrevem cartas juntos. Ele leva pro consultório. Ela deixa nas praças. Mais de mil por ano.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mil",
+    "ano."
+   ]
+  },
+  {
+   "fala": "Moral da história: uma palavra boa de um desconhecido pode segurar alguém de pé. Escreve. Mesmo sem saber pra quem.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ESCREVE"
+   ],
+   "destaque": [
+    "saber",
+    "quem."
+   ]
+  },
+  {
+   "fala": "E se você tá precisando de uma palavra hoje, aqui vai: a sua vida importa. E se tá difícil, procura ajuda. Tem gente que quer te ouvir.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PRA VOCÊ QUE ENCONTROU"
+   ],
+   "destaque": [
+    "te",
+    "ouvir."
+   ]
+  }
+ ]
+}

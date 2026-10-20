@@ -1,0 +1,264 @@
+{
+ "id": "cx128",
+ "ep": 128,
+ "avulso": true,
+ "titulo": "OS BILHETES NO VARAL",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "👕 Os varais dos dois prédios ficavam frente a frente. Durante um ano, eles trocaram bilhetes presos com pregador. Nunca tinham se visto de perto.\n\nQual a forma mais criativa de paquera que você conhece? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #vizinhos #bilhetes #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👕 Os varais dos dois prédios ficavam frente a frente. Durante um ano, eles trocaram bilhetes presos com pregador. Nunca tinham se visto de perto. Qual a forma mais criativa de paquera que você conhece? 👇\nHistória de ficção.\n#amor #vizinhos #bilhetes #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o mensageiro de um amor de pregador de roupa.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "pregador",
+    "roupa."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou um rapaz de uns trinta anos com uma caixa de sapato cheia de papel e um pregador de roupa preso no bolso da camisa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "bolso",
+    "camisa."
+   ]
+  },
+  {
+   "fala": "Disse: vou conhecer a minha vizinha. Pessoalmente. Pela primeira vez. Eu perguntei: e ela mora longe? Ele riu: mora na frente.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou conhecer minha vizinha."
+   ],
+   "destaque": [
+    "mora",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Chama-se Bruno. Mora no quarto andar de um prédio. No prédio da frente, também no quarto andar, a área de serviço dava de frente pra dele. Os varais quase se encostavam.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS DOIS VARAIS"
+   ],
+   "destaque": [
+    "quase",
+    "encostavam."
+   ]
+  },
+  {
+   "fala": "Um dia, um pregador com uma meia dela voou e caiu no varal dele. Ele devolveu, jogando de volta. Com um bilhete: acho que isso é seu.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "isso",
+    "seu."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, tinha um bilhete preso no varal dela, virado pra ele: obrigada. A meia era a favorita. Me chamo Carol.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela respondeu no dia seguinte."
+   ],
+   "destaque": [
+    "chamo",
+    "Carol."
+   ]
+  },
+  {
+   "fala": "Começou. Um bilhete por dia. Preso no varal com pregador. Ele lia com binóculo. Ela também. Um ano inteiro.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "UM ANO DE BILHETES"
+   ],
+   "destaque": [
+    "ano",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "Abriu a caixa pra me mostrar. Centenas de bilhetes. Sobre o dia, sobre filme, sobre o trabalho, sobre o medo de altura dela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "altura",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e vocês nunca se encontraram? Ele disse: de longe sim. Ela acena. Eu aceno. Mas de perto, nunca.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E nunca se viram?"
+   ],
+   "destaque": [
+    "perto,",
+    "nunca."
+   ]
+  },
+  {
+   "fala": "Os dois tinham medo de estragar. Disse: no papel é perfeito. E se de perto não for?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente tinha medo de estragar."
+   ],
+   "destaque": [
+    "perto",
+    "for?"
+   ]
+  },
+  {
+   "fala": "Aí, na sexta, ele mandou um bilhete diferente: domingo, dez horas, na padaria da esquina. Ela respondeu: vou estar de vermelho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estar",
+    "vermelho."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e por que um carro, se a padaria é na esquina? Ele riu nervoso: porque eu dei três voltas no quarteirão e não tive coragem. Pedi um carro pra me obrigar.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Mas a padaria é na esquina."
+   ],
+   "destaque": [
+    "carro",
+    "obrigar."
+   ]
+  },
+  {
+   "fala": "Eu dei a volta no quarteirão de novo. Devagar. Ele suando. Até que eu parei na frente da padaria e disse: desce, Bruno.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "desce,",
+    "Bruno."
+   ]
+  },
+  {
+   "fala": "Na mesa da janela, uma moça de vestido vermelho. Com uma caixa de sapato no colo. Igual a dele.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Igual",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ele desceu. Eu fiquei estacionado, porque ele esqueceu o celular no banco. Vi tudo pela vitrine.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pela",
+    "vitrine."
+   ]
+  },
+  {
+   "fala": "Ele sentou na frente dela. Os dois com caixa de sapato. E ao mesmo tempo, abriram as caixas na mesa. Ela tinha guardado os bilhetes dele. Todos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A CAIXA DELA"
+   ],
+   "destaque": [
+    "dele.",
+    "Todos."
+   ]
+  },
+  {
+   "fala": "Ficaram uns segundos em silêncio. Depois ela riu. Ele riu. E começaram a conversar como se fizesse anos. Na verdade fazia. Por escrito.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "fazia.",
+    "escrito."
+   ]
+  },
+  {
+   "fala": "Depois ele me contou: ela confessou que tinha medo de altura e mesmo assim ia todo dia na janela do quarto andar pendurar o bilhete. Tremendo.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "ELA TINHA MEDO DE ALTURA"
+   ],
+   "destaque": [
+    "bilhete.",
+    "Tremendo."
+   ]
+  },
+  {
+   "fala": "Ela tirou um pregador do bolso. O mesmo da primeira meia. E prendeu na camisa dele. Disse: agora você é meu varal.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "UM PREGADOR"
+   ],
+   "destaque": [
+    "meu",
+    "varal."
+   ]
+  },
+  {
+   "fala": "Quando ele voltou pra pegar o celular, estava com o pregador na camisa e o sorriso mais bobo da cidade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "bobo",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, me chamaram pra levar uma mudança pequena. Do prédio dele pro prédio dela. Quarto andar pro quarto andar. Atravessando a rua.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Atravessando",
+    "rua."
+   ]
+  },
+  {
+   "fala": "Moral da história: o amor por escrito é lindo. Mas uma hora tem que descer pra padaria.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SAI DO PAPEL"
+   ],
+   "destaque": [
+    "descer",
+    "padaria."
+   ]
+  },
+  {
+   "fala": "E se você troca mensagem com alguém há muito tempo, marca um café. De perto é melhor. Pode confiar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CAROL E BRUNO"
+   ],
+   "destaque": [
+    "Pode",
+    "confiar."
+   ]
+  }
+ ]
+}

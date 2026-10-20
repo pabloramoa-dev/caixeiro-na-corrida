@@ -1,0 +1,279 @@
+{
+ "id": "cx154",
+ "ep": 154,
+ "avulso": true,
+ "titulo": "A ENFERMEIRA DA UTI",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🍼 Ele nasceu com 900 gramas e passou 3 meses na UTI neonatal. Hoje, 25 anos depois, começava a trabalhar como enfermeiro na mesma UTI.\n\nQuem cuidou de você quando você era pequeno demais pra lembrar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#enfermagem #gratidao #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🍼 Ele nasceu com 900 gramas e passou 3 meses na UTI neonatal. Hoje, 25 anos depois, começava a trabalhar como enfermeiro na mesma UTI. Quem cuidou de você quando você era pequeno demais pra lembrar? 👇\nHistória de ficção.\n#enfermagem #gratidao #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um enfermeiro de volta pro lugar onde ele aprendeu a respirar.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "aprendeu",
+    "respirar."
+   ]
+  },
+  {
+   "fala": "Segunda, seis e meia da tarde. Entrou um rapaz de uns vinte e cinco anos, de jaleco branco dobrado no braço e um crachá novo, ainda com o plástico.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 18H30"
+   ],
+   "destaque": [
+    "ainda",
+    "plástico."
+   ]
+  },
+  {
+   "fala": "Disse: primeiro plantão. Enfermeiro. Na UTI neonatal. Eu disse: com bebê? Coragem, hein. Ele riu: eu já fui um daqueles bebês.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeiro plantão."
+   ],
+   "destaque": [
+    "daqueles",
+    "bebês."
+   ]
+  },
+  {
+   "fala": "Chama-se Daniel. Nasceu de seis meses. Novecentos gramas. Cabia na palma da mão. Passou três meses na UTI neonatal. No mesmo hospital.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "NOVECENTOS GRAMAS"
+   ],
+   "destaque": [
+    "mesmo",
+    "hospital."
+   ]
+  },
+  {
+   "fala": "Contou: os médicos disseram pra minha mãe que eu tinha poucas chances. Ela ia todo dia. E tinha uma enfermeira que não saía do meu lado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém achava que eu ia viver."
+   ],
+   "destaque": [
+    "meu",
+    "lado."
+   ]
+  },
+  {
+   "fala": "A mãe dele sempre falava dessa enfermeira. Dona Vera. Que cantava pra ele de madrugada. Que segurava o dedinho dele na incubadora.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "incubadora."
+   ]
+  },
+  {
+   "fala": "A dona Vera deu o primeiro banho nele. Ensinou a mãe a trocar fralda num bebê do tamanho de uma garrafinha de água.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela me deu o primeiro banho."
+   ],
+   "destaque": [
+    "garrafinha",
+    "água."
+   ]
+  },
+  {
+   "fala": "Ele cresceu ouvindo essa história. E decidiu, aos quinze anos: vou ser enfermeiro. Vou trabalhar onde eu nasci.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "onde",
+    "nasci."
+   ]
+  },
+  {
+   "fala": "Perguntei: e a dona Vera? Ele disse: não sei. A minha mãe perdeu contato. Deve ter aposentado. Deve ter uns sessenta e poucos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E a dona Vera?"
+   ],
+   "destaque": [
+    "sessenta",
+    "poucos."
+   ]
+  },
+  {
+   "fala": "Chegamos no hospital. Ele ficou parado na entrada, olhando o prédio. Disse: eu nasci no quarto andar. Hoje vou trabalhar no quarto andar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quarto",
+    "andar."
+   ]
+  },
+  {
+   "fala": "Eu fiquei esperando um pouquinho, porque ele estava nervoso. Pediu pra eu esperar ele entrar. Como se fosse primeiro dia de escola.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dia",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Três dias depois, ele me chamou de novo. Pra voltar do plantão. Entrou no carro com uma cara que eu nunca vou esquecer.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TRÊS DIAS DEPOIS"
+   ],
+   "destaque": [
+    "vou",
+    "esquecer."
+   ]
+  },
+  {
+   "fala": "Disse: ela ainda trabalha lá, moço. A dona Vera. Ela é a chefe da enfermagem da UTI. A minha chefe.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Ela ainda trabalha lá."
+   ],
+   "destaque": [
+    "minha",
+    "chefe."
+   ]
+  },
+  {
+   "fala": "A dona Vera. Com sessenta e três anos. Trinta e oito anos de UTI neonatal. Chefe da equipe. E ele não sabia.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A CHEFE DELE"
+   ],
+   "destaque": [
+    "equipe.",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Contou que no primeiro plantão ela passou explicando as rotinas. Ele não teve coragem de falar nada. No segundo, também não.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "segundo,",
+    "também"
+   ]
+  },
+  {
+   "fala": "No terceiro, de madrugada, ele ouviu ela cantando pra um bebê na incubadora. Uma música de ninar antiga. A mesma que a mãe dele cantava. Que tinha aprendido com ela.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MÚSICA"
+   ],
+   "destaque": [
+    "tinha",
+    "aprendido"
+   ]
+  },
+  {
+   "fala": "Ele chegou perto e disse: dona Vera, eu sou o Daniel. Novecentos gramas. Mil novecentos e noventa e nove. Leito quatro.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sou o Daniel."
+   ],
+   "destaque": [
+    "Leito",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Ela parou de cantar. Olhou pra ele. Tirou os óculos. E disse: o menino do leito quatro? O que segurava meu dedo com força?",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dedo",
+    "força?"
+   ]
+  },
+  {
+   "fala": "Ela abraçou ele no meio da UTI, de madrugada. Os dois chorando baixinho pra não acordar os bebês.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O LEITO QUATRO"
+   ],
+   "destaque": [
+    "acordar",
+    "bebês."
+   ]
+  },
+  {
+   "fala": "Ela disse: eu sempre disse que você ia sobreviver. Mas não imaginei que ia sobreviver pra cuidar dos meus bebês.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você sobreviveu pra cuidar."
+   ],
+   "destaque": [
+    "meus",
+    "bebês."
+   ]
+  },
+  {
+   "fala": "Ele me contou que ela tirou do armário uma foto antiga. Um bebê minúsculo com um gorro de lã. Ela guardava foto de todos que passaram por ela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "todos",
+    "passaram"
+   ]
+  },
+  {
+   "fala": "Deixei ele em casa de manhã. Ele disse: amanhã eu vou cantar pro bebê do leito quatro. A mesma música.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mesma",
+    "música."
+   ]
+  },
+  {
+   "fala": "Moral da história: o cuidado que a gente recebe pequeno vira o cuidado que a gente dá grande.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CUIDA"
+   ],
+   "destaque": [
+    "dá",
+    "grande."
+   ]
+  },
+  {
+   "fala": "E se você tem uma enfermeira, um médico, uma parteira na sua história, procura. Agradece. Eles guardam a sua foto.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "NOVECENTOS GRAMAS"
+   ],
+   "destaque": [
+    "sua",
+    "foto."
+   ]
+  }
+ ]
+}

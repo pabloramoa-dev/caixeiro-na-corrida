@@ -1,0 +1,264 @@
+{
+ "id": "cx166",
+ "ep": 166,
+ "avulso": true,
+ "titulo": "A FLOR DO DIA",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🌹 Todo dia, um jardineiro deixava uma flor na porta de uma floricultura. Pra dona da floricultura. Durante um ano. Ela nunca soube quem era.\n\nQual foi o gesto romântico mais simples que você já recebeu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #flores #romance #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌹 Todo dia, um jardineiro deixava uma flor na porta de uma floricultura. Pra dona da floricultura. Durante um ano. Ela nunca soube quem era. Qual foi o gesto romântico mais simples que você já recebeu? 👇\nHistória de ficção.\n#amor #flores #romance #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma flor pra quem vende flores.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "vende",
+    "flores."
+   ]
+  },
+  {
+   "fala": "Sexta, seis da tarde. Entrou um homem de uns quarenta anos, mãos sujas de terra, botina, e uma única flor na mão. Uma flor do campo, simples, amarela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 18H"
+   ],
+   "destaque": [
+    "simples,",
+    "amarela."
+   ]
+  },
+  {
+   "fala": "Pediu: floricultura da praça central, por favor. Eu achei engraçado: o senhor vai comprar flor com uma flor na mão?",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Floricultura da praça."
+   ],
+   "destaque": [
+    "flor",
+    "mão?"
+   ]
+  },
+  {
+   "fala": "Ele riu: não. Vou dar a última. Trezentos e sessenta e cinco dias. Hoje é a última flor.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou dar a última."
+   ],
+   "destaque": [
+    "última",
+    "flor."
+   ]
+  },
+  {
+   "fala": "Seu Roberto. Jardineiro de praça da prefeitura. Cuidava dos canteiros do centro havia quinze anos. E a floricultura ficava em frente ao canteiro dele.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ROBERTO JARDINEIRO"
+   ],
+   "destaque": [
+    "canteiro",
+    "dele."
+   ]
+  },
+  {
+   "fala": "A dona da floricultura, dona Celina. Uma mulher de uns quarenta anos que abria a loja às seis da manhã, cantando, arrumando os vasos na calçada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "vasos",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Disse: ela vende flor pra todo mundo. Pra namorado, pra aniversário, pra velório. E eu pensei: quem dá flor pra ela?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela vende flor pra todo mundo."
+   ],
+   "destaque": [
+    "dá",
+    "flor"
+   ]
+  },
+  {
+   "fala": "Então, um ano antes, ele começou. Todo dia, antes dela chegar, deixava uma flor na porta da floricultura. Das que ele plantava nos canteiros. Sem bilhete.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A FLOR DA PORTA"
+   ],
+   "destaque": [
+    "Sem",
+    "bilhete."
+   ]
+  },
+  {
+   "fala": "Disse que ela achava a flor e olhava pros lados. Perguntava pros vizinhos. Desconfiava do padeiro. Do carteiro. Nunca dele.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Nunca",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Perguntei: e ela nunca descobriu? Ele: nunca. Eu fico no canteiro de costas, mexendo na terra, fingindo que nem vejo ela.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Ela nunca descobriu?"
+   ],
+   "destaque": [
+    "nem",
+    "vejo"
+   ]
+  },
+  {
+   "fala": "Mas naquele dia, ia contar. Com a última flor. A de número trezentos e sessenta e cinco. Disse que se ela não quisesse nada, pelo menos ela ia saber.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "saber."
+   ]
+  },
+  {
+   "fala": "Chegamos na praça. A floricultura fechando. Ela recolhendo os vasos da calçada. Ele desceu com a flor amarela na mão. Tremendo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "mão.",
+    "Tremendo."
+   ]
+  },
+  {
+   "fala": "Eu fiquei no carro. Mas dava pra ver tudo pelo vidro. A praça pequena. Os dois na calçada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Ele estendeu a flor. Ela olhou a flor. Olhou pra ele. E em vez de pegar, entrou na loja e voltou com uma caixa.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "voltou",
+    "caixa."
+   ]
+  },
+  {
+   "fala": "Uma caixa de madeira. Cheia de flores secas. Prensadas entre folhas de papel. Trezentas e sessenta e quatro. Ela guardou todas.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A CAIXA DE FLORES SECAS"
+   ],
+   "destaque": [
+    "guardou",
+    "todas."
+   ]
+  },
+  {
+   "fala": "Ela disse: eu sabia que era você. Desde a terceira semana. As flores eram do seu canteiro. As mesmas.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu sabia que era você."
+   ],
+   "destaque": [
+    "canteiro.",
+    "mesmas."
+   ]
+  },
+  {
+   "fala": "Ele ficou parado. Disse: e por que você nunca falou nada? Ela riu: porque eu queria ver até quando você ia ter coragem.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ter",
+    "coragem."
+   ]
+  },
+  {
+   "fala": "Ela pegou a última flor. A de número trezentos e sessenta e cinco. E prensou dentro da caixa ali mesmo. Fechou a tampa.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "TREZENTOS E SESSENTA E CINCO"
+   ],
+   "destaque": [
+    "Fechou",
+    "tampa."
+   ]
+  },
+  {
+   "fala": "Aí ela foi até um balde na calçada, pegou uma rosa vermelha, das mais bonitas da loja, e entregou pra ele. Disse: agora é minha vez. Um ano de rosa pra você.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Agora é minha vez."
+   ],
+   "destaque": [
+    "rosa",
+    "você."
+   ]
+  },
+  {
+   "fala": "Um jardineiro de botina, com uma rosa vermelha na mão, no meio da praça, rindo igual menino.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Eu fui embora sozinho. Ele não precisou mais de carro. Os dois saíram andando pela praça. Ela levando a caixa. Ele levando a rosa.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "levando",
+    "rosa."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes, quem cuida da alegria dos outros está esperando alguém que cuide da dele.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DÁ FLOR PRA QUEM DÁ FLOR"
+   ],
+   "destaque": [
+    "cuide",
+    "dele."
+   ]
+  },
+  {
+   "fala": "E se você conhece alguém que vive cuidando dos outros, leva uma flor pra ele hoje. Sem bilhete, se quiser.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FLOR DO DIA"
+   ],
+   "destaque": [
+    "bilhete,",
+    "quiser."
+   ]
+  }
+ ]
+}
