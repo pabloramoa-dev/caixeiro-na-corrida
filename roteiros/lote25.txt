@@ -1,0 +1,256 @@
+## 265 | O NARRADOR MIRIM | futebol | dia
+G: 🎙️ Um menino de 10 anos narrava todos os jogos da TV na sala, imitando os narradores. Naquele domingo, ele ia narrar um jogo de verdade. Na rádio.
+P: Você imitava narrador de futebol quando era criança?
+H: #futebol #narrador #crianca
+neutra | titulo | Sobe aí, que essa corrida teve narração ao vivo do banco de trás. Do começo ao fim.
+neutra | relogio: DOMINGO · 14H | Domingo, duas da tarde. Entraram um pai e um menino de dez anos de camisa social, cabelo penteado com gel e um microfone de brinquedo na mão.
+rindo | conversa: E sai o carro prata! | Mal o carro andou, o menino gritou no microfone: e sai o carro prata pela avenida principal! Motorista experiente! Olha a seta! Que categoria!
+rindo | carimbo: O NARRADOR DA SALA | O pai, rindo, explicou: ele narra tudo. Jogo na televisão, ele tira o som e narra. Almoço de domingo, ele narra. Até banho do cachorro ele narra.
+neutra | - | Chama-se Enzo. Desde os seis anos, imitava os narradores. Sabia o bordão de todos. Gravava áudio no celular da mãe e mandava pros tios.
+neutra | carimbo: O CONCURSO | Uma rádio da cidade fez um concurso: narrador mirim. A criança vencedora ia narrar um tempo de um jogo de verdade. O Enzo mandou um áudio. Ganhou.
+rindo | conversa: E entra na rotatória! | Ele continuou narrando a corrida: e entra na rotatória! Vai pela direita! O motorista confia no GPS! Será que ele vai acertar? Acertou!
+rindo | - | Eu ria tanto que errei a saída da rotatória. Ele narrou: errou! O motorista errou! Mas recupera no retorno! Que talento!
+neutra | - | O pai contou que o Enzo era tímido na escola. Não falava em sala de aula. Mas com o microfone na mão, virava outro.
+neutra | mapa | Chegamos no estádio. Jogo do campeonato estadual. A cabine de rádio lá no alto. O Enzo subiu a escada com o pai. Tremendo.
+neutra | - | O pai me deu um ingresso. Disse que tinha ganhado dois da rádio e a mãe não pôde ir. Eu fiquei. Com um radinho no ouvido, na arquibancada.
+neutra | relogio: SEGUNDO TEMPO | No segundo tempo, o narrador oficial anunciou: e agora, com vocês, o vencedor do concurso narrador mirim. Enzo, dez anos.
+chocada | manchete: A VOZ DO ENZO | E a voz do Enzo entrou no rádio. Tremendo no começo. Depois firme. Bola com o camisa oito. Toca pro lado. Vai pela ponta.
+chocada | - | Eu olhava a arquibancada. As pessoas com radinho no ouvido, sorrindo. Um senhor do meu lado disse: quem é esse menino? Narra melhor que muito profissional.
+chocada | relogio: 38 DO SEGUNDO TEMPO | Aos trinta e oito minutos, um contra-ataque. O atacante saiu na cara do gol. E o Enzo foi junto, no microfone.
+chocada | manchete: GOOOOL | Gol! Goool! Gooooooool! Um grito de dez anos, comprido, sem fôlego no fim. O estádio inteiro comemorando o gol. E metade comemorando o grito.
+rindo | carimbo: O BORDÃO | E aí ele soltou um bordão próprio, que ninguém conhecia: é do time, é da gente, é do bairro inteiro! O narrador oficial riu no microfone.
+triste | - | No final do jogo, o narrador oficial disse no ar: esse menino tem futuro. Se depender de mim, daqui a dez anos ele tá aqui no meu lugar.
+triste | coracao: O TÍMIDO DA SALA | O pai me contou na volta: na segunda, a professora pediu pro Enzo apresentar um trabalho. Ele foi pra frente da sala. Sem medo. Pela primeira vez.
+neutra | carro | E na volta pra casa, ele narrou a corrida inteira de novo. Até o meu estacionamento na porta da casa dele. Com bordão no final.
+neutra | manchete_v: SOLTA A VOZ | Moral da história: tem criança tímida que só precisa do microfone certo pra mostrar quem é.
+rindo | coracao: NARRADOR ENZO | E se uma criança da sua casa narra tudo, deixa. Grava. Pode ser a voz do futuro do seu time.
+
+## 266 | O BOLO DO ANIVERSÁRIO DELA | amor | noite
+G: 🎂 Viúvo há três anos, ele ainda comprava o bolo de aniversário da esposa todo ano. Esse ano, a confeiteira tinha uma surpresa pra ele.
+P: Qual tradição você mantém por alguém que já partiu?
+H: #amor #saudade #aniversario
+neutra | titulo | Sobe aí, que essa corrida levou um bolo que ninguém ia comer. E acabou sendo dividido com a rua inteira.
+neutra | relogio: QUINTA · 18H | Quinta, seis da tarde. Entrou um senhor de setenta e cinco anos com uma caixa de bolo na mão. Segurava com cuidado, como se fosse de vidro.
+neutra | conversa: Hoje é aniversário dela. | Disse: hoje é aniversário da minha esposa. Setenta e três anos. Eu perguntei se ia ter festa. Ele ficou quieto. Depois disse: ela faleceu há três anos.
+triste | carimbo: O BOLO DE NOZES | Seu Manoel. Todo ano, no aniversário da dona Rita, compra o bolo preferido dela. Bolo de nozes com doce de leite. Na mesma confeitaria. Desde mil novecentos e setenta.
+triste | conversa: Eu canto parabéns sozinho. | Disse: eu levo pra casa, acendo uma vela, canto parabéns sozinho. Depois como um pedaço. O resto eu não consigo. Fica na geladeira até estragar.
+neutra | - | Os filhos moravam longe. Achavam aquilo triste. Pediam pra ele parar. Ele dizia: parar como? É o aniversário dela.
+neutra | - | No caminho, ele contou que a confeiteira era a mesma havia cinquenta anos. Dona Zuleide. Que fez o bolo do casamento deles. E todos os aniversários depois.
+desconfiada | carimbo: UM BILHETE NA CAIXA | Aí ele reparou num bilhete preso na tampa da caixa. Não tinha visto antes. Pediu pra eu ler, porque estava sem óculos.
+triste | manchete: O BILHETE DA CONFEITEIRA | Eu li: seu Manoel, esse ano o senhor não vai comer sozinho. Vire a esquina da sua rua às sete. Assinado: Zuleide.
+desconfiada | - | Ele ficou confuso. Disse: o que essa mulher aprontou? Eu também fiquei curioso. Disse: vou levar o senhor e esperar pra ver.
+neutra | mapa | Chegamos na rua dele às sete em ponto. Viramos a esquina. E a rua estava diferente. Luzinha pendurada nos postes. Mesas na calçada.
+chocada | - | E pessoas. Os vizinhos. Uns trinta. Com pratinhos na mão. E no meio, a dona Zuleide, a confeiteira, de avental. Com outro bolo. Gigante.
+chocada | carimbo: O ANIVERSÁRIO DA DONA RITA | Uma faixa entre dois postes: feliz aniversário, dona Rita. A rua inteira lembrou. A rua que ela ajudou durante cinquenta anos.
+triste | conversa: Ela cuidou de todo mundo. | A dona Zuleide explicou: a dona Rita cuidou de todo mundo dessa rua. Fez sopa pra quem tava doente. Costurou roupa de batizado. Ela merecia uma festa.
+triste | - | Os vizinhos foram contando. Uma senhora contou que a dona Rita levou ela pro hospital de madrugada. Um rapaz contou que ela ensinou ele a ler.
+triste | coracao: PARABÉNS PRA RITA | E aí cantaram parabéns. A rua inteira. Pra uma pessoa que não estava. Mas estava em todo mundo. O seu Manoel cantou mais alto que todos.
+rindo | - | Ele abriu o bolo de nozes dele. E o de doce de leite da dona Zuleide. E serviu pra rua inteira. Dessa vez, não sobrou nada.
+neutra | carro | Eu fiquei pra um pedaço. E na saída, o seu Manoel me disse: três anos comendo sozinho. Eu achava que só eu lembrava dela.
+neutra | manchete_v: LEMBRA JUNTO | Moral da história: a saudade dividida pesa menos. E o bolo acaba.
+rindo | coracao: DONA RITA | E se você conhece alguém que mantém uma tradição sozinho, junta-se a ele. Ninguém deveria cantar parabéns sozinho.
+
+## 267 | O AVÔ QUE VIROU MEME | humor | dia
+G: 📸 O neto postou uma foto do avô fazendo uma careta. Viralizou. O avô de 82 anos virou figurinha de WhatsApp no Brasil inteiro. E não sabia.
+P: Alguém da sua família já viralizou na internet?
+H: #meme #avo #humor
+neutra | titulo | Sobe aí, que essa corrida levou a figurinha de WhatsApp mais famosa do país. E ele nem sabia o que era figurinha.
+neutra | relogio: TERÇA · 10H | Terça, dez da manhã. Entrou um senhor de oitenta e dois anos, boina, bengala e uma cara muito séria. Pediu pra ir no banco.
+desconfiada | - | Eu olhei pra ele. E reconheci. Aquela cara. Eu já tinha visto. Muitas vezes. No meu celular. No grupo da família. No grupo dos motoristas.
+chocada | conversa: O senhor é o da figurinha? | Eu perguntei, sem conseguir segurar: o senhor é o da figurinha? Ele me olhou confuso: que figurinha? De álbum da Copa?
+chocada | manchete: A FIGURINHA FAMOSA | Era ele. A figurinha mais usada do país. Um senhor de boina fazendo uma careta de desconfiado, com uma sobrancelha levantada. Todo mundo usava.
+rindo | carimbo: SEU HONÓRIO | Seu Honório. Eu mostrei no meu celular. Ele olhou. Tirou o óculos. Olhou de novo. E disse: mas esse sou eu! Quem tirou isso?
+rindo | conversa: Foi o meu neto. | Aí lembrou: foi o meu neto. No almoço de domingo. Eu tava desconfiado do pudim que ele fez. Ele tirou foto e eu nem vi.
+rindo | - | O neto postou com a legenda: meu avô quando eu digo que fiz o pudim sozinho. Em uma semana, milhões de compartilhamentos. Virou figurinha.
+neutra | - | Eu contei que a figurinha estava em todo lugar. Em grupo de família, de trabalho, de igreja. Que tinha versão com chapéu de Papai Noel. Com óculos escuros.
+chocada | conversa: Com óculos escuros? | Ele ficou chocado: com óculos escuros? Me mostra. Eu mostrei. Ele ficou um tempão olhando. E começou a rir. Rir muito.
+neutra | mapa | Chegamos no banco. Ele desceu. E na fila do banco, uma moça olhou pra ele. E outra. E outra. Começaram a cochichar.
+chocada | - | Uma menina de uns quinze anos chegou perto e perguntou: o senhor é o vovô da figurinha? Posso tirar uma foto? Ele não sabia o que fazer.
+rindo | carimbo: A FILA DO BANCO | Em cinco minutos, a fila do banco virou fila de foto. Ele fazendo a careta original. A sobrancelha levantada. O banco inteiro rindo.
+rindo | - | O gerente saiu da sala. Também pediu foto. Disse: eu uso a sua figurinha com a minha esposa todo dia. Obrigado, seu Honório.
+triste | conversa: Eu achava que ninguém me via. | Na volta, ele ficou quieto um pouco. Depois disse: eu achava que velho era invisível. Ninguém olha. Hoje todo mundo me olhou.
+triste | coracao: O VÔ FAMOSO | E disse que ia ligar pro neto. Não pra brigar. Pra pedir que ele postasse mais. Disse: eu tenho outras caras. Muito melhores.
+neutra | carro | Uma semana depois, o neto criou um perfil pro avô. Com caretas novas. Hoje tem duzentos mil seguidores. E o seu Honório responde comentário com a sobrancelha.
+neutra | manchete_v: OLHA PROS MAIS VELHOS | Moral da história: os mais velhos não são invisíveis. A gente que esquece de olhar. Até eles virarem figurinha.
+rindo | coracao: SEU HONÓRIO | E se você usa a figurinha de algum vovô, manda um coração pro avô de verdade da sua família hoje.
+
+## 268 | O BOMBEIRO DE SETENTA | superacao | noite
+G: 🚒 Aposentado há 15 anos, ele é bombeiro voluntário da cidadezinha. Aos 70 anos. Naquela noite, uma ligação no meio da corrida.
+P: Quem é o herói voluntário da sua cidade?
+H: #bombeiro #voluntario #superacao
+neutra | titulo | Sobe aí, que essa corrida foi interrompida por uma emergência. E o passageiro resolveu.
+neutra | relogio: SÁBADO · 21H | Sábado, nove da noite. Peguei um senhor de setenta anos numa festa de aniversário. Camisa social, sapato. Ia pra casa, numa cidadezinha vizinha.
+neutra | conversa: Sou bombeiro voluntário. | No caminho, contou: sou bombeiro voluntário da cidade. Aposentado do exército. Faz quinze anos que eu atendo emergência lá.
+neutra | carimbo: SEU AURÉLIO | Seu Aurélio. A cidade dele tem doze mil habitantes. O quartel de bombeiro mais perto fica a quarenta minutos. Então ele e mais dez voluntários fazem o primeiro atendimento.
+rindo | conversa: Meu rádio nunca desliga. | Mostrou um rádio na cintura: meu rádio nunca desliga. Nem dormindo. Nem na festa de aniversário. Minha mulher já desistiu.
+neutra | - | Contou que já tirou gente de enchente. Apagou incêndio em casa de madeira. Resgatou vaca de buraco. E ajudou três partos na estrada.
+neutra | carimbo: O RÁDIO TOCOU | Aí o rádio na cintura dele chiou. Uma voz: ocorrência na estrada vicinal, quilômetro oito. Carro capotado. Uma vítima presa. Quem está perto?
+chocada | - | Ele olhou o GPS do meu celular. Disse: quilômetro oito. A gente tá no quilômetro cinco. Moço, me leva lá? Eu fiz o retorno sem pensar.
+neutra | mapa | Chegamos em três minutos. Um carro capotado no acostamento. Escuro. Uma moça presa no banco do motorista. Consciente, assustada.
+chocada | manchete: ELE ENTROU EM AÇÃO | O seu Aurélio desceu. De camisa social e sapato. Tirou a camisa, ficou de camiseta. Pediu a lanterna do meu carro. E foi.
+neutra | - | Falou com a moça com calma. Perguntou o nome. Disse que ela ia ficar bem. Verificou se tinha vazamento. Pediu pra eu ligar pros bombeiros oficiais.
+triste | carimbo: A MOÇA PRESA | A moça chorando. Disse que estava voltando do trabalho. Que tem uma filha de três anos esperando em casa. O seu Aurélio segurou a mão dela pela janela quebrada.
+triste | conversa: Ninguém vai embora daqui. | Ele disse: ninguém vai embora daqui sem você. Eu tô aqui. Me conta da sua filha. Como ela chama?
+neutra | - | Ela falou da filha. Do nome, da boneca preferida, da música que ela canta. E foi se acalmando. Ele não soltou a mão dela nem um segundo.
+neutra | relogio: 25 MINUTOS | Vinte e cinco minutos. Os outros voluntários chegaram. Depois a ambulância. Depois os bombeiros oficiais. Cortaram a porta. Tiraram ela.
+triste | coracao: ELA FICOU BEM | Ela saiu com escoriações. Nada grave. Antes de entrar na ambulância, ela pediu pra falar com o seu Aurélio. E disse: obrigada por não soltar a minha mão.
+neutra | - | O comandante dos bombeiros, quando chegou, disse: Aurélio, de novo você? Setenta anos e ainda o primeiro a chegar. O seu Aurélio riu: alguém tem que ser.
+neutra | carro | Eu levei ele pra casa depois. Sujo, de camiseta, sem a camisa social, que ficou rasgada. Ele disse: amanhã eu explico pra minha mulher por que a camisa nova acabou.
+neutra | manchete_v: SEGURA A MÃO | Moral da história: o herói nem sempre tem farda nova. Às vezes é um senhor de setenta anos de sapato social segurando a sua mão.
+rindo | coracao: SEU AURÉLIO | E se a sua cidade tem bombeiro voluntário, agradece. E se puder, ajuda. Eles tiram a camisa pela gente.
+
+## 269 | O LEITOR DE JORNAL | curiosa | dia
+G: 📰 Todo dia às 7h, ele lê o jornal em voz alta numa rádio comunitária. Pros ouvintes que não enxergam. Há 25 anos. Um dia, ele perdeu a voz.
+P: Você conhece alguém que lê para quem não pode ler?
+H: #radio #leitura #inclusao
+neutra | titulo | Sobe aí, que essa corrida levou a voz que lê o jornal pra quem não enxerga. E o dia em que ela falhou.
+neutra | relogio: SEGUNDA · 6H30 | Segunda, seis e meia da manhã. Entrou um senhor de setenta anos com um jornal debaixo do braço e um cachecol enrolado no pescoço. Rouco.
+neutra | conversa: Rádio comunitária. | Disse, quase sem voz: rádio comunitária do bairro, por favor. Eu leio o jornal às sete. Eu disse: com essa voz? Ele fez que sim.
+neutra | carimbo: SEU GERALDO DO JORNAL | Seu Geraldo. Professor aposentado. Há vinte e cinco anos, todo dia às sete, lê o jornal inteiro na rádio comunitária. Pros ouvintes cegos e com baixa visão.
+triste | conversa: Eles dependem de mim. | Disse com esforço: eles dependem de mim. Tem gente que só sabe das notícias por mim. Tem senhora que acorda e liga o rádio só pra ouvir a minha voz.
+neutra | - | Começou quando a mãe dele perdeu a visão. Ele lia o jornal pra ela todo dia. Quando ela faleceu, ele pensou: quantas outras mães não têm quem leia?
+neutra | - | Mas naquela segunda, estava com uma gripe forte. A voz sumindo. E não tinha ninguém pra substituir. Nunca teve.
+neutra | mapa | Chegamos na rádio. Uma salinha nos fundos de uma igreja. Um microfone, uma mesa, um banquinho. Ele sentou. Tentou ler a primeira notícia.
+triste | - | Saiu um fio de voz. Rouco, falhando. Ele tentou de novo. Pior. Ficou parado, olhando o jornal, com o microfone ligado. No ar.
+chocada | carimbo: O SILÊNCIO NO AR | Silêncio na rádio. Dez segundos. Vinte. Os ouvintes do outro lado sem entender. Eu fiquei olhando ele pela porta.
+neutra | - | Ele me olhou. Fez um sinal com a mão. Me chamou. E apontou pro jornal. Depois pro microfone. Depois pra mim.
+chocada | conversa: Eu? Ler no rádio? | Eu falei baixinho: eu? Ler no rádio? Ele fez que sim. Escreveu num papel: por favor. Eles estão esperando.
+chocada | manchete: O MOTORISTA NO AR | Eu sentei. Peguei o jornal. Tremendo. E li. Bom dia, ouvintes. Hoje o seu Geraldo está sem voz. Eu sou o Caixeiro, o motorista dele. Vou ler pra vocês.
+neutra | - | Li a primeira página. Política, economia, tempo. Gaguejei. Errei nome de ministro. Ele do lado, corrigindo com o dedo no papel.
+rindo | carimbo: O TELEFONE TOCOU | Aí o telefone da rádio tocou. Era uma ouvinte. Uma senhora cega. Disse: moço, lê mais devagar. E lê o horóscopo de leão primeiro. É o meu.
+rindo | - | Eu li o horóscopo de leão. Depois de todos os signos. Depois a novela. Depois o resultado do futebol. Os ouvintes ligando, pedindo coisa.
+triste | coracao: OS OUVINTES LIGARAM | No final, uma senhora ligou e disse no ar: seu Geraldo, melhora logo. A gente gosta da sua voz. Mas o motorista também lê bonito.
+neutra | - | O seu Geraldo chorou do meu lado. E escreveu no papel: vinte e cinco anos e eu nunca tive um substituto. Agora eu tenho.
+neutra | carro | Eu fui lá a semana inteira. Às sete. Enquanto ele se recuperava. E hoje, uma vez por mês, eu leio no lugar dele. Pra ele descansar.
+neutra | manchete_v: EMPRESTA A VOZ | Moral da história: às vezes a gente é a voz de alguém que não pode ver. E às vezes alguém tem que ser a nossa voz.
+rindo | coracao: SEU GERALDO | E se você conhece alguém que não enxerga, lê alguma coisa pra ele hoje. Uma notícia, uma receita. Ele vai lembrar.
+
+## 270 | A ÁRVORE GENEALÓGICA | familia | noite
+G: 🌳 Ela passou dois anos montando a árvore genealógica da família. Descobriu 200 parentes que ninguém conhecia. E organizou um almoço pra todos.
+P: Você conhece a história dos seus bisavós?
+H: #familia #arvoregenealogica #raizes
+neutra | titulo | Sobe aí, que essa corrida levou uma família inteira que não se conhecia. Em várias viagens.
+neutra | relogio: DOMINGO · 10H | Domingo, dez da manhã. Entrou uma mulher de uns cinquenta anos com um rolo de papel enorme debaixo do braço. E uma pasta cheia de foto antiga.
+rindo | conversa: É a árvore da família. | Disse: é a árvore genealógica da família. Dois anos montando. Hoje é o grande encontro. Eu perguntei: quantas pessoas? Ela: duzentas e quarenta.
+neutra | carimbo: DONA ROSÂNGELA | O nome dela também era Rosângela. Eu ri. Ela também. Disse que é professora de história. E que começou a pesquisar depois que o pai faleceu.
+triste | conversa: Eu não sabia nada. | Disse: eu não sabia nada da família dele. Ele nunca falava. Disse que o avô veio do interior e brigou com todo mundo. Ninguém mais se falou.
+neutra | - | Ela foi atrás. Cartório, igreja, cemitério, internet. Achou o bisavô. Os irmãos do bisavô. Os filhos dos irmãos. E os filhos dos filhos.
+rindo | conversa: Achei primo em todo lugar. | Riu: achei primo em todo lugar. Um primo é padre. Outra prima é jogadora de vôlei. Um primo mora a duas ruas da minha casa. A gente se cumprimentava na padaria.
+neutra | - | E descobriu a briga. Em mil novecentos e quarenta, dois irmãos brigaram por causa de um terreno. A família rachou. Oitenta anos sem se falar.
+neutra | mapa | Chegamos num sítio grande. Mesas compridas no gramado. Churrasqueira acesa. E gente chegando. De carro, de ônibus, de van. De vários estados.
+neutra | - | Ela me pediu pra ajudar com o rolo de papel. Pendurei com ela numa parede da varanda. Cinco metros de árvore. Com foto, nome e data.
+chocada | manchete: DUZENTOS E QUARENTA | As pessoas foram chegando e procurando o próprio nome na árvore. Apontando. Achando o avô, o bisavô. Descobrindo que o vizinho de mesa era primo.
+rindo | - | Um senhor de oitenta anos achou o nome do pai dele. E do lado, o nome de um irmão que ele nem sabia que existia. Que estava ali, na mesa ao lado. Com oitenta e dois.
+triste | carimbo: OS DOIS IRMÃOS | Os dois se olharam. A mesma cara. O mesmo nariz. O mesmo jeito de segurar o copo. Irmãos por parte de pai. Separados pela briga de mil novecentos e quarenta.
+triste | - | Ficaram se olhando um tempão. Depois um disse: você tem o nariz do papai. O outro respondeu: e você tem a teimosia dele. E se abraçaram.
+neutra | carimbo: O TERRENO | Aí a Rosângela contou a história da briga. O terreno de mil novecentos e quarenta. E disse: eu fui ver esse terreno. Hoje é uma escola.
+triste | coracao: OITENTA ANOS DEPOIS | E disse no microfone: oitenta anos de família separada por um terreno que nem é mais de ninguém. Hoje a gente acaba com isso.
+rindo | - | Duzentas e quarenta pessoas aplaudiram. E tiraram uma foto. Todo mundo junto. Na frente da árvore. Precisou de um drone.
+neutra | carro | Eu fiz quatro viagens naquele dia. Levando primo que ia embora. Cada um contando a descoberta no meu banco. A melhor foi uma senhora que descobriu que era tia do padre.
+neutra | manchete_v: CONHECE A SUA HISTÓRIA | Moral da história: toda família tem uma briga antiga. E toda briga antiga tem um primo esperando na mesa do lado.
+rindo | coracao: DUZENTOS E QUARENTA | E se você não conhece a história dos seus bisavós, pergunta pros mais velhos. Enquanto dá. Pode ter um irmão perdido aí.
+
+## 271 | O PESCADOR QUE DEVOLVIA | reflexao | dia
+G: 🎣 Ele pesca há 60 anos. Todo dia. E devolve tudo pro rio. Perguntei por quê. A resposta me fez pensar a semana inteira.
+P: O que você faz só pelo prazer, sem esperar nada em troca?
+H: #reflexao #pescaria #vida
+neutra | titulo | Sobe aí, que essa corrida levou um pescador que nunca levou um peixe pra casa.
+neutra | relogio: DOMINGO · 5H | Domingo, cinco da manhã. Entrou um senhor de setenta e oito anos, chapéu de pescador, vara de bambu e uma caixa de isca. Pediu pra ir no rio.
+neutra | conversa: Vou pescar. | Disse: vou pescar. Todo domingo, faz sessenta anos. Eu perguntei: e pega muito? Ele riu: pego. E devolvo tudo.
+desconfiada | carimbo: DEVOLVE TUDO | Seu Ezequiel. Disse que nunca levou um peixe pra casa. Nenhum. Em sessenta anos. Pesca, olha, agradece e devolve.
+desconfiada | conversa: Por que pesca então? | Eu não entendi. Perguntei: e por que o senhor pesca, se não leva? Ele ficou quieto um tempo. Olhando a estrada clarear.
+neutra | - | Disse: quando eu era menino, eu pescava pra comer. A minha família passava fome. Cada peixe era o almoço. Eu pescava com raiva.
+triste | conversa: Meu pai pescava comigo. | Contou: o meu pai pescava comigo. E um dia, eu peguei um peixe enorme. O maior da minha vida. E o meu pai disse: devolve.
+triste | - | Eu chorei, briguei. A gente tava com fome. Mas o meu pai disse: esse aí é pai de muitos. Se a gente levar, ano que vem não tem peixe pra ninguém.
+neutra | carimbo: O PEIXE GRANDE | Ele devolveu. Contra a vontade. E o pai disse: um dia você vai entender. Ele faleceu no ano seguinte. O seu Ezequiel tinha doze anos.
+neutra | mapa | Chegamos no rio. Neblina na água, passarinho cantando, um barco velho amarrado no barranco. Ele me convidou pra ficar. Disse que café de pescador é diferente.
+neutra | - | Eu fiquei. Sentei num tronco do lado dele. Ele montou a vara. Jogou a linha. E ficou olhando a água. Sem pressa.
+neutra | relogio: 40 MINUTOS | Quarenta minutos. Nada. Eu já estava ficando impaciente. Ele tranquilo, tomando café. Disse: a pressa espanta o peixe. E a vida também.
+chocada | manchete: O PEIXE | Aí a linha puxou. Ele levantou devagar. Brigou com o peixe uns cinco minutos. E tirou da água um peixe enorme. Brilhando no sol que nascia.
+neutra | - | Ele segurou o peixe com cuidado. Olhou. Mostrou pra mim. E aí se abaixou no barranco e colocou de volta na água.
+triste | conversa: Eu entendi. | Eu perguntei: e então, entendeu o que o seu pai quis dizer? Ele disse: entendi. Levei uns trinta anos. Mas entendi.
+triste | carimbo: O QUE ELE ENTENDEU | Disse: a gente não pode levar tudo. Tem coisa que é pra olhar, agradecer e deixar ir. Senão não sobra pra quem vem depois.
+triste | coracao: DEIXA IR | E completou: eu pesco pra lembrar disso. Toda semana. Pra não esquecer que nem tudo que é bonito precisa ser meu.
+neutra | - | Ficamos ali mais um tempo. Ele pescou mais dois. Devolveu os dois. Eu tomei o café de pescador. Era forte, doce e tinha gosto de manhã.
+neutra | carro | Eu fui embora pensando em quanta coisa eu tento segurar. Gente, momento, dinheiro. E em quanta coisa eu deveria olhar, agradecer e deixar ir.
+neutra | manchete_v: OLHA E DEIXA IR | Moral da história: nem tudo que a gente pega é pra levar. Tem coisa que é só pra agradecer.
+rindo | coracao: SEU EZEQUIEL | E se você tá segurando alguma coisa com força demais, respira. Às vezes soltar é o que faz sobrar pro amanhã.
+
+## 272 | A FAXINEIRA E A ADVOGADA | amizade | noite
+G: 🛗 Toda noite, às 22h, as duas desciam no mesmo elevador do prédio comercial. Uma limpava, a outra fazia hora extra. Viraram melhores amigas. Sem saber o sobrenome uma da outra.
+P: Você tem um amigo que conheceu no trabalho e virou família?
+H: #amizade #trabalho #mulheres
+neutra | titulo | Sobe aí, que essa corrida levou duas amigas que se conheceram no elevador. E nunca tinham se visto fora dele.
+neutra | relogio: SEXTA · 22H | Sexta, dez da noite. Peguei duas mulheres na porta de um prédio comercial. Uma de uniforme de limpeza, uns cinquenta anos. A outra de terninho, uns trinta e cinco.
+rindo | conversa: Hoje a gente vai jantar. | A de terninho disse: hoje a gente vai jantar. Fora do prédio. Pela primeira vez em cinco anos. A de uniforme riu: eu nem sei como ela é sem o crachá.
+neutra | carimbo: O ELEVADOR DAS DEZ | Dona Lucinéia, faxineira do prédio, turno da noite. E a doutora Fernanda, advogada, que fazia hora extra até tarde. Todo dia, às dez, desciam no mesmo elevador.
+rindo | - | Contaram que no começo era só boa noite. Depois comentário sobre o tempo. Depois sobre o cansaço. Depois sobre a vida.
+neutra | conversa: O elevador demorava. | A dona Lucinéia riu: o elevador demorava. Era antigo. Parava em todo andar. Dava tempo de contar a novela inteira.
+triste | carimbo: CINCO ANOS DE ELEVADOR | Cinco anos de conversa de elevador. Doze andares por noite. Uma conhecia os filhos da outra pelo nome. Sabia do divórcio, da doença, da promoção.
+triste | - | A doutora Fernanda contou: quando o meu pai faleceu, a primeira pessoa que me abraçou foi ela. No elevador. Às dez da noite. Antes da minha família.
+triste | - | A dona Lucinéia contou: quando o meu filho foi preso injustamente, foi ela que pegou o caso. De graça. E provou que ele era inocente.
+desconfiada | conversa: E nunca saíram juntas? | Eu perguntei: e vocês nunca saíram juntas? As duas se olharam. A doutora disse: nunca. A gente tinha a amizade do elevador. Achava que fora não ia dar certo.
+neutra | - | Mas naquela semana, o prédio anunciou: o elevador antigo ia ser trocado. Por um novo. Rápido. Que não parava em todo andar.
+rindo | conversa: Ia acabar a conversa. | A dona Lucinéia disse: aí eu pensei: com elevador rápido, acaba a nossa conversa. Doze andares em vinte segundos. Não dá nem pra dizer boa noite direito.
+neutra | mapa | Levei as duas num restaurante simples, de comida caseira. Escolha da dona Lucinéia. A doutora Fernanda nunca tinha ido. Disse que ia adorar.
+neutra | - | Elas me convidaram pra jantar junto. Disseram que eu também ia fazer parte da história. Eu aceitei. Era sexta. A Rosângela liberou.
+rindo | carimbo: O JANTAR | No jantar, elas descobriram coisas novas. Que as duas gostam de forró. Que as duas têm medo de barata. Que as duas fazem aniversário em março.
+chocada | manchete: O SOBRENOME | Aí, no meio do jantar, a doutora perguntou: Lucinéia, qual o seu sobrenome? A dona Lucinéia riu: cinco anos e você não sabe? Silva. E o seu? Ela: Silva também.
+rindo | - | As duas caíram na risada. Cinco anos. Mesmo sobrenome. E nunca perguntaram.
+triste | coracao: AMIZADE DE ELEVADOR | No final, a doutora disse: o elevador vai mudar. Mas a gente não. Toda sexta, jantar. A dona Lucinéia: e o forró é por minha conta.
+neutra | carro | Levei as duas pra casa. A dona Lucinéia primeiro. A doutora Fernanda depois. No caminho, ela me disse: a melhor amiga que eu tenho, eu conheci no elevador.
+neutra | manchete_v: PUXA CONVERSA | Moral da história: não importa o crachá. Gente boa se reconhece em doze andares.
+rindo | coracao: SILVA E SILVA | E se você vê a mesma pessoa todo dia no elevador, no ônibus, na fila, diz boa noite. Pode virar a melhor amiga da sua vida.
+
+## 273 | O RONCO DO PASSAGEIRO | humor | dia
+G: 😴 O passageiro dormiu no banco de trás. E roncou. Um ronco tão alto que o carro do lado achou que era o motor. E um guarda achou que era outra coisa.
+P: Quem ronca mais alto na sua família?
+H: #ronco #humor #sono
+neutra | titulo | Sobe aí, que essa corrida teve trilha sonora. Uma trilha de motosserra.
+neutra | relogio: SEGUNDA · 14H | Segunda, duas da tarde. Entrou um senhor de uns cinquenta e cinco anos, barrigudo, de terno, cara de muito cansado. Pediu pra ir pro aeroporto. Quarenta minutos.
+neutra | conversa: Posso cochilar? | Perguntou: posso dar um cochilo? Passei a noite numa reunião. Eu disse: claro. Durma à vontade. Eu não sabia o que estava autorizando.
+rindo | carimbo: O PRIMEIRO RONCO | Dois minutos depois, começou. Um ronco baixinho. Depois médio. Depois um ronco que fez o retrovisor tremer.
+rindo | - | Eu nunca ouvi nada parecido. Parecia um caminhão subindo serra. Parecia um leão com gripe. Parecia uma motosserra cortando um tronco.
+rindo | - | Liguei o rádio. Mais alto. O ronco era mais alto que o rádio. Aumentei mais. Ele roncou mais. Parecia que estava competindo.
+chocada | manchete: O CARRO DO LADO | No sinal, o carro do lado abriu a janela. O motorista disse: amigo, o seu motor tá batendo. Tá com problema na biela. Leva no mecânico.
+rindo | - | Eu apontei pro banco de trás. Ele olhou. Viu o senhor de terno, de boca aberta, roncando. E caiu na gargalhada. Fechou o vidro rindo.
+chocada | carimbo: A BLITZ | Aí, mais na frente, uma blitz de rotina. O guarda fez sinal. Eu parei. Baixei o vidro. E o ronco saiu pelo vidro. Alto.
+desconfiada | conversa: Tem algum animal aí? | O guarda olhou desconfiado e perguntou: tem algum animal no carro, motorista? Algum bicho? Eu disse: tem. Um executivo.
+rindo | - | O guarda olhou pro banco de trás. O homem roncando, gravata torta, babando no ombro. E o guarda começou a rir. Chamou o colega pra ver.
+rindo | carimbo: OS DOIS GUARDAS | Os dois guardas rindo. Um deles filmou. Disse: isso aqui é recorde. Ele ronca mais alto que a sirene da viatura.
+neutra | - | Liberaram a gente. Rindo. Um deles ainda disse: boa viagem pro senhor. E pro passageiro, um bom otorrino.
+neutra | mapa | Chegamos no aeroporto. Eu parei. Chamei: senhor, chegamos. Nada. Chamei mais alto. Nada. Toquei no ombro. Ele acordou num pulo.
+rindo | conversa: Eu cochilei? | Ele perguntou: eu cochilei? Eu disse: o senhor roncou quarenta minutos. Ele ficou vermelho. Disse: a minha mulher diz que eu ronco. Eu nunca acreditei.
+rindo | - | Eu mostrei o vídeo que o guarda me mandou. Ele assistiu. Ficou chocado. Disse: isso sou eu? Parece um trator.
+triste | conversa: Ela dorme na sala. | Aí ficou sério e disse: a minha mulher dorme na sala há cinco anos. Ela diz que é por causa da coluna. Acho que não é a coluna.
+triste | coracao: O PRESENTE | Antes de entrar no aeroporto, ele me disse: quando eu voltar, eu vou no médico. Faz cinco anos que a minha mulher pede. Eu achava que era exagero.
+neutra | carro | Um mês depois, ele me chamou de novo. Disse que fez o tratamento. Que a esposa voltou pro quarto. E que agora dorme os dois juntos. Em silêncio.
+neutra | manchete_v: ESCUTA QUEM RECLAMA | Moral da história: às vezes a gente precisa de um guarda e um vídeo pra acreditar no que a família fala há anos.
+rindo | coracao: O TRATOR | E se alguém da sua casa reclama do seu ronco, acredita. E vai no médico. A paz da família agradece.
+
+## 274 | A BORDADEIRA NO MUSEU | superacao | noite
+G: 🪡 Ela bordava toalha pra vender na feira por 20 reais. Uma curadora viu. Hoje, aos 71 anos, as toalhas dela estavam no museu de arte da capital.
+P: Qual arte da sua família merecia estar num museu?
+H: #bordado #arte #superacao
+neutra | titulo | Sobe aí, que essa corrida levou uma artista que não sabia que era artista.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Entrou uma senhora de setenta e um anos, vestido simples, cabelo preso com grampo, e uma sacola de feira. Com o neto do lado.
+rindo | conversa: Ela vai no museu. | O neto disse: a vó vai no museu. A inauguração da exposição dela. A senhora disse: exposição não, meu filho. São só os meus paninhos.
+neutra | carimbo: DONA ZULMIRA | Dona Zulmira. Bordadeira desde os oito anos. Aprendeu com a mãe, numa roça do interior. Bordava toalha, pano de prato, fronha. E vendia na feira.
+rindo | conversa: Vinte reais cada. | Disse: eu vendia a vinte reais cada. Às vezes dez, se a freguesa chorava. Cinquenta anos de feira.
+neutra | - | Mas os bordados dela não eram comuns. Ela bordava histórias. A roça da infância. O casamento dela. Os filhos nascendo. A cidade crescendo. Tudo em linha colorida.
+neutra | carimbo: A CURADORA | Um dia, uma moça parou na banca dela. Ficou meia hora olhando. Comprou tudo. Depois voltou e se apresentou: curadora de um museu de arte da capital.
+rindo | conversa: Eu achei que era golpe. | A dona Zulmira riu: eu achei que era golpe. Museu? Pra mim museu é coisa de quadro de gente morta. Eu sou viva e borda pano de prato.
+neutra | - | A curadora insistiu. Visitou a casa dela. Viu o quartinho cheio de bordados guardados. Cinquenta anos de histórias. E disse: isso é arte. Precisa ser visto.
+neutra | mapa | Chegamos no museu. Um prédio enorme, de colunas. Escadaria de mármore. Gente de roupa elegante na porta. Ela parou no primeiro degrau.
+triste | conversa: Eu não sou dessas coisas. | Disse pro neto: eu não sou dessas coisas, meu filho. Olha essa gente chique. Eu vim de chinelo. O neto segurou a mão dela: a senhora é a estrela, vó.
+neutra | - | Ela me pediu pra entrar junto. Disse que precisava de um rosto conhecido. Eu entrei. De camisa de motorista. Ninguém me barrou. Estavam todos olhando ela.
+chocada | manchete: A SALA DA DONA ZULMIRA | Uma sala inteira. Paredes brancas, iluminação de museu. E os bordados dela. Emoldurados. Com plaquinha. Cinquenta anos de vida pendurados como quadro.
+triste | - | Ela entrou devagar. Olhando cada um. Passando a mão perto, sem encostar. Como quem cumprimenta um velho amigo.
+triste | carimbo: O BORDADO DA MÃE | No meio da sala, o maior. Um bordado da mãe dela. Ensinando uma menina a bordar. Debaixo de uma mangueira. Ela tinha bordado aquilo aos vinte anos.
+triste | conversa: Essa é a minha mãe. | Ela parou na frente. E disse pra curadora: essa é a minha mãe. Ela me ensinou tudo. Ela nunca saiu da roça. E agora ela tá num museu.
+triste | coracao: A MÃE NO MUSEU | As pessoas da inauguração, todas elegantes, foram parando em volta dela. Ouvindo. Algumas chorando. Uma senhora de colar de pérola segurou a mão dela.
+neutra | - | A curadora fez um discurso. Disse: a dona Zulmira é uma das maiores artistas populares que eu já conheci. E ela vendia arte a vinte reais na feira.
+rindo | - | A dona Zulmira pegou o microfone e disse só uma coisa: eu continuo vendendo na feira. Sábado. A vinte. Quem quiser, aparece. O museu inteiro riu.
+neutra | carro | Na volta, ela foi bordando no banco de trás. Disse que ia bordar aquela noite. O museu, as colunas, o neto, o motorista. Disse que eu ia ficar bonito em linha azul.
+neutra | manchete_v: VOCÊ É ARTISTA | Moral da história: tem arte em toda feira, em toda cozinha, em todo quintal. Só falta alguém dizer em voz alta.
+rindo | coracao: DONA ZULMIRA | E se alguém da sua família borda, costura, pinta, desenha, guarda. Mostra. Pode ser arte de museu.

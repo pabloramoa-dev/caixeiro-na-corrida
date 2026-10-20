@@ -1,0 +1,262 @@
+## 285 | O INGRESSO QUE VOOU | futebol | dia
+G: 🎫 O ingresso da final voou pela janela do meu carro, na avenida. O pai e o filho correram atrás. Começou a perseguição mais desesperada da história.
+P: Qual foi o maior perrengue que você passou pra ver um jogo?
+H: #futebol #humor #final
+neutra | titulo | Sobe aí, que essa corrida teve um ingresso voando e uma cidade inteira correndo atrás.
+neutra | relogio: DOMINGO · 14H | Domingo, duas da tarde. Entraram um pai de uns quarenta anos e um menino de doze, os dois de camisa do time. O pai segurando dois ingressos como quem segura ouro.
+rindo | conversa: Final do campeonato! | O menino gritou: final do campeonato, moço! Primeira vez que eu vou no estádio! O pai riu: e eu juntei seis meses pra comprar esses ingressos.
+neutra | carimbo: SEIS MESES DE ECONOMIA | Seu Paulo. Pedreiro. Juntou dinheiro seis meses, tirando um pouco de cada semana. Pra levar o filho, o Lucas, na primeira final da vida dele.
+neutra | - | O dia estava quente. O menino pediu pra abrir a janela. Eu abri. O pai, empolgado, levantou os ingressos pra mostrar pro filho.
+chocada | manchete: O VENTO | E veio um vento. Daqueles de redemoinho. E levou os dois ingressos da mão dele. Pela janela. Pra avenida.
+chocada | - | O pai gritou. O filho gritou. Eu encostei no meio-fio com o pisca-alerta. Os dois saíram correndo pela calçada atrás dos papéis voando.
+rindo | carimbo: A PERSEGUIÇÃO | Os ingressos voando de um lado pro outro. Um pousou num ponto de ônibus. Saiu voando de novo. O outro caiu no meio da avenida. Entre os carros.
+rindo | - | Um motoboy viu a confusão. Parou a moto. Pegou o ingresso do meio da avenida. Correu atrás do pai. Entregou. O pai quase beijou o motoboy.
+chocada | - | Mas o outro ingresso, o do menino, subiu. Com o vento. E foi parar no alto de uma árvore. Lá em cima. Num galho fino.
+triste | conversa: O meu ingresso! | O menino ficou embaixo da árvore, chorando. O meu ingresso. O pai olhando pra cima, desesperado. Uns três metros de altura.
+neutra | - | Eu desci do carro. Juntou gente. Uma senhora deu ideia de jogar o chinelo. Um rapaz tentou subir na árvore e escorregou.
+chocada | carimbo: O CAMINHÃO | Aí parou um caminhão de entrega de gás. O motorista desceu, olhou, e disse: deixa comigo. Subiu na carroceria. Esticou o braço.
+chocada | manchete: PEGOU | Pegou. O ingresso, um pouco amassado, um pouco sujo de folha. Mas inteiro. A calçada inteira aplaudiu.
+rindo | - | O motorista do caminhão desceu e entregou pro menino. Disse: esse aí vai dar sorte. Teve uma aventura antes do jogo.
+neutra | relogio: CORRENDO | Mas tinha um problema: a gente tinha perdido vinte minutos. O jogo começava em meia hora. O estádio a vinte e cinco minutos.
+neutra | mapa | Eu fui. O menino segurando o ingresso com as duas mãos. A janela fechada. O pai rezando. Chegamos no portão faltando dois minutos.
+chocada | relogio: O JOGO | Eu fiquei ouvindo o jogo no rádio, no estacionamento. Um a um. Pênaltis. E o time deles ganhou. Campeão.
+triste | coracao: O INGRESSO DA ÁRVORE | Na saída, o menino veio correndo até o meu carro. Com o ingresso amassado no peito. Disse: moço, o meu ingresso voou e eu vi o meu time campeão!
+rindo | - | O pai, rouco de tanto gritar, disse: o ingresso da árvore deu sorte. Vou emoldurar. Com a folha e tudo.
+neutra | carro | Hoje o ingresso está num quadro na sala deles. Com um bilhete do lado: obrigado ao motoboy, ao motorista do gás e ao motorista do carro prata.
+neutra | manchete_v: NÃO DESISTE | Moral da história: quando o vento leva o que é importante, a cidade inteira pode ajudar a buscar.
+rindo | coracao: INGRESSO DA SORTE | E se você vir alguém correndo atrás de alguma coisa no vento, ajuda. Pode ser um sonho de seis meses.
+
+## 286 | OS NOIVOS DO BLOCO | amor | noite
+G: 🎭 Eles se conheceram num bloco de carnaval, ele fantasiado de pirata, ela de abelha. Dez anos depois, casaram no mesmo bloco. Com as mesmas fantasias.
+P: Onde você conheceu o amor da sua vida?
+H: #carnaval #casamento #amor
+neutra | titulo | Sobe aí, que essa corrida levou um pirata e uma abelha pro altar mais animado do carnaval.
+neutra | relogio: SÁBADO DE CARNAVAL · 15H | Sábado de carnaval, três da tarde. Entraram um rapaz de pirata, com tapa-olho e chapéu, e uma moça de abelha, com antena e asinha. De mãos dadas.
+rindo | conversa: Hoje a gente casa. | A abelha disse: hoje a gente casa. No bloco. O pirata completou: no mesmo bloco onde a gente se conheceu. Com a mesma fantasia.
+neutra | carimbo: O PIRATA E A ABELHA | Dez anos antes, no bloco do bairro, o pirata, Rodrigo, esbarrou na abelha, Camila. Derrubou a cerveja dela. Ela ficou brava.
+rindo | conversa: Ele me pagou um refrigerante. | Ela riu: ele me pagou um refrigerante pra compensar. E ficou o bloco inteiro do meu lado pedindo desculpa. Fantasiado de pirata. Achei ridículo.
+rindo | - | Ele: mas no fim do bloco ela me deu o telefone. Escrito na minha mão, com batom. Eu não lavei a mão por três dias.
+neutra | - | Dez anos de namoro. Todo carnaval, voltavam no mesmo bloco. Com as mesmas fantasias. Remendadas, apertadas, com a asinha torta.
+neutra | carimbo: O CASAMENTO NO BLOCO | E decidiram: o casamento ia ser no bloco. O presidente do bloco, que conhecia a história, topou. O juiz de paz também. Fantasiado de palhaço.
+neutra | mapa | Chegamos na concentração do bloco. Rua fechada, gente fantasiada, banda tocando marchinha. E no meio, um trio elétrico pequeno, decorado com flor e balão.
+chocada | - | Quando os noivos desceram do meu carro, a multidão reconheceu. Tinha faixa: Rodrigo e Camila, o pirata e a abelha. O bloco inteiro aplaudindo.
+neutra | - | Eles me convidaram pra ficar. Me deram um colar de havaiano. Eu nunca fui de carnaval. Naquele dia, eu fui.
+rindo | carimbo: O JUIZ PALHAÇO | O juiz de paz subiu no trio. De nariz de palhaço e gravata. Disse no microfone: estamos aqui reunidos, no meio de dois mil foliões, pra casar um pirata e uma abelha.
+rindo | - | A multidão gargalhou. A banda tocou uma marchinha de casamento. Os padrinhos eram um Batman, uma Mulher-Maravilha, um índio e uma baiana.
+triste | conversa: Eu prometo não derrubar a sua cerveja. | Nos votos, o pirata disse: eu prometo nunca mais derrubar a sua cerveja. E se derrubar, eu pago um refrigerante. Pra sempre.
+triste | conversa: E eu prometo te dar o meu telefone. | A abelha disse: e eu prometo te dar o meu telefone todo dia. Escrito na sua mão. Com batom. A multidão gritou.
+chocada | manchete: SIM NO TRIO | Os dois disseram sim. Em cima do trio elétrico. Dois mil foliões gritando. Confete caindo do céu. A banda tocando a marchinha mais alto.
+triste | coracao: O BATOM NA MÃO | E aí a abelha pegou um batom da bolsa. E escreveu na mão do pirata, igual dez anos antes. Mas dessa vez não era um telefone. Era: pra sempre.
+rindo | - | O bloco saiu desfilando com os noivos no trio. Pela avenida. O pirata e a abelha dançando lá em cima. A multidão atrás, cantando.
+neutra | carro | Eu levei os dois no fim da noite. Suados, rouquinhos, sem a asinha, que se perdeu no bloco. Ela disse: dez anos ela aguentou. Hoje ela foi embora feliz.
+neutra | manchete_v: DANÇA JUNTO | Moral da história: o amor às vezes começa com uma cerveja derrubada. E termina num trio elétrico.
+rindo | coracao: PIRATA E ABELHA | E se você conheceu alguém no carnaval, conta nos comentários. Qual era a fantasia?
+
+## 287 | O DNA DO CACHORRO | humor | dia
+G: 🐕 A família brigava há anos pra saber de que raça era o vira-lata deles. Fizeram um teste de DNA. O resultado deixou todo mundo sem fala.
+P: Seu cachorro é de que raça? Ou é um vira-lata misterioso?
+H: #cachorro #humor #familia
+neutra | titulo | Sobe aí, que essa corrida levou um vira-lata pra descobrir a própria árvore genealógica.
+neutra | relogio: SÁBADO · 10H | Sábado, dez da manhã. Entrou uma família: pai, mãe, avó e dois adolescentes. E um cachorro. Marrom, de orelha caída, rabo enrolado e cara de quem não sabe de nada.
+rindo | conversa: Hoje sai o resultado. | A mãe disse: hoje sai o resultado do DNA do Pipoca. Eu perguntei: DNA? Do cachorro? O filho: é. A gente não aguenta mais a briga.
+neutra | carimbo: A GUERRA DA RAÇA | Explicaram: o Pipoca foi adotado de um abrigo seis anos antes. E desde então, a família discute de que raça ele é.
+rindo | conversa: É labrador. | O pai: é labrador. Olha o tamanho. A mãe: é beagle. Olha a orelha. A avó: é pastor alemão. Olha a cara de bravo. O filho: é salsicha. Olha a barriga.
+rindo | - | Seis anos de discussão. Em todo almoço de domingo. Fizeram até um bolão. Cada um apostou numa raça. Quem acertasse, não lavava louça por um mês.
+neutra | - | Aí a filha encomendou um teste de DNA canino pela internet. Colheu saliva do Pipoca com um cotonete. Mandou pro laboratório. E o resultado ia ser aberto na clínica veterinária.
+neutra | mapa | Chegamos na clínica. A família me convidou pra entrar. Disseram: o senhor é testemunha neutra. Pro bolão ser válido. Eu já virei testemunha profissional.
+neutra | - | A veterinária abriu o envelope. A família em volta. O Pipoca sentado, abanando o rabo, sem entender a tensão.
+chocada | manchete: O RESULTADO | A veterinária leu: o Pipoca é vinte e cinco por cento labrador. Vinte por cento beagle. Quinze por cento pastor alemão. Dez por cento salsicha.
+rindo | - | Silêncio. Os quatro se olharam. Todo mundo tinha acertado. Mais ou menos. O pai: então eu ganhei. A mãe: eu também. A avó: e eu.
+chocada | carimbo: E O RESTO? | Aí a filha perguntou: e o resto? Faltam trinta por cento. A veterinária olhou o papel de novo. E começou a rir.
+chocada | manchete: TRINTA POR CENTO DE POODLE | Disse: trinta por cento poodle. A maior parte. O Pipoca é mais poodle que qualquer outra coisa.
+rindo | - | A família inteira olhou pro Pipoca. Marrom, de cara de bravo, rabo enrolado. Nada de poodle. O pai disse: impossível. Ele não tem nada de poodle.
+rindo | conversa: Ninguém apostou poodle. | O filho: ninguém apostou em poodle! Então ninguém ganhou! Todo mundo lava louça! A avó: e o cachorro? O cachorro ganhou.
+triste | carimbo: O MAIS IMPORTANTE | Aí a veterinária disse uma coisa bonita: sabe o que esse teste mostra? Que ele é um pouco de tudo. Igual a família de vocês. Cada um puxou de um lado.
+triste | coracao: UM POUCO DE CADA | A avó abraçou o Pipoca e disse: tá vendo? Ele tem um pouquinho de cada um de nós. Por isso a gente ama tanto.
+rindo | - | E aí o Pipoca, como quem entende, fez uma coisa que nunca tinha feito. Ficou de pé nas patas de trás e deu uma voltinha. Igual poodle de circo.
+neutra | carro | Na volta, a família inteira decidiu: o bolão foi anulado. A louça vai ser dividida. E o Pipoca ganhou um corte de cabelo de poodle. Ficou horrível. Ele adorou.
+neutra | manchete_v: AMA O MISTURADO | Moral da história: não importa a raça. Importa o amor. E às vezes o vira-lata é mais poodle do que parece.
+rindo | coracao: PIPOCA POODLE | E o seu vira-lata, você acha que é de que raça? Me conta nos comentários. Aposto que tem um pouco de poodle.
+
+## 288 | O CHAVEIRO DA ESCOLA DE OFÍCIOS | superacao | noite
+G: 🔑 Ele começou fazendo chave num banquinho na calçada, aos 14 anos. Hoje, aos 60, inaugurava uma escola de ofícios gratuita pra jovens da periferia.
+P: Qual ofício você aprendeu e te salvou na vida?
+H: #oficio #educacao #superacao
+neutra | titulo | Sobe aí, que essa corrida levou um chaveiro que abriu mais portas do que chaves.
+neutra | relogio: SÁBADO · 17H | Sábado, cinco da tarde. Entrou um senhor de sessenta anos com as mãos grossas, uma caixa de ferramentas antiga e um molho de chaves gigante preso no cinto.
+rindo | conversa: Vou inaugurar uma escola. | Disse: vou inaugurar uma escola. Eu perguntei: o senhor é professor? Ele riu: sou chaveiro. Mas hoje vou ser diretor.
+neutra | carimbo: SEU VALDECI, CHAVEIRO | Seu Valdeci. Aos quatorze anos, largou a escola pra trabalhar. Um chaveiro da praça ensinou o ofício pra ele. No banquinho da calçada.
+triste | conversa: Eu não tinha futuro. | Disse: eu não tinha futuro. Morava num bairro difícil. Muitos amigos meus tomaram outro caminho. O ofício de chaveiro me segurou.
+neutra | - | Aprendeu a fazer chave, consertar fechadura, abrir cofre. Montou uma banca. Depois uma loja. Depois três lojas. Formou dois filhos na faculdade.
+triste | conversa: Eu sempre pensei nos meninos. | Mas disse: eu sempre pensei nos meninos do meu bairro. Que não têm um chaveiro da praça pra ensinar alguma coisa. Que ficam sem rumo.
+neutra | carimbo: A ESCOLA DE OFÍCIOS | Então juntou dinheiro dez anos. Comprou um galpão no bairro onde cresceu. E montou uma escola de ofícios. Gratuita. Pra jovens de quatorze a vinte anos.
+rindo | - | Chaveiro, eletricista, encanador, mecânico de moto, barbeiro, costura. Professores voluntários. Todos profissionais do bairro.
+neutra | mapa | Chegamos no galpão. Pintado de azul. Uma placa: Escola de Ofícios Mestre Toninho. O nome do chaveiro da praça que ensinou ele.
+chocada | - | E na frente, uma fila. De jovens. Uns cem. Com mochila nas costas. Esperando a matrícula. Junto com as mães.
+neutra | - | Ele me pediu pra ficar. Disse que precisava de alguém pra carregar a caixa de ferramentas antiga. Que era a primeira da vida dele. Ia ficar exposta na entrada.
+triste | carimbo: O PRIMEIRO ALUNO | O primeiro da fila era um menino de quatorze anos. Magrinho. Com a mãe do lado. O seu Valdeci se abaixou e perguntou: o que você quer aprender?
+triste | conversa: Chaveiro. Igual o senhor. | O menino disse: chaveiro. Igual o senhor. A mãe dele explicou: ele passa na sua loja todo dia depois da escola. Fica olhando o senhor trabalhar.
+triste | - | O seu Valdeci ficou com os olhos cheios. Disse: eu também ficava olhando o seu Toninho. Todo dia. Até ele me chamar.
+triste | coracao: A PRIMEIRA CHAVE | Ele tirou do molho do cinto uma chave pequena, antiga, de ferro. Deu pro menino. Disse: essa foi a primeira chave que eu fiz. Agora é sua. Faz a sua primeira aqui.
+neutra | - | Cortaram a fita. Os jovens entraram. Escolheram as oficinas. As mães choraram na porta. Uma delas disse: o senhor tá dando futuro pros nossos filhos.
+neutra | carro | Na volta, ele me disse: o seu Toninho me deu um banquinho e uma lima. Eu dei um galpão. Mas a ideia é a mesma. Alguém tem que chamar o menino que tá olhando.
+neutra | manchete_v: CHAMA QUEM TÁ OLHANDO | Moral da história: um ofício ensinado pode mudar o destino de alguém. Às vezes começa num banquinho na calçada.
+rindo | coracao: MESTRE TONINHO | E se você sabe um ofício, ensina. Tem um menino olhando você trabalhar. Chama ele.
+
+## 289 | O SENHOR DAS LANTERNAS | curiosa | dia
+G: 🏮 Todo fim de tarde, um senhor acende lanternas de papel na janela. Ninguém sabia por quê. A resposta veio de um navio do outro lado do mundo.
+P: Que ritual simples alguém da sua família faz todo dia?
+H: #lanternas #misterio #saudade
+neutra | titulo | Sobe aí, que essa corrida desvendou o mistério das lanternas da janela.
+neutra | relogio: QUARTA · 17H | Quarta, cinco da tarde. Entrou uma moça de uns vinte e cinco anos com um pacote de lanternas de papel. Daquelas coloridas, que se pendura.
+rindo | conversa: São pro meu avô. | Disse: são pro meu avô. Ele acende uma por dia na janela. Faz cinco anos. Acabou o estoque dele.
+neutra | carimbo: AS LANTERNAS | O avô, seu Hiroshi, mora num prédio antigo do centro. Toda tarde, às seis, acende uma lanterna de papel e pendura na janela do quarto andar.
+rindo | - | A neta contou que o bairro inteiro conhece. Chamam de janela das lanternas. Tem gente que passa só pra ver acender. Tem casal que marca encontro embaixo.
+desconfiada | conversa: E por que ele acende? | Eu perguntei: e por que ele acende? Ela ficou quieta. Disse: ele nunca contou. Nem pra mim. Ele diz que é segredo de marinheiro.
+neutra | - | O seu Hiroshi foi marinheiro mercante a vida inteira. Rodou o mundo em navio cargueiro. Se aposentou aos setenta. E aí começaram as lanternas.
+neutra | mapa | Chegamos no prédio. Antigo, de janelas de madeira. A neta me pediu pra subir junto com as caixas. Eu subi. Quatro andares de escada.
+neutra | - | O seu Hiroshi abriu a porta. Oitenta anos, magrinho, sorriso enorme, cheio de foto de navio na parede. Agradeceu as lanternas como quem recebe ouro.
+desconfiada | carimbo: A PERGUNTA | Eu não resisti. Perguntei: seu Hiroshi, por que as lanternas? Ele olhou pra neta. Olhou pra mim. E disse: acho que tá na hora de contar.
+triste | conversa: O meu melhor amigo. | Contou: o meu melhor amigo, o Kenzo, ainda é marinheiro. Trabalha num navio que passa pelo nosso porto uma vez por ano. Do outro lado do mundo.
+neutra | - | Disse que quando eram jovens, no navio, combinaram: quando um se aposentar, acende uma luz na janela. Pro outro saber que está bem. Toda vez que o navio passar.
+triste | conversa: Eu não sei quando ele passa. | E disse: o navio dele passa uma vez por ano. Mas eu não sei o dia. Então eu acendo todo dia. Pra ele ver quando passar.
+chocada | manchete: A JANELA DÁ PRO PORTO | Ele abriu a janela. E eu vi. Lá longe, entre os prédios, dava pra ver o mar. E o porto. Os navios entrando.
+triste | - | A neta chorou. Disse: cinco anos, vô. E o senhor nunca contou. Ele disse: não é pra contar. É pra acender.
+neutra | relogio: 18H | Às seis horas, ele acendeu a lanterna do dia. Pendurou na janela. E aí aconteceu uma coisa que até hoje eu não acredito.
+chocada | carimbo: A BUZINA DO NAVIO | Lá no porto, um navio cargueiro entrando. E de repente, uma buzina. Longa. Três vezes. O som atravessou a cidade.
+chocada | - | O seu Hiroshi agarrou a janela. Disse: é ele. É o Kenzo. Três buzinas era o nosso sinal. Cinco anos e ele viu a lanterna.
+triste | coracao: TRÊS BUZINAS | O celular dele tocou meia hora depois. Uma ligação internacional. Uma voz de senhor, rindo, em outra língua. O seu Hiroshi chorando e rindo junto.
+neutra | - | O Kenzo disse que via a lanterna todo ano. Mas nunca conseguiu desembarcar. Naquele ano, ia ter folga. Dois dias. Ia descer.
+neutra | carro | Dois dias depois, eu levei o seu Hiroshi no porto. Dois marinheiros de oitenta anos se abraçando no cais. A neta filmando. Eu chorando de novo.
+neutra | manchete_v: ACENDE UMA LUZ | Moral da história: tem amizade que atravessa oceano. Só precisa de alguém que acenda a luz todo dia.
+rindo | coracao: JANELA DAS LANTERNAS | E se você tem um amigo longe, acende uma luz pra ele. Manda uma mensagem. Ele pode estar passando bem agora.
+
+## 290 | A AVÓ DO PIX | familia | noite
+G: 📱 A avó de 86 anos aprendeu a fazer Pix com o neto. No primeiro Pix da vida dela, ela mandou dinheiro pra todos os netos. Com uma mensagem.
+P: Você ensinou alguém mais velho a usar tecnologia?
+H: #avo #tecnologia #humor
+neutra | titulo | Sobe aí, que essa corrida levou uma avó que acabou de entrar no mundo digital. E já estava causando.
+neutra | relogio: DOMINGO · 16H | Domingo, quatro da tarde. Entraram uma senhora de oitenta e seis anos e um neto de uns vinte. Ela com um celular novo na mão. Segurando como quem segura bomba.
+rindo | conversa: Aprendi o Pix! | Ela anunciou: aprendi o Pix! O meu neto me ensinou hoje. Agora eu sou moderna. O neto riu: mais ou menos moderna.
+neutra | carimbo: DONA OLINDA | Dona Olinda. Nunca teve conta em banco até os oitenta. Pagava tudo em dinheiro vivo, que guardava numa lata de biscoito.
+rindo | conversa: A lata é mais segura. | Disse: a lata de biscoito é mais segura que banco. Ninguém rouba lata de biscoito. O neto: vó, todo mundo rouba lata de biscoito.
+neutra | - | O neto explicou: a aposentadoria dela agora cai na conta. E ela precisava aprender a mexer. Passou a manhã inteira ensinando.
+rindo | carimbo: AS AULAS | Primeiro, ela não achava o aplicativo. Depois apertou em tudo. Depois ligou pro banco achando que era o Pix. Depois mandou foto do pé pro grupo da família.
+rindo | - | O neto: a foto do pé foi o ponto alto. A família inteira respondeu. Um tio perguntou se ela estava bem. Ela respondeu: tô ótima, é o Pix.
+neutra | - | Mas no final da manhã, ela aprendeu. E fez o primeiro Pix da vida. Pro neto. De um real. De teste. Ele recebeu e gritou. Ela chorou de emoção.
+neutra | mapa | Estavam indo pro almoço de domingo na casa da filha. A família inteira. Doze netos. E a avó tinha um plano. Que ninguém sabia.
+neutra | - | No caminho, ela pediu ajuda pro neto. Copiou uma lista de chaves Pix do grupo da família. Os doze netos. Com cuidado. Uma por uma.
+neutra | carimbo: O PLANO | O neto perguntou: vó, o que a senhora vai fazer? Ela disse: espera. E ficou digitando no banco de trás. Devagar. Com o dedo indicador.
+neutra | mapa | Chegamos na casa da filha. Família grande, mesa posta, macarronada. Ela me chamou pra entrar. Disse que precisava de testemunha. Já virou profissão.
+chocada | relogio: NA SOBREMESA | Na hora da sobremesa, os celulares dos doze netos apitaram ao mesmo tempo. Todos. Plim. Plim. Plim. A mesa inteira olhando a tela.
+chocada | manchete: O PIX DA VÓ | Um Pix. De dez reais. Pra cada neto. Com uma mensagem. Na descrição do Pix, que ela aprendeu a escrever.
+triste | carimbo: A MENSAGEM | A mensagem dizia: pro meu neto querido. Vai comprar um sorvete. A vó te ama. Escrito errado, sem acento, com letra maiúscula no meio. Mas estava ali.
+triste | - | Os netos ficaram em silêncio olhando a tela. Uns de vinte e cinco, uns de dez. Todos com a mesma mensagem.
+triste | coracao: A VÓ TE AMA | O neto mais velho, de trinta anos, disse: vó, a senhora não precisava. A senhora tem pouco. Ela disse: eu sempre dei dinheiro pro sorvete. Na mão. Agora dou no Pix.
+rindo | - | E completou: e não devolvam. Eu ainda não sei desfazer Pix. A mesa inteira riu.
+neutra | carro | Na saída, ela me deu dez reais também. Pelo Pix. Pediu minha chave. Eu dei. Ela fez sozinha. Escreveu: pro motorista. Vai comprar um sorvete.
+neutra | manchete_v: ENSINA E APRENDE | Moral da história: a tecnologia muda. O carinho de vó continua igual. Só muda o jeito de entregar.
+rindo | coracao: PIX DA VÓ | E se sua avó ainda não sabe usar o celular, ensina hoje. Com paciência. Ela pode te mandar um sorvete.
+
+## 291 | O RAPAZ QUE QUERIA SER RICO | reflexao | dia
+G: 💰 O rapaz de 22 anos falou a corrida inteira sobre ficar rico. Carro, mansão, viagem. Perguntei: e depois? Ele travou. E o passageiro seguinte respondeu.
+P: Se você fosse rico amanhã, o que mudaria na sua vida?
+H: #reflexao #dinheiro #felicidade
+neutra | titulo | Sobe aí, que nessa corrida teve uma pergunta que ninguém conseguiu responder. Até chegar quem já tinha vivido a resposta.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Corrida compartilhada. Entrou um rapaz de uns vinte e dois anos, roupa de marca, fone de ouvido, falando no celular sobre investimento.
+neutra | conversa: Eu vou ser milionário. | Quando desligou, me disse: eu vou ser milionário antes dos trinta. Tá tudo planejado. Eu perguntei: e o que o senhor vai fazer com o dinheiro?
+rindo | carimbo: O PLANO DO MILHÃO | Ele listou: um carro esportivo. Uma casa com piscina. Viagem pra Europa todo ano. Relógio caro. Roupa de grife. Um barco.
+neutra | conversa: E depois? | Eu ouvi tudo. E perguntei: e depois? Ele parou. Depois do quê? Eu disse: depois do carro, da casa, do barco. O que vem depois?
+desconfiada | - | Ele ficou quieto. Pensou. Disse: aí eu compro mais. Um carro melhor. Uma casa maior. Eu perguntei de novo: e depois? Ele riu nervoso. Não respondeu.
+neutra | notificacao: Segunda parada | Aí o aplicativo apitou. Segunda parada. Entrou um senhor de uns setenta anos, roupa simples, camisa de botão gasta e um sorriso tranquilo.
+neutra | - | O rapaz continuou falando dos planos. O senhor ouvindo quieto. Até que o rapaz perguntou, meio debochado: e o senhor, qual era o seu sonho?
+triste | conversa: Eu fui rico. | O senhor disse: eu fui rico. Muito rico. Tive tudo isso que você falou. O carro, a casa, o barco. Três barcos, na verdade.
+chocada | manchete: ELE TEVE TUDO | O rapaz ficou de boca aberta. Olhou a camisa gasta do senhor. Perguntou: e o que aconteceu? O senhor sorriu.
+triste | carimbo: O QUE ELE PERDEU | Disse: eu trabalhei tanto pra ter tudo, que perdi o que importava. Perdi o casamento. Perdi a infância dos meus filhos. Não fui em nenhuma apresentação de escola.
+triste | - | Contou que quando teve um infarto, aos cinquenta e cinco, olhou em volta no hospital. E não tinha ninguém. Só o motorista dele. Pago pra estar ali.
+neutra | conversa: Eu vendi tudo. | Disse: quando eu saí do hospital, eu vendi quase tudo. Fiquei com uma casa pequena. E fui atrás dos meus filhos. Pedir perdão.
+triste | - | Levou anos. Mas os filhos perdoaram. Hoje ele tem cinco netos. Busca na escola todo dia. Vai em toda apresentação. Senta na primeira fila.
+desconfiada | conversa: E agora o senhor é feliz? | O rapaz perguntou baixinho: e agora o senhor é feliz? O senhor disse: muito mais do que com três barcos. Muito mais.
+triste | coracao: O QUE VEM DEPOIS | E aí respondeu a minha pergunta. Disse pro rapaz: sabe o que vem depois do barco? Nada. O que vem depois é quem tá do seu lado. Se tiver alguém.
+neutra | - | O rapaz ficou em silêncio o resto da corrida. Tirou o fone do ouvido. Guardou o celular. Ficou olhando pela janela.
+neutra | mapa | O senhor desceu primeiro. Numa escola. Tinha ido buscar o neto. Acenou pro rapaz pela janela. Com um menino pendurado no braço.
+neutra | carro | Quando o rapaz desceu, ele disse: moço, obrigado pela pergunta. Eu vou pensar no depois. E ligou pra alguém. Ouvi ele dizer: mãe, tô indo jantar aí hoje.
+neutra | manchete_v: PENSA NO DEPOIS | Moral da história: pode sonhar em ser rico. Mas pensa no depois. E em quem vai estar do seu lado quando chegar lá.
+rindo | coracao: E DEPOIS? | E você? Se fosse rico amanhã, o que vem depois? Me conta nos comentários. Eu já sei a minha: a Rosângela e um pão francês.
+
+## 292 | O GRUPO DA CAMINHADA | amizade | noite
+G: 🚶 Começou com duas senhoras caminhando na praça às 6h. Hoje são 60 pessoas. Quando uma delas não apareceu por três dias, o grupo foi até a casa dela.
+P: Você faz parte de algum grupo que se cuida de verdade?
+H: #amizade #caminhada #terceiraidade
+neutra | titulo | Sobe aí, que essa corrida levou o grupo de caminhada mais carinhoso da cidade. Atrás de uma amiga sumida.
+neutra | relogio: QUINTA · 7H | Quinta, sete da manhã. Fui chamado numa praça. Três senhoras de tênis, viseira e garrafinha d'água. Preocupadas. Entraram rápido.
+brava | conversa: A Dirce sumiu. | Disse a mais velha: a Dirce sumiu. Três dias sem aparecer na caminhada. Ela nunca falta. Nem com chuva. Nem com dor no joelho.
+neutra | carimbo: O GRUPO DAS SEIS | Explicaram: o grupo das seis. Começou há doze anos com duas senhoras caminhando na praça às seis da manhã. A dona Dirce e a dona Neide.
+rindo | - | Depois veio uma vizinha. Depois o marido da vizinha. Depois o professor de educação física aposentado. Hoje são sessenta pessoas. Todo dia.
+rindo | conversa: Tem até uniforme. | A dona Neide riu: tem até camiseta. Verde-limão. Com o nome: grupo das seis. Tem aniversário, tem churrasco, tem grupo no celular.
+triste | conversa: Ela não responde. | Disse: a Dirce não responde no grupo. Não atende telefone. Ela mora sozinha. Os filhos moram longe. A gente ficou com medo.
+neutra | mapa | Fomos até a casa dela. Uma casinha simples, de muro baixo. Portão fechado. Janela fechada. Nenhum barulho.
+desconfiada | - | As três tocaram a campainha. Bateram palma. Chamaram. Nada. Eu fiquei preocupado também. Desci do carro.
+chocada | conversa: Tô aqui! | Aí, lá de dentro, uma voz fraquinha: tô aqui! Não consigo levantar! A dona Neide pulou o muro. Com setenta e dois anos. Eu fui atrás.
+neutra | - | A porta da cozinha estava aberta. A dona Dirce estava sentada no chão. Tinha torcido o tornozelo. Não conseguia levantar nem alcançar o telefone, que ficou no quarto.
+chocada | manchete: DOIS DIAS NO CHÃO | Estava ali havia dois dias. Bebendo água da torneira baixa, comendo biscoito que alcançava no armário de baixo. Esperando alguém.
+triste | conversa: Eu sabia que vocês vinham. | Ela disse: eu sabia que vocês vinham. Eu falei pra mim mesma: o grupo vai sentir a minha falta. Vão vir me buscar.
+neutra | - | Eu liguei pra emergência. Enquanto esperava, as três amigas sentaram no chão da cozinha com ela. Fizeram café. Deram a mão.
+neutra | relogio: NO HOSPITAL | Foi só uma torção. Nada grave. Mas os médicos disseram: dois dias no chão, sozinha, foi muito tempo. Se ninguém tivesse vindo, podia ser pior.
+neutra | carimbo: A ESCALA | No grupo do celular, as sessenta pessoas fizeram uma escala. Cada dia, uma ia visitar a dona Dirce. Levar comida, ajudar no banho, fazer companhia.
+triste | coracao: O GRUPO DAS SEIS | E criaram uma regra nova no grupo: se alguém não aparecer na caminhada e não responder até as oito, alguém vai bater na porta. Toda vez.
+rindo | - | Três semanas depois, a dona Dirce voltou pra caminhada. De bengala. Devagar. O grupo inteiro caminhou no ritmo dela. Sessenta pessoas devagar na praça.
+neutra | carro | Eu passei na praça numa manhã, às seis, de propósito. Vi o grupo de camiseta verde-limão. A dona Dirce no meio. Acenando pro meu carro.
+neutra | manchete_v: SENTE A FALTA | Moral da história: amizade de verdade é aquela que sente a sua falta. E vai bater na sua porta.
+rindo | coracao: CAMISETA VERDE-LIMÃO | E se você tem um amigo que mora sozinho, combina um sinal. Se ele sumir, você vai lá. Pode salvar uma vida.
+
+## 293 | O GATO DO CONDOMÍNIO | humor | dia
+G: 🐈 O gato do condomínio frequentava todas as reuniões. Sentava na cadeira do síndico. Na eleição, alguém votou nele. Ele ganhou.
+P: Qual o bicho mais famoso do seu prédio ou bairro?
+H: #gato #condominio #humor
+neutra | titulo | Sobe aí, que essa corrida levou o novo síndico do condomínio. Ele tem quatro patas e bigode.
+neutra | relogio: SÁBADO · 11H | Sábado, onze da manhã. Entrou uma moradora de condomínio, uns quarenta anos, rindo sozinha. Com uma caixa de transporte de gato no colo.
+rindo | conversa: Vou levar o síndico no veterinário. | Disse: vou levar o síndico no veterinário. Eu perguntei: o síndico tá doente? Ela abriu a caixa: esse é o síndico.
+neutra | carimbo: O SEU FREDERICO | Um gato. Laranja, gordo, de bigode branco. Seu Frederico. O gato comunitário do condomínio. Ninguém sabe de onde veio. Apareceu há sete anos e ficou.
+rindo | - | Contou que o Frederico mora no condomínio inteiro. Dorme na portaria, almoça no terceiro andar, toma sol no playground. Todo mundo cuida.
+rindo | conversa: Ele vai em toda reunião. | E disse: ele vai em toda reunião de condomínio. Toda. Senta na cadeira do síndico. E fica olhando as pessoas brigarem.
+neutra | - | As reuniões do condomínio eram famosas pelas brigas. Barulho, garagem, cachorro, vazamento. Todo mundo gritando. E o Frederico ali. Tranquilo. Lambendo a pata.
+rindo | carimbo: A ELEIÇÃO | Na eleição pra síndico, tinha dois candidatos. Dois moradores que se odiavam. A reunião virou uma guerra. Um acusando o outro de tudo.
+rindo | - | Aí, na contagem dos votos, alguém tinha escrito numa cédula: Frederico. Depois outra. Depois outra. No final, o Frederico teve mais votos que os dois candidatos.
+chocada | manchete: O GATO GANHOU | O gato ganhou a eleição. O condomínio inteiro, cansado das brigas, votou no gato. Como protesto. E como piada. Mas ganhou.
+rindo | conversa: E o que ele faz como síndico? | Eu perguntei, rindo: e o que ele faz como síndico? Ela disse: nada. E desde que ele assumiu, não teve mais nenhuma briga.
+neutra | carimbo: A ADMINISTRAÇÃO | Explicou: como síndico oficial era o gato, os moradores tiveram que resolver as coisas juntos. Fizeram uma comissão. Conversando. Sem gritar.
+rindo | - | Porque nas reuniões, quando alguém começava a gritar, o Frederico levantava da cadeira, olhava feio e ia embora. E todo mundo se acalmava. Ninguém queria irritar o síndico.
+triste | conversa: Ele uniu o prédio. | Ela disse: ele uniu o prédio. Os dois candidatos que brigavam hoje são da mesma comissão. E tomam café juntos. Por causa de um gato.
+neutra | mapa | Chegamos no veterinário. Era só vacina anual. O Frederico saiu da caixa, olhou pra veterinária com desprezo e deixou ser vacinado. Como um político experiente.
+rindo | - | A veterinária perguntou o nome. A moradora disse: Frederico. Síndico. A veterinária anotou na ficha: profissão: síndico. E riu.
+neutra | carro | Na volta, a moradora me mostrou a ata da última reunião. Na lista de presença, o primeiro nome: Frederico, síndico, presente. Com a marca de uma pata.
+triste | coracao: O SÍNDICO DE BIGODE | Ela disse: às vezes a gente precisa de alguém que não fala nada pra perceber como a gente fala demais.
+neutra | manchete_v: CALMA | Moral da história: tem briga que só acaba quando ninguém quer brigar na frente do gato.
+rindo | coracao: SÍNDICO FREDERICO | E se o seu condomínio briga demais, sugere um gato na próxima eleição. Funciona.
+
+## 294 | A CADEIRA DE RODAS DO TOBIAS | superacao | noite
+G: 🐕 O cachorro dela perdeu os movimentos das patas de trás. Ela, de 11 anos, construiu uma cadeirinha de rodas com cano de PVC. Hoje ele corre no parque.
+P: Você já viu um bicho superar algo difícil?
+H: #cachorro #superacao #criatividade
+neutra | titulo | Sobe aí, que essa corrida levou o cachorro mais rápido do parque. Sobre rodas.
+neutra | relogio: DOMINGO · 16H | Domingo, quatro da tarde. Entraram uma menina de onze anos, a mãe, e um cachorro salsicha com uma cadeirinha de rodas presa nas patas de trás. Feita de cano branco.
+rindo | conversa: Esse é o Tobias. | A menina apresentou: esse é o Tobias. Ele tem rodas. Eu que fiz. O Tobias abanou o rabo e me lambeu a mão.
+neutra | carimbo: O TOBIAS | O Tobias tinha oito anos. Seis meses antes, teve um problema na coluna. Perdeu o movimento das patas de trás. O veterinário disse que ele não ia voltar a andar.
+triste | conversa: Disseram pra sacrificar. | A mãe disse baixinho: alguns disseram pra sacrificar. Que ele ia sofrer. Que ia ser difícil cuidar.
+triste | - | A menina, a Júlia, ouviu. E chorou a noite inteira. No dia seguinte, foi pesquisar na internet. Cadeira de rodas pra cachorro.
+neutra | - | As de loja eram caras. Muito caras. Então ela decidiu fazer. Com cano de PVC que o avô tinha na garagem. Rodinha de carrinho de supermercado. E uma tira de mochila velha.
+rindo | conversa: Errei umas dez vezes. | Ela riu: eu errei umas dez vezes. A primeira ficou alta demais. Ele andava de nariz no chão. A segunda virava. A terceira caiu uma roda.
+neutra | - | O avô ajudou com a serra. O pai ajudou com a cola. Mas o projeto era dela. Desenhado no caderno de matemática.
+chocada | carimbo: A PRIMEIRA VEZ | Na décima primeira tentativa, deu certo. O Tobias ficou de pé. Com as patas da frente no chão e as de trás apoiadas na cadeirinha. E andou.
+triste | - | A mãe contou: ele andou três passos. Depois correu. Pelo quintal. Latindo. Abanando o rabo. A Júlia gritando. A família inteira chorando.
+neutra | mapa | Estavam indo no parque. Pra um encontro de cachorros com deficiência. Organizado por uma ONG. A Júlia ia mostrar a cadeira dela.
+neutra | - | Eu levei e fiquei pra ver. Domingo à tarde, parque cheio, uns vinte cachorros de cadeira de rodas, de prótese, cegos, sem pata. Correndo, brincando.
+chocada | manchete: O TOBIAS CORREU | O Tobias desceu do carro e saiu correndo. Rápido. As rodinhas de supermercado fazendo barulho no caminho de pedra. Os outros cachorros indo atrás.
+neutra | - | Os donos dos outros cachorros perguntaram onde ela comprou a cadeira. Ela disse: eu fiz. Com cano. Ninguém acreditou.
+triste | carimbo: A FILA DE PEDIDOS | E aí começou. Uma fila. De donos pedindo pra ela fazer uma pra eles. Uma senhora disse: eu não tenho dinheiro pra comprar. O meu cachorro fica deitado o dia inteiro.
+triste | coracao: A OFICINA DA JÚLIA | A Júlia pegou o caderno de matemática e começou a anotar. Nome, tamanho, raça. Disse: eu faço. De graça. Só preciso de cano.
+rindo | - | O avô dela, que estava junto, disse: e eu ajudo com a serra. Já tô aposentado mesmo.
+neutra | carro | Seis meses depois, a mãe me mandou uma foto. A garagem do avô virou oficina. Trinta cadeirinhas feitas. Trinta cachorros correndo de novo.
+neutra | manchete_v: NÃO DESISTE DO AMIGO | Moral da história: quando disseram que não tinha jeito, uma menina de onze anos achou o jeito. Com cano e amor.
+rindo | coracao: TOBIAS SOBRE RODAS | E se o seu bicho envelheceu ou ficou doente, não desiste dele. Sempre tem um jeito. Às vezes ele tá no caderno de uma criança.

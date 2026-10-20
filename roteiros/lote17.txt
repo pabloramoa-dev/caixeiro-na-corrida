@@ -1,0 +1,270 @@
+## 185 | O GOL CONTRA DE 1987 | futebol | dia
+G: ⚽ Ele carregou por 39 anos a culpa de um gol contra que tirou o título do bairro. Até o atacante adversário entrar no mesmo carro.
+P: Qual foi o lance mais injusto que você já viu no futebol?
+H: #futebol #varzea #culpa
+neutra | titulo | Sobe aí, que essa corrida desfez um gol contra de trinta e nove anos.
+neutra | relogio: SÁBADO · 14H | Sábado, duas da tarde. Entrou um senhor de uns sessenta anos, quieto, com um boné de um time de várzea antigo. Ia pra um churrasco de veteranos.
+neutra | conversa: Eu não queria ir. | Disse logo: eu não queria ir. Mas a minha esposa insistiu. Faz trinta anos que eu não vou em nada desse time.
+neutra | carimbo: A FINAL DE 1987 | Seu Benedito. Zagueiro do time do bairro em mil novecentos e oitenta e sete. Na final do campeonato regional. Um a um, último minuto.
+triste | conversa: Fiz contra. | Contou: escanteio contra a gente. Eu subi pra cortar de cabeça. A bola bateu em mim e entrou. Gol contra. Perdemos o título.
+triste | - | Disse que a rua inteira virou as costas pra ele. Que por anos ouvia: olha o homem do gol contra. Que até a mãe dele ficou com vergonha.
+triste | conversa: Parei de jogar. | Parei de jogar. Mudei de bairro. E nunca mais fui num encontro do time. Trinta e nove anos.
+neutra | notificacao: Nova parada no caminho | Aí o aplicativo apitou. Corrida compartilhada. Uma parada no caminho. Entrou um senhor de uns sessenta e cinco, barrigudo, rindo alto.
+rindo | conversa: Vai pro churrasco também? | Ele olhou o boné do seu Benedito e disse: opa, vai pro churrasco dos veteranos? Eu também! Eu era do time adversário. Fui convidado.
+neutra | - | Os dois se olharam. O seu Benedito ficou pálido. O outro olhou bem e abriu um sorriso enorme.
+chocada | conversa: O zagueiro da final! | Disse: você é o zagueiro da final de oitenta e sete! O do gol! O seu Benedito abaixou a cabeça: sou. O do gol contra.
+chocada | conversa: Gol contra, não. | E o outro falou: gol contra? Que gol contra? Aquele gol foi meu!
+chocada | manchete: O GOL ERA DELE | Ele contou: eu era o centroavante. Eu subi junto com você. A bola bateu na minha cabeça primeiro, depois na sua nuca. O gol foi meu.
+neutra | - | O seu Benedito ficou olhando pra ele sem entender. Trinta e nove anos achando que tinha feito o gol contra.
+triste | conversa: Ninguém viu. | O outro disse: ninguém viu direito. O juiz deu gol contra porque a bola entrou depois de bater em você. Mas eu senti na testa. Eu sempre soube.
+triste | - | E completou: eu passei trinta e nove anos dizendo pros meus filhos que fiz o gol do título. E ninguém da minha cidade acreditava.
+neutra | mapa | Chegamos no churrasco. Um sítio, uns trinta senhores. Os dois desceram juntos. O centroavante segurando o braço do seu Benedito.
+chocada | carimbo: O ANÚNCIO | O centroavante subiu numa cadeira de plástico e gritou: atenção! O gol da final de oitenta e sete foi meu! O Benedito nunca fez gol contra!
+neutra | - | Silêncio. Depois um murmúrio. Depois um senhor lá do fundo, que tinha sido o goleiro, falou: eu sempre achei que tinha batido na cabeça do grandão primeiro.
+triste | coracao: TRINTA E NOVE ANOS | E aí um por um, os ex-colegas do seu Benedito foram até ele. Pediram desculpa. Pelo apelido, pela rua, pelos trinta e nove anos.
+triste | - | O seu Benedito chorou no meio do churrasco. Abraçado no adversário. Os dois rindo, dividindo um espetinho.
+neutra | carro | Na volta, levei os dois. O seu Benedito disse: hoje eu voltei a ser zagueiro. Trinta e nove anos depois.
+neutra | manchete_v: CONFERE A HISTÓRIA | Moral da história: às vezes a culpa que a gente carrega nem era nossa. Pergunta pro outro lado.
+rindo | coracao: O GOL ERA DELE | E se alguém carrega culpa por um erro antigo, conversa com ele. Pode ser que a história seja outra.
+
+## 186 | A CASA AMARELA | amor | noite
+G: 🏠 Por 40 anos a esposa pediu pra pintar a casa de amarelo. Ele sempre disse "ano que vem". Ela se foi. Ele pintou. E a rua inteira foi ajudar.
+P: Tem algum pedido de alguém que você ama que você ainda não realizou?
+H: #amor #saudade #casa
+neutra | titulo | Sobe aí, que essa corrida terminou numa rua cheia de pincel e lata de tinta.
+neutra | relogio: SÁBADO · 7H | Sábado, sete da manhã. Peguei um senhor de setenta e oito anos numa loja de tintas. Ele com quatro latas de tinta amarela e um rolo novo.
+neutra | conversa: Vou pintar a casa. | Disse: vou pintar a minha casa. De amarelo. Eu disse: que bonito. Ele respondeu: era pra ter pintado quarenta anos atrás.
+neutra | carimbo: O PEDIDO DA DONA LÉA | Seu Waldemar. A esposa, dona Léa, pediu a vida inteira pra pintar a casa de amarelo. Disse que casa amarela é casa feliz.
+triste | conversa: Eu sempre dizia ano que vem. | Disse: eu sempre dizia ano que vem, Léa. Ano que vem. Sempre tinha uma conta, um conserto, uma desculpa.
+triste | - | A dona Léa faleceu seis meses antes. A casa continuava cinza. E todo dia ele passava pela fachada e ouvia a voz dela: ano que vem, né, Waldemar?
+neutra | - | Disse que tinha decidido sozinho. Ia pintar. Com as próprias mãos. Mesmo com setenta e oito anos. Mesmo com o joelho ruim.
+neutra | mapa | Chegamos na casa. Um sobrado pequeno, cinza, com um jardim cheio de rosas que a dona Léa plantou. Ele desceu com as latas.
+desconfiada | - | Eu ajudei a descarregar. Olhei a casa. Dois andares. Uma escada. Um homem de setenta e oito anos. Pensei: isso não vai dar certo.
+neutra | conversa: Eu ajudo um pouco. | Falei: seu Waldemar, eu ajudo um pouco. Tô de folga até as dez. Ele aceitou. Disse: só não pinta errado, que ela tá olhando.
+neutra | carimbo: A PRIMEIRA PINCELADA | Ele deu a primeira pincelada. Na porta da frente. Amarelo vivo. Ficou parado olhando. Disse: ficou bonito, Léa. Você tinha razão.
+chocada | - | Aí a vizinha da frente apareceu de chinelo. Perguntou o que era. Ele contou. Ela entrou em casa e voltou de roupa velha e com um pincel.
+chocada | manchete: A RUA VEIO | Depois veio o vizinho do lado. Depois o filho dele. Depois umas crianças. Depois o dono da padaria com café e pão.
+rindo | - | Em uma hora, tinha umas vinte pessoas pintando a casa do seu Waldemar. Gente na escada, gente no muro, criança pintando o portão com pincel de aquarela.
+triste | carimbo: AS HISTÓRIAS DA DONA LÉA | E enquanto pintavam, cada um contava uma história da dona Léa. A muda de rosa que ela deu. O bolo no aniversário. A vez que cuidou do filho de alguém.
+triste | - | O seu Waldemar ia ouvindo e pintando. Sorrindo e chorando. Descobrindo coisas da esposa que ele nem sabia.
+neutra | relogio: 17H | Às cinco da tarde, a casa estava amarela. Inteirinha. Brilhando no sol do fim de tarde. A rua inteira parou na calçada pra olhar.
+triste | coracao: CASA AMARELA, CASA FELIZ | O seu Waldemar sentou no degrau da porta, sujo de tinta até o cabelo. Disse baixinho: tá amarela, Léa. Casa feliz. Desculpa a demora.
+rindo | - | Uma menina de uns oito anos sentou do lado dele. Com a mão amarela de tinta. Ele pegou a mão dela e carimbou na parede do lado da porta.
+neutra | carro | Hoje, do lado da porta da casa amarela, tem vinte mãos carimbadas na parede. De todo mundo que ajudou. E uma plaquinha: casa da Léa.
+neutra | manchete_v: NÃO DEIXA PRO ANO QUE VEM | Moral da história: o ano que vem às vezes não vem. Faz hoje o que quem você ama pede.
+rindo | coracao: CASA DA LÉA | E se alguém que você ama te pede uma coisa simples há muito tempo, faz esse fim de semana. Não deixa pra depois.
+
+## 187 | O PASTOR E O PAGODEIRO | humor | dia
+G: 🎶 Dividiram a corrida: um pastor de terno e um pagodeiro de camisa florida. Começaram se estranhando. Descobriram que cantaram no mesmo grupo em 1992.
+P: Você tem algum amigo que mudou completamente de vida?
+H: #humor #musica #amizade
+neutra | titulo | Sobe aí, que essa corrida teve um reencontro com pandeiro e Bíblia no mesmo banco.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Corrida compartilhada. Primeiro entrou um senhor de uns cinquenta anos, terno, gravata, Bíblia debaixo do braço. Pastor indo pro culto.
+neutra | notificacao: Segunda parada | Segunda parada. Entrou um homem da mesma idade, camisa florida, corrente de ouro, chapéu panamá e um pandeiro na mão. Voltando de um pagode que virou a noite.
+ironica | - | Os dois se olharam de cima a baixo. O pastor segurou a Bíblia. O pagodeiro segurou o pandeiro. Silêncio no carro.
+rindo | carimbo: O CHEIRO DE CERVEJA | O pastor fungou de leve. O pagodeiro percebeu e disse: é perfume, pastor. Perfume de pagode. O pastor não riu.
+neutra | - | O pagodeiro começou a batucar baixinho no pandeiro. O pastor abriu a Bíblia e começou a ler em voz baixa. Uma disputa de volume.
+rindo | - | Eu, no meio, liguei o rádio. Pra ninguém ganhar. Tocou um samba antigo. Daqueles de mil novecentos e noventa e poucos.
+chocada | - | E os dois, ao mesmo tempo, começaram a cantar. O pastor e o pagodeiro. A mesma música. Afinados. Em dupla.
+chocada | conversa: Você conhece essa? | Os dois pararam e se olharam. O pagodeiro perguntou: pastor, como o senhor conhece essa? O pastor, vermelho: eu gravei essa.
+chocada | manchete: O GRUPO DE 1992 | O pastor tinha sido cantor de um grupo de pagode em mil novecentos e noventa e dois. Fizeram um disco só. Tocou em rádio de bairro.
+desconfiada | - | O pagodeiro arregalou os olhos. Tirou o chapéu. Olhou bem pro pastor. E gritou: Marquinho Voz de Veludo?!
+rindo | conversa: E você é o Toninho do Pandeiro! | O pastor: e você é o Toninho do Pandeiro! Os dois eram do mesmo grupo. Trinta e quatro anos sem se ver.
+rindo | carimbo: O ABRAÇO | Se abraçaram no banco de trás. O chapéu caiu, a Bíblia caiu, o pandeiro caiu. Os dois rindo igual menino.
+neutra | - | Contaram a história. O grupo acabou depois de uma briga por causa de cachê. Cada um foi pra um lado. O Marquinho virou pastor. O Toninho continuou no pagode.
+triste | conversa: Eu nunca te pedi desculpa. | O pastor disse: Toninho, eu nunca te pedi desculpa pela briga. A culpa foi minha. O pagodeiro: foi nada. Foi do empresário. Aquele safado.
+rindo | - | E aí começaram a lembrar das músicas. Cantaram o disco inteiro. No meu carro. Uma por uma. O pastor fazendo a primeira voz, o Toninho no pandeiro.
+neutra | mapa | Chegamos na igreja do pastor. Ele ia descer. Mas olhou pro Toninho e teve uma ideia.
+chocada | conversa: Entra comigo. | Disse: entra comigo. Canta uma comigo no culto. Uma música de louvor. Com pandeiro. O Toninho riu: de camisa florida? O pastor: Deus não liga pra camisa.
+chocada | carimbo: O PANDEIRO NO CULTO | Eu fiquei na porta pra ver. O pastor chamou o Toninho no altar. Apresentou como amigo de juventude. E cantaram um louvor. Com pandeiro de pagode.
+rindo | coracao: A IGREJA BATEU PALMA | A igreja inteira bateu palma no ritmo. As senhoras de chapéu dançando. O Toninho suando de emoção. O pastor rindo no microfone.
+neutra | carro | Levei o Toninho pra casa depois. Ele disse que não ia virar crente. Mas ia voltar no culto pra cantar com o amigo. Uma vez por mês.
+neutra | manchete_v: CANTA JUNTO | Moral da história: a vida separa a gente por caminhos diferentes. A música junta de novo.
+rindo | coracao: VOZ DE VELUDO | E se você tem um amigo que seguiu outro caminho, liga. Vocês ainda sabem a mesma música.
+
+## 188 | O MENINO DO LIXÃO | superacao | noite
+G: ♻️ Aos 10 anos ele catava material reciclável no lixão. Hoje, aos 30, formado em engenharia ambiental, ia apresentar o projeto que fechou aquele lixão.
+P: Quem você conhece que transformou a própria dor em solução?
+H: #superacao #engenharia #meioambiente
+neutra | titulo | Sobe aí, que essa corrida levou um engenheiro de volta pro lugar onde ele aprendeu o valor de tudo que se joga fora.
+neutra | relogio: QUARTA · 17H | Quarta, cinco da tarde. Entrou um homem de uns trinta anos, terno azul, crachá da prefeitura e uma pasta de projeto debaixo do braço.
+neutra | conversa: Antigo lixão, por favor. | Pediu: antigo lixão da zona norte, por favor. Eu estranhei: de terno? Ele sorriu: é a inauguração do parque.
+neutra | carimbo: O LIXÃO VIROU PARQUE | Explicou: o lixão a céu aberto da cidade foi fechado. E no lugar, depois de anos de recuperação, ia ser inaugurado um parque. Com árvore, lago, quadra.
+neutra | - | E ele era o engenheiro responsável pelo projeto. Engenheiro Wesley. Engenharia ambiental. Mestrado em recuperação de áreas degradadas.
+triste | conversa: Eu catava lá. | Aí falou: eu catava material lá. Dos dez aos dezesseis anos. Com a minha mãe. Todo dia, depois da escola.
+triste | - | Contou que a família vivia da reciclagem. Ele separava latinha, papelão, garrafa. Sabia o preço de cada material de cor.
+neutra | carimbo: A PROFESSORA DE CIÊNCIAS | Uma professora de ciências viu ele um dia no lixão, depois da escola. Ele achou que ia levar bronca. Ela perguntou: você sabe separar plástico por tipo?
+rindo | conversa: Eu sabia mais que ela. | Riu: eu sabia mais que ela. Ela ficou impressionada. Começou a levar livro pra mim. Sobre reciclagem, química, meio ambiente.
+neutra | - | Ele estudou com bolsa. Fez faculdade com bolsa. Mestrado com bolsa. Disse que cada bolsa ele agradecia como quem acha cobre no lixo.
+neutra | mapa | Chegamos. Onde era o lixão, um parque enorme. Grama, árvores pequenas plantadas, um lago, uma pista de caminhada. Gente de toda a cidade. Prefeito, imprensa.
+chocada | - | Ele subiu no palanque. Fez o discurso técnico. Toneladas, metros cúbicos, gás metano, recuperação do solo. Todo mundo aplaudindo educado.
+triste | carimbo: A MÃE NA PLATEIA | Aí ele parou. Olhou pra primeira fila. Lá estava uma senhora de uns sessenta anos, de vestido florido, com as mãos grossas no colo. A mãe dele.
+triste | conversa: Minha mãe trabalhou aqui. | Ele disse no microfone: antes de engenheiro, eu fui catador. Aqui. Nesse chão. Com a minha mãe. Ela tá ali na primeira fila.
+chocada | - | O parque ficou em silêncio. A imprensa virou a câmera pra ela. A mãe abaixou a cabeça, com vergonha. Ele desceu do palanque.
+triste | coracao: A PRIMEIRA ÁRVORE | Pegou a mão da mãe e levou ela até uma muda de ipê, no centro do parque. Disse: mãe, essa árvore é sua. Plantada onde a gente separava papelão.
+triste | - | Tinha uma placa do lado: em homenagem aos catadores que trabalharam aqui. Vocês limparam a cidade antes de todos nós.
+rindo | - | Os catadores antigos estavam lá. Convidados por ele. Uns vinte. Aplaudindo, chorando, abraçando ele como se fosse filho de todos.
+neutra | carro | Na volta, a mãe dele foi comigo. Disse que nunca imaginou passear naquele lugar. Que só lembrava do cheiro. Agora tem cheiro de grama.
+neutra | manchete_v: TRANSFORMA | Moral da história: o lugar mais difícil da sua vida pode virar o mais bonito. Depende do que você faz com ele.
+rindo | coracao: PARQUE DOS CATADORES | E se você vir um catador hoje, cumprimenta. Ele está limpando a sua cidade. E pode ter um engenheiro do lado dele.
+
+## 189 | O ESCRIVÃO DO AMOR | curiosa | dia
+G: ✍️ Na praça, um senhor escreve cartas de amor por encomenda, numa máquina de escrever de 1960. Naquele dia, o cliente pediu uma carta impossível.
+P: Você já pediu ajuda pra escrever uma declaração de amor?
+H: #cartas #amor #curiosidades
+neutra | titulo | Sobe aí, que essa corrida levou o homem que escreveu metade das declarações de amor da cidade.
+neutra | relogio: QUINTA · 8H | Quinta, oito da manhã. Entrou um senhor de oitenta anos, terno antigo, chapéu, e uma máquina de escrever pesada numa maleta.
+rindo | conversa: Praça da matriz. | Pediu: praça da matriz. O meu escritório. Eu perguntei: o senhor trabalha na praça? Ele: há cinquenta anos. Debaixo da mesma árvore.
+neutra | carimbo: SEU ISAÍAS, ESCRIVÃO | Seu Isaías. Escrivão público. Começou escrevendo carta pra quem não sabia escrever. Requerimento, carta pra família, documento.
+rindo | conversa: Depois virou carta de amor. | Disse: depois virou carta de amor. Rapaz tímido que não sabia se declarar. Marido que queria pedir desculpa. Noivo nervoso.
+rindo | - | Contou que já escreveu mais de dez mil cartas de amor. Que tem casal com quarenta anos de casado por causa de carta dele. Que muitos nem sabem.
+neutra | mapa | Chegamos na praça. Ele armou a mesinha dobrável debaixo de uma árvore enorme. A máquina em cima. Uma placa: cartas, requerimentos, declarações.
+neutra | - | Eu ia embora. Mas ele me ofreceu um café de garrafa térmica. Fiquei. E aí chegou o primeiro cliente do dia.
+desconfiada | - | Um senhor de uns setenta e cinco anos. De bengala. Sentou na cadeira de plástico na frente da máquina. Ficou um tempo calado.
+triste | conversa: Uma carta pra minha esposa. | Disse: eu quero uma carta pra minha esposa. O seu Isaías: e o que o senhor quer dizer? O homem: que eu sinto falta dela. Ela faleceu mês passado.
+neutra | - | O seu Isaías tirou os óculos. Ficou um tempo quieto. Disse: o senhor sabe que ela não vai ler, né? O homem respondeu: eu sei. Mas eu nunca escrevi uma carta pra ela.
+triste | carimbo: CINQUENTA ANOS SEM CARTA | Contou: cinquenta anos de casados. Nunca escreveu uma carta. Ela sempre pedia. Ele dizia que não sabia escrever bonito.
+triste | - | O seu Isaías colocou o papel na máquina. E começou a perguntar. Como se conheceram. O que ela gostava. O que ele não disse.
+neutra | relogio: UMA HORA | Uma hora de conversa. O homem falando, o seu Isaías datilografando. Tec, tec, tec. A praça passando em volta. Eu do lado, ouvindo.
+chocada | manchete: A CARTA PRONTA | Quando terminou, o seu Isaías leu em voz alta. Era a carta mais bonita que eu já ouvi. E nenhuma palavra era dele. Todas eram do homem.
+triste | conversa: Eu só arrumei. | O seu Isaías disse: as palavras são suas. Eu só arrumei na linha. O homem segurou o papel com as duas mãos e chorou.
+triste | coracao: A CARTA NO TÚMULO | Disse que ia levar no cemitério. Ler pra ela em voz alta. E deixar lá, numa caixinha, protegida da chuva.
+neutra | - | Na hora de pagar, o seu Isaías não aceitou. Disse: carta pra quem partiu eu nunca cobro. Essa é por conta da praça.
+neutra | carro | No fim do dia, voltei pra buscar o seu Isaías. Ele me contou que escreveu mais nove cartas. E que aquela foi a mais bonita em cinquenta anos.
+neutra | manchete_v: ESCREVE AGORA | Moral da história: não espera alguém partir pra escrever a carta que essa pessoa sempre pediu.
+rindo | coracao: TEC TEC TEC | E se alguém que você ama sempre pediu uma carta, escreve hoje. Nem que seja torta. Ela vai guardar pra sempre.
+
+## 190 | AS DUAS AVÓS | familia | noite
+G: 👵👵 As duas avós do bebê disputavam tudo: o nome, a roupa do batizado, o colo. No caminho da igreja, no meu carro, a guerra chegou ao fim.
+P: Como é a relação entre as avós da sua família?
+H: #avos #batizado #familia
+neutra | titulo | Sobe aí, que essa corrida teve duas avós, um bebê e uma trégua.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Corrida até a igreja. Entraram no banco de trás duas senhoras de uns sessenta e cinco anos. E entre elas, um bebê de três meses no bebê-conforto.
+rindo | conversa: Eu seguro. Não, eu seguro. | Antes de pôr o cinto, as duas já estavam discutindo quem ia ficar do lado do bebê. Acabaram as duas do lado. Uma em cada ponta.
+neutra | carimbo: AS AVÓS RIVAIS | Dona Marta, a avó materna. Dona Helena, a avó paterna. O batizado do neto era naquele dia. E os pais tinham ido na frente arrumar a igreja.
+rindo | - | No caminho, a disputa. O bebê está com a roupa que eu dei. Não, o sapatinho é meu. A manta é minha. O nome do meio foi ideia minha.
+rindo | conversa: Ele sorri mais pra mim. | Dona Marta: ele sorri mais pra mim. Dona Helena: é gases. Dona Marta: é amor. Eu segurando o riso no volante.
+neutra | - | Contaram, cada uma do seu jeito, que a guerra começou no casamento dos filhos. Uma não gostou do vestido da outra. E foi só piorando.
+chocada | carimbo: O BEBÊ CHOROU | Aí o bebê começou a chorar. Forte. As duas tentaram ao mesmo tempo. Uma balançou o bebê-conforto, a outra cantou. O bebê chorou mais.
+brava | - | Dona Marta tirou a chupeta da bolsa. Dona Helena disse que não pode dar chupeta. Brigaram. O bebê gritando no meio.
+neutra | - | Eu encostei o carro. Olhei pra trás. E falei: as senhoras me desculpem. Mas ele tá chorando porque vocês estão brigando.
+desconfiada | - | As duas me olharam ofendidas. Depois olharam o bebê. E ficaram em silêncio. O bebê parou de chorar quase na hora.
+triste | conversa: Ele sente. | Eu disse: criança sente. Minha mãe dizia isso. Briga perto de bebê, bebê chora. As duas ficaram quietas um tempão.
+triste | carimbo: A CONFISSÃO | Aí a dona Helena falou baixinho: eu tenho medo de ele gostar mais dela. Ela mora perto. Eu moro longe. Vou ver ele pouco.
+triste | - | A dona Marta ficou surpresa. E respondeu: e eu tenho medo de ele gostar mais de você. Você é mais divertida. Você tem piscina.
+rindo | - | As duas se olharam. E começaram a rir. Uma risada nervosa, depois uma risada de verdade. O bebê riu junto. Juro.
+triste | coracao: AS DUAS SEGURARAM | E aí as duas tiraram o bebê do bebê-conforto, com cuidado, no carro parado. E seguraram ele juntas. Uma mão de cada uma.
+neutra | conversa: Ele vai ter duas avós. | A dona Marta disse: ele vai ter duas avós. Isso é sorte. A gente que tava esquecendo disso.
+neutra | mapa | Chegamos na igreja. Os pais na porta, nervosos, esperando a guerra. E as duas desceram de braço dado. Com o bebê no colo das duas.
+chocada | manchete: A TRÉGUA | Os pais ficaram de boca aberta. O pai perguntou: o que aconteceu? A dona Helena respondeu: o motorista. Ele é um diplomata.
+neutra | - | No batizado, as duas seguraram o bebê juntas na pia batismal. O padre estranhou, mas aceitou. Duas avós, quatro mãos.
+neutra | carro | Na volta, elas me pediram meu número. Disseram que no primeiro aniversário eu tenho que ir. Pra garantir a paz.
+neutra | manchete_v: SOMA, NÃO DIVIDE | Moral da história: amor de avó não divide. Soma. Quanto mais avó, melhor pro neto.
+rindo | coracao: QUATRO MÃOS | E se na sua família as avós disputam, lembra elas: o neto ganha em dobro. E chora quando elas brigam.
+
+## 191 | A ÚLTIMA AULA DE DIREÇÃO | reflexao | dia
+G: 🚗 O pai ensinou o filho a dirigir aos 18. Aos 82, o médico disse que ele não podia mais. O filho levou o pai pra uma última volta. Com o pai no volante.
+P: Quem te ensinou a dirigir? Ou a fazer algo importante?
+H: #pai #reflexao #familia
+neutra | titulo | Sobe aí, que essa corrida foi uma aula de direção ao contrário.
+neutra | relogio: DOMINGO · 7H | Domingo, sete da manhã. Recebi uma corrida estranha. O passageiro pediu: preciso que o senhor leve a gente até um estacionamento vazio e espere.
+neutra | mapa | Cheguei. Entraram um homem de uns cinquenta anos e um senhor de oitenta e dois. O pai. De boné, óculos grossos, e as mãos tremendo um pouquinho.
+neutra | carimbo: O PAI E O CARRO | O filho, Marcos, explicou. O pai, seu Odair, dirigiu por sessenta anos. Foi caminhoneiro, taxista, motorista de ônibus. E na semana anterior, o médico disse: chega.
+triste | conversa: Ele não aceita. | Disse: ele não aceita. Fica olhando o carro dele na garagem. Pegou a chave escondido três vezes essa semana.
+neutra | - | E o filho teve uma ideia. Ia vender o carro do pai. Mas antes, queria dar uma última volta. Num lugar seguro. Com o pai no volante.
+neutra | - | E pediu um carro de aplicativo pra levar e trazer. Pra eu ficar de olho. Pra ter alguém de fora. Pra ninguém se machucar.
+neutra | mapa | Fomos até o estacionamento de um shopping fechado, domingo cedo. Vazio. Enorme. E lá estava o carro do seu Odair. O filho tinha levado de guincho.
+triste | - | O seu Odair viu o carro e parou. Ficou olhando. Disse: é a última vez, né? O filho não respondeu. Só entregou a chave.
+neutra | carimbo: A ÚLTIMA VOLTA | O pai sentou no volante. O filho no banco do carona. E eu fiquei do lado de fora, encostado no meu carro, olhando.
+neutra | - | O seu Odair ajustou o banco. Ajustou o retrovisor. Colocou as duas mãos no volante. Do jeito que ensinou o filho trinta e dois anos antes.
+triste | conversa: Embreagem devagar. | E eu ouvi pela janela aberta. O pai falando: embreagem devagar, olha o retrovisor, seta antes de virar. Ensinando de novo. O filho dizendo: sim, pai.
+neutra | relogio: 40 MINUTOS | Quarenta minutos dando volta no estacionamento vazio. Devagar. Fazendo baliza entre as linhas pintadas. Ele acertou todas.
+triste | - | No final, ele parou o carro no meio do estacionamento. Desligou. E ficou com as mãos no volante um tempão. Em silêncio.
+triste | manchete: ELE ENTREGOU A CHAVE | Depois tirou a chave da ignição. E entregou pro filho. Disse: toma. Agora é você que me leva.
+triste | coracao: AGORA É VOCÊ | O filho segurou a chave. E abraçou o pai ali dentro do carro. Dois homens chorando no meio de um estacionamento vazio, às oito da manhã.
+neutra | - | Depois o seu Odair desceu. Andou até o meu carro. Sentou no banco de trás. E disse: me leva pra casa, motorista. Eu sou passageiro agora.
+triste | conversa: Passageiro também aprende. | No caminho, ele disse: sessenta anos levando os outros. Agora eu vou aprender a ser levado. O senhor me ensina? Eu disse: é fácil. É só confiar.
+neutra | carro | Deixei os dois em casa. O filho guardou a chave do carro do pai numa caixinha. Disse que não vai vender. Vai deixar pra quando o neto tirar carteira.
+neutra | manchete_v: DEIXA SER LEVADO | Moral da história: um dia quem ensinou a gente a dirigir vai precisar que a gente dirija. Faz com o mesmo carinho.
+rindo | coracao: EMBREAGEM DEVAGAR | E se seu pai ou sua mãe está ficando mais velho, tem paciência. Ele teve com você na primeira aula.
+
+## 192 | AS COMADRES DO PONTO | amizade | noite
+G: 🚏 Elas se conheceram num ponto de ônibus em 1990 e nunca deixaram de se encontrar. Hoje, uma ia se mudar de cidade. A despedida foi no mesmo ponto.
+P: Qual amizade sua começou num lugar inesperado?
+H: #amizade #comadres #despedida
+neutra | titulo | Sobe aí, que essa corrida levou uma amizade de trinta e seis anos pro lugar onde ela começou.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Entrou uma senhora de uns setenta anos com uma bolsa de crochê e uma lata de biscoito amanteigado no colo.
+neutra | conversa: Ponto de ônibus da avenida. | Pediu: ponto de ônibus da avenida principal, aquele perto da farmácia. Eu perguntei: vai pegar ônibus? Ela riu: não. Vou me despedir de uma amiga.
+neutra | carimbo: O PONTO DE 1990 | Dona Zuleica. Em mil novecentos e noventa, esperando o ônibus pra ir trabalhar, começou a conversar com outra mulher. A dona Joana. Por causa de chuva.
+rindo | conversa: Ela tinha guarda-chuva. | Disse: começou a chover forte. Ela tinha guarda-chuva. Eu não. Ela me ofereceu metade. E a gente conversou até o ônibus chegar.
+rindo | - | Pegavam o mesmo ônibus, no mesmo horário. Viraram amigas. Depois comadres. Uma batizou o filho da outra.
+neutra | - | Disse que se aposentaram no mesmo ano. E mesmo sem precisar pegar ônibus, continuaram se encontrando no ponto. Toda sexta, às seis. Pra conversar.
+triste | conversa: Ela vai embora. | Mas naquela sexta, a dona Joana ia se mudar. Pra outro estado. Morar com a filha. Ia ser o último encontro no ponto.
+triste | - | A dona Zuleica ficou quieta segurando a lata de biscoito. Disse: trinta e seis anos, moço. Mais tempo que eu fiquei casada.
+neutra | mapa | Chegamos no ponto. Um ponto simples, cobertura de metal, um banco de concreto. E a dona Joana já estava lá. Sentada. Com um guarda-chuva no colo. Sem chuva.
+triste | - | As duas se abraçaram. Sentaram no banco. Abriram a lata de biscoito. Igual faziam toda sexta. Eu fiquei no carro, porque a dona Zuleica pediu.
+neutra | - | Passou um ônibus. Elas não pegaram. Passou outro. Elas não pegaram. O motorista de um deles buzinou e acenou. Conhecia as duas.
+chocada | carimbo: OS MOTORISTAS | Depois eu soube: os motoristas da linha conheciam as duas. Trinta e seis anos vendo elas no ponto. Chamavam de as comadres do ponto.
+chocada | manchete: O ÔNIBUS PAROU | E aí um ônibus parou. Desceu o motorista. Um senhor de cabelo branco. Com uma placa de papelão: obrigado, comadres. Da linha 404.
+triste | - | Atrás dele desceram mais três motoristas e dois cobradores. Que vieram nos ônibus seguintes. Combinaram pelo rádio.
+triste | coracao: A LINHA 404 | Deram flores pras duas. O motorista mais antigo disse: vocês foram a nossa parada mais bonita por trinta e seis anos.
+neutra | - | A dona Joana chorou. A dona Zuleica chorou. Os passageiros dos ônibus parados olhando pela janela, sem entender, aplaudindo.
+triste | conversa: Fica com o guarda-chuva. | Na despedida, a dona Joana deu o guarda-chuva pra dona Zuleica. Disse: fica com ele. Pra quando chover e você lembrar de mim.
+neutra | carro | Na volta, a dona Zuleica foi com o guarda-chuva no colo. Disse que vai continuar indo no ponto toda sexta. Pra fazer videochamada de lá.
+neutra | manchete_v: DIVIDE O GUARDA-CHUVA | Moral da história: tem amizade que começa com metade de um guarda-chuva e dura a vida inteira.
+rindo | coracao: COMADRES DO PONTO | E se você tem uma amiga de anos, marca um encontro no lugar onde tudo começou. E leva biscoito.
+
+## 193 | A VOZ DO GPS | humor | dia
+G: 🗺️ O passageiro brigava com a voz do GPS. Xingava, discutia, desligava. Na corrida seguinte, entrou no meu carro a dona da voz.
+P: Você também conversa com o GPS?
+H: #gps #humor #coincidencia
+neutra | titulo | Sobe aí, que essa corrida teve uma briga com uma mulher que nem estava no carro. E depois estava.
+neutra | relogio: TERÇA · 14H | Terça, duas da tarde. Entrou um senhor de uns sessenta anos, bravo, já reclamando do trânsito antes de sentar.
+brava | conversa: Desliga essa mulher. | Primeira coisa que ele disse: desliga essa mulher. Eu perguntei: que mulher? Ele apontou pro celular: a do GPS. Eu não suporto ela.
+rindo | carimbo: A VOZ DO GPS | A voz do GPS. Aquela voz calma, educada: em duzentos metros, vire à direita. Ele odiava. Disse que era a voz mais irritante do mundo.
+rindo | - | Seu Jurandir. Disse que no carro dele, ele discute com o GPS. Ela fala: recalculando rota. E ele responde: recalcula você, que eu sei o caminho.
+rindo | conversa: Ela é muito calma. | Disse: ela é calma demais. Você erra a rua e ela fala recalculando, toda tranquila. Parece minha ex-sogra.
+neutra | - | Eu deixei o GPS ligado, porque eu precisava. E toda instrução, ele respondia. Vire à esquerda. Por quê? Siga em frente. Eu não quero.
+rindo | manchete: A DISCUSSÃO | Numa hora, o GPS falou: você chegou ao seu destino. E não tinha chegado. Era a rua errada. Ele gritou: chegou nada, sua mentirosa!
+rindo | - | Eu ri tanto que tive que encostar. Ele ficou bravo comigo também. Disse que eu tava do lado dela.
+neutra | mapa | Deixei o seu Jurandir no destino. Ele desceu resmungando. E eu peguei a próxima corrida, ali mesmo, na mesma rua.
+desconfiada | - | Entrou uma senhora de uns cinquenta e cinco anos, bem arrumada, educada. Disse: boa tarde. Pode seguir o GPS, por favor.
+chocada | - | Eu reconheci a voz na hora. Arrepiei. Era a mesma voz. A voz do GPS. Calma, educada, perfeita.
+desconfiada | conversa: A senhora é…? | Eu perguntei: me desculpa, mas a senhora é… a voz do GPS? Ela riu: sou. Uma delas. Gravei há dez anos. Todo mundo me pergunta.
+chocada | carimbo: DONA VERA, LOCUTORA | Dona Vera. Locutora. Gravou milhares de frases num estúdio. Disse que até hoje, quando ouve a própria voz no carro dos outros, acha estranho.
+rindo | - | Eu contei do seu Jurandir. Da briga. Da mentirosa. Ela riu tanto que precisou de lenço.
+rindo | conversa: Volta lá. | Aí ela disse: volta lá. Eu quero conhecer esse homem. Eu dei a volta no quarteirão. O seu Jurandir ainda estava na calçada, mexendo no celular.
+chocada | manchete: O ENCONTRO | Ela abriu a janela e falou, com a voz do GPS: senhor Jurandir. Em cinco metros, peça desculpas.
+chocada | - | O seu Jurandir ficou branco. Olhou pra ela. Olhou pro meu carro. Ficou mudo. Pela primeira vez na tarde.
+rindo | carimbo: RECALCULANDO | Depois começou a rir. Desculpa, senhora. Eu não sabia que a senhora existia. Ela respondeu: recalculando opinião.
+rindo | coracao: A VOZ E O RESMUNGÃO | Os dois ficaram conversando na calçada uns dez minutos. Ele contando todas as brigas. Ela rindo de cada uma.
+neutra | carro | Antes de ir, ela gravou um áudio no celular dele, com a voz do GPS: Jurandir, respire fundo. O trânsito não é culpa de ninguém. Ele disse que vai ouvir todo dia.
+neutra | manchete_v: TEM GENTE DO OUTRO LADO | Moral da história: do outro lado de toda voz, todo atendimento, todo sistema, tem uma pessoa. Trata bem.
+rindo | coracao: RECALCULANDO | E se você briga com o GPS, pega leve. Ela pode estar no seu próximo carro.
+
+## 194 | O LIVRO EM BRAILLE | superacao | noite
+G: 📖 Ela ficou cega aos 40 e achou que nunca mais ia ler. Aos 58, lançava o próprio livro. Em braille e em tinta.
+P: Qual livro você recomendaria pra alguém que está recomeçando?
+H: #braille #superacao #escritora
+neutra | titulo | Sobe aí, que essa corrida levou uma escritora que lê com a ponta dos dedos.
+neutra | relogio: SÁBADO · 18H | Sábado, seis da tarde. Entrou uma mulher de uns cinquenta e oito anos, óculos escuros, bengala branca e uma caixa de livros no colo.
+rindo | conversa: É o meu livro. | Disse: é o meu livro, moço. Lançamento hoje. Eu perguntei se podia ver. Ela abriu a caixa e me deu um.
+neutra | carimbo: DOIS LIVROS EM UM | Era um livro diferente. De um lado, as páginas impressas normais. Do outro, em braille. Os pontinhos em relevo.
+triste | conversa: Fiquei cega aos quarenta. | Dona Márcia. Professora de literatura. Aos quarenta, por causa de uma doença nos olhos, perdeu a visão em dois anos.
+triste | - | Disse que a primeira coisa que pensou foi: nunca mais vou ler. Ela, que tinha mais de mil livros em casa.
+triste | conversa: Fiquei dois anos sem sair. | Contou: fiquei dois anos sem sair do quarto. Os livros na estante, me olhando. E eu sem conseguir abrir nenhum.
+neutra | carimbo: O BRAILLE | Até que uma ex-aluna dela, que trabalhava numa associação de cegos, levou um livro em braille. E disse: professora, aprende. A senhora aprende tudo.
+rindo | conversa: Demorei um ano. | Riu: demorei um ano pra ler uma página. Meus dedos eram burros. Eu chorava de raiva. Mas aprendi.
+neutra | - | Depois de aprender, começou a escrever. Num diário em braille. Sobre perder a visão. Sobre o medo. Sobre voltar a ler.
+neutra | - | A ex-aluna leu o diário e disse: isso precisa virar livro. Com uma editora pequena, conseguiram publicar. Nas duas versões.
+neutra | mapa | Chegamos numa biblioteca pública. Cheia. Gente cega e gente que enxerga. Cão-guia deitado no chão. Um intérprete de libras no canto.
+neutra | - | Ela pediu pra eu levar a caixa até a mesa de autógrafos. Eu levei. E fiquei. Já virou costume eu ficar.
+chocada | relogio: A LEITURA | Na hora da leitura, ela abriu o livro no lado do braille. E começou a ler. Passando os dedos pelos pontinhos. Sem pressa.
+triste | manchete: OS DEDOS LENDO | A biblioteca inteira em silêncio. Ouvindo uma mulher ler com os dedos a história de quando achou que nunca mais ia ler.
+triste | - | Na plateia, uma menina de uns doze anos, de bengala branca, segurava o livro em braille no colo. Lendo junto com os dedos.
+chocada | carimbo: A MENINA | No final, a menina levantou a mão. Perguntou: a senhora acha que eu posso ser escritora também? Ela nasceu cega.
+triste | coracao: PODE SIM | A dona Márcia foi até ela. Pegou a mão da menina. Colocou na página do livro. Disse: tá sentindo? Essas letras foram escritas por alguém que achou que não podia. Pode sim.
+rindo | - | A menina saiu de lá com um livro autografado. Em braille. A dona Márcia furou a dedicatória com a reglete na hora.
+neutra | carro | Na volta, ela me pediu pra ler um trecho do livro em voz alta. Eu li. Do lado da tinta. E ela acompanhou com os dedos. Sabia de cor.
+neutra | manchete_v: APRENDE DE NOVO | Moral da história: quando a vida tira um caminho, a gente aprende outro. Mesmo que seja com a ponta dos dedos.
+rindo | coracao: DONA MÁRCIA | E se você está recomeçando alguma coisa difícil, lembra: dedos burros aprendem. Leva tempo. Mas aprendem.

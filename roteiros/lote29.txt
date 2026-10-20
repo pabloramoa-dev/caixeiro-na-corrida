@@ -1,0 +1,260 @@
+## 305 | O MASCOTE DO TIME | futebol | noite
+G: 🦁 Quinze anos dentro de uma fantasia de leão. Ninguém no estádio sabia o rosto dele. No último jogo, a torcida inteira descobriu.
+P: Qual é o mascote do seu time?
+H: #futebol #mascote #torcida
+neutra | titulo | Sobe aí, que essa corrida levou um leão de pelúcia no banco de trás. Do tamanho de um homem.
+neutra | relogio: DOMINGO · 14H | Domingo, duas da tarde. Entrou um rapaz de uns quarenta anos com um saco preto gigante. Maior que ele. Pediu pra ir pro estádio do time da cidade.
+desconfiada | conversa: É o leão. | Eu perguntei o que tinha no saco. Ele abriu um pouquinho. Era uma cabeça de leão. Juba amarela, olho de plástico, sorriso enorme. Disse: é o leão. O mascote.
+neutra | carimbo: O HOMEM DO LEÃO | Chama-se Nilton. Há quinze anos ele é o mascote do time. Série D. Estádio de três mil lugares. Pagam cinquenta reais por jogo e um lanche.
+rindo | conversa: Ninguém sabe que sou eu. | Riu: ninguém sabe que sou eu. Nem os vizinhos. Minha mãe acha que eu vendo pipoca no estádio. Faz quinze anos.
+neutra | - | Contou que entrou na fantasia por acaso. O mascote antigo faltou num jogo. Ele estava na arquibancada. Perguntaram quem cabia na roupa. Ele coube.
+rindo | conversa: Já levei bolada de goleiro. | Disse: já levei bolada de goleiro. Já dancei funk com a torcida adversária. Já caí no fosso. Já fiquei preso no banheiro com a cabeça entalada.
+triste | - | Mas hoje era o último jogo. O joelho não aguentava mais. Fantasia de leão pesa doze quilos. E dentro faz quarenta graus.
+triste | conversa: Vou sair sem ninguém saber. | Ficou quieto e disse: vou sair do mesmo jeito que entrei. Sem ninguém saber quem era. Do jeito que tem que ser. O leão é do time, não é meu.
+neutra | mapa | Deixei ele no portão dos funcionários. Mas o jogo tava passando no rádio. E eu tinha folga. Comprei um ingresso de vinte reais. Fiquei curioso.
+neutra | - | O leão entrou no gramado antes do jogo. Dançou, abraçou criança, tirou foto. Fez a coreografia de sempre. A torcida cantou o nome do leão.
+chocada | manchete: O ANÚNCIO NO ALTO-FALANTE | No intervalo, o alto-falante do estádio chamou: senhoras e senhores, hoje é a despedida de alguém muito especial. O leão foi pro meio do campo.
+chocada | - | O presidente do clube estava lá. Com um microfone. E disse: quinze anos, trezentos jogos, nenhuma falta. Leão, tira a cabeça.
+triste | carimbo: O ROSTO DO LEÃO | O Nilton tirou a cabeça devagar. Suado, vermelho, com o cabelo grudado. E a arquibancada ficou em silêncio. Ninguém conhecia aquele rosto.
+chocada | - | Aí uma senhora levantou lá em cima. Gritando: é o meu filho! É o meu filho! Era a mãe dele. O presidente tinha convidado escondido.
+rindo | conversa: E a pipoca? | A torcida inteira começou a aplaudir. E a mãe gritou lá de cima: e a pipoca, Nilton?! O estádio caiu na gargalhada.
+triste | coracao: O LEÃO APLAUDIDO | Três mil pessoas aplaudindo de pé um homem que ninguém conhecia. O Nilton chorava segurando a cabeça do leão debaixo do braço.
+neutra | - | O clube deu uma camisa com o número quinze e o nome dele nas costas. E disse que a fantasia vai ficar no museu do time. Com uma placa.
+neutra | carro | Na volta, levei os dois. Ele e a mãe. A mãe brigou o caminho inteiro: quinze anos mentindo pra mim! E no final deu um beijo na testa dele.
+neutra | manchete_v: QUEM FAZ A FESTA | Moral da história: tem gente que faz a alegria dos outros sem nunca aparecer. Repara nelas.
+rindo | coracao: SALVE O LEÃO | E se o seu time tem mascote, aplaude ele no próximo jogo. Pode ter um Nilton lá dentro, suando pela sua alegria.
+
+## 306 | O DISCO ARRANHADO | amor | noite
+G: 💿 O disco da música deles quebrou na mudança. Faltavam três dias pras bodas de ouro. Ele rodou a cidade inteira atrás de outro.
+P: Qual é a música do seu casal?
+H: #amor #bodas #musica
+neutra | titulo | Sobe aí, que essa corrida rodou sete sebos atrás de um disco de vinil. E de um amor de cinquenta anos.
+neutra | relogio: QUINTA · 10H | Quinta, dez da manhã. Entrou um senhor de uns setenta e cinco anos com uma sacola de pano e um papel escrito à mão. Uma lista de endereços.
+neutra | conversa: Preciso achar um disco. | Disse: preciso achar um disco. Um disco só. Até sábado. São as minhas bodas de ouro.
+neutra | carimbo: SEU HEITOR | Chama-se Heitor. Casado há cinquenta anos com a dona Clarice. Conheceu ela num baile em mil novecentos e setenta e seis. Dançaram uma música só a noite inteira.
+triste | conversa: Caiu na mudança. | Contou: a gente mudou pro apartamento do filho mês passado. Na mudança, a caixa de discos caiu. Quebrou o disco da nossa música. Ela chorou uma semana.
+neutra | - | O disco era de um cantor romântico dos anos setenta. Não tem no streaming. A gravadora fechou. Só existe em vinil. E em pouca quantidade.
+neutra | mapa | Primeiro sebo, no centro. Não tinha. Segundo, numa galeria. Tinha o disco do mesmo cantor, mas outro álbum. Terceiro, fechado.
+rindo | conversa: Você conhece esse cantor? | Ele perguntava em todo lugar: você conhece esse cantor? Os vendedores jovens não conheciam. Um disse: é sertanejo? Seu Heitor ficou ofendido.
+neutra | - | Quarto sebo. O dono conhecia. Disse: esse disco é raro, senhor. Tem um colecionador na zona norte que tem. Mas ele não vende.
+desconfiada | - | Fomos lá. Uma casa cheia de disco do chão ao teto. O colecionador, um senhor de óculos fundos, disse logo na porta: não vendo nada.
+triste | conversa: Eu não quero comprar. | O seu Heitor disse: eu não quero comprar. Eu quero contar uma história. E contou do baile, da música, dos cinquenta anos, do disco quebrado.
+neutra | - | O colecionador ficou ouvindo de braço cruzado. Depois entrou. Ficou um tempão lá dentro. E voltou com o disco na mão.
+chocada | carimbo: A CONDIÇÃO | E disse: eu empresto. Não vendo, não dou. Empresto. Mas com uma condição. Eu quero estar na festa quando tocar.
+rindo | conversa: Pode ir de terno? | O seu Heitor riu: pode ir. Mas tem que ir de terno. O colecionador disse: eu tenho um terno de mil novecentos e setenta e seis. Serve?
+neutra | relogio: SÁBADO · 20H | Sábado à noite eu fui buscar os dois pra festa. O seu Heitor e o colecionador. De terno. O disco no colo, embrulhado numa toalha.
+neutra | - | No salão, a dona Clarice não sabia de nada. Achava que a música ia ser do celular do neto. Uma versão qualquer. Com outra voz.
+triste | coracao: A AGULHA NO DISCO | Aí o seu Heitor colocou o disco na vitrola antiga do filho. A agulha chiou. E começou a música. A original. Com aquele chiado de vinil.
+triste | - | A dona Clarice levou a mão na boca. Olhou pro marido. E os dois dançaram. Do mesmo jeito do baile de setenta e seis. Devagar, colados.
+rindo | - | E no canto do salão, o colecionador de terno antigo chorava mais que a família toda. Depois ele disse: pode ficar com o disco. Tem dono certo.
+neutra | manchete_v: A MÚSICA DE VOCÊS | Moral da história: amor de cinquenta anos tem trilha sonora. E vale atravessar a cidade pra ela tocar de novo.
+rindo | coracao: COLOCA A MÚSICA | E hoje coloca a música do seu casal pra tocar. Mesmo que seja num celular. Ela merece ouvir de novo.
+
+## 307 | O TERNO ALUGADO | humor | dia
+G: 🤵 Alugou o terno pelo telefone. Veio três números maior. O casamento da filha era em uma hora. E a costureira estava no meu carro.
+P: Qual foi a sua maior gafe de roupa?
+H: #humor #casamento #terno
+neutra | titulo | Sobe aí, que essa corrida teve uma costureira, um pai desesperado e um terno onde cabiam dois.
+neutra | relogio: SÁBADO · 15H | Sábado, três da tarde. Entrou um senhor baixinho, de uns sessenta anos, segurando a calça com as duas mãos. Literalmente. Segurando a calça.
+chocada | conversa: Veio errado! | Disse: o terno veio errado! Eu pedi quarenta e dois. Veio quarenta e oito. E o casamento da minha filha é às quatro!
+neutra | carimbo: SEU DORIVAL | Seu Dorival. Pai da noiva. Alugou o terno pelo telefone pra economizar. A loja entregou. Ele nem provou. Provou na hora de vestir.
+rindo | - | O paletó chegava no joelho. A manga cobria a mão inteira. Parecia um menino com a roupa do pai. A calça ele segurava com cinto, barbante e esperança.
+rindo | conversa: Toca pra costureira! | Disse: toca pra casa da dona Lindalva, a costureira do bairro. Ela é a única que pode me salvar. Eu toquei.
+neutra | mapa | Chegamos. A dona Lindalva veio de chinelo, com a fita métrica no pescoço e a boca cheia de alfinete. Olhou o seu Dorival e disse: misericórdia.
+chocada | conversa: Não dá tempo de costurar. | Disse: não dá tempo de costurar. Mas dá tempo de alfinetar. Entra no carro que eu vou alfinetando no caminho.
+rindo | - | E entrou. A dona Lindalva no banco de trás com o seu Dorival. Alfinetando o terno com o carro andando. Eu dirigindo devagar igual carro de cortejo.
+rindo | conversa: Não respira! | Cada lombada ela gritava: devagar, motorista! E pro seu Dorival: não respira! Não mexe! Se mexer, fura!
+rindo | - | Ela dobrou a manga pra dentro e prendeu. Apertou as costas com doze alfinetes. Fez uma prega na calça. O seu Dorival virou uma almofada de alfinete.
+desconfiada | conversa: Tô parecendo um porco-espinho. | Ele disse: tô parecendo um porco-espinho. A dona Lindalva disse: um porco-espinho elegante. Agora não abraça ninguém com força.
+neutra | mapa | Chegamos na igreja faltando cinco minutos. Ele desceu duro, igual robô. Andando sem dobrar o braço. A filha já estava na porta, de noiva.
+chocada | carimbo: A NOIVA | A noiva olhou pro pai. Olhou de cima a baixo. E perguntou: pai, por que você tá andando assim? Ele disse: depois eu te conto, minha filha.
+neutra | - | A dona Lindalva entrou junto. Sentou no primeiro banco. Com o kit de costura no colo. Pronta pra emergência.
+rindo | - | Na entrada, ele levou a filha até o altar. Bem devagar. Dizem que foi a entrada mais elegante que a igreja já viu. Ninguém sabia que era por causa dos alfinetes.
+rindo | manchete: O ABRAÇO DO NOIVO | Só que no final o noivo veio dar um abraço apertado no sogro. O seu Dorival gritou: ai! Na frente da igreja inteira. O padre achou que era emoção.
+rindo | - | Na festa, ele não dançou. Ficou sentado, duro, na cadeira. A dona Lindalva foi tirando os alfinetes um por um. Quarenta e sete alfinetes.
+rindo | conversa: Ano que vem eu compro um. | Depois ele me mandou mensagem: ano que vem eu compro um terno. Do meu tamanho. E provo antes. A dona Lindalva me cobrou cinquenta reais e um pedaço de bolo.
+neutra | manchete_v: PROVA ANTES | Moral da história: economizar é bom. Mas prova a roupa antes do grande dia. E tenha sempre uma costureira de confiança.
+rindo | coracao: VIVA AS COSTUREIRAS | E se a costureira do seu bairro já te salvou, manda um abraço pra ela. Elas salvam casamento todo fim de semana.
+
+## 308 | O SAPATEIRO MARATONISTA | superacao | dia
+G: 👞 Consertou sapato a vida inteira. Aos sessenta e um, resolveu correr uma maratona. Com um tênis que ele mesmo remendou.
+P: Você já fez alguma coisa que todo mundo dizia que você não ia conseguir?
+H: #superacao #corrida #maratona
+neutra | titulo | Sobe aí, que essa corrida levou um sapateiro de sessenta e um anos pra largada de uma maratona.
+neutra | relogio: DOMINGO · 5H | Domingo, cinco da manhã. Ainda escuro. Entrou um senhor magrinho, de bermuda, camiseta de algodão e um número de peito preso com alfinete.
+neutra | conversa: Vou correr quarenta e dois. | Disse: vou correr quarenta e dois quilômetros. Hoje. Eu perguntei se ele já tinha corrido antes. Ele: há um ano, eu não corria nem atrás de ônibus.
+neutra | carimbo: SEU CELESTINO | Seu Celestino. Sapateiro há quarenta anos. Banquinha de um metro e meio numa galeria. Já consertou tênis de tanto corredor que perdeu a conta.
+neutra | conversa: Eu queria saber pra onde eles iam. | Disse: eu consertava o tênis dos corredores e pensava: pra onde esse povo vai correndo? Um dia eu resolvi ir junto.
+rindo | - | Começou dando volta no quarteirão. Uma volta. Chegou em casa sem ar. A esposa perguntou se ele estava fugindo da polícia.
+neutra | - | Depois duas voltas. Depois cinco. Depois o parque. Treinava antes de abrir a banca. Às quatro e meia da manhã. Todo dia. Durante um ano.
+desconfiada | conversa: Olha o tênis. | Mostrou o pé. O tênis era velho, de marca. Ganhou de um cliente que ia jogar fora. Ele trocou a sola, costurou a lateral, colou a palmilha.
+rindo | conversa: Esse aqui tem três vidas. | Riu: esse aqui tem três vidas. A do dono, a minha, e a de hoje. Se ele aguentar, eu emolduro.
+triste | - | Contou que os filhos acharam loucura. Pai, você tem sessenta e um anos. Vai passar mal. O médico liberou. Mas a família não acreditava.
+neutra | mapa | Deixei ele na largada. Dez mil pessoas. Todo mundo de roupa colorida e relógio caro. Ele de camiseta de algodão e tênis remendado. Feliz da vida.
+neutra | - | Fiquei pensando nele a manhã inteira. Às onze, peguei o aplicativo da prova pra acompanhar o número dele. Ainda estava correndo.
+chocada | relogio: DOMINGO · 12H | Meio-dia. Ele ainda estava no quilômetro trinta e cinco. Eu fui pra perto da chegada. Sei lá. Fiquei com vontade de ver.
+neutra | - | Na chegada, quase ninguém mais. A maioria já tinha terminado. Estavam desmontando a estrutura. Os últimos chegando andando.
+triste | carimbo: QUILÔMETRO QUARENTA | Aí eu vi ele. Na reta final. Mancando. Mas correndo. A sola do tênis descolando, batendo no chão. Clap, clap, clap.
+chocada | manchete: A FAMÍLIA NA CHEGADA | E na grade da chegada, gritando, os três filhos e a esposa. Tinham ido escondido. Com uma faixa: VAI, SAPATEIRO!
+triste | coracao: CINCO HORAS E QUARENTA | Ele cruzou a linha com cinco horas e quarenta e dois minutos. Caiu de joelho. A esposa abraçou ele. Os filhos choravam.
+rindo | conversa: O tênis aguentou! | E a primeira coisa que ele disse foi: o tênis aguentou! Levantou o pé. A sola pendurada por um fio. Mas aguentou.
+neutra | carro | Levei a família toda pra casa. Ele com a medalha no pescoço e o tênis no colo. Disse: segunda-feira esse aqui vai pra parede da banca.
+neutra | - | Hoje o tênis está pendurado na banca dele. Com a medalha. E uma plaquinha: três vidas, quarenta e dois quilômetros. Os corredores param pra tirar foto.
+neutra | manchete_v: COMEÇA COM UMA VOLTA | Moral da história: ninguém começa com quarenta e dois quilômetros. Começa com uma volta no quarteirão. Sem ar. Mas começa.
+rindo | coracao: UMA VOLTA HOJE | E se você tem um sonho parado, dá a primeira volta hoje. Pequena mesmo. Amanhã você dá duas.
+
+## 309 | O LEILÃO DOS ACHADOS | curiosa | dia
+G: 📦 Comprou uma caixa fechada num leilão de objetos perdidos do metrô. Vinte reais. Dentro, tinha um caderno com quarenta anos de história de alguém.
+P: Qual foi a coisa mais estranha que você já achou?
+H: #curiosidade #leilao #achados
+neutra | titulo | Sobe aí, que essa corrida levou uma caixa de vinte reais que valia uma vida inteira.
+neutra | relogio: SÁBADO · 13H | Sábado, uma da tarde. Entrou uma moça de uns trinta anos com uma caixa de papelão lacrada no colo. Animada que só.
+rindo | conversa: É uma caixa-surpresa. | Disse: é uma caixa-surpresa. Leilão de achados e perdidos do metrô. Tudo que ninguém foi buscar em um ano vai pra leilão em lote fechado.
+neutra | carimbo: A RAQUEL | Raquel. Faz isso por hobby. Compra lote fechado, abre em casa, revende o que dá. Já achou guarda-chuva, fone, até uma dentadura.
+rindo | conversa: Abre aqui! | Eu falei: abre aqui no carro, eu também quero ver. Ela riu e abriu no sinal vermelho. Tinha três guarda-chuvas, um cachecol, uma lancheira.
+neutra | - | E no fundo, um caderno de capa dura. Velho, com elástico. Escrito na capa: diário de bordo. Ela abriu na primeira página.
+desconfiada | carimbo: O DIÁRIO DE BORDO | Era o diário de um condutor de trem. Começava em mil novecentos e oitenta e quatro. Ia até o ano passado. Quarenta anos de anotações.
+triste | conversa: Escuta isso. | Ela leu em voz alta: hoje uma senhora deu à luz no vagão três. Chamaram a menina de Estação. Eu fui o padrinho.
+chocada | - | E outra: hoje um rapaz pediu a namorada em casamento entre duas estações. Ela disse sim antes da porta abrir. O vagão inteiro aplaudiu.
+triste | - | E outra: hoje um homem chorou a viagem inteira. Eu parei o trem um minuto a mais na estação dele. Ninguém reclamou.
+neutra | - | Na última página, a letra mais tremida: último dia de trabalho. Aposentadoria. Quarenta anos sem atrasar. Obrigado, linha vermelha.
+triste | conversa: Ele esqueceu isso no último dia. | A Raquel disse: ele esqueceu o diário no último dia de trabalho. Ninguém foi buscar. Tem que voltar pra ele.
+neutra | mapa | Fomos na administração do metrô. Um senhor do atendimento olhou o caderno e riu: isso é do seu Ubirajara! Todo mundo conhecia.
+neutra | carimbo: SEU UBIRAJARA | Seu Ubirajara. Condutor da linha vermelha. Aposentou com festa. Achou que tinha perdido o diário em casa. Ficou triste um ano inteiro.
+neutra | - | O funcionário ligou pra ele. Ele morava a vinte minutos. A Raquel disse: vamos levar. Eu disse: vamos.
+chocada | manchete: A PORTA ABRIU | Um senhor de setenta anos abriu a porta. Viu o caderno na mão da Raquel. E ficou parado. Sem falar nada. Pegou com as duas mãos.
+triste | conversa: Achei que tinha perdido. | Disse: achei que tinha perdido a minha vida inteira. Abraçou o caderno no peito. Igual se abraça uma pessoa.
+chocada | - | E aí veio uma moça lá de dentro. Uns trinta e cinco anos. Ele disse: essa é a Estação. A menina que nasceu no vagão três. Afilhada.
+rindo | conversa: Então eu tô no diário? | A Raquel riu: então agora eu também tô no diário? O seu Ubirajara pegou uma caneta. E escreveu ali mesmo: hoje uma moça devolveu meus quarenta anos.
+neutra | manchete_v: COISAS GUARDAM VIDAS | Moral da história: tem objeto que não vale nada em leilão. E vale uma vida pra quem perdeu.
+rindo | coracao: DEVOLVE O ACHADO | E se você achar alguma coisa perdida, procura o dono. Pode ser só um caderno. Pode ser a vida de alguém.
+
+## 310 | O PAI DOS TRIGÊMEOS | familia | noite
+G: 👶👶👶 Ele queria um filho. Vieram três de uma vez. Na mesma noite, ele aprendeu a trocar fralda em série.
+P: Quantos irmãos você tem?
+H: #familia #pai #trigemeos
+neutra | titulo | Sobe aí, que essa corrida levou o pai mais cansado que eu já vi. E o mais feliz também.
+neutra | relogio: TERÇA · 2H | Terça, duas da manhã. Entrou um rapaz de uns trinta e dois anos, olheira até o queixo, camiseta do avesso. Com uma lata de leite em pó na mão.
+rindo | conversa: Acabou o leite. | Disse: acabou o leite. Tô indo na farmácia vinte e quatro horas. Eu perguntei: quantos meses o bebê tem? Ele: os bebês. São três.
+neutra | carimbo: O PAI DOS TRÊS | Chama-se Pietro. Pai de trigêmeos. Dois meninos e uma menina. Quatro meses. Ele e a esposa, a Natália, se revezam a noite inteira.
+rindo | conversa: A gente queria um. | Riu: a gente queria um. Fomos fazer o ultrassom. A médica disse: tô vendo um coração. Depois disse: dois. Depois ficou quieta. E disse: três.
+rindo | - | Contou que desmaiou no consultório. A esposa riu tanto que a médica teve que parar o exame.
+neutra | - | Tiveram que trocar o carro. Trocar o apartamento. Comprar três berços. A família inteira doou roupa. Ainda assim, faltava tudo.
+rindo | conversa: Eu numerei eles. | Disse: no começo eu numerei eles com caneta no pé. Um, dois e três. Porque os meninos são idênticos. A esposa brigou comigo.
+neutra | mapa | Chegamos na farmácia. Ele comprou duas latas de leite, um pacote gigante de fralda e um energético. Disse: o energético é pra mim.
+triste | conversa: Eu tô com medo de não dar conta. | Na volta, ficou quieto. E disse: eu tô com medo de não dar conta, cara. Dinheiro, tempo, paciência. Tudo vezes três.
+neutra | - | Eu falei pra ele que não tenho filhos. Mas que meu pai era taxista. E criou a família trabalhando de madrugada. E que ninguém dá conta sozinho.
+neutra | conversa: Quem ajuda vocês? | Perguntei quem ajudava eles. Ele disse: a minha sogra vem de dia. A minha mãe vem no fim de semana. E a vizinha de cima traz sopa toda quinta.
+neutra | carimbo: A REDE | Eu falei: então você não está dando conta sozinho. Você tem uma rede. É assim que se cria três de uma vez.
+neutra | mapa | Chegamos no prédio dele. Ele pediu pra eu esperar um minuto. Subiu. E desceu com a esposa. Ela tinha um bebê no colo. Que não parava de chorar.
+chocada | conversa: Ele só dorme no carro. | A esposa disse: desculpa, moço. Esse aqui só dorme andando de carro. Será que você dá uma volta no quarteirão com a gente?
+rindo | - | Eu dei. Uma volta. Duas. Três. Na terceira volta, o bebê dormiu. A esposa sussurrou: é o motor. O motor é o segredo.
+triste | coracao: OS DOIS DORMINDO | Quando eu olhei pelo retrovisor, o pai tinha dormido também. Sentado. Com a lata de leite no colo. E a mãe sorrindo, com o bebê no peito.
+neutra | - | Dei mais uma volta, bem devagar. Ninguém pediu. Mas eu sabia que aquele era o único descanso daquela família naquela noite.
+rindo | - | Hoje eles me chamam quando os três não dormem. Já fiz corrida de madrugada só pra dar volta no quarteirão. Eu não cobro. Eu cobro foto deles.
+neutra | manchete_v: NINGUÉM CRIA SOZINHO | Moral da história: ninguém cria filho sozinho. Precisa de sogra, de mãe, de vizinha da sopa. E às vezes de um motorista.
+rindo | coracao: AJUDA OS PAIS | E se você conhece pais de bebê pequeno, leva uma sopa. Ou dá uma volta no quarteirão com eles. Eles nunca esquecem.
+
+## 311 | O EXECUTIVO DE CHINELO | reflexao | dia
+G: 🩴 Diretor de multinacional. Salário alto, carro importado. Um dia, ele saiu da reunião e não voltou mais. Hoje ele vende água de coco.
+P: Você trocaria dinheiro por tempo?
+H: #reflexao #trabalho #vida
+neutra | titulo | Sobe aí, que essa corrida levou um homem de chinelo que já teve três assistentes.
+neutra | relogio: SEGUNDA · 9H | Segunda, nove da manhã. Peguei um senhor de uns cinquenta e cinco anos, bermuda, camiseta, chinelo. Com uma caixa de isopor e um facão de coco.
+neutra | conversa: Me deixa na orla. | Disse: me deixa na orla, perto do quiosque azul. Eu vendo coco lá. Abri o quiosque esse ano.
+neutra | - | No caminho, o celular dele tocou. Ele olhou e desligou. Disse: era um ex-colega. Ainda me liga pra pedir conselho.
+desconfiada | conversa: Eu era diretor. | Eu perguntei: conselho de quê? Ele riu: eu era diretor de uma multinacional. Vinte e cinco anos. Três assistentes. Vinte reuniões por semana.
+neutra | carimbo: SEU PLÍNIO | Seu Plínio. Ganhou muito dinheiro. Tinha carro importado, apartamento de cobertura. E nenhuma lembrança dos filhos pequenos.
+triste | conversa: Eu perdi a infância deles. | Disse: eu perdi a infância deles. Inteira. Eu estava em reunião. Em avião. Em hotel. Quando eu olhei, a minha filha tinha vinte anos.
+neutra | - | Contou do dia em que tudo mudou. Estava numa reunião de doze horas. A filha ligou cinco vezes. Ele não atendeu. Achou que era bobagem.
+triste | carimbo: A LIGAÇÃO | Era a formatura dela. Ele tinha esquecido. Ela se formou com a cadeira dele vazia. Do lado da mãe.
+triste | - | Ele saiu da reunião, viu as ligações. E disse que sentiu um frio que nunca tinha sentido. Ficou parado no corredor da empresa.
+neutra | conversa: Eu nunca mais voltei. | E disse: eu desci pra pegar um café. E nunca mais voltei. Mandei a carta de demissão por e-mail no dia seguinte.
+chocada | - | A família achou que ele tinha enlouquecido. Os colegas também. Disseram que era crise da idade. Que ia passar.
+neutra | mapa | Chegamos no quiosque azul. Pequeno, simples, com uma placa pintada à mão. E uma moça de uns vinte e cinco anos abrindo as portas.
+chocada | carimbo: A SÓCIA | Ele disse: aquela ali é a minha sócia. A minha filha. A da formatura. Ela largou o escritório também. Hoje a gente vende coco juntos.
+rindo | conversa: Ela é a chefe. | Riu: ela é a chefe. Eu sou o funcionário. Ela que manda. Eu abro o coco e ouço reclamação. Igual eu fazia com ela.
+neutra | - | Eu perguntei se ele se arrependia. Ele pensou. E disse: eu me arrependo de ter demorado vinte e cinco anos pra pegar aquele café.
+neutra | conversa: Ganho dez vezes menos. | Disse: eu ganho dez vezes menos. Mas almoço com a minha filha todo dia. Vejo o pôr do sol todo dia. Conheço o nome dos meus clientes.
+triste | coracao: O PÔR DO SOL | E disse: diretor eu fui vinte e cinco anos. Pai, de verdade, eu estou sendo agora. Antes tarde.
+neutra | - | Antes de eu ir embora, a filha veio no carro e me deu um coco. Disse: do pai. Ele gosta de dar coco pros motoristas. Diz que todo mundo precisa de uma pausa.
+neutra | manchete_v: O QUE VOCÊ PERDE | Moral da história: não precisa largar tudo. Mas repara no que você está perdendo enquanto está em reunião.
+rindo | coracao: ATENDE A LIGAÇÃO | E hoje, se alguém que você ama ligar, atende. A reunião pode esperar cinco minutos. A vida, às vezes, não.
+
+## 312 | O PADEIRO E O VIGIA | amizade | noite
+G: 🥖 Um trabalha a noite inteira. O outro começa de madrugada. Há vinte anos, os dois se veem só cinco minutos por dia. E são melhores amigos.
+P: Quanto tempo por dia você passa com seu melhor amigo?
+H: #amizade #trabalho #madrugada
+neutra | titulo | Sobe aí, que essa corrida conheceu uma amizade de cinco minutos por dia. Há vinte anos.
+neutra | relogio: QUARTA · 3H50 | Quarta, quatro da manhã quase. Peguei um senhor de uns sessenta anos, de jaqueta, boné e lanterna na cintura. Saindo de um prédio comercial.
+neutra | conversa: Me deixa na padaria. | Disse: me deixa na padaria da esquina da minha rua. Antes de abrir. O Expedito tá me esperando.
+neutra | carimbo: SEU FIRMINO | Seu Firmino. Vigia noturno há vinte e dois anos. Trabalha das sete da noite às quatro da manhã. Dorme de dia. Quase não vê ninguém.
+neutra | conversa: O Expedito é o padeiro. | Contou: o Expedito é o padeiro. Ele chega às quatro pra fazer o pão. Eu passo lá às quatro e dez. A gente toma um café. Cinco minutos.
+rindo | conversa: Cinco minutos? | Eu perguntei: só cinco minutos? Ele riu: cinco minutos por dia, vinte anos. Faz a conta. Dá mais de seiscentas horas. Mais que muito casamento.
+neutra | - | Contou que se conheceram por acaso. Ele chegou cedo uma vez e a padaria estava fechada. O Expedito abriu a porta e ofereceu o primeiro pão da fornada.
+neutra | - | No dia seguinte, ele voltou. E no outro. E nunca mais parou. Vinte anos. Chuva, feriado, Natal. Cinco minutos de café e pão quente.
+neutra | conversa: A gente resolve a vida em cinco minutos. | Disse: a gente resolve a vida inteira em cinco minutos. Ele me contou quando a mulher dele engravidou. Eu contei quando a minha mãe partiu.
+triste | - | Disse que quando a mãe dele faleceu, quem soube primeiro foi o Expedito. Às quatro e dez da manhã. Com farinha na mão. Deu um abraço que deixou a jaqueta branca.
+neutra | mapa | Chegamos na padaria. Porta meio aberta, luz acesa, cheiro de pão. Lá dentro, um senhor gordinho de touca e avental. Acenou.
+desconfiada | carimbo: O EXPEDITO | O Expedito saiu na porta com duas xícaras. Uma pro seu Firmino. E olhou pra mim. E perguntou: o motorista toma café também?
+rindo | - | E eu tomei. Café de coador, pão saindo do forno. Às quatro da manhã. Melhor café da minha vida, talvez.
+neutra | conversa: Ele vai se aposentar. | Aí o Expedito ficou sério. E disse: Firmino, eu vou me aposentar mês que vem. Meu filho vai assumir a padaria.
+triste | - | O seu Firmino ficou parado com a xícara na mão. E perguntou: e o nosso café? O Expedito não respondeu. Ficou mexendo o açúcar.
+neutra | carimbo: A SOLUÇÃO | Aí o seu Firmino disse: então eu também me aposento. E a gente toma café às oito da manhã. Feito gente normal.
+rindo | conversa: Às oito eu ainda tô dormindo. | O Expedito riu: oito? Às oito eu já almocei! Os dois riram. Eu ri. A padaria inteira riu.
+triste | coracao: O CAFÉ SEM HORA | E o Expedito disse: então a gente toma café a hora que der. Mas toma. Vinte anos não acaba por causa de relógio.
+neutra | - | Mês passado eu passei lá de tarde. Os dois aposentados. Numa mesinha na calçada. Café, pão, dominó. Sem pressa nenhuma. Duas horas, não cinco minutos.
+neutra | manchete_v: CINCO MINUTOS BASTAM | Moral da história: amizade não precisa de muito tempo. Precisa de constância. Cinco minutos todo dia valem mais que um dia por ano.
+rindo | coracao: CAFÉ COM O AMIGO | E se você tem um amigo de cinco minutos, valoriza ele. Às vezes ele é o primeiro a saber das coisas importantes.
+
+## 313 | A FOTO DO RG | humor | dia
+G: 🪪 Ele odiava a foto do RG havia trinta anos. Foi tirar outra. Ensaiou pose no meu carro o caminho inteiro. O resultado foi pior.
+P: Você gosta da foto do seu documento?
+H: #humor #documento #foto
+neutra | titulo | Sobe aí, que essa corrida virou um estúdio de fotografia. Com o retrovisor de espelho.
+neutra | relogio: TERÇA · 8H | Terça, oito da manhã. Entrou um senhor de uns sessenta e cinco anos, cabelo penteado com gel, camisa social passada, perfume forte. Arrumado pra casamento.
+neutra | conversa: Vou tirar a foto do RG. | Disse: vou no posto tirar a foto do RG. A nova. Esperei trinta anos por esse dia.
+neutra | carimbo: SEU SINVAL | Seu Sinval. Tirou a foto do RG em mil novecentos e noventa e quatro. Com bigode, cabelo molhado e cara de quem levou um susto.
+rindo | conversa: Olha isso. | Me mostrou o documento. Eu ri. Não deu pra segurar. Ele parecia um procurado de filme de faroeste. Ele disse: viu? Até você riu.
+rindo | conversa: No banco riem de mim. | Disse: em todo lugar riem. No banco, na farmácia, no posto de saúde. A moça do caixa chamou a colega pra ver.
+rindo | - | Aí ele abaixou o quebra-sol e começou a ensaiar. No espelhinho. Sorriso aberto. Sorriso fechado. Meio sorriso. Sobrancelha levantada.
+rindo | conversa: Qual tá melhor? | Ele virava pra mim no sinal: qual tá melhor? Essa ou essa? Eu não via diferença nenhuma. Dizia: a segunda. Ele: eu acho a primeira.
+rindo | - | Testou o lado bom do rosto. Disse que era o esquerdo. Depois mudou de ideia. Era o direito. No fim disse que não tinha lado bom.
+neutra | mapa | Chegamos no posto de identificação. Ele pediu pra eu esperar. Disse: quero que você veja o resultado. Você é testemunha.
+neutra | - | Entrei com ele. Fila de meia hora. Ele ensaiando a pose na fila. As pessoas olhando. Uma criança imitou ele. Ele achou que era elogio.
+chocada | carimbo: A REGRA | Na hora da foto, a moça disse: senhor, não pode sorrir. Tem que ser expressão neutra. Boca fechada. Olhando reto.
+chocada | conversa: Como assim não pode sorrir? | Ele ficou indignado: como assim não pode sorrir? Eu ensaiei meia hora! A moça disse: regra é regra. Expressão neutra.
+rindo | - | Ele tentou fazer cara neutra. Mas ele nunca tinha feito cara neutra na vida. Saiu uma cara de quem está segurando espirro.
+rindo | - | Clique. A moça virou a tela. Ele olhou. Eu olhei. Era pior que a de mil novecentos e noventa e quatro. Muito pior.
+rindo | manchete: O RESULTADO | Ele parecia o mesmo procurado do faroeste. Só que trinta anos mais velho. E com gel no cabelo. A moça do posto mordeu a boca pra não rir.
+rindo | conversa: Dá pra tirar outra? | Ele perguntou: dá pra tirar outra? A moça disse: só daqui a dez anos, senhor. Ele saiu do posto em silêncio.
+rindo | - | No carro, ele olhou o protocolo por um tempo. Depois começou a rir. Riu tanto que chorou. E disse: pelo menos agora a foto combina comigo.
+rindo | conversa: Daqui a dez anos eu volto. | E disse: daqui a dez anos eu volto. E vou treinar cara neutra até lá. Todo dia no espelho. Dez anos de treino.
+neutra | manchete_v: RI DE SI MESMO | Moral da história: tem coisa que não dá pra controlar. Nem a foto do documento. O jeito é rir junto.
+rindo | coracao: MOSTRA A SUA FOTO | E me conta aí nos comentários: a foto do seu documento é boa ou é de procurado? Eu sei que a minha é de procurado.
+
+## 314 | A ARREMESSADORA | superacao | dia
+G: 💪 Na escola, ela era a menina grande demais. Riam do tamanho dela. Hoje ela arremessa peso pelo país. E usa a força pra outra coisa.
+P: Qual característica sua você aprendeu a amar?
+H: #superacao #esporte #autoestima
+neutra | titulo | Sobe aí, que essa corrida levou uma moça de um metro e oitenta e cinco que já quis ser invisível.
+neutra | relogio: SEXTA · 7H | Sexta, sete da manhã. Entrou uma moça alta, ombro largo, mochila esportiva, tênis de treino. Abaixou a cabeça pra entrar no carro.
+neutra | conversa: Vou pro aeroporto. | Disse: vou pro aeroporto. Campeonato brasileiro de atletismo. Arremesso de peso. Eu perguntei o que era. Ela riu: jogar uma bola de ferro de quatro quilos o mais longe possível.
+neutra | carimbo: A ISADORA | Isadora. Vinte e dois anos. Com doze, já tinha um metro e setenta e cinco. Era a maior da escola. Maior que os professores.
+triste | conversa: Me chamavam de armário. | Disse: me chamavam de armário. De girafa. De grandona. Eu andava curvada pra parecer menor. Usava roupa larga pra sumir.
+triste | - | Contou que não ia pra festa. Não tirava foto. Na educação física, ficava no canto. Ninguém escolhia ela pro time. Nem ela queria ser escolhida.
+neutra | carimbo: A PROFESSORA | Aí chegou uma professora nova de educação física. A professora Jurema. Ex-atleta. Viu a Isadora no canto e chamou.
+neutra | conversa: Você tem um presente. | A professora disse: menina, você tem um presente que você não sabe. Esse tamanho, essa força. Vem comigo.
+desconfiada | - | Levou ela pro fundo da quadra. Deu uma bola de ferro na mão dela. E disse: joga. A Isadora jogou sem jeito. A bola foi longe. Muito longe.
+chocada | conversa: Joga de novo. | A professora mediu. Olhou de novo pra fita. E disse: joga de novo. Ela jogou. Mais longe. A professora disse: você é atleta. Só não sabia.
+neutra | - | Começou a treinar todo dia depois da aula. A professora Jurema treinava de graça. Levava lanche. Buscava em casa quando ela faltava.
+neutra | - | Aos dezesseis, ganhou o campeonato estadual. Aos dezenove, o brasileiro juvenil. Hoje treina num centro olímpico. Com bolsa atleta.
+rindo | conversa: Agora eu ando reta. | Riu: agora eu ando reta. Bem reta. De cabeça erguida. Eu descobri que ser grande é bom. Cabe mais coisa.
+neutra | mapa | No caminho, ela me contou o que faz nos fins de semana. Dá aula de graça numa quadra de comunidade. Só pra meninas grandes. Que nem ela era.
+neutra | carimbo: O PROJETO | Chamou o projeto de Gigantes. Hoje tem quarenta meninas. Todas que eram chamadas de armário, girafa, grandona. Hoje elas arremessam.
+triste | conversa: Eu falo o que a Jurema me falou. | Disse: eu falo pra elas o que a professora Jurema me falou. Você tem um presente. Só não sabe ainda.
+triste | coracao: A PROFESSORA NO AEROPORTO | Chegamos no aeroporto. E na porta, esperando, uma senhora de agasalho. A professora Jurema. Ia junto no campeonato. Como sempre.
+rindo | - | A Isadora desceu, abraçou a professora e levantou ela do chão. A senhora gritando: me põe no chão, menina! Você tem força demais!
+neutra | - | Dias depois, vi na internet. A Isadora ganhou o ouro. Na foto do pódio, ela segurava a medalha. E a professora, do lado, segurava a plaquinha do projeto Gigantes.
+neutra | manchete_v: O SEU PRESENTE | Moral da história: aquilo que os outros usam pra rir de você pode ser exatamente o seu presente.
+rindo | coracao: SEJA UMA JUREMA | E se você conhece alguém escondendo quem é, seja a professora Jurema dessa pessoa. Uma frase muda uma vida.

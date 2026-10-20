@@ -1,0 +1,269 @@
+## 225 | O ESCUDO BORDADO | futebol | dia
+G: 🧵 O time de várzea não tinha dinheiro pra uniforme. Uma avó de 82 anos bordou o escudo à mão em 18 camisas. Na final, o time tinha uma surpresa pra ela.
+P: Quem ajuda o time do seu bairro sem aparecer na foto?
+H: #futebol #varzea #avo
+neutra | titulo | Sobe aí, que essa corrida levou dezoito camisas e uma avó com agulha mágica.
+neutra | relogio: SÁBADO · 13H | Sábado, uma da tarde. Entrou uma senhora de oitenta e dois anos, óculos na ponta do nariz, com uma sacola enorme de camisas dobradas.
+rindo | conversa: É o uniforme do time. | Disse: é o uniforme do time do meu neto. Final do campeonato da várzea amanhã. Terminei o último escudo agora de madrugada.
+neutra | carimbo: DONA ZILDA, BORDADEIRA | Dona Zilda. Bordadeira a vida inteira. O time do neto, o Unidos da Vila, não tinha dinheiro pra uniforme com escudo. Jogavam de camiseta branca lisa.
+rindo | conversa: Parecia time de pijama. | Riu: parecia time de pijama. O meu neto chorava. Aí eu disse: me dá as camisas, que a vó resolve.
+neutra | - | Três meses bordando. Dezoito camisas. Um escudo em cada uma. Uma estrela, um leão e o nome do time. Ponto por ponto. À mão.
+triste | conversa: Meu olho já não ajuda. | Disse: meu olho já não ajuda. Eu bordava de dia, com a luz da janela. De noite, com lupa. A mão doía, mas eu ia.
+neutra | - | Me mostrou uma. Era lindo. O leão com juba de linha dourada. A estrela brilhando. Parecia escudo de time profissional.
+neutra | mapa | Chegamos no campo da várzea, onde o time treinava. Os meninos de dezessete, dezoito anos, sentados no meio-fio. Esperando.
+chocada | - | Quando viram a dona Zilda com a sacola, levantaram todos. Ela distribuiu uma por uma. Cada um com o número e o escudo.
+triste | carimbo: O SILÊNCIO | Os meninos ficaram em silêncio. Olhando o escudo. Passando o dedo no bordado. Um deles, o goleiro, um rapaz enorme, começou a chorar.
+triste | conversa: Ninguém nunca fez isso. | Ele disse: ninguém nunca fez nada assim pra mim, vó. Ele chamava ela de vó. Todos chamavam.
+neutra | relogio: DOMINGO · FINAL | No domingo, ela me chamou de novo. Pra levar até a final. Eu fui. E fiquei pra ver. Já virou costume.
+chocada | - | O Unidos da Vila entrou em campo com o uniforme bordado. A arquibancada de madeira aplaudiu. Os adversários olharam com inveja.
+chocada | manchete: CAMPEÕES | Jogo duro. Um a um. Pênaltis. O goleiro, o rapaz que chorou, pegou dois. Campeões.
+chocada | carimbo: A VOLTA OLÍMPICA | Na volta olímpica, os meninos não foram pro meio do campo. Foram até a arquibancada. Até a dona Zilda.
+triste | coracao: A MEDALHA DA VÓ | E o capitão tirou a própria medalha e colocou no pescoço dela. Depois o goleiro. Depois todos. Ela ficou com dezoito medalhas no pescoço.
+rindo | - | Ela ria e chorava, com as medalhas pesando. Disse: eu vou ficar corcunda, meninos! E eles carregaram ela nos ombros. Com cuidado.
+neutra | carro | Na volta, ela devolveu as medalhas uma por uma. Disse que eram deles. Ficou só com uma. A do neto. Que ele fez questão.
+neutra | manchete_v: BORDA O SONHO | Moral da história: tem gente que não entra em campo. Mas sem ela, o time joga de pijama.
+rindo | coracao: VÓ ZILDA | E se o time do seu bairro precisa de ajuda, oferece o que você sabe fazer. Nem que seja bordar.
+
+## 226 | A AULA DE DANÇA DE SALÃO | amor | noite
+G: 💃 Viúvo, ele dava aula grátis de dança de salão no centro comunitário. A aluna mais tímida nunca dançava. Até a última aula do ano.
+P: Você sabe dançar a dois?
+H: #dancadesalao #amor #terceiraidade
+neutra | titulo | Sobe aí, que essa corrida levou o professor de dança mais paciente da cidade.
+neutra | relogio: QUINTA · 18H | Quinta, seis da tarde. Entrou um senhor de setenta anos, sapato de dança brilhante, camisa de cetim e um rádio portátil antigo.
+rindo | conversa: Dou aula de dança. | Disse: dou aula de dança de salão no centro comunitário. Bolero, samba de gafieira, forró. Pra quem tiver vontade.
+neutra | carimbo: SEU AGENOR | Seu Agenor. Dançou a vida inteira com a esposa, a dona Neusa. Ganharam concurso de bolero nos anos oitenta.
+triste | conversa: Ela se foi e eu parei. | Disse: ela se foi há quatro anos. Eu parei de dançar. Achava que não tinha mais graça. Dançar sozinho é só andar.
+neutra | - | Mas um dia o centro comunitário pediu um voluntário pra aula. Ele foi. Pra ocupar a cabeça. E descobriu que ensinar era dançar de novo.
+rindo | conversa: Tenho trinta alunos. | Riu: tenho trinta alunos. Média de idade: setenta. Tem um senhor de noventa que dança melhor que todo mundo.
+desconfiada | conversa: E tem alguém especial? | Perguntei, provocando: e tem alguma aluna especial? Ele ficou vermelho. Disse: tem uma que nunca dança.
+neutra | carimbo: DONA ISAURA | Dona Isaura. Setenta e dois anos. Ia em toda aula. Sentava na cadeira do canto. Batia o pé no ritmo. Mas nunca levantava.
+triste | conversa: Ela diz que não sabe. | Disse: ela diz que não sabe dançar. Que nunca dançou. Que o marido dela não gostava de dança. Trinta anos de casamento sem dançar nem uma vez.
+neutra | - | Ele já tinha convidado. Várias vezes. Ela sempre dizia: hoje não, professor. Quem sabe semana que vem.
+neutra | mapa | Chegamos no centro comunitário. Um salão simples, piso de taco, um globo espelhado pendurado. Os alunos chegando, arrumados.
+neutra | - | Ele me convidou pra ficar. Disse que era a última aula do ano. Ia ter festinha. Eu fiquei. E ainda dancei forró com uma senhora de oitenta anos que me ensinou mais que o professor.
+neutra | relogio: A ÚLTIMA DANÇA | No final, ele colocou um bolero. O bolero do concurso dele com a esposa. E anunciou: essa é a última dança do ano.
+chocada | - | Ele atravessou o salão. Até a cadeira do canto. Parou na frente da dona Isaura. E estendeu a mão. Sem falar nada.
+neutra | - | Ela olhou a mão. Olhou pra ele. Olhou pros alunos, que tinham parado pra ver. E disse: eu não sei, professor.
+triste | conversa: Eu também não sabia. | Ele respondeu: um dia eu também não sabia. Alguém me ensinou. Só segue o meu passo. Se pisar no meu pé, eu nem sinto.
+chocada | manchete: ELA LEVANTOU | Ela levantou. Devagar. Pegou a mão dele. E foram pro meio do salão. O globo espelhado girando. Os alunos abrindo espaço.
+triste | carimbo: O PRIMEIRO BOLERO | Ela pisou no pé dele duas vezes. Ele riu. Ela riu. E na terceira vez, ela acertou o passo. E dançou. Devagar, de olho fechado.
+triste | coracao: SETENTA E DOIS ANOS | Quando a música acabou, ela abriu o olho e disse: setenta e dois anos e é a primeira vez que eu danço. Ele respondeu: e não vai ser a última.
+rindo | - | Os alunos aplaudiram. O senhor de noventa anos assobiou. E alguém gritou: beija! O professor ficou da cor da camisa de cetim.
+neutra | carro | Na volta, eu levei os dois. Ela na frente, ele atrás, com o rádio no colo. Combinando aula particular de bolero. Pra treinar o passo.
+neutra | manchete_v: ACEITA A MÃO | Moral da história: nunca é tarde pra primeira dança. Só precisa alguém atravessar o salão.
+rindo | coracao: PRIMEIRO BOLERO | E se tem alguém sempre sentado no canto, estende a mão. Pode ser a primeira dança de uma vida.
+
+## 227 | O BOLO TROCADO | humor | dia
+G: 🎂 Dois casamentos na mesma rua, no mesmo sábado. A confeitaria trocou os bolos. Eu levei um dos bolos. E a correria começou.
+P: Qual foi o maior imprevisto num casamento que você viu?
+H: #casamento #humor #bolo
+neutra | titulo | Sobe aí, que essa corrida levou o bolo certo pro casamento errado. E depois o errado pro certo.
+neutra | relogio: SÁBADO · 17H | Sábado, cinco da tarde. Peguei um bolo de casamento numa confeitaria. Três andares. Com a confeiteira junto, segurando no banco de trás.
+neutra | conversa: Salão da rua das Palmeiras. | Ela disse: salão de festas da rua das Palmeiras. O casamento começa às oito. Vai devagar, pelo amor de Deus.
+rindo | carimbo: DONA MARILDA, CONFEITEIRA | Dona Marilda. Vinte anos fazendo bolo de casamento. Naquele sábado, dois casamentos. Na mesma rua. Em dois salões vizinhos.
+rindo | - | Um bolo branco com flores amarelas. Outro branco com flores azuis. Ela levava o de flores amarelas. O ajudante dela levou o azul uma hora antes.
+neutra | mapa | Chegamos no salão. A cerimonialista na porta. Olhou o bolo. Ficou pálida. Disse: esse não é o nosso bolo. O nosso é azul.
+chocada | manchete: OS BOLOS TROCADOS | A dona Marilda olhou o papel. Olhou o bolo. Ficou branca. O ajudante tinha levado o azul pro salão errado. Os dois bolos estavam trocados.
+rindo | - | Detalhe: em cima de cada bolo, um casal de noivinhos. Com o nome dos noivos escrito na base. Errados.
+chocada | conversa: Corre no outro salão! | Ela gritou: corre no outro salão! Era do lado. Duzentos metros. Mas com um bolo de três andares no colo, duzentos metros é uma maratona.
+rindo | - | Fui de primeira marcha. A dona Marilda abraçada no bolo. Eu desviando de cada buraco como quem desvia de mina.
+neutra | mapa | Chegamos no outro salão. E lá, na mesa de doces, o bolo azul. Com os noivinhos do outro casal. E os convidados começando a chegar.
+chocada | carimbo: A TROCA | A operação: tirar o bolo azul da mesa, colocar o amarelo, levar o azul pro outro salão. Sem os convidados perceberem. Com dois bolos de três andares.
+rindo | - | Eu e a dona Marilda entramos pela cozinha. Os garçons ajudando. Um deles tropeçou com o bolo azul. Eu segurei o andar de cima com as duas mãos. No ar.
+rindo | manchete: O ANDAR DE CIMA | O andar de cima ficou na minha mão. O resto na mão do garçom. Os noivinhos azuis caíram no meu peito. Eu fiquei com glacê até no queixo.
+neutra | - | A dona Marilda, rápida, montou de novo. Com espátula. Disfarçou a rachadura com uma flor a mais. Ninguém ia perceber. Ou quase ninguém.
+neutra | mapa | Levamos o bolo azul pro primeiro salão. Faltavam dez minutos pros noivos chegarem. Colocamos na mesa. A cerimonialista quase desmaiou de alívio.
+chocada | - | Aí os noivos chegaram mais cedo. E a noiva foi direto na mesa de doces. E viu o bolo. E viu a flor a mais. E perguntou: que flor é essa?
+rindo | conversa: É a flor da sorte. | A dona Marilda, sem pensar: é a flor da sorte. A gente coloca em casamento especial. A noiva ficou emocionada. Tirou foto. Postou.
+rindo | carimbo: A FLOR DA SORTE | Depois disso, a dona Marilda me contou: todo mundo pede a flor da sorte. Virou o item mais vendido da confeitaria.
+triste | coracao: O PEDAÇO DO GLACÊ | No fim da noite, a noiva soube da história. Mandou um pedaço do bolo pra mim, embrulhado em guardanapo. Com um bilhete: pro motorista do glacê.
+neutra | carro | Cheguei em casa com glacê na camisa. A Rosângela perguntou se eu tinha ido a um casamento. Eu disse: fui em dois. E não fui convidado em nenhum.
+neutra | manchete_v: IMPROVISA | Moral da história: o erro às vezes vira a melhor parte da festa. Só precisa de alguém rápido com a espátula.
+rindo | coracao: FLOR DA SORTE | E se der errado na sua festa, chama de tradição. Ninguém vai saber. Só eu.
+
+## 228 | O PINTOR SEM BRAÇOS | superacao | noite
+G: 🎨 Ele nasceu sem os braços. Aprendeu a pintar com a boca. Hoje ia abrir a primeira exposição numa galeria da cidade.
+P: Qual artista te inspira pela história de vida?
+H: #arte #superacao #pintura
+neutra | titulo | Sobe aí, que essa corrida levou um pintor que segura o pincel com os dentes. E pinta melhor que muita mão.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Entrou um rapaz de uns vinte e oito anos, camisa social sem mangas costuradas, e a mãe dele carregando três quadros embrulhados.
+rindo | conversa: Hoje é a exposição. | Ele disse: hoje é a minha exposição. A primeira. Numa galeria de verdade. A mãe completou: com coquetel e tudo.
+neutra | carimbo: GABRIEL | Chama-se Gabriel. Nasceu sem os dois braços. Os médicos disseram pra mãe que ele ia depender dos outros pra tudo.
+triste | conversa: Diziam que ele não ia conseguir nada. | A mãe contou: diziam que ele não ia conseguir comer sozinho. Escrever. Nada. Eu chorei uma semana. Depois parei e fui ensinar.
+neutra | - | Ele aprendeu a comer com os pés. A escrever com os pés. E aos sete, viu um pintor na televisão pintando com a boca. E decidiu: eu vou fazer isso.
+rindo | conversa: Engoli muita tinta. | Riu: no começo eu engoli muita tinta. A minha mãe brigava. Eu dizia: é guache, mãe, não mata. Acho.
+neutra | - | Vinte anos pintando. Com o pincel na boca. Paisagem, retrato, abstrato. Pintava pra família, pra igreja, pra feirinha do bairro.
+neutra | carimbo: O GALERISTA | Até que um galerista passou pela feirinha. Parou na frente de um quadro. Uma pintura do pôr do sol no morro. E perguntou quem tinha pintado.
+triste | conversa: Ele não acreditou. | O Gabriel disse: ele não acreditou quando eu disse que fui eu. Eu tive que pintar ali na frente dele. Na barraca.
+neutra | mapa | Chegamos na galeria. Paredes brancas, luz baixa, gente de roupa chique segurando taça. E os quadros dele pendurados. Trinta e dois quadros.
+neutra | - | A mãe me pediu pra ajudar com os últimos três. Eu ajudei. E fiquei olhando. Eu não entendo de arte. Mas entendi aqueles quadros.
+chocada | manchete: O POR DO SOL NO MORRO | O principal, no meio da parede, era o pôr do sol no morro. O bairro dele. Laranja, rosa, roxo. Com as casinhas iluminadas. Parecia que ia mexer.
+neutra | - | As pessoas olhavam os quadros sem saber da história. Elogiavam a técnica, a cor. Até que o galerista bateu numa taça e pediu atenção.
+triste | carimbo: A DEMONSTRAÇÃO | Ele apresentou o Gabriel. E pediu pra ele pintar ao vivo. Uma tela em branco num cavalete. O Gabriel pegou o pincel com a boca. E começou.
+chocada | - | O silêncio na galeria era total. Trinta pessoas de taça na mão olhando um rapaz pintar com a boca. Pincelada por pincelada.
+triste | coracao: O RETRATO DA MÃE | Em quarenta minutos, ele pintou um rosto. O rosto da mãe. Sorrindo. Com o cabelo preso igual ela estava naquela noite.
+triste | - | A mãe dele não aguentou. Saiu da sala pra chorar. Eu fui atrás. Ela disse: os médicos disseram que ele ia depender de mim pra tudo. Olha ele agora.
+neutra | relogio: FIM DA NOITE | No fim da noite, vinte e oito quadros tinham sido vendidos. O pôr do sol no morro, não. Ele não quis vender. Disse que é da mãe.
+neutra | carro | Na volta, ele foi no banco da frente comigo. Me mostrou como segura o celular com o pé. Me ensinou a pensar diferente. Sem nem tentar.
+neutra | manchete_v: PINTA COM O QUE TEM | Moral da história: ninguém sabe do que você é capaz. Nem o médico. Só você e quem acredita em você.
+rindo | coracao: GABRIEL | E se alguém disse que você não ia conseguir, guarda o recado. E manda a foto da sua exposição quando ela acontecer.
+
+## 229 | O COLECIONADOR DE SONS | curiosa | dia
+G: 🎙️ Ele grava os sons da cidade há 40 anos. O apito da fábrica, o bonde, o pregão da feira. Uma senhora pediu pra ouvir uma voz que não existe mais.
+P: Qual som da sua infância você queria ouvir de novo?
+H: #sons #memoria #curiosidades
+neutra | titulo | Sobe aí, que essa corrida levou um arquivo de sons que valia mais que ouro.
+neutra | relogio: QUARTA · 10H | Quarta, dez da manhã. Entrou um senhor de setenta anos, fone de ouvido enorme no pescoço e um gravador antigo de fita pendurado no ombro.
+desconfiada | conversa: Pode desligar o rádio? | Antes de sair, ele pediu: pode desligar o rádio? Eu quero gravar o barulho do seu carro. Eu desliguei, sem entender nada.
+neutra | carimbo: SEU HUMBERTO | Seu Humberto. Técnico de som aposentado. Há quarenta anos, grava os sons da cidade. Tem mais de seis mil fitas e arquivos guardados em casa.
+rindo | conversa: Eu gravo o que vai sumir. | Disse: eu gravo o que vai sumir. O apito da fábrica que fechou. O sino do bonde que acabou. O vendedor de sorvete que gritava na rua.
+neutra | - | Me mostrou no celular. Um som de máquina de escrever. Um pregão de feira dos anos oitenta. O apito do último trem que passou na cidade.
+triste | - | Disse que um dia, quando ele não estiver mais aqui, quer que os netos dos netos saibam como a cidade soava.
+neutra | carimbo: O PEDIDO | Naquela manhã, estava indo na casa de uma senhora. Ela tinha mandado uma carta pra ele. Com um pedido especial.
+neutra | mapa | Chegamos numa casa simples. Uma senhora de oitenta e cinco anos, dona Graça, esperando na varanda. Ele me pediu pra entrar junto. Disse que podia precisar de ajuda.
+triste | conversa: O meu marido vendia pamonha. | A dona Graça explicou: o meu marido vendia pamonha na rua. Quarenta anos. Ele gritava um pregão. Era famoso no bairro.
+triste | - | Disse: ele faleceu há doze anos. Eu não tenho nenhuma gravação da voz dele. Nenhuma. E eu tô esquecendo como era.
+neutra | - | O seu Humberto abriu a maleta. Procurou numa lista enorme, de papel, escrita à mão. Por bairro, por ano, por tipo de som.
+chocada | carimbo: FITA 2.341 | Parou. Fita dois mil trezentos e quarenta e um. Bairro tal. Mil novecentos e noventa e dois. Vendedor de pamonha. Rua das Acácias.
+neutra | - | Ele colocou a fita no gravador antigo. Rebobinou. Tirou o fone do pescoço e colocou na cabeça da dona Graça. Com cuidado.
+chocada | manchete: A VOZ | E apertou o play. Eu não ouvi. Mas vi o rosto dela. Ela fechou o olho. E começou a sorrir. E depois a chorar.
+triste | conversa: É ele. | Ela disse: é ele. Olha a pamonha, pamonha fresquinha, pamonha de Piracicaba! É ele, moço. É o meu Zé.
+triste | coracao: PAMONHA FRESQUINHA | Ela pediu pra ouvir de novo. E de novo. Dez vezes. E a cada vez, cantava junto o pregão. Baixinho.
+neutra | - | O seu Humberto fez uma cópia no celular dela, ali mesmo. E ensinou a neta a guardar em três lugares diferentes. Pra nunca mais perder.
+neutra | carro | Na volta, ele ficou quieto um tempo. Depois disse: eu gravei aquela voz por acaso, numa tarde de domingo. Achei que era só um som da cidade. Era o som de uma vida.
+neutra | manchete_v: GRAVA A VOZ | Moral da história: grava a voz de quem você ama. Um áudio de dez segundos pode valer uma vida inteira.
+rindo | coracao: FITA 2.341 | E se você tem alguém importante, grava ele falando. Hoje. Qualquer coisa. Daqui a uns anos você vai agradecer.
+
+## 230 | A BISAVÓ CENTENÁRIA | familia | noite
+G: 🎂 Ela fez 100 anos. A festa juntou cinco gerações. E ela tinha uma última surpresa: um pedido que esperou 80 anos pra fazer.
+P: Quantas gerações da sua família estão vivas hoje?
+H: #centenaria #familia #geracoes
+neutra | titulo | Sobe aí, que essa corrida levou uma aniversariante de cem anos. Com mais disposição que eu.
+neutra | relogio: SÁBADO · 18H | Sábado, seis da tarde. Entrou uma senhora miudinha, cabelo branquinho preso com uma presilha de flor, vestido de festa e uma bengala de madeira.
+rindo | conversa: Faço cem anos hoje. | Disse: faço cem anos hoje, moço. Eu disse: parabéns, dona! Ela: obrigada. Vai devagar que eu quero chegar nos cento e um.
+neutra | carimbo: DONA FIRMINA | Dona Firmina. Nasceu em mil novecentos e vinte e seis. Viu a cidade nascer, o rádio chegar, a televisão, o celular. Lembrava de tudo.
+rindo | - | No caminho, foi me contando. Que viu o primeiro carro da cidade. Que dançou num baile com a orquestra que tocava no rádio. Que andou de bonde.
+rindo | conversa: Eu nunca tive celular. | Riu: eu nunca tive celular. Mas a minha tataraneta tem. Ela me mostra os vídeos de gato. Eu adoro os vídeos de gato.
+neutra | - | A neta que estava junto contou: a festa ia ter cinco gerações. Filhos, netos, bisnetos, tataranetos. Setenta e duas pessoas.
+neutra | mapa | Chegamos num salão de festa. Cheio. Gente de todas as idades. De bebê de colo a senhor de oitenta anos, que era o filho mais velho dela.
+neutra | - | A família me convidou pra entrar. Disseram que era tradição: quem leva a aniversariante, ganha o primeiro pedaço do bolo. Eu não ia recusar tradição.
+chocada | carimbo: A FOTO DAS CINCO GERAÇÕES | Tiraram uma foto. Ela no centro. Do lado, o filho de oitenta. A neta de sessenta. O bisneto de trinta e cinco. E o tataraneto de seis meses no colo dela.
+neutra | - | Cantaram parabéns. Cem velinhas não cabiam. Colocaram um um, um zero e outro zero. Ela soprou de uma vez. A família inteira aplaudiu.
+desconfiada | conversa: Tenho um pedido. | Aí ela pediu o microfone. A família ficou quieta. Ela disse: eu tenho um pedido. Esperei oitenta anos pra fazer.
+triste | carimbo: O PEDIDO DE OITENTA ANOS | Contou: aos vinte anos, eu queria ser professora. Meu pai não deixou. Disse que mulher não precisava estudar. Eu fui costureira.
+triste | - | Disse: eu ensinei todos os meus filhos a ler. Os netos. Os bisnetos. Mas nunca fui professora de verdade. Numa escola. Com quadro-negro.
+chocada | manchete: A SALA DE AULA | Aí a bisneta, que era diretora de escola, se levantou. Disse: vó, segunda-feira a senhora vai dar uma aula. Na minha escola. Pro terceiro ano.
+triste | - | A dona Firmina ficou parada com o microfone na mão. Disse: com cem anos? A bisneta: com cem anos. A senhora é a professora mais experiente do Brasil.
+triste | coracao: A PROFESSORA DE CEM ANOS | Na segunda-feira, eu levei ela na escola. Ela entrou na sala de aula com a bengala. Trinta crianças de oito anos se levantaram. Ela pegou o giz.
+rindo | - | E deu uma aula. Sobre como era a cidade cem anos antes. As crianças com a boca aberta. Uma perguntou: a senhora conheceu dinossauro? Ela riu: quase.
+neutra | carro | Na saída, ela me disse: cem anos. E hoje foi o dia mais bonito. Eu sempre quis ouvir uma criança me chamar de professora.
+neutra | manchete_v: NUNCA É TARDE | Moral da história: tem sonho que espera oitenta anos. E quando chega, chega com giz na mão.
+rindo | coracao: PROFESSORA FIRMINA | E se alguém da sua família tem um sonho antigo guardado, pergunta qual é. Pode ser hora de realizar.
+
+## 231 | A VOLTA SEM DESTINO | reflexao | dia
+G: 🛣️ Ela tinha acabado de assinar o divórcio. Entrou no meu carro e pediu: me leva pra qualquer lugar. Só não me leva pra casa ainda.
+P: Qual foi o dia em que você recomeçou a sua vida?
+H: #reflexao #recomeco #divorcio
+neutra | titulo | Sobe aí, que essa corrida não tinha destino. Tinha um recomeço.
+neutra | relogio: QUARTA · 11H | Quarta, onze da manhã. Saída de um fórum. Entrou uma mulher de uns quarenta e cinco anos, óculos escuros, uma pasta de documentos apertada no peito.
+triste | conversa: Pra qualquer lugar. | Disse: me leva pra qualquer lugar, moço. Só não me leva pra casa ainda. Eu acabei de assinar o divórcio.
+neutra | - | Eu não perguntei nada. Liguei o carro e saí. Às vezes o melhor que a gente faz é dirigir e deixar o silêncio fazer o trabalho.
+neutra | carimbo: VINTE ANOS DE CASAMENTO | Depois de uns quinze minutos, ela falou. Vinte anos de casamento. Dois filhos adolescentes. Uma separação sem briga, mas triste.
+triste | conversa: Eu não sei quem eu sou sozinha. | Disse: eu não sei quem eu sou sozinha. Eu casei com vinte e cinco. Fui esposa, mãe. E agora? Quem eu sou?
+neutra | - | Eu não tinha resposta. Então perguntei outra coisa: o que você gostava de fazer antes de casar? Ela pensou um tempão.
+rindo | conversa: Eu pintava. | Riu baixinho: eu pintava. Aquarela. Eu queria fazer faculdade de artes. Aí veio o casamento, os filhos, e eu nunca mais peguei num pincel.
+neutra | mapa | Eu sabia de uma loja de material de arte no centro. Pequena, antiga. Mudei a rota sem perguntar.
+desconfiada | - | Parei na frente. Ela olhou a vitrine. Pincéis, tintas, papel de aquarela. Ficou parada. Disse: o senhor me trouxe aqui de propósito?
+neutra | conversa: Só pra olhar. | Eu disse: só pra olhar. Ela desceu. E ficou meia hora lá dentro. Eu esperei.
+rindo | carimbo: A CAIXA DE AQUARELA | Voltou com uma sacola. Uma caixa de aquarela, pincéis, um bloco de papel. E um sorriso pequenininho. O primeiro da manhã.
+neutra | - | Aí pediu pra eu levar ela num parque. Sentou num banco de frente pra um lago. Abriu o bloco. Molhou o pincel numa garrafinha de água.
+neutra | relogio: UMA HORA | Eu fiquei no carro, de longe. Uma hora. Ela pintando. Parando. Olhando o lago. Pintando de novo.
+triste | - | Quando voltou, me mostrou. Um lago. Torto, com a tinta escorrendo. Mas bonito. E disse: vinte anos que eu não faço isso. Achei que tinha esquecido.
+triste | coracao: ELA LEMBROU | E completou: eu não esqueci. Eu só guardei. Debaixo de muita coisa. Mas ainda tá aqui.
+neutra | - | Ela pediu pra ir pra casa. Disse que agora estava pronta. Que ia contar pros filhos que a mãe ia começar um curso de pintura.
+neutra | carro | Seis meses depois, ela me mandou uma foto. Uma exposição pequena, num centro cultural. Aquarelas. A primeira era o lago do parque.
+neutra | manchete_v: VOCÊ AINDA ESTÁ AÍ | Moral da história: quando uma parte da vida termina, a gente não some. A gente reencontra quem estava guardado.
+rindo | coracao: A PRIMEIRA AQUARELA | E se você tá recomeçando alguma coisa, pergunta: o que eu gostava de fazer antes? A resposta pode ser o caminho.
+
+## 232 | O PORTEIRO DO SEU OSCAR | amizade | noite
+G: 🏢 Todo dia, durante 15 anos, o porteiro conversava com o morador mais velho do prédio. Quando o seu Oscar fez 90, o porteiro preparou tudo.
+P: Você conhece o porteiro do seu prédio pelo nome?
+H: #amizade #porteiro #idosos
+neutra | titulo | Sobe aí, que essa corrida levou uma amizade de portaria. E um bolo de noventa velas.
+neutra | relogio: DOMINGO · 15H | Domingo, três da tarde. Peguei um rapaz de uns trinta e cinco anos, de uniforme de porteiro, com uma caixa de bolo e um saco de balões.
+rindo | conversa: É aniversário do seu Oscar. | Disse: é aniversário do seu Oscar. Noventa anos. Morador do apartamento quarenta e dois. Eu sou o porteiro.
+neutra | carimbo: SEU OSCAR E O JOSIEL | Josiel. Porteiro do prédio há quinze anos. E todo dia, de manhã e de tarde, o seu Oscar descia e conversava com ele. Meia hora.
+rindo | conversa: Ele me ensinou xadrez. | Riu: ele me ensinou xadrez. História do Brasil. A fazer nó de gravata. Eu ensinei ele a usar o celular e a mandar figurinha.
+neutra | - | O seu Oscar era viúvo. Os filhos moravam fora do país. Ligavam uma vez por mês. O Josiel era a pessoa com quem ele mais falava.
+triste | conversa: Ninguém ia lembrar. | Disse: os filhos não vão conseguir vir. A irmã dele morreu ano passado. Ninguém ia lembrar dos noventa anos dele. Só eu.
+neutra | - | E ele resolveu fazer uma festa. Pediu ajuda pros moradores do prédio. Pelo grupo do condomínio. Disse que se ninguém ajudasse, ele fazia sozinho.
+neutra | mapa | Chegamos no prédio. O salão de festas do térreo. O Josiel pediu ajuda pra subir com os balões. Eu ajudei. E fiquei, porque a curiosidade não deixa.
+chocada | manchete: O SALÃO CHEIO | O salão estava cheio. Os moradores tinham ajudado. Uns trinta. Com salgado, refrigerante, faixa pendurada: feliz noventa, seu Oscar.
+rindo | - | Até a síndica, que era famosa por ser brava, estava lá. Enchendo balão. Disse: o seu Oscar é o morador mais educado desse prédio. Merece.
+neutra | relogio: 16H | Às quatro horas, o Josiel subiu pra buscar o seu Oscar. Disse que precisava ajudar a trocar uma lâmpada. Mentira, claro.
+chocada | - | O seu Oscar desceu. De chinelo e pijama. Entrou no salão. E todo mundo gritou: surpresa! Ele ficou parado na porta.
+triste | carimbo: DE PIJAMA | Ele olhou o pijama. Olhou o salão. E disse: Josiel, você me trouxe de pijama pra festa? O salão inteiro riu. Ele também.
+neutra | - | Cantaram parabéns. Ele assoprou as velas. Um nove e um zero. E aí pediu pra falar alguma coisa.
+triste | conversa: Esse rapaz é meu filho. | Disse: eu tenho dois filhos que moram longe. Eu amo eles. Mas esse rapaz aqui, o Josiel, é meu filho também. Quinze anos de bom dia.
+triste | coracao: QUINZE ANOS DE BOM DIA | O Josiel, de uniforme, segurando o bolo, começou a chorar. O seu Oscar abraçou ele. De pijama. Os moradores aplaudindo.
+neutra | notificacao: Videochamada | Aí a síndica fez uma videochamada. Com os filhos dele, do exterior. Eles cantaram parabéns de longe. E agradeceram o Josiel por tudo.
+rindo | - | O filho mais velho disse no vídeo: Josiel, a gente te deve muito. Ele respondeu: não deve nada. O seu Oscar me deve uma partida de xadrez. Ele perdeu ontem.
+neutra | carro | Eu fui embora com um pedaço de bolo. O seu Oscar me agradeceu pela carona dos balões. De pijama, no portão. Acenando.
+neutra | manchete_v: CONHECE O PORTEIRO | Moral da história: tem gente que passa o dia na portaria e guarda a vida dos moradores. Pergunta o nome dele.
+rindo | coracao: APARTAMENTO 42 | E se você passa pela portaria todo dia, para um minuto e conversa. Pode ser a melhor parte do dia de alguém.
+
+## 233 | AS ALIANÇAS ESQUECIDAS | humor | dia
+G: 💍 O noivo esqueceu as alianças em casa. O casamento era em 40 minutos. A casa ficava a 35. Começou a corrida mais tensa da minha vida.
+P: Qual foi o maior esquecimento num momento importante?
+H: #casamento #humor #noivo
+neutra | titulo | Sobe aí, que essa corrida teve cronômetro, um noivo desesperado e um padrinho que não ajudava em nada.
+chocada | relogio: SÁBADO · 16H20 | Sábado, quatro e vinte da tarde. Peguei dois rapazes de terno na porta de uma igreja. Um pálido. O outro rindo. O noivo e o padrinho.
+brava | conversa: Esqueci as alianças! | O noivo gritou: esqueci as alianças em casa! O casamento é às cinco! O padrinho, rindo: eu falei pra você conferir.
+neutra | carimbo: QUARENTA MINUTOS | A casa dele ficava a trinta e cinco minutos dali. Ida e volta: setenta. O casamento: em quarenta. A matemática não fechava.
+neutra | - | Eu pensei rápido. Disse: liga pra alguém que tá na sua casa e manda trazer no meio do caminho. A gente se encontra na metade.
+desconfiada | conversa: A minha avó tá lá. | O noivo: só a minha avó tá lá. Ela tem oitenta e dois anos. Não dirige. O padrinho: e o vizinho? O noivo: o vizinho tá aqui na igreja.
+rindo | - | Ligou pra avó. Explicou. A avó disse: calma, meu filho. Eu vou pegar o ônibus. O noivo quase desmaiou: não, vó! Ônibus demora!
+neutra | conversa: Pede um carro pra ela. | Eu falei: pede um carro de aplicativo pra ela. A gente se encontra no meio. Ele pediu. A avó nunca tinha andado de aplicativo.
+rindo | carimbo: A AVÓ NO APLICATIVO | No viva-voz, o noivo ensinando a avó: vó, entra no carro prata. Não, vó, não precisa pagar o motorista em dinheiro. Vó, coloca o cinto.
+neutra | mapa | Combinamos de nos encontrar num posto de gasolina na metade do caminho. Eu fui o mais rápido que a lei deixava. O padrinho comendo amendoim.
+neutra | relogio: 16H38 | Quatro e trinta e oito. Chegamos no posto. Nada da avó. O noivo andando de um lado pro outro. Suando o terno.
+chocada | - | Quatro e quarenta e dois. Chega um carro prata. Desce uma senhora de oitenta e dois anos. De bobes no cabelo. Segurando uma caixinha de veludo.
+rindo | manchete: A VÓ DE BOBES | Ela estava se arrumando pro casamento quando o neto ligou. Saiu de bobes. Disse: não tive tempo de tirar. Depois eu tiro na igreja.
+rindo | - | O noivo abraçou a avó. Pegou as alianças. E aí perguntou: vó, a senhora vem com a gente? Ela: claro. Eu vou no casamento, ué.
+neutra | relogio: 16H44 | Quatro e quarenta e quatro. Todos no meu carro. O noivo na frente, a avó e o padrinho atrás. Dezesseis minutos pra chegar.
+chocada | - | No caminho, a avó tirou os bobes um por um. E pediu pro padrinho segurar. O padrinho com as mãos cheias de bobe.
+neutra | mapa | Chegamos na igreja às quatro e cinquenta e nove. O noivo correu pro altar. A avó entrou ajeitando o cabelo. O padrinho entrou com os bobes no bolso.
+rindo | carimbo: CINCO EM PONTO | Às cinco em ponto, a noiva entrou. Não sabia de nada. E no altar, o noivo com as alianças na mão, suado, sorrindo como quem ganhou uma corrida.
+triste | coracao: A AVÓ DE CABELO PRONTO | No momento das alianças, o padre perguntou: quem trouxe as alianças? E o noivo apontou pra avó na primeira fila. Ela acenou, de cabelo arrumado.
+rindo | - | Na festa, o padrinho fez discurso. Contou tudo. Com os bobes na mão. Mostrando como prova. A noiva riu até chorar.
+neutra | carro | Eu fui embora com um bobe no banco de trás. Esqueceram. Tá no meu porta-luvas. A Rosângela acha que é de alguma passageira. É.
+neutra | manchete_v: TEM SEMPRE UMA VÓ | Moral da história: quando tudo dá errado, liga pra vó. Ela resolve. Nem que seja de bobes.
+rindo | coracao: A VÓ DOS BOBES | E se você vai casar, confere as alianças três vezes. E deixa o telefone da vó no viva-voz.
+
+## 234 | O DJ QUE NÃO OUVE | superacao | noite
+G: 🎧 Ele é surdo de nascença. E é DJ. Sente a música pelo chão, pelas mãos, pelo peito. Hoje ia tocar na maior festa da cidade.
+P: Você acha que dá pra sentir música sem ouvir?
+H: #dj #surdo #superacao
+neutra | titulo | Sobe aí, que essa corrida levou um DJ que nunca ouviu uma batida. Mas sente cada uma.
+neutra | relogio: SÁBADO · 22H | Sábado, dez da noite. Entrou um rapaz de uns vinte e oito anos, fone gigante no pescoço, bolsa de equipamento e um sorriso enorme.
+neutra | conversa: Ele é surdo. | Ele mostrou o celular com uma mensagem escrita: boa noite. Eu sou surdo. Vou pra casa de shows tal. Eu sou o DJ de hoje.
+desconfiada | - | Eu li duas vezes. DJ? Surdo? Ele percebeu minha cara e riu. Escreveu: todo mundo faz essa cara.
+neutra | carimbo: DJ VIBRA | Chama-se Lucas. Mas o nome artístico é DJ Vibra. Nasceu surdo. E sempre amou música. Do jeito dele.
+rindo | - | Escreveu no celular: quando eu era criança, eu deitava no chão perto da caixa de som da igreja. Sentia a música pelo corpo. Pelo peito.
+neutra | - | Aprendeu a ler a música pelas vibrações. O grave no peito. O médio na mão. O agudo pelo visual, no programa de computador, que mostra as ondas.
+desconfiada | conversa: Como você sabe se tá bom? | Eu perguntei, falando devagar pra ele ler meus lábios: como você sabe se a música tá boa? Ele respondeu escrevendo.
+triste | carimbo: PELO CHÃO E PELO POVO | Disse: pelo chão. E pelo povo. Se o chão treme do jeito certo e o povo pula, tá boa. Se o povo para, eu mudo.
+neutra | - | Ele colocou a mão no painel do meu carro. Pediu pra eu ligar o rádio. Sentiu a vibração. E escreveu: o seu som tem pouco grave. Comprou barato. Acertou.
+rindo | - | Eu ri. Ele riu também. Escreveu: eu sei mais do seu carro do que você.
+neutra | mapa | Chegamos na casa de shows. Fila enorme na porta. Ele era a atração principal. A primeira vez que tocava num lugar tão grande.
+neutra | - | Ele me deu uma pulseira de acesso. Escreveu: fica. Quero que você veja. Eu fiquei. Primeira vez numa festa dessas em vinte anos.
+neutra | relogio: MEIA-NOITE | À meia-noite ele subiu no palco. Descalço. Disse que toca descalço pra sentir o chão. Colocou as mãos na mesa de som.
+chocada | manchete: O CHÃO TREMEU | E começou. Uma batida que eu senti no estômago. O chão tremendo. Duas mil pessoas pulando. E ele lá em cima, de olho fechado, sentindo tudo.
+chocada | - | Eu olhei e entendi. Ele não precisava ouvir. Ele estava dentro da música. Mais do que qualquer um ali.
+triste | carimbo: O INTÉRPRETE | No meio do show, ele fez uma pausa. Um intérprete de libras subiu no palco. E traduziu o que ele sinalizava pro público.
+triste | conversa: A música não é só pro ouvido. | Ele disse: a música não é só pro ouvido. É pro corpo inteiro. Hoje tem cinquenta surdos aqui. Essa próxima é pra vocês.
+triste | coracao: OS CINQUENTA | E num canto, perto das caixas de som, um grupo de surdos dançando com a mão encostada na caixa. Sentindo a vibração. Chorando de alegria.
+rindo | - | Ele tocou até as três da manhã. Eu saí meia-noite e meia, que eu não tenho mais idade. Mas saí com o chão ainda tremendo no peito.
+neutra | carro | No dia seguinte, ele me mandou mensagem: e aí, motorista, gostou? Eu respondi: senti. Ele mandou um emoji de coração. E escreveu: então você entendeu.
+neutra | manchete_v: SENTE | Moral da história: a gente acha que precisa de tudo pra fazer o que ama. Às vezes basta sentir.
+rindo | coracao: DJ VIBRA | E se alguém disser que você não pode fazer algo por causa de uma limitação, lembra do DJ Vibra. Ele dança descalço.

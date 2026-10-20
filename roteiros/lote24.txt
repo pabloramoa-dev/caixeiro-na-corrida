@@ -1,0 +1,264 @@
+## 255 | A PELADA DOS PAIS | futebol | dia
+G: ⚽ Todo ano, a escola faz um jogo de pais contra filhos. Um pai que nunca aparecia em nada resolveu ir. De chinelo. E virou o herói do dia.
+P: Seus pais já jogaram futebol contra você?
+H: #futebol #paiefilho #escola
+neutra | titulo | Sobe aí, que essa corrida levou um pai atrasado dez anos pra um jogo de futebol.
+neutra | relogio: SÁBADO · 9H | Sábado, nove da manhã. Entrou um homem de uns quarenta anos, de uniforme de segurança, cara de quem saiu do plantão agora. Com um par de chinelos na mão.
+neutra | conversa: Escola municipal. | Pediu: escola municipal, rápido. Tem jogo dos pais contra os filhos. O meu filho joga. Eu nunca fui em nada.
+neutra | carimbo: SEU JORGE, VIGILANTE | Seu Jorge. Vigilante noturno. Trabalha de noite, dorme de dia. Disse que nunca foi numa reunião, num teatro, numa festa da escola do filho.
+triste | conversa: Ele parou de me convidar. | Disse: ele parou de me convidar. No começo ele chamava. Eu dizia que não dava. Ele parou. Isso doeu mais que tudo.
+neutra | - | O filho, o Caio, tinha doze anos. E o jogo de pais contra filhos era o evento mais esperado do ano na escola.
+triste | conversa: Ele não sabe que eu vou. | Disse: ele não sabe que eu vou. Eu saí do plantão agora. Não dormi. Mas eu vou. Nem que seja de chinelo.
+desconfiada | conversa: Por que de chinelo? | Perguntei: por que de chinelo? Ele riu: porque eu não tenho chuteira. Nem tênis. Eu só tenho a botina do trabalho e esse chinelo.
+neutra | mapa | Chegamos na escola. A quadra cheia. Pais de um lado, de camiseta combinando, de chuteira nova. Os filhos do outro. O Caio no meio, de capitão.
+neutra | - | Ele desceu. Eu fiquei, porque ele pediu pra eu esperar e levar ele pra casa dormir depois. Sentei na arquibancada com os avós.
+chocada | - | O Caio viu o pai entrando na quadra. De uniforme de vigilante e chinelo. Parou. Largou a bola. E ficou olhando sem acreditar.
+triste | carimbo: O FILHO CORREU | Depois saiu correndo e abraçou o pai. No meio da quadra. Os outros pais e filhos olhando. O Caio dizendo: o senhor veio! O senhor veio!
+rindo | - | Os outros pais emprestaram uma camiseta pra ele. E o técnico, o professor de educação física, perguntou: vai jogar de chinelo? Ele disse: vou.
+neutra | relogio: O JOGO | O jogo começou. Os pais cansando em dez minutos. Os filhos correndo como foguete. Três a zero pros filhos no primeiro tempo.
+chocada | - | No segundo tempo, o seu Jorge pegou a bola. De chinelo. E driblou. Um, dois, três meninos. Um chinelo voou. Ele continuou descalço.
+chocada | manchete: O GOL DESCALÇO | E chutou. De bico, descalço. Gol. A quadra inteira gritou. Os pais pulando. Os filhos aplaudindo, mesmo sendo do time adversário.
+rindo | carimbo: TODO MUNDO DESCALÇO | Aí os outros pais tiraram a chuteira. Todos. E jogaram descalços. Em homenagem. O professor nem tentou impedir.
+neutra | - | O jogo terminou cinco a três pros filhos. Mas quem ganhou foi o seu Jorge. Saiu carregado nos ombros. Pelos meninos.
+triste | coracao: O PAI QUE VEIO | O Caio disse no microfone da escola: esse é o meu pai. Ele trabalha a noite inteira cuidando dos outros. Hoje ele veio cuidar de mim.
+triste | - | O seu Jorge chorou na quadra. Descalço, suado, de camiseta emprestada. Disse: eu perdi dez anos. Não vou perder mais nenhum.
+neutra | carro | Na volta, ele dormiu no carro antes da primeira esquina. Com o chinelo que voou no colo. O Caio guardou o outro de lembrança.
+neutra | manchete_v: VAI NA ESCOLA | Moral da história: filho não lembra se você estava de chuteira. Lembra que você estava lá.
+rindo | coracao: GOL DESCALÇO | E se você nunca foi numa festa da escola do seu filho, vai na próxima. Nem que seja de chinelo.
+
+## 256 | O AMOR DA LAVANDERIA | amor | noite
+G: 🧺 Toda quinta, às 21h, os dois lavavam roupa na mesma lavanderia de autosserviço. Um ano sem se falar. Até as máquinas trocarem as roupas deles.
+P: Qual foi o lugar mais comum onde você já se apaixonou?
+H: #amor #lavanderia #timidez
+neutra | titulo | Sobe aí, que essa corrida levou uma sacola de roupa trocada. E um amor centrifugado.
+neutra | relogio: QUINTA · 22H | Quinta, dez da noite. Entrou uma moça de uns trinta anos com uma sacola de roupa limpa. Desesperada. Disse: lavanderia da rua tal. De volta. Rápido.
+desconfiada | conversa: Essa roupa não é minha. | Explicou: essa roupa não é minha. Eu peguei a sacola errada. Tem camisa de homem, cueca, meia de futebol. E a minha tá com ele.
+neutra | carimbo: A LAVANDERIA DE QUINTA | Chama-se Bruna. Toda quinta, às nove da noite, lava a roupa numa lavanderia de autosserviço perto de casa. Há um ano.
+rindo | - | E todo quinta, na mesma hora, um rapaz de óculos também lava. Na máquina do lado. Com um livro na mão. Os dois nunca se falaram.
+rindo | conversa: Eu sei a marca do sabão dele. | Riu: eu sei a marca do sabão dele. Sei que ele lê ficção científica. Sei que ele usa meia de time. Mas não sei o nome dele.
+neutra | - | Naquela quinta, ela saiu com pressa. Pegou a sacola da secadora do lado. Achando que era a dela. As duas sacolas eram azuis.
+neutra | mapa | Voltamos pra lavanderia. Vazia. Fechada às dez. Nada do rapaz. Nada da sacola dela.
+triste | conversa: A minha camisa favorita. | Ela disse: a minha camisa favorita tava lá. A que eu ganhei da minha avó. E ele não sabe quem eu sou.
+desconfiada | carimbo: A PISTA | Aí ela olhou a sacola dele. Tinha uma etiqueta de lavanderia antiga. Com um nome: Rafael. E um endereço. Três quadras dali.
+neutra | conversa: Vamos lá? | Ela perguntou: o senhor me leva? Eu tenho vergonha de ir sozinha. Eu disse: levo. E fico no carro, de olho.
+neutra | mapa | Chegamos num prédio pequeno. Ela tocou o interfone. Uma voz de homem atendeu. Ela gaguejou: oi, eu acho que a gente trocou de roupa. Na lavanderia.
+chocada | - | Silêncio no interfone. Depois: a moça da quinta? E desceu. O rapaz de óculos. Com uma sacola azul na mão. A dela.
+chocada | manchete: ELE TAMBÉM PERCEBEU | Ele disse: eu percebi quando cheguei em casa. Fiquei olhando a sua camisa estampada e pensei: é da moça de quinta. Eu ia levar semana que vem.
+rindo | conversa: Eu sei que você lê ficção científica. | Ela disse, sem pensar: eu sei que você lê ficção científica. Ele ficou vermelho. E respondeu: e eu sei que você sempre esquece uma meia na máquina.
+rindo | - | Os dois riram. Trocaram as sacolas. E ficaram parados na calçada. Com a sacola na mão. Sem ir embora.
+triste | carimbo: A CAMISA DA AVÓ | Ele disse: a camisa de flores. Eu dobrei com cuidado. Parecia importante. Ela disse: era da minha avó. Ela morreu ano passado.
+triste | coracao: UM CAFÉ | Ele disse: tem uma padaria aberta até meia-noite aqui do lado. Quer um café? Ela olhou pra mim no carro. Eu fiz sinal de positivo.
+neutra | carro | Eu fui embora. Ela pagou a corrida pelo aplicativo e escreveu no comentário: obrigada por me levar. E por esperar. Deu certo.
+rindo | - | Um ano depois, me chamaram pra uma mudança pequena. Duas sacolas azuis. Pro mesmo apartamento. Agora lavam roupa juntos. Na mesma máquina.
+neutra | manchete_v: FALA NA LAVANDERIA | Moral da história: às vezes o destino precisa trocar as roupas pra você ter coragem de puxar conversa.
+rindo | coracao: SACOLA AZUL | E se você vê sempre a mesma pessoa no mesmo lugar, fala oi. Não espera trocar de roupa.
+
+## 257 | O MOTORISTA NOVATO | humor | dia
+G: 🚗 Um rapaz no primeiro dia como motorista de aplicativo pediu: posso te seguir hoje pra aprender? Foi o dia mais engraçado da minha carreira.
+P: Como foi o seu primeiro dia no trabalho atual?
+H: #humor #motorista #primeirodia
+neutra | titulo | Sobe aí, que nessa corrida eu fui professor. De um aluno que errou tudo que dava pra errar.
+neutra | relogio: SEGUNDA · 7H | Segunda, sete da manhã. Eu estava tomando café no posto quando um rapaz de uns vinte e cinco anos parou do meu lado. Carro novo, adesivo do aplicativo ainda brilhando.
+desconfiada | conversa: O senhor é motorista há quanto tempo? | Ele perguntou: o senhor é motorista há quanto tempo? Eu disse: oito anos. Ele: hoje é o meu primeiro dia. Posso te seguir pra aprender?
+rindo | carimbo: O APRENDIZ | Chama-se Igor. Perdeu o emprego de vendedor. Comprou um carro financiado. E estava morrendo de medo. Eu lembrei de mim mesmo.
+neutra | conversa: Te ensino o básico. | Eu disse: senta aí que eu te ensino o básico. Paguei mais um café. E dei a primeira aula. No balcão do posto.
+rindo | - | Regra um: bom dia sempre. Regra dois: ar ligado no verão. Regra três: rádio baixo, e pergunta se pode. Regra quatro: nunca discute futebol na primeira corrida.
+rindo | conversa: E se o passageiro chorar? | Ele perguntou: e se o passageiro chorar? Eu disse: aí você escuta. Não precisa falar nada. Só dirige devagar.
+neutra | - | Combinamos de trocar mensagem durante o dia. Ele ia me contando as corridas. Eu ia respondendo entre uma e outra.
+rindo | notificacao: Mensagem do Igor | Primeira mensagem, oito e meia: Caixeiro, peguei a primeira corrida. Fui no endereço errado. A senhora esperou vinte minutos. Me deu uma estrela.
+rindo | notificacao: Mensagem do Igor | Segunda, nove e quinze: Caixeiro, eu tranquei a chave dentro do carro com o passageiro dentro. Ele abriu por dentro. Me deu três estrelas por pena.
+rindo | notificacao: Mensagem do Igor | Terceira, dez horas: o passageiro discutiu futebol comigo. Eu esqueci a regra quatro. Ele torce pro meu rival. Uma estrela.
+rindo | carimbo: A MÉDIA DESPENCANDO | Ao meio-dia, ele me ligou. Quase chorando. Disse: minha nota tá dois vírgula oito. O aplicativo vai me bloquear. Eu não sirvo pra isso.
+neutra | mapa | Eu combinei de encontrar ele num restaurante de motorista. Prato feito. E fui. Ele estava sentado sozinho, olhando o celular, desanimado.
+triste | conversa: Meu primeiro dia foi pior. | Eu contei do meu primeiro dia. Que eu levei uma moça chorando pra rodoviária. Que eu não sabia o que fazer. Que eu também achei que não servia.
+neutra | - | E disse: o que importa não é a nota de hoje. É se amanhã você volta. Ele ficou quieto. Comeu o prato inteiro.
+neutra | relogio: À TARDE | À tarde, ele voltou a rodar. E as mensagens mudaram.
+rindo | notificacao: Mensagem do Igor | Três horas: peguei uma senhora que tava indo no médico com medo. Eu fiquei conversando com ela. Cinco estrelas.
+triste | notificacao: Mensagem do Igor | Seis horas: um rapaz entrou chorando. Eu não falei nada. Só dirigi devagar. No final ele disse obrigado. Cinco estrelas.
+triste | coracao: CINCO ESTRELAS | Nove da noite, a última mensagem: Caixeiro, a minha nota subiu pra quatro vírgula dois. E eu gostei. Eu acho que eu gosto disso.
+neutra | carro | Hoje o Igor tem quatro vírgula nove. E de vez em quando a gente se encontra no posto pra tomar café. Agora ele dá aula pros novatos.
+neutra | manchete_v: VOLTA AMANHÃ | Moral da história: ninguém nasce sabendo. O primeiro dia é sempre ruim. O segundo é o que importa.
+rindo | coracao: REGRA QUATRO | E se você tá no primeiro dia de alguma coisa, aguenta. Amanhã é melhor. E nunca discute futebol na primeira corrida.
+
+## 258 | A ESCOLA QUE ELE CONSTRUIU | superacao | noite
+G: 🏫 A comunidade dele não tinha escola. Ele, pedreiro, construiu uma. Tijolo por tijolo. Durante 12 anos. Hoje, era a formatura da primeira turma.
+P: Quem construiu algo importante na sua comunidade?
+H: #educacao #superacao #comunidade
+neutra | titulo | Sobe aí, que essa corrida levou o homem que levantou uma escola com as próprias mãos.
+neutra | relogio: SÁBADO · 17H | Sábado, cinco da tarde. Entrou um senhor de uns sessenta e oito anos, terno simples, mãos enormes e calejadas, e um chapéu na mão.
+neutra | conversa: Formatura da escola. | Disse: vou na formatura da escola. A primeira turma. Eu perguntei: o senhor é avô de algum formando? Ele riu: sou avô da escola.
+neutra | carimbo: SEU JOSIAS, PEDREIRO | Seu Josias. Pedreiro a vida inteira. Mora numa comunidade rural, a uma hora da cidade. Onde não tinha escola. As crianças andavam uma hora a pé pra estudar.
+triste | conversa: A minha neta caiu no rio. | Contou: a minha neta caiu num rio indo pra escola. Uma correnteza. Quase não sobreviveu. Naquele dia eu decidi: vou construir uma escola aqui.
+neutra | - | Sem dinheiro, sem projeto, sem ajuda. Ele começou. Um tijolo por fim de semana. Comprado com o dinheiro dele. No terreno que era do pai.
+rindo | conversa: Diziam que eu era doido. | Riu: diziam que eu era doido. Que velho sozinho não levanta escola. Eu respondia: velho sozinho não. Velho teimoso, sim.
+neutra | - | Depois de dois anos, os vizinhos começaram a ajudar. Um doava areia. Outro, telha. As mulheres faziam comida pros mutirões de sábado.
+neutra | carimbo: DOZE ANOS | Doze anos. Duas salas de aula, um banheiro, uma cozinha. Ele mesmo fez cada parede. E aí foi na prefeitura e disse: a escola tá pronta. Mandem professor.
+triste | conversa: Eles não acreditaram. | Disse: eles não acreditaram. Mandaram um engenheiro pra ver. O engenheiro disse: tá melhor que muita escola que a gente construiu.
+neutra | mapa | Chegamos na comunidade. Estrada de terra. E no alto, uma escola. Pintada de azul e branco. Com bandeirinhas na entrada. E uma placa: Escola Municipal Josias Pedreiro.
+chocada | - | Ele parou na frente da placa. Disse: eu pedi pra não colocar o meu nome. Eles colocaram assim mesmo. Eu fico com vergonha.
+neutra | - | Eu ajudei ele a subir a ladeira. E fiquei. A formatura do quinto ano. Doze crianças. As primeiras que estudaram do começo ao fim na escola dele.
+neutra | relogio: A FORMATURA | Doze crianças de beca azul, feita pelas mães. Os pais na plateia, em cadeiras de plástico. A professora emocionada no microfone.
+chocada | manchete: A ORADORA | A oradora da turma era uma menina de onze anos. Ela subiu no palquinho e disse: eu quero agradecer ao vô Josias. Que construiu a nossa escola.
+triste | carimbo: A NETA | E completou: e que é o meu bisavô. A menina era bisneta dele. Filha da neta que caiu no rio. A neta estava na plateia, chorando.
+triste | coracao: TIJOLO POR TIJOLO | A menina disse: cada tijolo dessa escola tem a mão dele. Eu aprendi a ler dentro das paredes que ele fez. Obrigada, vô.
+neutra | - | O seu Josias levantou da cadeira de plástico. Não conseguiu falar nada. As doze crianças desceram do palco e abraçaram ele. Uma por uma.
+neutra | carro | Na volta, ele me mostrou as mãos. Disse: essas mãos levantaram cento e vinte casas na cidade. Mas a escola foi a única que eu fiz de graça. E a única que importa.
+neutra | manchete_v: CONSTRÓI | Moral da história: quando falta alguma coisa na sua comunidade, às vezes é você que tem que começar. Um tijolo por fim de semana.
+rindo | coracao: VÔ JOSIAS | E se você sabe fazer alguma coisa, pensa em como ela pode servir à sua comunidade. Um tijolo já é começo.
+
+## 259 | O TATUADOR DE IDOSOS | curiosa | dia
+G: 🖋️ O estúdio dele só atende gente com mais de 70 anos. Naquela tarde, uma senhora de 84 foi fazer a primeira tatuagem. O desenho tinha uma história de 1960.
+P: Se você fosse fazer uma tatuagem hoje, o que seria?
+H: #tatuagem #terceiraidade #curiosidades
+neutra | titulo | Sobe aí, que essa corrida levou uma senhora de oitenta e quatro anos pra fazer a primeira tatuagem da vida.
+neutra | relogio: QUARTA · 14H | Quarta, duas da tarde. Entrou uma senhora miudinha, cabelo branco curto, bolsa de couro e um papel dobrado na mão. Com um desenho.
+rindo | conversa: Estúdio de tatuagem. | Disse: estúdio de tatuagem, por favor. Eu olhei pelo retrovisor. Ela riu: é pra mim mesmo. Primeira vez. Oitenta e quatro anos.
+neutra | carimbo: O ESTÚDIO PRATA | O estúdio era especial. Um tatuador de uns quarenta anos que só atende idosos. Chamou de Estúdio Prata. Por causa do cabelo branco.
+desconfiada | conversa: Por que só idoso? | Ela contou o que sabia: o dono começou depois que tatuou a própria avó. Ela tinha noventa anos. Ficou tão feliz que ele decidiu mudar o estúdio.
+neutra | - | Dona Celeste. Mostrou o desenho. Uma andorinha. Pequena, simples. Feita a lápis, num papel amarelado. Muito antigo.
+triste | carimbo: A ANDORINHA DE 1960 | Disse: esse desenho foi feito em mil novecentos e sessenta. Pelo meu primeiro namorado. Um rapaz que desenhava muito bem. Ele foi pra marinha.
+triste | conversa: Ele nunca voltou. | Contou: ele me deu esse desenho antes de embarcar. Disse: quando você vir uma andorinha, é porque eu tô voltando. Ele nunca voltou. Naufrágio.
+neutra | - | Ela casou com outro, foi feliz, teve filhos. Mas guardou o desenho sessenta e quatro anos. Numa caixinha de joias.
+rindo | conversa: Agora eu quero na pele. | Disse: agora eu quero na pele. Antes que eu vá embora também. Meus filhos acham que eu fiquei maluca. Eu fiquei corajosa.
+neutra | mapa | Chegamos no estúdio. Um lugar bonito, com plantas, poltronas confortáveis e fotos na parede. Idosos tatuados. Sorrindo.
+neutra | - | Ela me pediu pra entrar e segurar a mão dela. Disse que tinha medo de agulha. Eu entrei. Nunca tinha entrado num estúdio de tatuagem.
+neutra | carimbo: O TATUADOR | O tatuador olhou o desenho com cuidado. Disse: esse traço é lindo. Quem fez isso sabia desenhar. A senhora quer igual? Exatamente igual?
+triste | - | Ela disse que sim. Ele copiou o desenho. Traço por traço. Mostrou pra ela antes. Ela disse: é ele. É a mão dele.
+chocada | manchete: A AGULHA | A agulha começou. No pulso dela. Ela apertou a minha mão. Depois relaxou. Disse: é igual picada de formiga. Eu achei que ia doer mais.
+neutra | relogio: 40 MINUTOS | Quarenta minutos. O tatuador concentrado. Ela contando histórias dos anos sessenta. Dos bailes. Das cartas. Do porto.
+triste | coracao: A ANDORINHA NO PULSO | Quando terminou, ela olhou o pulso. A andorinha. Perfeita. Igual ao desenho de sessenta e quatro anos. Ela chorou baixinho.
+triste | conversa: Agora ele tá comigo. | Ela disse: agora ele tá comigo. Sempre. Quando eu olhar pro pulso, eu vou saber que alguém está voltando.
+rindo | - | O tatuador tirou uma foto dela pra parede. Ela posou de braço levantado, mostrando a tatuagem, igual roqueira. Disse: manda pros meus filhos.
+neutra | carro | Na volta, ela foi mostrando o pulso pra todo mundo no sinal. Disse: eu sou a tatuada mais velha do bairro. E a mais feliz.
+neutra | manchete_v: FAZ O QUE QUER | Moral da história: nunca é tarde pra marcar na pele aquilo que já está marcado no coração.
+rindo | coracao: ANDORINHA | E se você tem um desenho, uma frase, uma lembrança que quer carregar, não espera. Oitenta e quatro anos é um bom momento. Mas antes também é.
+
+## 260 | AS GÊMEAS TROCADAS | familia | noite
+G: 👯 As gêmeas idênticas trocaram de lugar pela última vez, aos 70 anos, pra pregar uma peça na família. Ninguém percebeu. Só o marido de uma delas.
+P: Você conhece gêmeos que adoravam se passar um pelo outro?
+H: #gemeas #humor #familia
+neutra | titulo | Sobe aí, que essa corrida levou duas senhoras idênticas. E uma delas mentindo o caminho todo.
+neutra | relogio: DOMINGO · 12H | Domingo, meio-dia. Entraram duas senhoras de setenta anos. Idênticas. Mesmo cabelo, mesmo óculos, mesmo vestido. Rindo como meninas.
+rindo | conversa: Somos gêmeas. | Uma disse: somos gêmeas. Eu sou a Lurdes. A outra: e eu sou a Lúcia. Aí as duas riram juntas. E a primeira disse: ou não.
+rindo | carimbo: A TROCA DE 70 ANOS | Contaram: desde crianças, trocavam de lugar. Na escola, uma fazia a prova da outra. No namoro, uma ia no encontro da outra. Ninguém nunca percebia.
+rindo | - | Disse a Lurdes, ou a Lúcia: uma vez eu fui no encontro dela e o rapaz me pediu em namoro. Eu disse sim por ela. Ela não gostou nada.
+neutra | - | Aquele domingo era o almoço de aniversário de setenta anos das duas. A família inteira reunida. Filhos, netos, maridos.
+rindo | conversa: A última troca. | E elas tinham um plano: a última troca. Uma ia se passar pela outra o almoço inteiro. Pra ver se alguém percebia.
+desconfiada | conversa: E os maridos? | Perguntei: e os maridos? Eles não vão perceber? As duas riram: cinquenta anos de casados. Vamos ver se conhecem a gente.
+neutra | mapa | Chegamos numa chácara. Família reunida, churrasco, música. Elas me convidaram pra ficar de testemunha. Eu fiquei. Ia ser divertido.
+rindo | - | As duas entraram. Cada uma foi pro lado do marido da outra. E começou. Os filhos abraçando a mãe errada. Os netos chamando a avó errada.
+rindo | carimbo: NINGUÉM PERCEBEU | Meia hora. Uma hora. Ninguém percebeu. A Lurdes, sendo a Lúcia, comentou a novela. O genro da Lúcia concordou. Ela não assiste a novela.
+rindo | - | As duas trocando olhares de longe, segurando o riso. Eu no canto, comendo picanha, assistindo a melhor novela do domingo.
+chocada | - | Aí o seu Antônio, marido da Lúcia, foi até a mulher que estava sentada do lado dele. Que era a Lurdes. E segurou a mão dela.
+chocada | manchete: ELE PERCEBEU | E disse: Lurdes, cadê a minha mulher? A Lurdes ficou paralisada. A família inteira parou. Ninguém tinha percebido. Só ele.
+rindo | conversa: Como você sabia? | A Lúcia de verdade veio lá do outro lado, rindo. Perguntou: como você sabia, Antônio? Ninguém nunca soube. Nem a nossa mãe.
+triste | carimbo: A MÃO | Ele disse: pela mão. A Lúcia tem uma cicatriz pequena no dedo. De quando cortou cebola no nosso primeiro jantar. Cinquenta anos atrás. Eu beijo esse dedo todo dia.
+triste | coracao: O DEDO DA CEBOLA | A Lúcia ficou com o olho cheio d'água. Disse: setenta anos enganando todo mundo. E você me pegou pelo dedo da cebola.
+rindo | - | E o marido da Lurdes? Ele estava do outro lado conversando com a Lúcia achando que era a mulher dele. Até hoje é zoado na família.
+neutra | carro | Na volta, as duas foram rindo o caminho todo. Disseram que foi a melhor troca da vida. E a última. Porque alguém finalmente conhecia de verdade uma delas.
+neutra | manchete_v: CONHECE DE VERDADE | Moral da história: amor de verdade é conhecer o detalhe que ninguém mais vê. Nem que seja um corte de cebola.
+rindo | coracao: LURDES E LÚCIA | E se você conhece gêmeos, desafia: tem alguém que sabe diferenciar? Pode ser a pessoa que mais ama eles.
+
+## 261 | O CAFÉ PENDURADO | reflexao | dia
+G: ☕ Na padaria, ele pagava dois cafés: um pra ele, outro pendurado pra quem não pudesse pagar. Fazia isso há 10 anos. Um dia descobriu quem tomava.
+P: Você já deixou alguma coisa paga pra um desconhecido?
+H: #reflexao #gentileza #cafe
+neutra | titulo | Sobe aí, que essa corrida terminou numa padaria com um café que estava esperando há dez anos.
+neutra | relogio: TERÇA · 7H | Terça, sete da manhã. Peguei um senhor de uns sessenta e cinco anos. Pediu pra parar numa padaria no caminho. Disse: é rapidinho. Só o meu café.
+neutra | - | Eu entrei com ele. Precisava de um café também. Ele pediu dois. Tomou um. E o outro, disse pra atendente: pendura. A atendente anotou num quadro.
+desconfiada | carimbo: O QUADRO DOS CAFÉS | Atrás do balcão, um quadro de giz. Com risquinhos. Cada risquinho, um café pago. Esperando alguém que não pudesse pagar.
+neutra | conversa: É o café pendurado. | Ele explicou: é o café pendurado. Uma tradição de outro país. Você paga um a mais. E quem não tem dinheiro chega e pede um café pendurado.
+neutra | - | Seu Rubens. Fazia isso todo dia, há dez anos. Na mesma padaria. Disse que começou depois de uma época difícil da vida dele.
+triste | conversa: Eu passei fome. | Disse: eu passei fome. Fiquei desempregado, perdi tudo. E um dia, um homem que eu não conhecia pagou um café pra mim. E um pão. Sem dizer nada.
+triste | - | Ele nunca soube quem era. Não pôde agradecer. Então decidiu agradecer do jeito que dava: pagando pra outro.
+desconfiada | conversa: E o senhor sabe quem toma? | Eu perguntei: e o senhor sabe quem toma os seus cafés? Ele disse: não. E nem quero saber. Não é pra mim.
+neutra | - | Mas a atendente, que ouviu, chegou perto. E disse: seu Rubens, desculpa. Mas eu acho que o senhor precisa saber de uma coisa.
+neutra | carimbo: A ATENDENTE CONTOU | Ela disse: tem um rapaz que vem toda manhã. Há uns três anos. Toma o café pendurado. E sempre deixa uma coisa no lugar.
+chocada | manchete: OS BILHETES | E tirou de uma gaveta uma caixa. Cheia de bilhetes. Pequenos. Em guardanapo, em papel de pão. Uns trezentos.
+triste | - | O seu Rubens abriu um. Escrito à mão: obrigado pelo café. Hoje eu consegui uma entrevista. Outro: obrigado. Hoje eu dormi num albergue. Outro: obrigado. Hoje eu comecei a trabalhar.
+triste | carimbo: TRÊS ANOS DE BILHETES | Três anos de bilhetes. Contando a vida de alguém que levantou. Café por café.
+chocada | - | Aí entrou na padaria um rapaz de uns trinta anos. Uniforme de empresa de limpeza. Chegou no balcão e disse: um café pendurado, por favor.
+neutra | - | A atendente olhou pro seu Rubens. O seu Rubens olhou pro rapaz. E disse: esse aqui é por minha conta. Mas eu quero tomar com você.
+triste | coracao: OS DOIS NA MESA | Os dois sentaram numa mesinha. O rapaz contou que dormia na rua quando começou a tomar o café. Que hoje tinha emprego, quarto alugado, e estava juntando dinheiro.
+triste | conversa: Agora eu penduro também. | E aí o rapaz pagou dois cafés. Um pra ele. E disse pra atendente: e um pendurado. Agora é a minha vez.
+neutra | carro | Eu levei o seu Rubens pro destino. Ele ficou quieto o caminho todo. Depois disse: dez anos achando que eu pagava café. Eu pagava esperança.
+neutra | manchete_v: PENDURA UM CAFÉ | Moral da história: a gentileza que alguém fez por você continua viva enquanto você passar adiante.
+rindo | coracao: CAFÉ PENDURADO | E se a sua padaria aceitar, pendura um café amanhã. Você nunca vai saber de quem é a manhã que você salvou.
+
+## 262 | O MURO DOS RECADOS | amizade | noite
+G: 🧱 Dois meninos de 10 anos trocavam recados num buraco do muro entre as casas. Se mudaram. 45 anos depois, um deles voltou na casa. O buraco ainda tinha um papel.
+P: Você ainda fala com o seu melhor amigo de infância?
+H: #amizade #infancia #reencontro
+neutra | titulo | Sobe aí, que essa corrida levou um homem de volta pro buraco do muro onde ele deixava bilhete aos dez anos.
+neutra | relogio: SÁBADO · 16H | Sábado, quatro da tarde. Entrou um homem de uns cinquenta e cinco anos com um papel amassado na mão. Um endereço antigo. Disse: quero ver uma casa.
+neutra | carimbo: A CASA DA INFÂNCIA | Chama-se Henrique. Morou naquela casa até os dez anos. Depois o pai foi transferido e a família mudou de estado.
+rindo | conversa: Tinha um buraco no muro. | Contou rindo: no muro entre a minha casa e a do vizinho, tinha um buraco. Do tamanho de um punho. E a gente trocava bilhete ali.
+neutra | - | O vizinho era o Toninho. Melhor amigo. Da mesma idade. Os dois trocavam bilhete todo dia. Sobre futebol, sobre a professora, sobre segredos.
+triste | conversa: Eu mudei sem me despedir. | Disse: eu mudei sem me despedir dele. Foi de madrugada. O caminhão de mudança chegou e a gente foi embora. Eu chorei a viagem inteira.
+triste | - | Nunca mais se falaram. Sem internet, sem telefone. O endereço do Toninho ele não sabia. Só sabia o buraco do muro.
+neutra | mapa | Chegamos na rua. Ele reconheceu tudo. A esquina, o poste, a padaria. E a casa. Pintada de outra cor, mas a mesma.
+neutra | - | Ele desceu e ficou na calçada. Olhando. Eu desci também. Ele pediu. Disse que precisava de alguém pra acreditar na história depois.
+chocada | - | A dona da casa, uma senhora simpática, saiu no portão. Ele explicou. Ela disse: o muro? Ainda tá lá. Com o buraco. A gente nunca tapou.
+chocada | manchete: O BURACO NO MURO | Ela deixou a gente entrar no quintal. E lá estava. O muro velho, coberto de musgo. E o buraco. Do tamanho de um punho.
+triste | - | Ele enfiou a mão no buraco. Por costume. Como fazia aos dez anos. E parou. Tinha alguma coisa lá dentro.
+chocada | carimbo: UM BILHETE | Um papel. Dobrado. Num saquinho plástico, pra proteger da chuva. Ele tirou devagar. Abriu. As mãos tremendo.
+triste | conversa: Henrique, se você voltar... | Estava escrito: Henrique, se um dia você voltar, eu moro na rua tal, número tal. Liga pra mim. O seu amigo, Toninho. Com um telefone.
+triste | - | O bilhete tinha data. De cinco anos antes. E embaixo, mais datas. O Toninho voltava de tempos em tempos e trocava o saquinho. A dona da casa sabia. Deixava.
+triste | coracao: QUARENTA E CINCO ANOS | A dona da casa contou: um senhor vem aqui todo ano, no aniversário dele. Troca o saquinho. Diz que um dia o amigo vai voltar.
+neutra | notificacao: Ligação | O Henrique ligou. O telefone tocou. Uma voz de homem atendeu. Ele disse: Toninho? É o Henrique. Do muro.
+neutra | - | Silêncio do outro lado. Depois um choro. E uma frase que eu ouvi pelo viva-voz: eu sabia que você ia voltar. Eu sabia.
+neutra | carro | Eu levei o Henrique até a casa do Toninho. Do outro lado da cidade. Os dois se abraçaram no portão. Dois homens de cinquenta e cinco anos. Rindo como meninos.
+neutra | manchete_v: DEIXA O RECADO | Moral da história: tem amizade que espera quarenta e cinco anos num buraco de muro. Só precisa alguém voltar.
+rindo | coracao: O BURACO DO MURO | E se você perdeu contato com um amigo de infância, procura. Ele pode ter deixado um recado esperando.
+
+## 263 | A TIA DA EXCURSÃO | humor | dia
+G: 🚌 Ela organiza excursão de terceira idade há 30 anos. O ônibus quebrou. As 40 senhoras precisavam chegar no santuário. Eu fui o reforço. Dez vezes.
+P: Você já foi numa excursão com a sua avó ou com o grupo da igreja?
+H: #excursao #humor #terceiraidade
+neutra | titulo | Sobe aí, que essa corrida teve quarenta passageiras. Em dez viagens. Com música de excursão em todas.
+neutra | relogio: DOMINGO · 7H | Domingo, sete da manhã. Recebi uma ligação no aplicativo. Uma mulher falando rápido: moço, preciso de um carro. Ou de dez. O ônibus da excursão quebrou.
+neutra | mapa | Cheguei num posto na estrada. Um ônibus de turismo parado, com o capô aberto. E quarenta senhoras sentadas no meio-fio. De chapéu. Com marmita.
+rindo | carimbo: TIA NEUSA DA EXCURSÃO | A organizadora era a tia Neusa. Sessenta e oito anos. Organiza excursão de terceira idade há trinta. Pro santuário, pra praia, pra fazenda.
+brava | conversa: A missa é às dez. | Disse: a missa no santuário é às dez. Fica a quarenta minutos. O ônibus reserva só chega meio-dia. Essas mulheres esperaram o ano inteiro.
+neutra | - | Ela já tinha pedido carro de aplicativo. Mas só tinha eu por perto. Um carro, quatro passageiras por vez. Dez viagens de quarenta minutos.
+rindo | conversa: O senhor faz dez viagens? | Ela perguntou: o senhor faz dez viagens? Eu fiz a conta. Ia demorar o dia inteiro. Olhei as quarenta senhoras de chapéu. E disse: faço.
+rindo | carimbo: PRIMEIRA VIAGEM | Primeira viagem. Quatro senhoras. Entraram cantando. A música da excursão. Uma marchinha que elas inventaram em mil novecentos e noventa e seis.
+rindo | - | Segunda viagem. Outras quatro. Mesma música. Uma delas me ofereceu bolo de laranja. Outra, coxinha. Outra, um terço de presente.
+neutra | - | Na terceira viagem, eu liguei pro grupo de motoristas. Contei a história. Pedi ajuda. Pra quem estivesse perto da estrada.
+chocada | manchete: OS MOTORISTAS VIERAM | Em vinte minutos, chegaram seis carros. Seis motoristas que eu nem conhecia direito. Do grupo. Num domingo de manhã.
+rindo | - | A tia Neusa organizou tudo como general. Quatro em cada carro. Por ordem de idade. As mais velhas primeiro. Com a marmita no colo.
+chocada | carimbo: O COMBOIO DA FÉ | Sete carros em comboio na estrada. Com pisca-alerta. Cada um com quatro senhoras cantando a mesma marchinha. Os caminhoneiros buzinando.
+neutra | mapa | Chegamos no santuário às nove e cinquenta. As quarenta senhoras desceram. Ajeitaram o chapéu. E entraram na igreja em fila. Na hora certa.
+rindo | - | Os sete motoristas ficaram na porta. Sem saber se iam embora. A tia Neusa saiu e disse: entrem. Vocês também precisam de bênção.
+triste | carimbo: O PADRE | E na missa, o padre ficou sabendo da história. E no final, disse: hoje eu quero abençoar uns anjos de carro prata, branco e preto. Que trouxeram as nossas irmãs.
+triste | coracao: SETE MOTORISTAS | As quarenta senhoras se viraram pra gente, no fundo da igreja. E aplaudiram. Sete marmanjos chorando de boné na mão.
+rindo | - | Depois, almoço. Elas abriram as marmitas na grama do santuário e serviram a gente. Eu comi frango, farofa, macarrão, bolo e torta. De sete senhoras diferentes.
+neutra | carro | Na volta, o ônibus reserva chegou. Mas metade das senhoras quis voltar de carro. Com a gente. Disseram que era mais divertido.
+neutra | manchete_v: CHAMA REFORÇO | Moral da história: quando o ônibus quebra, sempre tem alguém disposto a ajudar. É só pedir.
+rindo | coracao: COMBOIO DA FÉ | E se você ver uma excursão parada na estrada, pergunta se precisam de ajuda. Pode sair com uma marmita e uma bênção.
+
+## 264 | A MENINA DA ROBÓTICA | superacao | noite
+G: 🤖 Ela tem 14 anos e montou um robô com sucata. A equipe dela, de escola pública, foi pro campeonato nacional. Contra escolas de elite.
+P: Você conhece alguma criança que é gênio em tecnologia?
+H: #robotica #ciencia #superacao
+neutra | titulo | Sobe aí, que essa corrida levou um robô feito de lixo e uma menina que sonha com Marte.
+neutra | relogio: SEXTA · 15H | Sexta, três da tarde. Entraram três meninas de quatorze anos e um professor. Com uma caixa de papelão no colo. Dentro, um robô. Feito de peça velha.
+rindo | conversa: É o Ferrinho. | Uma delas, de óculos, apresentou: esse é o Ferrinho. O nosso robô. A gente vai pro campeonato nacional de robótica.
+neutra | carimbo: EQUIPE SUCATA | O professor contou: a equipe se chama Sucata. Escola estadual da periferia. Não tinham dinheiro pra comprar kit de robótica. Fizeram com lixo eletrônico.
+rindo | conversa: Desmontei o videogame do meu irmão. | A menina de óculos, a Bia, riu: eu desmontei o videogame velho do meu irmão. Ele ficou um mês sem falar comigo.
+neutra | - | Motor de impressora, bateria de celular velho, roda de carrinho de brinquedo. E uma placa de computador que acharam no ferro-velho.
+triste | conversa: Riram da gente. | A outra menina disse: no regional, as outras equipes riram da gente. Com robô de plástico brilhante. E a gente com o Ferrinho cheio de fita.
+chocada | carimbo: SEGUNDO LUGAR | Mas ficaram em segundo no regional. E foram classificadas pro nacional. Em outra cidade. A escola fez rifa e bingo pra pagar a viagem.
+neutra | mapa | Levei as quatro pra rodoviária. Ônibus noturno. Doze horas de viagem. A Bia segurando o Ferrinho no colo como quem segura um bebê.
+neutra | - | Antes de descer, ela me disse: eu quero ser engenheira da agência espacial. Quero mandar robô pra Marte. Eu disse: então começa ganhando esse campeonato.
+neutra | relogio: TRÊS DIAS DEPOIS | Três dias depois, o professor me mandou mensagem. Pedindo pra eu buscar na rodoviária. E mandou uma foto junto.
+chocada | manchete: A FOTO | A foto: as três meninas no pódio. Segurando um troféu. E o Ferrinho no meio, todo remendado com fita, com uma medalha pendurada no pescoço de arame.
+chocada | carimbo: PRIMEIRO LUGAR EM INOVAÇÃO | Primeiro lugar na categoria inovação. O júri disse que o robô feito de sucata era a ideia mais criativa do campeonato.
+neutra | mapa | Busquei as quatro na rodoviária. E na porta da rodoviária, a escola inteira esperando. Com faixa. Com fanfarra. Às seis da manhã.
+triste | - | A Bia desceu do ônibus segurando o Ferrinho. E viu a mãe na frente da multidão. A mãe, diarista, que tinha vendido bolo pra pagar a passagem.
+triste | coracao: A MÃE DA BIA | A Bia correu e abraçou a mãe. E disse: mãe, a gente ganhou. Com o videogame do Lucas. A mãe chorando: você vai pra Marte, filha.
+rindo | - | O irmão, o Lucas, estava lá também. Disse: tá perdoada pelo videogame. Mas o próximo robô você faz com o celular velho do pai.
+neutra | carimbo: A UNIVERSIDADE | Depois, uma universidade federal entrou em contato. Ofereceu um laboratório de robótica pra equipe. E uma bolsa de iniciação científica pras três.
+neutra | carro | Eu levei as três pra escola naquela manhã. O Ferrinho no banco da frente, com cinto de segurança. A Bia disse que ele merecia.
+neutra | manchete_v: MONTA COM O QUE TEM | Moral da história: genialidade não precisa de kit caro. Precisa de criatividade e de uma mãe que vende bolo.
+rindo | coracao: FERRINHO | E se você tem eletrônico velho em casa, doa pra uma escola. Pode virar o robô campeão do Brasil.

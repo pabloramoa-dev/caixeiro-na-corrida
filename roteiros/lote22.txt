@@ -1,0 +1,267 @@
+## 235 | O CAMPEONATO DE BOTÃO | futebol | dia
+G: 🔘 Seis senhores de 70 anos disputam um campeonato de futebol de botão há 50 anos. Na final, um deles trouxe o neto pra jogar no lugar dele.
+P: Você jogava futebol de botão?
+H: #futeboldebotao #nostalgia #amizade
+neutra | titulo | Sobe aí, que essa corrida levou um campeonato inteiro numa caixa de sapato.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Entrou um senhor de setenta e três anos com uma caixa de madeira debaixo do braço. E um menino de dez anos do lado.
+rindo | conversa: É o meu time. | O senhor abriu a caixa: é o meu time, moço. Onze botões. Feitos de casca de coco e tampa de relógio. Mil novecentos e setenta e seis.
+neutra | carimbo: A LIGA DO BOTÃO | Seu Waldomiro. Desde os vinte e três anos, joga um campeonato de futebol de botão com mais cinco amigos. Cinquenta anos. Todo domingo.
+rindo | conversa: É coisa séria. | Disse sério: é coisa séria, viu. Tem tabela, tem regulamento, tem súmula. E tem briga. Muita briga. Em mil novecentos e noventa um jogo terminou em processo.
+rindo | - | O neto, o Pedro, rindo do avô. Disse: o vô treina toda noite na mesa da cozinha. A vó já desistiu de jantar na mesa.
+neutra | - | E naquele domingo era a final do campeonato do ano. Contra o eterno rival. O seu Juvenal. Que tinha ganhado os últimos três.
+triste | conversa: Minha mão treme. | Aí o seu Waldomiro mostrou a mão. Tremendo. Disse: ela começou a tremer esse ano. Eu não consigo mais dar o toque certo.
+neutra | - | E decidiu: o neto ia jogar no lugar dele. Ele ensinou tudo. O toque de palheta, o chute de efeito, a defesa com o goleiro de caixa de fósforo.
+neutra | mapa | Chegamos numa garagem. Uma mesa de botão enorme, de madeira, com o campo pintado à mão. Cinco senhores em volta, tomando café. E cadeiras de plástico.
+neutra | - | O seu Waldomiro me pediu pra ser o juiz. Disse que juiz neutro era difícil de achar. Os outros cinco aceitaram. Eu nunca tinha apitado botão na vida.
+chocada | carimbo: O RIVAL | O seu Juvenal olhou o menino e reclamou: isso é contra o regulamento! O seu Waldomiro abriu o caderno de regras. Artigo doze. Pode substituto da família.
+rindo | - | O seu Juvenal resmungou. Olhou o regulamento. Escrito por ele mesmo, em mil novecentos e setenta e seis. Aceitou.
+neutra | relogio: A FINAL | Dois tempos de dez minutos. O Pedro jogando com o time de casca de coco do avô. O avô do lado, sussurrando: palheta, Pedro. Efeito.
+chocada | - | Um a um até o último minuto. Aí o Pedro pegou o botão do centroavante, a peça mais antiga, e deu um toque de efeito. A bolinha fez a curva.
+chocada | manchete: GOL DE EFEITO | Gol. No ângulo do goleiro de caixa de fósforo. Os seis senhores gritaram ao mesmo tempo. Até o seu Juvenal.
+triste | - | O seu Waldomiro abraçou o neto chorando. Disse: esse toque eu levei vinte anos pra aprender. Você aprendeu em um mês.
+triste | carimbo: O RIVAL CUMPRIMENTOU | O seu Juvenal estendeu a mão pro menino. Disse: belo gol, garoto. E virou pro amigo: você ensinou bem, Waldomiro. Melhor que você jogava.
+triste | coracao: O TIME PASSOU ADIANTE | No final, o seu Waldomiro fechou a caixa de madeira e deu pro neto. Disse: agora o time é seu. Cinquenta anos. Cuida bem.
+rindo | - | O seu Juvenal, no mesmo instante, ligou pro neto dele. Disse: vem pra cá domingo que vem. Vou te ensinar a jogar. A liga precisa de renovação.
+neutra | carro | Hoje a liga tem seis senhores e quatro netos. Joga todo domingo. E eu sou o juiz oficial. Uma vez por mês. Ninguém respeita a minha marcação.
+neutra | manchete_v: PASSA O TIME | Moral da história: tem brincadeira que dura cinquenta anos. E só termina quando passa pras mãos de um neto.
+rindo | coracao: CASCA DE COCO | E se você tem um time de botão guardado, tira da gaveta. Ensina alguém. A liga precisa continuar.
+
+## 236 | O AMOR DA FILA | amor | noite
+G: 🧾 Os dois tinham 70 anos e se conheceram numa fila de banco de 4 horas. Seis meses depois, voltaram na mesma agência. Pra abrir uma conta conjunta.
+P: Onde foi o lugar mais improvável que você conheceu alguém especial?
+H: #amor #terceiraidade #humor
+neutra | titulo | Sobe aí, que essa corrida levou um casal que se apaixonou na fila do banco. E acharam a fila curta demais.
+neutra | relogio: SEGUNDA · 9H | Segunda, nove da manhã. Entraram um senhor de setenta e dois anos e uma senhora de sessenta e nove. De mãos dadas. Ele com uma pasta de documentos.
+rindo | conversa: Vamos abrir uma conta. | Ela disse: vamos no banco. Abrir uma conta conjunta. Ele completou: no mesmo banco onde a gente se conheceu. Na mesma fila.
+neutra | carimbo: A FILA DE QUATRO HORAS | Seu Natanael e dona Cleuza. Seis meses antes, os dois foram resolver um problema de aposentadoria. Na mesma agência. No mesmo dia.
+rindo | conversa: Quatro horas de fila. | Contou ele: quatro horas de fila, moço. Ela atrás de mim. No começo, a gente reclamou junto do banco. Depois, do governo. Depois, da novela.
+rindo | - | Ela riu: na segunda hora, ele me ofereceu bala de menta. Na terceira, me contou a vida inteira. Na quarta, eu já sabia até o nome do cachorro dele.
+neutra | - | Quando chegou a vez dele no caixa, ele disse pra atendente: pode atender a moça primeiro. E ficou esperando ela terminar.
+rindo | conversa: Ele me esperou na porta. | Ela: ele me esperou na porta do banco. Disse que tinha um café ali do lado. Eu disse que tinha que voltar pra casa. Fui no café.
+triste | carimbo: OS DOIS VIÚVOS | Os dois viúvos. Ele há cinco anos, ela há sete. Os dois achando que a vida de amor tinha acabado. Que agora era só remédio e televisão.
+triste | conversa: Eu achava que era tarde. | Ele disse: eu achava que era tarde demais. Que amor era coisa de jovem. Aí veio a fila do banco e me mostrou que não.
+rindo | - | Seis meses de namoro. Cinema às terças, feira aos sábados, missa aos domingos. Os filhos dos dois desconfiados no começo. Depois apaixonados pelo casal.
+neutra | mapa | Chegamos na agência. A mesma. Ela segurou o braço dele na porta. Disse: será que a fila tá grande? Ele: tomara que esteja.
+chocada | - | Eu desci pra ajudar com o degrau. E vi: a fila estava enorme. Dobrando o corredor. Quarenta pessoas. Ele riu: perfeito.
+neutra | - | Eles entraram na fila. De mãos dadas. Eu fiquei na porta, porque ele pediu pra eu esperar. Disse que ia ser rápido. Não foi.
+rindo | relogio: DUAS HORAS | Duas horas. Eu fiquei no carro. Quando voltei pra ver, eles estavam conversando com o casal de trás. Contando a história deles.
+chocada | manchete: A FILA APLAUDIU | Quando chegou a vez deles, a atendente perguntou o que queriam. Ele disse alto: uma conta conjunta. E um pedido de casamento.
+chocada | - | E se ajoelhou. Na frente do caixa. Na agência lotada. Com uma caixinha de veludo tirada da pasta de documentos.
+triste | coracao: SIM NO BANCO | A dona Cleuza levou a mão na boca. A fila inteira parou. E ela disse: sim, seu bobo. Mas levanta que o seu joelho não aguenta.
+rindo | - | A fila aplaudiu. A atendente chorou. O gerente saiu da sala pra ver. E disse: pela primeira vez, a fila do banco serviu pra alguma coisa boa.
+neutra | carro | Levei os dois de volta. Com a conta aberta e a aliança no dedo. Ela disse: daqui pra frente, toda fila eu vou com ele. Fica mais curta.
+neutra | manchete_v: PUXA CONVERSA | Moral da história: o amor aparece até na fila do banco. Só precisa alguém oferecer uma bala de menta.
+rindo | coracao: CONTA CONJUNTA | E se você tá numa fila longa hoje, puxa conversa. Vai que você sai de lá com uma história.
+
+## 237 | A ABÓBORA GIGANTE | humor | dia
+G: 🎃 Ele plantou uma abóbora de 180 quilos pro concurso da feira agrícola. O caminhão quebrou. A abóbora foi no meu carro. Mais ou menos.
+P: Qual a maior fruta ou legume que você já viu?
+H: #abobora #humor #concurso
+neutra | titulo | Sobe aí, que essa corrida teve um passageiro de cento e oitenta quilos. Laranja. Redondo.
+neutra | relogio: SÁBADO · 6H | Sábado, seis da manhã. Recebi uma corrida numa chácara na saída da cidade. Um senhor me esperando no portão, desesperado, de chapéu de palha.
+brava | conversa: O caminhão quebrou. | Disse: o caminhão quebrou. E o concurso começa às nove. Eu perguntei: concurso de quê? Ele apontou pro quintal.
+chocada | manchete: A ABÓBORA | Uma abóbora. Gigante. Do tamanho de uma poltrona. Laranja, brilhante, com uma faixa escrita: Margarida. Cento e oitenta quilos.
+rindo | carimbo: SEU TONINHO E A MARGARIDA | Seu Toninho. Plantou a Margarida durante oito meses. Adubo especial, rega na hora certa, música clássica toda tarde.
+rindo | conversa: Ela gosta de Mozart. | Disse sério: ela gosta de Mozart. Quando eu colocava sertanejo, ela parava de crescer. Juro.
+neutra | - | O concurso de abóbora gigante da feira agrícola. Ele ficou em segundo nos últimos quatro anos. Sempre perdendo pro mesmo vizinho.
+ironica | conversa: Não cabe no carro. | Eu olhei a abóbora. Olhei o meu carro. Disse: seu Toninho, ela não cabe. Ele disse: cabe no porta-malas se tirar o banco de trás.
+rindo | - | Não cabia. Tentamos. Eu, ele, o filho dele e dois vizinhos. Cinco homens empurrando uma abóbora. Não entrou.
+rindo | carimbo: A SOLUÇÃO | A solução veio do vizinho: um carrinho de mão gigante, de obra, amarrado no engate do meu carro. Com a abóbora em cima. Igual um reboque.
+chocada | - | Eu nunca tinha rebocado uma abóbora. Fui a vinte por hora. Na estrada. Com pisca-alerta. E o seu Toninho no banco do carona, virado pra trás, vigiando.
+rindo | - | Os carros passando e buzinando. Um caminhoneiro abriu a janela e gritou: é festa junina, amigo? Uma criança numa van ficou com a cara colada no vidro.
+chocada | manchete: O BURACO | Aí, um buraco. O carrinho pulou. A abóbora balançou. O seu Toninho gritou: Margarida! E ela ficou. Por um milagre de amarração.
+neutra | mapa | Chegamos no parque da feira às oito e cinquenta e oito. Com plateia. Porque o povo já tinha visto a gente na estrada e ido atrás.
+neutra | - | Pesaram a Margarida. Cento e oitenta e três quilos. Tinha engordado três no caminho, o seu Toninho disse. Ninguém entendeu como.
+chocada | carimbo: O VIZINHO | O vizinho rival chegou com a abóbora dele. De caminhão. Cento e setenta e nove quilos. Quatro a menos que a Margarida.
+rindo | coracao: PRIMEIRO LUGAR | Primeiro lugar. Depois de quatro anos. O seu Toninho ganhou uma faixa e um troféu de abóbora dourada. Abraçou a Margarida.
+rindo | - | E aí fez uma coisa bonita. Chamou o vizinho e disse: a gente faz doce de abóbora junto. Pra feira toda. Com as duas.
+neutra | carro | Fizeram. Trezentos e sessenta quilos de doce de abóbora. Distribuíram de graça. Eu ganhei um pote. A Rosângela comeu inteiro.
+neutra | manchete_v: CHEGA COMO DER | Moral da história: o caminhão quebra, a estrada tem buraco. Mas quem quer chegar, chega. Nem que seja de reboque.
+rindo | coracao: MARGARIDA | E se você plantar uma abóbora, coloca Mozart pra ela. Não custa tentar.
+
+## 238 | O NADADOR CEGO | superacao | noite
+G: 🏊 Ele perdeu a visão aos 15. Aos 25, ia disputar a seletiva paralímpica de natação. O irmão dele era o técnico que batia nas costas dele com um bastão.
+P: Quem é o seu maior parceiro de vida?
+H: #natacao #paratleta #irmaos
+neutra | titulo | Sobe aí, que essa corrida levou dois irmãos que nadam juntos. Um dentro da água, outro fora.
+neutra | relogio: SÁBADO · 6H | Sábado, seis da manhã. Entraram dois rapazes. Um de óculos escuros e bengala branca. O outro com uma vara comprida, de ponta de espuma.
+rindo | conversa: É o meu irmão. | O da bengala disse: esse é o meu irmão. O meu técnico. E o meu batedor. O outro riu: batedor oficial. Eu bato nele há dez anos.
+neutra | carimbo: OS IRMÃOS | Chamam-se Daniel e Rafael. O Daniel perdeu a visão aos quinze, por uma doença na retina. O Rafael era o irmão mais velho.
+triste | conversa: Eu parei de sair do quarto. | O Daniel contou: eu parei de sair do quarto. Durante um ano. Achei que a vida tinha acabado. Eu era nadador. Treinava todo dia.
+neutra | - | O Rafael não aceitou. Pesquisou. Descobriu a natação paralímpica. E descobriu que nadador cego precisa de um batedor.
+neutra | carimbo: O BATEDOR | Ele explicou: o batedor fica na borda da piscina com essa vara. Quando o nadador chega perto da parede, ele bate nas costas. Pra ele virar sem bater a cabeça.
+rindo | conversa: Eu aprendi a bater. | O Rafael riu: eu aprendi a bater no tempo certo. No começo eu batia muito cedo ou muito tarde. Ele bateu a cabeça três vezes. Ficou com raiva de mim.
+neutra | - | Dez anos treinando juntos. Toda manhã, às cinco. O Rafael largou o emprego de vendedor pra virar técnico de natação. Por causa do irmão.
+neutra | carimbo: A SELETIVA | E naquele sábado era a seletiva pra seleção paralímpica. Cem metros livre. Se ganhasse, ia pras competições internacionais.
+neutra | mapa | Chegamos num complexo aquático. Piscina olímpica, arquibancada, bandeiras. Atletas de todo o país. Eu fiquei. Eles pediram.
+neutra | relogio: A PROVA | A prova do Daniel. Oito atletas, oito batedores na borda. O Rafael do lado da raia quatro, segurando a vara com as duas mãos.
+chocada | - | Largada. O Daniel nadando reto, sem ver nada. Seguindo a corda da raia com o braço. O Rafael andando na borda, acompanhando.
+chocada | manchete: A BATIDA | Na virada dos cinquenta metros, o Rafael bateu nas costas dele. No tempo exato. O Daniel virou perfeito. Saiu na frente.
+neutra | - | Os outros nadadores encostando. O Daniel na frente por pouco. O Rafael gritando da borda. Ele não podia ver, mas sentia o irmão ali.
+chocada | carimbo: PRIMEIRO LUGAR | Bateu na parede. Primeiro lugar. Por dois décimos. Classificado pra seleção.
+triste | - | O Daniel tirou a touca e perguntou: ganhei? O Rafael não conseguiu responder. Pulou na piscina. De roupa. Com a vara.
+triste | coracao: DOIS IRMÃOS NA ÁGUA | Os dois abraçados dentro da piscina. O nadador cego e o irmão de roupa molhada. A arquibancada inteira de pé.
+rindo | conversa: Você me batia muito forte. | Na beira da piscina, o Daniel disse no microfone: obrigado, irmão. Mas você bateu muito forte na virada. Tá doendo até agora.
+neutra | carro | Na volta, os dois molhados no banco de trás, rindo. O Rafael de roupa encharcada. Eu forrei o banco com saco de lixo. Valeu a pena.
+neutra | manchete_v: NADA JUNTO | Moral da história: tem gente que não enxerga o caminho. E tem gente que vira o caminho de alguém.
+rindo | coracao: RAIA QUATRO | E se você tem um irmão que é seu batedor na vida, agradece hoje. Ele bate pra você não bater a cabeça.
+
+## 239 | OS MAPAS DO SEU OLAVO | curiosa | dia
+G: 🗺️ Há 50 anos ele desenha à mão o mapa do bairro. Cada rua, cada casa, cada árvore. E anota quem mora em cada uma. O mapa salvou uma criança perdida.
+P: Você sabe desenhar o mapa do seu bairro de cabeça?
+H: #mapas #bairro #curiosidades
+neutra | titulo | Sobe aí, que essa corrida levou o maior GPS do bairro. Feito à mão, com lápis.
+neutra | relogio: TERÇA · 16H | Terça, quatro da tarde. Entrou um senhor de setenta e oito anos, com um tubo de papelão debaixo do braço e lápis atrás da orelha.
+rindo | conversa: Vou atualizar o mapa. | Disse: vou na rua das Hortênsias. Atualizar o mapa. Abriram uma padaria nova lá. Eu perguntei: que mapa? Ele abriu o tubo.
+neutra | carimbo: O MAPA DO BAIRRO | Um mapa enorme. Desenhado à mão. Do bairro inteiro. Cada rua, cada casa, cada árvore, cada poste. Com nomes escritos em letra miúda.
+rindo | - | Seu Olavo. Desenhista técnico aposentado. Começou o mapa em mil novecentos e setenta e seis. E atualiza até hoje. Toda semana, uma rua.
+rindo | conversa: Eu anoto quem mora. | Disse: eu anoto quem mora em cada casa. Quem nasceu, quem casou, quem mudou. O mapa é uma história do bairro.
+neutra | - | Me mostrou detalhes. Uma árvore que caiu em mil novecentos e noventa. A casa onde morou o primeiro médico do bairro. O campinho que virou prédio.
+neutra | mapa | Chegamos na rua das Hortênsias. Ele desceu, olhou a padaria nova, sentou no meio-fio e desenhou. Com régua e lápis. Em dez minutos.
+neutra | - | Eu ia embora. Mas aí aconteceu uma coisa na rua. Uma mulher correndo, gritando um nome. Desesperada.
+chocada | carimbo: A CRIANÇA PERDIDA | Era uma mãe. O filho de quatro anos tinha sumido. Estava brincando no portão e desapareceu. Fazia vinte minutos. Ela não sabia onde procurar.
+neutra | - | Os vizinhos saíram. Uns foram pra um lado, outros pro outro. Ninguém sabia pra onde uma criança de quatro anos iria.
+chocada | conversa: Ele gosta de quê? | O seu Olavo levantou e perguntou pra mãe: o seu filho gosta de quê? Ela, chorando: de cachorro. Ele ama cachorro.
+desconfiada | - | O seu Olavo abriu o mapa no capô do meu carro. Correu o dedo pelas ruas. E marcou três pontos com o lápis.
+chocada | manchete: TRÊS CASAS COM CACHORRO | Disse: num raio de quatro quadras, tem três casas com cachorro que fica no portão. Ele foi atrás de um desses. Criança segue cachorro.
+neutra | mapa | Fomos de carro. Eu, ele e a mãe. Primeira casa: nada. Segunda casa, a duas ruas dali: um portão baixo, um labrador. E um menininho sentado na calçada, fazendo carinho.
+triste | - | A mãe correu e agarrou o filho. Chorando. O menino sem entender nada. Disse só: mãe, olha o cachorro! Ele é meu amigo!
+triste | coracao: O MAPA SALVOU | A mãe virou pro seu Olavo e perguntou: como o senhor sabia? Ele mostrou o mapa. Disse: cinquenta anos olhando o bairro. A gente aprende onde as coisas acontecem.
+neutra | - | Os vizinhos que tinham saído pra procurar foram chegando. E pela primeira vez viram o mapa. Ficaram encantados. Cada um procurando a própria casa.
+neutra | carro | Hoje o mapa do seu Olavo está emoldurado na associação do bairro. Com uma cópia digital. E ele ainda atualiza. Toda semana. Com lápis.
+neutra | manchete_v: CONHECE O SEU LUGAR | Moral da história: quem conhece o próprio bairro, cuida dele melhor do que qualquer aplicativo.
+rindo | coracao: O MAPA DO SEU OLAVO | E se você mora num lugar há muito tempo, anota a história dele. Um dia alguém vai precisar.
+
+## 240 | A VIAGEM DOS PRIMOS | familia | noite
+G: 🚐 Cinco primos de 60 e poucos anos refizeram a viagem que faziam de Kombi nas férias da infância. Agora de aplicativo. Comigo.
+P: Qual viagem de família da sua infância você nunca esqueceu?
+H: #primos #viagem #nostalgia
+neutra | titulo | Sobe aí, que essa corrida levou cinco crianças de sessenta e poucos anos numa viagem de cinquenta anos atrás.
+neutra | relogio: SEXTA · 19H | Sexta, sete da noite. Recebi um pedido de corrida intermunicipal. Três horas de estrada. Pra uma praia pequena. Cinco passageiros.
+rindo | conversa: Somos os primos. | Entraram cinco senhores e senhoras. Uma delas anunciou: somos os primos. E essa é a viagem da Kombi. Versão dois mil e vinte e seis.
+neutra | carimbo: A KOMBI DO TIO JUCA | Contaram. Nas férias de janeiro, entre mil novecentos e setenta e mil novecentos e oitenta, o tio Juca levava os cinco sobrinhos pra praia. Numa Kombi azul.
+rindo | conversa: A Kombi quebrava sempre. | Riram juntos: a Kombi quebrava sempre. No mesmo lugar. Numa ladeira antes da praia. A gente empurrava. Todo ano.
+rindo | - | O tio Juca cantava o caminho inteiro. Músicas antigas. Os primos no banco de trás, brigando por janela, dividindo farofa.
+triste | carimbo: O TIO JUCA SE FOI | O tio Juca faleceu há dois anos. E no velório, os cinco primos, que não se viam direito há décadas, prometeram: vamos refazer a viagem.
+neutra | - | Combinaram por um grupo. Marcaram a data. E agora estavam ali. No meu carro, já que nenhum deles queria dirigir três horas.
+rindo | - | Na primeira meia hora, brigaram por janela. Igualzinho. Os dois mais velhos foram na janela. Os três do meio reclamando. Eu ri muito.
+neutra | carimbo: AS MÚSICAS DO TIO | Aí uma prima pegou o celular e colocou uma música antiga. A do tio Juca. E os cinco começaram a cantar. A música inteira. Sabiam de cor.
+rindo | - | Cantaram três horas. Tudo que o tio cantava. Comeram farofa que uma das primas trouxe numa marmita. Igual nos anos setenta.
+chocada | relogio: A LADEIRA | Quando chegamos perto da praia, numa ladeira, eles pediram pra eu parar. Disseram: é aqui. Aqui a Kombi quebrava.
+rindo | conversa: Vamos empurrar. | E desceram todos. Os cinco. Com sessenta e poucos anos. E disseram: vamos empurrar. Pela tradição. Eu deixei o carro em ponto morto.
+rindo | manchete: EMPURRANDO O CARRO | Os cinco empurrando o meu carro ladeira acima. Rindo. Chorando. Gritando: vai, tio Juca! Eu no volante, sem entender nada, emocionado.
+neutra | - | Empurraram uns vinte metros. Depois cansaram. Entraram de volta no carro, suados, ofegantes. E disseram: tá bom. Ele ia achar engraçado.
+neutra | mapa | Chegamos na praia. A mesma. A pousada onde ficavam tinha virado outra coisa. Mas a praia era igual.
+triste | carimbo: A FOTO | Eles foram até a areia. Se posicionaram. Igual numa foto de mil novecentos e setenta e cinco, que um deles trouxe impressa. Os cinco crianças, na mesma pose.
+triste | coracao: CINCO PRIMOS | Eu tirei a foto. Os cinco de sessenta anos, na mesma pose da infância. No lugar do tio Juca, eles deixaram um espaço vazio.
+neutra | - | Depois foram pro mar. De roupa mesmo. Os cinco. Pulando onda como se tivessem dez anos.
+neutra | carro | Eu voltei sozinho pra cidade. Eles ficaram três dias. Me mandaram as fotos. Na última, os cinco num banco de praia, de chinelo. Escrito: viagem número vinte e um.
+neutra | manchete_v: REFAZ A VIAGEM | Moral da história: os primos que dividiam janela na infância podem dividir a vida de novo. Só precisa alguém marcar a data.
+rindo | coracao: KOMBI AZUL | E se você tem primos que não vê há anos, cria o grupo. Marca a viagem. E leva farofa.
+
+## 241 | O ÚLTIMO PONTO | reflexao | dia
+G: ⏱️ 42 anos na mesma fábrica. No último dia, ele foi bater o ponto pela última vez. E pediu pra eu esperar na porta.
+P: Como você imagina o seu último dia de trabalho?
+H: #reflexao #aposentadoria #trabalho
+neutra | titulo | Sobe aí, que essa corrida esperou um homem bater o ponto pela última vez. Depois de quarenta e dois anos.
+neutra | relogio: SEXTA · 6H | Sexta, seis da manhã. Entrou um senhor de sessenta e cinco anos, macacão azul, marmita de alumínio e um capacete de segurança.
+neutra | conversa: Fábrica de autopeças. | Pediu: fábrica de autopeças, na rodovia. Hoje é o meu último dia. Me aposento. Depois do turno, o senhor me busca?
+neutra | carimbo: QUARENTA E DOIS ANOS | Seu Lourival. Entrou na fábrica aos vinte e três. Torneiro. Quarenta e dois anos na mesma máquina. Na mesma seção.
+triste | - | Eu senti uma coisa no peito. Eu também fui operário. Eu também tive a minha marmita. Mas o meu último dia não foi escolhido. A fábrica fechou.
+neutra | conversa: Como é ir embora escolhendo? | Eu perguntei: como é ir embora escolhendo a hora? Ele pensou: estranho. Eu passei quarenta e dois anos querendo esse dia. Agora não quero.
+neutra | - | Contou que conhecia cada barulho da máquina. Que sabia quando uma peça ia dar defeito pelo som. Que ensinou trinta aprendizes.
+rindo | conversa: Eu nunca faltei. | Riu: eu nunca faltei. Nem quando nasceu a minha filha. Eu fui trabalhar de manhã e fui na maternidade de tarde. A minha esposa nunca me perdoou.
+triste | - | Disse que agora tinha medo. De acordar e não ter pra onde ir. De a casa ficar pequena. De não servir mais pra nada.
+neutra | mapa | Deixei ele na portaria da fábrica. Às três da tarde, voltei. Ele tinha pedido. Fiquei no estacionamento esperando.
+chocada | - | Às três e quinze, a sirene do turno tocou. Os operários começaram a sair. Mas não foram embora. Ficaram em fila. Dos dois lados da porta.
+chocada | manchete: O CORREDOR DE OPERÁRIOS | Uns trezentos operários, de macacão azul. Formando um corredor. Da porta da fábrica até o portão. E batendo nos capacetes com a mão.
+neutra | - | E aí saiu o seu Lourival. Com a marmita na mão. E parou. Olhou o corredor. Não sabia o que fazer.
+triste | carimbo: O BARULHO DOS CAPACETES | O barulho dos capacetes. Ritmado. Pum, pum, pum. Trezentos homens e mulheres. Os aprendizes dele na frente.
+triste | - | Ele andou devagar pelo corredor. Cada um batia no ombro dele. Um aprendiz de trinta anos atrás, hoje chefe de seção, abraçou ele chorando.
+triste | coracao: O ÚLTIMO PONTO | No portão, o gerente entregou uma coisa. O cartão de ponto antigo dele. De papel. De mil novecentos e oitenta e quatro. Primeiro dia. Guardado no arquivo.
+neutra | - | Ele entrou no meu carro segurando o cartão. Ficou um tempão olhando. A primeira marcação: seis e cinquenta e oito. Dois minutos antes do horário.
+triste | conversa: Eu cheguei cedo no primeiro dia. | Disse: eu cheguei cedo no primeiro dia. E nunca mais atrasei. Quarenta e dois anos. Será que valeu a pena?
+neutra | conversa: Trezentas pessoas disseram que sim. | Eu respondi: seu Lourival, trezentas pessoas bateram no capacete pro senhor. Acho que valeu.
+neutra | carro | Deixei ele em casa. A esposa e a filha no portão. Com bolo. A filha disse: agora o senhor vai na minha casa todo dia. Pra compensar a maternidade.
+neutra | manchete_v: VALEU | Moral da história: o trabalho de uma vida não fica na máquina. Fica nas pessoas que você ensinou.
+rindo | coracao: CAPACETES | E se alguém que você conhece está se aposentando, faz barulho. Bate no capacete. Ele merece ouvir.
+
+## 242 | A RAMPA DO SKATE | amizade | noite
+G: 🛹 Um menino cadeirante ficava olhando os skatistas na praça. Um deles chamou ele pra andar. Na rampa. De cadeira de rodas.
+P: Você já incluiu alguém que estava só olhando?
+H: #skate #inclusao #amizade
+neutra | titulo | Sobe aí, que essa corrida levou uma cadeira de rodas pra pista de skate. E ela voou.
+neutra | relogio: SÁBADO · 16H | Sábado, quatro da tarde. Entrou um menino de doze anos numa cadeira de rodas esportiva, cheia de adesivo, e a mãe dele. Pediram pra ir na pista de skate do parque.
+rindo | conversa: Campeonato de skate. | O menino disse: hoje tem campeonato. E eu vou competir. A mãe olhou pra mim e disse baixinho: ele vai. Eu ainda não acredito.
+neutra | carimbo: O MENINO QUE OLHAVA | Chama-se Arthur. Cadeirante desde que nasceu. Durante dois anos, todo sábado, ia na praça e ficava olhando os skatistas. Na beira da pista.
+triste | conversa: Eu só olhava. | Disse: eu só olhava. Ninguém me chamava. Eu achava que não era pra mim. Skate é de pé.
+neutra | - | Até que um skatista de uns dezesseis anos, o Bruno, chegou perto dele. E perguntou: quer descer a rampa?
+rindo | conversa: Ele empurrou minha cadeira. | O Arthur riu: ele empurrou a minha cadeira na rampa pequena. Eu desci gritando. A minha mãe quase desmaiou.
+neutra | - | Depois disso, o Bruno começou a ensinar. Como equilibrar a cadeira na rampa. Como inclinar o corpo. Como cair sem se machucar.
+neutra | carimbo: SKATE EM CADEIRA | Descobriram que existia um esporte. Skate de cadeira de rodas. Com manobra, salto, tudo. Os outros skatistas da praça começaram a ajudar.
+triste | conversa: Agora eu tenho amigos. | O Arthur disse: agora eu tenho amigos. Dez. Todos skatistas. Eles me chamam de Flash. Porque eu sou o mais rápido na rampa.
+neutra | mapa | Chegamos no parque. A pista cheia. Skatistas de todas as idades. E na entrada, o Bruno e mais uns dez, esperando o Arthur.
+chocada | - | Quando ele desceu do carro, os skatistas bateram o skate no chão. Todos ao mesmo tempo. Um barulho de saudação. Ele sorriu do tamanho do mundo.
+neutra | relogio: O CAMPEONATO | O campeonato. Categorias por idade. E uma categoria nova, criada naquele ano: cadeira de rodas. Com três inscritos. Um era o Arthur.
+chocada | manchete: A VEZ DO FLASH | O locutor chamou: Arthur, o Flash! E ele foi. Subiu a rampa grande. Ficou parado lá em cima. A mãe com as mãos no rosto.
+chocada | - | Desceu. Rápido. Subiu do outro lado. Fez uma manobra no alto. Equilibrou a cadeira na borda. E desceu de novo. A pista inteira gritando.
+triste | carimbo: A PISTA EXPLODIU | Os skatistas batendo o skate no chão. O Bruno gritando: Flash! Flash! A mãe chorando. Eu de pé na grade, gritando junto.
+triste | coracao: SEGUNDO LUGAR | Segundo lugar. Ele ganhou uma medalha e um skate de presente. Disse no microfone: esse skate eu vou dar pro Bruno. Ele me deu a rampa.
+rindo | - | O Bruno pegou o skate e disse: só se você me ensinar a sua manobra. Ninguém aqui consegue fazer aquilo.
+neutra | carro | Na volta, a mãe me disse: dois anos ele só olhava. Bastou um menino chamar. Um só. Eu quero encontrar a mãe desse Bruno pra agradecer.
+neutra | manchete_v: CHAMA PRA PERTO | Moral da história: tem gente esperando um convite na beira da pista. Chama.
+rindo | coracao: FLASH | E se você vê alguém só olhando, convida. A rampa é de todo mundo.
+
+## 243 | A DESPEDIDA DE SOLTEIRO DOS AVÓS | humor | dia
+G: 🎉 Os avós de 80 anos iam casar no papel. Os netos organizaram despedida de solteiro. A da avó foi no bingo. A do avô, no dominó. Eu levei os dois.
+P: Como seria a despedida de solteiro dos seus avós?
+H: #avos #humor #casamento
+neutra | titulo | Sobe aí, que essa corrida levou duas despedidas de solteiro. Com média de idade de oitenta anos.
+neutra | relogio: SÁBADO · 14H | Sábado, duas da tarde. Entraram cinco senhoras de oitenta anos, todas de tiara com véu de noiva e faixa escrita: despedida da Zezé.
+rindo | conversa: Despedida de solteira! | A mais animada gritou: despedida de solteira! A noiva tem oitenta e dois anos e vai casar na quinta. Bora pro bingo!
+neutra | carimbo: DONA ZEZÉ E SEU ARLINDO | Dona Zezé e seu Arlindo. Viviam juntos havia cinquenta anos. Mas nunca casaram no papel. E os netos convenceram: casa, vó. Casa, vô.
+rindo | conversa: Os netos fizeram a despedida. | Disse a noiva: os netos fizeram a despedida. Eu nunca tive uma. Agora tenho. Com as minhas amigas do grupo de oração.
+rindo | - | As cinco cantando no meu carro. Música de rádio antiga. Uma delas tinha levado uma garrafa de guaraná e copinhos de plástico. Brindaram três vezes.
+neutra | mapa | Deixei as cinco no bingo da paróquia. O bingo inteiro sabia. Tinha faixa. Bolo. E uma cartela especial pra noiva.
+neutra | relogio: 15H | Uma hora depois, o aplicativo me mandou outra corrida. Na casa ao lado do bingo. Era o noivo. Com quatro amigos.
+rindo | carimbo: A DESPEDIDA DO NOIVO | O seu Arlindo, de chapéu de palha, e quatro senhores de oitenta anos. Com camiseta escrita: último dia de liberdade do Arlindo.
+rindo | conversa: Praça do dominó. | Disseram: praça do dominó. A despedida dele é no dominó. Ele riu: cinquenta anos com ela. Que liberdade? Eu nem lembro como é.
+rindo | - | No caminho, os amigos davam conselho de casamento pra ele. Depois de cinquenta anos de união. O carro inteiro rindo.
+neutra | mapa | Deixei os cinco na praça. Mesas de dominó, senhores jogando, bandeirinha. E uma faixa: força, Arlindo.
+chocada | relogio: 17H | Às cinco da tarde, me chamaram de volta. Dos dois lugares. Ao mesmo tempo. Combinaram de se encontrar no fim do dia.
+chocada | manchete: O ENCONTRO DAS DESPEDIDAS | Peguei as cinco senhoras no bingo. Depois os cinco senhores na praça. Não cabiam todos. Fiz duas viagens. Pra mesma lanchonete.
+rindo | - | Na lanchonete, as duas despedidas se encontraram. As senhoras de véu, os senhores de camiseta. E a dona Zezé ganhou o bingo. Uma cesta de café.
+rindo | carimbo: O NOIVO PERDEU NO DOMINÓ | O seu Arlindo tinha perdido todas as partidas de dominó. Disse: tô com a cabeça no casamento. Os amigos: você é ruim mesmo.
+triste | - | Aí os netos apareceram. Com um bolo. Escrito: cinquenta anos de namoro. Agora é oficial.
+triste | coracao: O PEDIDO OFICIAL | E o seu Arlindo se levantou. Pegou a mão da dona Zezé. E disse, na frente de todo mundo: Zezé, cinquenta anos atrás eu esqueci de te pedir. Casa comigo?
+rindo | - | Ela riu: eu já tô de véu, Arlindo. Claro que caso. A lanchonete inteira aplaudiu. A cesta de café do bingo virou presente de casamento.
+neutra | carro | Na quinta, levei os dois no cartório. Ela de vestido. Ele de terno. As testemunhas: as amigas do bingo e os amigos do dominó.
+neutra | manchete_v: CELEBRA | Moral da história: nunca é tarde pra festa. Nem pra casar. Nem pra despedida de solteiro aos oitenta.
+rindo | coracao: ZEZÉ E ARLINDO | E se seus avós nunca casaram no papel, pergunta se eles querem. E organiza a despedida.
+
+## 244 | A CIENTISTA DA LAJE | superacao | noite
+G: 🔬 Ela tem 13 anos e criou, na laje de casa, um filtro de água com garrafa PET. Ganhou a feira de ciências estadual. Hoje ia receber o prêmio.
+P: Qual invenção simples mudou a vida de alguém que você conhece?
+H: #ciencia #superacao #menina
+neutra | titulo | Sobe aí, que essa corrida levou uma cientista que tem laboratório na laje.
+neutra | relogio: SEXTA · 18H | Sexta, seis da tarde. Entrou uma menina de treze anos, de uniforme escolar, jaleco branco por cima, e uma caixa de papelão cheia de garrafa PET cortada.
+rindo | conversa: É o meu filtro. | Disse: é o meu filtro de água. Vou receber o prêmio da feira de ciências. Estadual. A mãe completou: primeiro lugar.
+neutra | carimbo: LARISSA | Chama-se Larissa. Mora numa comunidade onde a água da torneira vem barrenta quando chove. Muita gente passa mal.
+triste | conversa: O meu irmão ficou doente. | Contou: o meu irmão pequeno ficou doente por causa da água. Ficou internado. Aí eu pensei: eu tenho que fazer alguma coisa.
+neutra | - | Pesquisou na internet. Na biblioteca da escola. Perguntou pra professora de ciências. E começou a fazer testes. Na laje de casa.
+rindo | conversa: Minha laje virou laboratório. | Riu: a minha laje virou laboratório. Garrafa, areia, carvão, pedrinha. A minha mãe reclamava que eu sujava tudo.
+neutra | - | Seis meses testando. Garrafa por garrafa. Camada por camada. Até que um dia a água saiu limpa. Ela levou pra analisar num laboratório da universidade.
+chocada | carimbo: A ÁGUA LIMPA | O laboratório disse que a água filtrada estava própria pra uso. Com um filtro que custava menos de dez reais.
+neutra | - | Ela montou filtro pra família. Pros vizinhos. Pra escola. Ensinou as crianças da rua a fazer. Hoje tem mais de cem casas usando.
+desconfiada | conversa: Quer ser cientista? | Perguntei: você quer ser cientista quando crescer? Ela me olhou séria e disse: eu já sou. Quero ser engenheira química.
+neutra | mapa | Chegamos num centro de convenções. A cerimônia da feira de ciências. Estudantes de todo o estado, de jaleco, com projetos.
+neutra | - | A mãe dela me pediu pra ficar. Disse que o pai estava trabalhando. Eu fiquei. Já virou família isso.
+neutra | relogio: A PREMIAÇÃO | Chamaram os premiados. Terceiro lugar, segundo lugar. E primeiro lugar: Larissa. Escola estadual da comunidade.
+chocada | manchete: A CIENTISTA NO PALCO | Ela subiu no palco com a caixa de garrafas. Recebeu a medalha. E o apresentador pediu pra ela explicar o projeto.
+triste | - | Ela explicou. Firme. Com termos técnicos. Depois parou e disse: eu fiz isso porque o meu irmão ficou doente. Nenhuma criança devia ficar doente por beber água.
+triste | carimbo: A PROFESSORA | Aí ela chamou a professora de ciências pro palco. Disse: ela foi a única que acreditou. Quando todo mundo dizia que eu tava brincando de garrafinha.
+triste | coracao: O IRMÃO NA PLATEIA | E na plateia, o irmão de sete anos, saudável, gritando: é a minha irmã! É a minha irmã! O auditório inteiro aplaudiu.
+neutra | - | Um professor da universidade foi até ela depois. Ofereceu uma bolsa de iniciação científica. Pra ela continuar pesquisando. Com laboratório de verdade.
+neutra | carro | Na volta, ela me deu um filtro. Montado ali, no banco de trás, em cinco minutos. Disse: pro senhor usar em casa. A Rosângela usa até hoje.
+neutra | manchete_v: COMEÇA COM O QUE TEM | Moral da história: ciência não precisa de laboratório caro. Precisa de alguém que se importa e de uma garrafa PET.
+rindo | coracao: LARISSA, CIENTISTA | E se você conhece uma menina curiosa, dá um empurrão. Ela pode estar inventando alguma coisa na laje.
