@@ -1,0 +1,246 @@
+{
+  "id": "cx326",
+  "ep": 326,
+  "avulso": true,
+  "titulo": "A FEIRA DE CIÊNCIAS NA FARMÁCIA",
+  "categoria": "familia",
+  "cenario": "noite",
+  "legenda_post": "🚀 Ela tinha 9 anos e uma apresentação importante. A mãe não conseguiu sair do trabalho… então a menina decidiu levar a apresentação até ela. 🥹❤️\n\nVocê conhece alguém que dá o seu melhor pela família, mesmo quando não consegue estar em todos os momentos? Envie esta história para essa pessoa. 💛\n\n💬 Qual gesto simples de amor você nunca esqueceu?\n\nCada corrida, uma história. História de ficção.\n\n#familia #historiaemocionante #maes #paisefilhos #gratidao #amor #motoristadeaplicativo #uber #caixeironacorrida",
+  "legenda_tiktok": "🚀 A mãe não pôde assistir à feira de ciências. Então a filha de 9 anos fez uma coisa que ninguém esperava… 🥹❤️\n\nMande para alguém que faz de tudo pela família. 💛 Quem você gostaria de agradecer hoje?👇\n\nHistória de ficção.\n#familia #emocionante #maes #filhos #historias #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, que essa corrida teve uma menina de nove anos que mudou o endereço de uma apresentação inteira. E fez adulto chorar no balcão de uma farmácia.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "uma",
+        "farmácia."
+      ]
+    },
+    {
+      "fala": "Quarta-feira, sete e dez da noite. Entraram um pai e uma menina vestida de astronauta. Ela segurava um planeta de papelão maior que a mochila.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "QUARTA · 19H10"
+      ],
+      "destaque": [
+        "a",
+        "mochila."
+      ]
+    },
+    {
+      "fala": "O destino era uma farmácia. Achei estranho. Perguntei: essa astronauta aí vai comprar remédio pra lua? Ela respondeu séria: vou buscar minha plateia.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "VOU BUSCAR MINHA PLATEIA"
+      ],
+      "destaque": [
+        "minha",
+        "plateia."
+      ]
+    },
+    {
+      "fala": "O pai, seu André, explicou baixinho. Naquela noite a escola tinha uma feira de ciências. A filha, Luísa, ensaiava havia semanas.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "havia",
+        "semanas."
+      ]
+    },
+    {
+      "fala": "Só que a mãe dela, Patrícia, trabalhava no caixa de uma farmácia e não conseguiu trocar o plantão. Ficou triste de perder a apresentação.",
+      "expr": "triste",
+      "arte": [
+        "manchete",
+        "A MÃE NÃO PODIA IR"
+      ],
+      "destaque": [
+        "a",
+        "apresentação."
+      ]
+    },
+    {
+      "fala": "Luísa ouviu a conversa dos pais e fez uma pergunta que ninguém esperava: quem disse que a apresentação tem que ser na escola?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "QUEM DISSE?"
+      ],
+      "destaque": [
+        "na",
+        "escola?"
+      ]
+    },
+    {
+      "fala": "Ela conversou com a professora, montou a maquete numa caixa e convenceu o pai a buscar uma corrida depois do evento.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "do",
+        "evento."
+      ]
+    },
+    {
+      "fala": "No carro, a menina ensaiava: Mercúrio, Vênus, Terra… sempre esquecia Urano. Seu André ajudava, mas também se atrapalhava. Aí sobrava risada.",
+      "expr": "rindo",
+      "arte": [
+        "imagem",
+        "UMA MAQUETE DO SISTEMA SOLAR"
+      ],
+      "destaque": [
+        "sobrava",
+        "risada."
+      ]
+    },
+    {
+      "fala": "Quando chegamos, Patrícia estava atrás do balcão, atendendo uma fila. Viu a fantasia pelo vidro e arregalou os olhos.",
+      "expr": "chocada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "os",
+        "olhos."
+      ]
+    },
+    {
+      "fala": "Ela veio depressa: filha, aconteceu alguma coisa? Luísa abriu a caixa e respondeu: aconteceu. Você faltou na feira, mas a feira veio até você.",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "A FEIRA VEIO ATÉ VOCÊ"
+      ],
+      "destaque": [
+        "até",
+        "você."
+      ]
+    },
+    {
+      "fala": "O gerente autorizou alguns minutos, assim que terminou o atendimento. Os colegas ficaram por perto. Eu também, de longe, junto da porta.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "CINCO MINUTOS"
+      ],
+      "destaque": [
+        "da",
+        "porta."
+      ]
+    },
+    {
+      "fala": "Luísa colocou os planetas no balcão, acertou Mercúrio e Vênus e… esqueceu Urano de novo. A mãe cochichou a resposta.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "a",
+        "resposta."
+      ]
+    },
+    {
+      "fala": "A menina apontou pra Terra e explicou como um planeta precisa de equilíbrio. Depois olhou pra mãe e ficou quietinha por um instante.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "um",
+        "instante."
+      ]
+    },
+    {
+      "fala": "Eu achei que ela tinha esquecido o texto. Mas ela falou: mãe, você trabalha muito. Hoje eu queria que você também tivesse direito de assistir.",
+      "expr": "triste",
+      "arte": [
+        "conversa",
+        "VOCÊ TAMBÉM TEM DIREITO"
+      ],
+      "destaque": [
+        "de",
+        "assistir."
+      ]
+    },
+    {
+      "fala": "Patrícia se abaixou pra abraçar a filha. Uma atendente começou a bater palma. Em poucos segundos, a farmácia inteira aplaudia aquela astronauta.",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "APLAUSOS NA FARMÁCIA"
+      ],
+      "destaque": [
+        "aquela",
+        "astronauta."
+      ]
+    },
+    {
+      "fala": "O gerente até tirou uma foto da maquete. Seu André me olhou com um sorriso: Caixeiro, essa apresentação foi melhor que a da escola.",
+      "expr": "rindo",
+      "arte": [
+        "carimbo",
+        "MELHOR QUE A DA ESCOLA"
+      ],
+      "destaque": [
+        "da",
+        "escola."
+      ]
+    },
+    {
+      "fala": "Na volta eu contei pra Rosângela. Ela ficou com os olhos marejados. Disse: criança tem dessas coisas, encontra saída onde adulto só vê impossibilidade.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "vê",
+        "impossibilidade."
+      ]
+    },
+    {
+      "fala": "E fiquei pensando em quem já perdeu uma festa, uma reunião, uma apresentação, porque precisava trabalhar. Nem sempre ausência significa falta de amor.",
+      "expr": "triste",
+      "arte": [
+        "manchete_v",
+        "AUSÊNCIA NÃO É DESAMOR"
+      ],
+      "destaque": [
+        "de",
+        "amor."
+      ]
+    },
+    {
+      "fala": "Luísa não levou bronca, não guardou mágoa. Levou os planetas até a pessoa que mais queria ver sorrindo. Foi isso que fez a diferença.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "a",
+        "diferença."
+      ]
+    },
+    {
+      "fala": "Talvez você conheça alguém que se esforça em silêncio pra estar presente do jeito que consegue. Lembra essa pessoa de que ela importa.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "VOCÊ IMPORTA"
+      ],
+      "destaque": [
+        "ela",
+        "importa."
+      ]
+    },
+    {
+      "fala": "Porque carinho de verdade também sabe mudar de endereço. E aquela farmácia teve a plateia mais bonita do mundo. Cinco estrelas pra essa história.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "O AMOR ENCONTRA UM JEITO"
+      ],
+      "destaque": [
+        "essa",
+        "história."
+      ]
+    }
+  ]
+}
