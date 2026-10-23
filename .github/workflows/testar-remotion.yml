@@ -1,0 +1,61 @@
+name: Preview Remotion - Caixeiro (sem publicacao)
+on:
+  push:
+    branches:
+      - experimento/remotion-caixeiro-cinematico
+    paths:
+      - 'remotion-test/**'
+      - '.github/workflows/testar-remotion.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: caixeiro-remotion-lab-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  render-remotion-preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    defaults:
+      run:
+        working-directory: remotion-test
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Preparar FFmpeg e a origem original
+        run: |
+          mkdir -p public out
+          curl -fL --retry 3 --retry-delay 4 --connect-timeout 30 \
+            'https://raw.githubusercontent.com/pabloramoa-dev/caixeiro-na-corrida/main/reels/cx033.mp4' \
+            -o public/source.mp4
+          test "$(stat -c%s public/source.mp4)" -gt 1000000
+          ffprobe -v error -select_streams v:0 -show_entries stream=width,height \
+            -of csv=s=x:p=0 public/source.mp4
+          ffprobe -v error -show_entries format=duration -of csv=p=0 public/source.mp4
+      - name: Instalar Remotion
+        run: npm install --no-audit --no-fund
+      - name: Renderizar teste real preservando a voz
+        run: npm run render
+        env:
+          REMOTION_DISABLE_TELEMETRY: '1'
+      - name: Conferir duracao, resolucao e audio do arquivo final
+        run: |
+          test -s out/caixeiro-remotion-teste.mp4
+          ffprobe -v error -show_entries stream=index,codec_type,width,height \
+            -show_entries format=duration,size -of json out/caixeiro-remotion-teste.mp4
+          ffmpeg -v error -ss 15 -i out/caixeiro-remotion-teste.mp4 \
+            -frames:v 1 -y out/quadro-verificacao.png
+      - name: Anexar MP4 e quadro para avaliacao
+        uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-remotion-preview
+          path: |
+            remotion-test/out/caixeiro-remotion-teste.mp4
+            remotion-test/out/quadro-verificacao.png
+          retention-days: 7
+          if-no-files-found: error
