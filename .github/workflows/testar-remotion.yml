@@ -29,6 +29,8 @@ jobs:
           node-version: '22'
       - name: Preparar FFmpeg e a origem original
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
           mkdir -p public out
           curl -fL --retry 3 --retry-delay 4 --connect-timeout 30 \
             'https://raw.githubusercontent.com/pabloramoa-dev/caixeiro-na-corrida/main/reels/cx033.mp4' \
