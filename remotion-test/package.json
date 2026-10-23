@@ -1,0 +1,15 @@
+{
+  "name": "caixeiro-remotion-experimento",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "preview": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx CaixeiroCinema out/caixeiro-remotion-teste.mp4 --codec h264 --crf 20 --concurrency 2"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.538",
+    "remotion": "4.0.538",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  }
+}
