@@ -1,0 +1,241 @@
+{
+  "id": "cx325",
+  "ep": 325,
+  "avulso": true,
+  "titulo": "A PASSAGEIRA DAS CARETAS",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "😂 Uma senhora entrou no meu carro e começou a fazer caretas pelo retrovisor. Eu pensei que ela estava passando mal… até descobrir por que estava treinando!\n\nQual é a sua careta quando chega a conta de luz? 😂👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #historiaengracada #familia #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "😂 Essa passageira fez a corrida inteira fazendo caretas! E o destino escondia uma surpresa. Qual careta você faz quando chega o boleto? 😂👇\nHistória de ficção.\n#humor #historias #familia #uber #motoristadeaplicativo #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, que essa passageira passou a corrida inteira fazendo caretas pelo retrovisor. E ainda me deu nota!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "deu",
+        "nota!"
+      ]
+    },
+    {
+      "fala": "Sábado, duas da tarde. Entrou dona Célia, sessenta e oito anos, segurando um espelhinho. Destino: centro cultural do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "SÁBADO · 14H"
+      ],
+      "destaque": [
+        "do",
+        "bairro."
+      ]
+    },
+    {
+      "fala": "Ela perguntou: motorista, seu retrovisor mostra bem o banco de trás? Respondi que sim. Aí ela arregalou os olhos e torceu a boca.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "OLHA O RETROVISOR!"
+      ],
+      "destaque": [
+        "a",
+        "boca."
+      ]
+    },
+    {
+      "fala": "Eu quase encostei o carro! Perguntei se estava passando mal. Ela respondeu: essa é a cara de quem abriu a conta de luz!",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "A CONTA DE LUZ!"
+      ],
+      "destaque": [
+        "de",
+        "luz!"
+      ]
+    },
+    {
+      "fala": "Depois veio a cara de quem pisou num brinquedo. A de quem ouviu áudio de oito minutos. Eu ria em cada semáforo.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "cada",
+        "semáforo."
+      ]
+    },
+    {
+      "fala": "Ela pediu: não ri ainda, motorista. Essa parte nem ensaiei direito. Perguntei se era atriz. Não. Foi funcionária de cartório por trinta e cinco anos.",
+      "expr": "rindo",
+      "arte": [
+        "carimbo",
+        "NÃO RI AINDA!"
+      ],
+      "destaque": [
+        "cinco",
+        "anos."
+      ]
+    },
+    {
+      "fala": "Contou que a neta, Duda, de dez anos, vivia dizendo: vó, você é engraçada demais. Um dia, chegou convite para uma apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao",
+        "CONVITE MISTERIOSO"
+      ],
+      "destaque": [
+        "uma",
+        "apresentação."
+      ]
+    },
+    {
+      "fala": "Dona Célia estava nervosa. Nunca pisou num palco. Falei: imagina que a plateia é um monte de carimbo com problema. Ela gargalhou.",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "UM MONTE DE CARIMBO"
+      ],
+      "destaque": [
+        "Ela",
+        "gargalhou."
+      ]
+    },
+    {
+      "fala": "Pediu minha avaliação. Fez cara de quem descobriu que o café acabou no mundo. Dei nota nove. Ela quis saber por quê.",
+      "expr": "ironica",
+      "arte": [
+        "carimbo",
+        "NOTA 9"
+      ],
+      "destaque": [
+        "por",
+        "quê."
+      ]
+    },
+    {
+      "fala": "Respondi: faltou a sobrancelha esquerda. Ela levantou as duas e disse: então você merece nota sete como jurado!",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "JURADO NOTA 7"
+      ],
+      "destaque": [
+        "como",
+        "jurado!"
+      ]
+    },
+    {
+      "fala": "Chegamos. Vi crianças e pais entrando no salão. Dona Célia apertou o espelhinho na mão e perguntou baixinho: será que eu consigo?",
+      "expr": "triste",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "eu",
+        "consigo?"
+      ]
+    },
+    {
+      "fala": "Nisso Duda apareceu correndo: vó, chegou a professora! Professora? Dona Célia nem sabia do que se tratava.",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "CHEGOU A PROFESSORA!"
+      ],
+      "destaque": [
+        "se",
+        "tratava."
+      ]
+    },
+    {
+      "fala": "A menina explicou: era uma oficina de caretas para adultos. As crianças tinham pedido uma coisa simples: ver os pais brincando junto.",
+      "expr": "neutra",
+      "arte": [
+        "manchete",
+        "OFICINA DE CARETAS"
+      ],
+      "destaque": [
+        "brincando",
+        "junto."
+      ]
+    },
+    {
+      "fala": "A avó me olhou assustada. Eu disse: quem trabalhou em cartório conhece toda careta possível. Vai lá mostrar esse talento!",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "esse",
+        "talento!"
+      ]
+    },
+    {
+      "fala": "Ela entrou tremendo. Estacionei perto e fiquei cinco minutinhos olhando pela porta. O salão inteiro ficou em silêncio esperando.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "CINCO MINUTINHOS"
+      ],
+      "destaque": [
+        "silêncio",
+        "esperando."
+      ]
+    },
+    {
+      "fala": "Dona Célia fez a careta da conta de luz. Uma criança riu. A mãe imitou. Daqui a pouco todo mundo fazia careta!",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "TODO MUNDO BRINCANDO"
+      ],
+      "destaque": [
+        "fazia",
+        "careta!"
+      ]
+    },
+    {
+      "fala": "Duda abraçou a avó e gritou: eu sabia! Dona Célia enxugava os olhos de tanto rir. Foi uma festa que ninguém esperava.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "ninguém",
+        "esperava."
+      ]
+    },
+    {
+      "fala": "À noite contei pra Rosângela e imitei a careta do boleto. Ela disse: essa você faz todo mês, só que sem graça nenhuma!",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "ESSA EU CONHEÇO!"
+      ],
+      "destaque": [
+        "graça",
+        "nenhuma!"
+      ]
+    },
+    {
+      "fala": "Sabe o que aprendi? A gente cresce, trabalha e paga conta. Mas não precisa deixar a brincadeira na infância.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "BRINCAR NÃO TEM IDADE"
+      ],
+      "destaque": [
+        "na",
+        "infância."
+      ]
+    },
+    {
+      "fala": "Naquele dia cinquenta adultos voltaram a rir com os filhos. E uma avó descobriu que seu talento era espalhar alegria. Cinco estrelas pra essa história.",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "CINCO ESTRELAS"
+      ],
+      "destaque": [
+        "essa",
+        "história."
+      ]
+    }
+  ]
+}
