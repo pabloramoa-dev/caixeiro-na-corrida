@@ -1,0 +1,45 @@
+name: Renderizar Caixeiro 326 (previa isolada)
+on:
+  push:
+    branches: [preview/cx326-ciencias]
+    paths:
+      - ".github/workflows/renderizar-cx326.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  renderizar-cx326:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          mkdir -p ~/.fonts
+          for p in Bold Regular; do
+            curl -sSL -o ~/.fonts/Poppins-$p.ttf "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$p.ttf"
+          done
+          fc-cache -f
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install --no-build-isolation srt || true
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Renderizar episodio exclusivo
+        env:
+          NINA_HF_WORKERS: "2"
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python motor/produzir.py episodios/cx326.json --publicar-em saida_reels
+      - name: Upload somente para avaliacao
+        uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-cx326-preview
+          path: saida_reels/
+          retention-days: 7
