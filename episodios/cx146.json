@@ -1,0 +1,260 @@
+{
+ "id": "cx146",
+ "ep": 146,
+ "avulso": true,
+ "titulo": "O CASAL DO LAR",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "💕 Ela tem 84, ele tem 87. Se conheceram na casa de repouso. Naquela noite, iam ao primeiro jantar fora como namorados. A família não sabia.\n\nVocê acredita que dá pra se apaixonar em qualquer idade? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #terceiraidade #namoro #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💕 Ela tem 84, ele tem 87. Se conheceram na casa de repouso. Naquela noite, iam ao primeiro jantar fora como namorados. A família não sabia. Você acredita que dá pra se apaixonar em qualquer idade? 👇\nHistória de ficção.\n#amor #terceiraidade #namoro #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi um encontro escondido. Com hora pra voltar e enfermeira cúmplice.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "enfermeira",
+    "cúmplice."
+   ]
+  },
+  {
+   "fala": "Sexta, sete da noite. Pedido saindo de uma casa de repouso. Na porta, uma enfermeira segurando o braço de dois idosos arrumados. Ela de colar de pérola, ele de gravata.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 19H"
+   ],
+   "destaque": [
+    "pérola,",
+    "gravata."
+   ]
+  },
+  {
+   "fala": "A enfermeira falou baixinho comigo: leva os dois naquele restaurante italiano da esquina da praça. Volta às dez. Não conta pra ninguém.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Volta às dez, hein."
+   ],
+   "destaque": [
+    "conta",
+    "ninguém."
+   ]
+  },
+  {
+   "fala": "Dona Lúcia, oitenta e quatro. Seu Hugo, oitenta e sete. Os dois viúvos. Se conheceram na casa de repouso, oito meses antes, numa aula de pintura.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA LÚCIA E SEU HUGO"
+   ],
+   "destaque": [
+    "aula",
+    "pintura."
+   ]
+  },
+  {
+   "fala": "A dona Lúcia riu: ele pinta muito mal. Pintou um gato que parecia um travesseiro. Eu ri tanto que ele ficou bravo. Depois riu junto.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele pinta muito mal."
+   ],
+   "destaque": [
+    "riu",
+    "junto."
+   ]
+  },
+  {
+   "fala": "O seu Hugo se defendeu: era um gato sentado. Ela: era um travesseiro com orelha. Os dois discutindo de mão dada no banco de trás.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Disseram que começaram sentando juntos no almoço. Depois no café da tarde. Depois na novela das nove. Depois ele pediu: posso segurar sua mão?",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sua",
+    "mão?"
+   ]
+  },
+  {
+   "fala": "Mas o seu Hugo contou: os filhos dela não gostam. Acham que é bobagem. Que ela tá confusa. Mas ela não tá. Ela é a mais lúcida de lá.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Os filhos dela não gostam."
+   ],
+   "destaque": [
+    "lúcida",
+    "lá."
+   ]
+  },
+  {
+   "fala": "A dona Lúcia disse: meus filhos acham que eu tenho que ficar sentada esperando o fim. Eu não quero esperar o fim. Eu quero jantar.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "quero",
+    "jantar."
+   ]
+  },
+  {
+   "fala": "Chegamos no restaurante. Toalha xadrez, vela na mesa, garçom de gravata. Ele abriu a porta pra ela devagar, com a bengala.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "devagar,",
+    "bengala."
+   ]
+  },
+  {
+   "fala": "Eu ia buscar às dez. Fiquei por perto, rodando. Às nove e meia o aplicativo me mandou uma corrida. Do mesmo restaurante. Mas era outra pessoa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "outra",
+    "pessoa."
+   ]
+  },
+  {
+   "fala": "Era uma mulher de uns cinquenta anos. Brava. Falando no telefone. Entrou no carro e disse: vou na casa de repouso. Minha mãe sumiu.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mãe",
+    "sumiu."
+   ]
+  },
+  {
+   "fala": "Era a filha da dona Lúcia. Tinha ido visitar de surpresa e não achou a mãe. A enfermeira não quis dizer onde estava. Ela estava furiosa.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA A FILHA"
+   ],
+   "destaque": [
+    "estava",
+    "furiosa."
+   ]
+  },
+  {
+   "fala": "Eu fiquei num dilema. Eu sabia exatamente onde a mãe dela estava. A duzentos metros. Comendo lasanha com o namorado.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "lasanha",
+    "namorado."
+   ]
+  },
+  {
+   "fala": "Respirei fundo e falei: senhora, eu sei onde a sua mãe tá. E ela tá bem. Mais que bem. Posso levar a senhora lá. Mas me promete uma coisa: olha antes de falar.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu sei onde ela tá."
+   ],
+   "destaque": [
+    "antes",
+    "falar."
+   ]
+  },
+  {
+   "fala": "Voltei pro restaurante. Parei na frente da vitrine. A filha olhou pra dentro. E ficou.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dentro.",
+    "ficou."
+   ]
+  },
+  {
+   "fala": "A mãe dela estava rindo. Às gargalhadas. Com a mão do seu Hugo segurando a dela por cima da toalha xadrez. Ele contando alguma piada com o garfo no ar.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "ELA VIU A MÃE RINDO"
+   ],
+   "destaque": [
+    "garfo",
+    "ar."
+   ]
+  },
+  {
+   "fala": "A filha ficou um tempão olhando pela vitrine. Depois disse baixinho: faz cinco anos que eu não vejo a minha mãe rir assim. Desde o meu pai.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Ela não entrou. Pediu pra eu ir embora. Disse: deixa ela. Amanhã eu converso. Hoje deixa ela rir.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DEIXA ELA RIR"
+   ],
+   "destaque": [
+    "deixa",
+    "rir."
+   ]
+  },
+  {
+   "fala": "Às dez em ponto eu busquei os dois. Eles não souberam de nada. Voltaram falando do tiramisù.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "falando",
+    "tiramisù."
+   ]
+  },
+  {
+   "fala": "Uma semana depois, a enfermeira me chamou de novo. Mesmo restaurante. Quatro pessoas. Os dois, a filha e o genro. Jantar de família.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Jantar",
+    "família."
+   ]
+  },
+  {
+   "fala": "Moral da história: o amor não pede documento de idade. E a felicidade dos pais não precisa da nossa permissão.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEIXA SER FELIZ"
+   ],
+   "destaque": [
+    "nossa",
+    "permissão."
+   ]
+  },
+  {
+   "fala": "E se seus pais ou avós estão sorrindo de novo por causa de alguém, não atrapalha. Leva pra jantar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O GATO TRAVESSEIRO"
+   ],
+   "destaque": [
+    "Leva",
+    "jantar."
+   ]
+  }
+ ]
+}

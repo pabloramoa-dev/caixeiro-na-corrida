@@ -1,0 +1,243 @@
+{
+ "id": "cx286",
+ "ep": 286,
+ "avulso": true,
+ "titulo": "OS NOIVOS DO BLOCO",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🎭 Eles se conheceram num bloco de carnaval, ele fantasiado de pirata, ela de abelha. Dez anos depois, casaram no mesmo bloco. Com as mesmas fantasias.\n\nOnde você conheceu o amor da sua vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#carnaval #casamento #amor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎭 Eles se conheceram num bloco de carnaval, ele fantasiado de pirata, ela de abelha. Dez anos depois, casaram no mesmo bloco. Com as mesmas fantasias. Onde você conheceu o amor da sua vida? 👇\nHistória de ficção.\n#carnaval #casamento #amor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um pirata e uma abelha pro altar mais animado do carnaval.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "animado",
+    "carnaval."
+   ]
+  },
+  {
+   "fala": "Sábado de carnaval, três da tarde. Entraram um rapaz de pirata, com tapa-olho e chapéu, e uma moça de abelha, com antena e asinha. De mãos dadas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO DE CARNAVAL · 15H"
+   ],
+   "destaque": [
+    "mãos",
+    "dadas."
+   ]
+  },
+  {
+   "fala": "A abelha disse: hoje a gente casa. No bloco. O pirata completou: no mesmo bloco onde a gente se conheceu. Com a mesma fantasia.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje a gente casa."
+   ],
+   "destaque": [
+    "mesma",
+    "fantasia."
+   ]
+  },
+  {
+   "fala": "Dez anos antes, no bloco do bairro, o pirata, Rodrigo, esbarrou na abelha, Camila. Derrubou a cerveja dela. Ela ficou brava.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O PIRATA E A ABELHA"
+   ],
+   "destaque": [
+    "ficou",
+    "brava."
+   ]
+  },
+  {
+   "fala": "Ela riu: ele me pagou um refrigerante pra compensar. E ficou o bloco inteiro do meu lado pedindo desculpa. Fantasiado de pirata. Achei ridículo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele me pagou um refrigerante."
+   ],
+   "destaque": [
+    "Achei",
+    "ridículo."
+   ]
+  },
+  {
+   "fala": "Ele: mas no fim do bloco ela me deu o telefone. Escrito na minha mão, com batom. Eu não lavei a mão por três dias.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "três",
+    "dias."
+   ]
+  },
+  {
+   "fala": "Dez anos de namoro. Todo carnaval, voltavam no mesmo bloco. Com as mesmas fantasias. Remendadas, apertadas, com a asinha torta.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "asinha",
+    "torta."
+   ]
+  },
+  {
+   "fala": "E decidiram: o casamento ia ser no bloco. O presidente do bloco, que conhecia a história, topou. O juiz de paz também. Fantasiado de palhaço.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O CASAMENTO NO BLOCO"
+   ],
+   "destaque": [
+    "Fantasiado",
+    "palhaço."
+   ]
+  },
+  {
+   "fala": "Chegamos na concentração do bloco. Rua fechada, gente fantasiada, banda tocando marchinha. E no meio, um trio elétrico pequeno, decorado com flor e balão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "flor",
+    "balão."
+   ]
+  },
+  {
+   "fala": "Quando os noivos desceram do meu carro, a multidão reconheceu. Tinha faixa: Rodrigo e Camila, o pirata e a abelha. O bloco inteiro aplaudindo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "inteiro",
+    "aplaudindo."
+   ]
+  },
+  {
+   "fala": "Eles me convidaram pra ficar. Me deram um colar de havaiano. Eu nunca fui de carnaval. Naquele dia, eu fui.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dia,",
+    "fui."
+   ]
+  },
+  {
+   "fala": "O juiz de paz subiu no trio. De nariz de palhaço e gravata. Disse no microfone: estamos aqui reunidos, no meio de dois mil foliões, pra casar um pirata e uma abelha.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O JUIZ PALHAÇO"
+   ],
+   "destaque": [
+    "pirata",
+    "abelha."
+   ]
+  },
+  {
+   "fala": "A multidão gargalhou. A banda tocou uma marchinha de casamento. Os padrinhos eram um Batman, uma Mulher-Maravilha, um índio e uma baiana.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "índio",
+    "baiana."
+   ]
+  },
+  {
+   "fala": "Nos votos, o pirata disse: eu prometo nunca mais derrubar a sua cerveja. E se derrubar, eu pago um refrigerante. Pra sempre.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu prometo não derrubar a sua cerveja."
+   ],
+   "destaque": [
+    "refrigerante.",
+    "sempre."
+   ]
+  },
+  {
+   "fala": "A abelha disse: e eu prometo te dar o meu telefone todo dia. Escrito na sua mão. Com batom. A multidão gritou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E eu prometo te dar o meu telefone."
+   ],
+   "destaque": [
+    "multidão",
+    "gritou."
+   ]
+  },
+  {
+   "fala": "Os dois disseram sim. Em cima do trio elétrico. Dois mil foliões gritando. Confete caindo do céu. A banda tocando a marchinha mais alto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "SIM NO TRIO"
+   ],
+   "destaque": [
+    "mais",
+    "alto."
+   ]
+  },
+  {
+   "fala": "E aí a abelha pegou um batom da bolsa. E escreveu na mão do pirata, igual dez anos antes. Mas dessa vez não era um telefone. Era: pra sempre.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O BATOM NA MÃO"
+   ],
+   "destaque": [
+    "Era:",
+    "sempre."
+   ]
+  },
+  {
+   "fala": "O bloco saiu desfilando com os noivos no trio. Pela avenida. O pirata e a abelha dançando lá em cima. A multidão atrás, cantando.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "atrás,",
+    "cantando."
+   ]
+  },
+  {
+   "fala": "Eu levei os dois no fim da noite. Suados, rouquinhos, sem a asinha, que se perdeu no bloco. Ela disse: dez anos ela aguentou. Hoje ela foi embora feliz.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "embora",
+    "feliz."
+   ]
+  },
+  {
+   "fala": "Moral da história: o amor às vezes começa com uma cerveja derrubada. E termina num trio elétrico.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DANÇA JUNTO"
+   ],
+   "destaque": [
+    "trio",
+    "elétrico."
+   ]
+  },
+  {
+   "fala": "E se você conheceu alguém no carnaval, conta nos comentários. Qual era a fantasia?",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PIRATA E ABELHA"
+   ],
+   "destaque": [
+    "era",
+    "fantasia?"
+   ]
+  }
+ ]
+}

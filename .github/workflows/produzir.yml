@@ -1,0 +1,126 @@
+name: Produzir episódios
+
+# Renderiza os próximos roteiros de episodios/ que ainda não têm MP4 em reels/
+# (mantém ~3 dias de vídeos prontos). Cada episódio numa máquina, em paralelo.
+# Nada é publicado aqui. O CTA (coração + seguir) entra sozinho no final.
+
+on:
+  push:
+    branches: [main]
+    paths: ["episodios/**", "motor/**", "src/fila.py", "video/**", ".github/actions/setup-hyperframes/**", ".github/workflows/produzir.yml", "requirements-estudio.txt"]
+  schedule:
+    - cron: "40 4 * * *"    # 01:40 Brasília
+    - cron: "40 16 * * *"   # 13:40 Brasília
+  workflow_dispatch:
+    inputs:
+      limite:
+        description: "Máximo de episódios a renderizar nesta execução"
+        default: "9"
+
+concurrency:
+  group: caixeiro-estudio
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  listar:
+    runs-on: ubuntu-latest
+    outputs:
+      lista: ${{ steps.l.outputs.lista }}
+      qtd: ${{ steps.l.outputs.qtd }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - id: l
+        run: |
+          LIM="${{ inputs.limite || '9' }}"
+          python motor/pendentes.py --rel --alvo-prontos 9 --limite "$LIM" > /tmp/p.txt
+          cat /tmp/p.txt
+          echo "lista=$(python -c "import json;print(json.dumps(open('/tmp/p.txt').read().split()))")" >> $GITHUB_OUTPUT
+          echo "qtd=$(wc -l < /tmp/p.txt)" >> $GITHUB_OUTPUT
+
+  renderizar:
+    needs: listar
+    if: needs.listar.outputs.qtd != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    strategy:
+      fail-fast: false
+      max-parallel: 9
+      matrix:
+        episodio: ${{ fromJson(needs.listar.outputs.lista) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Dependências de sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          mkdir -p ~/.fonts
+          for p in Bold Regular; do
+            curl -sSL -o ~/.fonts/Poppins-$p.ttf "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$p.ttf"
+          done
+          fc-cache -f
+      - name: Pacotes Python
+        run: |
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install --no-build-isolation srt || true
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Cache da voz de contingência
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/dvh_kokoro
+          key: ${{ runner.os }}-${{ runner.arch }}-cache-kokoro-caixeiro-v1
+      - name: Renderizar
+        id: r
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          NINA_HF_WORKERS: "2"
+        run: |
+          python motor/produzir.py "${{ matrix.episodio }}" --publicar-em saida_reels
+          echo "id=$(basename '${{ matrix.episodio }}' .json)" >> $GITHUB_OUTPUT
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reel-${{ steps.r.outputs.id }}
+          path: saida_reels/
+          retention-days: 3
+
+  gravar:
+    needs: renderizar
+    if: always() && needs.renderizar.result != 'skipped'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: reel-*
+          merge-multiple: true
+          path: reels/
+      - name: Conferir a fila
+        run: python -m src.fila || true
+      - name: Gravar no repositório
+        run: |
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add reels/
+          git diff --cached --quiet && exit 0
+          git commit -m "estúdio: episódios renderizados [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase && git push && exit 0; sleep 7; done
+          exit 1

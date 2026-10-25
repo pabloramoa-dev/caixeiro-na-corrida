@@ -1,0 +1,255 @@
+{
+ "id": "cx173",
+ "ep": 173,
+ "avulso": true,
+ "titulo": "A MÃE NO SHOW DE ROCK",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🤘 O filho é vocalista de uma banda de heavy metal. A mãe, de 62 anos, nunca tinha ido a um show. Até hoje. De crochê e tampão de ouvido.\n\nSeus pais já foram num show seu ou de algo que você ama? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#rock #mae #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🤘 O filho é vocalista de uma banda de heavy metal. A mãe, de 62 anos, nunca tinha ido a um show. Até hoje. De crochê e tampão de ouvido. Seus pais já foram num show seu ou de algo que você ama? 👇\nHistória de ficção.\n#rock #mae #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a fã mais improvável do heavy metal brasileiro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "metal",
+    "brasileiro."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Entrou uma senhora de sessenta e dois anos, blusa de crochê, bolsa de palha e uma sacola de bolo de cenoura.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "bolo",
+    "cenoura."
+   ]
+  },
+  {
+   "fala": "Disse: vou no show do meu filho. Ele canta numa banda. Eu perguntei: de quê? Ela: ele diz que é metal. Eu acho que é barulho.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou no show do meu filho."
+   ],
+   "destaque": [
+    "acho",
+    "barulho."
+   ]
+  },
+  {
+   "fala": "Dona Rosa. O filho, Leandro, era vocalista de uma banda de heavy metal havia dez anos. Ela nunca tinha ido num show. Nunca.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA ROSA"
+   ],
+   "destaque": [
+    "show.",
+    "Nunca."
+   ]
+  },
+  {
+   "fala": "Confessou: eu tinha vergonha. Ele de cabelo comprido, roupa preta, gritando. As vizinhas comentavam. Eu fingia que ele trabalhava em banco.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu tinha vergonha."
+   ],
+   "destaque": [
+    "trabalhava",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Mas naquela semana, ele ligou. Disse que ia ser o maior show da banda. Abertura de uma banda gringa. E pediu: mãe, vai. Só dessa vez.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dessa",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Mostrou a sacola: levei bolo de cenoura pra banda. Eles devem estar com fome. Eles nunca comem direito. E tirou da bolsa um par de tampões de ouvido.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Levei bolo pra banda."
+   ],
+   "destaque": [
+    "tampões",
+    "ouvido."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa de shows enorme. Fila de gente de preto, de bota, de cabelo comprido, tatuagem, corrente. E a dona Rosa de crochê.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Rosa",
+    "crochê."
+   ]
+  },
+  {
+   "fala": "Ela desceu. Olhou a fila. A fila olhou pra ela. Um rapaz de moicano verde perguntou: tia, a senhora tá perdida?",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tá",
+    "perdida?"
+   ]
+  },
+  {
+   "fala": "Ela respondeu: não, meu filho. Sou a mãe do vocalista. E o rapaz de moicano gritou pra fila inteira: é a mãe do Leandro!",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Sou a mãe do vocalista."
+   ],
+   "destaque": [
+    "mãe",
+    "Leandro!"
+   ]
+  },
+  {
+   "fala": "A fila abriu caminho. Os metaleiros batendo palma. Um deles ofereceu o braço pra ela passar. Outro carregou a sacola do bolo.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A FILA ABRIU"
+   ],
+   "destaque": [
+    "sacola",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "Ela me pediu pra entrar junto. Disse que não ia aguentar sozinha. Eu fui. Com um tampão de ouvido que ela me deu.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ouvido",
+    "deu."
+   ]
+  },
+  {
+   "fala": "O show começou. Barulho de verdade. A casa tremendo. O chão tremendo. O Leandro no palco, de cabelo comprido, gritando no microfone.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O SHOW"
+   ],
+   "destaque": [
+    "gritando",
+    "microfone."
+   ]
+  },
+  {
+   "fala": "A dona Rosa ficou parada. Com o tampão no ouvido. Olhando o filho. Sem expressão nenhuma. Eu achei que ela ia embora.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "embora."
+   ]
+  },
+  {
+   "fala": "Aí, na terceira música, ela começou a balançar a cabeça. Devagarinho. No ritmo. Depois mais rápido. Os metaleiros em volta perceberam e começaram a gritar.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA BALANÇOU A CABEÇA"
+   ],
+   "destaque": [
+    "começaram",
+    "gritar."
+   ]
+  },
+  {
+   "fala": "Na quinta música, ela estava com o braço levantado, fazendo o chifrinho com os dedos que algum rapaz ensinou. De blusa de crochê.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "blusa",
+    "crochê."
+   ]
+  },
+  {
+   "fala": "Aí o Leandro parou o show. Disse no microfone: essa próxima é pra minha mãe. Que veio pela primeira vez. Ela tá ali, de crochê.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Essa é pra minha mãe."
+   ],
+   "destaque": [
+    "ali,",
+    "crochê."
+   ]
+  },
+  {
+   "fala": "O telão mostrou ela. Cinco mil metaleiros gritando: dona Rosa! Dona Rosa! Ela tirou o tampão de ouvido. E chorou.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MÃE NO TELÃO"
+   ],
+   "destaque": [
+    "ouvido.",
+    "chorou."
+   ]
+  },
+  {
+   "fala": "E a música que ele cantou era lenta. Uma balada. Que ele tinha escrito pra ela. Ela nunca tinha ouvido. Porque nunca tinha ido.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "ido."
+   ]
+  },
+  {
+   "fala": "Na saída, ela distribuiu o bolo de cenoura pra banda e pros metaleiros da fila. Disse: vocês são uns amores. Só falam alto.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "falam",
+    "alto."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a gente tem vergonha do que nunca viu de perto. Vai ver. Pode ser lindo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VAI NO SHOW"
+   ],
+   "destaque": [
+    "ser",
+    "lindo."
+   ]
+  },
+  {
+   "fala": "E se seu filho faz algo que você não entende, vai uma vez. Leva bolo. E tampão de ouvido.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA ROSA METALEIRA"
+   ],
+   "destaque": [
+    "tampão",
+    "ouvido."
+   ]
+  }
+ ]
+}

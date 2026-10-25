@@ -1,0 +1,268 @@
+{
+ "id": "cx101",
+ "ep": 101,
+ "avulso": true,
+ "titulo": "UM DIA SEM CELULAR",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "📵 Uma influenciadora de 24 anos me entregou o celular e pediu: guarda no porta-luvas e não me devolve até as seis da tarde.\n\nVocê conseguiria passar um dia inteiro sem celular? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #celular #vidareal #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📵 Uma influenciadora de 24 anos me entregou o celular e pediu: guarda no porta-luvas e não me devolve até as seis da tarde. Você conseguiria passar um dia inteiro sem celular? 👇\nHistória de ficção.\n#reflexao #celular #vidareal #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida a passageira se desligou. E eu fiquei de guarda-costas de um celular.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "guarda-costas",
+    "celular."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da manhã. Entrou uma moça de uns vinte e quatro anos, roupa de marca, óculos escuros enormes e dois celulares na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 9H"
+   ],
+   "destaque": [
+    "celulares",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Antes de eu sair, ela estendeu os dois celulares e falou: guarda no porta-luvas. E não me devolve até as seis da tarde. Nem se eu implorar.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Guarda isso pra mim."
+   ],
+   "destaque": [
+    "Nem",
+    "implorar."
+   ]
+  },
+  {
+   "fala": "Chama-se Bia. Influenciadora digital. Três milhões de seguidores. Ganha a vida postando a vida. Vinte e quatro horas por dia.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TRÊS MILHÕES DE SEGUIDORES"
+   ],
+   "destaque": [
+    "horas",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Disse: eu não sei mais quem eu sou sem isso, moço. Tudo que eu vejo, eu penso em como vai ficar na foto. Até o pôr do sol.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu não sei mais quem eu sou sem isso."
+   ],
+   "destaque": [
+    "pôr",
+    "sol."
+   ]
+  },
+  {
+   "fala": "Contou que a terapeuta sugeriu um dia inteiro sem celular. Ela tentou três vezes sozinha e não conseguiu. Então decidiu contratar um motorista pro dia.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "dia."
+   ]
+  },
+  {
+   "fala": "E pediu: me leva aonde o senhor iria num sábado de folga. Lugares que não estão no meu feed.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Me leva onde o senhor iria."
+   ],
+   "destaque": [
+    "meu",
+    "feed."
+   ]
+  },
+  {
+   "fala": "Eu pensei. E levei. Primeiro, numa feira livre de bairro. Pastel, caldo de cana, gente gritando preço de banana.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "preço",
+    "banana."
+   ]
+  },
+  {
+   "fala": "Ela ficou olhando tudo como turista. Comeu pastel com a mão engordurada. Riu de um feirante que fazia rima com o preço do tomate.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "preço",
+    "tomate."
+   ]
+  },
+  {
+   "fala": "De vez em quando, a mão dela ia no bolso procurar o celular. Que não estava lá. Ela ria sem graça: força do hábito.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "A MÃO NO BOLSO"
+   ],
+   "destaque": [
+    "força",
+    "hábito."
+   ]
+  },
+  {
+   "fala": "Depois levei num campinho de várzea. Jogo de veterano. Ela sentou na arquibancada de cimento e torceu pro time que estava perdendo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "estava",
+    "perdendo."
+   ]
+  },
+  {
+   "fala": "Lá pelas tantas, ela falou: faz quanto tempo que eu não vejo uma coisa sem pensar em filmar? Eu nem lembro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "lembro."
+   ]
+  },
+  {
+   "fala": "Depois do almoço, ela pediu pra ir num lugar que fazia anos que não ia. Um bairro do subúrbio. Uma rua de paralelepípedo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "rua",
+    "paralelepípedo."
+   ]
+  },
+  {
+   "fala": "Parou na frente de um armarinho antigo. Linha, botão, fita. Uma senhora de oitenta anos atrás do balcão. A avó dela.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O ARMARINHO DA AVÓ"
+   ],
+   "destaque": [
+    "avó",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Disse: faz dois anos que eu não venho aqui. Eu mando mensagem. Mando vídeo. Mas não venho.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Faz dois anos que eu não venho."
+   ],
+   "destaque": [
+    "vídeo.",
+    "venho."
+   ]
+  },
+  {
+   "fala": "A avó olhou por cima dos óculos, demorou pra reconhecer sem a câmera na frente, e abriu um sorriso que eu nunca vou esquecer.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "vou",
+    "esquecer."
+   ]
+  },
+  {
+   "fala": "Primeira coisa que a avó perguntou: cadê o telefone, menina? Você sempre chega filmando. A Bia disse: hoje não, vó. Hoje é só eu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cadê o telefone, menina?"
+   ],
+   "destaque": [
+    "Hoje",
+    "só"
+   ]
+  },
+  {
+   "fala": "Elas passaram a tarde no armarinho. A avó ensinou a Bia a pregar botão. Ela errou dez vezes. Riram todas.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SÓ EU"
+   ],
+   "destaque": [
+    "Riram",
+    "todas."
+   ]
+  },
+  {
+   "fala": "Seis da tarde. Eu abri o porta-luvas e devolvi os celulares. Ela ficou olhando pra eles um tempão. Mil notificações piscando.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "18H"
+   ],
+   "destaque": [
+    "notificações",
+    "piscando."
+   ]
+  },
+  {
+   "fala": "Ela ligou um. Tirou uma foto só. A avó e ela, com o botão pregado torto na blusa. E desligou de novo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "desligou",
+    "novo."
+   ]
+  },
+  {
+   "fala": "Na semana seguinte, ela postou: passei um dia sem vocês e lembrei de quem eu sou. Volto às segundas. Sábado é da minha avó.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "minha",
+    "avó."
+   ]
+  },
+  {
+   "fala": "Moral da história: a vida que importa nem sempre cabe na tela. Às vezes ela tá pregando botão num armarinho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OLHA PRA CIMA"
+   ],
+   "destaque": [
+    "num",
+    "armarinho."
+   ]
+  },
+  {
+   "fala": "E se você está lendo isso no celular, termina o vídeo e liga pra alguém. Melhor: vai lá.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SÁBADO É DA VÓ"
+   ],
+   "destaque": [
+    "vai",
+    "lá."
+   ]
+  }
+ ]
+}

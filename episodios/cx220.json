@@ -1,0 +1,231 @@
+{
+ "id": "cx220",
+ "ep": 220,
+ "avulso": true,
+ "titulo": "O IRMÃO MAIS NOVO",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "🎓 O irmão mais velho largou a faculdade pra trabalhar e pagar os estudos do caçula. Hoje, no dia da formatura do caçula, a surpresa era pro mais velho.\n\nQuem já se sacrificou por você sem pedir nada em troca? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#irmaos #formatura #gratidao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎓 O irmão mais velho largou a faculdade pra trabalhar e pagar os estudos do caçula. Hoje, no dia da formatura do caçula, a surpresa era pro mais velho. Quem já se sacrificou por você sem pedir nada em troca? 👇\nHistória de ficção.\n#irmaos #formatura #gratidao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um formando e o diploma que ele achava que era do irmão.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "era",
+    "irmão."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Entraram dois homens. Um de uns trinta e oito anos, de terno simples. O outro de uns vinte e seis, de beca de formatura.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "beca",
+    "formatura."
+   ]
+  },
+  {
+   "fala": "O mais velho falou, todo orgulhoso: hoje o meu irmão se forma. Engenharia. Primeiro da família. O mais novo ficou vermelho.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje ele se forma."
+   ],
+   "destaque": [
+    "ficou",
+    "vermelho."
+   ]
+  },
+  {
+   "fala": "Rodrigo, o mais velho. Júnior, o caçula. Perderam o pai quando o Rodrigo tinha dezenove e o Júnior, sete.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS IRMÃOS"
+   ],
+   "destaque": [
+    "Júnior,",
+    "sete."
+   ]
+  },
+  {
+   "fala": "O Júnior contou: o meu irmão largou a faculdade de engenharia no segundo ano. Pra trabalhar. Pra sustentar a casa. E me pagar a escola.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele largou a faculdade."
+   ],
+   "destaque": [
+    "pagar",
+    "escola."
+   ]
+  },
+  {
+   "fala": "O Rodrigo virou mecânico. Trabalhou doze horas por dia. Pagou cursinho, material, depois a faculdade do irmão. Nunca reclamou.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Nunca",
+    "reclamou."
+   ]
+  },
+  {
+   "fala": "O Rodrigo riu: ele que é o engenheiro, eu sou só mecânico. Eu conserto carro, ele vai construir ponte.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele que é o engenheiro."
+   ],
+   "destaque": [
+    "construir",
+    "ponte."
+   ]
+  },
+  {
+   "fala": "O Júnior ficou quieto. Olhando pela janela. Eu percebi que ele estava guardando alguma coisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "alguma",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Chegamos no auditório da universidade. Famílias, flores, balões. O Rodrigo foi sentar na plateia. O Júnior foi pra fila dos formandos.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "dos",
+    "formandos."
+   ]
+  },
+  {
+   "fala": "O Rodrigo me pediu pra ficar. Disse que a mãe estava doente e não pôde vir. Que ele não queria ficar sozinho na plateia. Eu fiquei do lado dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "lado",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Hino, discurso, juramento. E aí chamaram o orador da turma. O Júnior. Ele subiu no palco com um papel na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "A CERIMÔNIA"
+   ],
+   "destaque": [
+    "papel",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Ele começou: eu não deveria estar aqui. Quem deveria estar aqui, de beca, é o meu irmão.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O DISCURSO"
+   ],
+   "destaque": [
+    "meu",
+    "irmão."
+   ]
+  },
+  {
+   "fala": "E contou tudo. O pai. A faculdade largada. As doze horas de oficina. As mãos sujas de graxa pagando o diploma dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "diploma",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Aí ele disse: e eu tenho uma coisa pra contar. No último ano, eu juntei dinheiro do estágio. E paguei a matrícula do meu irmão. Ele volta pra engenharia segunda-feira.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FACULDADE DO IRMÃO"
+   ],
+   "destaque": [
+    "engenharia",
+    "segunda-feira."
+   ]
+  },
+  {
+   "fala": "O Rodrigo, do meu lado, ficou paralisado. Com a boca aberta. Não sabia de nada. O Júnior tinha resolvido tudo com a universidade. Em segredo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "universidade.",
+    "segredo."
+   ]
+  },
+  {
+   "fala": "O Júnior falou no microfone: Rodrigo, você me deu doze anos. Agora é a minha vez. Vai terminar o que você começou.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "AGORA É VOCÊ"
+   ],
+   "destaque": [
+    "você",
+    "começou."
+   ]
+  },
+  {
+   "fala": "O auditório inteiro se levantou. O Rodrigo chorando, sem conseguir levantar. Eu dei um tapinha nas costas dele. Ele levantou. E o Júnior desceu do palco correndo pra abraçar.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "correndo",
+    "abraçar."
+   ]
+  },
+  {
+   "fala": "Na volta, o Rodrigo ficou olhando as mãos. Disse: eu vou ser calouro aos trinta e oito. Com mão de mecânico. O Júnior disse: os melhores engenheiros têm.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "engenheiros",
+    "têm."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem abre mão do próprio sonho por alguém merece receber esse sonho de volta.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEVOLVE O SACRIFÍCIO"
+   ],
+   "destaque": [
+    "sonho",
+    "volta."
+   ]
+  },
+  {
+   "fala": "E se alguém largou alguma coisa por você, pensa em como devolver. Nem que demore doze anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CALOURO DE 38"
+   ],
+   "destaque": [
+    "doze",
+    "anos."
+   ]
+  }
+ ]
+}

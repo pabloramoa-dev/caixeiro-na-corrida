@@ -1,0 +1,241 @@
+{
+ "id": "cx306",
+ "ep": 306,
+ "avulso": true,
+ "titulo": "O DISCO ARRANHADO",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "💿 O disco da música deles quebrou na mudança. Faltavam três dias pras bodas de ouro. Ele rodou a cidade inteira atrás de outro.\n\nQual é a música do seu casal? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #bodas #musica #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💿 O disco da música deles quebrou na mudança. Faltavam três dias pras bodas de ouro. Ele rodou a cidade inteira atrás de outro. Qual é a música do seu casal? 👇\nHistória de ficção.\n#amor #bodas #musica #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida rodou sete sebos atrás de um disco de vinil. E de um amor de cinquenta anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "cinquenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Quinta, dez da manhã. Entrou um senhor de uns setenta e cinco anos com uma sacola de pano e um papel escrito à mão. Uma lista de endereços.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 10H"
+   ],
+   "destaque": [
+    "lista",
+    "endereços."
+   ]
+  },
+  {
+   "fala": "Disse: preciso achar um disco. Um disco só. Até sábado. São as minhas bodas de ouro.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Preciso achar um disco."
+   ],
+   "destaque": [
+    "bodas",
+    "ouro."
+   ]
+  },
+  {
+   "fala": "Chama-se Heitor. Casado há cinquenta anos com a dona Clarice. Conheceu ela num baile em mil novecentos e setenta e seis. Dançaram uma música só a noite inteira.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU HEITOR"
+   ],
+   "destaque": [
+    "noite",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Contou: a gente mudou pro apartamento do filho mês passado. Na mudança, a caixa de discos caiu. Quebrou o disco da nossa música. Ela chorou uma semana.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Caiu na mudança."
+   ],
+   "destaque": [
+    "chorou",
+    "semana."
+   ]
+  },
+  {
+   "fala": "O disco era de um cantor romântico dos anos setenta. Não tem no streaming. A gravadora fechou. Só existe em vinil. E em pouca quantidade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pouca",
+    "quantidade."
+   ]
+  },
+  {
+   "fala": "Primeiro sebo, no centro. Não tinha. Segundo, numa galeria. Tinha o disco do mesmo cantor, mas outro álbum. Terceiro, fechado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Terceiro,",
+    "fechado."
+   ]
+  },
+  {
+   "fala": "Ele perguntava em todo lugar: você conhece esse cantor? Os vendedores jovens não conheciam. Um disse: é sertanejo? Seu Heitor ficou ofendido.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você conhece esse cantor?"
+   ],
+   "destaque": [
+    "ficou",
+    "ofendido."
+   ]
+  },
+  {
+   "fala": "Quarto sebo. O dono conhecia. Disse: esse disco é raro, senhor. Tem um colecionador na zona norte que tem. Mas ele não vende.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tem.",
+    "vende."
+   ]
+  },
+  {
+   "fala": "Fomos lá. Uma casa cheia de disco do chão ao teto. O colecionador, um senhor de óculos fundos, disse logo na porta: não vendo nada.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "vendo",
+    "nada."
+   ]
+  },
+  {
+   "fala": "O seu Heitor disse: eu não quero comprar. Eu quero contar uma história. E contou do baile, da música, dos cinquenta anos, do disco quebrado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu não quero comprar."
+   ],
+   "destaque": [
+    "disco",
+    "quebrado."
+   ]
+  },
+  {
+   "fala": "O colecionador ficou ouvindo de braço cruzado. Depois entrou. Ficou um tempão lá dentro. E voltou com o disco na mão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disco",
+    "mão."
+   ]
+  },
+  {
+   "fala": "E disse: eu empresto. Não vendo, não dou. Empresto. Mas com uma condição. Eu quero estar na festa quando tocar.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A CONDIÇÃO"
+   ],
+   "destaque": [
+    "quando",
+    "tocar."
+   ]
+  },
+  {
+   "fala": "O seu Heitor riu: pode ir. Mas tem que ir de terno. O colecionador disse: eu tenho um terno de mil novecentos e setenta e seis. Serve?",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pode ir de terno?"
+   ],
+   "destaque": [
+    "seis.",
+    "Serve?"
+   ]
+  },
+  {
+   "fala": "Sábado à noite eu fui buscar os dois pra festa. O seu Heitor e o colecionador. De terno. O disco no colo, embrulhado numa toalha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 20H"
+   ],
+   "destaque": [
+    "numa",
+    "toalha."
+   ]
+  },
+  {
+   "fala": "No salão, a dona Clarice não sabia de nada. Achava que a música ia ser do celular do neto. Uma versão qualquer. Com outra voz.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "outra",
+    "voz."
+   ]
+  },
+  {
+   "fala": "Aí o seu Heitor colocou o disco na vitrola antiga do filho. A agulha chiou. E começou a música. A original. Com aquele chiado de vinil.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A AGULHA NO DISCO"
+   ],
+   "destaque": [
+    "chiado",
+    "vinil."
+   ]
+  },
+  {
+   "fala": "A dona Clarice levou a mão na boca. Olhou pro marido. E os dois dançaram. Do mesmo jeito do baile de setenta e seis. Devagar, colados.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Devagar,",
+    "colados."
+   ]
+  },
+  {
+   "fala": "E no canto do salão, o colecionador de terno antigo chorava mais que a família toda. Depois ele disse: pode ficar com o disco. Tem dono certo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dono",
+    "certo."
+   ]
+  },
+  {
+   "fala": "Moral da história: amor de cinquenta anos tem trilha sonora. E vale atravessar a cidade pra ela tocar de novo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "A MÚSICA DE VOCÊS"
+   ],
+   "destaque": [
+    "tocar",
+    "novo."
+   ]
+  },
+  {
+   "fala": "E hoje coloca a música do seu casal pra tocar. Mesmo que seja num celular. Ela merece ouvir de novo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "COLOCA A MÚSICA"
+   ],
+   "destaque": [
+    "ouvir",
+    "novo."
+   ]
+  }
+ ]
+}

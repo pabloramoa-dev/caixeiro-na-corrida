@@ -1,0 +1,272 @@
+{
+ "id": "cx115",
+ "ep": 115,
+ "avulso": true,
+ "titulo": "O ABAFADOR DE OUVIDO",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "🎧 Um menino autista ia ao estádio pela primeira vez, com abafador de ouvido. O que a torcida fez no primeiro gol ninguém esperava.\n\nVocê já viu uma torcida fazer algo bonito fora do jogo? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #autismo #inclusao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎧 Um menino autista ia ao estádio pela primeira vez, com abafador de ouvido. O que a torcida fez no primeiro gol ninguém esperava. Você já viu uma torcida fazer algo bonito fora do jogo? 👇\nHistória de ficção.\n#futebol #autismo #inclusao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um torcedor que ama o time mais que tudo. Mas não aguenta barulho.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "aguenta",
+    "barulho."
+   ]
+  },
+  {
+   "fala": "Domingo, duas da tarde. Entrou um pai com um menino de nove anos. Camisa do time, boné, e um abafador de ouvido azul enorme pendurado no pescoço.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 14H"
+   ],
+   "destaque": [
+    "pendurado",
+    "pescoço."
+   ]
+  },
+  {
+   "fala": "O pai disse: ele sabe a escalação de cor, desde mil novecentos e oitenta. Pergunta qualquer jogo. O menino recitou três escalações seguidas.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Sabe a escalação inteira."
+   ],
+   "destaque": [
+    "escalações",
+    "seguidas."
+   ]
+  },
+  {
+   "fala": "Chama-se Theo. Autista. Ama futebol. Mas barulho alto dá crise. Nunca tinha ido ao estádio. Só assistia em casa, com o volume baixinho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "PRIMEIRA VEZ NO ESTÁDIO"
+   ],
+   "destaque": [
+    "volume",
+    "baixinho."
+   ]
+  },
+  {
+   "fala": "O pai estava com medo: e se ele não aguentar? Trinta mil pessoas gritando. Eu prometi que se ele quiser ir embora, a gente vai.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E se ele não aguentar?"
+   ],
+   "destaque": [
+    "gente",
+    "vai."
+   ]
+  },
+  {
+   "fala": "O Theo ia repetindo baixinho as regras que o pai ensinou: abafador no gol, mão no ouvido, respirar contando até dez.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "até",
+    "dez."
+   ]
+  },
+  {
+   "fala": "Chegamos. O pai pediu pra eu esperar no estacionamento, caso precisassem ir embora rápido. Eu fiquei. Com o rádio ligado no jogo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ligado",
+    "jogo."
+   ]
+  },
+  {
+   "fala": "Depois o pai me contou o que aconteceu. Eles sentaram num setor normal da torcida. E o pai, nervoso, falou com os vizinhos de cadeira.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O SETOR DELES"
+   ],
+   "destaque": [
+    "vizinhos",
+    "cadeira."
+   ]
+  },
+  {
+   "fala": "Explicou: meu filho é autista, tem sensibilidade a som. Se ele tiver crise, desculpa, a gente vai sair rápido.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele tem sensibilidade a som."
+   ],
+   "destaque": [
+    "sair",
+    "rápido."
+   ]
+  },
+  {
+   "fala": "Um senhor de barba, torcedor antigo, ouviu e passou a informação pra fileira de trás. Que passou pra outra. E pra outra.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "outra.",
+    "outra."
+   ]
+  },
+  {
+   "fala": "Aos vinte minutos, gol do time. O estádio explodiu. Mas aquele setor, umas duzentas pessoas em volta do Theo, fez outra coisa.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PRIMEIRO GOL"
+   ],
+   "destaque": [
+    "outra",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Comemoraram em silêncio. Pulando, abraçando, balançando os braços, de boca fechada. Uma comemoração muda, só com o corpo.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "COMEMORARAM EM SILÊNCIO"
+   ],
+   "destaque": [
+    "só",
+    "corpo."
+   ]
+  },
+  {
+   "fala": "O Theo tirou o abafador devagar, olhou em volta, e viu duzentas pessoas pulando sem fazer barulho. Por causa dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "causa",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Perguntou: pai, eles tão fazendo isso pra mim? O pai não conseguiu responder. Só balançou a cabeça.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pai, eles tão fazendo pra mim?"
+   ],
+   "destaque": [
+    "balançou",
+    "cabeça."
+   ]
+  },
+  {
+   "fala": "Aí o Theo levantou, sem abafador, e pulou junto. Em silêncio. Rindo. Com os braços pra cima. O senhor de barba abraçou ele.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "barba",
+    "abraçou"
+   ]
+  },
+  {
+   "fala": "O jogo terminou dois a zero. No segundo gol, a mesma coisa. Comemoração muda. Alguém filmou e postou.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "FIM DE JOGO"
+   ],
+   "destaque": [
+    "filmou",
+    "postou."
+   ]
+  },
+  {
+   "fala": "Quando voltaram pro carro, o Theo estava com a camisa assinada por umas vinte pessoas da arquibancada. Com caneta de todo tipo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "todo",
+    "tipo."
+   ]
+  },
+  {
+   "fala": "Ele entrou no carro e disse: eu vou voltar no próximo jogo. E recitou a escalação de novo, dessa vez gritando.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu vou voltar."
+   ],
+   "destaque": [
+    "vez",
+    "gritando."
+   ]
+  },
+  {
+   "fala": "O pai me contou tudo no caminho, com a voz falhando. Disse que nunca imaginou que estranhos iam fazer aquilo pelo filho dele.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DUZENTOS EM SILÊNCIO"
+   ],
+   "destaque": [
+    "filho",
+    "dele."
+   ]
+  },
+  {
+   "fala": "No dia seguinte, o vídeo tinha milhões de visualizações. O clube entrou em contato. Prometeu criar um espaço com isolamento acústico no estádio.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Vídeo viralizou"
+   ],
+   "destaque": [
+    "acústico",
+    "estádio."
+   ]
+  },
+  {
+   "fala": "Hoje existe uma sala sensorial no estádio. Com janela de vidro pro campo. Tem uma plaquinha na porta: sala Theo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "sala",
+    "Theo."
+   ]
+  },
+  {
+   "fala": "Moral da história: torcida grande é a que sabe a hora de gritar e a hora de fazer silêncio.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CUIDA DE QUEM TÁ DO LADO"
+   ],
+   "destaque": [
+    "fazer",
+    "silêncio."
+   ]
+  },
+  {
+   "fala": "E se você vir alguém de abafador no estádio, comemora junto do jeito que ele consegue. A festa é de todo mundo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SALA THEO"
+   ],
+   "destaque": [
+    "todo",
+    "mundo."
+   ]
+  }
+ ]
+}

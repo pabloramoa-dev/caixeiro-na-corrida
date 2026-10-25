@@ -1,0 +1,231 @@
+{
+ "id": "cx270",
+ "ep": 270,
+ "avulso": true,
+ "titulo": "A ÁRVORE GENEALÓGICA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🌳 Ela passou dois anos montando a árvore genealógica da família. Descobriu 200 parentes que ninguém conhecia. E organizou um almoço pra todos.\n\nVocê conhece a história dos seus bisavós? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#familia #arvoregenealogica #raizes #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌳 Ela passou dois anos montando a árvore genealógica da família. Descobriu 200 parentes que ninguém conhecia. E organizou um almoço pra todos. Você conhece a história dos seus bisavós? 👇\nHistória de ficção.\n#familia #arvoregenealogica #raizes #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma família inteira que não se conhecia. Em várias viagens.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "várias",
+    "viagens."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou uma mulher de uns cinquenta anos com um rolo de papel enorme debaixo do braço. E uma pasta cheia de foto antiga.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "foto",
+    "antiga."
+   ]
+  },
+  {
+   "fala": "Disse: é a árvore genealógica da família. Dois anos montando. Hoje é o grande encontro. Eu perguntei: quantas pessoas? Ela: duzentas e quarenta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a árvore da família."
+   ],
+   "destaque": [
+    "duzentas",
+    "quarenta."
+   ]
+  },
+  {
+   "fala": "O nome dela também era Rosângela. Eu ri. Ela também. Disse que é professora de história. E que começou a pesquisar depois que o pai faleceu.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA ROSÂNGELA"
+   ],
+   "destaque": [
+    "pai",
+    "faleceu."
+   ]
+  },
+  {
+   "fala": "Disse: eu não sabia nada da família dele. Ele nunca falava. Disse que o avô veio do interior e brigou com todo mundo. Ninguém mais se falou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu não sabia nada."
+   ],
+   "destaque": [
+    "mais",
+    "falou."
+   ]
+  },
+  {
+   "fala": "Ela foi atrás. Cartório, igreja, cemitério, internet. Achou o bisavô. Os irmãos do bisavô. Os filhos dos irmãos. E os filhos dos filhos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dos",
+    "filhos."
+   ]
+  },
+  {
+   "fala": "Riu: achei primo em todo lugar. Um primo é padre. Outra prima é jogadora de vôlei. Um primo mora a duas ruas da minha casa. A gente se cumprimentava na padaria.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Achei primo em todo lugar."
+   ],
+   "destaque": [
+    "cumprimentava",
+    "padaria."
+   ]
+  },
+  {
+   "fala": "E descobriu a briga. Em mil novecentos e quarenta, dois irmãos brigaram por causa de um terreno. A família rachou. Oitenta anos sem se falar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "falar."
+   ]
+  },
+  {
+   "fala": "Chegamos num sítio grande. Mesas compridas no gramado. Churrasqueira acesa. E gente chegando. De carro, de ônibus, de van. De vários estados.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "vários",
+    "estados."
+   ]
+  },
+  {
+   "fala": "Ela me pediu pra ajudar com o rolo de papel. Pendurei com ela numa parede da varanda. Cinco metros de árvore. Com foto, nome e data.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "nome",
+    "data."
+   ]
+  },
+  {
+   "fala": "As pessoas foram chegando e procurando o próprio nome na árvore. Apontando. Achando o avô, o bisavô. Descobrindo que o vizinho de mesa era primo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "DUZENTOS E QUARENTA"
+   ],
+   "destaque": [
+    "era",
+    "primo."
+   ]
+  },
+  {
+   "fala": "Um senhor de oitenta anos achou o nome do pai dele. E do lado, o nome de um irmão que ele nem sabia que existia. Que estava ali, na mesa ao lado. Com oitenta e dois.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "oitenta",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Os dois se olharam. A mesma cara. O mesmo nariz. O mesmo jeito de segurar o copo. Irmãos por parte de pai. Separados pela briga de mil novecentos e quarenta.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "OS DOIS IRMÃOS"
+   ],
+   "destaque": [
+    "novecentos",
+    "quarenta."
+   ]
+  },
+  {
+   "fala": "Ficaram se olhando um tempão. Depois um disse: você tem o nariz do papai. O outro respondeu: e você tem a teimosia dele. E se abraçaram.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dele.",
+    "abraçaram."
+   ]
+  },
+  {
+   "fala": "Aí a Rosângela contou a história da briga. O terreno de mil novecentos e quarenta. E disse: eu fui ver esse terreno. Hoje é uma escola.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O TERRENO"
+   ],
+   "destaque": [
+    "Hoje",
+    "escola."
+   ]
+  },
+  {
+   "fala": "E disse no microfone: oitenta anos de família separada por um terreno que nem é mais de ninguém. Hoje a gente acaba com isso.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OITENTA ANOS DEPOIS"
+   ],
+   "destaque": [
+    "acaba",
+    "isso."
+   ]
+  },
+  {
+   "fala": "Duzentas e quarenta pessoas aplaudiram. E tiraram uma foto. Todo mundo junto. Na frente da árvore. Precisou de um drone.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Precisou",
+    "drone."
+   ]
+  },
+  {
+   "fala": "Eu fiz quatro viagens naquele dia. Levando primo que ia embora. Cada um contando a descoberta no meu banco. A melhor foi uma senhora que descobriu que era tia do padre.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "tia",
+    "padre."
+   ]
+  },
+  {
+   "fala": "Moral da história: toda família tem uma briga antiga. E toda briga antiga tem um primo esperando na mesa do lado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONHECE A SUA HISTÓRIA"
+   ],
+   "destaque": [
+    "mesa",
+    "lado."
+   ]
+  },
+  {
+   "fala": "E se você não conhece a história dos seus bisavós, pergunta pros mais velhos. Enquanto dá. Pode ter um irmão perdido aí.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DUZENTOS E QUARENTA"
+   ],
+   "destaque": [
+    "perdido",
+    "aí."
+   ]
+  }
+ ]
+}

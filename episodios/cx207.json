@@ -1,0 +1,276 @@
+{
+ "id": "cx207",
+ "ep": 207,
+ "avulso": true,
+ "titulo": "O VÔ DO PATINETE",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🛴 O avô de 81 anos viu um patinete elétrico e decidiu: quero andar nisso. A família proibiu. Ele chamou um carro e fugiu pro parque.\n\nQual coisa moderna seu avô ou avó quis experimentar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #humor #patinete #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🛴 O avô de 81 anos viu um patinete elétrico e decidiu: quero andar nisso. A família proibiu. Ele chamou um carro e fugiu pro parque. Qual coisa moderna seu avô ou avó quis experimentar? 👇\nHistória de ficção.\n#avo #humor #patinete #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma fuga radical. Com capacete, joelheira e oitenta e um anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "oitenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro da tarde. Entrou um senhor de oitenta e um anos, de capacete de bicicleta na cabeça, joelheira por cima da calça social e uma cara de criança aprontando.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 16H"
+   ],
+   "destaque": [
+    "criança",
+    "aprontando."
+   ]
+  },
+  {
+   "fala": "Disse: parque municipal, rápido, antes que a minha filha descubra. Eu perguntei: o senhor vai andar de bicicleta? Ele: não. De patinete.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Parque, rápido."
+   ],
+   "destaque": [
+    "bicicleta?",
+    "patinete."
+   ]
+  },
+  {
+   "fala": "Seu Alcides. Viu os jovens andando de patinete elétrico na rua e ficou encantado. Disse pra família que queria andar. A família inteira disse não.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ALCIDES"
+   ],
+   "destaque": [
+    "inteira",
+    "disse"
+   ]
+  },
+  {
+   "fala": "Riu: disseram que eu ia quebrar o fêmur. A minha filha, a médica da família, me mostrou um raio-x de fêmur quebrado. Pra me assustar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Disseram que eu ia quebrar o fêmur."
+   ],
+   "destaque": [
+    "quebrado.",
+    "assustar."
+   ]
+  },
+  {
+   "fala": "Mas ele pesquisou. Viu que dava pra alugar pelo celular no parque. Pediu pro neto ensinar a usar o aplicativo. Sem contar pra quê.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "contar",
+    "quê."
+   ]
+  },
+  {
+   "fala": "O neto sabia. Ele disse: o neto é meu cúmplice. Ele me emprestou o capacete e a joelheira. E vai me encontrar lá pra filmar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O neto é cúmplice."
+   ],
+   "destaque": [
+    "lá",
+    "filmar."
+   ]
+  },
+  {
+   "fala": "Chegamos no parque. O neto de dezesseis anos esperando na entrada, com o celular na mão, rindo. Do lado de uma fileira de patinetes.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "fileira",
+    "patinetes."
+   ]
+  },
+  {
+   "fala": "Eu estacionei e fui junto. Precisava ver aquilo. E se acontecesse alguma coisa, alguém precisava estar lá.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estar",
+    "lá."
+   ]
+  },
+  {
+   "fala": "O neto destravou o patinete pelo aplicativo. O seu Alcides subiu. Apertou o acelerador. E o patinete saiu. Sem ele. Ele ficou parado no chão.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A PRIMEIRA TENTATIVA"
+   ],
+   "destaque": [
+    "parado",
+    "chão."
+   ]
+  },
+  {
+   "fala": "Segunda tentativa: ele subiu, segurou firme, acelerou devagar. Andou cinco metros. A cinco por hora. Com a cara mais concentrada do mundo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "concentrada",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "O povo do parque começou a parar pra olhar. Umas crianças torcendo. Um casal de idosos no banco aplaudindo. Ele acenou e quase caiu.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "quase",
+    "caiu."
+   ]
+  },
+  {
+   "fala": "Na quinta volta, ele pegou o jeito. Começou a andar pela pista de caminhada. Devagar, mas firme. Fazendo curva. Rindo alto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELE PEGOU O JEITO"
+   ],
+   "destaque": [
+    "Rindo",
+    "alto."
+   ]
+  },
+  {
+   "fala": "Gritou pra mim: é igual cavalo, só que não morde! Ele tinha sido peão de fazenda na juventude.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É igual cavalo!"
+   ],
+   "destaque": [
+    "fazenda",
+    "juventude."
+   ]
+  },
+  {
+   "fala": "Aí o celular dele tocou. A filha. Ele atendeu andando de patinete. A filha perguntou: pai, onde o senhor tá? Ele: passeando.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "Ligação: Filha"
+   ],
+   "destaque": [
+    "tá?",
+    "passeando."
+   ]
+  },
+  {
+   "fala": "E aí ela ouviu o barulho. O vento. As crianças gritando: vai, vovô! Ela perguntou: pai, isso é um patinete?",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "isso",
+    "patinete?"
+   ]
+  },
+  {
+   "fala": "Ela gritou do outro lado: pai! O senhor tá de patinete?! Ele desligou. E acelerou. O neto morrendo de rir, filmando.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Pai!"
+   ],
+   "destaque": [
+    "rir,",
+    "filmando."
+   ]
+  },
+  {
+   "fala": "Vinte minutos depois, chegou a filha. Correndo. De jaleco ainda. Brava. Parou na pista. O pai vindo de patinete na direção dela.",
+   "expr": "rindo",
+   "arte": [
+    "relogio",
+    "20 MINUTOS DEPOIS"
+   ],
+   "destaque": [
+    "direção",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ele parou na frente dela. Desceu. Tirou o capacete. Disse: filha, eu passei a vida inteira com medo de tudo. Hoje eu fui feliz por vinte minutos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "vinte",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "A filha ficou quieta. Olhou pro pai, de joelheira, suado, sorrindo como menino. Respirou fundo. E disse: tá bom. Mas a próxima vez eu vou junto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "VINTE MINUTOS DE VENTO"
+   ],
+   "destaque": [
+    "vou",
+    "junto."
+   ]
+  },
+  {
+   "fala": "E foi. Na semana seguinte, a família inteira alugou patinete. Pai, filha, neto. Andando juntos no parque. Devagar. No ritmo do avô.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ritmo",
+    "avô."
+   ]
+  },
+  {
+   "fala": "Eu levei o seu Alcides pra casa naquele dia. Ele foi com o capacete no colo, ainda sorrindo. Disse: o fêmur ainda tá inteiro, viu?",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "inteiro,",
+    "viu?"
+   ]
+  },
+  {
+   "fala": "Moral da história: cuidar de quem a gente ama não é proibir tudo. É ir junto, de joelheira.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEIXA VIVER"
+   ],
+   "destaque": [
+    "junto,",
+    "joelheira."
+   ]
+  },
+  {
+   "fala": "E se seu avô quer experimentar alguma coisa nova, vai junto. Com capacete. E filma.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VÔ RADICAL"
+   ],
+   "destaque": [
+    "capacete.",
+    "filma."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "cx049",
+ "ep": 49,
+ "avulso": true,
+ "titulo": "A MANGUEIRA DA DISCÓRDIA",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🥭 Dois vizinhos brigados havia 20 anos por causa de uma mangueira dividiram meu carro… indo pro mesmo cartório.\n\nQual foi a briga de vizinho mais boba que você já viu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#vizinhos #amizade #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🥭 Dois vizinhos brigados havia 20 anos por causa de uma mangueira dividiram meu carro… indo pro mesmo cartório. Qual foi a briga de vizinho mais boba que você já viu? 👇\nHistória de ficção.\n#vizinhos #amizade #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve dois senhores, um muro e vinte anos de manga caída.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "manga",
+    "caída."
+   ]
+  },
+  {
+   "fala": "Sexta, cinco da tarde. Corrida compartilhada. Entrou um senhor de chapéu panamá, bengala, cara de poucos amigos.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "SEXTA · 17H"
+   ],
+   "destaque": [
+    "poucos",
+    "amigos."
+   ]
+  },
+  {
+   "fala": "Segunda parada. Mesma rua. Casa do lado. Entrou outro senhor, de boné, mesma idade, mesma cara.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Segunda parada: mesma rua"
+   ],
+   "destaque": [
+    "mesma",
+    "cara."
+   ]
+  },
+  {
+   "fala": "Os dois se olharam. E eu senti a temperatura do carro cair uns dez graus.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "dez",
+    "graus."
+   ]
+  },
+  {
+   "fala": "O do chapéu falou: logo você. O do boné respondeu: o carro não é seu, Alcides.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Logo você."
+   ],
+   "destaque": [
+    "seu,",
+    "Alcides."
+   ]
+  },
+  {
+   "fala": "Eu, inocente: os senhores se conhecem? Os dois ao mesmo tempo: infelizmente.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "tempo:",
+    "infelizmente."
+   ]
+  },
+  {
+   "fala": "Aí veio a história. Tinha uma mangueira no quintal do seu Alcides. Os galhos passavam pro quintal do seu Jorge.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A MANGUEIRA"
+   ],
+   "destaque": [
+    "seu",
+    "Jorge."
+   ]
+  },
+  {
+   "fala": "As mangas caíam do lado do Jorge. Ele dizia que eram dele. O Alcides dizia que a árvore era dele, então as mangas eram dele.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "As mangas caíam no meu lado."
+   ],
+   "destaque": [
+    "eram",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Vinte anos. Vinte anos de briga por manga. Teve reunião de associação, teve abaixo-assinado, teve até advogado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "até",
+    "advogado."
+   ]
+  },
+  {
+   "fala": "O do boné acusou: ele jogava caroço no meu telhado. O do chapéu: você que começou, roubando a manga mais bonita de mil novecentos e noventa e nove.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Ele jogou caroço no meu telhado."
+   ],
+   "destaque": [
+    "noventa",
+    "nove."
+   ]
+  },
+  {
+   "fala": "Eu tive que segurar o riso. Dois senhores de oitenta anos discutindo a manga de mil novecentos e noventa e nove como se fosse ontem.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "fosse",
+    "ontem."
+   ]
+  },
+  {
+   "fala": "Perguntei pra mudar de assunto: e os senhores vão pra onde? Os dois responderam juntos: cartório.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Pra onde os senhores vão?"
+   ],
+   "destaque": [
+    "juntos:",
+    "cartório."
+   ]
+  },
+  {
+   "fala": "Os dois estavam vendendo a casa. No mesmo dia. Sem um saber do outro. Iam morar com os filhos, em cidades diferentes.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "OS DOIS IAM VENDER A CASA"
+   ],
+   "destaque": [
+    "cidades",
+    "diferentes."
+   ]
+  },
+  {
+   "fala": "Ficaram em silêncio. Um olhando pra cada janela. Aí o do boné falou baixinho.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "falou",
+    "baixinho."
+   ]
+  },
+  {
+   "fala": "Sabe que eu vou sentir falta da briga, Alcides? Era a única coisa que eu tinha pra fazer de manhã.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Vou sentir falta da briga."
+   ],
+   "destaque": [
+    "fazer",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "O do chapéu demorou, mas respondeu: eu também. E sabe a manga de noventa e nove? Eu deixei cair pro seu lado de propósito.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu também, Jorge."
+   ],
+   "destaque": [
+    "lado",
+    "propósito."
+   ]
+  },
+  {
+   "fala": "Era de propósito. Por vinte anos o seu Alcides balançava o galho pra cair do lado do Jorge. Porque a esposa do Jorge fazia doce de manga.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "ERA DE PROPÓSITO"
+   ],
+   "destaque": [
+    "doce",
+    "manga."
+   ]
+  },
+  {
+   "fala": "E o Jorge, todo ano, mandava um pote de doce escondido, deixava no muro, sem bilhete. O Alcides sempre achou que era da filha.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "era",
+    "filha."
+   ]
+  },
+  {
+   "fala": "Os dois descobriram ali, no banco de trás, que passaram vinte anos brigando e se agradando escondido.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O DOCE ERA DELE"
+   ],
+   "destaque": [
+    "agradando",
+    "escondido."
+   ]
+  },
+  {
+   "fala": "Chegamos no cartório. Eles desceram juntos. Entraram juntos. Eu fiquei esperando, porque o Alcides pediu.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Alcides",
+    "pediu."
+   ]
+  },
+  {
+   "fala": "Saíram meia hora depois, rindo. Venderam as casas, mas fizeram um combinado: a muda da mangueira vai pro quintal do filho de um deles.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "filho",
+    "deles."
+   ]
+  },
+  {
+   "fala": "E as mangas? Dividem por WhatsApp. Uma foto pra cada manga que cair. O doce vai pelo correio.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Na casa do meu filho!"
+   ],
+   "destaque": [
+    "pelo",
+    "correio."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem briga que é só um jeito torto de se importar. Descobre isso antes da mudança.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FALA ANTES"
+   ],
+   "destaque": [
+    "antes",
+    "mudança."
+   ]
+  },
+  {
+   "fala": "E se você tem uma briga boba com algum vizinho, leva um pote de doce. Pode ser o fim de vinte anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MANGA DE 1999"
+   ],
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  }
+ ]
+}

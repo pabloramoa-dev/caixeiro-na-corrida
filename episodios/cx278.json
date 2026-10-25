@@ -1,0 +1,234 @@
+{
+ "id": "cx278",
+ "ep": 278,
+ "avulso": true,
+ "titulo": "A BIBLIOTECA DA GARAGEM",
+ "categoria": "superacao",
+ "cenario": "dia",
+ "legenda_post": "📚 Uma menina de 12 anos transformou a garagem da avó numa biblioteca comunitária. Com livros doados. Hoje, 3 anos depois, ela inaugurava a sede própria.\n\nQual livro você leu na infância e nunca esqueceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#biblioteca #leitura #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📚 Uma menina de 12 anos transformou a garagem da avó numa biblioteca comunitária. Com livros doados. Hoje, 3 anos depois, ela inaugurava a sede própria. Qual livro você leu na infância e nunca esqueceu? 👇\nHistória de ficção.\n#biblioteca #leitura #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a bibliotecária mais nova da cidade. Ela tem quinze anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "quinze",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da manhã. Entrou uma menina de quinze anos, óculos, cabelo trançado e uma caixa de livros no colo. Com a avó do lado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 9H"
+   ],
+   "destaque": [
+    "avó",
+    "lado."
+   ]
+  },
+  {
+   "fala": "Disse: é a inauguração da nossa biblioteca. A sede nova. A avó completou: começou na minha garagem. Agora vai ter casa própria.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a inauguração."
+   ],
+   "destaque": [
+    "casa",
+    "própria."
+   ]
+  },
+  {
+   "fala": "Chama-se Ana Clara. Aos doze anos, reparou que no bairro dela não tinha biblioteca. A mais perto ficava a uma hora de ônibus.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A BIBLIOTECA DA GARAGEM"
+   ],
+   "destaque": [
+    "hora",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Disse: as crianças da minha rua não liam. Não porque não queriam. Porque não tinha livro. Eu tinha uns trinta em casa. Pensei: vou emprestar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "As crianças não liam."
+   ],
+   "destaque": [
+    "vou",
+    "emprestar."
+   ]
+  },
+  {
+   "fala": "Pediu a garagem da avó. Colocou uma prateleira de madeira velha. Os trinta livros. E uma placa de papelão: biblioteca da Ana. Empréstimo grátis.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Empréstimo",
+    "grátis."
+   ]
+  },
+  {
+   "fala": "Riu: no primeiro dia veio um menino. Pegou um livro de dinossauro. Devolveu no dia seguinte e pegou outro. Depois trouxe a irmã.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "No primeiro dia veio um menino."
+   ],
+   "destaque": [
+    "trouxe",
+    "irmã."
+   ]
+  },
+  {
+   "fala": "A notícia correu. As pessoas começaram a doar livros. Os vizinhos, a escola, a igreja. Depois gente de outros bairros. Depois de outras cidades.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "outras",
+    "cidades."
+   ]
+  },
+  {
+   "fala": "Três anos depois: três mil livros. Quinhentas crianças cadastradas. A garagem não cabia mais. Tinha livro na sala da avó, na cozinha, no banheiro.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TRÊS MIL LIVROS"
+   ],
+   "destaque": [
+    "cozinha,",
+    "banheiro."
+   ]
+  },
+  {
+   "fala": "A avó riu: tinha livro até no banheiro. Eu ia tomar banho e tinha uma enciclopédia em cima da descarga.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Até no banheiro."
+   ],
+   "destaque": [
+    "cima",
+    "descarga."
+   ]
+  },
+  {
+   "fala": "Uma empresa do bairro viu a história. E ofereceu uma sala comercial. Pra ser a sede da biblioteca. Com estante, mesa e computador.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesa",
+    "computador."
+   ]
+  },
+  {
+   "fala": "Chegamos na sede nova. Uma sala grande, de vidro na frente. Pintada de colorido. Na fachada, uma placa de verdade: Biblioteca Comunitária Ana Clara.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Ana",
+    "Clara."
+   ]
+  },
+  {
+   "fala": "E na frente, uma fila. De crianças. Umas duzentas. Com livro na mão. Livro da biblioteca da garagem. Que elas vieram devolver na sede nova.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "sede",
+    "nova."
+   ]
+  },
+  {
+   "fala": "E na frente da fila, um menino de uns doze anos. Segurando um livro de dinossauro. O primeiro leitor. Agora três anos mais velho.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O PRIMEIRO LEITOR"
+   ],
+   "destaque": [
+    "mais",
+    "velho."
+   ]
+  },
+  {
+   "fala": "Ele disse pra Ana Clara: eu li todos os livros de dinossauro que você tinha. Agora eu quero ser paleontólogo. Vim devolver o primeiro.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu quero ser paleontólogo."
+   ],
+   "destaque": [
+    "devolver",
+    "primeiro."
+   ]
+  },
+  {
+   "fala": "A Ana Clara pegou o livro. Gasto, com a capa colada de fita. E colocou na primeira prateleira da sede nova. Com uma plaquinha: o primeiro empréstimo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O LIVRO DE DINOSSAURO"
+   ],
+   "destaque": [
+    "primeiro",
+    "empréstimo."
+   ]
+  },
+  {
+   "fala": "A avó dela cortou a fita da inauguração. Disse que a neta merecia. Mas a neta disse: corta a senhora. A garagem era sua.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "sua."
+   ]
+  },
+  {
+   "fala": "Eu deixei três livros que eu tinha no porta-malas. Dois de receita da Rosângela e um de futebol meu. A Ana Clara catalogou na hora.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "catalogou",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Moral da história: trinta livros numa garagem podem virar uma biblioteca. Só precisa de alguém que comece.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "COMEÇA PEQUENO"
+   ],
+   "destaque": [
+    "alguém",
+    "comece."
+   ]
+  },
+  {
+   "fala": "E se você tem livro parado em casa, procura uma biblioteca comunitária. Pode virar o primeiro empréstimo de alguém.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ANA CLARA"
+   ],
+   "destaque": [
+    "empréstimo",
+    "alguém."
+   ]
+  }
+ ]
+}

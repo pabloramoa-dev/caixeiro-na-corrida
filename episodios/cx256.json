@@ -1,0 +1,257 @@
+{
+ "id": "cx256",
+ "ep": 256,
+ "avulso": true,
+ "titulo": "O AMOR DA LAVANDERIA",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🧺 Toda quinta, às 21h, os dois lavavam roupa na mesma lavanderia de autosserviço. Um ano sem se falar. Até as máquinas trocarem as roupas deles.\n\nQual foi o lugar mais comum onde você já se apaixonou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #lavanderia #timidez #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧺 Toda quinta, às 21h, os dois lavavam roupa na mesma lavanderia de autosserviço. Um ano sem se falar. Até as máquinas trocarem as roupas deles. Qual foi o lugar mais comum onde você já se apaixonou? 👇\nHistória de ficção.\n#amor #lavanderia #timidez #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma sacola de roupa trocada. E um amor centrifugado.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "amor",
+    "centrifugado."
+   ]
+  },
+  {
+   "fala": "Quinta, dez da noite. Entrou uma moça de uns trinta anos com uma sacola de roupa limpa. Desesperada. Disse: lavanderia da rua tal. De volta. Rápido.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 22H"
+   ],
+   "destaque": [
+    "volta.",
+    "Rápido."
+   ]
+  },
+  {
+   "fala": "Explicou: essa roupa não é minha. Eu peguei a sacola errada. Tem camisa de homem, cueca, meia de futebol. E a minha tá com ele.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Essa roupa não é minha."
+   ],
+   "destaque": [
+    "minha",
+    "tá"
+   ]
+  },
+  {
+   "fala": "Chama-se Bruna. Toda quinta, às nove da noite, lava a roupa numa lavanderia de autosserviço perto de casa. Há um ano.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A LAVANDERIA DE QUINTA"
+   ],
+   "destaque": [
+    "Há",
+    "ano."
+   ]
+  },
+  {
+   "fala": "E todo quinta, na mesma hora, um rapaz de óculos também lava. Na máquina do lado. Com um livro na mão. Os dois nunca se falaram.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nunca",
+    "falaram."
+   ]
+  },
+  {
+   "fala": "Riu: eu sei a marca do sabão dele. Sei que ele lê ficção científica. Sei que ele usa meia de time. Mas não sei o nome dele.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sei a marca do sabão dele."
+   ],
+   "destaque": [
+    "nome",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Naquela quinta, ela saiu com pressa. Pegou a sacola da secadora do lado. Achando que era a dela. As duas sacolas eram azuis.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "eram",
+    "azuis."
+   ]
+  },
+  {
+   "fala": "Voltamos pra lavanderia. Vazia. Fechada às dez. Nada do rapaz. Nada da sacola dela.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "sacola",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ela disse: a minha camisa favorita tava lá. A que eu ganhei da minha avó. E ele não sabe quem eu sou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A minha camisa favorita."
+   ],
+   "destaque": [
+    "quem",
+    "sou."
+   ]
+  },
+  {
+   "fala": "Aí ela olhou a sacola dele. Tinha uma etiqueta de lavanderia antiga. Com um nome: Rafael. E um endereço. Três quadras dali.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "A PISTA"
+   ],
+   "destaque": [
+    "quadras",
+    "dali."
+   ]
+  },
+  {
+   "fala": "Ela perguntou: o senhor me leva? Eu tenho vergonha de ir sozinha. Eu disse: levo. E fico no carro, de olho.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vamos lá?"
+   ],
+   "destaque": [
+    "carro,",
+    "olho."
+   ]
+  },
+  {
+   "fala": "Chegamos num prédio pequeno. Ela tocou o interfone. Uma voz de homem atendeu. Ela gaguejou: oi, eu acho que a gente trocou de roupa. Na lavanderia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "roupa.",
+    "lavanderia."
+   ]
+  },
+  {
+   "fala": "Silêncio no interfone. Depois: a moça da quinta? E desceu. O rapaz de óculos. Com uma sacola azul na mão. A dela.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mão.",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ele disse: eu percebi quando cheguei em casa. Fiquei olhando a sua camisa estampada e pensei: é da moça de quinta. Eu ia levar semana que vem.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELE TAMBÉM PERCEBEU"
+   ],
+   "destaque": [
+    "semana",
+    "vem."
+   ]
+  },
+  {
+   "fala": "Ela disse, sem pensar: eu sei que você lê ficção científica. Ele ficou vermelho. E respondeu: e eu sei que você sempre esquece uma meia na máquina.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sei que você lê ficção científica."
+   ],
+   "destaque": [
+    "meia",
+    "máquina."
+   ]
+  },
+  {
+   "fala": "Os dois riram. Trocaram as sacolas. E ficaram parados na calçada. Com a sacola na mão. Sem ir embora.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ir",
+    "embora."
+   ]
+  },
+  {
+   "fala": "Ele disse: a camisa de flores. Eu dobrei com cuidado. Parecia importante. Ela disse: era da minha avó. Ela morreu ano passado.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CAMISA DA AVÓ"
+   ],
+   "destaque": [
+    "ano",
+    "passado."
+   ]
+  },
+  {
+   "fala": "Ele disse: tem uma padaria aberta até meia-noite aqui do lado. Quer um café? Ela olhou pra mim no carro. Eu fiz sinal de positivo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "UM CAFÉ"
+   ],
+   "destaque": [
+    "sinal",
+    "positivo."
+   ]
+  },
+  {
+   "fala": "Eu fui embora. Ela pagou a corrida pelo aplicativo e escreveu no comentário: obrigada por me levar. E por esperar. Deu certo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Deu",
+    "certo."
+   ]
+  },
+  {
+   "fala": "Um ano depois, me chamaram pra uma mudança pequena. Duas sacolas azuis. Pro mesmo apartamento. Agora lavam roupa juntos. Na mesma máquina.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mesma",
+    "máquina."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o destino precisa trocar as roupas pra você ter coragem de puxar conversa.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FALA NA LAVANDERIA"
+   ],
+   "destaque": [
+    "puxar",
+    "conversa."
+   ]
+  },
+  {
+   "fala": "E se você vê sempre a mesma pessoa no mesmo lugar, fala oi. Não espera trocar de roupa.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SACOLA AZUL"
+   ],
+   "destaque": [
+    "trocar",
+    "roupa."
+   ]
+  }
+ ]
+}

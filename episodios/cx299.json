@@ -1,0 +1,243 @@
+{
+ "id": "cx299",
+ "ep": 299,
+ "avulso": true,
+ "titulo": "A CAIXA DE FÓSFOROS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🔥 Numa casa demolida, um pedreiro achou uma caixa de fósforos de 1950. Dentro, não tinha fósforo. Tinha um anel e um bilhete.\n\nVocê já achou algo misterioso numa casa antiga? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#misterio #achado #historias #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🔥 Numa casa demolida, um pedreiro achou uma caixa de fósforos de 1950. Dentro, não tinha fósforo. Tinha um anel e um bilhete. Você já achou algo misterioso numa casa antiga? 👇\nHistória de ficção.\n#misterio #achado #historias #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma caixa de fósforos que guardava um segredo de setenta e seis anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "seis",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Terça, cinco da tarde. Entrou um pedreiro de uns quarenta anos, uniforme sujo de cimento, segurando uma caixinha de fósforos antiga, de papel, amarelada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 17H"
+   ],
+   "destaque": [
+    "papel,",
+    "amarelada."
+   ]
+  },
+  {
+   "fala": "Disse: achei isso dentro de uma parede. Numa demolição. Ela tava escondida entre dois tijolos. Lá no fundo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Achei isso na parede."
+   ],
+   "destaque": [
+    "Lá",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "Uma caixa de fósforos de mil novecentos e cinquenta. Marca antiga, que nem existe mais. Ele abriu com cuidado. Dentro, um anel de ouro simples e um papelzinho dobrado.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A CAIXA DE 1950"
+   ],
+   "destaque": [
+    "papelzinho",
+    "dobrado."
+   ]
+  },
+  {
+   "fala": "O bilhete dizia: pra Jandira. Se um dia você achar isso, eu ia te pedir em casamento. Não tive coragem. Desculpa. Zeca.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Desculpa.",
+    "Zeca."
+   ]
+  },
+  {
+   "fala": "O pedreiro disse: o Zeca nunca entregou. Escondeu na parede. Setenta e seis anos dentro de um tijolo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele nunca entregou."
+   ],
+   "destaque": [
+    "dentro",
+    "tijolo."
+   ]
+  },
+  {
+   "fala": "Chama-se Reginaldo. Disse que não conseguia jogar fora. Que precisava saber quem eram a Jandira e o Zeca. Se ainda estavam vivos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estavam",
+    "vivos."
+   ]
+  },
+  {
+   "fala": "Ele perguntou pros vizinhos da casa demolida. Uma senhora de noventa anos lembrou. Disse: o Zeca morava ali. Era pedreiro também. A Jandira era a moça da casa da frente.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A INVESTIGAÇÃO"
+   ],
+   "destaque": [
+    "casa",
+    "frente."
+   ]
+  },
+  {
+   "fala": "O Reginaldo perguntou: e o que aconteceu com os dois? A senhora disse: a Jandira casou com outro. O Zeca nunca casou. Morreu solteiro. Faz trinta anos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o que aconteceu?"
+   ],
+   "destaque": [
+    "trinta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Mas a Jandira, a senhora sabia, estava viva. Com noventa e quatro anos. Morando com a filha num bairro perto. E ele estava indo lá. Comigo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "lá.",
+    "Comigo."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa simples. A filha, de uns setenta anos, abriu a porta. Desconfiada. O Reginaldo explicou. Ela chamou a mãe.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "chamou",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "A dona Jandira veio de andador. Pequenininha. Óculos grossos. Sentou no sofá. O Reginaldo se ajoelhou e entregou a caixa de fósforos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "caixa",
+    "fósforos."
+   ]
+  },
+  {
+   "fala": "Ela olhou a caixa. Abriu. Viu o anel. Leu o bilhete. E levou a mão no peito. Disse: o Zeca. O Zeca da casa da frente.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA RECONHECEU"
+   ],
+   "destaque": [
+    "casa",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Contou: eu esperei ele pedir. Dois anos. Ele vinha, conversava no portão, ficava vermelho, ia embora. Eu achei que ele não gostava de mim.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O QUE ELA CONTOU"
+   ],
+   "destaque": [
+    "gostava",
+    "mim."
+   ]
+  },
+  {
+   "fala": "E disse: eu teria dito sim. Eu gostava dele. Mas ele nunca falou. E o meu pai arranjou outro noivo. Eu casei. Fui feliz. Mas pensei no Zeca a vida inteira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu teria dito sim."
+   ],
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "A filha dela, do lado, chorando. Disse: mãe, a senhora nunca contou isso. A mãe respondeu: não tinha o que contar. Até hoje.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "A dona Jandira colocou o anel. No dedo mindinho, que era o único que cabia. Disse: setenta e seis anos depois, Zeca. Eu aceito.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O ANEL NO DEDO"
+   ],
+   "destaque": [
+    "Zeca.",
+    "aceito."
+   ]
+  },
+  {
+   "fala": "O Reginaldo chorou ajoelhado no tapete. Um pedreiro de quarenta anos. Disse: eu achei que era só uma caixa de fósforos. Era uma vida inteira.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vida",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Na volta, ele me disse: agora toda demolição eu vou olhar entre os tijolos. Vai que tem mais algum Zeca escondido.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Zeca",
+    "escondido."
+   ]
+  },
+  {
+   "fala": "Moral da história: não esconde na parede o que precisa ser dito. A resposta podia ser sim.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "FALA ENQUANTO DÁ"
+   ],
+   "destaque": [
+    "ser",
+    "sim."
+   ]
+  },
+  {
+   "fala": "E se você tem uma pergunta guardada há muito tempo, faz. Hoje. Não deixa pra um pedreiro achar daqui a setenta anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ZECA E JANDIRA"
+   ],
+   "destaque": [
+    "setenta",
+    "anos."
+   ]
+  }
+ ]
+}

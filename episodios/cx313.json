@@ -1,0 +1,244 @@
+{
+ "id": "cx313",
+ "ep": 313,
+ "avulso": true,
+ "titulo": "A FOTO DO RG",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🪪 Ele odiava a foto do RG havia trinta anos. Foi tirar outra. Ensaiou pose no meu carro o caminho inteiro. O resultado foi pior.\n\nVocê gosta da foto do seu documento? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #documento #foto #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🪪 Ele odiava a foto do RG havia trinta anos. Foi tirar outra. Ensaiou pose no meu carro o caminho inteiro. O resultado foi pior. Você gosta da foto do seu documento? 👇\nHistória de ficção.\n#humor #documento #foto #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida virou um estúdio de fotografia. Com o retrovisor de espelho.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "retrovisor",
+    "espelho."
+   ]
+  },
+  {
+   "fala": "Terça, oito da manhã. Entrou um senhor de uns sessenta e cinco anos, cabelo penteado com gel, camisa social passada, perfume forte. Arrumado pra casamento.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 8H"
+   ],
+   "destaque": [
+    "Arrumado",
+    "casamento."
+   ]
+  },
+  {
+   "fala": "Disse: vou no posto tirar a foto do RG. A nova. Esperei trinta anos por esse dia.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vou tirar a foto do RG."
+   ],
+   "destaque": [
+    "esse",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Seu Sinval. Tirou a foto do RG em mil novecentos e noventa e quatro. Com bigode, cabelo molhado e cara de quem levou um susto.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU SINVAL"
+   ],
+   "destaque": [
+    "levou",
+    "susto."
+   ]
+  },
+  {
+   "fala": "Me mostrou o documento. Eu ri. Não deu pra segurar. Ele parecia um procurado de filme de faroeste. Ele disse: viu? Até você riu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Olha isso."
+   ],
+   "destaque": [
+    "você",
+    "riu."
+   ]
+  },
+  {
+   "fala": "Disse: em todo lugar riem. No banco, na farmácia, no posto de saúde. A moça do caixa chamou a colega pra ver.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "No banco riem de mim."
+   ],
+   "destaque": [
+    "colega",
+    "ver."
+   ]
+  },
+  {
+   "fala": "Aí ele abaixou o quebra-sol e começou a ensaiar. No espelhinho. Sorriso aberto. Sorriso fechado. Meio sorriso. Sobrancelha levantada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Sobrancelha",
+    "levantada."
+   ]
+  },
+  {
+   "fala": "Ele virava pra mim no sinal: qual tá melhor? Essa ou essa? Eu não via diferença nenhuma. Dizia: a segunda. Ele: eu acho a primeira.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Qual tá melhor?"
+   ],
+   "destaque": [
+    "acho",
+    "primeira."
+   ]
+  },
+  {
+   "fala": "Testou o lado bom do rosto. Disse que era o esquerdo. Depois mudou de ideia. Era o direito. No fim disse que não tinha lado bom.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "lado",
+    "bom."
+   ]
+  },
+  {
+   "fala": "Chegamos no posto de identificação. Ele pediu pra eu esperar. Disse: quero que você veja o resultado. Você é testemunha.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Você",
+    "testemunha."
+   ]
+  },
+  {
+   "fala": "Entrei com ele. Fila de meia hora. Ele ensaiando a pose na fila. As pessoas olhando. Uma criança imitou ele. Ele achou que era elogio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "elogio."
+   ]
+  },
+  {
+   "fala": "Na hora da foto, a moça disse: senhor, não pode sorrir. Tem que ser expressão neutra. Boca fechada. Olhando reto.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A REGRA"
+   ],
+   "destaque": [
+    "Olhando",
+    "reto."
+   ]
+  },
+  {
+   "fala": "Ele ficou indignado: como assim não pode sorrir? Eu ensaiei meia hora! A moça disse: regra é regra. Expressão neutra.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Como assim não pode sorrir?"
+   ],
+   "destaque": [
+    "Expressão",
+    "neutra."
+   ]
+  },
+  {
+   "fala": "Ele tentou fazer cara neutra. Mas ele nunca tinha feito cara neutra na vida. Saiu uma cara de quem está segurando espirro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "segurando",
+    "espirro."
+   ]
+  },
+  {
+   "fala": "Clique. A moça virou a tela. Ele olhou. Eu olhei. Era pior que a de mil novecentos e noventa e quatro. Muito pior.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Muito",
+    "pior."
+   ]
+  },
+  {
+   "fala": "Ele parecia o mesmo procurado do faroeste. Só que trinta anos mais velho. E com gel no cabelo. A moça do posto mordeu a boca pra não rir.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "O RESULTADO"
+   ],
+   "destaque": [
+    "boca",
+    "rir."
+   ]
+  },
+  {
+   "fala": "Ele perguntou: dá pra tirar outra? A moça disse: só daqui a dez anos, senhor. Ele saiu do posto em silêncio.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Dá pra tirar outra?"
+   ],
+   "destaque": [
+    "posto",
+    "silêncio."
+   ]
+  },
+  {
+   "fala": "No carro, ele olhou o protocolo por um tempo. Depois começou a rir. Riu tanto que chorou. E disse: pelo menos agora a foto combina comigo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "combina",
+    "comigo."
+   ]
+  },
+  {
+   "fala": "E disse: daqui a dez anos eu volto. E vou treinar cara neutra até lá. Todo dia no espelho. Dez anos de treino.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Daqui a dez anos eu volto."
+   ],
+   "destaque": [
+    "anos",
+    "treino."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem coisa que não dá pra controlar. Nem a foto do documento. O jeito é rir junto.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "RI DE SI MESMO"
+   ],
+   "destaque": [
+    "rir",
+    "junto."
+   ]
+  },
+  {
+   "fala": "E me conta aí nos comentários: a foto do seu documento é boa ou é de procurado? Eu sei que a minha é de procurado.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MOSTRA A SUA FOTO"
+   ],
+   "destaque": [
+    "minha",
+    "procurado."
+   ]
+  }
+ ]
+}

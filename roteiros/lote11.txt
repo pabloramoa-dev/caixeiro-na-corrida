@@ -1,0 +1,278 @@
+## 125 | O PIPOQUEIRO DO ESTÁDIO | futebol | noite
+G: 🍿 Ele vende pipoca no mesmo estádio onde, há 30 anos, fez o gol de um título. Ninguém reconhece. Até aparecer no telão.
+P: Qual ídolo antigo do seu time você queria reencontrar?
+H: #futebol #idolo #gratidao
+neutra | titulo | Sobe aí, que essa corrida levou um campeão com um carrinho de pipoca.
+neutra | relogio: QUARTA · 18H | Quarta, seis da tarde. Entrou um senhor de uns sessenta anos com um carrinho de pipoca desmontado e um avental amarelo. Pediu pra ir pro estádio.
+rindo | conversa: Dia de jogo é dia de pipoca. | Disse: dia de jogo é dia de pipoca. Eu vendo na rampa do portão três. Há quinze anos.
+neutra | carimbo: SEU JAIRZINHO | Seu nome: Jair. Mas no estádio, todo mundo chamava de seu Jairzinho da pipoca. Doce, salgada e mista.
+desconfiada | - | No meio do caminho, passamos por um muro grafitado com o escudo do time e uma data antiga. Ele ficou olhando, sorrindo meio de lado.
+desconfiada | conversa: O senhor torce desde quando? | Perguntei: o senhor torce desde quando? Ele demorou: eu não torço. Eu joguei.
+chocada | manchete: CAMPEÃO EM 1994 | Ele foi ponta-direita do time em mil novecentos e noventa e quatro. E fez o gol do título estadual. Aos quarenta e três do segundo tempo.
+triste | - | Disse que depois teve uma lesão no joelho, foi jogar em time pequeno, o dinheiro acabou. E ninguém mais lembrou dele.
+triste | conversa: Voltei como pipoqueiro. | Contou sem mágoa: eu voltei pro estádio como pipoqueiro. Gosto de ouvir a torcida. Mas ninguém me reconhece. E tá bom assim.
+neutra | mapa | Chegamos. Ele montou o carrinho na rampa do portão três. Eu fiquei um pouco pra comprar uma pipoca mista. Ele não deixou eu pagar.
+neutra | - | Aí um menino de uns doze anos parou pra comprar pipoca. Olhou bem pro seu Jair. Olhou de novo. Puxou o celular.
+chocada | conversa: O senhor é o Jair do gol de 94? | Perguntou: o senhor é o Jair? O do gol de noventa e quatro? O meu avô tem o pôster do senhor no quarto até hoje.
+neutra | - | O seu Jair riu nervoso: era, meu filho. Hoje sou o Jair da pipoca. O menino pediu foto. E postou.
+chocada | relogio: 40 MINUTOS DEPOIS | Quarenta minutos depois, já dentro do jogo, eu ouvindo pelo rádio do carro, o locutor falou uma coisa estranha.
+chocada | manchete: O TELÃO | Disse: atenção, torcida! O clube acaba de descobrir que um campeão de noventa e quatro está aqui. No portão três. Vendendo pipoca.
+neutra | - | O vídeo do menino tinha chegado no clube. E alguém do marketing correu até a rampa e levou ele pra beira do campo. De avental amarelo.
+triste | carimbo: O ESTÁDIO DE PÉ | O telão mostrou o gol de noventa e quatro. Depois mostrou ele, de avental, chorando. Quarenta mil pessoas de pé gritando: Jair! Jair! Jair!
+triste | - | Eu vi o vídeo depois. Ele tirou o avental e levantou o braço igual na comemoração do gol. Trinta anos depois.
+rindo | conversa: O avô do menino ligou. | Depois o menino me contou que o avô dele estava assistindo em casa e chorou mais que no título.
+triste | coracao: CAMPEÃO DE NOVO | O clube convidou ele pra ser embaixador do time. Pra contar a história pros meninos da base. Sem precisar largar a pipoca, que ele não quis largar.
+neutra | carro | Busquei ele depois do jogo. Entrou com o carrinho e uma camisa nova com o número sete e o nome dele. Disse: hoje eu fiz outro gol.
+neutra | manchete_v: LEMBRA DE QUEM FEZ | Moral da história: o tempo esquece. Mas sempre tem um menino que lembra. Cuida dos seus ídolos.
+rindo | coracao: PIPOCA MISTA | E se você for no estádio, compra uma pipoca e puxa conversa com o pipoqueiro. Pode ser um campeão.
+
+## 126 | O FILHO DE PORTUGAL | familia | dia
+G: ✈️ Ele foi pra Portugal há 15 anos e nunca voltou. Desembarcou de surpresa e me pediu pra levar até a feira onde a mãe vende verdura.
+P: Quanto tempo você já ficou longe de quem ama?
+H: #saudade #mae #reencontro
+neutra | titulo | Sobe aí, que essa corrida terminou numa barraca de alface, com a maior colheita de saudade que eu já vi.
+neutra | relogio: SÁBADO · 6H30 | Sábado, seis e meia da manhã. Aeroporto. Entrou um homem de uns quarenta anos com duas malas e uma cara de quem não dormiu na viagem.
+neutra | conversa: Feira do bairro, por favor. | Pediu: feira livre do bairro tal, rua tal. Eu estranhei: do aeroporto direto pra feira? Ele sorriu: é onde a minha mãe tá.
+neutra | carimbo: QUINZE ANOS FORA | Chama-se Reinaldo. Foi pra Portugal aos vinte e cinco tentar a vida. Trabalhou em obra, em restaurante, em fábrica. Ficou quinze anos.
+triste | conversa: Ela acha que eu chego em dezembro. | Disse: ela acha que eu chego em dezembro. Eu falei isso pra fazer surpresa. Faz quinze anos que eu prometo e não venho.
+triste | - | Contou que primeiro não tinha dinheiro. Depois não tinha documento. Depois tinha vergonha de voltar sem ter ficado rico.
+neutra | - | A mãe dele, dona Benedita, vende verdura na mesma barraca da feira há quarenta anos. Foi com essa barraca que ela criou os quatro filhos.
+rindo | conversa: Ela grita o preço do alface. | Ele riu: ela grita alface fresquinha, dois por três. Eu ouço essa voz no meu sonho até hoje.
+neutra | mapa | Chegamos na feira. Barulho, cheiro de fruta, gente com carrinho. Ele pediu pra eu esperar com as malas no carro.
+neutra | - | Mas eu fiquei curioso. Tranquei o carro e fui atrás dele, de longe, no meio das barracas.
+chocada | - | E aí eu ouvi. Uma voz de senhora, alta, rouca: alface fresquinha, dois por três! Ele parou no meio da feira.
+neutra | carimbo: DE BONÉ E ÓCULOS | Ele colocou um boné e óculos escuros. E entrou na fila da barraca dela, como um cliente qualquer.
+desconfiada | conversa: Dois alfaces, senhora. | Chegou a vez dele. Disse com a voz grossa: dois alfaces, senhora. Ela pegou, embrulhou no jornal, e esticou o braço.
+chocada | manchete: ELA RECONHECEU A MÃO | E parou. Olhou a mão dele. Uma cicatriz na mão esquerda, de quando ele caiu da bicicleta aos dez anos. Ela reconheceu a mão.
+chocada | - | Largou o alface. Tirou os óculos dele com as duas mãos. E falou só o nome: Reinaldo.
+triste | - | A feira inteira parou. As outras feirantes, que conheciam a história, largaram tudo. Uma delas começou a chorar antes da própria mãe.
+triste | coracao: QUINZE ANOS | A dona Benedita abraçou o filho por cima da banca de verdura. Derrubou as cenouras, o cheiro-verde, as alfaces. Ninguém juntou nada.
+rindo | conversa: Você engordou. | Depois de um tempão, ela afastou ele, olhou de cima a baixo e disse: você engordou. E ele riu chorando: a senhora não mudou nada, mãe.
+rindo | - | O vizinho de barraca gritou: hoje a alface é de graça! A dona Benedita voltou a si e respondeu: de graça nada, é dois por três!
+neutra | - | Ele passou a manhã inteira na barraca, de avental, vendendo verdura com a mãe. Gritando junto: alface fresquinha.
+neutra | carro | Ao meio-dia levei os dois pra casa. Com as malas e a banca desmontada. Ela segurando a mão dele, a da cicatriz, o caminho todo.
+neutra | manchete_v: VOLTA | Moral da história: mãe não precisa que você volte rico. Precisa só que você volte.
+rindo | coracao: DOIS POR TRÊS | E se você está longe de casa, liga hoje. E se der, aparece de surpresa numa feira de sábado.
+
+## 127 | O REI DO BINGO | humor | noite
+G: 🎱 Um senhor de 84 anos foi ao bingo da paróquia e ganhou o prêmio principal: uma geladeira. Detalhe: ele foi de aplicativo.
+P: Qual foi o prêmio mais inesperado que alguém da sua família ganhou?
+H: #bingo #humor #idosos
+neutra | titulo | Sobe aí, que essa corrida voltou com um passageiro a mais. De dois metros, branco e gelado.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Levei um senhor de oitenta e quatro anos pro bingo da paróquia. Seu Aníbal. Camisa de botão, boina e doze cartelas na mão.
+rindo | conversa: Eu sempre ganho. | Disse: eu sempre ganho, moço. Ganhei um liquidificador, um ventilador, uma bicicleta e três cestas básicas. A paróquia já tem medo de mim.
+rindo | carimbo: O PRÊMIO DA NOITE | O prêmio principal daquela noite era uma geladeira. Duas portas. Doação de uma loja do bairro.
+ironica | conversa: E se o senhor ganhar? | Eu brinquei: e se o senhor ganhar a geladeira, como leva? Ele riu: aí eu te chamo. Eu ri também. Não devia.
+neutra | relogio: 22H | Às dez da noite, o celular tocou. Seu Aníbal. Gritando. Eu ouvi um monte de gente rindo atrás.
+rindo | conversa: Ganhei a geladeira! | Ganhei a geladeira, motorista! Vem me buscar! Com ela! Eu fiquei olhando o telefone pensando que era pegadinha.
+neutra | mapa | Fui. Na porta da paróquia, o seu Aníbal sentado numa cadeira de plástico. E do lado dele, ainda embalada no papelão, uma geladeira de dois metros.
+rindo | - | Os paroquianos em volta. O padre rindo. Uma senhora dizendo que ele tem pacto com santo. Ele dizendo que é estratégia.
+chocada | carimbo: NÃO CABE | Eu olhei pra geladeira. Olhei pro meu carro. Um sedan. Disse: seu Aníbal, isso não cabe nem se eu tirar os bancos.
+rindo | conversa: Amarra no teto. | Ele sugeriu: amarra no teto. Eu disse: não. Ele: amarra de lado. Eu: não. Ele: então eu levo no colo. Todo mundo riu.
+neutra | - | O padre lembrou que o sacristão tinha uma caminhonete. Mas estava sem gasolina. Os paroquianos fizeram vaquinha ali mesmo. Juntaram pra gasolina.
+rindo | carimbo: O COMBOIO | Saímos em comboio. A caminhonete do sacristão com a geladeira na caçamba, amarrada com corda de varal. E eu atrás, com o seu Aníbal no banco de trás, orgulhoso.
+rindo | - | Ele abriu a janela e ia acenando pras pessoas na rua. Como se fosse desfile. Apontando pra caçamba: ganhei no bingo!
+neutra | mapa | Chegamos na casa dele. Uma casinha pequena. Abrimos a porta da cozinha. E lá estava a geladeira antiga dele. Funcionando. Novinha.
+chocada | conversa: Mas o senhor tem geladeira. | Eu falei: seu Aníbal, mas o senhor já tem geladeira. Nova. Pra que outra? Ele ficou sério pela primeira vez na noite.
+triste | carimbo: NÃO ERA PRA ELE | Disse: não é pra mim. É pra dona Cotinha, da casa do lado. A geladeira dela quebrou faz um mês. Ela guarda a insulina num isopor.
+triste | - | Ele jogava todo sábado pra ganhar alguma coisa pra alguém. O liquidificador foi pra uma vizinha. A bicicleta pra um menino da rua. As cestas, pra quem precisava.
+triste | coracao: O REI DO BINGO | O rei do bingo nunca ficava com nada. Os paroquianos olhando sem saber o que dizer. O padre tirou a boina, emocionado.
+rindo | - | Levamos a geladeira pra casa do lado. A dona Cotinha abriu a porta de camisola. Viu a geladeira. Viu ele. E disse: Aníbal, você jogou de novo?
+rindo | conversa: Joguei. E ganhei. | Ele respondeu: joguei. E ganhei. Agora me dá um café que eu tô cansado de carregar geladeira. Ele não carregou nada.
+neutra | carro | Eu fui embora quase meia-noite. Ele me deu uma cartela do bingo de presente. Disse: guarda, que dá sorte. Eu guardei.
+neutra | manchete_v: JOGA PELOS OUTROS | Moral da história: tem gente que tem sorte. E tem gente que divide a sorte com a rua inteira.
+rindo | coracao: SEU ANÍBAL | E se você ganhar alguma coisa hoje, pensa: quem do seu lado tá precisando mais?
+
+## 128 | OS BILHETES NO VARAL | amor | dia
+G: 👕 Os varais dos dois prédios ficavam frente a frente. Durante um ano, eles trocaram bilhetes presos com pregador. Nunca tinham se visto de perto.
+P: Qual a forma mais criativa de paquera que você conhece?
+H: #amor #vizinhos #bilhetes
+neutra | titulo | Sobe aí, que essa corrida levou o mensageiro de um amor de pregador de roupa.
+neutra | relogio: DOMINGO · 10H | Domingo, dez da manhã. Entrou um rapaz de uns trinta anos com uma caixa de sapato cheia de papel e um pregador de roupa preso no bolso da camisa.
+rindo | conversa: Vou conhecer minha vizinha. | Disse: vou conhecer a minha vizinha. Pessoalmente. Pela primeira vez. Eu perguntei: e ela mora longe? Ele riu: mora na frente.
+neutra | carimbo: OS DOIS VARAIS | Chama-se Bruno. Mora no quarto andar de um prédio. No prédio da frente, também no quarto andar, a área de serviço dava de frente pra dele. Os varais quase se encostavam.
+rindo | - | Um dia, um pregador com uma meia dela voou e caiu no varal dele. Ele devolveu, jogando de volta. Com um bilhete: acho que isso é seu.
+rindo | conversa: Ela respondeu no dia seguinte. | No dia seguinte, tinha um bilhete preso no varal dela, virado pra ele: obrigada. A meia era a favorita. Me chamo Carol.
+rindo | carimbo: UM ANO DE BILHETES | Começou. Um bilhete por dia. Preso no varal com pregador. Ele lia com binóculo. Ela também. Um ano inteiro.
+neutra | - | Abriu a caixa pra me mostrar. Centenas de bilhetes. Sobre o dia, sobre filme, sobre o trabalho, sobre o medo de altura dela.
+desconfiada | conversa: E nunca se viram? | Eu perguntei: e vocês nunca se encontraram? Ele disse: de longe sim. Ela acena. Eu aceno. Mas de perto, nunca.
+triste | conversa: A gente tinha medo de estragar. | Os dois tinham medo de estragar. Disse: no papel é perfeito. E se de perto não for?
+neutra | - | Aí, na sexta, ele mandou um bilhete diferente: domingo, dez horas, na padaria da esquina. Ela respondeu: vou estar de vermelho.
+desconfiada | conversa: Mas a padaria é na esquina. | Eu perguntei: e por que um carro, se a padaria é na esquina? Ele riu nervoso: porque eu dei três voltas no quarteirão e não tive coragem. Pedi um carro pra me obrigar.
+neutra | mapa | Eu dei a volta no quarteirão de novo. Devagar. Ele suando. Até que eu parei na frente da padaria e disse: desce, Bruno.
+chocada | - | Na mesa da janela, uma moça de vestido vermelho. Com uma caixa de sapato no colo. Igual a dele.
+neutra | - | Ele desceu. Eu fiquei estacionado, porque ele esqueceu o celular no banco. Vi tudo pela vitrine.
+chocada | manchete: A CAIXA DELA | Ele sentou na frente dela. Os dois com caixa de sapato. E ao mesmo tempo, abriram as caixas na mesa. Ela tinha guardado os bilhetes dele. Todos.
+rindo | - | Ficaram uns segundos em silêncio. Depois ela riu. Ele riu. E começaram a conversar como se fizesse anos. Na verdade fazia. Por escrito.
+triste | carimbo: ELA TINHA MEDO DE ALTURA | Depois ele me contou: ela confessou que tinha medo de altura e mesmo assim ia todo dia na janela do quarto andar pendurar o bilhete. Tremendo.
+triste | coracao: UM PREGADOR | Ela tirou um pregador do bolso. O mesmo da primeira meia. E prendeu na camisa dele. Disse: agora você é meu varal.
+neutra | - | Quando ele voltou pra pegar o celular, estava com o pregador na camisa e o sorriso mais bobo da cidade.
+neutra | carro | Seis meses depois, me chamaram pra levar uma mudança pequena. Do prédio dele pro prédio dela. Quarto andar pro quarto andar. Atravessando a rua.
+neutra | manchete_v: SAI DO PAPEL | Moral da história: o amor por escrito é lindo. Mas uma hora tem que descer pra padaria.
+rindo | coracao: CAROL E BRUNO | E se você troca mensagem com alguém há muito tempo, marca um café. De perto é melhor. Pode confiar.
+
+## 129 | O MENINO DO XADREZ | amizade | noite
+G: ♟️ Um menino de 11 anos ensinou xadrez pra um senhor solitário na praça. Um ano depois, o senhor tinha uma surpresa pro campeonato do menino.
+P: Você já aprendeu algo importante com alguém muito mais novo?
+H: #xadrez #amizade #geracoes
+neutra | titulo | Sobe aí, que essa corrida levou dois enxadristas. Um de onze e um de setenta e oito.
+neutra | relogio: SÁBADO · 18H | Sábado, seis da tarde. Entraram um senhor de setenta e oito anos, bengala e boné, e um menino de onze, com um tabuleiro de xadrez debaixo do braço.
+rindo | conversa: Ele é meu aluno. | O menino apresentou: esse é o seu Laércio. Ele é meu aluno. O senhor riu: eu sou o aluno mais velho do mundo.
+neutra | carimbo: A PRAÇA | Um ano antes, o seu Laércio ficava sozinho num banco da praça todo dia. Viúvo, os filhos longe. Ficava olhando os pombos.
+neutra | - | O menino, Gustavo, jogava xadrez sozinho na mesa de pedra do lado, contra ele mesmo. Mexia as brancas e depois as pretas.
+rindo | conversa: O senhor quer jogar? | Um dia, o menino perguntou: o senhor sabe jogar? O seu Laércio disse: não. O menino: então eu te ensino. Senta aí.
+rindo | - | Contou que no primeiro mês perdeu todas as partidas. Em três lances. O menino ria e dizia: de novo, seu Laércio. O cavalo anda em L.
+triste | conversa: Eu voltei a ter motivo. | O seu Laércio falou baixinho: eu voltei a ter motivo pra sair de casa. Todo dia às quatro. Na mesa de pedra.
+neutra | - | Disse que a filha, por telefone, estranhou: pai, o senhor tá mais animado. Ele disse: é que eu tenho aula.
+neutra | carimbo: O CAMPEONATO | E naquele sábado, o Gustavo ia disputar o primeiro campeonato de xadrez dele. Regional. E o seu Laércio ia de técnico.
+desconfiada | conversa: E se eu perder? | O menino perguntou no carro: seu Laércio, e se eu perder? O senhor respondeu: aí a gente volta pra praça e treina mais. Do jeito que você me ensinou.
+neutra | mapa | Chegamos num ginásio cheio de mesas. Uns cem meninos e meninas. Pais nervosos. Silêncio de biblioteca.
+neutra | - | Eu fiquei pra ver. Do lado do seu Laércio, na arquibancada. Ele roía a unha a cada lance do menino.
+neutra | relogio: FINAL | O Gustavo ganhou a primeira. A segunda. A terceira. E chegou na final. Contra um menino de colégio particular, com técnico profissional.
+chocada | - | A final foi longa. O Gustavo pensava, mexia, pensava. Até que ficou com o rei sozinho e um cavalo. Contra o rei e uma torre do outro.
+triste | conversa: O cavalo anda em L. | O seu Laércio cochichou pra ele mesmo: o cavalo anda em L, menino. O cavalo anda em L.
+chocada | manchete: EMPATE | O Gustavo segurou o empate com o cavalo. Lance por lance. Até o outro desistir de tentar. Empate. Dividiram o primeiro lugar.
+rindo | - | O Gustavo saiu correndo pela arquibancada e pulou no colo do seu Laércio. Os dois gritando, num ginásio que pedia silêncio.
+chocada | carimbo: A SURPRESA | Aí o seu Laércio tirou da sacola uma caixa de madeira. Um tabuleiro de xadrez entalhado à mão. Ele fez. Durante um ano. Escondido.
+triste | coracao: TALHADO À MÃO | Cada peça esculpida com canivete. E no rei branco, gravado: pro meu professor, Gustavo. Do seu aluno mais velho.
+neutra | - | O menino abraçou o tabuleiro igual troféu. Disse que ia levar pra praça. Pra mesa de pedra. Pra ensinar mais gente.
+neutra | carro | Na volta, os dois jogaram uma partida no banco de trás, com o tabuleiro novo no colo. O seu Laércio ganhou. Pela primeira vez.
+neutra | manchete_v: ENSINA E APRENDE | Moral da história: amizade não tem idade. Às vezes o professor tem onze anos e o aluno tem setenta e oito.
+rindo | coracao: O CAVALO ANDA EM L | E se tem alguém sozinho no banco da praça, convida pra um jogo. Qualquer jogo. Pode mudar o ano dele.
+
+## 130 | AS CARTAS PARA DESCONHECIDOS | curiosa | dia
+G: 💌 Há 12 anos ela escreve cartas para desconhecidos e deixa em bancos de praça. Um dia, alguém respondeu. Com uma história que ela não esperava.
+P: Você já recebeu um recado de um desconhecido que te ajudou?
+H: #cartas #gentileza #misterio
+neutra | titulo | Sobe aí, que essa corrida levou uma carteira de cartas sem destinatário.
+neutra | relogio: TERÇA · 9H | Terça, nove da manhã. Entrou uma senhora de uns sessenta e cinco anos, chapéu de abas largas, e uma bolsa cheia de envelopes coloridos.
+desconfiada | conversa: Rodar pelas praças, por favor. | Pediu: o senhor pode passar pelas praças do centro? Uma por uma. Vou deixar umas cartas.
+neutra | carimbo: CARTAS PARA NINGUÉM | Dona Ofélia. Professora aposentada. Há doze anos escreve cartas pra desconhecidos. Deixa em banco de praça, ponto de ônibus, banheiro de rodoviária.
+rindo | - | No envelope está escrito: pra você que encontrou essa carta. Dentro, uma mensagem de carinho. De força. De bom dia.
+desconfiada | conversa: Por que a senhora faz isso? | Perguntei por quê. Ela disse: porque um dia eu precisei de uma palavra de um estranho e não tive.
+triste | - | Contou que, quando perdeu o marido, ficou meses sem conversar com ninguém. E pensou: quanta gente passa por isso calada?
+neutra | mapa | Fomos de praça em praça. Ela descia, deixava o envelope num banco, ajeitava com uma pedrinha em cima pra não voar, e voltava.
+neutra | - | Em doze anos, mais de quatro mil cartas. Ela nunca soube quem achou nenhuma. Nunca teve resposta. Disse que não precisava.
+neutra | mapa | Na quinta praça, ela foi deixar a carta no banco de sempre. E parou. Tinha um envelope lá. Endereçado a ela.
+chocada | manchete: PRA DONA DAS CARTAS | No envelope, escrito à mão: pra senhora que deixa as cartas. Ela voltou pro carro tremendo. Pediu pra eu ler. Ela não conseguia.
+triste | carimbo: A CARTA DE VOLTA | Eu li em voz alta. Dizia: há sete anos eu achei uma carta sua nesse banco. Eu estava sentado aqui decidindo se eu ia desistir de tudo.
+triste | - | A carta dizia: você não me conhece, mas a sua vida importa. Eu li vinte vezes. E levantei do banco. E fui procurar ajuda.
+triste | conversa: Hoje eu sou psicólogo. | E continuava: hoje eu sou psicólogo. Atendo pessoas que estão no banco, como eu estava. Eu passei sete anos procurando a senhora.
+chocada | - | Tinha um telefone embaixo. E uma frase: se a senhora quiser, eu queria te dar um abraço. Ele assinava: Leandro, o rapaz do banco.
+triste | - | A dona Ofélia ficou um tempão em silêncio, segurando a carta. Disse: quatro mil cartas e eu nunca soube se alguma serviu pra alguma coisa.
+neutra | notificacao: Ligação | Ela ligou. Ele atendeu no segundo toque. Combinaram de se encontrar ali mesmo, naquele banco, em meia hora.
+neutra | relogio: 30 MINUTOS | Meia hora depois, chegou um rapaz de uns trinta e cinco anos, de jaleco, correndo. Ela levantou do banco. Ele parou na frente dela.
+triste | coracao: O ABRAÇO NO BANCO | Os dois se abraçaram no meio da praça. Um abraço longo. Os pombos voando em volta. Eu olhando do carro com o vidro aberto.
+rindo | - | Depois ele tirou da carteira a carta original. Dobrada, gasta, com fita adesiva nas dobras. Guardada sete anos.
+neutra | carro | Hoje os dois escrevem cartas juntos. Ele leva pro consultório. Ela deixa nas praças. Mais de mil por ano.
+neutra | manchete_v: ESCREVE | Moral da história: uma palavra boa de um desconhecido pode segurar alguém de pé. Escreve. Mesmo sem saber pra quem.
+rindo | coracao: PRA VOCÊ QUE ENCONTROU | E se você tá precisando de uma palavra hoje, aqui vai: a sua vida importa. E se tá difícil, procura ajuda. Tem gente que quer te ouvir.
+
+## 131 | O COZINHEIRO SEM OLFATO | superacao | noite
+G: 👨‍🍳 Ele perdeu o olfato e o paladar. Chef de cozinha. Um ano depois, ia disputar a final de um concurso cozinhando de memória.
+P: Qual comida você reconheceria de olhos fechados?
+H: #superacao #culinaria #chef
+neutra | titulo | Sobe aí, que essa corrida levou um chef que cozinha sem sentir gosto nenhum.
+neutra | relogio: DOMINGO · 15H | Domingo, três da tarde. Entrou um homem de uns quarenta anos, dólmã de chef dobrada no braço, uma maleta de facas e um caderno de capa preta.
+neutra | conversa: Final do concurso. | Disse: vou pra final de um concurso de culinária. Regional. Prato livre. Eu disse: que beleza, chef. Ele sorriu meio triste.
+neutra | carimbo: SEM OLFATO | Chama-se Henrique. Chef de restaurante havia quinze anos. E um ano antes, depois de uma infecção forte, perdeu o olfato e quase todo o paladar.
+triste | conversa: Eu não sinto nada. | Disse: eu não sinto nada, moço. Nem cheiro de café. Nem de alho fritando. Foi como se apagassem a minha vida.
+triste | - | Contou que ficou meses sem entrar numa cozinha. Achou que tinha acabado. Que chef sem paladar é igual pintor cego.
+neutra | carimbo: O CADERNO PRETO | Até que achou o caderno preto. Anotações de quinze anos. Cada receita com medida exata, tempo de fogo, cor do molho, som da fritura.
+rindo | conversa: Eu cozinho pelo som. | Disse: hoje eu cozinho pelo som, pela cor e pela memória. A cebola chia de um jeito quando tá no ponto. O caramelo muda de cor no segundo certo.
+neutra | - | Treinou um ano assim. A esposa provava e dizia: falta sal. Ele anotava. Errava. Anotava de novo.
+desconfiada | conversa: E o júri sabe? | Perguntei: e o júri sabe? Ele disse: não. Eu não quero que tenham pena. Quero que provem e decidam.
+neutra | mapa | Chegamos num centro de convenções. Cozinhas montadas num palco. Plateia. Câmera de TV local. Ele me pediu pra ficar. Disse que precisava de alguém conhecido na plateia.
+neutra | relogio: 90 MINUTOS | Noventa minutos de prova. Eu na plateia. Ele cozinhando com o caderno aberto do lado da panela. Os outros chefs provando a toda hora. Ele não provava nada.
+desconfiada | - | O apresentador comentou no microfone: o chef Henrique não provou o prato nenhuma vez. Ousado. Muito confiante.
+neutra | carimbo: O PRATO | O prato dele: arroz de pato da avó dele. Uma receita de família, que ele fazia desde os doze anos. Que ele nunca mais tinha sentido o gosto.
+chocada | - | O júri provou. Um dos jurados, um chef famoso, fechou os olhos. Ficou em silêncio. Depois perguntou: chef, como você chegou nesse equilíbrio?
+triste | conversa: Eu não sinto gosto. | E o Henrique contou. No microfone. Que não sentia gosto nem cheiro. Que fez tudo pela memória e pelo caderno.
+chocada | manchete: PRIMEIRO LUGAR | A plateia ficou em silêncio. O júri se olhou. E deu o primeiro lugar. Por unanimidade. O jurado famoso levantou e aplaudiu primeiro.
+triste | - | Ele recebeu o troféu chorando. Disse: eu não vou sentir o gosto da vitória. Mas eu tô sentindo outra coisa aqui dentro.
+triste | coracao: O GOSTO DA AVÓ | Depois, no carro, me contou: a esposa provou o arroz no fim e disse que estava igualzinho ao da avó dele. Isso valia mais que o troféu.
+neutra | carro | Ele me deu uma marmita do arroz de pato. Eu comi no carro, ali mesmo. Tinha gosto de coisa feita com memória.
+neutra | manchete_v: CONFIA NA MEMÓRIA | Moral da história: quando a vida tira um sentido, a gente aprende a usar os outros. E o coração lembra o resto.
+rindo | coracao: ARROZ DA AVÓ | E se você tem uma receita de família, anota tudo. Até o som da panela. Um dia alguém vai precisar.
+
+## 132 | O PRESIDENTE NO BAIRRO | reflexao | dia
+G: 🏢 Um presidente de empresa pediu pra ir até o bairro pobre onde cresceu. Fazia 25 anos que não pisava lá. O que ele encontrou mudou a reunião de segunda.
+P: Você ainda volta ao lugar onde cresceu?
+H: #reflexao #raizes #sucesso
+neutra | titulo | Sobe aí, que essa corrida levou um homem de terno de volta pra rua de terra.
+neutra | relogio: DOMINGO · 9H | Domingo, nove da manhã. Peguei um homem de uns cinquenta anos num hotel de luxo. Roupa casual cara, relógio de ouro, celular que não parava de vibrar.
+neutra | conversa: Me leva no Morro do Ipê. | Pediu um endereço num bairro da periferia. O Morro do Ipê. Eu perguntei: o senhor conhece lá? Ele disse: eu nasci lá.
+neutra | carimbo: PRESIDENTE DE EMPRESA | Chama-se Otávio. Presidente de uma empresa grande de construção. Saiu do Morro do Ipê aos dezoito com uma bolsa de estudos. Nunca mais voltou.
+triste | conversa: Eu tinha vergonha. | Disse: eu tinha vergonha. Durante muito tempo eu escondi de onde vinha. Nas reuniões, eu dizia que era do interior.
+neutra | - | Estava na cidade pra uma reunião na segunda. A empresa ia decidir se construía um shopping num terreno grande. E ele soube que o terreno era no Morro do Ipê.
+neutra | mapa | Subimos o morro. Rua estreita, casas sem reboco, crianças soltando pipa, um campinho de terra. Ele foi ficando quieto.
+neutra | - | Pediu pra eu parar na frente de uma casa azul, pequena. Disse: era aqui. Meu quarto era aquela janela. Eu dormia com três irmãos.
+chocada | - | Saiu uma senhora de uns oitenta anos da casa do lado. Olhou pra ele, de óculos, apertando os olhos. E falou: Tavinho?
+chocada | manchete: DONA NAIR | Era a dona Nair. A vizinha que dava almoço pra ele quando a mãe trabalhava. Que ensinou ele a ler antes da escola.
+triste | - | Ele desceu do carro e abraçou ela. Um homem de relógio de ouro chorando no meio da rua de terra. As crianças pararam a pipa pra olhar.
+triste | conversa: Você sumiu, menino. | Ela disse: você sumiu, menino. A gente sempre soube que você ia longe. Mas achava que você ia voltar pra contar.
+neutra | carimbo: O TERRENO | Ele perguntou do terreno grande no fim da rua. A dona Nair disse: ah, ali tem a horta comunitária, o campinho e a creche que a gente fez em mutirão.
+desconfiada | - | Ele ficou pálido. O terreno do shopping. Era a horta, o campinho e a creche. Ele não sabia. No papel, era só um terreno vazio.
+neutra | mapa | Ele pediu pra ver. Fomos a pé. Uma horta enorme, cuidada por senhoras. Um campinho com trave de madeira. E uma creche de tijolo aparente com desenho de criança na parede.
+triste | coracao: O CAMPINHO | Ele andou no campinho. Disse: eu fiz meu primeiro gol aqui. Com uma bola de meia. Esse campo me ensinou a não desistir.
+neutra | - | Ficou duas horas no morro. Tomou café na casa da dona Nair. Conversou com as senhoras da horta. Brincou com as crianças da creche.
+neutra | carro | Na volta, ficou quieto o caminho todo. Só falou na porta do hotel: segunda eu tenho uma reunião difícil. Mas agora eu sei o que vou dizer.
+rindo | notificacao: Mensagem do Otávio | Uma semana depois, ele me mandou uma notícia: a empresa desistiu do shopping. E ia reformar a creche e construir uma quadra no campinho.
+neutra | manchete_v: LEMBRA DE ONDE VEIO | Moral da história: não importa o quanto você suba. Não esquece da rua de terra que te ensinou a andar.
+rindo | coracao: MORRO DO IPÊ | E se você saiu de algum lugar e nunca mais voltou, volta. Tem uma dona Nair esperando você contar a história.
+
+## 133 | A SOGRA SUPERSTICIOSA | humor | noite
+G: 🧦 A sogra é torcedora fanática do rival e supersticiosa. Na final, ela obrigou o genro a usar a meia da sorte dela. Do time dela.
+P: Qual a superstição de futebol mais estranha da sua família?
+H: #futebol #sogra #humor
+neutra | titulo | Sobe aí, que essa corrida teve um genro, uma sogra e uma meia que decidiu um campeonato.
+neutra | relogio: DOMINGO · 15H | Domingo, três da tarde. Final do campeonato. Entraram um rapaz de uns trinta anos com camisa de um time e uma senhora de sessenta com a camisa do rival.
+rindo | conversa: Minha sogra. Rival. | O rapaz apresentou: essa é minha sogra. Ela torce pro outro time. E hoje é final entre os dois. Que Deus me ajude.
+rindo | carimbo: DONA GERUSA | Dona Gerusa. Torcedora há cinquenta anos. E supersticiosa. Nunca lavou a camisa da sorte. Nunca assiste jogo sentada. Nunca fala o nome do rival.
+rindo | conversa: Ele vai comigo no estádio. | Ela explicou: ele vai comigo no estádio. Na minha torcida. Porque a minha filha disse que é o único jeito de eu aceitar ele.
+neutra | - | O genro, Renan, ia assistir a final no meio da torcida rival. De camisa do time dele. Escondida por baixo de um casaco.
+rindo | carimbo: A MEIA DA SORTE | Aí a dona Gerusa tirou da bolsa um par de meias. Velhas, furadas, com o escudo do time dela. A meia da sorte. Disse: calça.
+chocada | conversa: Eu não vou calçar isso. | O Renan: dona Gerusa, eu não vou calçar a meia do seu time. É contra a minha religião. Ela: então desce do carro.
+rindo | - | Discussão de dez minutos. Eu dirigindo e rindo. No fim, ele calçou. No banco de trás. Uma meia de cada time, porque ele se recusou a calçar as duas.
+rindo | conversa: Metade sorte, metade azar. | A sogra olhou e falou: metade sorte, metade azar. Se der empate, a culpa é sua. Ele: se der empate, a culpa é da meia.
+neutra | mapa | Deixei os dois no estádio. Fiquei rodando pela região, ouvindo o jogo no rádio. Rindo sozinho pensando no Renan no meio da torcida rival.
+neutra | relogio: 90 MINUTOS | Noventa minutos. Um a um. Prorrogação. Um a um. Pênaltis. Eu parei o carro pra ouvir.
+chocada | manchete: PÊNALTIS | Quatro a quatro nos pênaltis. Última cobrança do time da sogra. Se fizesse, era campeão. Se errasse, ia pras cobranças alternadas.
+chocada | - | O locutor gritando. E aí: na trave! Bateu na trave e saiu! Alternadas. Gol de um. Gol do outro. Até que o goleiro do time do genro defendeu.
+rindo | carimbo: O TIME DO GENRO VENCEU | O time do genro campeão. No meio da torcida rival. Com a meia da sogra num pé.
+neutra | relogio: NA SAÍDA | Fui buscar os dois na saída. Eu esperava ver o Renan de olho roxo. Mas não.
+chocada | - | Os dois vieram abraçados. Ela chorando, ele tentando não sorrir. E ela falando alto pra quem quisesse ouvir.
+rindo | conversa: Foi a meia dele! | A dona Gerusa gritava: foi a meia dele! A meia do time dele deu sorte pro time dele! Eu avisei que era metade azar!
+rindo | - | O Renan me contou depois: na hora do último pênalti, ela segurou a mão dele com tanta força que quase quebrou. E no final, abraçou ele chorando.
+triste | coracao: ELA ABRAÇOU O GENRO | Disse que ela falou no ouvido dele: pelo menos ganhou alguém da família. Foi a primeira vez que ela chamou ele de família.
+neutra | carro | No carro, ela tirou a meia do pé dele e guardou de volta na bolsa. Disse: no próximo clássico, você calça as duas. Do meu time. Ele aceitou. Por amor.
+neutra | manchete_v: TORCE JUNTO | Moral da história: futebol separa torcidas. Mas, às vezes, junta uma sogra e um genro numa meia furada.
+rindo | coracao: MEIA DA SORTE | E se você tem um rival dentro da família, assiste a próxima final junto. Só não esquece a meia.
+
+## 134 | A PRIMEIRA PALAVRA EM LIBRAS | familia | dia
+G: 🤟 O neto nasceu surdo. A família inteira começou a aprender Libras. Mas foi a bisavó de 88 anos, em segredo, quem chegou primeiro.
+P: Você sabe alguma palavra em Libras?
+H: #libras #inclusao #familia
+neutra | titulo | Sobe aí, que essa corrida teve uma conversa inteira sem nenhuma palavra.
+neutra | relogio: DOMINGO · 11H | Domingo, onze da manhã. Entraram uma mãe de uns trinta anos e um menino de seis. Ele fazendo sinais com as mãos. Ela respondendo, devagar.
+neutra | conversa: Ele é surdo. | A mãe explicou: ele é surdo de nascença. A gente tá indo pro almoço na casa da bisavó dele. Aniversário dela.
+neutra | carimbo: A FAMÍLIA APRENDEU | Chama-se Miguel. Quando nasceu, a família inteira decidiu aprender Libras. Pai, mãe, avós, tios. Curso de sábado à tarde.
+rindo | conversa: O pai ainda erra muito. | A mãe riu: o pai ainda erra muito. Outro dia ele quis dizer que amava o Miguel e disse que amava a banana.
+rindo | - | O Miguel, entendendo pela leitura dos lábios, fez um sinal e riu. A mãe traduziu: ele disse que o pai é engraçado.
+desconfiada | conversa: E a bisavó? | Eu perguntei: e a bisavó também aprendeu? A mãe ficou triste: não. Ela tem oitenta e oito. Disse que já não tem cabeça pra isso.
+triste | - | Contou que a bisavó, dona Amélia, amava o Miguel. Mas os dois não conseguiam conversar. Ficavam só se olhando e sorrindo.
+triste | conversa: Ela só faz carinho. | Ela só faz carinho no cabelo dele. E ele fica do lado dela. Mas eu sei que ela sofre por não conseguir falar com ele.
+neutra | - | O Miguel ficou fazendo sinais pra mim pelo retrovisor. A mãe traduzia. Ele perguntou meu nome. Eu disse. Ela soletrou com os dedos pra ele.
+rindo | carimbo: O SINAL DO CAIXEIRO | Ele inventou um sinal pra mim. A mão no volante imaginário e depois um polegar pra cima. Disse que era: o motorista legal. Eu adorei.
+neutra | mapa | Chegamos numa casa com jardim. A família toda na varanda. E na cadeira de balanço, uma senhora miudinha de cabelo branquinho. A dona Amélia.
+neutra | - | Eles me convidaram pra um café, já que eu estava ali. Eu aceitei. Fiquei na varanda vendo a festa.
+chocada | - | Aí o Miguel foi até a bisavó. Ela segurou o rosto dele com as duas mãos. E soltou. E levantou as mãos.
+chocada | manchete: ELA FEZ UM SINAL | Ela fez um sinal. Devagar. Tremido. A mão no peito e depois apontando pra ele. A família inteira parou de falar.
+chocada | carimbo: EU TE AMO | O Miguel arregalou os olhos. Respondeu com as mãos. E ela respondeu de novo. Uma frase inteira. A mãe traduziu, chorando: eu te amo. Feliz por você estar aqui.
+triste | - | A dona Amélia tinha aprendido escondida. Seis meses. Com uma vizinha que é intérprete. Uma hora por dia. Pra fazer surpresa no aniversário dela.
+triste | conversa: Eu queria conversar com ele. | Ela disse em voz alta, pra família: eu não queria morrer sem conversar com o meu bisneto. Agora eu converso.
+triste | coracao: OITENTA E OITO ANOS | O Miguel abraçou a bisavó. Depois sentou no colo dela e os dois ficaram conversando com as mãos. Rindo. Ninguém mais entendia nada. Só eles.
+rindo | - | O pai do Miguel tentou entrar na conversa. Errou um sinal. A bisavó corrigiu ele. A família inteira riu.
+neutra | carro | Eu fui embora com o meu sinal novo. Mão no volante, polegar pra cima. Uso até hoje, quando alguém me agradece.
+neutra | manchete_v: APRENDE | Moral da história: nunca é tarde pra aprender a língua de quem a gente ama.
+rindo | coracao: DONA AMÉLIA | E se você quer aprender uma palavra em Libras, começa por obrigado. Mão no queixo, pra frente. Viu? Já sabe uma.

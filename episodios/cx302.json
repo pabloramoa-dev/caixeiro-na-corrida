@@ -1,0 +1,231 @@
+{
+ "id": "cx302",
+ "ep": 302,
+ "avulso": true,
+ "titulo": "OS VIZINHOS DO APAGÃO",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🕯️ Um apagão deixou o prédio inteiro no escuro por 12 horas. Os vizinhos, que nunca se falavam, desceram pro pátio. Saiu a festa mais bonita do ano.\n\nVocê conhece os seus vizinhos pelo nome? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#vizinhos #apagao #amizade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🕯️ Um apagão deixou o prédio inteiro no escuro por 12 horas. Os vizinhos, que nunca se falavam, desceram pro pátio. Saiu a festa mais bonita do ano. Você conhece os seus vizinhos pelo nome? 👇\nHistória de ficção.\n#vizinhos #apagao #amizade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou no escuro. E foi a mais iluminada do mês.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "iluminada",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Sexta, oito da noite. Peguei uma senhora de uns setenta anos na farmácia. Ela comprou velas. Muitas velas. Disse: o prédio tá sem luz desde as seis.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 20H"
+   ],
+   "destaque": [
+    "desde",
+    "seis."
+   ]
+  },
+  {
+   "fala": "Disse: é um prédio de oitenta apartamentos. E ninguém se conhece. Eu moro há quinze anos e não sei o nome do vizinho da frente.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ninguém se conhece lá."
+   ],
+   "destaque": [
+    "vizinho",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Dona Hilda. Viúva. Mora sozinha no oitavo andar. Disse que sem luz, sem elevador, não conseguia subir. Ia ficar no pátio até a luz voltar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA HILDA"
+   ],
+   "destaque": [
+    "luz",
+    "voltar."
+   ]
+  },
+  {
+   "fala": "Chegamos no prédio. Tudo escuro. O bairro inteiro sem luz. Só o farol do meu carro iluminando o portão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "iluminando",
+    "portão."
+   ]
+  },
+  {
+   "fala": "E no pátio do prédio, umas cinco pessoas sentadas no escuro. Cada uma num canto. Mexendo no celular, que estava acabando a bateria. Sem conversar.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "Sem",
+    "conversar."
+   ]
+  },
+  {
+   "fala": "A dona Hilda desceu com as velas. E começou a distribuir. Uma pra cada um. Disse: boa noite. Eu sou a Hilda, do oitocentos e dois.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "oitocentos",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Um rapaz pegou a vela e disse: eu sou o Léo, do trezentos e um. Uma moça: Carla, do seiscentos e dez. Um senhor: Osmar, do cento e quatro.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A PRIMEIRA VELA"
+   ],
+   "destaque": [
+    "cento",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Eu fiquei. A dona Hilda me pediu pra deixar o farol ligado um pouquinho, pra ela organizar. Eu deixei. E desci também.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "desci",
+    "também."
+   ]
+  },
+  {
+   "fala": "Foram descendo mais vizinhos. Com lanterna de celular. Uns trouxeram cadeira. Outros trouxeram comida da geladeira, que ia estragar sem luz.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "luz."
+   ]
+  },
+  {
+   "fala": "Em uma hora, tinha umas quarenta pessoas no pátio. Com vela. Com comida. Alguém trouxe um violão. Outro trouxe uma caixa de som de pilha.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A FESTA NO ESCURO"
+   ],
+   "destaque": [
+    "som",
+    "pilha."
+   ]
+  },
+  {
+   "fala": "E as pessoas foram se descobrindo. O Léo do trezentos e um era cozinheiro. A Carla era professora de música. O seu Osmar foi jogador de futebol nos anos setenta.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "AS DESCOBERTAS"
+   ],
+   "destaque": [
+    "anos",
+    "setenta."
+   ]
+  },
+  {
+   "fala": "Duas vizinhas descobriram que eram da mesma cidade do interior. Um casal descobriu que o vizinho de baixo era o que reclamava do barulho. Riram juntos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Riram",
+    "juntos."
+   ]
+  },
+  {
+   "fala": "A dona Hilda, sentada no meio, com uma vela na mão, disse: quinze anos eu achei que morava sozinha num prédio. Eu tinha oitenta famílias do lado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu achei que era sozinha."
+   ],
+   "destaque": [
+    "famílias",
+    "lado."
+   ]
+  },
+  {
+   "fala": "O Léo, o cozinheiro, fez um macarrão num fogareiro de camping. Com o que cada um trouxe da geladeira. Serviu pra todo mundo. O melhor macarrão da vida de muita gente.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OITENTA FAMÍLIAS"
+   ],
+   "destaque": [
+    "muita",
+    "gente."
+   ]
+  },
+  {
+   "fala": "A Carla, a professora, tocou violão. Todo mundo cantou. Até as crianças, que nunca tinham brincado juntas no pátio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "juntas",
+    "pátio."
+   ]
+  },
+  {
+   "fala": "À meia-noite, eu fui embora. Ainda sem luz. A festa continuando. As velas acesas no pátio. Parecia um presépio.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "MEIA-NOITE"
+   ],
+   "destaque": [
+    "Parecia",
+    "presépio."
+   ]
+  },
+  {
+   "fala": "A dona Hilda me mandou mensagem no dia seguinte. A luz voltou às seis da manhã. Mas o grupo de mensagens do prédio, que ninguém usava, tinha cento e vinte mensagens. Marcando a próxima festa.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "próxima",
+    "festa."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a gente precisa que a luz apague pra ver quem tá do nosso lado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APAGA A TELA"
+   ],
+   "destaque": [
+    "nosso",
+    "lado."
+   ]
+  },
+  {
+   "fala": "E se você não conhece os seus vizinhos, bate na porta hoje. Com uma vela, se quiser. Não precisa esperar o apagão.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FESTA DO APAGÃO"
+   ],
+   "destaque": [
+    "esperar",
+    "apagão."
+   ]
+  }
+ ]
+}

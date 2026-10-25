@@ -1,0 +1,273 @@
+{
+ "id": "cx103",
+ "ep": 103,
+ "avulso": true,
+ "titulo": "O CASAMENTO DA QUADRILHA",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🌽 Juntos havia 50 anos sem nunca ter casado, eles iam fazer os noivos da quadrilha junina. O padre da festa era padre de verdade.\n\nVocê já dançou quadrilha na festa junina? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#festajunina #quadrilha #amor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌽 Juntos havia 50 anos sem nunca ter casado, eles iam fazer os noivos da quadrilha junina. O padre da festa era padre de verdade. Você já dançou quadrilha na festa junina? 👇\nHistória de ficção.\n#festajunina #quadrilha #amor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou num casamento caipira. Com certidão de verdade.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "certidão",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "Sábado, três da tarde. Entrou um casal de idosos vestido de caipira. Ele de chapéu de palha e bigode pintado. Ela de vestido xadrez e tranças de lã.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 15H"
+   ],
+   "destaque": [
+    "tranças",
+    "lã."
+   ]
+  },
+  {
+   "fala": "Ela disse orgulhosa: somos os noivos da quadrilha da escola do bisneto. Seu Tonico e dona Filó.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Somos os noivos da quadrilha."
+   ],
+   "destaque": [
+    "dona",
+    "Filó."
+   ]
+  },
+  {
+   "fala": "Ele ajeitava o bigode pintado de lápis de olho. Ela retocava a pinta na bochecha. Os dois rindo feito adolescentes.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "feito",
+    "adolescentes."
+   ]
+  },
+  {
+   "fala": "Cinquenta anos juntos. Quatro filhos, nove netos, dois bisnetos. E uma coisa que ninguém da família sabia direito.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "CINQUENTA ANOS JUNTOS"
+   ],
+   "destaque": [
+    "sabia",
+    "direito."
+   ]
+  },
+  {
+   "fala": "Ela cochichou: a gente nunca casou, moço. Nem no papel, nem na igreja. Fomos morar juntos e foi ficando.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A gente nunca casou."
+   ],
+   "destaque": [
+    "foi",
+    "ficando."
+   ]
+  },
+  {
+   "fala": "E completou: ele nunca pediu. Cinquenta anos. Nem de brincadeira. O seu Tonico tossiu e olhou pela janela.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele nunca pediu."
+   ],
+   "destaque": [
+    "pela",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e o senhor, seu Tonico? Por que nunca pediu? Ele demorou. Disse: medo de ela dizer não.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E o senhor, por quê?"
+   ],
+   "destaque": [
+    "medo",
+    "dizer"
+   ]
+  },
+  {
+   "fala": "A dona Filó caiu na gargalhada. Bateu nele com o leque: cinquenta anos de medo, Tonico? Eu tô aqui ainda!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "aqui",
+    "ainda!"
+   ]
+  },
+  {
+   "fala": "Chegamos na escola. Bandeirinha, fogueira cenográfica, cheiro de pipoca e canjica. O bisneto de chapéu de palha correu pra abraçar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "correu",
+    "abraçar."
+   ]
+  },
+  {
+   "fala": "Eles me convidaram pra ficar. Eu nunca recuso festa junina. Fiquei com um pé de moleque na mão, perto da quadra.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "perto",
+    "quadra."
+   ]
+  },
+  {
+   "fala": "Começou a quadrilha. O casamento caipira. O noivo fugindo, o pai da noiva com espingarda de brinquedo, o delegado de mentira.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O CASAMENTO CAIPIRA"
+   ],
+   "destaque": [
+    "delegado",
+    "mentira."
+   ]
+  },
+  {
+   "fala": "E o padre da quadrilha era o padre de verdade da paróquia do bairro. Que a escola convidou de brincadeira. De batina e chapéu de palha.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "chapéu",
+    "palha."
+   ]
+  },
+  {
+   "fala": "O padre fez o casamento caipira com todas as piadas. O povo rindo. E aí, no fim, ele fez a pergunta.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fez",
+    "pergunta."
+   ]
+  },
+  {
+   "fala": "Seu Tonico, aceita a dona Filó como sua legítima esposa? Era a deixa pra ele dizer não, fugir e voltar arrastado. Tradição.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Aceita, seu Tonico?"
+   ],
+   "destaque": [
+    "arrastado.",
+    "Tradição."
+   ]
+  },
+  {
+   "fala": "Mas o seu Tonico não fugiu. Ele tirou o chapéu de palha, se ajoelhou devagar na quadra de cimento, e falou sério.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "falou",
+    "sério."
+   ]
+  },
+  {
+   "fala": "Filó, eu esperei cinquenta anos pra ter coragem. Casa comigo? De verdade? A quadra inteira ficou em silêncio.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "CASA COMIGO, FILÓ?"
+   ],
+   "destaque": [
+    "ficou",
+    "silêncio."
+   ]
+  },
+  {
+   "fala": "A dona Filó ficou parada com o leque no ar. Depois começou a rir chorando e disse: caso, seu bobo. Já devia ter perguntado em setenta e seis.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "setenta",
+    "seis."
+   ]
+  },
+  {
+   "fala": "E o padre, que era padre de verdade, olhou pra família e falou: então eu caso agora. A bênção vale. Certidão, a gente resolve segunda no cartório.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O PADRE ERA DE VERDADE"
+   ],
+   "destaque": [
+    "segunda",
+    "cartório."
+   ]
+  },
+  {
+   "fala": "Casaram ali. De bigode pintado e trança de lã. Os bisnetos de dama de honra. A fogueira de papel de pano de fundo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CASADOS NA QUADRILHA"
+   ],
+   "destaque": [
+    "pano",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "E a quadrilha continuou: olha a chuva! É mentira! Olha a cobra! É mentira! Olha os noivos! É verdade!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "noivos!",
+    "verdade!"
+   ]
+  },
+  {
+   "fala": "Na volta, levei os dois casados no banco de trás. Ela com a aliança de pipoca no dedo, que um neto fez na hora. Disse que não tira nunca.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "tira",
+    "nunca."
+   ]
+  },
+  {
+   "fala": "Moral da história: não espera cinquenta anos pra perguntar o que você já sabe a resposta.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PERGUNTA"
+   ],
+   "destaque": [
+    "sabe",
+    "resposta."
+   ]
+  },
+  {
+   "fala": "E se tem uma pergunta guardada aí no seu peito, pergunta. Nem que seja na festa junina.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ALIANÇA DE PIPOCA"
+   ],
+   "destaque": [
+    "festa",
+    "junina."
+   ]
+  }
+ ]
+}

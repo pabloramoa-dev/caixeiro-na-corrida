@@ -1,0 +1,275 @@
+{
+ "id": "cx032",
+ "ep": 32,
+ "avulso": true,
+ "titulo": "O ÚLTIMO DIA DE QUIMIO",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🔔 Ela pediu pra eu esperar 10 minutos na porta do hospital. Quando voltou, trazia um sino na mão.\n\nQue vitória sua merecia um sino tocando? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #esperanca #vitoria #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🔔 Ela pediu pra eu esperar 10 minutos na porta do hospital. Quando voltou, trazia um sino na mão. Que vitória sua merecia um sino tocando? 👇\nHistória de ficção.\n#superacao #esperanca #vitoria #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou com um sino tocando dentro do meu carro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Quarta-feira, seis da tarde. Pedido pra um hospital. Entrou uma moça de uns trinta e poucos anos, lenço colorido na cabeça e um sorriso que não combinava com o lugar.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 18H"
+   ],
+   "destaque": [
+    "combinava",
+    "lugar."
+   ]
+  },
+  {
+   "fala": "Ela disse logo de cara: hoje é o último dia, moço. Último dia de tratamento. Oito meses.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje é o último dia."
+   ],
+   "destaque": [
+    "Oito",
+    "meses."
+   ]
+  },
+  {
+   "fala": "Professora de educação física. Mãe de gêmeos de seis anos. Disse que o pior não foi o remédio, foi explicar pros filhos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pros",
+    "filhos."
+   ]
+  },
+  {
+   "fala": "Contou que disse pros meninos que a mamãe estava numa luta de super-herói, e que no fim ia ter um sino.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu disse que era uma luta."
+   ],
+   "destaque": [
+    "ter",
+    "sino."
+   ]
+  },
+  {
+   "fala": "Explicou: no hospital tem um sino. Quem termina o tratamento toca. É a tradição.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O SINO DA VITÓRIA"
+   ],
+   "destaque": [
+    "toca.",
+    "tradição."
+   ]
+  },
+  {
+   "fala": "Chegamos. Ela pediu pra eu esperar, ia ser rápido. Desliguei o carro e fiquei.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "carro",
+    "fiquei."
+   ]
+  },
+  {
+   "fala": "Dez minutos. Vinte. Meia hora. Eu ali, pensando no que estava acontecendo lá dentro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "10 MINUTOS"
+   ],
+   "destaque": [
+    "lá",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Aí ela saiu chorando. Mas era choro do bom. Com um sininho dourado na mão.",
+   "expr": "chocada",
+   "arte": [
+    "porta"
+   ],
+   "destaque": [
+    "dourado",
+    "mão."
+   ]
+  },
+  {
+   "fala": "A enfermeira deu um sino de lembrança, igual ao grande, pra ela tocar em casa pros meninos.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Me deram o sino de lembrança."
+   ],
+   "destaque": [
+    "pros",
+    "meninos."
+   ]
+  },
+  {
+   "fala": "No caminho ela foi segurando o sino com as duas mãos, sem tocar. Disse que o primeiro toque era dos filhos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dos",
+    "filhos."
+   ]
+  },
+  {
+   "fala": "Os meninos não sabiam que era o último dia. Ela queria chegar de surpresa.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Eles não sabem que é hoje."
+   ],
+   "destaque": [
+    "chegar",
+    "surpresa."
+   ]
+  },
+  {
+   "fala": "Aí eu tive uma ideia. Perguntei se o marido podia ajudar. Ela ligou baixinho e combinou tudo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "combinou",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Chegamos na rua dela. Eu parei o carro uns cinquenta metros antes, como ela pediu.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "19H20"
+   ],
+   "destaque": [
+    "como",
+    "pediu."
+   ]
+  },
+  {
+   "fala": "O marido tinha avisado os vizinhos. A rua inteira estava nas janelas, nos portões, com o celular na mão.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A RUA TODA NA JANELA"
+   ],
+   "destaque": [
+    "celular",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Ela desceu do carro, levantou o sino lá no alto, e tocou. Uma vez. Bem forte.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Bem",
+    "forte."
+   ]
+  },
+  {
+   "fala": "Os gêmeos saíram correndo pelo portão, de pijama de herói, gritando: a mamãe ganhou! A mamãe ganhou!",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "OS GÊMEOS CORRERAM"
+   ],
+   "destaque": [
+    "mamãe",
+    "ganhou!"
+   ]
+  },
+  {
+   "fala": "A rua explodiu em palma. Teve vizinho batendo panela. Teve senhor soltando rojão de festa junina guardado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "junina",
+    "guardado."
+   ]
+  },
+  {
+   "fala": "Eu fiquei no carro, com o vidro aberto, chorando que nem criança. Não tenho vergonha nenhuma de dizer.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "nenhuma",
+    "dizer."
+   ]
+  },
+  {
+   "fala": "Antes de entrar, ela voltou correndo e me entregou o sino: toca o senhor também. O senhor fez parte.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Toca o senhor também."
+   ],
+   "destaque": [
+    "fez",
+    "parte."
+   ]
+  },
+  {
+   "fala": "Eu toquei. Duas vezes. Uma por ela e outra por todo mundo que ainda está na luta.",
+   "expr": "rindo",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "está",
+    "luta."
+   ]
+  },
+  {
+   "fala": "Ela me mandou uma foto meses depois. Cabelo crescendo, dando aula de novo, apito no pescoço.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "apito",
+    "pescoço."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem luta que a gente vence calado. Mas a vitória tem que fazer barulho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "TOCA O SINO"
+   ],
+   "destaque": [
+    "fazer",
+    "barulho."
+   ]
+  },
+  {
+   "fala": "E se você tá na luta agora, guarda um lugar pro seu sino. Ele vai tocar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SINO TOCADO"
+   ],
+   "destaque": [
+    "vai",
+    "tocar."
+   ]
+  }
+ ]
+}

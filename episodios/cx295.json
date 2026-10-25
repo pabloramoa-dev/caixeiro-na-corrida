@@ -1,0 +1,252 @@
+{
+ "id": "cx295",
+ "ep": 295,
+ "avulso": true,
+ "titulo": "A VAQUINHA DA CHUTEIRA",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "👟 O menino passou na peneira de um clube grande. Mas não tinha chuteira. A rua inteira fez vaquinha. Até o dono da loja entrar na história.\n\nQuem ajudou você a realizar um sonho quando você não tinha como? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #comunidade #sonho #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👟 O menino passou na peneira de um clube grande. Mas não tinha chuteira. A rua inteira fez vaquinha. Até o dono da loja entrar na história. Quem ajudou você a realizar um sonho quando você não tinha como? 👇\nHistória de ficção.\n#futebol #comunidade #sonho #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma vaquinha de moedas pra comprar um sonho de couro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sonho",
+    "couro."
+   ]
+  },
+  {
+   "fala": "Sexta, cinco da tarde. Entraram uma senhora de uns sessenta anos e um menino de quatorze. Ela com um pote de sorvete cheio de moedas e notas amassadas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 17H"
+   ],
+   "destaque": [
+    "notas",
+    "amassadas."
+   ]
+  },
+  {
+   "fala": "Disse: é a vaquinha da rua. Pra chuteira dele. Ele passou na peneira do clube. Começa segunda. E não tem chuteira.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É a vaquinha da rua."
+   ],
+   "destaque": [
+    "tem",
+    "chuteira."
+   ]
+  },
+  {
+   "fala": "Chama-se Kauã. Jogava descalço no campinho de terra. Um olheiro viu. Levou pra peneira. Ele passou. Entre quinhentos meninos. Um de vinte.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O MENINO DA PENEIRA"
+   ],
+   "destaque": [
+    "meninos.",
+    "vinte."
+   ]
+  },
+  {
+   "fala": "O Kauã disse: na peneira eu joguei de tênis furado. O olheiro me deu uma chuteira emprestada. Mas tem que devolver. E segunda eu preciso da minha.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu jogava de tênis furado."
+   ],
+   "destaque": [
+    "preciso",
+    "minha."
+   ]
+  },
+  {
+   "fala": "A avó dele, dona Jandira, saiu batendo de porta em porta. A rua inteira deu alguma coisa. Moeda, nota de dois, nota de cinco. Até as crianças deram.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "crianças",
+    "deram."
+   ]
+  },
+  {
+   "fala": "Riu: o pipoqueiro deu dez reais. O mendigo da praça deu um real. A vizinha brava, que reclama da bola no portão, deu vinte.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O pipoqueiro deu dez."
+   ],
+   "destaque": [
+    "deu",
+    "vinte."
+   ]
+  },
+  {
+   "fala": "Contaram no carro. Cento e trinta e sete reais. Em moeda e nota amassada. A chuteira que o clube pedia custava quatrocentos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "custava",
+    "quatrocentos."
+   ]
+  },
+  {
+   "fala": "O Kauã ficou quieto. Disse: vó, não dá. A gente compra uma mais barata. A avó disse: a gente vai na loja e conversa. Quem sabe.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Quem",
+    "sabe."
+   ]
+  },
+  {
+   "fala": "Chegamos numa loja de esporte no centro. Grande, de vitrine iluminada. A dona Jandira entrou com o pote de sorvete. O Kauã atrás, de cabeça baixa.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "cabeça",
+    "baixa."
+   ]
+  },
+  {
+   "fala": "Eu fui junto. Fiquei curioso. E porque a dona Jandira pediu. Disse que motorista dá moral.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dá",
+    "moral."
+   ]
+  },
+  {
+   "fala": "O vendedor olhou o pote de moedas. Olhou o menino. Perguntou o tamanho. Trouxe a chuteira. Quatrocentos reais. O Kauã olhou e nem tocou.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O VENDEDOR"
+   ],
+   "destaque": [
+    "nem",
+    "tocou."
+   ]
+  },
+  {
+   "fala": "A dona Jandira colocou o pote no balcão e disse: a gente só tem isso. Cento e trinta e sete. A rua inteira juntou. Ele passou na peneira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente só tem isso."
+   ],
+   "destaque": [
+    "passou",
+    "peneira."
+   ]
+  },
+  {
+   "fala": "O vendedor ficou quieto. Pediu licença. Foi lá dentro. Voltou com um senhor de uns sessenta anos. O dono da loja.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "dono",
+    "loja."
+   ]
+  },
+  {
+   "fala": "O dono olhou o pote. Olhou o menino. E perguntou: em que clube você passou? O Kauã disse. O dono riu: eu passei na peneira desse clube em mil novecentos e setenta e oito.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O DONO DA LOJA"
+   ],
+   "destaque": [
+    "setenta",
+    "oito."
+   ]
+  },
+  {
+   "fala": "Contou: eu também não tinha chuteira. Joguei a peneira descalço. O meu pai vendeu a bicicleta pra comprar. Eu joguei três anos lá. Depois machuquei o joelho.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A HISTÓRIA DELE"
+   ],
+   "destaque": [
+    "machuquei",
+    "joelho."
+   ]
+  },
+  {
+   "fala": "Aí ele pegou a chuteira da caixa. Colocou na mão do Kauã. E disse: essa é presente. E o dinheiro da rua, você leva de volta e faz uma festa quando estrear.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A CHUTEIRA DE PRESENTE"
+   ],
+   "destaque": [
+    "quando",
+    "estrear."
+   ]
+  },
+  {
+   "fala": "O Kauã abraçou a chuteira. A avó abraçou o dono da loja. O vendedor chorou atrás do balcão. Eu disfarcei olhando uma prateleira de bola.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "prateleira",
+    "bola."
+   ]
+  },
+  {
+   "fala": "E o dono ainda deu um par de meião e uma caneleira. Disse: e quando você for profissional, volta aqui e tira uma foto com a gente.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "foto",
+    "gente."
+   ]
+  },
+  {
+   "fala": "Na volta, a rua inteira esperando. A dona Jandira saiu do carro levantando o pote de sorvete: festa no sábado! O Kauã calçou a chuteira ali mesmo na calçada.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mesmo",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Moral da história: um sonho às vezes precisa de uma rua inteira. E de alguém que já teve o mesmo sonho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AJUDA O SONHO"
+   ],
+   "destaque": [
+    "mesmo",
+    "sonho."
+   ]
+  },
+  {
+   "fala": "E se você conhece um menino que precisa de chuteira, de material, de passagem, ajuda. Pode estar ajudando um futuro craque.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CHUTEIRA DA RUA"
+   ],
+   "destaque": [
+    "futuro",
+    "craque."
+   ]
+  }
+ ]
+}

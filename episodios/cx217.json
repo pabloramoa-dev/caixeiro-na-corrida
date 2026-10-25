@@ -1,0 +1,255 @@
+{
+ "id": "cx217",
+ "ep": 217,
+ "avulso": true,
+ "titulo": "A SOGRA DA SEMANA",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🧳 A sogra veio passar uma semana. Isso foi há três anos. Naquela noite, ela finalmente ia voltar pra casa. E o genro estava chorando. De verdade.\n\nQual a visita mais longa que já ficou na sua casa? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#sogra #humor #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧳 A sogra veio passar uma semana. Isso foi há três anos. Naquela noite, ela finalmente ia voltar pra casa. E o genro estava chorando. De verdade. Qual a visita mais longa que já ficou na sua casa? 👇\nHistória de ficção.\n#sogra #humor #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma visita de uma semana. Que durou três anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "três",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Sábado, oito da noite. Peguei uma senhora de setenta anos, com quatro malas, duas sacolas, uma samambaia e um gato numa caixa de transporte.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 20H"
+   ],
+   "destaque": [
+    "caixa",
+    "transporte."
+   ]
+  },
+  {
+   "fala": "Disse: vou pra rodoviária. Vou voltar pra minha casa no interior. Depois de três anos. A filha e o genro vinham junto, se despedindo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou pra casa."
+   ],
+   "destaque": [
+    "junto,",
+    "despedindo."
+   ]
+  },
+  {
+   "fala": "Dona Lourdes. Três anos antes, veio passar uma semana na casa da filha, pra conhecer o neto que tinha acabado de nascer.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A VISITA DE UMA SEMANA"
+   ],
+   "destaque": [
+    "acabado",
+    "nascer."
+   ]
+  },
+  {
+   "fala": "O genro, Fábio, explicou rindo: era uma semana. Aí o neto ficou com cólica. Depois ela quebrou o pé. Depois veio a reforma da casa dela. Depois ela foi ficando.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Era uma semana."
+   ],
+   "destaque": [
+    "foi",
+    "ficando."
+   ]
+  },
+  {
+   "fala": "A filha completou: ela trouxe uma mala. Depois mandou buscar outra. Depois a samambaia. Depois o gato. Quando a gente viu, ela tinha mudado.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "mudado."
+   ]
+  },
+  {
+   "fala": "Eu, curioso, perguntei pro genro: e o senhor, gostou desses três anos? Ele fez uma pausa longa. A sogra olhou pra ele. Ele disse: no começo, não.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E o senhor gostou?"
+   ],
+   "destaque": [
+    "disse:",
+    "começo,"
+   ]
+  },
+  {
+   "fala": "Contou: no primeiro ano, ela reorganizou a cozinha inteira. Trocou o sofá de lugar. Mudou o canal da televisão. Corrigia como eu dobrava toalha.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PRIMEIRO ANO"
+   ],
+   "destaque": [
+    "dobrava",
+    "toalha."
+   ]
+  },
+  {
+   "fala": "A dona Lourdes, no banco de trás, só ria. Disse: e você dobrava errado mesmo, Fábio. Até hoje dobra.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "hoje",
+    "dobra."
+   ]
+  },
+  {
+   "fala": "Mas aí ele contou o resto. Que no segundo ano, ele perdeu o emprego. Ficou meses em casa, deprimido. E foi a sogra que segurou a casa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "segurou",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Disse: ela cuidou do meu filho pra minha esposa trabalhar. Cozinhou. Me tirava da cama de manhã. Dizia: levanta, homem, que a vida não espera.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela cuidou de tudo."
+   ],
+   "destaque": [
+    "vida",
+    "espera."
+   ]
+  },
+  {
+   "fala": "Ele arrumou outro emprego, melhor. E disse que foi ela que fez ele mandar o currículo. Que revisou a carta dele com caneta vermelha.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "caneta",
+    "vermelha."
+   ]
+  },
+  {
+   "fala": "E o neto, de três anos, estava dormindo no colo da avó no carro. Chamava ela de vovó-mãe. Nunca tinha passado um dia sem ela.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O NETO"
+   ],
+   "destaque": [
+    "dia",
+    "sem"
+   ]
+  },
+  {
+   "fala": "Chegamos na rodoviária. A dona Lourdes desceu. As malas, a samambaia, o gato. O ônibus pro interior saindo em vinte minutos.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "vinte",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "O neto acordou e entendeu. Começou a chorar. Agarrado na perna da avó. A filha chorando. E o genro, que tinha passado três anos reclamando, chorando mais que todos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "mais",
+    "todos."
+   ]
+  },
+  {
+   "fala": "Aí o Fábio, na frente do ônibus, disse: dona Lourdes, fica. A senhora não precisa ir. A casa é sua também.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O GENRO PEDIU"
+   ],
+   "destaque": [
+    "sua",
+    "também."
+   ]
+  },
+  {
+   "fala": "Ela olhou pra ele, com o olho cheio d'água, e perguntou: e a toalha, você vai aprender a dobrar? Ele riu chorando: vou. Prometo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E a toalha?"
+   ],
+   "destaque": [
+    "vou.",
+    "Prometo."
+   ]
+  },
+  {
+   "fala": "Ela pegou a passagem do ônibus. Olhou. E rasgou. Ali na plataforma. O neto pulou de alegria.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A PASSAGEM RASGADA"
+   ],
+   "destaque": [
+    "pulou",
+    "alegria."
+   ]
+  },
+  {
+   "fala": "Eu coloquei as quatro malas, as duas sacolas, a samambaia e o gato de volta no meu carro. O porta-malas reclamou. Eu não.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "porta-malas",
+    "reclamou."
+   ]
+  },
+  {
+   "fala": "Na volta, a dona Lourdes foi ensinando o genro a dobrar toalha por videochamada pro tutorial que ela ia gravar. Ele prestando atenção.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "prestando",
+    "atenção."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem visita que chega pra uma semana e vira família. Às vezes a gente só percebe na plataforma.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VALORIZA QUEM FICA"
+   ],
+   "destaque": [
+    "percebe",
+    "plataforma."
+   ]
+  },
+  {
+   "fala": "E se você tem uma sogra que mora com você, agradece hoje. E dobra a toalha do jeito dela. Custa nada.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VOVÓ-MÃE"
+   ],
+   "destaque": [
+    "Custa",
+    "nada."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,291 @@
+{
+ "id": "cx066",
+ "ep": 66,
+ "avulso": true,
+ "titulo": "A FUGA DO SEU DAMIÃO",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🌊 Um avô de 86 anos chamou a corrida escondido da família. Queria ver o mar uma última vez. No meio do caminho, a neta descobriu.\n\nQual lugar você quer ver de novo antes de tudo? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #mar #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌊 Um avô de 86 anos chamou a corrida escondido da família. Queria ver o mar uma última vez. No meio do caminho, a neta descobriu. Qual lugar você quer ver de novo antes de tudo? 👇\nHistória de ficção.\n#avo #mar #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi uma fuga. A fuga mais bonita que eu já ajudei.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "já",
+    "ajudei."
+   ]
+  },
+  {
+   "fala": "Terça, cinco da tarde. Pedido num bairro residencial. Entrou um senhor de oitenta e seis anos, bengala, chinelo e uma toalha de praia no ombro.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "TERÇA · 17H"
+   ],
+   "destaque": [
+    "praia",
+    "ombro."
+   ]
+  },
+  {
+   "fala": "Entrou rápido e falou: toca, moço, toca antes que a minha filha volte da farmácia.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Rápido, antes que me vejam."
+   ],
+   "destaque": [
+    "volte",
+    "farmácia."
+   ]
+  },
+  {
+   "fala": "Eu fiquei na dúvida se não estava ajudando um sequestro ao contrário. Perguntei: o senhor tá fugindo de casa?",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "fugindo",
+    "casa?"
+   ]
+  },
+  {
+   "fala": "Ele riu: tô fugindo pro mar. Faz sete anos que eu não vejo o mar. Eles acham que é perigoso.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tô fugindo pro mar."
+   ],
+   "destaque": [
+    "acham",
+    "perigoso."
+   ]
+  },
+  {
+   "fala": "Seu Damião. Pescador a vida inteira, numa vila do litoral. Mudou pra cidade pra ficar perto da filha depois que a esposa faleceu.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SETE ANOS SEM MAR"
+   ],
+   "destaque": [
+    "esposa",
+    "faleceu."
+   ]
+  },
+  {
+   "fala": "Disse: eu nasci com sal no pé, moço. Sete anos sem mar é sete anos sem respirar direito.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nasci com sal no pé."
+   ],
+   "destaque": [
+    "respirar",
+    "direito."
+   ]
+  },
+  {
+   "fala": "A praia mais perto ficava a uma hora e meia. Eu olhei pra ele, olhei pro relógio, e pensei: a filha vai me matar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "vai",
+    "matar."
+   ]
+  },
+  {
+   "fala": "Falei: seu Damião, eu levo. Mas o senhor manda uma mensagem pra sua filha. Senão vira caso de polícia.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Avisa a sua filha, pelo menos."
+   ],
+   "destaque": [
+    "caso",
+    "polícia."
+   ]
+  },
+  {
+   "fala": "Ele mandou. Fui ver por cima. Escreveu: fui ver o mar. Volto. Não chora. Assinado: papai.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Mensagem enviada"
+   ],
+   "destaque": [
+    "Assinado:",
+    "papai."
+   ]
+  },
+  {
+   "fala": "Vinte minutos depois, o telefone dele não parava. Ele não atendia. Aí ligaram pro aplicativo. Era a neta.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "20 MINUTOS DEPOIS"
+   ],
+   "destaque": [
+    "Era",
+    "neta."
+   ]
+  },
+  {
+   "fala": "A neta, de uns vinte anos, me ligou: moço, onde você tá? Eu tô indo atrás de vocês. Não volta, não. Espera.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Moço, para onde você tá?"
+   ],
+   "destaque": [
+    "volta,",
+    "Espera."
+   ]
+  },
+  {
+   "fala": "Eu achei que ela ia brigar. Encostei num posto de gasolina na estrada. Quinze minutos depois chegou uma moto. A neta. De capacete.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "neta.",
+    "capacete."
+   ]
+  },
+  {
+   "fala": "Ela desceu, olhou o avô de toalha no ombro, e em vez de brigar, abriu a porta de trás e entrou. Disse: eu vou junto.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A NETA ENTROU NO CARRO"
+   ],
+   "destaque": [
+    "vou",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Mamãe vai surtar, vô. Mas eu também nunca vi o senhor no mar. Só nas fotos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Mamãe vai surtar."
+   ],
+   "destaque": [
+    "nas",
+    "fotos."
+   ]
+  },
+  {
+   "fala": "Chegamos na praia ao pôr do sol. Areia vazia, mar calmo, céu laranja. Ele tirou o chinelo antes de descer do carro.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "descer",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Andou devagar, com a neta segurando um braço e eu segurando o outro. Quando a primeira onda molhou o pé dele, ele parou.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dele,",
+    "parou."
+   ]
+  },
+  {
+   "fala": "Fechou os olhos. Respirou fundo. E disse: oi, mar. Como se cumprimentasse um amigo que não via fazia tempo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A PRIMEIRA ONDA"
+   ],
+   "destaque": [
+    "fazia",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "Aí ensinou a neta a ler as ondas. Disse qual ia quebrar e qual não. Acertou todas. Ela filmou tudo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "filmou",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "A filha ligou de novo. Dessa vez a neta atendeu por vídeo. Virou a câmera pro avô dentro do mar, de calça dobrada, rindo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Ligação: Filha"
+   ],
+   "destaque": [
+    "dobrada,",
+    "rindo."
+   ]
+  },
+  {
+   "fala": "A filha chorou do outro lado. Mas não brigou. Disse: pai, por que o senhor não me pediu? O senhor respondeu: porque você ia dizer não.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "dizer"
+   ]
+  },
+  {
+   "fala": "A filha ficou um tempo calada e disse: então a gente combina. Uma vez por mês, todo mundo junto. Pro mar.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Todo mês, então."
+   ],
+   "destaque": [
+    "Pro",
+    "mar."
+   ]
+  },
+  {
+   "fala": "Voltamos de noite. O seu Damião dormiu com areia no pé, sorrindo. A neta deixou a moto no posto e foi junto até em casa.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "até",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Moral da história: cuidar de quem a gente ama não é trancar em casa. É levar pro lugar onde ele respira.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "LEVA PRO MAR"
+   ],
+   "destaque": [
+    "onde",
+    "respira."
+   ]
+  },
+  {
+   "fala": "E se você tem um avô que fala do mar, de um rio, de uma roça, leva ele lá. Antes que ele precise fugir.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "OI, MAR"
+   ],
+   "destaque": [
+    "precise",
+    "fugir."
+   ]
+  }
+ ]
+}

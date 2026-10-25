@@ -1,0 +1,317 @@
+# Histórico de temas do Caixeiro
+
+Formato: nº · título · categoria · passageiro · virada.
+Antes de criar um episódio, leia esta lista inteira. Não repita tema central,
+tipo de passageiro + situação, nem a mesma virada em episódios seguidos.
+
+## Fase antiga ("casado safado" — abandonada, não retomar)
+- 01 · Siga Aquele Carro · traição/perseguição · mulher chorando à noite · perseguição ao marido
+- 02 · A Passageira de 72 Anos · cantada/humor · idosa paqueradora · era teste da sogra
+
+## Fase atual
+- 03 · Cadeira 32 · futebol + família · filho indo ao 1º clássico sem o pai falecido · o garoto da base que o pai defendia estreia e faz o gol
+
+## Lote de produção automática (cx025–cx324)
+
+- 025 · A Chuteira Emprestada · futebol
+- 026 · O Guarda-Roupa Da Mãe · familia
+- 027 · O Discurso Da Padaria · humor
+- 028 · A Última Aula Da Professora · reflexao
+- 029 · O Motoboy E O Anel · amor
+- 030 · O Carteiro Sem Carta · amizade
+- 031 · A Noiva De Tênis · curiosa
+- 032 · O Último Dia De Quimio · superacao
+- 033 · O Cachorro Que Pediu Corrida · humor
+- 034 · O Piano Da Rodoviária · curiosa
+- 035 · O Primeiro Áudio Do Vô · familia
+- 036 · O Papagaio Delator · humor
+- 037 · A Mesma Sala De Aula · superacao
+- 038 · A Ponta-Esquerda De 1968 · futebol
+- 039 · O Táxi De 1974 · amor
+- 040 · A Turma De 1986 · amizade
+- 041 · Natal Em Julho · curiosa
+- 042 · O Caderno Do Fiado · reflexao
+- 043 · A Mudança No Sedan · humor
+- 044 · A Carteira Devolvida · superacao
+- 045 · O Narrador Do Escuro · futebol
+- 046 · A Madrasta Da Noiva · familia
+- 047 · A Bateria No Engarrafamento · humor
+- 048 · A Dedicatória Guardada · amor
+- 049 · A Mangueira Da Discórdia · amizade
+- 050 · O Dia 7 · curiosa
+- 051 · A Cadeira Que Não Parou · superacao
+- 052 · O Dono Da Fábrica · reflexao
+- 053 · A Sogra E O Pneu · humor
+- 054 · O Nome Do Bebê · familia
+- 055 · O Baile Da Saudade · amor
+- 056 · O Ex-Cantor De Forró · humor
+- 057 · Os Rivais Da Mesma Casa · futebol
+- 058 · A Apresentação Do Tcc · superacao
+- 059 · A Trança Torta · familia
+- 060 · Os Guarda-Chuvas Emprestados · curiosa
+- 061 · O Relógio Parado · reflexao
+- 062 · As Moedas Do Sinal · amizade
+- 063 · A Vovó Da Live · humor
+- 064 · O Primeiro Encontro De Novo · amor
+- 065 · O Jardineiro Do Gramado · futebol
+- 066 · A Fuga Do Seu Damião · familia
+- 067 · A Igreja Errada · humor
+- 068 · A Diarista Doutora · superacao
+- 069 · A Carta De Dez Anos · reflexao
+- 070 · O Detetive De Gatos · curiosa
+- 071 · As Duas Alianças · amor
+- 072 · Os Três Do Pastel · amizade
+- 073 · A Reunião De Pais · familia
+- 074 · A Peruca Do Juiz De Paz · humor
+- 075 · O Torcedor Solitário · futebol
+- 076 · O Coral Das Senhoras · humor
+- 077 · O Livro Da Dona Francisca · superacao
+- 078 · O Livro Do Ônibus 22 · amor
+- 079 · O Relógio Da Torre · curiosa
+- 080 · A Última Corrida Do Taxista · reflexao
+- 081 · O Violão Da Madrugada · amizade
+- 082 · O Bolo Da Dona Marta · familia
+- 083 · O Pinguim Da Geladeira · humor
+- 084 · O Garçom De Cinco Línguas · superacao
+- 085 · O Juiz Que Pediu Desculpa · futebol
+- 086 · O Primeiro Salário · familia
+- 087 · A Dentadura Fujona · humor
+- 088 · A Moça Do Pedágio · amor
+- 089 · As Mudas Do Seu Bento · curiosa
+- 090 · A Travessia Da Dona Zenaide · superacao
+- 091 · O Homem Que Descia Antes · reflexao
+- 092 · A Aposentadoria Do Thor · amizade
+- 093 · A Galinha De Presente · humor
+- 094 · A Festa Surpresa · familia
+- 095 · A Promessa A Pé · futebol
+- 096 · O Encontro Número 100 · amor
+- 097 · O Bolo Misto · humor
+- 098 · O Estagiário De 58 Anos · superacao
+- 099 · A Cartomante Do Ponto Final · curiosa
+- 100 · A Passageira Rosângela · amor
+- 101 · Um Dia Sem Celular · reflexao
+- 102 · O Bombeiro E A Formanda · amizade
+- 103 · O Casamento Da Quadrilha · humor
+- 104 · O Copiloto Da Faxina · superacao
+- 105 · A Bola De Capotão · futebol
+- 106 · A Última Figurinha · familia
+- 107 · A Dieta Do Seu Juvenal · humor
+- 108 · O Retratista Da Praça · amor
+- 109 · Os Viúvos Da Pescaria · amizade
+- 110 · O Despertador Do Bairro · curiosa
+- 111 · O Gari Poeta · superacao
+- 112 · O Velório Antecipado · reflexao
+- 113 · O Bebê Da Buzina · humor
+- 114 · A Avó Motoqueira · familia
+- 115 · O Abafador De Ouvido · futebol
+- 116 · O Encontro Duplo · amor
+- 117 · O Dinossauro Inflável · humor
+- 118 · Mãe E Filho No Vestibular · superacao
+- 119 · O Colecionador De Chaves · curiosa
+- 120 · A Ceia No Posto · familia
+- 121 · O Último Corte · reflexao
+- 122 · O Engraxate Do Fórum · amizade
+- 123 · O Grupo Da Família · humor
+- 124 · A Primeira Taxista · superacao
+- 125 · O Pipoqueiro Do Estádio · futebol
+- 126 · O Filho De Portugal · familia
+- 127 · O Rei Do Bingo · humor
+- 128 · Os Bilhetes No Varal · amor
+- 129 · O Menino Do Xadrez · amizade
+- 130 · As Cartas Para Desconhecidos · curiosa
+- 131 · O Cozinheiro Sem Olfato · superacao
+- 132 · O Presidente No Bairro · reflexao
+- 133 · A Sogra Supersticiosa · humor
+- 134 · A Primeira Palavra Em Libras · familia
+- 135 · A Juíza De Treze Anos · futebol
+- 136 · A Serenata Dos Sessenta Anos · amor
+- 137 · O Mágico Desastrado · humor
+- 138 · A Bailarina De Cinquenta · superacao
+- 139 · O Pombo-Correio · curiosa
+- 140 · A Valsa Na Cadeira De Rodas · familia
+- 141 · A Mala Pequena · reflexao
+- 142 · A Vaquinha Dos Motoristas · amizade
+- 143 · A Vovó Do Karaokê · humor
+- 144 · O Surfista De Uma Perna · superacao
+- 145 · Os Meninos Da Laje · futebol
+- 146 · O Casal Do Lar · amor
+- 147 · A Lista De Compras Cifrada · humor
+- 148 · A Escola Do Bernardo · superacao
+- 149 · As Pegadas No Cimento · curiosa
+- 150 · O Tio Solteirão · familia
+- 151 · A Linha Que Não Passa Mais · reflexao
+- 152 · Os Colegas Da Fábrica · amizade
+- 153 · O Concurso De Bigode · humor
+- 154 · A Enfermeira Da Uti · superacao
+- 155 · O Goleiro Invicto · futebol
+- 156 · O Casamento No Ônibus · amor
+- 157 · O Pato Fiel · humor
+- 158 · O Violino De Lata · superacao
+- 159 · A Biblioteca Da Kombi · curiosa
+- 160 · A Casa Da Vó · familia
+- 161 · O Dono Da Viação · reflexao
+- 162 · O Cego E O Cadeirante · amizade
+- 163 · O Celular No Bueiro · humor
+- 164 · A Doutora Da Comunidade · superacao
+- 165 · A Técnica Da Cadeira De Rodas · futebol
+- 166 · A Flor Do Dia · amor
+- 167 · A Bolsa Infinita Da Dona Nice · humor
+- 168 · O Pedreiro Arquiteto · superacao
+- 169 · O Hospital De Bonecas · curiosa
+- 170 · As Histórias Do Avô No Áudio · familia
+- 171 · O Dia Em Que Eu Fui Grosso · reflexao
+- 172 · As Varandas Vizinhas · amizade
+- 173 · A Mãe No Show De Rock · humor
+- 174 · A Merendeira Chef · superacao
+- 175 · O Clube Que Fechou · futebol
+- 176 · A Volta Pra Terra Natal · familia
+- 177 · O Casamento Dos Cachorros · humor
+- 178 · O Bilhete Da Quinta Série · amor
+- 179 · O Homem Que Lembra De Todos · curiosa
+- 180 · A Passista De Sessenta · superacao
+- 181 · Você É Feliz, Moço? · reflexao
+- 182 · O Caramelo Da Rua · amizade
+- 183 · As Freiras E A Televisão · humor
+- 184 · A Marmita Desenhada · familia
+- 185 · O Gol Contra De 1987 · futebol
+- 186 · A Casa Amarela · amor
+- 187 · O Pastor E O Pagodeiro · humor
+- 188 · O Menino Do Lixão · superacao
+- 189 · O Escrivão Do Amor · curiosa
+- 190 · As Duas Avós · familia
+- 191 · A Última Aula De Direção · reflexao
+- 192 · As Comadres Do Ponto · amizade
+- 193 · A Voz Do Gps · humor
+- 194 · O Livro Em Braille · superacao
+- 195 · A Vó Do Bolão · futebol
+- 196 · O Marido Na Cozinha · amor
+- 197 · A Mãe Do Rastreador · humor
+- 198 · O Pianista De Oito Dedos · superacao
+- 199 · O Museu Na Garagem · curiosa
+- 200 · A Primeira Corrida · reflexao
+- 201 · O Homem Dos Enterros · reflexao
+- 202 · O Entregador E A Dona Edith · amizade
+- 203 · O Sósia Do Cantor · humor
+- 204 · A Mestre De Obras · superacao
+- 205 · A Promessa Do Seu Joaquim · futebol
+- 206 · A Moça Do Cartório · amor
+- 207 · O Vô Do Patinete · humor
+- 208 · O Professor Do Haiti · superacao
+- 209 · O Senhor Das Pipas · curiosa
+- 210 · A Carteira Do Avô · familia
+- 211 · A Senhora Da Janela · reflexao
+- 212 · O Menino E Os Garis · amizade
+- 213 · O Dentista Com Medo · humor
+- 214 · O B-Boy No Balé · superacao
+- 215 · O Torcedor Visitante · futebol
+- 216 · Os Vizinhos De Loja · amor
+- 217 · A Sogra Da Semana · humor
+- 218 · A Costureira Das Gordinhas · superacao
+- 219 · A Rua Sem Nome · curiosa
+- 220 · O Irmão Mais Novo · familia
+- 221 · O Voo Perdido · reflexao
+- 222 · Os Recrutas De 1968 · amizade
+- 223 · O Sapo Fujão · humor
+- 224 · O Brigadeiro Do Sinal · superacao
+- 225 · O Escudo Bordado · futebol
+- 226 · A Aula De Dança De Salão · amor
+- 227 · O Bolo Trocado · humor
+- 228 · O Pintor Sem Braços · superacao
+- 229 · O Colecionador De Sons · curiosa
+- 230 · A Bisavó Centenária · familia
+- 231 · A Volta Sem Destino · reflexao
+- 232 · O Porteiro Do Seu Oscar · amizade
+- 233 · As Alianças Esquecidas · humor
+- 234 · O Dj Que Não Ouve · superacao
+- 235 · O Campeonato De Botão · futebol
+- 236 · O Amor Da Fila · amor
+- 237 · A Abóbora Gigante · humor
+- 238 · O Nadador Cego · superacao
+- 239 · Os Mapas Do Seu Olavo · curiosa
+- 240 · A Viagem Dos Primos · familia
+- 241 · O Último Ponto · reflexao
+- 242 · A Rampa Do Skate · amizade
+- 243 · A Despedida De Solteiro Dos Avós · humor
+- 244 · A Cientista Da Laje · superacao
+- 245 · O Goleiro Gordinho · futebol
+- 246 · A Garrafa Na Lagoa · amor
+- 247 · O Influencer Mirim · humor
+- 248 · O Agrônomo Da Roça · superacao
+- 249 · Os Cartões-Postais · curiosa
+- 250 · O Meu Primeiro Carro · reflexao
+- 251 · O Que É Saudade · reflexao
+- 252 · As Senhoras Do Crochê · amizade
+- 253 · A Senhora Que Achou Que Eu Era O Neto · humor
+- 254 · A Cantora Do Ônibus · superacao
+- 255 · A Pelada Dos Pais · futebol
+- 256 · O Amor Da Lavanderia · amor
+- 257 · O Motorista Novato · humor
+- 258 · A Escola Que Ele Construiu · superacao
+- 259 · O Tatuador De Idosos · curiosa
+- 260 · As Gêmeas Trocadas · familia
+- 261 · O Café Pendurado · reflexao
+- 262 · O Muro Dos Recados · amizade
+- 263 · A Tia Da Excursão · humor
+- 264 · A Menina Da Robótica · superacao
+- 265 · O Narrador Mirim · futebol
+- 266 · O Bolo Do Aniversário Dela · amor
+- 267 · O Avô Que Virou Meme · humor
+- 268 · O Bombeiro De Setenta · superacao
+- 269 · O Leitor De Jornal · curiosa
+- 270 · A Árvore Genealógica · familia
+- 271 · O Pescador Que Devolvia · reflexao
+- 272 · A Faxineira E A Advogada · amizade
+- 273 · O Ronco Do Passageiro · humor
+- 274 · A Bordadeira No Museu · superacao
+- 275 · A Seleção Do Lar · futebol
+- 276 · O Bilhete No Pão · amor
+- 277 · O Marido Esquecido No Posto · humor
+- 278 · A Biblioteca Da Garagem · superacao
+- 279 · O Afinador De Pianos · curiosa
+- 280 · O Pai Que Mudou Pra Casa Do Filho · familia
+- 281 · O Dia Sem Reclamar · reflexao
+- 282 · O Motorista E O Menino Do Ônibus · amizade
+- 283 · O Ensaio Da Formatura Do Avô · humor
+- 284 · O Café Da Dona Conceição · superacao
+- 285 · O Ingresso Que Voou · futebol
+- 286 · Os Noivos Do Bloco · amor
+- 287 · O Dna Do Cachorro · humor
+- 288 · O Chaveiro Da Escola De Ofícios · superacao
+- 289 · O Senhor Das Lanternas · curiosa
+- 290 · A Avó Do Pix · familia
+- 291 · O Rapaz Que Queria Ser Rico · reflexao
+- 292 · O Grupo Da Caminhada · amizade
+- 293 · O Gato Do Condomínio · humor
+- 294 · A Cadeira De Rodas Do Tobias · superacao
+- 295 · A Vaquinha Da Chuteira · futebol
+- 296 · O Casamento Aos Cem · amor
+- 297 · As Malas Iguais · humor
+- 298 · O Consertador Da Calçada · superacao
+- 299 · A Caixa De Fósforos · curiosa
+- 300 · O Aniversário Do Caixeiro · familia
+- 301 · A Pergunta Da Mãe Cansada · reflexao
+- 302 · Os Vizinhos Do Apagão · amizade
+- 303 · O Pijama No Shopping · humor
+- 304 · O Alpinista De Setenta · superacao
+- 305 · O Mascote Do Time · futebol
+- 306 · O Disco Arranhado · amor
+- 307 · O Terno Alugado · humor
+- 308 · O Sapateiro Maratonista · superacao
+- 309 · O Leilão Dos Achados · curiosa
+- 310 · O Pai Dos Trigêmeos · familia
+- 311 · O Executivo De Chinelo · reflexao
+- 312 · O Padeiro E O Vigia · amizade
+- 313 · A Foto Do Rg · humor
+- 314 · A Arremessadora · superacao
+- 315 · A Escolinha Do Viaduto · futebol
+- 316 · O Correio Elegante · amor
+- 317 · O Tio Do Churrasco · humor
+- 318 · O Livreiro Que Não Lia · superacao
+- 319 · O Relógio De Bolso · curiosa
+- 320 · A Noite Sem Televisão · familia
+- 321 · O Homem Que Contava Os Passos · reflexao
+- 322 · O Amigo De Correspondência · amizade
+- 323 · O Ensaio Do Pedido · humor
+- 324 · O Farol Da Estrada · curiosa
+- 325 · A Passageira das Caretas · humor · avó de 68 anos indo ao centro cultural · oficina de caretas para pais e filhos montada pela neta
+- 326 · A Feira de Ciências na Farmácia · familia · pai e filha astronauta, mãe caixa de farmácia · filha leva a feira de ciências até a mãe que trabalha

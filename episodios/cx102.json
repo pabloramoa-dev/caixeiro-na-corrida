@@ -1,0 +1,273 @@
+{
+ "id": "cx102",
+ "ep": 102,
+ "avulso": true,
+ "titulo": "O BOMBEIRO E A FORMANDA",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🚒 Há 22 anos ele tirou uma menina de 4 anos de um incêndio. Hoje ia na formatura dela. Ela tinha virado bombeira.\n\nQuem você gostaria de reencontrar pra agradecer? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bombeiro #gratidao #heroi #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚒 Há 22 anos ele tirou uma menina de 4 anos de um incêndio. Hoje ia na formatura dela. Ela tinha virado bombeira. Quem você gostaria de reencontrar pra agradecer? 👇\nHistória de ficção.\n#bombeiro #gratidao #heroi #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um herói que nunca se achou herói.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "achou",
+    "herói."
+   ]
+  },
+  {
+   "fala": "Sexta, seis da tarde. Entrou um senhor de uns sessenta e cinco anos, camisa social, sapato engraxado, e uma caixinha de presente na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 18H"
+   ],
+   "destaque": [
+    "presente",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Disse: vou numa formatura. Do corpo de bombeiros. Eu perguntei: de algum neto? Ele disse: de uma menina que eu conheci há vinte e dois anos.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vou numa formatura."
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Seu Ronaldo. Bombeiro por trinta anos. Aposentado. Disse que perdeu a conta de quantas vezes entrou em casa pegando fogo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "BOMBEIRO APOSENTADO"
+   ],
+   "destaque": [
+    "pegando",
+    "fogo."
+   ]
+  },
+  {
+   "fala": "Mas uma ele nunca esqueceu. Um incêndio num prédio antigo, de madrugada. Terceiro andar. Uma menina de quatro anos escondida no armário.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Uma eu nunca esqueci."
+   ],
+   "destaque": [
+    "escondida",
+    "armário."
+   ]
+  },
+  {
+   "fala": "Contou que a fumaça era tão grossa que ele achou ela pelo choro. Embrulhou numa toalha molhada e desceu a escada com ela no peito.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "escada",
+    "peito."
+   ]
+  },
+  {
+   "fala": "Disse: ela segurou a minha orelha o caminho todo. Com tanta força que ficou roxa. Eu achei engraçado depois.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela segurou minha orelha."
+   ],
+   "destaque": [
+    "engraçado",
+    "depois."
+   ]
+  },
+  {
+   "fala": "A família mudou de cidade. Ele nunca mais soube dela. Até que, um mês antes, chegou uma carta no quartel antigo. Endereçada a ele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "antigo.",
+    "Endereçada"
+   ]
+  },
+  {
+   "fala": "Era dela. Dizia: o senhor me tirou do armário quando eu tinha quatro anos. Eu vou me formar bombeira. Quero o senhor lá.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A CARTA"
+   ],
+   "destaque": [
+    "senhor",
+    "lá."
+   ]
+  },
+  {
+   "fala": "Ele me mostrou a carta. Dobrada e redobrada, de tanto ler. Disse que leu umas cem vezes.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "cem",
+    "vezes."
+   ]
+  },
+  {
+   "fala": "Aí bateu o medo: e se eu não reconhecer ela? Ela tinha quatro anos. Hoje tem vinte e seis. Eu tô velho.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se ela não lembrar de mim?"
+   ],
+   "destaque": [
+    "seis.",
+    "velho."
+   ]
+  },
+  {
+   "fala": "Chegamos no quartel. Pátio enorme, banda tocando, famílias com flores. Uns sessenta formandos de uniforme de gala, em fila.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "gala,",
+    "fila."
+   ]
+  },
+  {
+   "fala": "Ele me pediu pra ficar junto. Disse que estava com as pernas bambas. Fui. Ficamos no fundo, perto da grade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "perto",
+    "grade."
+   ]
+  },
+  {
+   "fala": "Começou a cerimônia. Hino, discurso, juramento. Ele procurando com os olhos, um por um, os formandos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "CERIMÔNIA"
+   ],
+   "destaque": [
+    "olhos,",
+    "formandos."
+   ]
+  },
+  {
+   "fala": "Aí chamaram uma formanda pra fazer o discurso da turma. Uma moça morena, alta, de cabelo preso. E ela começou.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "preso.",
+    "começou."
+   ]
+  },
+  {
+   "fala": "Disse: eu escolhi essa profissão por causa de um homem que me tirou de um armário quando eu tinha quatro anos. Ele está aqui hoje.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O DISCURSO"
+   ],
+   "destaque": [
+    "aqui",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "E olhou pro fundo do pátio. Direto pra ele. Ela sabia exatamente onde ele estava. Tinha visto quando a gente chegou.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "gente",
+    "chegou."
+   ]
+  },
+  {
+   "fala": "Ela chamou: seu Ronaldo, por favor, sobe aqui. Ele não se mexeu. Eu dei um empurrãozinho nas costas dele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Seu Ronaldo, sobe aqui."
+   ],
+   "destaque": [
+    "costas",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ele subiu no palanque de pernas tremendo. Ela bateu continência. Ele bateu de volta. E aí os dois desabaram num abraço.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "num",
+    "abraço."
+   ]
+  },
+  {
+   "fala": "E no meio do abraço, na frente de todo mundo, ela segurou a orelha dele. Igualzinho. O pátio inteiro riu e chorou.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A ORELHA"
+   ],
+   "destaque": [
+    "riu",
+    "chorou."
+   ]
+  },
+  {
+   "fala": "Na caixinha de presente, ele levou o distintivo antigo dele. Prendeu no uniforme dela. Disse: agora é sua vez de achar os pequenininhos pelo choro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pelo",
+    "choro."
+   ]
+  },
+  {
+   "fala": "Na volta, ele ficou mexendo na orelha, sorrindo. Disse que estava roxa de novo. Não estava. Mas eu concordei.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "estava.",
+    "concordei."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem herói que não sabe que salvou uma vida inteira. Até ela voltar de uniforme.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AGRADECE"
+   ],
+   "destaque": [
+    "voltar",
+    "uniforme."
+   ]
+  },
+  {
+   "fala": "E se tem alguém que te salvou de algum jeito, escreve uma carta. Ele pode estar esperando há vinte e dois anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEGURA A ORELHA"
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  }
+ ]
+}

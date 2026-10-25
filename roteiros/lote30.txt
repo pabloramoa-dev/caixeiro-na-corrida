@@ -1,0 +1,262 @@
+## 315 | A ESCOLINHA DO VIADUTO | futebol | dia
+G: ⚽ Debaixo de um viaduto, entre pilastra e barulho de caminhão, um ex-jogador treina sessenta crianças. De graça. Há doze anos.
+P: Onde você jogava bola quando era criança?
+H: #futebol #criancas #projetosocial
+neutra | titulo | Sobe aí, que essa corrida terminou debaixo de um viaduto. No melhor campo de futebol da cidade.
+neutra | relogio: SÁBADO · 7H | Sábado, sete da manhã. Entrou um senhor de uns cinquenta e oito anos, agasalho velho, apito no pescoço. Com um saco de redinha cheio de bolas.
+neutra | conversa: Me leva no viaduto. | Disse: me leva no viaduto da avenida. Eu perguntei: em cima ou embaixo? Ele riu: embaixo. É lá que fica o meu campo.
+neutra | carimbo: SEU TARCÍSIO | Seu Tarcísio. Foi jogador profissional nos anos oitenta. Lateral direito. Jogou em clube grande. Uma temporada. Depois rodou por times pequenos.
+triste | conversa: O futebol me deixou sem nada. | Disse: o futebol me deu fama por um ano. E me deixou sem nada por vinte. Não guardei dinheiro. Não estudei. Fiquei sem rumo.
+neutra | - | Contou que um dia passou debaixo do viaduto e viu uns meninos jogando com uma garrafa pet. Descalços. Entre as pilastras. Desviando de carrinho de catador.
+neutra | conversa: Eu parei pra olhar. | Disse: eu parei pra olhar. Um menino chutou a garrafa e eu gritei: tá errado! Usa a parte de dentro do pé! E fui ensinar.
+neutra | - | No sábado seguinte, levou uma bola. Tinha oito meninos. No outro, quinze. Em um ano, quarenta. Hoje tem sessenta. Meninos e meninas.
+neutra | mapa | Chegamos. E eu não acreditei. Debaixo do viaduto, um campo de terra batida, cal nas linhas, duas traves de cano pintadas de branco. E sessenta crianças esperando.
+rindo | conversa: A pilastra é zagueiro. | Ele riu: as pilastras são os melhores zagueiros do mundo. Não erram nunca. Quem aprende a driblar pilastra, dribla qualquer um.
+neutra | carimbo: A REGRA DO CAMPO | E me mostrou uma placa pintada à mão. Regra do campo: só treina quem está na escola. Boletim na mão todo mês. Nota vermelha, banco.
+rindo | - | Um menino veio correndo mostrar o boletim. Tudo azul. O seu Tarcísio deu um abraço como se fosse gol de final.
+triste | conversa: Eu não quero que eles sejam eu. | Disse: eu não quero que eles sejam eu. Quero que joguem bola. Mas que estudem. Porque o futebol acaba. O estudo não.
+neutra | - | Eu fiquei pra ver o treino. Barulho de caminhão em cima. Poeira embaixo. E sessenta crianças rindo, correndo, gritando o nome dele.
+chocada | manchete: O EX-ALUNO | No meio do treino, chegou um carro bonito. Desceu um rapaz de uns vinte e cinco anos. Bem vestido. As crianças pararam.
+chocada | carimbo: O PRIMEIRO MENINO | O seu Tarcísio disse: aquele ali é o Thalles. O menino da garrafa pet. O primeiro de todos. Hoje é engenheiro.
+triste | conversa: Vim pagar a dívida. | O Thalles abriu o porta-malas. Sessenta pares de chuteira. Uniformes novos. Uma rede de verdade pras traves. E disse: vim pagar a dívida, professor.
+triste | coracao: O ABRAÇO NO CAMPO | O seu Tarcísio não falou nada. Só abraçou o rapaz. No meio do campo de terra. Com as sessenta crianças em volta, pulando.
+rindo | - | E o Thalles disse: e agora eu venho dar treino de matemática antes do futebol. Toda semana. As crianças vaiaram. O seu Tarcísio aplaudiu.
+neutra | - | Fui embora com o barulho dos caminhões em cima. E a sensação de que ali embaixo, no meio da poeira, tinha mais futuro que em muito prédio bonito.
+neutra | manchete_v: O CAMPO É QUALQUER LUGAR | Moral da história: não precisa de estádio pra mudar vidas. Precisa de alguém que pare pra olhar.
+rindo | coracao: PARA E OLHA | E se você passar por criança jogando bola em lugar improvisado, para e olha. Pode ter um futuro engenheiro ali. Ou um craque.
+
+## 316 | O CORREIO ELEGANTE | amor | noite
+G: 💌 Festa junina de 1979. Ela recebeu um correio elegante sem assinatura. Passou quarenta e cinco anos sem saber quem mandou.
+P: Você já mandou ou recebeu correio elegante?
+H: #amor #festajunina #correioelegante
+neutra | titulo | Sobe aí, que essa corrida resolveu um mistério de festa junina de quarenta e cinco anos atrás.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Entrou uma senhora de uns sessenta e oito anos, vestido de chita, chapéu de palha. Indo pra uma festa junina de escola.
+rindo | conversa: É a festa da minha neta. | Disse: é a festa da escola da minha neta. Mas eu vou é pela canjica. E abriu a bolsa. Tirou um papel velhinho, dobrado em quatro.
+neutra | carimbo: DONA MATILDE | Dona Matilde. Viúva há dez anos. E aquele papel era um correio elegante. De mil novecentos e setenta e nove. Amarelo, com a tinta quase sumindo.
+triste | conversa: Escuta o que diz. | Ela leu: para a moça de trança e fita vermelha. Você é a quadrilha mais bonita do arraial. De quem não tem coragem de assinar.
+neutra | - | Contou que tinha quatorze anos. Usava trança com fita vermelha. Recebeu o bilhete e passou a festa inteira procurando o autor. Nunca descobriu.
+rindo | conversa: Eu desconfiava de três. | Riu: eu desconfiava de três meninos. O Rui do bar, o Cícero da farmácia e o Hermes da igreja. Nenhum confessou.
+neutra | - | Depois ela casou com outro. Foi feliz. Muito feliz. Mas guardou o bilhete. Disse que não por amor. Por curiosidade. Mistério que fica.
+neutra | mapa | Chegamos na escola. Ela pediu pra eu entrar. Disse: você vai querer ver a quadrilha. A minha neta é a noiva. Entrei. Comprei uma pamonha.
+neutra | - | No meio da festa, tinha uma barraca de correio elegante. As crianças mandando bilhete pros coleguinhas. A dona Matilde ficou olhando, sorrindo.
+chocada | manchete: O SENHOR DO BILHETE | Aí um senhor de chapéu de palha parou do lado dela. Uns setenta anos. Avô de outra criança. E olhou pro papel na mão dela.
+chocada | conversa: Ainda guarda isso? | Ele disse baixinho: a senhora ainda guarda isso? A dona Matilde ficou branca. Perguntou: como você sabe o que é isso?
+triste | carimbo: O AUTOR | Ele tirou o chapéu. E disse: porque fui eu que escrevi. Em setenta e nove. Era o Abel. O menino tímido do fundo da sala. Que ela nem tinha na lista.
+rindo | conversa: Você nem estava na lista! | A dona Matilde riu: você nem estava na minha lista, Abel! Ele riu também: eu sei. Por isso eu não assinei. Eu sabia que não estava.
+triste | - | Contou que quis entregar pessoalmente. Mas ficou com vergonha. Depois a família dele mudou de cidade. E ele voltou só agora. Viúvo também. Pra perto dos netos.
+neutra | - | E a coincidência: a neta dele e a neta dela dançavam juntas na quadrilha. O noivo e a noiva. Eles nem sabiam.
+triste | coracao: A FITA VERMELHA | O seu Abel disse: a senhora ainda fica bonita de chapéu de palha. Ela ficou vermelha. Igual a fita da trança de setenta e nove.
+rindo | - | Na hora do correio elegante, a barraca anunciou: bilhete para a dona Matilde! Era dele. Dessa vez, assinado. Com nome completo e telefone.
+rindo | conversa: Demorou, hein? | Ela leu e disse alto: demorou, hein, Abel? Quarenta e cinco anos! A festa inteira riu. As netas não entenderam nada.
+neutra | - | Levei os dois embora juntos. Ela com dois bilhetes na bolsa. O de setenta e nove e o de hoje. Ele de chapéu na mão, igual menino.
+neutra | manchete_v: ASSINA O BILHETE | Moral da história: coragem que falta aos quatorze às vezes aparece aos setenta. Mas não precisa esperar tanto.
+rindo | coracao: MANDA O RECADO | E se tem alguém pra quem você nunca teve coragem de falar, fala. Assina o bilhete. Quarenta e cinco anos é muito tempo.
+
+## 317 | O TIO DO CHURRASCO | humor | dia
+G: 🥩 Ele se diz o maior churrasqueiro da família. Levou dez quilos de carne pro aniversário. Mas esqueceu uma coisa básica.
+P: Quem é o churrasqueiro da sua família?
+H: #humor #churrasco #familia
+neutra | titulo | Sobe aí, que essa corrida levou dez quilos de carne, um avental e um especialista sem fogo.
+neutra | relogio: DOMINGO · 10H | Domingo, dez da manhã. Entrou um senhor de uns cinquenta anos, avental escrito MESTRE DO FOGO, chapéu de cowboy e duas caixas de isopor.
+neutra | conversa: Hoje eu comando a grelha. | Disse: hoje eu comando a grelha. Aniversário da minha sobrinha. Trinta pessoas. Eu sou o tio do churrasco.
+neutra | carimbo: TIO GENÉSIO | Tio Genésio. Na família, ninguém mais pode chegar perto da churrasqueira. Ele tem faca própria, sal grosso importado e uma playlist só pra assar carne.
+rindo | conversa: Eu tenho técnica. | Disse: eu tenho técnica. Tem que respeitar o tempo da carne. Tem que conversar com ela. A picanha sente quando você está nervoso.
+rindo | - | No caminho, ele explicou o ponto de cada carne. Por vinte minutos. Eu só queria saber se era pra virar à direita ou à esquerda.
+neutra | mapa | Chegamos na casa da irmã dele. Quintal grande, churrasqueira de tijolo. Trinta pessoas com fome. As crianças correndo. O tio entrou aplaudido.
+neutra | - | Ele me pediu pra ajudar a descarregar. Abriu as caixas. Picanha, fraldinha, linguiça, coração, pão de alho. Tudo bonito. Dez quilos.
+chocada | carimbo: O PROBLEMA | Aí ele olhou pra churrasqueira. Olhou pras caixas. Olhou pra mim. E perguntou baixinho: motorista, tem carvão no seu porta-malas?
+chocada | conversa: Esqueci o carvão. | Disse: esqueci o carvão. Dez quilos de carne. E nenhum carvão. O mestre do fogo. Sem fogo.
+rindo | - | A irmã dele ouviu. E gritou pro quintal inteiro: o Genésio esqueceu o carvão! Trinta pessoas olharam ao mesmo tempo.
+rindo | conversa: Eu tenho uma ideia. | Ele disse: eu tenho uma ideia. Vamos no mercado. Volto em dez minutos. Me levou junto. De avental e chapéu de cowboy.
+chocada | manchete: DOMINGO FECHADO | O mercado do bairro estava fechado. O posto não vendia. A loja de conveniência tinha acabado. Rodamos quarenta minutos. Ele cada vez mais pálido.
+rindo | conversa: Liga pro seu Bartolomeu! | No desespero, ele ligou pra todo mundo. Até que um vizinho, o seu Bartolomeu, disse: eu tenho meio saco. Mas tem que me convidar.
+rindo | - | Buscamos o meio saco. E o seu Bartolomeu. E a esposa do seu Bartolomeu. E o cachorro do seu Bartolomeu. Todos no meu carro.
+neutra | mapa | Voltamos pro aniversário. Uma hora e meia depois. As crianças comendo pão puro. A sobrinha olhando feio. A irmã de braço cruzado.
+rindo | - | Meio saco de carvão pra dez quilos de carne. O tio Genésio assou em turnos. Linguiça primeiro. Picanha por último. A festa acabou às nove da noite.
+rindo | carimbo: O NOVO TÍTULO | No fim, a família fez um avental novo pra ele. Escrito: MESTRE DO FOGO. Embaixo, menor: traga o carvão.
+rindo | coracao: O CONVIDADO | E o seu Bartolomeu? Comeu a picanha inteira. Disse que foi o melhor churrasco da vida dele. Agora é convidado fixo. E fica responsável pelo carvão.
+neutra | manchete_v: O BÁSICO PRIMEIRO | Moral da história: não adianta ser mestre se esquecer o básico. Primeiro o carvão. Depois a técnica.
+rindo | coracao: MARCA O TIO | E marca aí nos comentários o tio do churrasco da sua família. Aquele que sabe tudo. Menos onde fica o carvão.
+
+## 318 | O LIVREIRO QUE NÃO LIA | superacao | noite
+G: 📚 Aprendeu a ler aos cinquenta e dois anos. Aos cinquenta e oito, abriu uma livraria. Hoje ele lê pra quem também não sabe.
+P: Qual foi o livro que mudou a sua vida?
+H: #superacao #leitura #livros
+neutra | titulo | Sobe aí, que essa corrida levou um livreiro que passou cinquenta anos escondendo que não sabia ler.
+neutra | relogio: QUINTA · 19H | Quinta, sete da noite. Entrou um senhor de uns sessenta anos com três caixas de livro. Pesadas. Pediu ajuda pra colocar no porta-malas.
+neutra | conversa: São livros usados. | Disse: são livros usados. Doação. Vou levar pra minha livraria. Uma livrariazinha. Pequenininha. Mas é minha.
+neutra | carimbo: SEU SEVERINO | Seu Severino. Veio do interior com dez anos. Trabalhou desde menino. Pedreiro, porteiro, vigia. Nunca foi pra escola.
+triste | conversa: Eu fingia que lia. | Disse: eu fingia que lia. Pegava o jornal e ficava olhando. Na hora de assinar, dizia que tinha esquecido o óculos. Quarenta anos de óculos esquecido.
+triste | - | Contou da vergonha. No banco, pedia pro caixa preencher. No médico, decorava o que o doutor falava. No ônibus, decorava a cor e não o nome da linha.
+triste | carimbo: O NETO | Até que o neto de sete anos pediu: vô, lê uma história pra mim? Ele inventou uma história. O menino disse: não é isso que tá escrito, vô.
+neutra | conversa: Naquele dia eu decidi. | Disse: naquele dia eu decidi. Fui numa escola de adultos. À noite. Com cinquenta e dois anos. Sentado do lado de um rapaz de dezoito.
+rindo | - | Riu: a professora tinha a idade da minha filha. Eu chamava ela de dona. Ela me chamava de seu Severino. Parecia que eu era o professor.
+neutra | - | Levou dois anos pra ler uma frase inteira sem parar. A primeira coisa que ele leu sozinho foi o nome da própria rua. Ficou meia hora parado na placa.
+triste | conversa: Eu chorei na placa. | Disse: eu chorei na placa. Passei quarenta anos por aquela rua sem saber o nome dela. Rua das Flores. Era bonito o nome.
+neutra | - | Depois leu o primeiro livro. Demorou seis meses. Depois o segundo. Em três meses. Depois não parou mais. Virou viciado em livro.
+neutra | mapa | Chegamos na livraria dele. Um cômodo na frente da casa. Estante feita de caixote. Uns dois mil livros. Todos de doação. E uma plaquinha: troca-se livro por livro.
+chocada | carimbo: A HORA DA LEITURA | Tinha umas oito pessoas esperando. Adultos. Sentados em banquinho. Ele disse: é a hora da leitura. Toda quinta. Eu leio pra quem não sabe ler.
+triste | conversa: Eles têm vergonha igual eu tinha. | Disse: eles têm vergonha igual eu tinha. Eu leio em voz alta. Depois a gente vê as letras juntos. Sem pressa. Sem professora.
+neutra | - | Já ensinou quatorze pessoas a ler. Na livraria. Uma delas abriu um negócio. Outra tirou carteira de motorista. Outra escreveu uma carta pra mãe.
+triste | coracao: A LEITURA DO NETO | E sabe quem ajuda ele toda quinta? O neto. Hoje com quinze anos. Que fica na porta recebendo as pessoas. O mesmo neto da história inventada.
+rindo | conversa: Agora quem lê sou eu. | O seu Severino riu: hoje quem lê história pra ele sou eu. E ele reclama que eu leio devagar. Mas eu leio o que tá escrito.
+neutra | - | Antes de eu ir, ele me deu um livro. Disse: pra ler no ponto, esperando passageiro. E escreveu uma dedicatória. Com letra caprichada, devagar.
+neutra | manchete_v: NUNCA É TARDE | Moral da história: nunca é tarde pra aprender. E quem aprendeu tarde sabe ensinar com mais paciência.
+rindo | coracao: LÊ PRA ALGUÉM | E se você conhece alguém com vergonha de não saber ler, oferece ajuda. Com carinho. Sem pressa. Pode mudar uma vida.
+
+## 319 | O RELÓGIO DE BOLSO | curiosa | dia
+G: ⌚ Achou um relógio de bolso na casa que comprou. Dentro da tampa, uma gravação de 1931. Ela procurou a família por oito meses.
+P: Você tem algum objeto de família muito antigo?
+H: #curiosidade #historia #familia
+neutra | titulo | Sobe aí, que essa corrida levou um relógio de noventa e cinco anos de volta pra casa.
+neutra | relogio: QUARTA · 15H | Quarta, três da tarde. Entrou uma moça de uns trinta e cinco anos com uma caixinha de veludo nas mãos. Segurava como se fosse de vidro.
+neutra | conversa: Encontrei a família. | Disse: encontrei a família. Depois de oito meses. Eu tô indo devolver. Tô tremendo. Mostrou as mãos. Tremendo mesmo.
+neutra | carimbo: A LORENA | Lorena. Comprou uma casa antiga no centro histórico. Na reforma, o pedreiro achou uma caixinha dentro de uma parede. Atrás de um tijolo solto.
+desconfiada | conversa: Olha a tampa. | Abriu a caixinha. Um relógio de bolso dourado. Parado. Ela abriu a tampa. Tinha uma gravação: Para Vicente, meu filho. Que o tempo seja gentil. 1931.
+neutra | - | Contou que podia ter vendido. O relógio valia dinheiro. Um antiquário ofereceu bem. Mas ela não conseguia parar de pensar naquela frase.
+neutra | conversa: Que o tempo seja gentil. | Disse: que o tempo seja gentil. Quem escreve isso pro filho? Eu precisava saber quem era o Vicente.
+neutra | carimbo: A INVESTIGAÇÃO | Ela foi no cartório. Na igreja. No arquivo da prefeitura. Descobriu que a casa pertenceu a uma família de relojoeiros. Nos anos trinta.
+neutra | - | O pai, relojoeiro, fez o relógio pro filho Vicente quando ele fez dezoito anos. Depois a família mudou de cidade. A casa foi vendida. O relógio ficou na parede.
+triste | conversa: Por que ele escondeu? | Ela perguntou: por que ele escondeu o relógio na parede? Ninguém sabia. Ela procurou os descendentes. Pelas redes sociais. Por meses.
+chocada | manchete: O BISNETO | Até que achou um bisneto. Morava a quarenta minutos dali. Chamado Vicente também. Vicente Neto. E ele disse: a minha avó ainda é viva.
+neutra | mapa | Chegamos numa casa simples, de varanda. Na porta, um rapaz de uns trinta anos. E lá dentro, numa poltrona, uma senhora de noventa e dois anos.
+neutra | carimbo: DONA NOÊMIA | Dona Noêmia. Filha do Vicente. Neta do relojoeiro. Lúcida, de óculos, cabelo branquinho preso. Olhou a caixinha no colo da Lorena.
+triste | conversa: O relógio do papai. | Ela pegou o relógio. Abriu a tampa. Leu a gravação sem óculos. E disse: o relógio do papai. Ele procurou isso a vida inteira.
+chocada | - | Contou a história. O pai dela escondeu o relógio na parede quando a família teve que mudar às pressas. Ia voltar pra buscar. Nunca conseguiu voltar.
+triste | conversa: Ele falava dessa parede. | Disse: ele falava dessa parede até o fim. Atrás do tijolo da cozinha. A gente achava que era história de velho. Era verdade.
+rindo | - | E aí o bisneto pegou o relógio. Deu corda. Uma volta. Duas. E o relógio voltou a funcionar. Tic, tac. Depois de noventa e cinco anos parado.
+triste | coracao: O TEMPO GENTIL | A dona Noêmia segurou o relógio no ouvido. Fechou os olhos. E disse: o tempo foi gentil. Demorou. Mas foi gentil.
+neutra | - | A família quis pagar a Lorena. Ela não aceitou. Pediu só uma coisa: uma foto do relógio de volta no bolso de alguém da família. Ganhou a foto. E um convite pro almoço de domingo.
+neutra | manchete_v: DEVOLVER É UM PRESENTE | Moral da história: o que vale dinheiro pra você pode valer uma vida pra outra pessoa. Devolver também é um presente.
+rindo | coracao: GUARDA A HISTÓRIA | E se você tem um objeto antigo na família, pergunta a história dele hoje. Antes que ninguém mais saiba contar.
+
+## 320 | A NOITE SEM TELEVISÃO | familia | noite
+G: 📺 A TV queimou numa sexta. A loja só entregava na segunda. A família teve que passar o fim de semana conversando. E descobriu coisas.
+P: Qual era o jogo de tabuleiro da sua infância?
+H: #familia #convivencia #jogos
+neutra | titulo | Sobe aí, que essa corrida levou uma família inteira em crise. Porque a televisão queimou.
+neutra | relogio: DOMINGO · 21H | Domingo, nove da noite. Entrou uma família de quatro. Pai, mãe, um adolescente de quinze e uma menina de dez. Voltando de um aniversário.
+neutra | conversa: Nossa TV queimou. | A mãe disse: a nossa TV queimou na sexta. A loja só entrega a nova amanhã. Foi o fim de semana mais estranho da nossa vida.
+neutra | carimbo: A FAMÍLIA DO LÁZARO | O pai se chamava Lázaro. A mãe, Yara. Os filhos, o Davi Lucas e a Bia. Em casa, cada um na sua tela. TV na sala, celular no quarto.
+rindo | conversa: Faltou luz também. | O menino disse: e no sábado ainda faltou luz o dia inteiro! Sem TV, sem internet, sem bateria. O pai riu: foi castigo divino.
+triste | - | A mãe contou: na sexta à noite, ninguém sabia o que fazer. Sentaram no sofá olhando pra TV desligada. Por hábito. Quinze minutos em silêncio.
+rindo | conversa: Eu achei um jogo. | A menina disse: aí eu achei um jogo de tabuleiro no armário. Do tempo do papai. Com a caixa rasgada e faltando peça.
+neutra | - | Jogaram. A primeira partida foi um desastre. Ninguém lembrava a regra. O pai inventou umas. A mãe descobriu que ele estava roubando.
+rindo | carimbo: O PAI TRAPACEIRO | O menino disse: o meu pai rouba no jogo! Desde criança! A minha avó confirmou no telefone. O pai disse que é estratégia.
+neutra | conversa: Depois veio o baralho. | No sábado, sem luz, jogaram baralho na varanda. À luz de vela. E a mãe ensinou um jogo que aprendeu com a avó dela.
+triste | - | E aí começaram a conversar. Sem perceber. A mãe contou da infância. O pai contou como conheceu ela. Os filhos nunca tinham ouvido.
+chocada | conversa: Ela recusou ele três vezes! | A Bia disse rindo: a mamãe recusou o papai três vezes! Na terceira ele levou um bolo. Ela aceitou por causa do bolo.
+neutra | carimbo: O FILHO FALOU | E aí o menino de quinze, que quase não falava em casa, contou que estava sofrendo na escola. Com um grupo que zoava ele. Fazia meses.
+triste | - | Os pais não sabiam de nada. A mãe disse: a gente nunca tinha parado pra perguntar. Ele nunca tinha tido espaço pra contar. A TV sempre ligada.
+neutra | conversa: A gente resolveu junto. | O pai disse: a gente conversou a noite inteira. Segunda eu vou na escola. Juntos. A gente vai resolver. Ele não tá sozinho.
+neutra | mapa | Chegamos no prédio deles. Na portaria, uma caixa enorme. A TV nova. Entregue um dia antes. Os quatro ficaram olhando pra caixa.
+triste | coracao: A CAIXA FECHADA | A menina perguntou: a gente precisa abrir hoje? O pai olhou pra mãe. A mãe olhou pro filho. E o filho disse: amanhã. Hoje tem revanche no tabuleiro.
+rindo | - | Subiram carregando a caixa da TV fechada. E o pai gritando no corredor: e hoje eu não vou roubar! A família inteira: vai sim!
+neutra | - | Fiquei pensando na minha casa. Na Rosângela. Naquela noite, cheguei, desliguei a TV e perguntei como tinha sido o dia dela. Ela estranhou. Depois gostou.
+neutra | manchete_v: DESLIGA E CONVERSA | Moral da história: às vezes a família está toda junta na mesma sala. E ninguém está conversando.
+rindo | coracao: UMA NOITE SEM TELA | E essa semana, tenta uma noite sem tela com a sua família. Um jogo, uma conversa. Você pode descobrir coisas que nem imagina.
+
+## 321 | O HOMEM QUE CONTAVA OS PASSOS | reflexao | dia
+G: 👣 Ele contava todos os passos do dia. Meta: dez mil. Um dia, numa praça, ele parou de contar. E finalmente chegou em algum lugar.
+P: Você vive correndo atrás de meta?
+H: #reflexao #vida #presente
+neutra | titulo | Sobe aí, que essa corrida levou um homem que dava dez mil passos por dia. E não ia a lugar nenhum.
+neutra | relogio: SEGUNDA · 18H | Segunda, seis da tarde. Entrou um senhor de uns cinquenta anos, roupa de academia, relógio inteligente no pulso. Olhando o relógio sem parar.
+desconfiada | conversa: Faltam três mil. | Disse: faltam três mil passos. Me deixa no parque. Eu perguntei: três mil o quê? Ele: passos. A meta é dez mil por dia. Todo dia.
+neutra | carimbo: SEU JUSCELINO | Seu Juscelino. Gerente de banco. Mede tudo. Passos, horas de sono, batimento, copo de água, calorias. Tudo no relógio. Tudo em gráfico.
+rindo | conversa: Ontem eu fiz onze mil. | Mostrou o gráfico. Orgulhoso. Ontem onze mil. Anteontem dez mil e duzentos. Disse: trezentos dias seguidos batendo a meta.
+neutra | - | Eu perguntei: e onde o senhor foi com esses passos? Ele ficou confuso. Disse: como assim, onde? Eu disse: os onze mil passos de ontem. Foram pra onde?
+desconfiada | conversa: Pra lugar nenhum. | Ele pensou. E disse: na esteira. E em volta do parque. Volta e volta. Eu disse: então foram pra lugar nenhum. Ele ficou quieto.
+neutra | - | Contou que mede tudo desde que o médico mandou cuidar da saúde. No começo, era bom. Depois virou obsessão. Se não bate a meta, não dorme.
+triste | conversa: Eu não lembro do dia. | Disse: eu sei quantos passos dei ontem. Mas eu não lembro do dia. Não lembro de nada que eu vi. Só do número.
+neutra | mapa | Chegamos no parque. Ele desceu e começou a andar rápido. Olhando o relógio. Eu fiquei parado no estacionamento, fazendo uma pausa.
+neutra | - | Dez minutos depois, ele voltou. Correndo. Disse: o relógio descarregou. Acabou a bateria. Não sei quantos passos eu dei.
+rindo | conversa: E agora? | Estava aflito. Perguntou: e agora? Eu ri e disse: agora o senhor anda sem saber. Igual todo mundo fazia antes.
+neutra | carimbo: A VOLTA SEM NÚMERO | Ele ficou parado. Depois tirou o relógio. Guardou no bolso. E foi andar de novo. Devagar dessa vez. Fui junto. Eu também precisava esticar a perna.
+neutra | - | Ele parou na frente do lago. Ficou olhando os patos. Disse: eu passo aqui todo dia. Nunca tinha visto que tem pato aqui.
+neutra | - | Depois parou numa senhora que vendia pipoca. Conversou com ela. Descobriu que ela trabalha ali há vinte anos. Ele passava por ela todo dia. Nunca tinha dado boa tarde.
+triste | conversa: Ela me conhecia. | E a senhora disse: eu conheço o senhor. O homem que anda olhando o pulso. Faz um ano. Nunca olhou pra frente.
+triste | coracao: O PÔR DO SOL NO LAGO | Ele sentou num banco. O sol estava se pondo atrás do lago. Ficou ali quinze minutos. Parado. Sem contar nada. E disse: isso aqui eu vou lembrar.
+neutra | - | Na volta, no carro, ele disse: eu vou continuar caminhando. O médico mandou. Mas sem olhar o relógio. Vou contar outra coisa.
+rindo | conversa: Vou contar patos. | Perguntei: contar o quê? Ele riu: patos. Pessoas que eu cumprimento. Coisas bonitas. Hoje foram sete patos, uma pipoqueira e um pôr do sol.
+neutra | manchete_v: CHEGAR EM ALGUM LUGAR | Moral da história: meta é bom. Mas não adianta dar dez mil passos se você não repara em nenhum.
+rindo | coracao: OLHA PRA FRENTE | E hoje, no caminho, tira o olho da tela e repara numa coisa bonita. Só uma. Já vale o dia.
+
+## 322 | O AMIGO DE CORRESPONDÊNCIA | amizade | dia
+G: ✉️ Quarenta anos trocando cartas com um amigo de Portugal. Nunca se viram. Ele foi buscar o amigo no aeroporto. E levou uma placa.
+P: Você tem um amigo que mora longe?
+H: #amizade #cartas #portugal
+neutra | titulo | Sobe aí, que essa corrida foi buscar no aeroporto um amigo de quarenta anos. Que ninguém tinha visto.
+neutra | relogio: SEXTA · 6H | Sexta, seis da manhã. Entrou um senhor de uns sessenta e cinco anos com uma cartolina enrolada debaixo do braço e uma caixa de sapato cheia de envelopes.
+neutra | conversa: Vou buscar o Feliciano. | Disse: vou buscar o Feliciano no aeroporto. Ele vem de Lisboa. A gente se conhece há quarenta anos. Mas nunca se viu.
+neutra | carimbo: SEU CÍCERO | Seu Cícero. Em mil novecentos e oitenta e seis, mandou uma carta pra uma revista de amizade. Pedia um amigo de outro país. Pra praticar a escrita.
+neutra | conversa: Respondeu um português. | Disse: respondeu um português. Da mesma idade. Que gostava de futebol e de música, igual eu. E a gente nunca mais parou de escrever.
+neutra | - | Abriu a caixa de sapato. Centenas de cartas. Envelope azul e vermelho. Selo de Portugal. Cartão de Natal. Foto de casamento. Foto de neto.
+triste | conversa: Ele sabe tudo de mim. | Disse: ele sabe tudo de mim. Quando eu casei, quando eu perdi o emprego, quando a minha filha nasceu. Às vezes mais que os amigos daqui.
+rindo | - | Contou que os dois nunca usaram internet pra conversar. Combinaram assim. Só carta. Diz que mensagem de celular não tem cheiro de papel.
+rindo | conversa: Brigamos por futebol. | Riu: a gente brigou uma vez por futebol. Ficou seis meses sem escrever. Depois ele mandou uma carta de uma linha: tinhas razão. Era mentira. Mas aceitei.
+neutra | - | E por que nunca se viram? Dinheiro, filho pequeno, trabalho. Sempre ficava pra depois. Até que os dois se aposentaram. E o Feliciano comprou a passagem.
+neutra | mapa | Chegamos no aeroporto. Ele desenrolou a cartolina. Escrito à mão: FELICIANO, CHEGASTE COM 40 ANOS DE ATRASO. Do jeito português.
+neutra | - | Ficamos no portão de desembarque. Ele nervoso. Ajeitando a camisa. Perguntou: e se eu não reconhecer ele? A última foto que eu tenho é de dez anos atrás.
+desconfiada | - | Saíram muitos senhores. Ele olhava cada um. Não era. Não era. Não era. Ficou preocupado que ele tivesse perdido o voo.
+chocada | manchete: O SENHOR DA CARTOLINA | Aí saiu um senhor baixinho, de boina, puxando uma mala. E segurando uma cartolina também. Escrito: CÍCERO, VIM BUSCAR A RESPOSTA DA ÚLTIMA CARTA.
+rindo | - | Os dois viram a placa um do outro. E começaram a rir. Rir alto. No meio do aeroporto. Antes de chegar perto.
+triste | coracao: O PRIMEIRO ABRAÇO | E aí o abraço. Quarenta anos de abraço guardado. Os dois de olho fechado. Falando ao mesmo tempo. Um com sotaque daqui. O outro com sotaque de lá.
+rindo | conversa: Tens a voz diferente! | O Feliciano disse: tens a voz diferente do que eu imaginava! O seu Cícero: e você é mais baixo do que nas fotos! Os dois riram de novo.
+neutra | carro | No carro, os dois no banco de trás. Falando sem parar. O Feliciano tirou do bolso uma carta. Disse: escrevi no avião. Não resisti.
+triste | - | O seu Cícero leu. Em silêncio. E disse: você escreveu no avião pra me entregar na mão? O Feliciano disse: hábito de quarenta anos, pá. Não se muda.
+neutra | manchete_v: AMIZADE NÃO TEM DISTÂNCIA | Moral da história: amizade de verdade atravessa oceano. Mesmo que demore quarenta anos pra virar abraço.
+rindo | coracao: ESCREVE PRO AMIGO | E se você tem um amigo longe, escreve pra ele hoje. Nem que seja uma mensagem. Ou, melhor ainda, uma carta.
+
+## 323 | O ENSAIO DO PEDIDO | humor | noite
+G: 💍 Ele ensaiou o pedido de casamento comigo no carro. Vinte minutos de discurso. Na hora H, esqueceu tudo. E falou a coisa mais certa.
+P: Como foi o pedido de casamento mais engraçado que você já viu?
+H: #humor #pedidodecasamento #amor
+neutra | titulo | Sobe aí, que nessa corrida eu fui pedido em casamento. Quer dizer. Mais ou menos.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Entrou um rapaz de uns vinte e oito anos, camisa social, cabelo arrumado, suando frio. Com uma caixinha no bolso que ele apalpava a cada minuto.
+chocada | conversa: Vou pedir ela em casamento. | Disse: vou pedir a minha namorada em casamento. Hoje. Num restaurante. E eu esqueço tudo quando fico nervoso.
+neutra | carimbo: O VINÍCIUS | Vinícius. Namora a Rebeca há cinco anos. Escreveu um discurso de duas páginas. Decorou. E esqueceu três vezes só no elevador.
+rindo | conversa: Posso ensaiar com você? | Perguntou: posso ensaiar com você? Eu disse: pode. Ele disse: então finge que é ela. Eu disse: amigo, eu tenho barba. Ele: finge.
+rindo | - | E começou. Rebeca, desde o primeiro dia que eu te vi na fila do pão... Parou. Perguntou: tá muito brega? Eu disse: tá. Mas é bonito.
+rindo | conversa: E agora ajoelha? | Perguntou: e na hora eu ajoelho antes ou depois de abrir a caixinha? Eu disse: depois. Ele: mas e se a caixinha cair? Eu disse: aí ajoelha pra pegar.
+rindo | - | Ele ensaiou quatro vezes. Na primeira esqueceu o nome do restaurante onde se conheceram. Na segunda, o nome do cachorro deles. Na terceira, chorou.
+rindo | carimbo: O SINAL VERMELHO | Na quarta, ele estava tão concentrado que, no sinal vermelho, se virou pra mim e disse: Caixeiro, você aceita casar comigo? O motorista do lado viu.
+rindo | - | O motorista do carro do lado buzinou e gritou: aceita, rapaz! Os dois combinam! Eu ri tanto que perdi o sinal verde.
+neutra | mapa | Chegamos no restaurante. Ele pediu pra eu esperar. Disse: se ela disser não, eu preciso ir embora rápido. Eu fiquei. Confesso que também queria ver.
+neutra | - | Dava pra ver pela janela. Ele sentado com a Rebeca. Mexendo no bolso. Suando. Tomando água. Três copos de água.
+chocada | manchete: A HORA H | Aí ele levantou. O restaurante percebeu. Ficou em silêncio. Ele ajoelhou. Abriu a caixinha. E eu vi pela janela: ele travou. Esqueceu tudo.
+chocada | - | Passou uns cinco segundos. Que pareceram cinco minutos. O restaurante inteiro esperando. A Rebeca de mão na boca.
+triste | conversa: Eu esqueci tudo. | E ele disse, alto, com a voz tremendo: eu esqueci tudo que eu ia falar. Eu só sei que eu quero esquecer as coisas do seu lado pro resto da vida.
+triste | coracao: O SIM | A Rebeca riu e chorou ao mesmo tempo. E disse: sim, seu esquecido. Sim. O restaurante inteiro aplaudiu. O garçom bateu na bandeja.
+rindo | - | Depois ele saiu na porta e acenou pra mim. Gritou: ela disse sim! E o discurso de duas páginas? Ele riu: nem precisou!
+rindo | conversa: Ela quer te conhecer. | E ainda disse: ela quer te conhecer. Eu contei que te pedi em casamento primeiro. Ela disse que você foi o ensaio. Eu fui a estreia.
+neutra | - | A Rebeca veio na janela do carro. Me agradeceu. E disse: obrigada por aguentar ele vinte minutos. Eu aguento a vida inteira.
+neutra | manchete_v: O CORAÇÃO NÃO ESQUECE | Moral da história: a gente ensaia tudo. Mas as palavras mais certas são as que saem na hora. Do coração.
+rindo | coracao: FALA DO CORAÇÃO | E se você vai fazer um pedido importante, ensaia. Mas se esquecer, tudo bem. Fala o que o coração mandar.
+
+## 324 | O FAROL DA ESTRADA | curiosa | noite
+G: 💡 Numa estrada de terra sem iluminação, uma lâmpada fica acesa a noite inteira na frente de uma casa. Há trinta anos. Ninguém sabia por quê.
+P: Você já se perdeu numa estrada à noite?
+H: #curiosidade #estrada #historia
+neutra | titulo | Sobe aí, que essa corrida descobriu por que uma lâmpada fica acesa há trinta anos no meio do nada.
+neutra | relogio: QUINTA · 22H | Quinta, dez da noite. Peguei uma corrida longa. Um rapaz pra um sítio, numa estrada de terra fora da cidade. Escuro total. Sem poste, sem placa.
+desconfiada | conversa: O GPS perdeu o sinal. | No meio da estrada, o GPS perdeu o sinal. O celular do rapaz também. Escuridão de breu. Ele disse: eu também não sei o caminho. É a primeira vez que eu venho.
+triste | - | Eu fiquei preocupado. Estrada de terra, mato dos dois lados, bifurcação atrás de bifurcação. Já tinha passado vinte minutos sem ver uma casa.
+chocada | manchete: A LUZ | Aí, lá na frente, uma luz. Uma lâmpada só. Amarela. Pendurada num poste de madeira, na frente de uma casinha. No meio do nada.
+neutra | - | Parei pra pedir informação. Uma senhora de uns oitenta anos apareceu na varanda. De xale, com um lampião na mão. Mesmo com a luz acesa.
+neutra | conversa: Vocês estão perdidos. | Ela disse: vocês estão perdidos. Não foi pergunta. Foi afirmação. Eu disse: estamos. Ela riu: todo mundo que para aqui está.
+neutra | carimbo: DONA QUITÉRIA | Dona Quitéria. Mora sozinha naquela casa há cinquenta anos. E explicou o caminho. Direitinho. Cada bifurcação. Cada porteira.
+desconfiada | conversa: Por que a luz acesa? | Eu perguntei: a senhora deixa essa luz acesa a noite inteira? Ela disse: há trinta anos. Toda noite. Do anoitecer ao amanhecer.
+triste | carimbo: A NOITE DA CHUVA | Contou: há trinta anos, o marido dela voltava da cidade numa noite de chuva. Se perdeu nessa estrada. Rodou a noite inteira no escuro.
+triste | - | Ele chegou em casa de manhã, molhado, cansado. Mas chegou. E disse pra ela: se tivesse uma luz nessa estrada, eu teria chegado em dez minutos.
+neutra | conversa: No dia seguinte, ele pendurou. | Disse: no dia seguinte, ele pendurou essa lâmpada. Pra ninguém mais se perder. E deixava acesa todas as noites.
+triste | - | O marido faleceu há doze anos. E ela continuou acendendo. Toda noite. Paga a conta de luz com a aposentadoria. Diz que é a parte mais importante da conta.
+neutra | carimbo: OS PERDIDOS | Contou que já pararam ali motorista de caminhão, ambulância, noiva atrasada pro casamento, até um ônibus de romeiros. Ela ensinou o caminho pra todos.
+rindo | conversa: Tem um caderno. | E ela riu: eu tenho um caderno. Anoto todo mundo que para. Já são mais de seiscentos perdidos. Vocês são o seiscentos e quarenta e dois.
+neutra | - | Ela pegou o caderno e anotou ali na nossa frente. Data, hora, e: motorista simpático e rapaz indo pro sítio do primo. Letra bonita, devagar.
+triste | conversa: Ele ia gostar. | E disse: ele ia gostar de saber. Seiscentos e quarenta e duas pessoas que chegaram em casa por causa da luz dele.
+neutra | carro | Seguimos o caminho que ela ensinou. Chegamos em dez minutos. Exatamente como o marido dela falou trinta anos atrás.
+triste | coracao: A LUZ NO RETROVISOR | Na volta, passei de novo na frente da casa. A luz acesa. A dona Quitéria já tinha entrado. E eu dei duas buzinadinhas de leve. De agradecimento.
+neutra | - | Depois daquela noite, eu e outros motoristas da região fizemos uma vaquinha. Hoje a conta de luz da dona Quitéria vem paga. Ela não sabe quem paga. Acha que é o marido.
+neutra | manchete_v: SEJA A LUZ | Moral da história: às vezes uma lâmpada pequena, no lugar certo, muda o caminho de seiscentas pessoas.
+rindo | coracao: ACENDE UMA LUZ | E seja a luz na estrada de alguém. Uma informação, uma ajuda, uma palavra. Você nunca sabe quem está perdido.

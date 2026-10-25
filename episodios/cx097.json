@@ -1,0 +1,288 @@
+{
+ "id": "cx097",
+ "ep": 97,
+ "avulso": true,
+ "titulo": "O BOLO MISTO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🍰 Dois vizinhos rivais levaram bolos pro mesmo concurso, no mesmo carro. Eu freei. Os bolos viraram um só.\n\nQual o bolo que ninguém faz igual ao da sua família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bolo #concurso #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🍰 Dois vizinhos rivais levaram bolos pro mesmo concurso, no mesmo carro. Eu freei. Os bolos viraram um só. Qual o bolo que ninguém faz igual ao da sua família? 👇\nHistória de ficção.\n#bolo #concurso #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou com uma receita nova que ninguém planejou.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "ninguém",
+    "planejou."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da manhã. Corrida compartilhada. Entrou uma senhora de avental, segurando um bolo de cenoura com cobertura de chocolate numa travessa de vidro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 9H"
+   ],
+   "destaque": [
+    "travessa",
+    "vidro."
+   ]
+  },
+  {
+   "fala": "Ela disse: cuidado nas curvas, moço. Esse bolo vai ganhar o concurso da paróquia. Dona Eunice.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cuidado nas curvas."
+   ],
+   "destaque": [
+    "Dona",
+    "Eunice."
+   ]
+  },
+  {
+   "fala": "Segunda parada. A casa do lado. Saiu outra senhora, de avental, com outro bolo de cenoura com cobertura de chocolate.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Segunda parada: casa ao lado"
+   ],
+   "destaque": [
+    "cobertura",
+    "chocolate."
+   ]
+  },
+  {
+   "fala": "As duas se olharam. A temperatura do carro caiu. Era a dona Lurdinha. A rival. Vizinha de muro havia trinta anos.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "trinta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "A dona Eunice soltou: copiou a minha receita de novo, Lurdinha? A dona Lurdinha: a receita é minha desde mil novecentos e noventa.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Copiou de novo, Lurdinha?"
+   ],
+   "destaque": [
+    "novecentos",
+    "noventa."
+   ]
+  },
+  {
+   "fala": "Trinta anos de concurso de bolo na paróquia. As duas sempre com bolo de cenoura. Uma ganhava um ano, a outra no outro.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "TRINTA ANOS DE CONCURSO"
+   ],
+   "destaque": [
+    "outra",
+    "outro."
+   ]
+  },
+  {
+   "fala": "No caminho, as duas falaram mal do bolo uma da outra. Massa seca. Cobertura rala. Cenoura demais. Cenoura de menos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Cenoura",
+    "menos."
+   ]
+  },
+  {
+   "fala": "Eu dirigindo com dois bolos e duas senhoras armadas de colher de pau. Juro, um dos dias mais tensos da minha profissão.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "minha",
+    "profissão."
+   ]
+  },
+  {
+   "fala": "Aí, no meio da avenida, um cachorro atravessou. Eu freei. Forte. E os dois bolos voaram das mãos delas.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A FREADA"
+   ],
+   "destaque": [
+    "mãos",
+    "delas."
+   ]
+  },
+  {
+   "fala": "Bateram no encosto do banco da frente. Caíram no chão do carro. Um em cima do outro. Vidro, chocolate, cenoura, tudo misturado.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tudo",
+    "misturado."
+   ]
+  },
+  {
+   "fala": "Silêncio total. As duas olhando pro chão. Eu achei que ia ser assassinado ali mesmo.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "SILÊNCIO"
+   ],
+   "destaque": [
+    "ali",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "A dona Eunice falou baixinho: trinta anos de concurso e eu nunca cheguei sem bolo. A dona Lurdinha começou a chorar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Trinta anos de concurso."
+   ],
+   "destaque": [
+    "começou",
+    "chorar."
+   ]
+  },
+  {
+   "fala": "Eu encostei. Desci. Abri a porta de trás. Por sorte, as travessas não quebraram. Mas os bolos eram uma massa só.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "massa",
+    "só."
+   ]
+  },
+  {
+   "fala": "Aí a dona Lurdinha, enxugando o olho, disse: Eunice, vamos juntar. Não tem mais o seu e o meu. Tem esse aqui.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vamos juntar."
+   ],
+   "destaque": [
+    "esse",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "E as duas, ali no banco de trás, com a colher de pau, montaram um bolo só. Metade de um, metade do outro, cobertura das duas.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "das",
+    "duas."
+   ]
+  },
+  {
+   "fala": "Ficou alto, torto e lindo. Elas chamaram de bolo misto. Eu provei um pedaço que caiu no tapete. Não conta pra ninguém.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "BOLO MISTO"
+   ],
+   "destaque": [
+    "conta",
+    "ninguém."
+   ]
+  },
+  {
+   "fala": "Chegamos na paróquia. As duas entraram juntas, segurando a mesma travessa, uma de cada lado. A comunidade inteira estranhou.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "inteira",
+    "estranhou."
+   ]
+  },
+  {
+   "fala": "Hora do resultado. O padre provou os doze bolos. Parou no bolo misto. Provou de novo. E anunciou.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "RESULTADO"
+   ],
+   "destaque": [
+    "novo.",
+    "anunciou."
+   ]
+  },
+  {
+   "fala": "Primeiro lugar: bolo misto, de dona Eunice e dona Lurdinha. As duas se olharam e começaram a rir.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "PRIMEIRO LUGAR"
+   ],
+   "destaque": [
+    "começaram",
+    "rir."
+   ]
+  },
+  {
+   "fala": "E aí a revelação, no palco: as duas aprenderam a receita com a mesma pessoa. A antiga cozinheira da paróquia, que ensinou cada uma escondida da outra.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A RECEITA ERA DA MESMA PESSOA"
+   ],
+   "destaque": [
+    "escondida",
+    "outra."
+   ]
+  },
+  {
+   "fala": "A diferença era um ovo. Uma colocava três, a outra quatro. Juntas, deram três e meio. A receita perfeita.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "receita",
+    "perfeita."
+   ]
+  },
+  {
+   "fala": "Hoje as duas fazem o bolo misto juntas. Uma vez por mês, na cozinha de uma, depois na da outra. O muro continua lá, mas tem um portãozinho.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "tem",
+    "portãozinho."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a receita certa só aparece quando a gente para de competir.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "JUNTA"
+   ],
+   "destaque": [
+    "para",
+    "competir."
+   ]
+  },
+  {
+   "fala": "E se você tem uma rival na cozinha, chama pra fazer um bolo junto. Vai que é três ovos e meio.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TRÊS OVOS E MEIO"
+   ],
+   "destaque": [
+    "ovos",
+    "meio."
+   ]
+  }
+ ]
+}

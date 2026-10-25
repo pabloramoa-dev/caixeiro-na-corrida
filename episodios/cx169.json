@@ -1,0 +1,252 @@
+{
+ "id": "cx169",
+ "ep": 169,
+ "avulso": true,
+ "titulo": "O HOSPITAL DE BONECAS",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🧸 Ele conserta bonecas antigas numa oficina minúscula. Uma senhora trouxe uma boneca de 1955. Ele reconheceu o ponto da costura.\n\nVocê ainda tem algum brinquedo da infância guardado? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bonecas #memoria #curiosidades #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🧸 Ele conserta bonecas antigas numa oficina minúscula. Uma senhora trouxe uma boneca de 1955. Ele reconheceu o ponto da costura. Você ainda tem algum brinquedo da infância guardado? 👇\nHistória de ficção.\n#bonecas #memoria #curiosidades #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma paciente de porcelana pra um hospital diferente.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "hospital",
+    "diferente."
+   ]
+  },
+  {
+   "fala": "Quarta, dez da manhã. Entrou uma senhora de uns setenta e cinco anos com uma caixa de sapato no colo. Segurando com cuidado, como se tivesse um passarinho dentro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 10H"
+   ],
+   "destaque": [
+    "passarinho",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Disse: me leva no hospital de bonecas, por favor. Na rua das oficinas. Eu achei que tinha ouvido errado. Não tinha.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Hospital de bonecas."
+   ],
+   "destaque": [
+    "errado.",
+    "tinha."
+   ]
+  },
+  {
+   "fala": "Abriu a caixa. Uma boneca de pano com rosto de porcelana. Cabelo de lã. Vestido azul desbotado. Um braço solto. Disse: ganhei em mil novecentos e cinquenta e cinco.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A BONECA DE 1955"
+   ],
+   "destaque": [
+    "cinquenta",
+    "cinco."
+   ]
+  },
+  {
+   "fala": "Dona Glória. Disse: foi a única boneca que eu tive na vida. Minha mãe era costureira e fez pra mim. O rosto ela comprou numa feira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Foi a única que eu tive."
+   ],
+   "destaque": [
+    "numa",
+    "feira."
+   ]
+  },
+  {
+   "fala": "A boneca tinha nome: Clarinha. Viajou com ela em três mudanças. Sobreviveu a uma enchente. Ficou setenta anos numa caixa no guarda-roupa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "caixa",
+    "guarda-roupa."
+   ]
+  },
+  {
+   "fala": "Explicou: a minha bisneta quer brincar com ela. Mas o braço caiu. E eu não tenho coragem de costurar. Minha mão treme.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A bisneta quer brincar."
+   ],
+   "destaque": [
+    "mão",
+    "treme."
+   ]
+  },
+  {
+   "fala": "Chegamos na oficina. Uma porta estreita, uma vitrine cheia de bonecas antigas. Uma placa pintada à mão: hospital de bonecas. Desde mil novecentos e setenta.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "novecentos",
+    "setenta."
+   ]
+  },
+  {
+   "fala": "Lá dentro, um senhor de uns setenta anos, de óculos na ponta do nariz, avental cheio de linha. Seu Arlindo. O médico das bonecas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "das",
+    "bonecas."
+   ]
+  },
+  {
+   "fala": "Eu entrei junto pra ajudar a dona Glória com o degrau. E fiquei. Curiosidade de motorista não tem cura.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tem",
+    "cura."
+   ]
+  },
+  {
+   "fala": "O seu Arlindo pegou a Clarinha como um médico pega um bebê. Olhou o rosto, a costura, o cabelo. Virou a boneca. E parou.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "O EXAME"
+   ],
+   "destaque": [
+    "boneca.",
+    "parou."
+   ]
+  },
+  {
+   "fala": "Perguntou: quem costurou essa boneca? A dona Glória disse: minha mãe. Dona Amélia. Costureira do bairro da estação.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Quem costurou isso?"
+   ],
+   "destaque": [
+    "bairro",
+    "estação."
+   ]
+  },
+  {
+   "fala": "O seu Arlindo tirou os óculos. Disse: esse ponto aqui. Esse ponto cruzado na barra. Eu aprendi esse ponto com a dona Amélia. Eu fui aprendiz dela.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PONTO DA COSTURA"
+   ],
+   "destaque": [
+    "aprendiz",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Contou: aos doze anos, ele varria a oficina de costura da dona Amélia. Ela ensinou ele a costurar. Foi com ela que ele aprendeu o ofício que tem até hoje.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "E disse: ela fazia bonecas pras filhas das vizinhas. E uma pra filha dela. Eu lembro dessa. Eu ajudei a encher de algodão.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela fazia bonecas pra filha."
+   ],
+   "destaque": [
+    "encher",
+    "algodão."
+   ]
+  },
+  {
+   "fala": "A dona Glória ficou sem palavras. O homem que ia consertar a boneca tinha ajudado a fazer a boneca. Setenta anos antes.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "antes."
+   ]
+  },
+  {
+   "fala": "Ele costurou o braço da Clarinha ali na frente dela. Com o mesmo ponto cruzado. Devagar. A mão dele não tremia.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MESMA MÃO"
+   ],
+   "destaque": [
+    "dele",
+    "tremia."
+   ]
+  },
+  {
+   "fala": "Quando terminou, entregou a boneca e não quis cobrar. Disse: a dona Amélia nunca me cobrou nada. Eu devo isso a ela há setenta anos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "setenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ainda deu um vestidinho novo pra boneca. Azul. Costurado com retalho antigo. Disse que era do tecido que a dona Amélia deixou pra ele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Amélia",
+    "deixou"
+   ]
+  },
+  {
+   "fala": "Na volta, a dona Glória foi com a Clarinha no colo, sem caixa. Disse que a boneca ia dormir no quarto da bisneta naquela noite.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "naquela",
+    "noite."
+   ]
+  },
+  {
+   "fala": "Moral da história: o que a gente ensina volta. Às vezes setenta anos depois, num braço de boneca.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OFÍCIO PASSA ADIANTE"
+   ],
+   "destaque": [
+    "braço",
+    "boneca."
+   ]
+  },
+  {
+   "fala": "E se você tem um brinquedo antigo guardado, tira da caixa. Dá pra uma criança brincar. Ele foi feito pra isso.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CLARINHA"
+   ],
+   "destaque": [
+    "feito",
+    "isso."
+   ]
+  }
+ ]
+}

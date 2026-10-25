@@ -1,0 +1,243 @@
+{
+ "id": "cx237",
+ "ep": 237,
+ "avulso": true,
+ "titulo": "A ABÓBORA GIGANTE",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🎃 Ele plantou uma abóbora de 180 quilos pro concurso da feira agrícola. O caminhão quebrou. A abóbora foi no meu carro. Mais ou menos.\n\nQual a maior fruta ou legume que você já viu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#abobora #humor #concurso #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎃 Ele plantou uma abóbora de 180 quilos pro concurso da feira agrícola. O caminhão quebrou. A abóbora foi no meu carro. Mais ou menos. Qual a maior fruta ou legume que você já viu? 👇\nHistória de ficção.\n#abobora #humor #concurso #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um passageiro de cento e oitenta quilos. Laranja. Redondo.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "Laranja.",
+    "Redondo."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da manhã. Recebi uma corrida numa chácara na saída da cidade. Um senhor me esperando no portão, desesperado, de chapéu de palha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 6H"
+   ],
+   "destaque": [
+    "chapéu",
+    "palha."
+   ]
+  },
+  {
+   "fala": "Disse: o caminhão quebrou. E o concurso começa às nove. Eu perguntei: concurso de quê? Ele apontou pro quintal.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "O caminhão quebrou."
+   ],
+   "destaque": [
+    "pro",
+    "quintal."
+   ]
+  },
+  {
+   "fala": "Uma abóbora. Gigante. Do tamanho de uma poltrona. Laranja, brilhante, com uma faixa escrita: Margarida. Cento e oitenta quilos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A ABÓBORA"
+   ],
+   "destaque": [
+    "oitenta",
+    "quilos."
+   ]
+  },
+  {
+   "fala": "Seu Toninho. Plantou a Margarida durante oito meses. Adubo especial, rega na hora certa, música clássica toda tarde.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "SEU TONINHO E A MARGARIDA"
+   ],
+   "destaque": [
+    "toda",
+    "tarde."
+   ]
+  },
+  {
+   "fala": "Disse sério: ela gosta de Mozart. Quando eu colocava sertanejo, ela parava de crescer. Juro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela gosta de Mozart."
+   ],
+   "destaque": [
+    "crescer.",
+    "Juro."
+   ]
+  },
+  {
+   "fala": "O concurso de abóbora gigante da feira agrícola. Ele ficou em segundo nos últimos quatro anos. Sempre perdendo pro mesmo vizinho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "vizinho."
+   ]
+  },
+  {
+   "fala": "Eu olhei a abóbora. Olhei o meu carro. Disse: seu Toninho, ela não cabe. Ele disse: cabe no porta-malas se tirar o banco de trás.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Não cabe no carro."
+   ],
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Não cabia. Tentamos. Eu, ele, o filho dele e dois vizinhos. Cinco homens empurrando uma abóbora. Não entrou.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "abóbora.",
+    "entrou."
+   ]
+  },
+  {
+   "fala": "A solução veio do vizinho: um carrinho de mão gigante, de obra, amarrado no engate do meu carro. Com a abóbora em cima. Igual um reboque.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A SOLUÇÃO"
+   ],
+   "destaque": [
+    "Igual",
+    "reboque."
+   ]
+  },
+  {
+   "fala": "Eu nunca tinha rebocado uma abóbora. Fui a vinte por hora. Na estrada. Com pisca-alerta. E o seu Toninho no banco do carona, virado pra trás, vigiando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "trás,",
+    "vigiando."
+   ]
+  },
+  {
+   "fala": "Os carros passando e buzinando. Um caminhoneiro abriu a janela e gritou: é festa junina, amigo? Uma criança numa van ficou com a cara colada no vidro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "colada",
+    "vidro."
+   ]
+  },
+  {
+   "fala": "Aí, um buraco. O carrinho pulou. A abóbora balançou. O seu Toninho gritou: Margarida! E ela ficou. Por um milagre de amarração.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O BURACO"
+   ],
+   "destaque": [
+    "milagre",
+    "amarração."
+   ]
+  },
+  {
+   "fala": "Chegamos no parque da feira às oito e cinquenta e oito. Com plateia. Porque o povo já tinha visto a gente na estrada e ido atrás.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ido",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Pesaram a Margarida. Cento e oitenta e três quilos. Tinha engordado três no caminho, o seu Toninho disse. Ninguém entendeu como.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "entendeu",
+    "como."
+   ]
+  },
+  {
+   "fala": "O vizinho rival chegou com a abóbora dele. De caminhão. Cento e setenta e nove quilos. Quatro a menos que a Margarida.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O VIZINHO"
+   ],
+   "destaque": [
+    "menos",
+    "Margarida."
+   ]
+  },
+  {
+   "fala": "Primeiro lugar. Depois de quatro anos. O seu Toninho ganhou uma faixa e um troféu de abóbora dourada. Abraçou a Margarida.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PRIMEIRO LUGAR"
+   ],
+   "destaque": [
+    "Abraçou",
+    "Margarida."
+   ]
+  },
+  {
+   "fala": "E aí fez uma coisa bonita. Chamou o vizinho e disse: a gente faz doce de abóbora junto. Pra feira toda. Com as duas.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "toda.",
+    "duas."
+   ]
+  },
+  {
+   "fala": "Fizeram. Trezentos e sessenta quilos de doce de abóbora. Distribuíram de graça. Eu ganhei um pote. A Rosângela comeu inteiro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "comeu",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "Moral da história: o caminhão quebra, a estrada tem buraco. Mas quem quer chegar, chega. Nem que seja de reboque.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CHEGA COMO DER"
+   ],
+   "destaque": [
+    "seja",
+    "reboque."
+   ]
+  },
+  {
+   "fala": "E se você plantar uma abóbora, coloca Mozart pra ela. Não custa tentar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "MARGARIDA"
+   ],
+   "destaque": [
+    "custa",
+    "tentar."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,276 @@
+{
+ "id": "cx041",
+ "ep": 41,
+ "avulso": true,
+ "titulo": "NATAL EM JULHO",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🎅 Um Papai Noel entrou no meu carro em pleno julho, suando no calor. O motivo me fez chorar no estacionamento.\n\nQue tradição da sua família você faria de novo, só pra alguém sorrir? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#natal #familia #emocionante #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎅 Um Papai Noel entrou no meu carro em pleno julho, suando no calor. O motivo me fez chorar no estacionamento. Que tradição da sua família você faria de novo, só pra alguém sorrir? 👇\nHistória de ficção.\n#natal #familia #emocionante #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve sino, barba branca e trinta e dois graus na sombra.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "graus",
+    "sombra."
+   ]
+  },
+  {
+   "fala": "Quinze de julho, uma da tarde, sol rachando. Entrou no meu carro um Papai Noel. Roupa vermelha completa, barba, gorro e saco de presente.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "15 DE JULHO · 13H"
+   ],
+   "destaque": [
+    "saco",
+    "presente."
+   ]
+  },
+  {
+   "fala": "Primeira frase dele: liga o ar no máximo, pelo amor de Deus, que eu tô derretendo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Liga o ar no máximo, pelo amor de Deus."
+   ],
+   "destaque": [
+    "Deus,",
+    "derretendo."
+   ]
+  },
+  {
+   "fala": "Eu não resisti: o senhor tá adiantado ou atrasado? Ele riu, tirou a barba e se apresentou. Rogério, quarenta e dois anos.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Tá adiantado ou atrasado?"
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Explicou que estava indo pra casa do pai. Onde, todo mês, a família faz uma ceia de Natal. Todo mês.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "NATAL TODO MÊS"
+   ],
+   "destaque": [
+    "Todo",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Eu achei que era alguma brincadeira de família. Mas aí ele ficou sério e contou.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "sério",
+    "contou."
+   ]
+  },
+  {
+   "fala": "O pai dele tem setenta e nove anos e a memória foi embora devagar. Em muitos dias, ele acha que é dezembro.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai acha que é dezembro."
+   ],
+   "destaque": [
+    "acha",
+    "dezembro."
+   ]
+  },
+  {
+   "fala": "E toda vez que ele acha que é Natal, ele fica feliz. Pergunta pelos netos, pela ceia, pelo Papai Noel.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Papai",
+    "Noel."
+   ]
+  },
+  {
+   "fala": "A gente corrigia, dizia que era julho. E ele ficava perdido, triste, com medo.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Antes a gente corrigia."
+   ],
+   "destaque": [
+    "triste,",
+    "medo."
+   ]
+  },
+  {
+   "fala": "Até que a irmã do Rogério disse: e se a gente parasse de corrigir? E se a gente deixasse ser Natal?",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "AÍ VIROU NATAL"
+   ],
+   "destaque": [
+    "ser",
+    "Natal?"
+   ]
+  },
+  {
+   "fala": "Desde então, uma vez por mês, a família monta a árvore, faz a ceia e o Rogério se veste de Papai Noel.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Papai",
+    "Noel."
+   ]
+  },
+  {
+   "fala": "E o presente? Sempre o mesmo. Uma caixa de dominó. Porque o pai joga dominó e esquece que ganhou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O presente é sempre o mesmo."
+   ],
+   "destaque": [
+    "esquece",
+    "ganhou."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa simples com pisca-pisca na janela em pleno meio-dia. Ele me convidou pra entrar. Um minuto, disse.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "minuto,",
+    "disse."
+   ]
+  },
+  {
+   "fala": "Lá dentro, a árvore montada, rabanada na mesa e um senhor sentado na poltrona, de camisa xadrez, olhando a porta.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "olhando",
+    "porta."
+   ]
+  },
+  {
+   "fala": "O Rogério entrou com o sino: ho, ho, ho! E o senhor abriu um sorriso de menino de seis anos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "HO HO HO"
+   ],
+   "destaque": [
+    "seis",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ele gritou: Papai Noel! Eu fui bonzinho esse ano! E estendeu as mãos pro presente.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Papai Noel! Eu fui bonzinho!"
+   ],
+   "destaque": [
+    "pro",
+    "presente."
+   ]
+  },
+  {
+   "fala": "Abriu o dominó como se fosse a primeira vez. E pra ele era. Mostrou pra todo mundo da sala, inclusive pra mim.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "inclusive",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Aí ele virou pra mim: joga uma comigo, moço? O senhor tem cara de quem joga bem.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Joga comigo, moço?"
+   ],
+   "destaque": [
+    "joga",
+    "bem."
+   ]
+  },
+  {
+   "fala": "Joguei. Perdi. Ele riu igual criança, bateu a pedra na mesa e disse: no Natal eu não perco nunca.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "perco",
+    "nunca."
+   ]
+  },
+  {
+   "fala": "Antes de eu ir embora, ele segurou a mão do Rogério, olhou bem e disse: obrigado, filho. Eu sei que é você.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "UM MOMENTO DE LUCIDEZ"
+   ],
+   "destaque": [
+    "sei",
+    "você."
+   ]
+  },
+  {
+   "fala": "Um segundo de lucidez. E depois voltou pro Natal. O Rogério saiu na varanda pra chorar. Eu fui junto.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "fui",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Fui pra casa com um pedaço de rabanada embrulhado no guardanapo, no calor de julho, pensando no meu pai.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "meu",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes amar é parar de corrigir. E deixar ser Natal quantas vezes precisar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEIXA SER NATAL"
+   ],
+   "destaque": [
+    "vezes",
+    "precisar."
+   ]
+  },
+  {
+   "fala": "E se você passar por uma casa com pisca-pisca em julho, não ri. Pode ser amor do jeito mais bonito que existe.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DOMINÓ DE PRESENTE"
+   ],
+   "destaque": [
+    "bonito",
+    "existe."
+   ]
+  }
+ ]
+}

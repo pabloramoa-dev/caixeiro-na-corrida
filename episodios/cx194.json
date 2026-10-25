@@ -1,0 +1,255 @@
+{
+ "id": "cx194",
+ "ep": 194,
+ "avulso": true,
+ "titulo": "O LIVRO EM BRAILLE",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "📖 Ela ficou cega aos 40 e achou que nunca mais ia ler. Aos 58, lançava o próprio livro. Em braille e em tinta.\n\nQual livro você recomendaria pra alguém que está recomeçando? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#braille #superacao #escritora #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📖 Ela ficou cega aos 40 e achou que nunca mais ia ler. Aos 58, lançava o próprio livro. Em braille e em tinta. Qual livro você recomendaria pra alguém que está recomeçando? 👇\nHistória de ficção.\n#braille #superacao #escritora #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma escritora que lê com a ponta dos dedos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "dos",
+    "dedos."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Entrou uma mulher de uns cinquenta e oito anos, óculos escuros, bengala branca e uma caixa de livros no colo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "livros",
+    "colo."
+   ]
+  },
+  {
+   "fala": "Disse: é o meu livro, moço. Lançamento hoje. Eu perguntei se podia ver. Ela abriu a caixa e me deu um.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o meu livro."
+   ],
+   "destaque": [
+    "caixa",
+    "deu"
+   ]
+  },
+  {
+   "fala": "Era um livro diferente. De um lado, as páginas impressas normais. Do outro, em braille. Os pontinhos em relevo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DOIS LIVROS EM UM"
+   ],
+   "destaque": [
+    "pontinhos",
+    "relevo."
+   ]
+  },
+  {
+   "fala": "Dona Márcia. Professora de literatura. Aos quarenta, por causa de uma doença nos olhos, perdeu a visão em dois anos.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Fiquei cega aos quarenta."
+   ],
+   "destaque": [
+    "dois",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Disse que a primeira coisa que pensou foi: nunca mais vou ler. Ela, que tinha mais de mil livros em casa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "livros",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Contou: fiquei dois anos sem sair do quarto. Os livros na estante, me olhando. E eu sem conseguir abrir nenhum.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Fiquei dois anos sem sair."
+   ],
+   "destaque": [
+    "abrir",
+    "nenhum."
+   ]
+  },
+  {
+   "fala": "Até que uma ex-aluna dela, que trabalhava numa associação de cegos, levou um livro em braille. E disse: professora, aprende. A senhora aprende tudo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O BRAILLE"
+   ],
+   "destaque": [
+    "aprende",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Riu: demorei um ano pra ler uma página. Meus dedos eram burros. Eu chorava de raiva. Mas aprendi.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Demorei um ano."
+   ],
+   "destaque": [
+    "raiva.",
+    "aprendi."
+   ]
+  },
+  {
+   "fala": "Depois de aprender, começou a escrever. Num diário em braille. Sobre perder a visão. Sobre o medo. Sobre voltar a ler.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "voltar",
+    "ler."
+   ]
+  },
+  {
+   "fala": "A ex-aluna leu o diário e disse: isso precisa virar livro. Com uma editora pequena, conseguiram publicar. Nas duas versões.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "duas",
+    "versões."
+   ]
+  },
+  {
+   "fala": "Chegamos numa biblioteca pública. Cheia. Gente cega e gente que enxerga. Cão-guia deitado no chão. Um intérprete de libras no canto.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "libras",
+    "canto."
+   ]
+  },
+  {
+   "fala": "Ela pediu pra eu levar a caixa até a mesa de autógrafos. Eu levei. E fiquei. Já virou costume eu ficar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "costume",
+    "ficar."
+   ]
+  },
+  {
+   "fala": "Na hora da leitura, ela abriu o livro no lado do braille. E começou a ler. Passando os dedos pelos pontinhos. Sem pressa.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "A LEITURA"
+   ],
+   "destaque": [
+    "Sem",
+    "pressa."
+   ]
+  },
+  {
+   "fala": "A biblioteca inteira em silêncio. Ouvindo uma mulher ler com os dedos a história de quando achou que nunca mais ia ler.",
+   "expr": "triste",
+   "arte": [
+    "manchete",
+    "OS DEDOS LENDO"
+   ],
+   "destaque": [
+    "ia",
+    "ler."
+   ]
+  },
+  {
+   "fala": "Na plateia, uma menina de uns doze anos, de bengala branca, segurava o livro em braille no colo. Lendo junto com os dedos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "junto",
+    "dedos."
+   ]
+  },
+  {
+   "fala": "No final, a menina levantou a mão. Perguntou: a senhora acha que eu posso ser escritora também? Ela nasceu cega.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A MENINA"
+   ],
+   "destaque": [
+    "nasceu",
+    "cega."
+   ]
+  },
+  {
+   "fala": "A dona Márcia foi até ela. Pegou a mão da menina. Colocou na página do livro. Disse: tá sentindo? Essas letras foram escritas por alguém que achou que não podia. Pode sim.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "PODE SIM"
+   ],
+   "destaque": [
+    "Pode",
+    "sim."
+   ]
+  },
+  {
+   "fala": "A menina saiu de lá com um livro autografado. Em braille. A dona Márcia furou a dedicatória com a reglete na hora.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "reglete",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Na volta, ela me pediu pra ler um trecho do livro em voz alta. Eu li. Do lado da tinta. E ela acompanhou com os dedos. Sabia de cor.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Sabia",
+    "cor."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando a vida tira um caminho, a gente aprende outro. Mesmo que seja com a ponta dos dedos.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "APRENDE DE NOVO"
+   ],
+   "destaque": [
+    "dos",
+    "dedos."
+   ]
+  },
+  {
+   "fala": "E se você está recomeçando alguma coisa difícil, lembra: dedos burros aprendem. Leva tempo. Mas aprendem.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA MÁRCIA"
+   ],
+   "destaque": [
+    "tempo.",
+    "aprendem."
+   ]
+  }
+ ]
+}

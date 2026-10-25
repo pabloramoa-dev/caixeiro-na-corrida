@@ -1,0 +1,266 @@
+{
+ "id": "cx215",
+ "ep": 215,
+ "avulso": true,
+ "titulo": "O TORCEDOR VISITANTE",
+ "categoria": "futebol",
+ "cenario": "noite",
+ "legenda_post": "🚩 Torcedor do time de fora, sozinho, perdido na cidade rival depois do jogo. Camisa errada no lugar errado. O que aconteceu no meu carro ninguém acreditaria.\n\nVocê já foi sozinho num jogo fora de casa? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #torcedor #rivalidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚩 Torcedor do time de fora, sozinho, perdido na cidade rival depois do jogo. Camisa errada no lugar errado. O que aconteceu no meu carro ninguém acreditaria. Você já foi sozinho num jogo fora de casa? 👇\nHistória de ficção.\n#futebol #torcedor #rivalidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um inimigo pela cidade. E ele saiu com amigos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "saiu",
+    "amigos."
+   ]
+  },
+  {
+   "fala": "Domingo, sete da noite. Saída do estádio. A torcida da casa tinha perdido. Rua cheia de gente brava. E um rapaz encolhido no ponto de ônibus, de camisa do time visitante.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 19H"
+   ],
+   "destaque": [
+    "time",
+    "visitante."
+   ]
+  },
+  {
+   "fala": "Ele entrou rápido e falou: rodoviária, pelo amor de Deus. Eu perdi a excursão. Tô sozinho nessa cidade.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Rodoviária, pelo amor de Deus."
+   ],
+   "destaque": [
+    "nessa",
+    "cidade."
+   ]
+  },
+  {
+   "fala": "Chama-se Rodrigo. Veio de outro estado numa excursão de torcida. Se perdeu na saída. O ônibus foi embora sem ele.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O VISITANTE"
+   ],
+   "destaque": [
+    "embora",
+    "sem"
+   ]
+  },
+  {
+   "fala": "Disse: o meu celular morreu. Eu não sei onde fica nada. E tô de camisa do time que acabou de ganhar de vocês.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O celular morreu."
+   ],
+   "destaque": [
+    "ganhar",
+    "vocês."
+   ]
+  },
+  {
+   "fala": "Eu falei: rapaz, eu sou neutro. Eu torço pra quem tá no banco de trás. Ele riu de nervoso.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "riu",
+    "nervoso."
+   ]
+  },
+  {
+   "fala": "Eu dei o carregador. O celular ligou. Mensagem da excursão: o ônibus saiu, a gente te espera na próxima cidade, a duas horas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "duas",
+    "horas."
+   ]
+  },
+  {
+   "fala": "Ele fez a conta. Não tinha dinheiro pra corrida de duas horas. Nem pra passagem. Gastou tudo no ingresso e na viagem.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Não tenho dinheiro pra isso."
+   ],
+   "destaque": [
+    "ingresso",
+    "viagem."
+   ]
+  },
+  {
+   "fala": "Eu fui pra rodoviária pensando no que fazer. Chegando lá, tinha um grupo de torcedores do time da casa no bar da esquina. Ainda bravos. Cantando.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "bravos.",
+    "Cantando."
+   ]
+  },
+  {
+   "fala": "Eles viram a camisa dele pelo vidro do carro. Vieram andando na direção do meu carro. Uns seis. O Rodrigo afundou no banco.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "afundou",
+    "banco."
+   ]
+  },
+  {
+   "fala": "O maior deles bateu no vidro. Eu abri só um pouco. Ele olhou pro Rodrigo e perguntou: você é do time de fora? Tá sozinho aqui?",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A TORCIDA RIVAL"
+   ],
+   "destaque": [
+    "sozinho",
+    "aqui?"
+   ]
+  },
+  {
+   "fala": "O Rodrigo, tremendo, contou a história. Que perdeu o ônibus. Que estava sem dinheiro. Que só queria ir embora.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ir",
+    "embora."
+   ]
+  },
+  {
+   "fala": "O grandão virou pros amigos e disse: ô, rapaziada. O moleque tá perdido. A gente perdeu o jogo, mas não perdeu a educação.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Ô, rapaziada."
+   ],
+   "destaque": [
+    "perdeu",
+    "educação."
+   ]
+  },
+  {
+   "fala": "E fizeram uma vaquinha. Ali, na calçada. Torcida do time da casa juntando dinheiro pro torcedor do time que acabou de ganhar deles.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A VAQUINHA DA TORCIDA RIVAL"
+   ],
+   "destaque": [
+    "ganhar",
+    "deles."
+   ]
+  },
+  {
+   "fala": "Um deles disse: mas na volta você não canta o hino de vocês, hein. O outro: e ano que vem a gente ganha lá na sua casa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "sua",
+    "casa."
+   ]
+  },
+  {
+   "fala": "O Rodrigo perguntou: por que vocês tão fazendo isso? O grandão respondeu: porque o meu filho também viaja pra ver jogo. E eu ia querer que alguém ajudasse ele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Por que vocês tão fazendo isso?"
+   ],
+   "destaque": [
+    "alguém",
+    "ajudasse"
+   ]
+  },
+  {
+   "fala": "Juntaram o suficiente pra corrida até a próxima cidade. Eu fiz um preço camarada. A gente foi.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "gente",
+    "foi."
+   ]
+  },
+  {
+   "fala": "Antes de sair, o grandão tirou a camisa dele e ofereceu pro Rodrigo. O Rodrigo tirou a dele e deu. Trocaram ali, na calçada. Igual jogador no fim de jogo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A TROCA DE CAMISA"
+   ],
+   "destaque": [
+    "fim",
+    "jogo."
+   ]
+  },
+  {
+   "fala": "Duas horas de estrada. O Rodrigo de camisa do time rival, contando a história pros amigos da excursão por áudio. Ninguém acreditava.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DUAS HORAS"
+   ],
+   "destaque": [
+    "Ninguém",
+    "acreditava."
+   ]
+  },
+  {
+   "fala": "Chegamos no posto onde o ônibus esperava. A excursão inteira na janela. O Rodrigo desceu de camisa rival. Foi vaiado. E depois aplaudido, quando contou.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quando",
+    "contou."
+   ]
+  },
+  {
+   "fala": "Na volta, sozinho na estrada, eu fiquei pensando. Em quanta briga de torcida a gente vê na televisão. E em quanta coisa bonita ninguém filma.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "ninguém",
+    "filma."
+   ]
+  },
+  {
+   "fala": "Moral da história: o rival é rival dentro de campo. Fora dele, é filho de alguém, perdido numa rodoviária.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PERDE O JOGO, NÃO A EDUCAÇÃO"
+   ],
+   "destaque": [
+    "numa",
+    "rodoviária."
+   ]
+  },
+  {
+   "fala": "E se você vir um torcedor rival perdido, ajuda. A camisa é diferente. O coração é igual.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TROCA DE CAMISA"
+   ],
+   "destaque": [
+    "coração",
+    "igual."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "id": "cx162",
+ "ep": 162,
+ "avulso": true,
+ "titulo": "O CEGO E O CADEIRANTE",
+ "categoria": "amizade",
+ "cenario": "noite",
+ "legenda_post": "🦯 Um não enxerga. O outro não anda. Há dez anos, um empurra a cadeira e o outro guia o caminho. E naquela noite, iam realizar um sonho juntos.\n\nQual amigo completa você naquilo que você não consegue? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amizade #inclusao #parceria #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🦯 Um não enxerga. O outro não anda. Há dez anos, um empurra a cadeira e o outro guia o caminho. E naquela noite, iam realizar um sonho juntos. Qual amigo completa você naquilo que você não consegue? 👇\nHistória de ficção.\n#amizade #inclusao #parceria #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou a dupla mais bonita que eu já vi. E os dois juntos enxergam e andam por quatro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "andam",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Entraram dois homens de uns quarenta anos. Um de óculos escuros e bengala. O outro de cadeira de rodas. Rindo alto, discutindo futebol.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "discutindo",
+    "futebol."
+   ]
+  },
+  {
+   "fala": "O da cadeira apresentou: esse é o Sérgio. Ele é meus pés. O da bengala: e esse é o Paulão. Ele é meus olhos. Juntos a gente é um homem inteiro. Meio feio, mas inteiro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele é meus olhos."
+   ],
+   "destaque": [
+    "feio,",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "Se conheceram num centro de reabilitação, dez anos antes. O Sérgio tinha perdido a visão numa doença. O Paulão, as pernas num acidente.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DEZ ANOS DE DUPLA"
+   ],
+   "destaque": [
+    "num",
+    "acidente."
+   ]
+  },
+  {
+   "fala": "Contaram que no primeiro dia brigaram. O Sérgio esbarrou na cadeira do Paulão. O Paulão gritou: olha por onde anda! E o Sérgio: olha você!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "olha",
+    "você!"
+   ]
+  },
+  {
+   "fala": "Aí os dois riram. E o Paulão disse: já que você não olha e eu não ando, me empurra que eu te guio.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Aí a gente riu."
+   ],
+   "destaque": [
+    "te",
+    "guio."
+   ]
+  },
+  {
+   "fala": "E viraram dupla. O Sérgio empurra a cadeira. O Paulão vai dizendo: buraco à esquerda, degrau em três passos, poste na frente.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "poste",
+    "frente."
+   ]
+  },
+  {
+   "fala": "No bairro, todo mundo conhece. Vão juntos no mercado, no bar, no jogo. Um falando pro outro o que vê, o outro empurrando.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A DUPLA DO BAIRRO"
+   ],
+   "destaque": [
+    "outro",
+    "empurrando."
+   ]
+  },
+  {
+   "fala": "Perguntei pra onde iam. Os dois responderam juntos: show. O primeiro show da nossa vida.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E hoje, pra onde?"
+   ],
+   "destaque": [
+    "nossa",
+    "vida."
+   ]
+  },
+  {
+   "fala": "Uma banda que os dois amavam desde a adolescência. Nunca tinham ido num show. Achavam que não ia dar. Lugar cheio, escada, empurra-empurra.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "escada,",
+    "empurra-empurra."
+   ]
+  },
+  {
+   "fala": "Chegamos numa casa de shows grande. Fila enorme. Multidão. O Paulão ficou nervoso. O Sérgio segurou firme a cadeira.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "firme",
+    "cadeira."
+   ]
+  },
+  {
+   "fala": "O Paulão disse: e se a gente não conseguir chegar perto do palco? O Sérgio respondeu: eu não preciso ver. Eu só preciso ouvir. E você me conta o resto.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E se não der?"
+   ],
+   "destaque": [
+    "conta",
+    "resto."
+   ]
+  },
+  {
+   "fala": "Eu fiquei pra ajudar na entrada. Rampa só lá do outro lado. Fila diferente. Uma confusão. Um segurança viu e veio ajudar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "veio",
+    "ajudar."
+   ]
+  },
+  {
+   "fala": "O segurança levou os dois pra um espaço reservado. Do lado do palco. Pertinho. Eu fiquei com eles até começar.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O SEGURANÇA LEVOU"
+   ],
+   "destaque": [
+    "até",
+    "começar."
+   ]
+  },
+  {
+   "fala": "O show começou. E eu vi uma coisa que nunca vou esquecer. O Paulão narrando tudo no ouvido do Sérgio. As luzes, a roupa do vocalista, a guitarra.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O SHOW COMEÇOU"
+   ],
+   "destaque": [
+    "vocalista,",
+    "guitarra."
+   ]
+  },
+  {
+   "fala": "E o Sérgio cantando todas as músicas, de olhos fechados, segurando a cadeira do Paulão com uma mão e a bengala na outra.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "bengala",
+    "outra."
+   ]
+  },
+  {
+   "fala": "Lá pelo meio, o Paulão falou: Sérgio, o vocalista tá vindo pra cá. Ele tá olhando pra gente.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "O vocalista tá vindo."
+   ],
+   "destaque": [
+    "olhando",
+    "gente."
+   ]
+  },
+  {
+   "fala": "O vocalista desceu do palco, foi até eles, entregou o microfone. Os dois cantaram o refrão juntos. A casa de shows inteira aplaudiu.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A DUPLA NO TELÃO"
+   ],
+   "destaque": [
+    "inteira",
+    "aplaudiu."
+   ]
+  },
+  {
+   "fala": "Busquei os dois de madrugada. Roucos, felizes, com uma palheta de presente. O Sérgio segurando a palheta. O Paulão descrevendo ela.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Paulão",
+    "descrevendo"
+   ]
+  },
+  {
+   "fala": "Moral da história: ninguém é inteiro sozinho. A gente se completa com o que falta no outro.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "COMPLETA O OUTRO"
+   ],
+   "destaque": [
+    "falta",
+    "outro."
+   ]
+  },
+  {
+   "fala": "E se você tem um amigo que completa você, agradece hoje. Ele é a metade que você não tem.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "OLHOS E PÉS"
+   ],
+   "destaque": [
+    "você",
+    "tem."
+   ]
+  }
+ ]
+}

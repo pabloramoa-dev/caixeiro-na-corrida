@@ -1,0 +1,269 @@
+## 245 | O GOLEIRO GORDINHO | futebol | dia
+G: 🧤 Os colegas zoavam: gordinho vai pro gol. Ele foi. E na final do campeonato da escola, a decisão foi nos pênaltis.
+P: Você já foi escolhido por último no futebol da escola?
+H: #futebol #escola #goleiro
+neutra | titulo | Sobe aí, que essa corrida levou o goleiro que ninguém queria. E que todo mundo abraçou no final.
+neutra | relogio: SÁBADO · 8H | Sábado, oito da manhã. Entraram um pai e um menino de onze anos, gordinho, de luva de goleiro nova, segurando uma bola. Quieto.
+neutra | conversa: Final do campeonato da escola. | O pai disse: final do campeonato entre escolas. Ele é o goleiro. O menino não disse nada. Olhou pela janela.
+neutra | carimbo: O GOLEIRO DA VEZ | Chama-se Miguel. O pai contou: na escola, ninguém queria ele no time. Diziam: gordinho vai pro gol. Ele foi. Porque era o único lugar que sobrava.
+triste | conversa: Eles riem de mim. | O Miguel falou baixinho: eles riem de mim quando eu caio. Dizem que eu pareço uma bola. Que eu ocupo o gol todo.
+neutra | - | Mas o pai contou o resto: ele treinou. Todo dia, na garagem de casa. O pai chutando, ele defendendo. Seis meses. Até a mão doer.
+rindo | conversa: Ele pega tudo agora. | Riu: ele pega tudo agora. Eu não consigo mais fazer gol nele. Eu tô ficando com vergonha.
+neutra | - | O Miguel deu um sorrisinho. O primeiro da corrida. E disse: o meu pai chuta mal. Mas tá melhorando.
+neutra | mapa | Chegamos no ginásio. Arquibancada cheia de pais, faixa das escolas. O time do Miguel aquecendo. Ninguém chamou ele pra roda.
+neutra | - | Eu fiquei. O pai pediu. Sentei do lado dele na arquibancada. Ele roendo a unha.
+neutra | relogio: O JOGO | O jogo foi duro. Zero a zero. O Miguel defendeu três chutes perigosos. Mas os colegas não comemoravam com ele. Só com quem chutava.
+chocada | relogio: PÊNALTIS | Fim de jogo. Zero a zero. Pênaltis. O time adversário escalou o melhor batedor da escola. Um menino que fazia gol em tudo.
+chocada | manchete: A PRIMEIRA DEFESA | Primeiro pênalti. O Miguel pulou pro canto certo. Defendeu. A arquibancada gritou. Os colegas dele ficaram parados, surpresos.
+chocada | - | Segundo pênalti. Gol. Terceiro. O Miguel defendeu de novo. Com a ponta dos dedos. Caiu no chão e ficou sentado, sem acreditar.
+chocada | carimbo: O ÚLTIMO PÊNALTI | Quinto pênalti. Se ele defendesse, a escola dele era campeã. O melhor batedor do adversário. Correu. Chutou forte. No ângulo.
+chocada | manchete: DEFENDEU | O Miguel voou. Esticou o corpo inteiro. E tocou na bola. Que bateu na trave e saiu. Campeões.
+triste | - | E aí aconteceu. Os colegas que riam dele correram. Todos. E pularam em cima dele. Gritando o nome dele. Pela primeira vez.
+triste | coracao: MIGUEL! MIGUEL! | A arquibancada gritando: Miguel! Miguel! O pai do meu lado chorando igual criança. Eu também.
+rindo | carimbo: O CAPITÃO PEDIU DESCULPA | Na saída, o capitão do time, o que mais zoava, foi até ele. E disse: desculpa, Miguel. Você é o melhor goleiro da escola.
+neutra | carro | No carro, o Miguel foi segurando a medalha com as duas luvas. Disse: pai, segunda eu vou chegar mais cedo na escola. Quero jogar no recreio.
+neutra | manchete_v: NÃO DEIXA TE DIMINUIR | Moral da história: o lugar que sobrou pra você pode ser o lugar onde você brilha.
+rindo | coracao: GOLEIRO MIGUEL | E se tem uma criança sendo zoada no futebol da escola, chama ela pro seu time. Pode ser o goleiro da final.
+
+## 246 | A GARRAFA NA LAGOA | amor | noite
+G: 💌 Aos 17, ele jogou uma carta de amor numa garrafa na lagoa. Era pra uma menina que nunca soube. 40 anos depois, um pescador achou a garrafa.
+P: Você já escreveu uma carta que nunca enviou?
+H: #amor #carta #nostalgia
+neutra | titulo | Sobe aí, que essa corrida levou uma carta que demorou quarenta anos pra chegar.
+neutra | relogio: QUINTA · 19H | Quinta, sete da noite. Entrou um pescador de uns sessenta anos, boné, cheiro de rio, e uma garrafa de vidro verde, velha, com um papel enrolado dentro.
+desconfiada | conversa: Achei isso na lagoa. | Disse: achei isso na lagoa, preso numa rede. Tem uma carta dentro. Tem um endereço. Eu quero entregar.
+neutra | carimbo: A GARRAFA VERDE | A garrafa estava tampada com rolha e cera de vela. O papel lá dentro amarelado, mas inteiro. Ele tinha aberto com cuidado em casa.
+neutra | - | A carta era de mil novecentos e oitenta e seis. Escrita por um rapaz de dezessete anos. Pra uma menina da mesma escola. Declaração de amor.
+triste | conversa: Ele nunca teve coragem. | O pescador leu um trecho pra mim. O rapaz dizia que nunca teve coragem de falar. Então jogava a carta na lagoa. Se ela achasse, era destino.
+neutra | - | No pé da carta, o nome dele. Marcelo. E o endereço dele, de quarenta anos antes. O pescador queria entregar. Mesmo sabendo que podia não dar em nada.
+neutra | mapa | Fomos no endereço. Uma casa antiga, num bairro tranquilo. Ainda de pé. Uma senhora de oitenta anos abriu o portão. Era a mãe do Marcelo.
+triste | - | Ela leu a carta no portão. E começou a rir e chorar. Disse: esse menino! Ele era tão tímido. Ele mora a dez minutos daqui. Vou ligar.
+neutra | relogio: 20 MINUTOS | Vinte minutos depois, chegou um homem de cinquenta e sete anos. De terno, saindo do trabalho. O Marcelo. Pegou a carta. Ficou branco.
+rindo | conversa: Eu tinha esquecido. | Disse: eu tinha esquecido completamente disso. Eu joguei essa garrafa numa sexta-feira à noite. Com dezessete anos. Morrendo de vergonha.
+desconfiada | conversa: E a menina? | O pescador perguntou: e a menina? A Patrícia? O que aconteceu com ela? O Marcelo ficou quieto um pouco.
+chocada | manchete: ELE CASOU COM ELA | E disse: eu casei com ela. Três anos depois. Sem ela nunca ter recebido a carta. A gente se reencontrou numa festa. E dessa vez eu tive coragem.
+chocada | - | O pescador quase derrubou a garrafa. A mãe do Marcelo riu tanto que teve que sentar. Eu fiquei olhando sem acreditar.
+rindo | conversa: Ela nunca soube. | O Marcelo disse: ela nunca soube dessa carta. Trinta e sete anos de casados. E eu nunca contei. Eu tinha vergonha até disso.
+neutra | carimbo: A ENTREGA | E aí ele pediu pro pescador: o senhor me ajuda a entregar? Do jeito certo. Do jeito que eu queria em mil novecentos e oitenta e seis.
+neutra | mapa | Levei os três até a casa do Marcelo. Ele pediu pro pescador entregar a garrafa. Como se fosse um carteiro do destino.
+triste | - | A Patrícia abriu a porta. O pescador estendeu a garrafa. Disse: senhora, isso é seu. Demorou quarenta anos. Mas chegou.
+triste | coracao: QUARENTA ANOS DEPOIS | Ela leu a carta na porta. Com o marido do lado, vermelho de vergonha. No final, ela olhou pra ele e disse: você me escreveu isso aos dezessete? E por que não me deu?
+rindo | - | Ele respondeu: porque eu tinha medo de você dizer não. Ela riu: eu teria dito sim. Eu gostava de você desde o primeiro ano.
+neutra | carro | O pescador ganhou um jantar e uma amizade. A garrafa verde está na estante da sala deles. Com a carta dentro. Do jeito que chegou.
+neutra | manchete_v: ENTREGA A CARTA | Moral da história: às vezes a resposta já era sim. A gente só demora quarenta anos pra perguntar.
+rindo | coracao: GARRAFA VERDE | E se você tem uma carta guardada pra alguém, entrega. Não precisa jogar na lagoa.
+
+## 247 | O INFLUENCER MIRIM | humor | dia
+G: 📹 Um menino de 9 anos entrou com o pai e começou a gravar a corrida pro canal dele. 47 inscritos. Até o motorista virar personagem.
+P: Você teria coragem de aparecer no canal de uma criança?
+H: #humor #youtuber #criancas
+neutra | titulo | Sobe aí, que essa corrida foi gravada, editada e postada por um diretor de nove anos.
+neutra | relogio: SÁBADO · 10H | Sábado, dez da manhã. Entrou um pai e um menino de nove anos com o celular na mão, já filmando. Antes de sentar, o menino falou pra câmera.
+rindo | conversa: Fala, galera! | Fala, galera! Aqui é o Davizinho Games! Hoje eu vou mostrar como é andar de Uber! Deixa o like! E virou a câmera pra mim.
+rindo | carimbo: DAVIZINHO GAMES | O pai, envergonhado, explicou: ele tem um canal. Quarenta e sete inscritos. A maioria é da família. Ele leva muito a sério.
+rindo | conversa: Apresenta o seu carro. | O Davi apontou a câmera pra mim: moço, apresenta o seu carro pros inscritos. Eu travei. Disse: é um carro prata. Ele disse: mais emoção, moço.
+rindo | - | Eu tentei de novo, com emoção: é um carro prata! Com um terço no retrovisor! E um banco de trás que já ouviu muita história! Ele aprovou: boa.
+neutra | - | Aí ele fez entrevista. Perguntou quantos anos eu tinha. Qual a corrida mais doida. Se eu já levei alguém famoso. Se eu já atropelei um pombo.
+rindo | conversa: Conta uma história. | E pediu: conta uma história pros inscritos. Uma das boas. Eu contei a do papagaio do pudim. Ele riu tanto que derrubou o celular.
+neutra | - | O pai disse que o Davi queria ser youtuber famoso. Que passava horas editando vídeo. Que os vídeos tinham dez, quinze visualizações.
+triste | conversa: Ninguém assiste. | O Davi ficou sério por um segundo. Disse: ninguém assiste os meus vídeos. Só a minha vó. Ela assiste todos. Três vezes.
+neutra | - | Eu pensei: e se eu ajudar? Eu tenho um monte de passageiro. Falei: Davi, me manda o link desse vídeo quando você postar.
+neutra | mapa | Deixei os dois no shopping. O Davi encerrou o vídeo: valeu, galera! O motorista Caixeiro é o mais legal! Se inscreve!
+neutra | relogio: À NOITE | À noite, ele me mandou o link. O vídeo editado. Com efeito de explosão, música de suspense e meu rosto com um bigode desenhado.
+rindo | carimbo: EU COMPARTILHEI | Eu mostrei pra Rosângela. Ela riu tanto que compartilhou no grupo da família dela. Que compartilhou no grupo da igreja. Que compartilhou no grupo do bairro.
+chocada | manchete: DUAS MIL VISUALIZAÇÕES | No dia seguinte, o vídeo tinha duas mil visualizações. O pai me ligou desesperado: o que aconteceu? O Davi não para de pular.
+rindo | - | Os comentários: queremos mais Caixeiro! Conta mais história! O motorista é muito engraçado! E o Davi respondendo cada um.
+triste | coracao: A VÓ DO DAVI | Mas o comentário que eu mais gostei foi o primeiro. Da vó dele: eu sempre disse que você ia ser famoso, meu neto. Assisti cinco vezes.
+neutra | - | Hoje o Davi tem mil e duzentos inscritos. E de vez em quando ele chama um carro de aplicativo pra gravar. Torcendo pra ser eu.
+neutra | carro | Eu apareci em mais três vídeos dele. Em todos, ele desenha um bigode em mim. Eu já tenho bigode. Ele diz que o desenhado é melhor.
+neutra | manchete_v: ASSISTE O VÍDEO DA CRIANÇA | Moral da história: todo sonho grande começa com quarenta e sete inscritos. E uma vó que assiste três vezes.
+rindo | coracao: DAVIZINHO GAMES | E se uma criança da sua família tem um canal, assiste. Comenta. Deixa o like. Pode ser o começo de tudo.
+
+## 248 | O AGRÔNOMO DA ROÇA | superacao | noite
+G: 🌱 Ele cresceu ajudando o pai na roça, sem estudar. Aos 34, se formou agrônomo. O primeiro trabalho foi salvar o sítio da família.
+P: Qual sonho você realizou depois de adulto?
+H: #superacao #agronomia #roca
+neutra | titulo | Sobe aí, que essa corrida levou um agrônomo de botina e diploma. Os dois cheirando a terra.
+neutra | relogio: SÁBADO · 6H | Sábado, seis da manhã. Rodoviária. Entrou um homem de uns trinta e quatro anos, botina, chapéu de palha e um canudo de diploma debaixo do braço.
+rindo | conversa: Me formei ontem. | Disse: me formei ontem. Agronomia. Eu disse: parabéns, doutor. Ele riu: doutor da roça. Tô indo pro sítio do meu pai. Mostrar o diploma.
+neutra | carimbo: VALDEMIR | Chama-se Valdemir. Cresceu num sítio pequeno, a uma hora da cidade. Parou de estudar aos doze, pra ajudar o pai na lavoura.
+triste | conversa: O sítio tava morrendo. | Disse: o sítio tava morrendo. A terra cansada. A plantação dando cada vez menos. O meu pai trabalhando o dobro pra ganhar a metade.
+neutra | - | Aos vinte e quatro, ele voltou a estudar. Supletivo à noite. Depois vestibular. Depois agronomia, numa faculdade pública. Indo e voltando de ônibus.
+rindo | conversa: Eu era o mais velho da turma. | Riu: eu era o mais velho da turma. Os colegas de dezoito anos me chamavam de tio. Mas eu era o único que sabia a diferença de um pé de feijão e um pé de mato.
+neutra | - | Disse que tudo que aprendia na faculdade, ele testava no sítio do pai. No fim de semana. Escondido no começo, porque o pai não acreditava.
+triste | conversa: Meu pai dizia que era besteira. | O meu pai dizia que era besteira. Que livro não ensina roça. Que ele plantava há cinquenta anos do mesmo jeito.
+neutra | carimbo: O TESTE | Mas um canteiro que o Valdemir cuidou com as técnicas da faculdade deu o dobro. Rotação de cultura, adubo verde, irrigação por gotejamento feita com mangueira velha.
+neutra | mapa | Chegamos no sítio. Estrada de terra, porteira de madeira, um senhor de setenta anos esperando na varanda. Chapéu na mão.
+neutra | - | Ele me pediu pra subir até a casa, que a estrada era ruim pra ele andar com a mala. Eu subi. E fiquei pro café, porque o pai insistiu.
+chocada | - | O Valdemir desceu do carro e estendeu o diploma pro pai. O pai pegou. Olhou. Não sabia ler direito. Pediu pro filho ler.
+triste | carimbo: O NOME NO DIPLOMA | O filho leu: Valdemir da Silva, engenheiro agrônomo. O pai passou o dedo no nome. Devagar. Disse: da Silva. É o meu sobrenome.
+triste | conversa: Eu nunca acreditei. | Aí o pai disse: eu nunca acreditei. Quando você falava das coisas da faculdade, eu achava que era besteira. Me perdoa, filho.
+neutra | - | E levou o filho até a plantação. Até o canteiro do teste. Que agora estava enorme. E mostrou uma coisa.
+chocada | manchete: O SÍTIO INTEIRO | O pai tinha feito igual. No sítio inteiro. Escondido do filho. Seguindo as anotações que o Valdemir deixava na mesa da cozinha.
+triste | coracao: O PAI APRENDEU | A plantação inteira verde, cheia, bonita. O pai disse: eu li as suas anotações. Devagar. Com a lupa. Você me ensinou, filho.
+rindo | - | O Valdemir ficou parado no meio da plantação. Chorando com o diploma na mão. O pai do lado, de chapéu, sorrindo de orgulho.
+neutra | carro | Na volta, eu levei um saco de feijão de presente. O pai disse: plantado com técnica de faculdade. E com mão de cinquenta anos.
+neutra | manchete_v: APRENDE COM O FILHO | Moral da história: o filho aprende com o pai a vida inteira. E um dia, o pai aprende com o filho.
+rindo | coracao: DOUTOR DA ROÇA | E se seu filho está estudando algo que você não entende, pergunta. Ele pode ter algo pra te ensinar.
+
+## 249 | OS CARTÕES-POSTAIS | curiosa | dia
+G: 📮 Ela coleciona cartões-postais antigos comprados em feira. Um deles, de 1962, tinha uma mensagem que parecia escrita pra ela.
+P: Você guarda cartões-postais ou cartas antigas?
+H: #cartoespostais #misterio #curiosidades
+neutra | titulo | Sobe aí, que essa corrida levou uma mensagem que viajou sessenta e quatro anos.
+neutra | relogio: DOMINGO · 11H | Domingo, onze da manhã. Feira de antiguidades. Entrou uma moça de uns trinta anos com uma caixa de sapato cheia de cartões-postais antigos.
+rindo | conversa: Coleciono cartões. | Disse: coleciono cartões-postais antigos. Compro na feira. Tenho mais de mil. Cada um tem uma história escrita atrás.
+neutra | carimbo: A COLEÇÃO | Chama-se Mariana. Bibliotecária. Disse que lê os cartões como quem lê um livro. Gente que viajou, que sentiu saudade, que mandou beijo.
+rindo | - | Me mostrou alguns. Um de mil novecentos e cinquenta, de uma praia: aqui está um calor de rachar, mãe. Outro: casei ontem, foi lindo, depois te conto.
+neutra | - | Mas aí ela tirou um cartão da bolsa. Separado. Dentro de um plástico. Disse: esse aqui eu comprei hoje. E não consigo parar de ler.
+chocada | carimbo: O CARTÃO DE 1962 | Um cartão de mil novecentos e sessenta e dois. De uma cidade do interior. Endereçado a uma moça chamada Mariana. No mesmo bairro onde ela mora.
+neutra | - | A mensagem dizia: Mariana, se um dia você ler isso, saiba que eu voltei pra te buscar. Te espero na praça da matriz, todo domingo, às cinco. Assinado: J.
+desconfiada | conversa: Será que ela recebeu? | Perguntei: e será que essa Mariana recebeu o cartão? Ela disse: não sei. Mas se esse cartão foi parar na feira, talvez não.
+neutra | - | Ela tinha decidido investigar. Foi no endereço do cartão. A casa ainda existia. E estava indo lá. Comigo.
+neutra | mapa | Chegamos. Uma casa antiga, de muro baixo, com um jardim bem cuidado. Uma senhora de oitenta e cinco anos regando as plantas.
+desconfiada | - | A Mariana desceu, se apresentou, mostrou o cartão. A senhora pegou o cartão. Leu. Levou a mão no peito. E sentou no degrau.
+chocada | manchete: ERA ELA | Era ela. A Mariana do cartão. E disse: eu nunca recebi isso. Nunca. A minha mãe não gostava dele. Deve ter escondido.
+triste | - | Contou que o J era o Joaquim. O namorado da juventude. Que foi trabalhar no interior e prometeu voltar. Ela esperou. Ele nunca apareceu. Ela achou que ele tinha esquecido.
+triste | carimbo: ELE ESPERAVA NA PRAÇA | E ele estava esperando. Na praça da matriz. Todo domingo, às cinco. E ela nunca soube. Casou com outro. Teve filhos. Viúva há dez anos.
+neutra | - | A Mariana, a bibliotecária, perguntou: a senhora quer saber o que aconteceu com ele? A senhora ficou um tempo quieta. E disse: quero.
+neutra | relogio: UMA SEMANA DEPOIS | Uma semana depois, a Mariana me chamou de novo. Tinha pesquisado. Achou o Joaquim. Vivo. Oitenta e sete anos. Morando num asilo da mesma cidade.
+triste | coracao: A PRAÇA DA MATRIZ | Ela organizou o encontro. Na praça da matriz. Num domingo. Às cinco. Eu levei a dona Mariana. A neta do Joaquim levou ele.
+triste | - | Os dois se olharam no banco da praça. Sessenta e quatro anos. Ele disse: eu esperei uns cinco anos, todo domingo. Ela disse: eu nunca soube, Joaquim.
+neutra | carro | Agora eles se encontram todo domingo. Às cinco. Na praça. A bibliotecária vai junto às vezes. Diz que é a melhor história da coleção dela.
+neutra | manchete_v: A MENSAGEM CHEGA | Moral da história: tem mensagem que se perde no caminho. Mas às vezes alguém acha numa feira e entrega.
+rindo | coracao: DOMINGO ÀS CINCO | E se você tem cartas antigas guardadas, lê de novo. Pode ter uma história esperando um final.
+
+## 250 | O MEU PRIMEIRO CARRO | reflexao | noite
+G: 🚘 Episódio 250. Nessa corrida, eu peguei uma passageira que estava no meu primeiro carro. O carro que eu vendi pra comprar esse. E ela tinha uma surpresa.
+P: Você lembra do seu primeiro carro? Que fim ele levou?
+H: #reflexao #carro #episodio250
+neutra | titulo | Sobe aí, que essa corrida é a número duzentos e cinquenta. E ela começa com um carro velho que eu amava.
+neutra | relogio: SEXTA · 20H | Sexta, oito da noite. Eu estava parado num posto quando vi um carro estacionar do meu lado. Um sedan velho, cor de vinho, com um amassado no para-choque.
+chocada | carimbo: O CARRO VINHO | Eu conheci o amassado. Fui eu que fiz. Num poste, em dois mil e dezenove. Era o meu primeiro carro de aplicativo. Que eu vendi três anos atrás.
+triste | - | Eu fiquei olhando o carro. Como quem olha um amigo antigo. Os bancos que eu reformei. O terço que eu deixei pendurado. Ainda lá.
+neutra | - | Aí desceu do carro uma moça de uns vinte e cinco anos. Foi abastecer. Eu não aguentei. Desci e fui falar com ela.
+desconfiada | conversa: Esse carro era meu. | Falei: moça, desculpa. Esse carro era meu. Eu vendi faz três anos. Ela me olhou desconfiada. Depois sorriu: o senhor é o motorista do terço?
+chocada | manchete: ELA SABIA | Ela sabia. Disse: o meu pai comprou esse carro do senhor. E disse que o antigo dono deixou o terço e pediu pra não tirar. A gente nunca tirou.
+neutra | - | Contou que o pai dela também virou motorista de aplicativo com aquele carro. Depois que perdeu o emprego. Igualzinho a mim.
+triste | carimbo: O PAI DELA | O pai dela, o seu Edgar, rodou dois anos com o meu carro velho. Juntou dinheiro. E com aquele carro, levava ela todo dia pra faculdade.
+triste | conversa: Eu me formei nesse carro. | Ela disse: eu me formei nesse carro, moço. Eu estudava no banco de trás, indo e voltando. O meu pai dirigindo e me tomando a matéria.
+neutra | - | Disse que se formou em direito no ano anterior. E o pai deu o carro pra ela. Agora ela usa pra ir pro escritório. E ele comprou um mais novo.
+rindo | conversa: Ele quebrou uma vez. | Riu: ele quebrou umas dez vezes. O meu pai consertava rezando no terço. Ele diz que o terço é que segurava o carro de pé.
+triste | - | Eu fiquei com um nó na garganta. O meu primeiro carro. Que me levou nos piores anos. Tinha levado outra família pelos piores anos dela. E levado uma menina até a formatura.
+desconfiada | conversa: Quer dar uma volta? | Aí ela perguntou: o senhor quer dar uma volta nele? Pela última vez? Eu disse que sim. Antes de pensar.
+neutra | mapa | Ela me entregou a chave. Eu sentei no banco do motorista. O mesmo. Com o mesmo rasgo que eu tapei com fita. Ajeitei o retrovisor. Dei a partida.
+triste | carimbo: O BARULHO DO MOTOR | O motor fez o mesmo barulho. Aquele tossido no começo. Eu ri sozinho. Ela riu também. Disse: ele faz isso desde sempre?
+triste | - | Dei uma volta no quarteirão. Devagar. Lembrando das primeiras corridas. Das primeiras histórias. Do medo. Do primeiro dia.
+triste | coracao: O TERÇO NO RETROVISOR | Quando voltei, ela disse: fica com o terço, se quiser. Eu olhei. Disse: não. Ele é desse carro. E agora é seu. Ele protege quem estiver dirigindo.
+neutra | - | Ela agradeceu. Disse que vai contar pro pai que conheceu o motorista do terço. Que ele sempre quis agradecer. Pelo carro e pela sorte.
+neutra | carro | Voltei pro meu carro. O atual. Que também tem um terço. E fiquei pensando: a gente não sabe quantas vidas cabem num carro velho.
+neutra | manchete_v: PASSA ADIANTE | Moral da história: as coisas que a gente passa adiante continuam fazendo história. Às vezes uma história mais bonita que a nossa.
+rindo | coracao: CORRIDA 250 | Duzentas e cinquenta corridas com vocês. Obrigado por estarem no banco de trás. E se você tem um carro velho cheio de história, conta nos comentários.
+
+## 251 | O QUE É SAUDADE | reflexao | dia
+G: 🧒 Uma menina de 6 anos me perguntou o que era saudade. Eu tentei explicar. Ela entendeu melhor que eu.
+P: Como você explicaria saudade pra uma criança?
+H: #reflexao #saudade #criancas
+neutra | titulo | Sobe aí, que nessa corrida eu tive que explicar a palavra mais difícil da língua portuguesa. Pra uma menina de seis anos.
+neutra | relogio: SÁBADO · 10H | Sábado, dez da manhã. Entraram um pai e uma menina de seis anos. Ela segurando um desenho dobrado. O pai quieto.
+neutra | conversa: A gente vai visitar a vó. | A menina disse: a gente vai visitar a vó. No cemitério. Hoje é aniversário dela. Eu fiz um desenho.
+triste | - | O pai olhou pra mim pelo retrovisor. Um olhar cansado. A avó tinha falecido havia dois meses.
+desconfiada | conversa: Moço, o que é saudade? | Aí a menina perguntou: moço, o que é saudade? O meu pai disse que tá com saudade. Mas eu não sei o que é.
+neutra | - | Eu olhei pro pai. Ele fez um sinal de pode falar. E eu tentei. Devagar. Do jeito que eu sabia.
+neutra | conversa: É quando a gente sente falta. | Eu disse: saudade é quando a gente sente falta de alguém que a gente ama. Quando a pessoa não tá perto. E dá um apertinho aqui.
+neutra | - | Coloquei a mão no peito. Ela colocou a mão no peito dela também. Ficou pensando.
+desconfiada | conversa: Dói? | Ela perguntou: dói? Eu pensei. Disse: um pouco. Mas é uma dor diferente. É a dor de ter amado muito.
+neutra | - | Ela ficou quieta um tempão. Olhando o desenho dela. Depois abriu e me mostrou pelo retrovisor.
+triste | carimbo: O DESENHO | Uma casinha. Uma senhora de cabelo branco na porta. Uma menina do lado. E um bolo com velas. E em cima, um sol enorme sorrindo.
+neutra | conversa: Esse é o bolo da vó. | Ela disse: esse é o bolo de fubá da vó. Ela fazia toda vez que eu ia lá. Com a casquinha crocante.
+triste | - | E aí ela falou uma coisa que eu nunca mais esqueci.
+triste | manchete: SAUDADE TEM GOSTO | Ela disse: então saudade tem gosto de bolo de fubá. Porque quando eu lembro da vó, eu lembro do bolo. E dá o apertinho.
+triste | - | O pai dela começou a chorar baixinho. Eu também. Ela não entendeu por quê. Achou que tinha falado alguma coisa errada.
+neutra | conversa: Falei errado? | Perguntou: falei errado? O pai segurou a mão dela e disse: não, filha. Você falou a coisa mais certa do mundo.
+neutra | mapa | Chegamos no cemitério. Ela desceu com o desenho. O pai segurando a mão dela. Eu fiquei no carro. Mas eles demoraram, e eu vi pela grade.
+triste | coracao: O DESENHO NA LÁPIDE | Ela colocou o desenho na lápide. Prendeu com uma pedrinha. E disse alguma coisa que eu não ouvi. Depois sorriu. E acenou pro céu.
+neutra | - | Na volta, ela perguntou pro pai: pai, a gente pode fazer o bolo de fubá da vó? Pra matar a saudade? O pai disse que sim. Mas que não sabia a receita.
+rindo | conversa: A tia sabe! | Ela gritou: a tia sabe! A vó ensinou pra ela! Vamos na tia! E eu mudei a rota. Fomos na tia.
+neutra | carro | Eu deixei os dois na casa da tia. Com o cheiro de fubá já saindo da janela, que a tia estava fazendo um. Coincidência ou não.
+neutra | manchete_v: SAUDADE TEM GOSTO | Moral da história: saudade não é só dor. É o gosto de tudo de bom que alguém deixou em você.
+rindo | coracao: BOLO DE FUBÁ | E você, do que você tem saudade? Qual gosto tem a sua saudade? Me conta nos comentários.
+
+## 252 | AS SENHORAS DO CROCHÊ | amizade | noite
+G: 🧶 Oito senhoras fazem crochê na praça toda tarde há 20 anos. Ninguém sabia pra quê. Até o inverno chegar e a cidade descobrir.
+P: Você conhece algum grupo que faz o bem em silêncio?
+H: #croche #solidariedade #amizade
+neutra | titulo | Sobe aí, que essa corrida levou oito senhoras e uma montanha de lã.
+neutra | relogio: QUINTA · 17H | Quinta, cinco da tarde. Fui chamado numa praça. Oito senhoras de setenta, oitenta anos, sentadas num banco comprido. Cada uma com uma sacola enorme.
+rindo | conversa: Cabe tudo? | A mais velha perguntou: cabe tudo no seu carro? Eu olhei. Oito sacolas gigantes. Oito senhoras. Disse: cabe se a senhora sentar no colo da amiga.
+rindo | - | Riram muito. No fim, chamaram dois carros. Eu levei quatro senhoras e as sacolas. A outra metade foi no carro de trás.
+neutra | carimbo: O CLUBE DO CROCHÊ | Contaram. Há vinte anos, todo dia, às duas da tarde, elas se encontram no banco da praça. Pra fazer crochê. Chuva ou sol.
+rindo | conversa: É a nossa terapia. | Dona Iolanda, a líder, disse: é a nossa terapia. A gente fala da vida, da novela, dos netos. E as mãos não param.
+neutra | - | As pessoas do bairro passavam e achavam bonito. Mas ninguém sabia o que elas faziam com tanto crochê. Toda semana, sacolas e mais sacolas.
+desconfiada | conversa: Pra onde vão as sacolas? | Eu perguntei: e pra onde vão essas sacolas? A dona Iolanda sorriu: pra quem tá com frio.
+triste | carimbo: O INVERNO | Explicou: todo inverno, elas levam tudo pros abrigos da cidade. Cachecol, gorro, manta, meia, cobertor. Feito à mão. O ano inteiro.
+triste | conversa: Vinte anos de inverno. | Vinte invernos. Mais de quinze mil peças. Sem nenhuma ajuda. Comprando a lã com o dinheiro da aposentadoria.
+neutra | - | Nunca contaram pra ninguém. Disseram que não era pra aparecer. Era pra aquecer.
+neutra | mapa | Chegamos num abrigo municipal. Um prédio simples. Fila na porta. Era a primeira noite fria do ano.
+neutra | - | As senhoras desceram e começaram a abrir as sacolas. Os funcionários do abrigo já conheciam. Abraçaram cada uma.
+chocada | - | E aí, das pessoas da fila, um homem de uns quarenta anos se aproximou. Barba feita, roupa limpa. Disse: dona Iolanda?
+chocada | manchete: O CACHECOL DE 2015 | Ele tirou da mochila um cachecol vermelho. Velho. Gasto. Disse: a senhora me deu isso em dois mil e quinze. Eu morava na rua. Foi o inverno mais frio da minha vida.
+triste | - | Contou: esse cachecol me esquentou. E tinha um bilhetinho preso nele. Escrito: alguém se importa com você. Eu guardei o bilhete até hoje.
+triste | carimbo: O BILHETE | Mostrou. Um papelzinho amassado, dentro de um plástico. Com a letra da dona Iolanda.
+triste | coracao: ALGUÉM SE IMPORTA | Ele disse: hoje eu trabalho aqui no abrigo. Como monitor. Eu voltei pra ajudar quem tá onde eu estava. Por causa desse bilhete.
+neutra | - | As oito senhoras pararam de mexer nas sacolas. Ficaram em volta dele. A dona Iolanda abraçou ele. As outras sete abraçaram os dois.
+neutra | carro | Na volta, as senhoras ficaram em silêncio. Depois uma delas disse: vinte anos e a gente nunca soube se servia pra alguma coisa. Hoje a gente soube.
+neutra | manchete_v: FAZ EM SILÊNCIO | Moral da história: tem gente que faz o bem sem querer aparecer. E o bem sempre aparece. Nem que seja vinte anos depois.
+rindo | coracao: CLUBE DO CROCHÊ | E se você sabe fazer crochê, tricô, costura, faz uma peça pra um abrigo nesse inverno. Com um bilhete.
+
+## 253 | A SENHORA QUE ACHOU QUE EU ERA O NETO | humor | dia
+G: 👵 Uma senhora de 88 anos entrou no meu carro achando que eu era o neto dela. Não consegui desmentir. Ela me levou pra almoçar com a família.
+P: Você já foi confundido com alguém da família de outra pessoa?
+H: #humor #avo #confusao
+neutra | titulo | Sobe aí, que nessa corrida eu ganhei uma avó. Por uma tarde.
+neutra | relogio: DOMINGO · 11H | Domingo, onze da manhã. Fui buscar uma passageira numa casa. Uma senhora de oitenta e oito anos, chapéu de domingo, bolsa no braço. Entrou e me deu um beijo no rosto.
+chocada | conversa: Juninho! Que saudade! | Ela disse: Juninho! Que saudade, meu filho! Você emagreceu! Eu fiquei paralisado. Ela achou que eu era o neto dela.
+desconfiada | - | Eu ia explicar. Mas ela começou a falar sem parar. Que fazia meses que eu não visitava. Que a mãe estava brava comigo. Que eu tinha que cortar o cabelo.
+rindo | carimbo: DONA CANDINHA | Dona Candinha. A corrida tinha sido pedida pela filha dela, pelo aplicativo. Destino: a casa da filha. Almoço de domingo.
+rindo | conversa: Você ainda tá com aquela moça? | Ela perguntou: você ainda tá com aquela moça? A loirinha? Eu, sem saber o que fazer, disse: não, vó. Agora eu sou casado. Com a Rosângela.
+rindo | - | Ela ficou encantada. Rosângela? Que nome bonito. Por que não me apresentou? Eu disse: um dia eu trago. E ela ficou feliz.
+triste | - | Mas eu fiquei com remorso. E se ela descobrisse? E se ficasse triste? Eu precisava falar com a filha dela.
+neutra | mapa | Chegamos na casa da filha. Eu desci pra ajudar a dona Candinha. E na porta, a filha dela. Que me olhou estranho. Eu fiz um sinal discreto.
+neutra | carimbo: A FILHA EXPLICOU | A filha me puxou de lado. Explicou baixinho: a minha mãe tem a memória falhando. O Juninho é o neto dela que mora em outro país. Faz dois anos que ele não vem.
+triste | conversa: Ela pergunta dele todo dia. | Disse: ela pergunta dele todo dia. Hoje ela tá tão feliz. O senhor se importa de entrar? Só pro almoço?
+neutra | - | Eu olhei a dona Candinha na porta, sorrindo, me chamando: vem, Juninho, que a comida esfria! E eu entrei.
+rindo | relogio: ALMOÇO DE DOMINGO | Almoço de domingo. Macarronada, frango assado, maionese. A família inteira me tratando como Juninho. Por amor à avó. Uns sabiam, outros não.
+rindo | - | O tio me perguntou do trabalho no exterior. Eu inventei que era motorista lá também. Ele disse: motorista? Você não era engenheiro? Eu disse: mudei.
+chocada | manchete: A VIDEOCHAMADA | Aí a filha fez uma videochamada. Com o Juninho de verdade. Do outro país. E virou o celular pra dona Candinha.
+chocada | - | A dona Candinha olhou o celular. Olhou pra mim. Olhou o celular de novo. E disse: dois Juninhos? Eu tô velha mesmo.
+rindo | - | O Juninho de verdade, do outro lado, viu tudo. Entendeu na hora. E riu muito. Disse: vó, esse é o meu irmão gêmeo que a senhora não conhecia.
+triste | coracao: OBRIGADO, MOTORISTA | Depois, por mensagem, o Juninho me agradeceu. Disse: obrigado por fazer a minha vó feliz no domingo. Eu vou visitar ela no Natal. Prometo.
+neutra | carro | Eu levei a dona Candinha de volta pra casa no fim da tarde. Ela me deu um beijo e disse: volta logo, Juninho. E traz a Rosângela.
+neutra | manchete_v: SEJA NETO | Moral da história: às vezes ser gentil é aceitar um papel por uma tarde. Pra alguém que só queria um abraço.
+rindo | coracao: O JUNINHO EMPRESTADO | E se você tem uma avó que mora longe, liga hoje. Antes que ela confunda o motorista com você.
+
+## 254 | A CANTORA DO ÔNIBUS | superacao | noite
+G: 🎤 Ela cantava dentro dos ônibus pra ganhar uns trocados. Um passageiro gravou, postou, e o vídeo chegou num produtor. Hoje ela gravava o primeiro disco.
+P: Qual talento você já viu escondido no transporte público?
+H: #musica #superacao #cantora
+neutra | titulo | Sobe aí, que essa corrida levou uma voz que até ontem cantava pra quem estava em pé no ônibus.
+neutra | relogio: TERÇA · 9H | Terça, nove da manhã. Entrou uma mulher de uns trinta e cinco anos, roupa simples, cabelo preso e um violão velho dentro de uma capa remendada.
+rindo | conversa: Estúdio de gravação. | Disse: estúdio de gravação, por favor. Vou gravar o meu primeiro disco. Eu disse: que bacana. Ela: até semana passada eu cantava no ônibus.
+neutra | carimbo: DONA ROSELI | Roseli. Mãe de três filhos. Desempregada há dois anos. Começou a cantar dentro dos ônibus pra ganhar uns trocados. Com o violão do pai.
+triste | conversa: Eu tinha vergonha. | Contou: eu tinha vergonha. No primeiro dia, eu entrei no ônibus, peguei o violão e não consegui cantar. Desci no ponto seguinte chorando.
+neutra | - | Mas precisava. No segundo dia, cantou. Uma música antiga, de rádio. Os passageiros olharam. Uns ignoraram. Uma senhora deu dois reais.
+rindo | conversa: Ganhava uns vinte por dia. | Disse: eu ganhava uns vinte, trinta reais por dia. Às vezes menos. Mas dava pro pão e pro leite das crianças.
+neutra | carimbo: O VÍDEO | Um dia, um rapaz no ônibus gravou ela cantando. Postou na internet. Com a legenda: essa mulher canta melhor que muito famoso.
+chocada | - | O vídeo teve milhões de visualizações. Em uma semana. As pessoas procurando ela. Entrando nos ônibus da linha pra ver se ela estava.
+chocada | manchete: O PRODUTOR | E um produtor musical viu. Mandou mensagem. Ela achou que era golpe. Não respondeu. Ele mandou de novo. E de novo. Até ela atender.
+triste | conversa: Achei que era mentira. | Disse: eu achei que era mentira. Até ele aparecer no ponto de ônibus. De carro. Com um contrato.
+neutra | - | Naquela terça, ia gravar o primeiro disco. Com as músicas antigas que cantava no ônibus. E duas dela mesma, que ela escrevia no caderno das crianças.
+neutra | mapa | Chegamos no estúdio. Prédio pequeno, porta de vidro. Ela desceu, ajeitou a capa do violão. Ficou parada na porta.
+triste | conversa: E se eu não for boa? | Disse: e se eu não for boa o suficiente? Lá dentro é tudo profissional. Eu sou só a moça do ônibus.
+neutra | conversa: Canta como no ônibus. | Eu disse: dona Roseli, canta como no ônibus. Pra quem tá cansado, em pé, voltando do trabalho. Foi isso que conquistou todo mundo.
+neutra | - | Ela sorriu. Respirou fundo. E entrou. Eu fui embora. Mas ela me mandou um áudio à tarde.
+chocada | carimbo: O ÁUDIO | Era ela cantando no estúdio. Com banda. Com orquestra de corda. A mesma música do primeiro dia no ônibus. Eu arrepiei no carro.
+triste | coracao: PRO MOTORISTA | No final do áudio, ela falou: essa versão é pro motorista que me disse pra cantar como no ônibus. Obrigada.
+neutra | relogio: TRÊS MESES DEPOIS | Três meses depois, o disco saiu. E o primeiro show foi num lugar curioso. Dentro de um ônibus. Na linha onde tudo começou. Com a passagem paga por ela.
+neutra | carro | Eu fui. Entrei no ônibus. Ela cantando de pé, entre os passageiros, com o violão do pai. Os mesmos passageiros de antes. Agora aplaudindo de pé.
+neutra | manchete_v: CANTA ONDE ESTIVER | Moral da história: o talento não precisa de palco. Precisa de coragem. O palco aparece depois.
+rindo | coracao: A CANTORA DO ÔNIBUS | E se você ouvir alguém cantando no ônibus amanhã, presta atenção. E dá dois reais. Pode ser o começo de um disco.

@@ -1,0 +1,276 @@
+{
+ "id": "cx050",
+ "ep": 50,
+ "avulso": true,
+ "titulo": "O DIA 7",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🌻 Todo dia 7, há 9 anos, ele vai ao mesmo endereço regar um jardim que não é mais dele. Um dia, a dona da casa estava esperando.\n\nQue lugar do seu passado você ainda visita? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#misterio #jardim #historias #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌻 Todo dia 7, há 9 anos, ele vai ao mesmo endereço regar um jardim que não é mais dele. Um dia, a dona da casa estava esperando. Que lugar do seu passado você ainda visita? 👇\nHistória de ficção.\n#misterio #jardim #historias #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida eu já tinha feito antes. Mais de uma vez. E nunca tinha entendido.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "tinha",
+    "entendido."
+   ]
+  },
+  {
+   "fala": "Dia sete, oito da manhã. Pedido de um senhor chamado Lauro. Eu reconheci o nome. Já tinha levado ele umas três vezes, sempre no dia sete.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DIA 7 · 8H"
+   ],
+   "destaque": [
+    "dia",
+    "sete."
+   ]
+  },
+  {
+   "fala": "Sempre o mesmo destino. Uma casinha num bairro antigo. Ele descia com um regador de plástico verde, e eu ia embora.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "embora."
+   ]
+  },
+  {
+   "fala": "Dessa vez eu perguntei: o senhor vai sempre lá no dia sete, né? Ele sorriu, meio sem graça: o senhor reparou.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Sempre dia sete, né?"
+   ],
+   "destaque": [
+    "senhor",
+    "reparou."
+   ]
+  },
+  {
+   "fala": "Contou. Aquela casa foi dele por quarenta anos. Vendeu há nove, quando a esposa morreu e ele foi morar com o filho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A CASA QUE ELE VENDEU"
+   ],
+   "destaque": [
+    "morar",
+    "filho."
+   ]
+  },
+  {
+   "fala": "No quintal tinha um jardim que a esposa plantou. Girassol. Ela plantou o primeiro no dia sete de março, no dia que se mudaram.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dia",
+    "mudaram."
+   ]
+  },
+  {
+   "fala": "Desde que vendeu, todo dia sete ele vai lá, toca a campainha e pede pros novos donos deixarem ele regar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu peço pra regar."
+   ],
+   "destaque": [
+    "deixarem",
+    "regar."
+   ]
+  },
+  {
+   "fala": "Os primeiros donos deixavam. Depois a casa foi vendida de novo. E os donos novos ele nunca viu. Ele rega por cima do muro baixo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "muro",
+    "baixo."
+   ]
+  },
+  {
+   "fala": "Perguntei: e ninguém nunca reclamou? Ele riu: acho que nem sabem. Eu chego cedo, rego e vou embora.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E ninguém nunca reclamou?"
+   ],
+   "destaque": [
+    "vou",
+    "embora."
+   ]
+  },
+  {
+   "fala": "Chegamos. Ele pediu pra eu esperar, ia ser rapidinho. Desceu com o regador verde.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "regador",
+    "verde."
+   ]
+  },
+  {
+   "fala": "Mas dessa vez o portão estava aberto. E tinha uma moça sentada no degrau da varanda. Esperando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "varanda.",
+    "Esperando."
+   ]
+  },
+  {
+   "fala": "Ela levantou e perguntou: o senhor é o seu Lauro? Ele ficou parado. Achou que ia levar bronca.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "O senhor é o seu Lauro?"
+   ],
+   "destaque": [
+    "levar",
+    "bronca."
+   ]
+  },
+  {
+   "fala": "Ela disse que comprou a casa havia dois anos. E que todo mês, no dia sete, os girassóis apareciam molhados, com terra mexida.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "terra",
+    "mexida."
+   ]
+  },
+  {
+   "fala": "Achou que era fantasma. Depois achou que era um vizinho. Até que pôs uma câmera. E viu um senhor com um regador verde.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "ELA ACHAVA QUE ERA FANTASMA"
+   ],
+   "destaque": [
+    "regador",
+    "verde."
+   ]
+  },
+  {
+   "fala": "Mas aí ela disse uma coisa que fez o seu Lauro sentar no degrau: eu já te conheço. Eu brincava nesse quintal.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Eu já te conheço."
+   ],
+   "destaque": [
+    "nesse",
+    "quintal."
+   ]
+  },
+  {
+   "fala": "Ela era neta da vizinha da frente. Passou a infância no quintal dele, comendo bolo da dona Ilda, a esposa dele, e plantando semente de girassol.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA A NETA DA VIZINHA"
+   ],
+   "destaque": [
+    "semente",
+    "girassol."
+   ]
+  },
+  {
+   "fala": "Disse: a dona Ilda me ensinou a plantar aqui. Quando a casa foi à venda, eu juntei dinheiro por anos pra comprar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela me ensinou a plantar."
+   ],
+   "destaque": [
+    "anos",
+    "comprar."
+   ]
+  },
+  {
+   "fala": "O seu Lauro chorou sentado no degrau, com o regador no colo. A moça sentou do lado dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "lado",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Aí ela tirou uma chave do bolso. Uma cópia da chave do portão. Com um chaveiro de girassol.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "UMA CHAVE"
+   ],
+   "destaque": [
+    "chaveiro",
+    "girassol."
+   ]
+  },
+  {
+   "fala": "Falou: agora o senhor não precisa regar por cima do muro. O dia sete é seu. E o café é por minha conta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Agora não precisa pular o muro."
+   ],
+   "destaque": [
+    "minha",
+    "conta."
+   ]
+  },
+  {
+   "fala": "Eles regaram juntos. Eu fiquei olhando do carro. Dois regadores, um verde e um amarelo, no mesmo jardim.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "jardim."
+   ]
+  },
+  {
+   "fala": "Desde então, quando o seu Lauro chama, eu sei que é dia sete. Agora ele demora mais. Toma café, conversa. E eu espero.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "conversa.",
+    "espero."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem coisa que a gente vende, mas não deixa de ser nossa. E às vezes alguém guarda pra gente.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CUIDA DO QUE AMA"
+   ],
+   "destaque": [
+    "guarda",
+    "gente."
+   ]
+  },
+  {
+   "fala": "E se você tiver um jardim de alguém pra cuidar, cuida. Mesmo que seja por cima do muro.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "GIRASSOL DO DIA 7"
+   ],
+   "destaque": [
+    "cima",
+    "muro."
+   ]
+  }
+ ]
+}

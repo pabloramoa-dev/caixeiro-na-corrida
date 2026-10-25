@@ -1,0 +1,256 @@
+{
+ "id": "cx324",
+ "ep": 324,
+ "avulso": true,
+ "titulo": "O FAROL DA ESTRADA",
+ "categoria": "curiosa",
+ "cenario": "noite",
+ "legenda_post": "💡 Numa estrada de terra sem iluminação, uma lâmpada fica acesa a noite inteira na frente de uma casa. Há trinta anos. Ninguém sabia por quê.\n\nVocê já se perdeu numa estrada à noite? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#curiosidade #estrada #historia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💡 Numa estrada de terra sem iluminação, uma lâmpada fica acesa a noite inteira na frente de uma casa. Há trinta anos. Ninguém sabia por quê. Você já se perdeu numa estrada à noite? 👇\nHistória de ficção.\n#curiosidade #estrada #historia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida descobriu por que uma lâmpada fica acesa há trinta anos no meio do nada.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "meio",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Quinta, dez da noite. Peguei uma corrida longa. Um rapaz pra um sítio, numa estrada de terra fora da cidade. Escuro total. Sem poste, sem placa.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 22H"
+   ],
+   "destaque": [
+    "sem",
+    "placa."
+   ]
+  },
+  {
+   "fala": "No meio da estrada, o GPS perdeu o sinal. O celular do rapaz também. Escuridão de breu. Ele disse: eu também não sei o caminho. É a primeira vez que eu venho.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O GPS perdeu o sinal."
+   ],
+   "destaque": [
+    "vez",
+    "venho."
+   ]
+  },
+  {
+   "fala": "Eu fiquei preocupado. Estrada de terra, mato dos dois lados, bifurcação atrás de bifurcação. Já tinha passado vinte minutos sem ver uma casa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ver",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Aí, lá na frente, uma luz. Uma lâmpada só. Amarela. Pendurada num poste de madeira, na frente de uma casinha. No meio do nada.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A LUZ"
+   ],
+   "destaque": [
+    "meio",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Parei pra pedir informação. Uma senhora de uns oitenta anos apareceu na varanda. De xale, com um lampião na mão. Mesmo com a luz acesa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "luz",
+    "acesa."
+   ]
+  },
+  {
+   "fala": "Ela disse: vocês estão perdidos. Não foi pergunta. Foi afirmação. Eu disse: estamos. Ela riu: todo mundo que para aqui está.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Vocês estão perdidos."
+   ],
+   "destaque": [
+    "aqui",
+    "está."
+   ]
+  },
+  {
+   "fala": "Dona Quitéria. Mora sozinha naquela casa há cinquenta anos. E explicou o caminho. Direitinho. Cada bifurcação. Cada porteira.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA QUITÉRIA"
+   ],
+   "destaque": [
+    "Cada",
+    "porteira."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: a senhora deixa essa luz acesa a noite inteira? Ela disse: há trinta anos. Toda noite. Do anoitecer ao amanhecer.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que a luz acesa?"
+   ],
+   "destaque": [
+    "anoitecer",
+    "amanhecer."
+   ]
+  },
+  {
+   "fala": "Contou: há trinta anos, o marido dela voltava da cidade numa noite de chuva. Se perdeu nessa estrada. Rodou a noite inteira no escuro.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A NOITE DA CHUVA"
+   ],
+   "destaque": [
+    "inteira",
+    "escuro."
+   ]
+  },
+  {
+   "fala": "Ele chegou em casa de manhã, molhado, cansado. Mas chegou. E disse pra ela: se tivesse uma luz nessa estrada, eu teria chegado em dez minutos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "dez",
+    "minutos."
+   ]
+  },
+  {
+   "fala": "Disse: no dia seguinte, ele pendurou essa lâmpada. Pra ninguém mais se perder. E deixava acesa todas as noites.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "No dia seguinte, ele pendurou."
+   ],
+   "destaque": [
+    "todas",
+    "noites."
+   ]
+  },
+  {
+   "fala": "O marido faleceu há doze anos. E ela continuou acendendo. Toda noite. Paga a conta de luz com a aposentadoria. Diz que é a parte mais importante da conta.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "importante",
+    "conta."
+   ]
+  },
+  {
+   "fala": "Contou que já pararam ali motorista de caminhão, ambulância, noiva atrasada pro casamento, até um ônibus de romeiros. Ela ensinou o caminho pra todos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS PERDIDOS"
+   ],
+   "destaque": [
+    "caminho",
+    "todos."
+   ]
+  },
+  {
+   "fala": "E ela riu: eu tenho um caderno. Anoto todo mundo que para. Já são mais de seiscentos perdidos. Vocês são o seiscentos e quarenta e dois.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tem um caderno."
+   ],
+   "destaque": [
+    "quarenta",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Ela pegou o caderno e anotou ali na nossa frente. Data, hora, e: motorista simpático e rapaz indo pro sítio do primo. Letra bonita, devagar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "bonita,",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "E disse: ele ia gostar de saber. Seiscentos e quarenta e duas pessoas que chegaram em casa por causa da luz dele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele ia gostar."
+   ],
+   "destaque": [
+    "luz",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Seguimos o caminho que ela ensinou. Chegamos em dez minutos. Exatamente como o marido dela falou trinta anos atrás.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "anos",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Na volta, passei de novo na frente da casa. A luz acesa. A dona Quitéria já tinha entrado. E eu dei duas buzinadinhas de leve. De agradecimento.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A LUZ NO RETROVISOR"
+   ],
+   "destaque": [
+    "leve.",
+    "agradecimento."
+   ]
+  },
+  {
+   "fala": "Depois daquela noite, eu e outros motoristas da região fizemos uma vaquinha. Hoje a conta de luz da dona Quitéria vem paga. Ela não sabe quem paga. Acha que é o marido.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Acha",
+    "marido."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes uma lâmpada pequena, no lugar certo, muda o caminho de seiscentas pessoas.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SEJA A LUZ"
+   ],
+   "destaque": [
+    "seiscentas",
+    "pessoas."
+   ]
+  },
+  {
+   "fala": "E seja a luz na estrada de alguém. Uma informação, uma ajuda, uma palavra. Você nunca sabe quem está perdido.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ACENDE UMA LUZ"
+   ],
+   "destaque": [
+    "está",
+    "perdido."
+   ]
+  }
+ ]
+}

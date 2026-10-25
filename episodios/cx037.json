@@ -1,0 +1,282 @@
+{
+ "id": "cx037",
+ "ep": 37,
+ "avulso": true,
+ "titulo": "A MESMA SALA DE AULA",
+ "categoria": "superacao",
+ "cenario": "dia",
+ "legenda_post": "📖 Ele tinha 61 anos e ia pro primeiro dia do supletivo, morrendo de vergonha. Até descobrir quem ia sentar do lado dele.\n\nVocê acha que existe idade pra voltar a estudar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #estudo #nuncaetarde #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📖 Ele tinha 61 anos e ia pro primeiro dia do supletivo, morrendo de vergonha. Até descobrir quem ia sentar do lado dele. Você acha que existe idade pra voltar a estudar? 👇\nHistória de ficção.\n#superacao #estudo #nuncaetarde #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi pro primeiro dia de aula mais atrasado do mundo. Quarenta e sete anos atrasado.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "anos",
+    "atrasado."
+   ]
+  },
+  {
+   "fala": "Segunda, seis e vinte da tarde. Entrou um senhor de sessenta e um anos, camisa passada, caderno novo debaixo do braço e um estojo de criança.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 18H20"
+   ],
+   "destaque": [
+    "estojo",
+    "criança."
+   ]
+  },
+  {
+   "fala": "Perguntei pra puxar conversa: tá indo pra reunião? Ele baixou o olho: tô indo pra escola. Primeiro dia.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Tá indo pra onde, chefe?"
+   ],
+   "destaque": [
+    "Primeiro",
+    "dia."
+   ]
+  },
+  {
+   "fala": "Seu Antenor. Pedreiro a vida inteira. Saiu da escola com quatorze anos pra ajudar o pai em obra.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pai",
+    "obra."
+   ]
+  },
+  {
+   "fala": "Disse baixinho: eu construí mais de cem casas, moço, e até hoje assino com o dedo no cartório.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu assino com o dedo."
+   ],
+   "destaque": [
+    "dedo",
+    "cartório."
+   ]
+  },
+  {
+   "fala": "Escondeu a vida inteira. Pedia pros outros lerem as coisas fingindo que tinha esquecido os óculos.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "NUNCA CONTOU PRA NINGUÉM"
+   ],
+   "destaque": [
+    "esquecido",
+    "óculos."
+   ]
+  },
+  {
+   "fala": "O estojo de criança era da neta. Ela emprestou de manhã, com uma borracha em formato de dinossauro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "formato",
+    "dinossauro."
+   ]
+  },
+  {
+   "fala": "No meio do caminho travou. Perguntou: e se rirem de mim? Um velho desses na sala.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se rirem de mim?"
+   ],
+   "destaque": [
+    "desses",
+    "sala."
+   ]
+  },
+  {
+   "fala": "Eu disse: seu Antenor, o senhor levantou cem casas. Quem ri é quem nunca levantou nem uma parede.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Quem ri é quem nunca construiu nada."
+   ],
+   "destaque": [
+    "nem",
+    "parede."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola. Ele ficou parado no portão, apertando o caderno contra o peito.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "contra",
+    "peito."
+   ]
+  },
+  {
+   "fala": "Aí passou um rapaz de uns trinta e cinco anos, de uniforme de supermercado, correndo, mochila nas costas.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "nas",
+    "costas."
+   ]
+  },
+  {
+   "fala": "O rapaz parou. Olhou. E falou: pai? O que o senhor tá fazendo aqui?",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Pai?!"
+   ],
+   "destaque": [
+    "fazendo",
+    "aqui?"
+   ]
+  },
+  {
+   "fala": "Era o filho dele. O Marcos. Que também tinha largado a escola, aos dezesseis, e nunca contou pro pai que tinha voltado.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA O FILHO DELE"
+   ],
+   "destaque": [
+    "tinha",
+    "voltado."
+   ]
+  },
+  {
+   "fala": "Os dois ficaram se olhando, um com vergonha do outro. Até que caíram na gargalhada ali na calçada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ali",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "O filho explicou: eu tô no último ano, pai. Não te contei porque achei que o senhor ia achar besteira.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu tô no último ano."
+   ],
+   "destaque": [
+    "achar",
+    "besteira."
+   ]
+  },
+  {
+   "fala": "O pai respondeu: besteira? Eu nem sei ler, filho. Eu é que tava com vergonha de você.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nem sei ler, filho."
+   ],
+   "destaque": [
+    "vergonha",
+    "você."
+   ]
+  },
+  {
+   "fala": "Os dois escondendo a mesma coisa, pelo mesmo motivo, morando na mesma casa. Isso é família.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OS DOIS ESCONDIDOS"
+   ],
+   "destaque": [
+    "Isso",
+    "família."
+   ]
+  },
+  {
+   "fala": "O filho pegou o caderno do pai, olhou o estojo de dinossauro, riu, e levou ele até a sala pela mão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pela",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, recebi uma mensagem num número desconhecido. Uma foto.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEIS MESES DEPOIS"
+   ],
+   "destaque": [
+    "desconhecido.",
+    "foto."
+   ]
+  },
+  {
+   "fala": "Uma folha de papel com uma assinatura. Tremida, enorme, ocupando a linha inteira. Antenor da Silva.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "ASSINATURA: ANTENOR"
+   ],
+   "destaque": [
+    "Antenor",
+    "Silva."
+   ]
+  },
+  {
+   "fala": "Embaixo, escrito com letra de criança caprichosa: primeira vez que eu assino sem o dedo. Obrigado, motorista.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeira vez sem o dedo."
+   ],
+   "destaque": [
+    "Obrigado,",
+    "motorista."
+   ]
+  },
+  {
+   "fala": "O filho se formou no fim do ano. O pai foi na formatura de terno, com o estojo de dinossauro no bolso.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "dinossauro",
+    "bolso."
+   ]
+  },
+  {
+   "fala": "Moral da história: vergonha de aprender não existe. Existe é vergonha de desistir.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "NUNCA É TARDE"
+   ],
+   "destaque": [
+    "vergonha",
+    "desistir."
+   ]
+  },
+  {
+   "fala": "E se você conhece alguém escondendo isso, oferece ajuda sem alarde. Pode ser o primeiro autógrafo da vida dele.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ANTENOR DA SILVA"
+   ],
+   "destaque": [
+    "vida",
+    "dele."
+   ]
+  }
+ ]
+}

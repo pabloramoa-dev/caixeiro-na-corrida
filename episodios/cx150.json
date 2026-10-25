@@ -1,0 +1,258 @@
+{
+ "id": "cx150",
+ "ep": 150,
+ "avulso": true,
+ "titulo": "O TIO SOLTEIRÃO",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🎁 Ele nunca casou nem teve filhos. Mas foi em todo aniversário, toda formatura, todo hospital dos sobrinhos. Hoje, eles fizeram uma festa pra ele.\n\nQual tio ou tia foi como um segundo pai ou mãe pra você? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#tio #familia #gratidao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎁 Ele nunca casou nem teve filhos. Mas foi em todo aniversário, toda formatura, todo hospital dos sobrinhos. Hoje, eles fizeram uma festa pra ele. Qual tio ou tia foi como um segundo pai ou mãe pra você? 👇\nHistória de ficção.\n#tio #familia #gratidao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem mais presente de uma família que nem era dele.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "era",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Peguei um senhor de uns sessenta e cinco anos, de camisa xadrez, perfume barato e um pacote de bala de coco no bolso.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "coco",
+    "bolso."
+   ]
+  },
+  {
+   "fala": "Disse: é pros sobrinhos. Eu sempre levo bala de coco. Eu perguntei: quantos sobrinhos? Ele contou nos dedos: sete. E onze sobrinhos-netos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Bala de coco pros sobrinhos."
+   ],
+   "destaque": [
+    "onze",
+    "sobrinhos-netos."
+   ]
+  },
+  {
+   "fala": "Tio Neco. Nunca casou. Nunca teve filho. Trabalhou a vida inteira como conferente num armazém. E disse que tinha dezoito filhos emprestados.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TIO NECO"
+   ],
+   "destaque": [
+    "filhos",
+    "emprestados."
+   ]
+  },
+  {
+   "fala": "Riu: eu fui em tudo, moço. Batizado, primeira comunhão, formatura, casamento. Levei sobrinho no hospital de madrugada. Ensinei andar de bicicleta.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu fui em tudo."
+   ],
+   "destaque": [
+    "andar",
+    "bicicleta."
+   ]
+  },
+  {
+   "fala": "Disse que a irmã, mãe dos sobrinhos, ficou viúva cedo. E ele foi ajudar. Ficou trinta anos ajudando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "ajudando."
+   ]
+  },
+  {
+   "fala": "Perguntei se ele nunca quis casar. Ele pensou: quis. Mas nunca dava tempo. Sempre tinha um sobrinho precisando de alguma coisa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Nunca dava tempo de casar."
+   ],
+   "destaque": [
+    "alguma",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Naquela noite, a sobrinha mais velha tinha chamado ele pra um jantar. Ele achava que era aniversário de algum sobrinho-neto. Não sabia de quem.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sabia",
+    "quem."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: de quem é a festa? Ele disse: não sei. Ela só falou: tio, vem jantar. Eu venho. Nunca pergunto.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "De quem é o aniversário?"
+   ],
+   "destaque": [
+    "Nunca",
+    "pergunto."
+   ]
+  },
+  {
+   "fala": "Chegamos num salão de festas pequeno. Ele desceu com as balas de coco. Eu ia embora, mas a sobrinha me fez sinal pela janela: entra também.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "entra",
+    "também."
+   ]
+  },
+  {
+   "fala": "Lá dentro, uma faixa enorme: dia do tio Neco. Os sete sobrinhos, os onze sobrinhos-netos, todos de camiseta com a foto dele.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "DIA DO TIO NECO"
+   ],
+   "destaque": [
+    "foto",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ele parou na porta com o pacote de bala na mão. Disse: mas não é meu aniversário. A sobrinha respondeu: não é. É o dia que a gente decidiu te agradecer.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "te",
+    "agradecer."
+   ]
+  },
+  {
+   "fala": "E cada sobrinho foi lá na frente contar uma história. Um falou da bicicleta. Outro, da noite no hospital. Outro, de quando o tio pagou a inscrição do vestibular escondido.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CADA UM CONTOU"
+   ],
+   "destaque": [
+    "vestibular",
+    "escondido."
+   ]
+  },
+  {
+   "fala": "O sobrinho que é médico contou que o tio vendeu a única moto que tinha pra pagar o cursinho dele. Ninguém sabia. Nem a mãe.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Nem",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "A sobrinha mais velha falou: a gente nunca disse, tio. Que o senhor foi nosso pai também. Que todo mundo aqui é um pouco seu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente nunca disse."
+   ],
+   "destaque": [
+    "pouco",
+    "seu."
+   ]
+  },
+  {
+   "fala": "O tio Neco ficou parado no meio do salão, com as balas de coco amassando na mão. Um senhor de camisa xadrez chorando igual criança.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "criança."
+   ]
+  },
+  {
+   "fala": "Aí o menorzinho, um sobrinho-neto de quatro anos, foi até ele e perguntou: tio, cadê a bala de coco? E ele riu chorando e abriu o pacote.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DEZOITO FILHOS"
+   ],
+   "destaque": [
+    "abriu",
+    "pacote."
+   ]
+  },
+  {
+   "fala": "Os sobrinhos fizeram vaquinha e deram um presente. Uma viagem pra praia. A primeira viagem de férias da vida dele.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PRESENTE"
+   ],
+   "destaque": [
+    "vida",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ele perguntou, preocupado: mas e se alguém precisar de mim nessa semana? A sobrinha riu: aí a gente se vira, tio. Vai.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Mas quem vai cuidar de vocês?"
+   ],
+   "destaque": [
+    "tio.",
+    "Vai."
+   ]
+  },
+  {
+   "fala": "Na volta, ele me deu a última bala de coco. Disse: a primeira vez em trinta anos que alguém me deu presente sem ser aniversário.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "ser",
+    "aniversário."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que não tem filho, mas cria uma família inteira. Agradece enquanto dá tempo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AGRADECE O TIO"
+   ],
+   "destaque": [
+    "dá",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "E se você tem um tio Neco, liga hoje. Diz que ele foi importante. Ele nunca vai pedir isso.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TIO NECO"
+   ],
+   "destaque": [
+    "pedir",
+    "isso."
+   ]
+  }
+ ]
+}

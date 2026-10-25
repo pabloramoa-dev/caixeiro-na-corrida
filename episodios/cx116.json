@@ -1,0 +1,296 @@
+{
+ "id": "cx116",
+ "ep": 116,
+ "avulso": true,
+ "titulo": "O ENCONTRO DUPLO",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "💘 A neta criou um perfil de namoro pra avó de 71 anos. As duas marcaram encontro no mesmo dia. Com um avô e um neto. Da mesma família.\n\nVocê usaria aplicativo de namoro depois dos 70? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #namoro #avo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💘 A neta criou um perfil de namoro pra avó de 71 anos. As duas marcaram encontro no mesmo dia. Com um avô e um neto. Da mesma família. Você usaria aplicativo de namoro depois dos 70? 👇\nHistória de ficção.\n#amor #namoro #avo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi um encontro às cegas. Em dobro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "cegas.",
+    "dobro."
+   ]
+  },
+  {
+   "fala": "Sexta, sete e meia da noite. Entraram uma senhora de setenta e um anos e uma moça de vinte e cinco. Avó e neta. As duas maquiadas, perfumadas, nervosas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 19H30"
+   ],
+   "destaque": [
+    "perfumadas,",
+    "nervosas."
+   ]
+  },
+  {
+   "fala": "A neta anunciou: hoje é o primeiro encontro da vó em cinquenta anos. Eu fiz o perfil dela no aplicativo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeiro encontro da vó."
+   ],
+   "destaque": [
+    "dela",
+    "aplicativo."
+   ]
+  },
+  {
+   "fala": "A dona Leonor riu de vergonha: ela colocou que eu gosto de dança, novela e pastel. Tudo verdade. Mas não precisava contar do pastel.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PERFIL DA VÓ"
+   ],
+   "destaque": [
+    "contar",
+    "pastel."
+   ]
+  },
+  {
+   "fala": "O match dela era um senhor de setenta e três anos chamado Hélio. Viúvo, aposentado, gostava de samba e de cozinhar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "samba",
+    "cozinhar."
+   ]
+  },
+  {
+   "fala": "Eu perguntei pra neta: e você vai de dama de companhia? Ela disse: não, eu também tenho encontro. No mesmo restaurante. Pra não deixar a vó sozinha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E você também vai?"
+   ],
+   "destaque": [
+    "vó",
+    "sozinha."
+   ]
+  },
+  {
+   "fala": "O match da neta era um rapaz de vinte e sete anos chamado Pedro. Engenheiro, gostava de cinema e de cozinhar.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "cinema",
+    "cozinhar."
+   ]
+  },
+  {
+   "fala": "Eu comentei: os dois gostam de cozinhar. Coincidência. A neta deu de ombros: todo mundo no aplicativo diz que gosta de cozinhar.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Os dois gostam de cozinhar."
+   ],
+   "destaque": [
+    "gosta",
+    "cozinhar."
+   ]
+  },
+  {
+   "fala": "Chegamos no restaurante. As duas desceram, ajeitaram o cabelo uma da outra, e entraram. Eu fiquei pra pegar a próxima corrida.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "próxima",
+    "corrida."
+   ]
+  },
+  {
+   "fala": "Cinco minutos depois, a neta saiu correndo e bateu no meu vidro. Rindo tanto que não conseguia falar.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "5 MINUTOS"
+   ],
+   "destaque": [
+    "conseguia",
+    "falar."
+   ]
+  },
+  {
+   "fala": "Disse: o senhor precisa ver isso. Entra. Eu entrei. Curiosidade de motorista não tem cura.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "O senhor precisa ver isso."
+   ],
+   "destaque": [
+    "tem",
+    "cura."
+   ]
+  },
+  {
+   "fala": "Numa mesa pro fundo, estavam o seu Hélio e o Pedro. Juntos. Sentados lado a lado. Avô e neto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A MESMA MESA"
+   ],
+   "destaque": [
+    "Avô",
+    "neto."
+   ]
+  },
+  {
+   "fala": "O Pedro também tinha feito o perfil do avô. E também tinha marcado o encontro dele no mesmo lugar, pra não deixar o avô sozinho.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "AVÔ E NETO"
+   ],
+   "destaque": [
+    "avô",
+    "sozinho."
+   ]
+  },
+  {
+   "fala": "As duas famílias tiveram a mesma ideia. No mesmo aplicativo. No mesmo dia. No mesmo restaurante.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "restaurante."
+   ]
+  },
+  {
+   "fala": "O seu Hélio, rindo, perguntou: vamos juntar as mesas? Parece que o destino já juntou. E juntaram.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vamos juntar as mesas?"
+   ],
+   "destaque": [
+    "juntou.",
+    "juntaram."
+   ]
+  },
+  {
+   "fala": "Eu voltei pro carro. Mas a neta me mandou mensagens a noite inteira. Uma novela em tempo real.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tempo",
+    "real."
+   ]
+  },
+  {
+   "fala": "Primeira mensagem: o vô Hélio tirou a minha vó pra dançar. Tem samba aqui. Eles tão dançando.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem: eles dançaram"
+   ],
+   "destaque": [
+    "tão",
+    "dançando."
+   ]
+  },
+  {
+   "fala": "Segunda mensagem: o Pedro é legal. A gente tá conversando sobre filme. E cuidando dos dois.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem: o Pedro é legal"
+   ],
+   "destaque": [
+    "dos",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Terceira, meia-noite: pode vir buscar. Mas só a mim. A vó vai embora com o seu Hélio. Ele vai levar ela de táxi. Ela disse que quer ir com ele.",
+   "expr": "rindo",
+   "arte": [
+    "notificacao",
+    "Mensagem: pode vir buscar"
+   ],
+   "destaque": [
+    "quer",
+    "ir"
+   ]
+  },
+  {
+   "fala": "Voltei. A neta entrou sozinha, mas com um sorriso enorme. O Pedro acenando da calçada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "acenando",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Ela disse: a vó riu a noite inteira. Faz anos que eu não vejo ela rindo assim. Desde que o vô morreu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela riu a noite toda."
+   ],
+   "destaque": [
+    "vô",
+    "morreu."
+   ]
+  },
+  {
+   "fala": "E completou: e o Pedro me chamou pra sair de novo. Sem os avós. Mas eles disseram que querem ir junto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DUAS HISTÓRIAS"
+   ],
+   "destaque": [
+    "ir",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, recebi uma foto. Um churrasco de família. Avó, neta, avô e neto. Os quatro de avental. Todo mundo gosta de cozinhar, afinal.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cozinhar,",
+    "afinal."
+   ]
+  },
+  {
+   "fala": "Moral da história: o amor não tem idade pra aparecer. Às vezes ele chega em dobro.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SE PERMITE"
+   ],
+   "destaque": [
+    "chega",
+    "dobro."
+   ]
+  },
+  {
+   "fala": "E se sua avó está sozinha, pergunta se ela quer conhecer alguém. Pode ser o começo de duas histórias.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ENCONTRO DUPLO"
+   ],
+   "destaque": [
+    "duas",
+    "histórias."
+   ]
+  }
+ ]
+}

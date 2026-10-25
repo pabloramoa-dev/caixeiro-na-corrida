@@ -1,0 +1,234 @@
+{
+ "id": "cx268",
+ "ep": 268,
+ "avulso": true,
+ "titulo": "O BOMBEIRO DE SETENTA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🚒 Aposentado há 15 anos, ele é bombeiro voluntário da cidadezinha. Aos 70 anos. Naquela noite, uma ligação no meio da corrida.\n\nQuem é o herói voluntário da sua cidade? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bombeiro #voluntario #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚒 Aposentado há 15 anos, ele é bombeiro voluntário da cidadezinha. Aos 70 anos. Naquela noite, uma ligação no meio da corrida. Quem é o herói voluntário da sua cidade? 👇\nHistória de ficção.\n#bombeiro #voluntario #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi interrompida por uma emergência. E o passageiro resolveu.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "passageiro",
+    "resolveu."
+   ]
+  },
+  {
+   "fala": "Sábado, nove da noite. Peguei um senhor de setenta anos numa festa de aniversário. Camisa social, sapato. Ia pra casa, numa cidadezinha vizinha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 21H"
+   ],
+   "destaque": [
+    "cidadezinha",
+    "vizinha."
+   ]
+  },
+  {
+   "fala": "No caminho, contou: sou bombeiro voluntário da cidade. Aposentado do exército. Faz quinze anos que eu atendo emergência lá.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Sou bombeiro voluntário."
+   ],
+   "destaque": [
+    "emergência",
+    "lá."
+   ]
+  },
+  {
+   "fala": "Seu Aurélio. A cidade dele tem doze mil habitantes. O quartel de bombeiro mais perto fica a quarenta minutos. Então ele e mais dez voluntários fazem o primeiro atendimento.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU AURÉLIO"
+   ],
+   "destaque": [
+    "primeiro",
+    "atendimento."
+   ]
+  },
+  {
+   "fala": "Mostrou um rádio na cintura: meu rádio nunca desliga. Nem dormindo. Nem na festa de aniversário. Minha mulher já desistiu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Meu rádio nunca desliga."
+   ],
+   "destaque": [
+    "já",
+    "desistiu."
+   ]
+  },
+  {
+   "fala": "Contou que já tirou gente de enchente. Apagou incêndio em casa de madeira. Resgatou vaca de buraco. E ajudou três partos na estrada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "partos",
+    "estrada."
+   ]
+  },
+  {
+   "fala": "Aí o rádio na cintura dele chiou. Uma voz: ocorrência na estrada vicinal, quilômetro oito. Carro capotado. Uma vítima presa. Quem está perto?",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O RÁDIO TOCOU"
+   ],
+   "destaque": [
+    "está",
+    "perto?"
+   ]
+  },
+  {
+   "fala": "Ele olhou o GPS do meu celular. Disse: quilômetro oito. A gente tá no quilômetro cinco. Moço, me leva lá? Eu fiz o retorno sem pensar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "sem",
+    "pensar."
+   ]
+  },
+  {
+   "fala": "Chegamos em três minutos. Um carro capotado no acostamento. Escuro. Uma moça presa no banco do motorista. Consciente, assustada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Consciente,",
+    "assustada."
+   ]
+  },
+  {
+   "fala": "O seu Aurélio desceu. De camisa social e sapato. Tirou a camisa, ficou de camiseta. Pediu a lanterna do meu carro. E foi.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELE ENTROU EM AÇÃO"
+   ],
+   "destaque": [
+    "carro.",
+    "foi."
+   ]
+  },
+  {
+   "fala": "Falou com a moça com calma. Perguntou o nome. Disse que ela ia ficar bem. Verificou se tinha vazamento. Pediu pra eu ligar pros bombeiros oficiais.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "bombeiros",
+    "oficiais."
+   ]
+  },
+  {
+   "fala": "A moça chorando. Disse que estava voltando do trabalho. Que tem uma filha de três anos esperando em casa. O seu Aurélio segurou a mão dela pela janela quebrada.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MOÇA PRESA"
+   ],
+   "destaque": [
+    "janela",
+    "quebrada."
+   ]
+  },
+  {
+   "fala": "Ele disse: ninguém vai embora daqui sem você. Eu tô aqui. Me conta da sua filha. Como ela chama?",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ninguém vai embora daqui."
+   ],
+   "destaque": [
+    "Como",
+    "chama?"
+   ]
+  },
+  {
+   "fala": "Ela falou da filha. Do nome, da boneca preferida, da música que ela canta. E foi se acalmando. Ele não soltou a mão dela nem um segundo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "nem",
+    "segundo."
+   ]
+  },
+  {
+   "fala": "Vinte e cinco minutos. Os outros voluntários chegaram. Depois a ambulância. Depois os bombeiros oficiais. Cortaram a porta. Tiraram ela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "25 MINUTOS"
+   ],
+   "destaque": [
+    "porta.",
+    "Tiraram"
+   ]
+  },
+  {
+   "fala": "Ela saiu com escoriações. Nada grave. Antes de entrar na ambulância, ela pediu pra falar com o seu Aurélio. E disse: obrigada por não soltar a minha mão.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELA FICOU BEM"
+   ],
+   "destaque": [
+    "minha",
+    "mão."
+   ]
+  },
+  {
+   "fala": "O comandante dos bombeiros, quando chegou, disse: Aurélio, de novo você? Setenta anos e ainda o primeiro a chegar. O seu Aurélio riu: alguém tem que ser.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tem",
+    "ser."
+   ]
+  },
+  {
+   "fala": "Eu levei ele pra casa depois. Sujo, de camiseta, sem a camisa social, que ficou rasgada. Ele disse: amanhã eu explico pra minha mulher por que a camisa nova acabou.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "nova",
+    "acabou."
+   ]
+  },
+  {
+   "fala": "Moral da história: o herói nem sempre tem farda nova. Às vezes é um senhor de setenta anos de sapato social segurando a sua mão.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SEGURA A MÃO"
+   ],
+   "destaque": [
+    "sua",
+    "mão."
+   ]
+  },
+  {
+   "fala": "E se a sua cidade tem bombeiro voluntário, agradece. E se puder, ajuda. Eles tiram a camisa pela gente.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SEU AURÉLIO"
+   ],
+   "destaque": [
+    "pela",
+    "gente."
+   ]
+  }
+ ]
+}

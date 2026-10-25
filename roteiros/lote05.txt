@@ -1,0 +1,291 @@
+## 065 | O JARDINEIRO DO GRAMADO | futebol | dia
+G: 🌱 Por 34 anos ele cuidou do gramado do estádio e nunca foi visto pela torcida. No último dia, o time fez um corredor só pra ele.
+P: Quem é o trabalhador invisível que você mais admira?
+H: #futebol #gratidao #trabalho
+neutra | titulo | Sobe aí, que essa corrida levou o homem que mais pisou naquele gramado. E ninguém sabia o nome dele.
+neutra | relogio: DOMINGO · 12H | Domingo, meio-dia. Entrou um senhor de uns sessenta e cinco anos, chapéu de palha, mãos grossas e uma sacola com uma tesoura de grama.
+desconfiada | conversa: Estádio, pelo portão dos fundos. | Pediu: estádio, mas pelo portão dos fundos, por favor. Eu achei estranho, dia de jogo, pelo fundo.
+neutra | carimbo: 34 ANOS DE GRAMADO | Seu Joaquim. Jardineiro do estádio há trinta e quatro anos. Era o último dia de trabalho dele. Aposentadoria.
+rindo | conversa: Eu conheço cada folha. | Disse: eu conheço cada pedaço daquela grama, moço. Sei onde o goleiro cava, onde a bola quica torto, onde a chuva empoça.
+neutra | - | Contou que viu quatro gerações de jogadores. Que deu bronca em craque que pisava no gramado de chuteira de travas na segunda-feira.
+rindo | conversa: Até o artilheiro tinha medo de mim. | Riu: até o artilheiro da Copa tinha medo de mim. Pedia desculpa quando arrancava um tufo de grama comemorando.
+triste | - | Mas disse que, em trinta e quatro anos, nunca entrou no gramado com o estádio cheio. Trabalhava antes e depois. Na hora do jogo, ficava no túnel.
+triste | conversa: A torcida nem sabe que eu existo. | Disse sem mágoa: a torcida nem sabe que eu existo. E tá certo. Grama boa é aquela que ninguém repara.
+neutra | mapa | Chegamos no portão dos fundos. Mas tinha um segurança esperando. Disse que o seu Joaquim tinha que entrar pela frente hoje. Ordem do presidente.
+desconfiada | - | O seu Joaquim achou que era algum problema. Pediu pra eu entrar junto. O segurança deixou. Eu fui, com a sacola dele na mão.
+chocada | carimbo: PELO TÚNEL PRINCIPAL | Levaram a gente pelo túnel principal. O mesmo dos jogadores. Ele ia devagar, desconfiado, segurando o chapéu.
+chocada | manchete: O CORREDOR DO TIME | E na saída do túnel, o time inteiro. Os dois times, na verdade. Em fila, um de cada lado, formando um corredor.
+chocada | - | O estádio cheio. Trinta mil pessoas. O telão mostrando o rosto dele com o nome embaixo: Joaquim, trinta e quatro anos de gramado.
+triste | - | Ele parou. Tirou o chapéu. Não conseguia andar. Os jogadores começaram a aplaudir. E aí a torcida inteira se levantou.
+triste | coracao: TRINTA MIL DE PÉ | Trinta mil pessoas de pé aplaudindo um jardineiro. Eu, do lado do túnel, com a tesoura de grama na mão, chorando.
+rindo | conversa: Pisa devagar! | O capitão do time deu o braço pra ele e levou até o meio de campo. No caminho, o seu Joaquim gritou pros jogadores: pisa devagar que a grama tá nova!
+rindo | - | A torcida riu. Ele ganhou uma camisa com o número trinta e quatro e o nome dele nas costas.
+rindo | carimbo: O PONTAPÉ INICIAL | E deu o pontapé inicial. Um chute fraquinho, de bico. Mas a bola correu reta, sem quicar. Gramado dele, né.
+neutra | - | Depois do jogo ele me pediu pra levar ele de volta pelo portão dos fundos. Disse que precisava fazer uma última coisa.
+neutra | relogio: 19H | Às sete da noite, estádio vazio, ele andou o gramado inteiro, devagar, consertando os buracos do jogo com a mão. Um por um.
+triste | conversa: Agora tá entregue. | Quando terminou, olhou o campo e disse: agora tá entregue. E foi embora sem olhar pra trás.
+neutra | carro | No carro, ele dormiu com a camisa trinta e quatro no colo, igual criança depois do aniversário.
+neutra | manchete_v: REPARA | Moral da história: todo espetáculo tem alguém cuidando da grama. Repara nele. Agradece.
+rindo | coracao: NÚMERO 34 | E se você for no estádio esse fim de semana, olha o gramado antes do jogo. Tem um seu Joaquim ali.
+
+## 066 | A FUGA DO SEU DAMIÃO | familia | noite
+G: 🌊 Um avô de 86 anos chamou a corrida escondido da família. Queria ver o mar uma última vez. No meio do caminho, a neta descobriu.
+P: Qual lugar você quer ver de novo antes de tudo?
+H: #avo #mar #familia
+neutra | titulo | Sobe aí, que essa corrida foi uma fuga. A fuga mais bonita que eu já ajudei.
+desconfiada | relogio: TERÇA · 17H | Terça, cinco da tarde. Pedido num bairro residencial. Entrou um senhor de oitenta e seis anos, bengala, chinelo e uma toalha de praia no ombro.
+desconfiada | conversa: Rápido, antes que me vejam. | Entrou rápido e falou: toca, moço, toca antes que a minha filha volte da farmácia.
+ironica | - | Eu fiquei na dúvida se não estava ajudando um sequestro ao contrário. Perguntei: o senhor tá fugindo de casa?
+rindo | conversa: Tô fugindo pro mar. | Ele riu: tô fugindo pro mar. Faz sete anos que eu não vejo o mar. Eles acham que é perigoso.
+neutra | carimbo: SETE ANOS SEM MAR | Seu Damião. Pescador a vida inteira, numa vila do litoral. Mudou pra cidade pra ficar perto da filha depois que a esposa faleceu.
+triste | conversa: Eu nasci com sal no pé. | Disse: eu nasci com sal no pé, moço. Sete anos sem mar é sete anos sem respirar direito.
+neutra | - | A praia mais perto ficava a uma hora e meia. Eu olhei pra ele, olhei pro relógio, e pensei: a filha vai me matar.
+desconfiada | conversa: Avisa a sua filha, pelo menos. | Falei: seu Damião, eu levo. Mas o senhor manda uma mensagem pra sua filha. Senão vira caso de polícia.
+neutra | notificacao: Mensagem enviada | Ele mandou. Fui ver por cima. Escreveu: fui ver o mar. Volto. Não chora. Assinado: papai.
+chocada | relogio: 20 MINUTOS DEPOIS | Vinte minutos depois, o telefone dele não parava. Ele não atendia. Aí ligaram pro aplicativo. Era a neta.
+chocada | conversa: Moço, para onde você tá? | A neta, de uns vinte anos, me ligou: moço, onde você tá? Eu tô indo atrás de vocês. Não volta, não. Espera.
+desconfiada | - | Eu achei que ela ia brigar. Encostei num posto de gasolina na estrada. Quinze minutos depois chegou uma moto. A neta. De capacete.
+chocada | carimbo: A NETA ENTROU NO CARRO | Ela desceu, olhou o avô de toalha no ombro, e em vez de brigar, abriu a porta de trás e entrou. Disse: eu vou junto.
+rindo | conversa: Mamãe vai surtar. | Mamãe vai surtar, vô. Mas eu também nunca vi o senhor no mar. Só nas fotos.
+neutra | mapa | Chegamos na praia ao pôr do sol. Areia vazia, mar calmo, céu laranja. Ele tirou o chinelo antes de descer do carro.
+triste | - | Andou devagar, com a neta segurando um braço e eu segurando o outro. Quando a primeira onda molhou o pé dele, ele parou.
+triste | coracao: A PRIMEIRA ONDA | Fechou os olhos. Respirou fundo. E disse: oi, mar. Como se cumprimentasse um amigo que não via fazia tempo.
+rindo | - | Aí ensinou a neta a ler as ondas. Disse qual ia quebrar e qual não. Acertou todas. Ela filmou tudo.
+neutra | notificacao: Ligação: Filha | A filha ligou de novo. Dessa vez a neta atendeu por vídeo. Virou a câmera pro avô dentro do mar, de calça dobrada, rindo.
+triste | - | A filha chorou do outro lado. Mas não brigou. Disse: pai, por que o senhor não me pediu? O senhor respondeu: porque você ia dizer não.
+rindo | conversa: Todo mês, então. | A filha ficou um tempo calada e disse: então a gente combina. Uma vez por mês, todo mundo junto. Pro mar.
+neutra | carro | Voltamos de noite. O seu Damião dormiu com areia no pé, sorrindo. A neta deixou a moto no posto e foi junto até em casa.
+neutra | manchete_v: LEVA PRO MAR | Moral da história: cuidar de quem a gente ama não é trancar em casa. É levar pro lugar onde ele respira.
+rindo | coracao: OI, MAR | E se você tem um avô que fala do mar, de um rio, de uma roça, leva ele lá. Antes que ele precise fugir.
+
+## 067 | A IGREJA ERRADA | humor | dia
+G: 💒 O noivo atrasado entrou correndo na igreja… errada. E quase casou com a noiva dos outros.
+P: Qual foi o maior atraso da sua vida?
+H: #casamento #humor #noivo
+neutra | titulo | Sobe aí, que essa corrida teve dois casamentos, uma igreja errada e um noivo sem sapato.
+chocada | relogio: SÁBADO · 16H40 | Sábado, quatro e quarenta da tarde. Entrou um rapaz de terno, gravata desfeita, um sapato na mão e um pé de meia.
+brava | conversa: Igreja de São José, rápido! | Gritou: igreja de São José! Eu caso às cinco! O outro sapato ficou no elevador!
+rindo | - | Chama-se Breno. Dormiu depois do almoço. O despertador não tocou. O padrinho achou que ele já estava na igreja.
+rindo | carimbo: TRÊS IGREJAS DE SÃO JOSÉ | Problema: tinha três igrejas de São José naquela região. E ele, no desespero, não lembrava o bairro.
+desconfiada | conversa: Qual delas? | Eu perguntei: qual São José? Ele: a de São José! A bonita! Eu: todas são bonitas, rapaz.
+neutra | - | O telefone dele estava sem bateria. O da noiva, com ela no salão. E o endereço, no convite, que ficou em casa.
+neutra | mapa | Fui na primeira, pela intuição. Igreja grande, decorada, carros na porta, gente de vestido longo entrando.
+rindo | - | Ele saltou do carro com um sapato só, gritando: cheguei, cheguei! E entrou correndo pela porta principal.
+chocada | manchete: ERA OUTRO CASAMENTO | Era outro casamento. A noiva já estava no altar. Outra noiva. Com outro noivo do lado.
+chocada | - | O Breno parou no meio do corredor, de um sapato, ofegante. A igreja inteira virou pra ele. O padre parou no meio da frase.
+ironica | conversa: Alguém aqui se opõe? | E o padre, sem perder o ritmo, falou: bom, era agora mesmo que eu ia perguntar se alguém se opõe.
+rindo | - | A igreja inteira caiu na gargalhada. O Breno ficou vermelho igual tomate e pediu desculpa pro casal, de joelho, com o sapato na mão.
+rindo | conversa: Calma, rapaz, onde é o seu? | O noivo do altar, rindo, perguntou: calma, irmão, qual é o nome da sua noiva? Ele disse: Fernanda.
+chocada | carimbo: O PADRE CONHECIA | O padre falou: Fernanda? Fernanda filha do seu Moacir? É a São José do Jardim. Eu vou celebrar lá às seis, depois daqui!
+chocada | - | O casamento dele era às cinco, mas o padre era o mesmo. E o padre ainda estava ali. Ou seja: o casamento dele não ia começar sem o padre.
+rindo | conversa: Sai daqui que você me atrasa. | O padre disse: pode ir com calma, meu filho. Sem mim não tem casamento. E arranja um sapato.
+neutra | mapa | Saímos dali e passamos numa loja de sapato no caminho. Ele comprou o primeiro que serviu. Marrom. Com o terno preto.
+neutra | relogio: 17H50 | Chegamos na igreja certa às cinco e cinquenta. A noiva no carro, rodando o quarteirão, nervosa. O povo achando que ele tinha desistido.
+rindo | - | O padre chegou às seis e cinco, ainda rindo. E abriu a cerimônia contando a história do noivo que quase casou na igreja errada.
+rindo | coracao: SAPATO MARROM | A noiva entrou rindo. Os convidados rindo. E o Breno no altar com um pé de sapato preto e outro marrom.
+rindo | - | O sapato preto apareceu no dia seguinte. O porteiro achou no elevador. Hoje está numa caixa de vidro na sala deles.
+neutra | carro | E o outro casal? Virou amigo deles. Os dois casais comemoram o aniversário de casamento juntos. Mesmo dia.
+neutra | manchete_v: CHEGA JUNTO | Moral da história: atraso tem jeito. O que não tem jeito é desistir no meio do caminho.
+rindo | coracao: NOIVO DE UM SAPATO | E se você tem casamento esse fim de semana, confere o endereço da igreja. E o sapato.
+
+## 068 | A DIARISTA DOUTORA | superacao | noite
+G: ⚖️ Durante 15 anos ela limpou a casa de uma juíza. Hoje ia prestar o juramento de advogada. Adivinha quem estava na mesa?
+P: Quem acreditou no seu sonho quando nem você acreditava?
+H: #superacao #advogada #estudo
+neutra | titulo | Sobe aí, que essa corrida levou uma doutora que aprendeu a lei limpando estante de livro.
+neutra | relogio: SEXTA · 18H30 | Sexta, seis e meia da tarde. Entrou uma mulher de uns quarenta e cinco anos, terninho preto, sapato de salto ainda com a etiqueta na sola.
+rindo | conversa: Hoje eu viro advogada. | Disse, olhando o próprio reflexo no vidro: hoje eu viro advogada, moço. Juramento da OAB.
+neutra | carimbo: QUINZE ANOS DE FAXINA | Dona Edilene. Diarista durante quinze anos. Fez faculdade de direito à noite, com bolsa, dormindo quatro horas por dia.
+neutra | - | Contou que trabalhava três vezes por semana na casa de uma juíza aposentada. Uma senhora rígida, de poucas palavras.
+triste | conversa: Eu lia escondido os livros. | Disse: eu limpava a biblioteca dela e lia os livros escondido. Lia um parágrafo, limpava uma prateleira.
+neutra | - | Um dia a juíza pegou ela lendo um livro de direito civil sentada no chão, com o pano no colo. Ela achou que ia ser demitida.
+chocada | conversa: Leva pra casa. | Mas a juíza só disse: leva pra casa. Devolve quando terminar. E me conta o que entendeu.
+rindo | carimbo: AULAS NA COZINHA | E assim começou. Toda vez que terminava a faxina, as duas tomavam café na cozinha e discutiam o livro.
+neutra | - | Foi a juíza que convenceu ela a fazer o vestibular. Que ajudou com a matrícula. Que emprestou todos os livros da faculdade.
+triste | conversa: Ela ficou doente no ano passado. | Mas no último ano, a juíza adoeceu. Foi morar com o filho em outra cidade. Elas perderam o contato.
+triste | - | Edilene passou na prova da OAB e não conseguiu nem contar pra ela. Disse que era a única pessoa que ela queria que soubesse.
+neutra | mapa | Chegamos no auditório. Cheio de formandos e famílias. Ela pediu pra eu ficar, porque a família dela só chegava no final do ônibus.
+neutra | - | Eu sentei lá no fundo. Ela foi pra fila dos novos advogados, segurando a mão de uma colega, tremendo.
+chocada | relogio: HORA DO JURAMENTO | Na hora do juramento, chamaram as autoridades pra mesa. Presidente da OAB, conselheiros. E uma convidada de honra.
+chocada | manchete: ERA A JUÍZA | Uma senhora de cadeira de rodas, cabelo branco, óculos pendurado no pescoço. A juíza. A dona da biblioteca.
+chocada | - | A Edilene levou as duas mãos na boca. A juíza olhou pra plateia e procurou alguém. Quando achou, sorriu.
+triste | conversa: Eu pedi pra vir. | Depois ela contou: soube pelo jornal da Ordem que a Edilene tinha passado. E pediu pra ser a madrinha da turma. Só pra estar ali.
+triste | coracao: A CARTEIRA DA OAB | Quando chamaram o nome da Edilene, foi a juíza que entregou a carteira na mão dela. E falou no microfone.
+triste | - | Disse: essa moça aprendeu direito na minha casa, com um pano de prato no ombro. Ela sabe mais de justiça do que muita gente que estudou de terno.
+rindo | - | O auditório inteiro se levantou. A Edilene chorava tanto que não conseguia fazer o juramento. Fez gaguejando, de mão erguida.
+neutra | carro | Na volta, ela foi no banco de trás com a carteira da OAB no peito, igual medalha. Ligou pra mãe e disse: mãe, a senhora agora tem uma doutora.
+neutra | manchete_v: EMPRESTA O LIVRO | Moral da história: às vezes a maior coisa que alguém faz por você é dizer: leva pra casa e me conta o que entendeu.
+rindo | coracao: DOUTORA EDILENE | E se você tem um livro parado na estante, empresta. Pode ser o começo de uma doutora.
+
+## 069 | A CARTA DE DEZ ANOS | reflexao | dia
+G: ✉️ Aos 10 anos, ele escreveu uma carta pro futuro. Aos 25, desempregado e triste, ia abrir a cápsula do tempo da escola.
+P: O que você escreveria pra você mesmo com 10 anos?
+H: #reflexao #capsuladotempo #juventude
+neutra | titulo | Sobe aí, que essa corrida foi um encontro entre um homem de vinte e cinco e um menino de dez. O mesmo.
+neutra | relogio: SÁBADO · 9H | Sábado, nove da manhã. Entrou um rapaz de uns vinte e cinco anos, camiseta amassada, barba por fazer e um convite impresso na mão.
+desconfiada | conversa: Escola municipal, por favor. | Pediu pra ir até uma escola municipal num bairro da periferia. Disse que ia abrir uma cápsula do tempo.
+neutra | carimbo: CÁPSULA DO TEMPO | Explicou: quando ele tinha dez anos, a professora fez a turma escrever cartas pro futuro. Enterraram numa caixa no pátio. Quinze anos depois, iam abrir.
+triste | conversa: Eu nem queria ir. | Disse: eu nem queria ir, moço. Tô desempregado faz oito meses. Moro com a minha mãe. O menino de dez anos ia ter vergonha de mim.
+neutra | - | Contou que fez faculdade de administração, trabalhou numa empresa que fechou, e desde então não conseguia nada.
+triste | conversa: Todo mundo tá melhor que eu. | Que olhava as redes dos colegas e todo mundo parecia estar melhor. Viajando, casando, comprando carro.
+desconfiada | conversa: E o que você queria ser? | Perguntei o que ele queria ser quando tinha dez anos. Ele riu: astronauta. E jogador. E bombeiro. Tudo ao mesmo tempo.
+neutra | mapa | Chegamos. Pátio cheio de jovens da mesma idade, alguns com filhos no colo. A professora, já de cabelo branco, segurando uma caixa de metal enferrujada.
+neutra | - | Ele pediu pra eu esperar, ia ser rápido. Eu estacionei na frente do portão e fiquei vendo pela grade.
+neutra | relogio: 30 MINUTOS | A professora chamou um por um. Cada um pegava o envelope e lia em voz alta. Uns riam, uns choravam.
+chocada | - | Chamou o nome dele. Ele pegou o envelope, ficou olhando. Não queria ler em voz alta. Mas a turma insistiu.
+rindo | carimbo: OI, EU DO FUTURO | Ele leu: oi, eu do futuro. Você virou astronauta? Se não virou, tudo bem. Eu ainda tenho tempo.
+rindo | - | A turma riu. Ele riu também, meio sem jeito. E continuou.
+triste | conversa: Você ainda é legal? | Você ainda é legal com a mamãe? Você ainda ajuda o seu Zé da padaria a carregar as caixas? Espero que sim.
+triste | manchete: ESPERO QUE VOCÊ SEJA FELIZ | E terminava: não precisa ser rico. A mamãe diz que o importante é ser bom. Espero que você seja feliz. Assinado: eu.
+triste | - | Ele ficou parado no meio do pátio, com o papel tremendo. Ninguém falou nada. A professora chegou perto e pôs a mão no ombro dele.
+neutra | - | Na volta, ele ficou um tempão em silêncio. Depois me pediu pra passar numa padaria antes de levar ele em casa.
+chocada | carimbo: A PADARIA DO SEU ZÉ | Era a padaria do seu Zé. Que ainda existia. O seu Zé, com setenta anos, estava carregando caixa de farinha sozinho.
+rindo | conversa: Deixa que eu levo, seu Zé. | Ele desceu correndo e falou: deixa que eu levo, seu Zé. O velho olhou e disse: menino, quanto tempo!
+rindo | coracao: CONTRATADO | Ficaram conversando. O seu Zé contou que precisava de alguém pra cuidar das contas da padaria. Administração. Começa segunda.
+neutra | carro | Não é astronauta. Mas ele me mandou foto um mês depois: de avental, no caixa, com uma planilha aberta e o seu Zé atrás fazendo joinha.
+neutra | manchete_v: SEJA BOM | Moral da história: o menino que você foi não quer que você seja rico. Quer que você continue sendo bom.
+rindo | coracao: OI, EU DO FUTURO | E se você tá se sentindo atrasado na vida, lembra: o seu eu de dez anos ainda acha que dá tempo. E dá.
+
+## 070 | O DETETIVE DE GATOS | curiosa | noite
+G: 🐈 Ele já encontrou mais de 300 gatos perdidos na cidade. Mas naquela noite, o gato sumido era o dele. E estava mais perto do que imaginava.
+P: Seu bicho já fugiu de casa? Como você achou?
+H: #gatos #pets #curiosidades
+neutra | titulo | Sobe aí, que essa corrida teve investigação, lanterna e um suspeito de bigode.
+neutra | relogio: QUINTA · 21H | Quinta, nove da noite. Entrou um senhor de uns sessenta anos, colete cheio de bolsos, lanterna na cabeça e um pote de sachê na mão.
+rindo | conversa: Sou detetive de gatos. | Se apresentou: Valdemar, detetive de gatos. Já achei trezentos e doze. Hoje é o trezentos e treze.
+desconfiada | - | Eu achei que era piada. Mas ele mostrou o celular. Um perfil com milhares de seguidores, cheio de fotos de gatos reencontrados com os donos.
+neutra | carimbo: O MÉTODO | Explicou o método. Gato perdido não vai longe. Fica escondido num raio de três casas. Silencioso. Tem que procurar de noite, com lanterna e sachê.
+rindo | conversa: O gato reflete a luz. | Disse: o olho do gato brilha com a lanterna. Parece um farolzinho. É assim que eu acho.
+triste | conversa: Mas hoje é o meu. | Aí ficou sério: mas hoje o gato perdido é o meu. O Sherlock. Sumiu ontem à tarde.
+triste | - | O Sherlock tinha quinze anos. Estava com ele desde filhote. Ajudava nas buscas, porque os gatos perdidos confiavam nele.
+neutra | mapa | Rodamos o bairro dele inteiro. Ele descia em cada esquina, balançava o pote de sachê, chamava baixinho. Nada.
+neutra | - | Muros, telhados, debaixo de carro. Ele procurou com a técnica de sempre. E nada do farolzinho.
+triste | conversa: Já achei 312 e não acho o meu. | Ele sentou no meio-fio, desanimado, e falou: já achei trezentos e doze gatos e não acho o meu. Que detetive eu sou?
+neutra | notificacao: Postagem compartilhada | Eu dei uma ideia: posta no seu perfil. Os seus seguidores são do bairro. Ele postou a foto do Sherlock. Em meia hora, mil compartilhamentos.
+rindo | - | Começou a aparecer gente na rua de chinelo, com lanterna de celular. Os donos dos gatos que ele tinha achado. Todos procurando o Sherlock.
+rindo | carimbo: TRINTA PESSOAS PROCURANDO | Trinta pessoas, quarenta, cinquenta. A rua parecia procissão. Todo mundo balançando sachê e chamando: Sherlock.
+neutra | relogio: MEIA-NOITE | Meia-noite. Nada ainda. As pessoas começaram a ir embora. Eu fui abrir o porta-malas pra pegar um casaco que eu tinha deixado lá.
+chocada | manchete: UM FAROLZINHO | E lá dentro, em cima do meu casaco, dois farolzinhos brilhando. Um gato cinza, gordo, de bigode branco. Dormindo.
+chocada | conversa: Seu Valdemar! | Eu gritei: seu Valdemar! O gato tá no meu carro! Ele veio correndo, iluminou com a lanterna da cabeça e caiu na risada.
+rindo | - | Era o Sherlock. Ele tinha entrado no porta-malas quando eu parei na frente da casa do seu Valdemar pela primeira vez, na hora da corrida.
+rindo | carimbo: O SUSPEITO ERA EU | Ou seja: o gato fugiu ontem, voltou hoje, viu o porta-malas aberto e entrou pra dormir no meu casaco. O suspeito do caso era eu.
+rindo | - | A rua inteira aplaudiu. O seu Valdemar postou: caso trezentos e treze resolvido. O culpado: um motorista de aplicativo. Com um casaco muito confortável.
+neutra | - | Ele me deu um sachê de presente e um crachá de plástico escrito: detetive assistente.
+neutra | carro | O crachá tá no meu porta-luvas. E toda vez que eu abro o porta-malas, eu olho duas vezes.
+neutra | manchete_v: PROCURA PERTO | Moral da história: às vezes o que a gente procura longe está dormindo do nosso lado. Olha o porta-malas.
+rindo | coracao: CASO 313 | E se seu gato sumir, procura de noite, com lanterna e sachê. E olha o carro do motorista.
+
+## 071 | AS DUAS ALIANÇAS | amor | dia
+G: 💍 Um casal procurava na areia a aliança que perdeu na praia. O detector apitou. Mas a aliança era de outra pessoa… de 1983.
+P: Você acredita que objetos perdidos acham o caminho de volta?
+H: #amor #alianca #praia
+neutra | titulo | Sobe aí, que essa corrida achou duas alianças e devolveu dois amores.
+neutra | relogio: DOMINGO · 7H | Domingo, sete da manhã. Entrou um casal jovem, ela de olho inchado de chorar, ele com um detector de metal alugado na mão.
+triste | conversa: Perdi minha aliança no mar. | Ela disse: eu perdi minha aliança ontem, no mar. Casei faz dois meses. Era da avó dele.
+neutra | - | A aliança era uma herança. A avó do marido usou cinquenta anos. Deu pra eles no casamento. E ela perdeu no primeiro mergulho.
+neutra | mapa | Levei até a praia. Eles pediram pra eu esperar uma hora, que era o tempo do aluguel do detector. Eu fui junto procurar. Domingo é domingo.
+rindo | - | O detector apitava pra tudo. Tampinha de garrafa. Moeda. Lacre de latinha. Um prego. Ela comemorava e chorava a cada apito.
+neutra | relogio: 50 MINUTOS | Cinquenta minutos de busca. Estavam quase desistindo. Aí o detector deu um apito diferente. Agudo. Firme.
+chocada | manchete: UMA ALIANÇA DE OURO | Cavaram. E saiu uma aliança. De ouro. Antiga, escurecida. Mas não era a dela.
+desconfiada | carimbo: GRAVADO: 1983 | Por dentro, gravado: Ivone, doze do seis de mil novecentos e oitenta e três. Uma aliança de outra pessoa, perdida havia mais de quarenta anos.
+neutra | - | Ficamos olhando aquilo sem entender. A moça, que tinha perdido a dela, disse: alguém sentiu a mesma coisa que eu sinto agora.
+desconfiada | conversa: Vamos achar a Ivone. | E aí o marido disse: vamos achar a Ivone. Se a gente não acha a nossa, pelo menos devolve essa.
+neutra | relogio: MAIS 10 MINUTOS | Ele pagou mais um tempo de detector. Voltaram pra água rasa. Dez minutos depois, outro apito.
+chocada | coracao: A ALIANÇA DA AVÓ | E era a dela. A aliança da avó. Brilhando, presa numa conchinha. Ela gritou tão alto que um pescador derrubou a vara.
+neutra | - | Ainda tinha a outra. A da Ivone. Na volta, a moça postou a foto da aliança antiga num grupo de moradores da cidade.
+rindo | notificacao: Comentário: É da minha avó! | Duas horas depois, um comentário: essa aliança é da minha avó! Ela perdeu na lua de mel, em oitenta e três!
+neutra | - | A neta da dona Ivone mandou o endereço. Era a vinte minutos dali. O casal me chamou de novo pra levar. Eu fui.
+neutra | porta | A dona Ivone, setenta e seis anos, abriu a porta de bengala. O marido dela, seu Arlindo, logo atrás.
+triste | conversa: Eu chorei a lua de mel inteira. | Quando viu a aliança, ela sentou na cadeira da varanda. Disse: eu chorei a lua de mel inteira por causa dela. O Arlindo comprou outra, mas nunca foi a mesma.
+triste | - | O seu Arlindo pegou a aliança, limpou na camisa, e colocou no dedo dela. Quarenta e três anos depois. Ali, na varanda.
+rindo | carimbo: RENOVARAM OS VOTOS | E pediu, de joelho, com dificuldade: Ivone, casa comigo de novo? Ela disse: só se dessa vez você não me levar pro mar.
+rindo | - | O casal jovem e o casal velho tiraram uma foto juntos. Duas alianças antigas, quatro mãos.
+neutra | carro | Na volta, a moça ficou girando a aliança no dedo o caminho inteiro. Disse que agora entendia porque a avó do marido nunca tirava.
+neutra | manchete_v: DEVOLVE | Moral da história: o que é nosso volta. E às vezes, no caminho, devolve o que é dos outros.
+rindo | coracao: 1983 E 2026 | E se você achar algo perdido com nome gravado, procura o dono. Pode ser o fim de uma lua de mel triste.
+
+## 072 | OS TRÊS DO PASTEL | amizade | noite
+G: 🥟 Três amigos de 80 e poucos anos fogem toda terça pra comer pastel na feira. O pasteleiro guarda um segredo sobre o quarto amigo.
+P: Qual tradição você mantém com seus amigos há anos?
+H: #amizade #feira #idosos
+neutra | titulo | Sobe aí, que essa corrida tinha três senhores, uma feira e um banquinho vazio.
+neutra | relogio: TERÇA · 18H | Terça, seis da tarde. Feira noturna. Entraram três senhores no meu carro. Um de boina, um de suspensório, um de bengala com fita do time.
+rindo | conversa: Feira da praça, e não conta pra ninguém. | O de boina falou: feira da praça, e não conta pras nossas filhas. Elas acham que a gente tá no grupo de oração.
+rindo | carimbo: OS MOSQUETEIROS | Seu Nilo, seu Arnaldo e seu Geraldo. Oitenta e dois, oitenta e quatro e oitenta e seis. Se chamavam de os mosqueteiros.
+rindo | - | Toda terça fugiam pra comer pastel. Pastel de carne com ovo, caldo de cana e uma hora de conversa fiada. Faziam isso havia quarenta anos.
+ironica | conversa: E as filhas não sabem? | Eu perguntei: e as filhas nunca descobriram? O seu Arnaldo riu: elas sabem. Elas fingem que não sabem. É o acordo.
+neutra | - | No caminho, discutiram futebol, reclamaram do preço do remédio e disputaram quem tinha mais neto.
+desconfiada | conversa: Os mosqueteiros eram três? | Eu, que lembro do livro, falei: os mosqueteiros eram quatro, não eram? Os três ficaram quietos.
+triste | conversa: O nosso quarto foi embora. | O seu Geraldo falou: eram quatro. O Toninho. Foi embora ano passado. Ele que inventou o pastel de terça.
+triste | - | Disse que desde então eles continuavam indo. Mas que o banquinho do Toninho ficava vazio. Ninguém sentava.
+neutra | mapa | Chegamos na feira. Barraca de pastel, luz amarela, cheiro de óleo quente. Quatro banquinhos de plástico na frente do balcão.
+rindo | - | O pasteleiro, um rapaz de uns trinta anos, já sabia o pedido. Três de carne com ovo e três caldos de cana. Sem perguntar.
+chocada | carimbo: QUATRO PASTÉIS | Mas ele fritou quatro pastéis. E pôs quatro caldos de cana no balcão. Um na frente do banquinho vazio.
+neutra | - | Os três se olharam. Isso nunca tinha acontecido. O seu Nilo perguntou: rapaz, você errou. Somos três agora.
+chocada | conversa: Não errei, não. | O pasteleiro limpou a mão no avental e falou: não errei, não. O quarto é meu. Eu sento hoje, se os senhores deixarem.
+chocada | manchete: ERA O FILHO DO TONINHO | Ele contou. O Toninho era o pai dele. Por isso, quinze anos atrás, quando a barraca antiga fechou, ele abriu essa ali. Na frente do banquinho.
+triste | conversa: Meu pai me pediu. | Disse: meu pai me pediu pra não deixar os senhores sem pastel. Disse que essa terça era o que segurava os quatro de pé.
+triste | - | O seu Geraldo levantou a bengala, bateu no chão e disse: senta, menino. O lugar é seu.
+triste | coracao: O BANQUINHO DO TONINHO | Ele sentou no banquinho do pai. Pastel na mão. E os três contaram histórias do Toninho que ele nunca tinha ouvido.
+rindo | - | Riram até chorar. O seu Arnaldo contou que o Toninho uma vez comeu sete pastéis numa terça e passou mal na quarta.
+neutra | - | Eu fiquei encostado no carro, comendo um pastel que eles fizeram questão de pagar. Não pude recusar. Eu tentei. Pouco.
+neutra | carro | Levei os três de volta às nove. Um deles dormiu antes da segunda esquina. Os outros dois cantaram a música do time.
+neutra | manchete_v: GUARDA O LUGAR | Moral da história: amizade de verdade não deixa banquinho vazio. Sempre aparece alguém pra sentar no lugar.
+rindo | coracao: OS QUATRO DE NOVO | E se você tem um amigo de muito tempo, marca a terça do pastel. Não espera ninguém sumir.
+
+## 073 | A REUNIÃO DE PAIS | familia | dia
+G: 👨‍👧‍👦 Ele tem 19 anos e foi pra reunião de pais da escola. Como pai. De três irmãos.
+P: Quem cuidou de você quando ninguém mais podia?
+H: #familia #irmaos #responsabilidade
+neutra | titulo | Sobe aí, que essa corrida levou o pai mais novo que aquela escola já viu.
+neutra | relogio: QUARTA · 13H | Quarta, uma da tarde. Entrou um rapaz de dezenove anos, uniforme de atendente de lanchonete por baixo de uma jaqueta e uma pasta de elástico.
+desconfiada | conversa: Reunião de pais. | Disse: escola estadual, por favor. Tenho reunião de pais. Eu perguntei: de algum irmão? Ele disse: de três.
+neutra | carimbo: RESPONSÁVEL LEGAL | Chama-se Matheus. Desde os dezessete é o responsável legal dos três irmãos. Uma menina de doze, um menino de nove e um de seis.
+triste | - | Os pais não estavam mais com eles. Ele não entrou em detalhe e eu não perguntei. Disse só: ficou eu. E eu fiquei.
+neutra | - | Trabalha de manhã na lanchonete, estuda à noite pra terminar o ensino médio, e de tarde cuida dos três. Lição, janta, banho, briga.
+rindo | conversa: O de seis morde. | Disse rindo: o de seis morde quando fica com raiva. A de doze acha que eu sou chato. O do meio quer ser youtuber.
+desconfiada | conversa: E a reunião, você tá nervoso? | Perguntei se estava nervoso. Ele disse que sim. Que nas reuniões as mães olham pra ele de lado, achando que ele é aluno perdido.
+triste | conversa: Uma mãe pediu pra eu sair. | Na última, uma mãe pediu pra ele sair da sala porque a reunião era só pra responsáveis. Ele mostrou o documento. Ficou vermelho a reunião inteira.
+neutra | mapa | Chegamos na escola. Ele ajeitou a jaqueta pra esconder o uniforme da lanchonete. Pediu pra eu esperar, porque depois ia direto pro trabalho.
+neutra | - | Eu estacionei no meio-fio. Pela janela da sala, dava pra ver as mães sentadas. E ele, magrinho, na última cadeira.
+neutra | relogio: 40 MINUTOS | Quarenta minutos de reunião. Nota, comportamento, festa junina. Ele anotando tudo num caderninho. Mais atento que todo mundo.
+chocada | - | No final, a professora chamou a atenção da sala. Disse que tinha uma coisa pra entregar. E chamou o nome dele.
+chocada | carimbo: UM ENVELOPE DOS ALUNOS | Era um envelope. A professora explicou: no dia dos pais, cada aluno fez um cartão. O irmão de nove anos fez o dele pro Matheus.
+triste | manchete: MEU PAI TEM 19 ANOS | Ela leu em voz alta: meu pai tem dezenove anos. Ele não é meu pai, é meu irmão. Mas ele faz tudo que um pai faz e ainda faz miojo bem gostoso.
+triste | - | A sala ficou em silêncio. A mãe que tinha pedido pra ele sair na reunião anterior começou a chorar.
+triste | coracao: O PAI DO ANO | E a professora completou: a turma votou. O cartão mais bonito da escola. E o pai do ano é o Matheus.
+rindo | - | As mães aplaudiram. A mãe da reunião passada levantou e foi abraçar ele. Pediu desculpa. Ofereceu ajuda pra levar os meninos no futebol.
+neutra | - | Ele saiu da sala com o cartão na mão e o rosto vermelho, mas de outro jeito. Entrou no carro e não falou nada por um tempo.
+rindo | conversa: Miojo bem gostoso. | Depois riu e disse: miojo bem gostoso. Eu preciso aprender a cozinhar outra coisa. Eu disse: arroz e ovo já é um começo.
+neutra | carro | Deixei ele na lanchonete. Antes de descer, ele guardou o cartão no bolso de dentro da jaqueta, do lado do coração.
+neutra | manchete_v: CUIDA | Moral da história: tem gente que vira adulto num dia só. E carrega a família no colo sem reclamar.
+rindo | coracao: PAI DE 19 ANOS | E se você conhece um Matheus, oferece uma ajuda. Uma carona, uma marmita, um elogio. Ele merece.
+
+## 074 | A PERUCA DO JUIZ DE PAZ | humor | noite
+G: 💨 O juiz de paz perdeu a peruca no vento, a caminho de um casamento. A noiva teve a melhor ideia de todas.
+P: Qual foi o maior imprevisto num casamento que você já foi?
+H: #casamento #humor #imprevisto
+neutra | titulo | Sobe aí, que essa corrida teve uma busca desesperada por um objeto voador não identificado. Peludo.
+neutra | relogio: SÁBADO · 19H | Sábado, sete da noite. Entrou um senhor de uns sessenta anos, terno impecável, pasta de couro e um cabelo castanho perfeito demais.
+rindo | conversa: Sou juiz de paz. | Se apresentou: doutor Getúlio, juiz de paz. Vou celebrar um casamento num sítio. Por favor, não abra a janela.
+desconfiada | - | Achei estranho, mas tudo bem. Ar-condicionado ligado. Uma hora de estrada até o sítio.
+neutra | carimbo: A JANELA | No meio do caminho, ele recebeu uma ligação. A noiva. Pedindo pra ele confirmar o nome do noivo na certidão. Ele começou a passar mal com o calor.
+ironica | conversa: Abre só um pouquinho. | Pediu: abre só um pouquinho a janela de trás, por favor. Eu abri. Um dedo. Dois dedos.
+chocada | manchete: A PERUCA VOOU | Aí passou um caminhão do lado. O vento entrou rodando. E eu vi pelo retrovisor. O cabelo dele levantou voo. Inteiro.
+chocada | - | Saiu pela janela igual um pássaro marrom, girando no ar, e caiu no acostamento lá atrás.
+rindo | conversa: Para! Para! | Ele gritou: para, para, para! Eu parei no acostamento. Ele descobriu a cabeça careca, brilhando no farol dos carros.
+rindo | - | Voltamos a pé, ele de terno e careca, eu com a lanterna do celular. Procurando uma peruca no mato, de noite, na beira da estrada.
+rindo | carimbo: ACHAMOS. MAIS OU MENOS. | Achamos. Mais ou menos. Estava numa poça de lama. Com uma folha seca grudada e um gafanhoto morando dentro.
+triste | conversa: Eu não posso ir assim. | Ele sentou no meio-fio e disse: eu não posso aparecer assim. Uso peruca há vinte anos. Ninguém nunca me viu careca. Nem minha esposa direito.
+neutra | - | Tentamos lavar com água da garrafa. Piorou. Virou um bicho molhado. Ele olhava pra ela como quem olha um amigo ferido.
+neutra | mapa | Chegamos no sítio quinze minutos atrasados. Ele com a peruca no colo, embrulhada num saquinho, e a cabeça coberta com o meu boné.
+desconfiada | - | A noiva veio correndo até o carro, de vestido, preocupada. O doutor Getúlio contou tudo, envergonhado, segurando o meu boné.
+rindo | conversa: Tira o boné, doutor. | A noiva olhou pra ele e falou: tira o boné, doutor. Ele tirou. Ela riu, mas não de deboche. Riu bonito.
+chocada | carimbo: O PAI DA NOIVA | E disse: o meu pai é careca. O noivo é careca. Metade dos convidados é careca. O senhor vai se sentir em casa.
+rindo | - | E era verdade. O pai da noiva era careca. O noivo, careca. Os padrinhos, três de quatro carecas. Parecia convenção.
+rindo | manchete: O CASAMENTO DOS CARECAS | O doutor Getúlio celebrou o casamento de cabeça descoberta. E abriu com uma frase: hoje eu caso vocês do jeito que Deus me fez.
+rindo | - | Os convidados aplaudiram de pé. O pai da noiva gritou: bem-vindo ao clube! E passou a mão na própria careca.
+rindo | coracao: SEM PERUCA | No final, ele jogou a peruca na fogueira da festa junina que tinha no sítio. Em cerimônia. Disse que era libertação.
+neutra | carro | Na volta, foi de janela aberta o caminho inteiro. Vento na cabeça. Disse que fazia vinte anos que não sentia vento na cabeça.
+neutra | manchete_v: SEJA VOCÊ | Moral da história: às vezes o que a gente esconde há anos é exatamente o que faz a gente pertencer.
+rindo | coracao: DOUTOR GETÚLIO LIVRE | E se você esconde alguma coisa com medo do que vão pensar, abre a janela. Pode ser libertador.

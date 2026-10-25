@@ -1,0 +1,264 @@
+{
+ "id": "cx143",
+ "ep": 143,
+ "avulso": true,
+ "titulo": "A VOVÓ DO KARAOKÊ",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🎤 Ela tem 76 anos e é campeã de karaokê do bairro há dez anos. Hoje, na final, o adversário era o próprio neto.\n\nQual é a sua música de karaokê? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#karaoke #avo #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎤 Ela tem 76 anos e é campeã de karaokê do bairro há dez anos. Hoje, na final, o adversário era o próprio neto. Qual é a sua música de karaokê? 👇\nHistória de ficção.\n#karaoke #avo #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve aquecimento vocal, briga de família e microfone no banco de trás.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Sábado, três da tarde. Entraram uma senhora de setenta e seis anos, de lantejoula da cabeça aos pés, e um rapaz de vinte anos de boné virado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 15H"
+   ],
+   "destaque": [
+    "boné",
+    "virado."
+   ]
+  },
+  {
+   "fala": "A senhora anunciou: final do campeonato de karaokê do bairro. Eu sou a campeã há dez anos. E esse aí é o meu adversário.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Final do karaokê."
+   ],
+   "destaque": [
+    "meu",
+    "adversário."
+   ]
+  },
+  {
+   "fala": "O adversário era o neto. Igor. Que se inscreveu de brincadeira e foi ganhando, ganhando, até chegar na final. Contra a avó.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "AVÓ CONTRA NETO"
+   ],
+   "destaque": [
+    "Contra",
+    "avó."
+   ]
+  },
+  {
+   "fala": "Dona Iolanda olhou pro neto e falou: ele é bom. Mas eu sou melhor. O neto: vó, a senhora tá velha. Ela: velha e afinada.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele é bom, mas eu sou melhor."
+   ],
+   "destaque": [
+    "velha",
+    "afinada."
+   ]
+  },
+  {
+   "fala": "E começou o aquecimento vocal. No meu carro. Ela fazendo mi-mi-mi-mi. Ele fazendo rap. Os dois ao mesmo tempo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "Eu olhando pelo retrovisor. Uma senhora de lantejoula fazendo escala e um rapaz de boné batendo no encosto do banco.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "encosto",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Perguntei a música de cada um. Ela: um samba-canção antigo, daqueles de rádio. Ele: um funk melody. Os dois disseram que a do outro era ruim.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Qual a música de vocês?"
+   ],
+   "destaque": [
+    "era",
+    "ruim."
+   ]
+  },
+  {
+   "fala": "O Igor começou a cantar a música dela. Errado. De propósito. Ela deu um tapa no boné dele e cantou a música dele. Certa. Rimando.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A PROVOCAÇÃO"
+   ],
+   "destaque": [
+    "Certa.",
+    "Rimando."
+   ]
+  },
+  {
+   "fala": "Ele ficou de boca aberta: vó, como a senhora sabe essa? Ela: eu ouço tudo pela parede do seu quarto. Todo dia. Às duas da manhã.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "duas",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "Chegamos num bar de bairro. Placa de karaokê, umas cinquenta pessoas, mesas de plástico. Metade torcendo pra avó, metade pro neto.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "pro",
+    "neto."
+   ]
+  },
+  {
+   "fala": "Eu fiquei. Pedi um refrigerante e sentei no fundo. Torcida dividida até no garçom.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "até",
+    "garçom."
+   ]
+  },
+  {
+   "fala": "Primeiro o neto. Cantou o funk melody. Bem. Afinado. Dançou. O bar inteiro levantou. Nota alta.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "A FINAL"
+   ],
+   "destaque": [
+    "Nota",
+    "alta."
+   ]
+  },
+  {
+   "fala": "Depois a avó. Subiu no palquinho de lantejoula. Pegou o microfone. E cantou o samba-canção. O bar ficou em silêncio total.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "silêncio",
+    "total."
+   ]
+  },
+  {
+   "fala": "No final, um senhor na mesa da frente estava chorando. O dono do bar chorando. Até o neto, de boné, olhando a avó com a boca aberta.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O BAR CHOROU"
+   ],
+   "destaque": [
+    "boca",
+    "aberta."
+   ]
+  },
+  {
+   "fala": "O júri, três vizinhos com placas de papel, deu a nota. Empate. Pela primeira vez na história do campeonato.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "EMPATE"
+   ],
+   "destaque": [
+    "história",
+    "campeonato."
+   ]
+  },
+  {
+   "fala": "O dono do bar anunciou: desempate em dueto. Os dois juntos. Uma música só. O público escolhe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Desempate em dueto."
+   ],
+   "destaque": [
+    "público",
+    "escolhe."
+   ]
+  },
+  {
+   "fala": "E o público escolheu: a música dele, mas com ela cantando junto. A avó entrou no funk melody rimando. O neto entrou no samba na parte lenta.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "parte",
+    "lenta."
+   ]
+  },
+  {
+   "fala": "Os dois cantando abraçados. A avó de lantejoula e o neto de boné. O bar inteiro cantando junto. Eu cantando do fundo.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O DUETO"
+   ],
+   "destaque": [
+    "cantando",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "O júri decidiu: dois campeões. O troféu ia passar seis meses com cada um. Eles brigaram pra ver quem ficava primeiro. Ela ganhou. Idade é posto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Idade",
+    "posto."
+   ]
+  },
+  {
+   "fala": "Na volta, os dois ensaiando a próxima música. Juntos. Ela ensinando ele a segurar a nota. Ele ensinando ela a rimar.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "ensinando",
+    "rimar."
+   ]
+  },
+  {
+   "fala": "Moral da história: duas gerações cabem no mesmo microfone. Só precisa uma ouvir a música da outra.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CANTA JUNTO"
+   ],
+   "destaque": [
+    "música",
+    "outra."
+   ]
+  },
+  {
+   "fala": "E se seu avô ou sua avó gosta de cantar, chama pra um karaokê. Você vai se surpreender. E perder.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CAMPEÕES"
+   ],
+   "destaque": [
+    "surpreender.",
+    "perder."
+   ]
+  }
+ ]
+}

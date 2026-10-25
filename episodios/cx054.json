@@ -1,0 +1,272 @@
+{
+ "id": "cx054",
+ "ep": 54,
+ "avulso": true,
+ "titulo": "O NOME DO BEBÊ",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "👶 Levei um casal com o recém-nascido da maternidade pra casa. Quando falaram o nome do bebê, eu tive que encostar o carro.\n\nDe onde veio o seu nome? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bebe #maternidade #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👶 Levei um casal com o recém-nascido da maternidade pra casa. Quando falaram o nome do bebê, eu tive que encostar o carro. De onde veio o seu nome? 👇\nHistória de ficção.\n#bebe #maternidade #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida começou uma semana antes e eu nem sabia.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nem",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "Terça-feira, três e dez da madrugada. Uma corrida de emergência. Uma moça em trabalho de parto, o marido desesperado, a bolsa tinha estourado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 3H10"
+   ],
+   "destaque": [
+    "tinha",
+    "estourado."
+   ]
+  },
+  {
+   "fala": "Fui o mais rápido que a lei deixava. Ela apertando minha mão no banco de trás, ele gritando a cada contração, eu cantando pra acalmar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "cantando",
+    "acalmar."
+   ]
+  },
+  {
+   "fala": "Cantei a única música que sabia inteira. Uma moda de viola que meu pai cantava. Ela riu no meio da dor.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "dor."
+   ]
+  },
+  {
+   "fala": "Deixei os dois na porta da maternidade, nem cobrei. Fui embora sem saber nome, sem saber nada. Corrida de madrugada é assim.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "madrugada",
+    "assim."
+   ]
+  },
+  {
+   "fala": "Uma semana depois, outra corrida. Saída da mesma maternidade. Entrou um casal com um bebê no bebê-conforto e muita sacola.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA SEMANA DEPOIS"
+   ],
+   "destaque": [
+    "muita",
+    "sacola."
+   ]
+  },
+  {
+   "fala": "A moça olhou pra mim e gritou: é o senhor! O motorista da madrugada! O marido quase deixou cair a sacola.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "É o senhor?!"
+   ],
+   "destaque": [
+    "cair",
+    "sacola."
+   ]
+  },
+  {
+   "fala": "Era o mesmo casal. O aplicativo sorteou. Ou foi alguma coisa maior que o aplicativo. Eu prefiro pensar que foi.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O MESMO CASAL"
+   ],
+   "destaque": [
+    "pensar",
+    "foi."
+   ]
+  },
+  {
+   "fala": "Contaram que o bebê nasceu quarenta minutos depois que eu deixei. Que se eu tivesse demorado mais um pouco, nascia no meu carro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Eu disse: graças a Deus, que o banco é de tecido. Os dois riram. O bebê dormindo, um menininho pequeno, bochechudo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ainda bem!"
+   ],
+   "destaque": [
+    "pequeno,",
+    "bochechudo."
+   ]
+  },
+  {
+   "fala": "Eu dirigi a trinta por hora. Juro. Cada lombada eu passava como se o carro fosse de vidro. O pai ria de mim.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ria",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Perguntei: e o nome dele, qual é? Os dois se olharam com uma cara de quem tinha combinado alguma coisa.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o nome dele?"
+   ],
+   "destaque": [
+    "alguma",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "A mãe disse: a gente estava em dúvida entre dois nomes. Aí aconteceu aquela madrugada.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "aquela",
+    "madrugada."
+   ]
+  },
+  {
+   "fala": "E falou: ele se chama Sebastião. Por causa da música que o senhor cantou. O senhor disse que era do seu pai, Sebastião.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "SEBASTIÃO"
+   ],
+   "destaque": [
+    "pai,",
+    "Sebastião."
+   ]
+  },
+  {
+   "fala": "Eu tive que encostar o carro. Não dava pra dirigir. Meu pai, Sebastião, taxista por trinta anos, que eu perdi aos vinte.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "aos",
+    "vinte."
+   ]
+  },
+  {
+   "fala": "Eu nem lembrava que tinha falado o nome dele. Na hora da correria, eu disse: essa é do meu pai, Sebastião, que me ensinou a dirigir.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nem lembrava que falei."
+   ],
+   "destaque": [
+    "ensinou",
+    "dirigir."
+   ]
+  },
+  {
+   "fala": "Ela disse: na hora que o senhor falou, eu decidi. Um nome de quem ensina a dirigir com calma.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O NOME DO MEU PAI"
+   ],
+   "destaque": [
+    "dirigir",
+    "calma."
+   ]
+  },
+  {
+   "fala": "Eu fiquei ali, parado, olhando o bebê pelo retrovisor. Um Sebastião de três quilos, dormindo de boca aberta.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "boca",
+    "aberta."
+   ]
+  },
+  {
+   "fala": "A mãe perguntou se eu queria segurar. Eu nunca segurei um bebê tão pequeno. Segurei como quem segura um copo cheio até a boca.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pode segurar ele."
+   ],
+   "destaque": [
+    "até",
+    "boca."
+   ]
+  },
+  {
+   "fala": "Deixei os três em casa. A avó estava na porta com uma faixa: bem-vindo, Tião.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "bem-vindo,",
+    "Tião."
+   ]
+  },
+  {
+   "fala": "O pai disse que eu ia ser convidado pro primeiro aniversário. E ia ter que cantar a moda de viola. Já topei.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Já",
+    "topei."
+   ]
+  },
+  {
+   "fala": "Contei pra Rosângela e ela foi buscar a única foto do meu pai no táxi. Colocou do lado da foto do Sebastião pequeno que a mãe me mandou.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "mãe",
+    "mandou."
+   ]
+  },
+  {
+   "fala": "Moral da história: a gente nunca sabe quem vai carregar o nosso nome adiante. Mas carrega.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PASSA ADIANTE"
+   ],
+   "destaque": [
+    "adiante.",
+    "carrega."
+   ]
+  },
+  {
+   "fala": "E se você tem um nome de família, conta pros seus filhos de onde ele veio. Toda história merece ser lembrada.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TIÃO PEQUENO"
+   ],
+   "destaque": [
+    "ser",
+    "lembrada."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "id": "cx258",
+ "ep": 258,
+ "avulso": true,
+ "titulo": "A ESCOLA QUE ELE CONSTRUIU",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🏫 A comunidade dele não tinha escola. Ele, pedreiro, construiu uma. Tijolo por tijolo. Durante 12 anos. Hoje, era a formatura da primeira turma.\n\nQuem construiu algo importante na sua comunidade? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#educacao #superacao #comunidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏫 A comunidade dele não tinha escola. Ele, pedreiro, construiu uma. Tijolo por tijolo. Durante 12 anos. Hoje, era a formatura da primeira turma. Quem construiu algo importante na sua comunidade? 👇\nHistória de ficção.\n#educacao #superacao #comunidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem que levantou uma escola com as próprias mãos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "próprias",
+    "mãos."
+   ]
+  },
+  {
+   "fala": "Sábado, cinco da tarde. Entrou um senhor de uns sessenta e oito anos, terno simples, mãos enormes e calejadas, e um chapéu na mão.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 17H"
+   ],
+   "destaque": [
+    "chapéu",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Disse: vou na formatura da escola. A primeira turma. Eu perguntei: o senhor é avô de algum formando? Ele riu: sou avô da escola.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Formatura da escola."
+   ],
+   "destaque": [
+    "avô",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Seu Josias. Pedreiro a vida inteira. Mora numa comunidade rural, a uma hora da cidade. Onde não tinha escola. As crianças andavam uma hora a pé pra estudar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU JOSIAS, PEDREIRO"
+   ],
+   "destaque": [
+    "pé",
+    "estudar."
+   ]
+  },
+  {
+   "fala": "Contou: a minha neta caiu num rio indo pra escola. Uma correnteza. Quase não sobreviveu. Naquele dia eu decidi: vou construir uma escola aqui.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A minha neta caiu no rio."
+   ],
+   "destaque": [
+    "escola",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "Sem dinheiro, sem projeto, sem ajuda. Ele começou. Um tijolo por fim de semana. Comprado com o dinheiro dele. No terreno que era do pai.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Riu: diziam que eu era doido. Que velho sozinho não levanta escola. Eu respondia: velho sozinho não. Velho teimoso, sim.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Diziam que eu era doido."
+   ],
+   "destaque": [
+    "teimoso,",
+    "sim."
+   ]
+  },
+  {
+   "fala": "Depois de dois anos, os vizinhos começaram a ajudar. Um doava areia. Outro, telha. As mulheres faziam comida pros mutirões de sábado.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mutirões",
+    "sábado."
+   ]
+  },
+  {
+   "fala": "Doze anos. Duas salas de aula, um banheiro, uma cozinha. Ele mesmo fez cada parede. E aí foi na prefeitura e disse: a escola tá pronta. Mandem professor.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DOZE ANOS"
+   ],
+   "destaque": [
+    "Mandem",
+    "professor."
+   ]
+  },
+  {
+   "fala": "Disse: eles não acreditaram. Mandaram um engenheiro pra ver. O engenheiro disse: tá melhor que muita escola que a gente construiu.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eles não acreditaram."
+   ],
+   "destaque": [
+    "gente",
+    "construiu."
+   ]
+  },
+  {
+   "fala": "Chegamos na comunidade. Estrada de terra. E no alto, uma escola. Pintada de azul e branco. Com bandeirinhas na entrada. E uma placa: Escola Municipal Josias Pedreiro.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Josias",
+    "Pedreiro."
+   ]
+  },
+  {
+   "fala": "Ele parou na frente da placa. Disse: eu pedi pra não colocar o meu nome. Eles colocaram assim mesmo. Eu fico com vergonha.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "fico",
+    "vergonha."
+   ]
+  },
+  {
+   "fala": "Eu ajudei ele a subir a ladeira. E fiquei. A formatura do quinto ano. Doze crianças. As primeiras que estudaram do começo ao fim na escola dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "escola",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Doze crianças de beca azul, feita pelas mães. Os pais na plateia, em cadeiras de plástico. A professora emocionada no microfone.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "A FORMATURA"
+   ],
+   "destaque": [
+    "emocionada",
+    "microfone."
+   ]
+  },
+  {
+   "fala": "A oradora da turma era uma menina de onze anos. Ela subiu no palquinho e disse: eu quero agradecer ao vô Josias. Que construiu a nossa escola.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A ORADORA"
+   ],
+   "destaque": [
+    "nossa",
+    "escola."
+   ]
+  },
+  {
+   "fala": "E completou: e que é o meu bisavô. A menina era bisneta dele. Filha da neta que caiu no rio. A neta estava na plateia, chorando.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A NETA"
+   ],
+   "destaque": [
+    "plateia,",
+    "chorando."
+   ]
+  },
+  {
+   "fala": "A menina disse: cada tijolo dessa escola tem a mão dele. Eu aprendi a ler dentro das paredes que ele fez. Obrigada, vô.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "TIJOLO POR TIJOLO"
+   ],
+   "destaque": [
+    "Obrigada,",
+    "vô."
+   ]
+  },
+  {
+   "fala": "O seu Josias levantou da cadeira de plástico. Não conseguiu falar nada. As doze crianças desceram do palco e abraçaram ele. Uma por uma.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "palco",
+    "abraçaram"
+   ]
+  },
+  {
+   "fala": "Na volta, ele me mostrou as mãos. Disse: essas mãos levantaram cento e vinte casas na cidade. Mas a escola foi a única que eu fiz de graça. E a única que importa.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "única",
+    "importa."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando falta alguma coisa na sua comunidade, às vezes é você que tem que começar. Um tijolo por fim de semana.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONSTRÓI"
+   ],
+   "destaque": [
+    "fim",
+    "semana."
+   ]
+  },
+  {
+   "fala": "E se você sabe fazer alguma coisa, pensa em como ela pode servir à sua comunidade. Um tijolo já é começo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VÔ JOSIAS"
+   ],
+   "destaque": [
+    "já",
+    "começo."
+   ]
+  }
+ ]
+}

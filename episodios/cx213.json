@@ -1,0 +1,258 @@
+{
+ "id": "cx213",
+ "ep": 213,
+ "avulso": true,
+ "titulo": "O DENTISTA COM MEDO",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🦷 O passageiro era dentista. Estava indo ao dentista. E tremia mais que todos os pacientes dele juntos.\n\nVocê tem medo de dentista? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#dentista #humor #medo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🦷 O passageiro era dentista. Estava indo ao dentista. E tremia mais que todos os pacientes dele juntos. Você tem medo de dentista? 👇\nHistória de ficção.\n#dentista #humor #medo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve a maior ironia que eu já levei no banco de trás.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Quinta, seis da tarde. Entrou um homem de uns quarenta e cinco anos, camisa social, suando frio, apertando as mãos no colo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUINTA · 18H"
+   ],
+   "destaque": [
+    "mãos",
+    "colo."
+   ]
+  },
+  {
+   "fala": "Disse o endereço: um consultório odontológico. E respirou fundo três vezes. Eu perguntei: dor de dente? Ele: canal.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Consultório odontológico."
+   ],
+   "destaque": [
+    "dente?",
+    "canal."
+   ]
+  },
+  {
+   "fala": "E aí ele confessou. Era dentista. Doutor Alexandre. Vinte anos de profissão. Faz canal todo dia. E estava indo fazer um canal. Nele mesmo.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "DOUTOR ALEXANDRE, DENTISTA"
+   ],
+   "destaque": [
+    "Nele",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Disse: eu tenho pavor de dentista. Pavor. Por isso eu virei dentista. Achei que ia perder o medo. Não perdi.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu tenho pavor."
+   ],
+   "destaque": [
+    "medo.",
+    "perdi."
+   ]
+  },
+  {
+   "fala": "Contou que fazia vinte anos que não sentava na cadeira do outro lado. Que cuidava dos dentes sozinho, no espelho. Até que um dente começou a doer.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "começou",
+    "doer."
+   ]
+  },
+  {
+   "fala": "E o pior: eu sei exatamente o que vão fazer. Cada instrumento. Cada barulhinho. Eu sei o nome de tudo. Isso piora.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu sei exatamente o que vão fazer."
+   ],
+   "destaque": [
+    "Isso",
+    "piora."
+   ]
+  },
+  {
+   "fala": "Eu, que tenho medo de dentista também, fiquei com pena. Tentei ajudar: o senhor fala pros seus pacientes o quê, pra acalmar?",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "quê,",
+    "acalmar?"
+   ]
+  },
+  {
+   "fala": "Ele riu nervoso: eu falo que não vai doer. E que é rapidinho. Duas mentiras. Eu sei porque eu falo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Que não vai doer."
+   ],
+   "destaque": [
+    "porque",
+    "falo."
+   ]
+  },
+  {
+   "fala": "Chegamos no consultório. Ele não desceu. Ficou parado olhando a porta. Disse: dá uma volta no quarteirão? Eu dei.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quarteirão?",
+    "dei."
+   ]
+  },
+  {
+   "fala": "Duas voltas. Três. Na quarta, eu disse: doutor, o taxímetro tá correndo. Ele disse: vale cada centavo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "cada",
+    "centavo."
+   ]
+  },
+  {
+   "fala": "Na quinta volta, ele desceu. Mas pediu pra eu esperar. Pra levar ele de volta. Disse que não ia conseguir dirigir depois. Nem andar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A DENTISTA"
+   ],
+   "destaque": [
+    "Nem",
+    "andar."
+   ]
+  },
+  {
+   "fala": "Uma hora depois, ele saiu. Com a bochecha inchada. Andando torto. E um sorriso meio torto, por causa da anestesia.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "UMA HORA"
+   ],
+   "destaque": [
+    "causa",
+    "anestesia."
+   ]
+  },
+  {
+   "fala": "Ele entrou no carro e disse, com a boca dormente: fui corajoso. Ela me deu um adesivo. Igual eu dou pras crianças.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Fui corajoso."
+   ],
+   "destaque": [
+    "pras",
+    "crianças."
+   ]
+  },
+  {
+   "fala": "Ele mostrou. Um adesivo de dentinho sorrindo, colado na camisa: paciente corajoso. A dentista deu de brincadeira. Ele colou com orgulho.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O ADESIVO"
+   ],
+   "destaque": [
+    "colou",
+    "orgulho."
+   ]
+  },
+  {
+   "fala": "Contou que a dentista era a ex-aluna dele. Da faculdade. Que ela riu muito quando ele chegou tremendo. E segurou a mão dele no começo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "começo."
+   ]
+  },
+  {
+   "fala": "No caminho, ele ficou pensando. Disse: agora eu entendo os meus pacientes. Vinte anos e eu nunca tinha entendido de verdade.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Agora eu entendo."
+   ],
+   "destaque": [
+    "entendido",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "Disse que ia mudar o jeito de atender. Ia explicar mais. Esperar mais. Segurar a mão quando precisasse. E parar de dizer que não dói.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DO OUTRO LADO"
+   ],
+   "destaque": [
+    "dizer",
+    "dói."
+   ]
+  },
+  {
+   "fala": "Depois me mandou uma foto. O consultório dele com um pote de adesivos na recepção. E uma placa: aqui, até o dentista tem medo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tem",
+    "medo."
+   ]
+  },
+  {
+   "fala": "Eu fiquei rindo sozinho a noite toda. E marquei o meu dentista. Que eu adiava fazia dois anos. A Rosângela agradece ao doutor Alexandre.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "doutor",
+    "Alexandre."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a gente só entende o outro quando senta na cadeira dele.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SENTA DO OUTRO LADO"
+   ],
+   "destaque": [
+    "cadeira",
+    "dele."
+   ]
+  },
+  {
+   "fala": "E se você tá adiando o dentista, marca. Leva um adesivo. Até o dentista tem medo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PACIENTE CORAJOSO"
+   ],
+   "destaque": [
+    "tem",
+    "medo."
+   ]
+  }
+ ]
+}

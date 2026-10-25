@@ -1,0 +1,244 @@
+{
+ "id": "cx311",
+ "ep": 311,
+ "avulso": true,
+ "titulo": "O EXECUTIVO DE CHINELO",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "🩴 Diretor de multinacional. Salário alto, carro importado. Um dia, ele saiu da reunião e não voltou mais. Hoje ele vende água de coco.\n\nVocê trocaria dinheiro por tempo? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #trabalho #vida #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🩴 Diretor de multinacional. Salário alto, carro importado. Um dia, ele saiu da reunião e não voltou mais. Hoje ele vende água de coco. Você trocaria dinheiro por tempo? 👇\nHistória de ficção.\n#reflexao #trabalho #vida #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um homem de chinelo que já teve três assistentes.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "três",
+    "assistentes."
+   ]
+  },
+  {
+   "fala": "Segunda, nove da manhã. Peguei um senhor de uns cinquenta e cinco anos, bermuda, camiseta, chinelo. Com uma caixa de isopor e um facão de coco.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 9H"
+   ],
+   "destaque": [
+    "facão",
+    "coco."
+   ]
+  },
+  {
+   "fala": "Disse: me deixa na orla, perto do quiosque azul. Eu vendo coco lá. Abri o quiosque esse ano.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Me deixa na orla."
+   ],
+   "destaque": [
+    "esse",
+    "ano."
+   ]
+  },
+  {
+   "fala": "No caminho, o celular dele tocou. Ele olhou e desligou. Disse: era um ex-colega. Ainda me liga pra pedir conselho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pedir",
+    "conselho."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: conselho de quê? Ele riu: eu era diretor de uma multinacional. Vinte e cinco anos. Três assistentes. Vinte reuniões por semana.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Eu era diretor."
+   ],
+   "destaque": [
+    "reuniões",
+    "semana."
+   ]
+  },
+  {
+   "fala": "Seu Plínio. Ganhou muito dinheiro. Tinha carro importado, apartamento de cobertura. E nenhuma lembrança dos filhos pequenos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU PLÍNIO"
+   ],
+   "destaque": [
+    "filhos",
+    "pequenos."
+   ]
+  },
+  {
+   "fala": "Disse: eu perdi a infância deles. Inteira. Eu estava em reunião. Em avião. Em hotel. Quando eu olhei, a minha filha tinha vinte anos.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu perdi a infância deles."
+   ],
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Contou do dia em que tudo mudou. Estava numa reunião de doze horas. A filha ligou cinco vezes. Ele não atendeu. Achou que era bobagem.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "era",
+    "bobagem."
+   ]
+  },
+  {
+   "fala": "Era a formatura dela. Ele tinha esquecido. Ela se formou com a cadeira dele vazia. Do lado da mãe.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A LIGAÇÃO"
+   ],
+   "destaque": [
+    "lado",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "Ele saiu da reunião, viu as ligações. E disse que sentiu um frio que nunca tinha sentido. Ficou parado no corredor da empresa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "corredor",
+    "empresa."
+   ]
+  },
+  {
+   "fala": "E disse: eu desci pra pegar um café. E nunca mais voltei. Mandei a carta de demissão por e-mail no dia seguinte.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu nunca mais voltei."
+   ],
+   "destaque": [
+    "dia",
+    "seguinte."
+   ]
+  },
+  {
+   "fala": "A família achou que ele tinha enlouquecido. Os colegas também. Disseram que era crise da idade. Que ia passar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "passar."
+   ]
+  },
+  {
+   "fala": "Chegamos no quiosque azul. Pequeno, simples, com uma placa pintada à mão. E uma moça de uns vinte e cinco anos abrindo as portas.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "abrindo",
+    "portas."
+   ]
+  },
+  {
+   "fala": "Ele disse: aquela ali é a minha sócia. A minha filha. A da formatura. Ela largou o escritório também. Hoje a gente vende coco juntos.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A SÓCIA"
+   ],
+   "destaque": [
+    "coco",
+    "juntos."
+   ]
+  },
+  {
+   "fala": "Riu: ela é a chefe. Eu sou o funcionário. Ela que manda. Eu abro o coco e ouço reclamação. Igual eu fazia com ela.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela é a chefe."
+   ],
+   "destaque": [
+    "Igual",
+    "fazia"
+   ]
+  },
+  {
+   "fala": "Eu perguntei se ele se arrependia. Ele pensou. E disse: eu me arrependo de ter demorado vinte e cinco anos pra pegar aquele café.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "aquele",
+    "café."
+   ]
+  },
+  {
+   "fala": "Disse: eu ganho dez vezes menos. Mas almoço com a minha filha todo dia. Vejo o pôr do sol todo dia. Conheço o nome dos meus clientes.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ganho dez vezes menos."
+   ],
+   "destaque": [
+    "meus",
+    "clientes."
+   ]
+  },
+  {
+   "fala": "E disse: diretor eu fui vinte e cinco anos. Pai, de verdade, eu estou sendo agora. Antes tarde.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O PÔR DO SOL"
+   ],
+   "destaque": [
+    "Antes",
+    "tarde."
+   ]
+  },
+  {
+   "fala": "Antes de eu ir embora, a filha veio no carro e me deu um coco. Disse: do pai. Ele gosta de dar coco pros motoristas. Diz que todo mundo precisa de uma pausa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "precisa",
+    "pausa."
+   ]
+  },
+  {
+   "fala": "Moral da história: não precisa largar tudo. Mas repara no que você está perdendo enquanto está em reunião.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "O QUE VOCÊ PERDE"
+   ],
+   "destaque": [
+    "está",
+    "reunião."
+   ]
+  },
+  {
+   "fala": "E hoje, se alguém que você ama ligar, atende. A reunião pode esperar cinco minutos. A vida, às vezes, não.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ATENDE A LIGAÇÃO"
+   ],
+   "destaque": [
+    "às",
+    "vezes,"
+   ]
+  }
+ ]
+}

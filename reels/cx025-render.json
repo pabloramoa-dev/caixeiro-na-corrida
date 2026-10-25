@@ -1,0 +1,18 @@
+{
+  "motor": "hyperframes",
+  "versao": "caixeiro-hyperframes-1",
+  "fotos": 0,
+  "duracao": 157.201,
+  "resolucao": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "voz": "kokoro pm_alex",
+  "audio": "ffmpeg",
+  "sfx": 100,
+  "visual": "v4",
+  "lip": "rhubarb",
+  "cenario": "dia",
+  "batidas": 26
+}

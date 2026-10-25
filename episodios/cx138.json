@@ -1,0 +1,255 @@
+{
+ "id": "cx138",
+ "ep": 138,
+ "avulso": true,
+ "titulo": "A BAILARINA DE CINQUENTA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🩰 Ela largou o balé aos 17 pra trabalhar. Aos 52, voltou. Hoje era a primeira apresentação dela. A filha ia dançar no mesmo palco.\n\nQue sonho de adolescência você ainda pode realizar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bale #superacao #mae #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🩰 Ela largou o balé aos 17 pra trabalhar. Aos 52, voltou. Hoje era a primeira apresentação dela. A filha ia dançar no mesmo palco. Que sonho de adolescência você ainda pode realizar? 👇\nHistória de ficção.\n#bale #superacao #mae #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma bailarina que esperou trinta e cinco anos pela própria estreia.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "própria",
+    "estreia."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da tarde. Entrou uma mulher de cinquenta e dois anos, coque perfeito, bolsa com sapatilha e um nervosismo de menina.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 18H"
+   ],
+   "destaque": [
+    "nervosismo",
+    "menina."
+   ]
+  },
+  {
+   "fala": "Disse: hoje eu estreio, moço. Primeira apresentação de balé da minha vida. Aos cinquenta e dois.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje eu estreio."
+   ],
+   "destaque": [
+    "cinquenta",
+    "dois."
+   ]
+  },
+  {
+   "fala": "Dona Marlene. Fez balé dos seis aos dezessete. Era boa. A professora dizia que ela podia ir longe.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "LARGOU AOS DEZESSETE"
+   ],
+   "destaque": [
+    "ir",
+    "longe."
+   ]
+  },
+  {
+   "fala": "Mas aos dezessete, o pai ficou desempregado. Ela largou o balé e foi trabalhar numa loja. Nunca mais voltou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai ficou desempregado."
+   ],
+   "destaque": [
+    "mais",
+    "voltou."
+   ]
+  },
+  {
+   "fala": "Casou, teve uma filha. Colocou a filha no balé aos cinco anos. Ia em toda aula. Ficava na janela da sala olhando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sala",
+    "olhando."
+   ]
+  },
+  {
+   "fala": "Riu: eu fazia os passos no corredor, enquanto esperava. Escondida. Achando que ninguém via.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu fazia os passos no corredor."
+   ],
+   "destaque": [
+    "ninguém",
+    "via."
+   ]
+  },
+  {
+   "fala": "Mas a professora da filha viu. Um dia chamou ela pra dentro e disse: a senhora tem postura de bailarina. Por que não volta?",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A PROFESSORA VIU"
+   ],
+   "destaque": [
+    "bailarina.",
+    "volta?"
+   ]
+  },
+  {
+   "fala": "Ela riu. Achou que era brincadeira. Mas a professora insistiu. Abriu uma turma de adultos. Ela foi a primeira a se matricular.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "matricular."
+   ]
+  },
+  {
+   "fala": "Três anos de aula. Disse: meu joelho reclama, meu pé dói, eu sou a mais velha da turma. Mas quando a música começa, eu tenho dezessete anos de novo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu joelho reclama."
+   ],
+   "destaque": [
+    "anos",
+    "novo."
+   ]
+  },
+  {
+   "fala": "Chegamos num teatro municipal pequeno, antigo. Cartaz na porta: espetáculo de fim de ano da escola de dança. Fila de famílias.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Fila",
+    "famílias."
+   ]
+  },
+  {
+   "fala": "Ela me deu um ingresso. Disse que tinha sobrado um, que o marido estava viajando. Eu entrei. Primeira vez num espetáculo de balé.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "espetáculo",
+    "balé."
+   ]
+  },
+  {
+   "fala": "Turmas de criança, de adolescente. A filha dela, de dezenove anos, dançou um solo lindo. E aí anunciaram: turma adulta.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "O ESPETÁCULO"
+   ],
+   "destaque": [
+    "turma",
+    "adulta."
+   ]
+  },
+  {
+   "fala": "Entraram oito mulheres. De quarenta a sessenta anos. De tutu branco. E no centro, a dona Marlene.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "dona",
+    "Marlene."
+   ]
+  },
+  {
+   "fala": "A música começou. E ela dançou. Não perfeita, não igual às meninas. Mas com uma alegria que eu nunca vi no rosto de ninguém.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A ESTREIA"
+   ],
+   "destaque": [
+    "rosto",
+    "ninguém."
+   ]
+  },
+  {
+   "fala": "Em certo momento, o roteiro mudou. A filha dela entrou no palco. De surpresa. Ninguém tinha avisado a mãe.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "avisado",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "A filha dançou com ela. Um dueto. A professora tinha ensaiado escondido com a menina. Mãe e filha no palco, segurando a mão uma da outra.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "MÃE E FILHA"
+   ],
+   "destaque": [
+    "mão",
+    "outra."
+   ]
+  },
+  {
+   "fala": "A plateia inteira levantou. A dona Marlene chorava dançando. A filha também. E eu, na sexta fila, com um ingresso de cortesia.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "TRINTA E CINCO ANOS"
+   ],
+   "destaque": [
+    "ingresso",
+    "cortesia."
+   ]
+  },
+  {
+   "fala": "No final, a professora subiu no palco e disse: essa mulher esperou trinta e cinco anos por esse momento. Ela nunca deixou de ser bailarina.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ser",
+    "bailarina."
+   ]
+  },
+  {
+   "fala": "Na volta, ela foi com a sapatilha no colo e os pés doendo. Disse: amanhã eu não ando. Mas valeu cada passo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "cada",
+    "passo."
+   ]
+  },
+  {
+   "fala": "Moral da história: o sonho que a gente larga não vai embora. Ele fica esperando no corredor.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA PRO PALCO"
+   ],
+   "destaque": [
+    "esperando",
+    "corredor."
+   ]
+  },
+  {
+   "fala": "E se você largou alguma coisa que amava, volta. Nem que seja pra ser a mais velha da turma.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DONA MARLENE"
+   ],
+   "destaque": [
+    "velha",
+    "turma."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "id": "cx209",
+ "ep": 209,
+ "avulso": true,
+ "titulo": "O SENHOR DAS PIPAS",
+ "categoria": "curiosa",
+ "cenario": "noite",
+ "legenda_post": "🪁 Ele faz pipas gigantes há 50 anos. No festival da cidade, soltou uma de 12 metros. Com uma mensagem pro filho que não vê há 10 anos.\n\nVocê soltava pipa quando era criança? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#pipa #curiosidades #pai #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🪁 Ele faz pipas gigantes há 50 anos. No festival da cidade, soltou uma de 12 metros. Com uma mensagem pro filho que não vê há 10 anos. Você soltava pipa quando era criança? 👇\nHistória de ficção.\n#pipa #curiosidades #pai #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma pipa maior que o meu carro. Com um recado lá dentro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "lá",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Domingo, sete da manhã. Recebi uma corrida estranha. Pedido: carro com bagageiro grande. Eu tenho bagageiro de teto. Fui.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 7H"
+   ],
+   "destaque": [
+    "teto.",
+    "Fui."
+   ]
+  },
+  {
+   "fala": "Cheguei numa casa simples. Na calçada, um senhor de setenta anos e um embrulho enorme de tecido colorido, dobrado, amarrado com corda.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "amarrado",
+    "corda."
+   ]
+  },
+  {
+   "fala": "Disse: é uma pipa. Doze metros. Vai pro festival de pipas no aterro. Eu olhei o embrulho. Olhei o meu teto. Disse: amarra bem.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É uma pipa."
+   ],
+   "destaque": [
+    "amarra",
+    "bem."
+   ]
+  },
+  {
+   "fala": "Seu Orlando. Faz pipa desde os oito anos. Hoje faz pipa gigante. Já ganhou o festival da cidade nove vezes. A pipa dele é famosa.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU ORLANDO, PIPEIRO"
+   ],
+   "destaque": [
+    "dele",
+    "famosa."
+   ]
+  },
+  {
+   "fala": "No caminho, ele contou que cada pipa leva três meses pra fazer. Varetas de bambu, tecido de nylon, linha de náilon grossa. Precisa de quatro homens pra segurar.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "homens",
+    "segurar."
+   ]
+  },
+  {
+   "fala": "Mas essa pipa era diferente. Ele disse que não era pra ganhar o festival. Era pra mandar uma mensagem.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mandar",
+    "mensagem."
+   ]
+  },
+  {
+   "fala": "Perguntei: que mensagem? Ele ficou quieto um tempo. Depois disse: pro meu filho.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Que mensagem?"
+   ],
+   "destaque": [
+    "meu",
+    "filho."
+   ]
+  },
+  {
+   "fala": "O filho dele, o Daniel, aprendeu a fazer pipa com ele. Mas brigaram feio há dez anos. O filho foi morar em outra cidade. Não se falam desde então.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O FILHO"
+   ],
+   "destaque": [
+    "desde",
+    "então."
+   ]
+  },
+  {
+   "fala": "Disse: eu soube que ele vem pro festival esse ano. Com o filho dele. O meu neto, que eu nunca conheci.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele ficou sabendo do festival."
+   ],
+   "destaque": [
+    "nunca",
+    "conheci."
+   ]
+  },
+  {
+   "fala": "E ele fez uma pipa. A maior da vida dele. Com uma mensagem pintada à mão. Que só ia aparecer quando a pipa subisse.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pipa",
+    "subisse."
+   ]
+  },
+  {
+   "fala": "Chegamos no aterro. Céu azul, vento forte, centenas de pipas coloridas no ar. Milhares de pessoas. Barraca, música, criança correndo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "criança",
+    "correndo."
+   ]
+  },
+  {
+   "fala": "Os quatro ajudantes dele estavam esperando. Abriram a pipa no chão. Doze metros de tecido. Eu não conseguia ver a mensagem. Estava dobrada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Estava",
+    "dobrada."
+   ]
+  },
+  {
+   "fala": "Quando chegou a vez dele, os quatro seguraram a linha. O vento pegou. E a pipa subiu. Devagar. Enorme. Fazendo sombra no chão.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "A SUBIDA"
+   ],
+   "destaque": [
+    "sombra",
+    "chão."
+   ]
+  },
+  {
+   "fala": "E lá em cima, abriu. Escrito em letra enorme, no meio de um desenho de duas pipas lado a lado: Daniel, me perdoa. Pai.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A MENSAGEM NO CÉU"
+   ],
+   "destaque": [
+    "perdoa.",
+    "Pai."
+   ]
+  },
+  {
+   "fala": "O aterro inteiro olhou pra cima. Milhares de pessoas lendo. O locutor do festival leu no microfone. Um silêncio enorme.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "silêncio",
+    "enorme."
+   ]
+  },
+  {
+   "fala": "E aí, no meio da multidão, um homem de uns quarenta anos parou. Com um menino de uns oito anos do lado. Olhando pro céu.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "céu."
+   ]
+  },
+  {
+   "fala": "Ele atravessou o aterro. Devagar. Até o seu Orlando. Que estava segurando a linha com os ajudantes. E parou do lado dele.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O FILHO VEIO"
+   ],
+   "destaque": [
+    "lado",
+    "dele."
+   ]
+  },
+  {
+   "fala": "O Daniel não disse nada. Pegou a linha da pipa. Segurou junto com o pai. Do jeito que aprendeu aos oito anos.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SEGURA COMIGO"
+   ],
+   "destaque": [
+    "oito",
+    "anos."
+   ]
+  },
+  {
+   "fala": "O menino, o neto, olhando os dois sem entender. O seu Orlando abaixou e disse pra ele: quer segurar também? E os três seguraram juntos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "seguraram",
+    "juntos."
+   ]
+  },
+  {
+   "fala": "A pipa não ganhou o festival. Ficou em terceiro. O seu Orlando disse que foi a maior vitória da vida dele. E o Daniel voltou de carro com o pai. No meu carro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes o orgulho é grande demais pra falar. Aí a gente escreve no céu.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PEDE PERDÃO"
+   ],
+   "destaque": [
+    "escreve",
+    "céu."
+   ]
+  },
+  {
+   "fala": "E se você tem alguém pra pedir perdão, não precisa de doze metros. Uma mensagem já voa.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DUAS PIPAS"
+   ],
+   "destaque": [
+    "já",
+    "voa."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,263 @@
+{
+ "id": "cx149",
+ "ep": 149,
+ "avulso": true,
+ "titulo": "AS PEGADAS NO CIMENTO",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "👣 Na calçada de uma rua antiga, tem pegadas de criança no cimento, de 1985. Um homem pediu pra procurar. Eram dele. E tinha mais uma do lado.\n\nTem alguma marca da sua infância que ainda existe? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#infancia #pai #saudade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👣 Na calçada de uma rua antiga, tem pegadas de criança no cimento, de 1985. Um homem pediu pra procurar. Eram dele. E tinha mais uma do lado. Tem alguma marca da sua infância que ainda existe? 👇\nHistória de ficção.\n#infancia #pai #saudade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida procurou duas pegadas numa calçada de quarenta anos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Domingo, nove da manhã. Entrou um homem de uns quarenta e cinco anos com uma foto antiga na mão. Preta e branca. Um menino pequeno sentado numa calçada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 9H"
+   ],
+   "destaque": [
+    "numa",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Disse: quero achar uma calçada. Eu perguntei: qual? Ele riu: é aí que tá. Eu não sei qual.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Quero achar uma calçada."
+   ],
+   "destaque": [
+    "sei",
+    "qual."
+   ]
+  },
+  {
+   "fala": "Chama-se Mauro. A foto era de mil novecentos e oitenta e cinco. Ele tinha quatro anos. Sentado ao lado de uma calçada de cimento fresco. Com o pé sujo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A FOTO DE 1985"
+   ],
+   "destaque": [
+    "pé",
+    "sujo."
+   ]
+  },
+  {
+   "fala": "Contou: meu pai era pedreiro. Ele fazia calçada pra prefeitura. Num dia, me levou junto. E deixou eu pisar no cimento fresco.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai era pedreiro."
+   ],
+   "destaque": [
+    "cimento",
+    "fresco."
+   ]
+  },
+  {
+   "fala": "O pai faleceu quando ele tinha nove anos. Ele só lembrava disso: do pé afundando no cimento e o pai rindo. E da foto.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "rindo.",
+    "foto."
+   ]
+  },
+  {
+   "fala": "Mudou de cidade com a mãe. Nunca mais voltou. E agora, quarenta anos depois, tinha decidido procurar a calçada.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "procurar",
+    "calçada."
+   ]
+  },
+  {
+   "fala": "Na foto, dava pra ver o fundo. Um muro com uma propaganda pintada de refrigerante. E a ponta de uma igreja com uma torre fina.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "AS PISTAS"
+   ],
+   "destaque": [
+    "torre",
+    "fina."
+   ]
+  },
+  {
+   "fala": "Rodamos. Igreja de torre fina, eu conhecia três na cidade. Fomos na primeira. Nada. Na segunda, nada. Ele foi ficando desanimado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ficando",
+    "desanimado."
+   ]
+  },
+  {
+   "fala": "Na terceira, num bairro antigo, eu parei. A torre era igual. Mas o muro da propaganda não existia mais. Virou um prédio.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Virou",
+    "prédio."
+   ]
+  },
+  {
+   "fala": "Ele desceu. Andou pela calçada, olhando pro chão. Uma rua inteira. Calçada velha, rachada, remendada. Eu desci junto.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "desci",
+    "junto."
+   ]
+  },
+  {
+   "fala": "E aí, perto de um poste, meio cobertas de folha seca, eu vi. Duas pegadinhas pequenas. Afundadas no cimento. E uma data riscada: oitenta e cinco.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "AS PEGADAS"
+   ],
+   "destaque": [
+    "oitenta",
+    "cinco."
+   ]
+  },
+  {
+   "fala": "Eu chamei. Ele veio correndo. Se ajoelhou. Tirou as folhas com a mão. E colocou o dedo dentro de uma das pegadinhas.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "das",
+    "pegadinhas."
+   ]
+  },
+  {
+   "fala": "Ficou um tempão ali, de joelho, na calçada. Um homem de quarenta e cinco anos com o dedo dentro do próprio pé de quatro anos.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "quatro",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Aí ele limpou mais folha do lado. E apareceu outra. Uma pegada grande. De bota. Do lado das pequenas. Ele não sabia que estava ali.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "MAIS UMA PEGADA"
+   ],
+   "destaque": [
+    "estava",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Ele disse, com a voz quebrando: é a bota do meu pai. Ele pisou junto comigo. Eu não lembrava disso.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "É a bota do meu pai."
+   ],
+   "destaque": [
+    "lembrava",
+    "disso."
+   ]
+  },
+  {
+   "fala": "Uma pegada grande e duas pequenas. Lado a lado. Há quarenta anos. Esperando no meio das folhas.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O PÉ DO PAI"
+   ],
+   "destaque": [
+    "das",
+    "folhas."
+   ]
+  },
+  {
+   "fala": "Uma senhora saiu de uma casa e perguntou o que estava acontecendo. Ele mostrou a foto. Ela disse: ah, as pegadinhas! Eu varro em volta delas há trinta anos. Nunca deixei ninguém cobrir.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ninguém",
+    "cobrir."
+   ]
+  },
+  {
+   "fala": "Ela riu: eu achava que era pegada de anjo. Porque apareceu do nada, com uma pegada de homem do lado, guiando.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu achava que era de anjo."
+   ],
+   "destaque": [
+    "lado,",
+    "guiando."
+   ]
+  },
+  {
+   "fala": "Ele tirou uma foto. Do mesmo ângulo da foto antiga. Ele adulto sentado do lado, com o pé ao lado da bota do pai.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "bota",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Na volta, ele colocou as duas fotos lado a lado no celular. Oitenta e cinco e hoje. Disse que ia levar o filho dele lá. Pra pisar do lado.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "pisar",
+    "lado."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem marcas que a gente deixa sem saber. E alguém cuida delas sem saber de quem são.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEIXA MARCA"
+   ],
+   "destaque": [
+    "quem",
+    "são."
+   ]
+  },
+  {
+   "fala": "E se você tem uma marca da infância em algum lugar, vai visitar. Ela pode estar te esperando debaixo das folhas.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PEGADAS DE 1985"
+   ],
+   "destaque": [
+    "das",
+    "folhas."
+   ]
+  }
+ ]
+}

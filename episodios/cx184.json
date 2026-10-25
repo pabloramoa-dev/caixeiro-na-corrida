@@ -1,0 +1,267 @@
+{
+ "id": "cx184",
+ "ep": 184,
+ "avulso": true,
+ "titulo": "A MARMITA DESENHADA",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "🍱 Todo dia, por 12 anos, o pai desenhava algo na tampa da marmita do filho. Hoje, o pai tem 80 e o filho faz as marmitas dele. Com desenho.\n\nQue gesto pequeno do seu pai ou mãe você nunca esqueceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#pai #marmita #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🍱 Todo dia, por 12 anos, o pai desenhava algo na tampa da marmita do filho. Hoje, o pai tem 80 e o filho faz as marmitas dele. Com desenho. Que gesto pequeno do seu pai ou mãe você nunca esqueceu? 👇\nHistória de ficção.\n#pai #marmita #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma marmita com um desenho mais bonito que muito quadro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "muito",
+    "quadro."
+   ]
+  },
+  {
+   "fala": "Segunda, onze da manhã. Entrou um homem de uns quarenta anos com uma marmita de alumínio na mão, embrulhada num pano de prato xadrez.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 11H"
+   ],
+   "destaque": [
+    "prato",
+    "xadrez."
+   ]
+  },
+  {
+   "fala": "Disse: levo almoço pro meu pai, todo dia. Ele mora sozinho. Não gosta de cozinhar. Eu perguntei: e o senhor cozinha? Ele: cozinho mal. Mas desenho bem.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Levo almoço pro meu pai."
+   ],
+   "destaque": [
+    "desenho",
+    "bem."
+   ]
+  },
+  {
+   "fala": "Me mostrou a tampa da marmita. Tinha um desenho feito com caneta de tecido. Um passarinho num galho. Lindo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A TAMPA DESENHADA"
+   ],
+   "destaque": [
+    "galho.",
+    "Lindo."
+   ]
+  },
+  {
+   "fala": "Chama-se Rafael. Disse: o meu pai fazia isso pra mim. Todo dia, durante doze anos. Da primeira série até o terceiro ano.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele fazia isso pra mim."
+   ],
+   "destaque": [
+    "terceiro",
+    "ano."
+   ]
+  },
+  {
+   "fala": "O pai, seu Gerson, era motorista de caminhão. Saía às quatro da manhã. Mas antes, fazia a marmita do filho e desenhava algo na tampa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "algo",
+    "tampa."
+   ]
+  },
+  {
+   "fala": "Um dia um cachorro. Outro dia um foguete. Outro dia o time do coração. Outro dia uma frase: boa prova, campeão.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cada dia um desenho."
+   ],
+   "destaque": [
+    "prova,",
+    "campeão."
+   ]
+  },
+  {
+   "fala": "Disse que tinha vergonha na escola. Os colegas tiravam sarro. Ele escondia a tampa debaixo da mesa. Nunca contou isso pro pai.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pro",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Disse: eu nunca agradeci. Achava normal. Só fui entender quando tive o meu filho e vi o trabalho que é acordar às quatro.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca agradeci."
+   ],
+   "destaque": [
+    "às",
+    "quatro."
+   ]
+  },
+  {
+   "fala": "Quando o pai ficou viúvo, há três anos, parou de comer direito. Emagreceu. E o Rafael começou a levar almoço todo dia. Com desenho na tampa.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A INVERSÃO"
+   ],
+   "destaque": [
+    "desenho",
+    "tampa."
+   ]
+  },
+  {
+   "fala": "Riu: ele ri todo dia quando abre. Disse que eu desenho melhor que ele. Mentira. Ele desenhava melhor.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele ri todo dia."
+   ],
+   "destaque": [
+    "desenhava",
+    "melhor."
+   ]
+  },
+  {
+   "fala": "Chegamos na casa do pai. Uma casa simples. O seu Gerson, oitenta anos, sentado na varanda, esperando. Igual criança esperando o recreio.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "esperando",
+    "recreio."
+   ]
+  },
+  {
+   "fala": "O Rafael pediu pra eu esperar, ia ser rápido. Desceu. Entregou a marmita. O pai olhou a tampa primeiro, antes de abrir a comida.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "abrir",
+    "comida."
+   ]
+  },
+  {
+   "fala": "Riu. Disse: passarinho de novo? Você não sabe desenhar outra coisa? O filho: amanhã eu faço um caminhão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "faço",
+    "caminhão."
+   ]
+  },
+  {
+   "fala": "Aí o pai disse: espera aí, filho. Entrou em casa. E voltou com uma caixa de papelão. Pesada. Velha.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Espera aí."
+   ],
+   "destaque": [
+    "Pesada.",
+    "Velha."
+   ]
+  },
+  {
+   "fala": "Abriu. Dentro, tampas de marmita. Dezenas. Centenas. De alumínio, de plástico. Todas desenhadas. As tampas da infância do Rafael.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "AS TAMPAS GUARDADAS"
+   ],
+   "destaque": [
+    "infância",
+    "Rafael."
+   ]
+  },
+  {
+   "fala": "O pai disse: eu guardei todas. A mãe lavava a marmita e eu pegava a tampa e guardava. Eu achava que um dia você ia querer.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ia",
+    "querer."
+   ]
+  },
+  {
+   "fala": "Doze anos de tampas. Passarinho, foguete, cachorro, time, boa prova, feliz aniversário. Todas com a data escrita atrás, na letra do pai.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "DOZE ANOS DE TAMPAS"
+   ],
+   "destaque": [
+    "letra",
+    "pai."
+   ]
+  },
+  {
+   "fala": "O Rafael sentou no degrau da varanda e foi pegando uma por uma. Achou uma: primeiro dia de aula. Dois mil e dois. Um sol sorrindo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "sol",
+    "sorrindo."
+   ]
+  },
+  {
+   "fala": "E aí ele disse. Depois de trinta e tantos anos. Obrigado, pai. Por todas as tampas. O pai disse: eu que agradeço. Agora é você que desenha pra mim.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "OBRIGADO, PAI"
+   ],
+   "destaque": [
+    "desenha",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Na volta, o Rafael me mostrou uma tampa que o pai deixou ele levar. Um caminhão e um menino, de mão dada. Disse que vai mostrar pro filho dele.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "filho",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Moral da história: os pais fazem mil coisas pequenas que a gente só entende quando vira pai. Agradece enquanto dá.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AGRADECE O GESTO"
+   ],
+   "destaque": [
+    "enquanto",
+    "dá."
+   ]
+  },
+  {
+   "fala": "E se você tem uma lembrança assim do seu pai ou mãe, liga hoje. Diz obrigado. Pela tampa, pela marmita, por tudo.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TAMPA DESENHADA"
+   ],
+   "destaque": [
+    "marmita,",
+    "tudo."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "id": "cx294",
+ "ep": 294,
+ "avulso": true,
+ "titulo": "A CADEIRA DE RODAS DO TOBIAS",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🐕 O cachorro dela perdeu os movimentos das patas de trás. Ela, de 11 anos, construiu uma cadeirinha de rodas com cano de PVC. Hoje ele corre no parque.\n\nVocê já viu um bicho superar algo difícil? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#cachorro #superacao #criatividade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🐕 O cachorro dela perdeu os movimentos das patas de trás. Ela, de 11 anos, construiu uma cadeirinha de rodas com cano de PVC. Hoje ele corre no parque. Você já viu um bicho superar algo difícil? 👇\nHistória de ficção.\n#cachorro #superacao #criatividade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o cachorro mais rápido do parque. Sobre rodas.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "Sobre",
+    "rodas."
+   ]
+  },
+  {
+   "fala": "Domingo, quatro da tarde. Entraram uma menina de onze anos, a mãe, e um cachorro salsicha com uma cadeirinha de rodas presa nas patas de trás. Feita de cano branco.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 16H"
+   ],
+   "destaque": [
+    "cano",
+    "branco."
+   ]
+  },
+  {
+   "fala": "A menina apresentou: esse é o Tobias. Ele tem rodas. Eu que fiz. O Tobias abanou o rabo e me lambeu a mão.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Esse é o Tobias."
+   ],
+   "destaque": [
+    "lambeu",
+    "mão."
+   ]
+  },
+  {
+   "fala": "O Tobias tinha oito anos. Seis meses antes, teve um problema na coluna. Perdeu o movimento das patas de trás. O veterinário disse que ele não ia voltar a andar.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O TOBIAS"
+   ],
+   "destaque": [
+    "voltar",
+    "andar."
+   ]
+  },
+  {
+   "fala": "A mãe disse baixinho: alguns disseram pra sacrificar. Que ele ia sofrer. Que ia ser difícil cuidar.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Disseram pra sacrificar."
+   ],
+   "destaque": [
+    "difícil",
+    "cuidar."
+   ]
+  },
+  {
+   "fala": "A menina, a Júlia, ouviu. E chorou a noite inteira. No dia seguinte, foi pesquisar na internet. Cadeira de rodas pra cachorro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "rodas",
+    "cachorro."
+   ]
+  },
+  {
+   "fala": "As de loja eram caras. Muito caras. Então ela decidiu fazer. Com cano de PVC que o avô tinha na garagem. Rodinha de carrinho de supermercado. E uma tira de mochila velha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "mochila",
+    "velha."
+   ]
+  },
+  {
+   "fala": "Ela riu: eu errei umas dez vezes. A primeira ficou alta demais. Ele andava de nariz no chão. A segunda virava. A terceira caiu uma roda.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Errei umas dez vezes."
+   ],
+   "destaque": [
+    "caiu",
+    "roda."
+   ]
+  },
+  {
+   "fala": "O avô ajudou com a serra. O pai ajudou com a cola. Mas o projeto era dela. Desenhado no caderno de matemática.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "caderno",
+    "matemática."
+   ]
+  },
+  {
+   "fala": "Na décima primeira tentativa, deu certo. O Tobias ficou de pé. Com as patas da frente no chão e as de trás apoiadas na cadeirinha. E andou.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A PRIMEIRA VEZ"
+   ],
+   "destaque": [
+    "cadeirinha.",
+    "andou."
+   ]
+  },
+  {
+   "fala": "A mãe contou: ele andou três passos. Depois correu. Pelo quintal. Latindo. Abanando o rabo. A Júlia gritando. A família inteira chorando.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "inteira",
+    "chorando."
+   ]
+  },
+  {
+   "fala": "Estavam indo no parque. Pra um encontro de cachorros com deficiência. Organizado por uma ONG. A Júlia ia mostrar a cadeira dela.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "cadeira",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Eu levei e fiquei pra ver. Domingo à tarde, parque cheio, uns vinte cachorros de cadeira de rodas, de prótese, cegos, sem pata. Correndo, brincando.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Correndo,",
+    "brincando."
+   ]
+  },
+  {
+   "fala": "O Tobias desceu do carro e saiu correndo. Rápido. As rodinhas de supermercado fazendo barulho no caminho de pedra. Os outros cachorros indo atrás.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O TOBIAS CORREU"
+   ],
+   "destaque": [
+    "indo",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "Os donos dos outros cachorros perguntaram onde ela comprou a cadeira. Ela disse: eu fiz. Com cano. Ninguém acreditou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Ninguém",
+    "acreditou."
+   ]
+  },
+  {
+   "fala": "E aí começou. Uma fila. De donos pedindo pra ela fazer uma pra eles. Uma senhora disse: eu não tenho dinheiro pra comprar. O meu cachorro fica deitado o dia inteiro.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FILA DE PEDIDOS"
+   ],
+   "destaque": [
+    "dia",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "A Júlia pegou o caderno de matemática e começou a anotar. Nome, tamanho, raça. Disse: eu faço. De graça. Só preciso de cano.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A OFICINA DA JÚLIA"
+   ],
+   "destaque": [
+    "preciso",
+    "cano."
+   ]
+  },
+  {
+   "fala": "O avô dela, que estava junto, disse: e eu ajudo com a serra. Já tô aposentado mesmo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "aposentado",
+    "mesmo."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, a mãe me mandou uma foto. A garagem do avô virou oficina. Trinta cadeirinhas feitas. Trinta cachorros correndo de novo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "correndo",
+    "novo."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando disseram que não tinha jeito, uma menina de onze anos achou o jeito. Com cano e amor.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "NÃO DESISTE DO AMIGO"
+   ],
+   "destaque": [
+    "cano",
+    "amor."
+   ]
+  },
+  {
+   "fala": "E se o seu bicho envelheceu ou ficou doente, não desiste dele. Sempre tem um jeito. Às vezes ele tá no caderno de uma criança.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "TOBIAS SOBRE RODAS"
+   ],
+   "destaque": [
+    "caderno",
+    "criança."
+   ]
+  }
+ ]
+}

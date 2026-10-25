@@ -1,0 +1,255 @@
+{
+ "id": "cx221",
+ "ep": 221,
+ "avulso": true,
+ "titulo": "O VOO PERDIDO",
+ "categoria": "reflexao",
+ "cenario": "noite",
+ "legenda_post": "✈️ Ele perdeu o voo da entrevista de emprego da vida dele. Ficou desesperado no meu carro. Três horas depois, entendeu por que perdeu.\n\nVocê já perdeu algo que, depois, entendeu que foi melhor assim? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #destino #recomeco #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "✈️ Ele perdeu o voo da entrevista de emprego da vida dele. Ficou desesperado no meu carro. Três horas depois, entendeu por que perdeu. Você já perdeu algo que, depois, entendeu que foi melhor assim? 👇\nHistória de ficção.\n#reflexao #destino #recomeco #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida começou com um homem desesperado e terminou com um homem diferente.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "homem",
+    "diferente."
+   ]
+  },
+  {
+   "fala": "Segunda, cinco da manhã. Entrou um rapaz de uns trinta anos, terno, gravata, mala de mão, falando sem parar no celular. Atrasado.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 5H"
+   ],
+   "destaque": [
+    "celular.",
+    "Atrasado."
+   ]
+  },
+  {
+   "fala": "Disse: aeroporto, voando, por favor! Meu voo sai às seis! Entrevista de emprego às dez, em outra cidade. A mais importante da minha vida.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Aeroporto, voando!"
+   ],
+   "destaque": [
+    "minha",
+    "vida."
+   ]
+  },
+  {
+   "fala": "Chama-se Thiago. Engenheiro. Dois anos mandando currículo. E finalmente uma entrevista numa empresa grande, em outro estado. Salário três vezes maior.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A VAGA DOS SONHOS"
+   ],
+   "destaque": [
+    "vezes",
+    "maior."
+   ]
+  },
+  {
+   "fala": "Eu fui. O mais rápido possível dentro da lei. Mas tinha acidente na avenida. Tudo travado. Os minutos passando.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "minutos",
+    "passando."
+   ]
+  },
+  {
+   "fala": "Chegamos no aeroporto às cinco e cinquenta e oito. Ele correu pro portão. Voltou cinco minutos depois. Pálido. O portão tinha fechado.",
+   "expr": "triste",
+   "arte": [
+    "relogio",
+    "5H58"
+   ],
+   "destaque": [
+    "tinha",
+    "fechado."
+   ]
+  },
+  {
+   "fala": "Ele sentou no meio-fio do aeroporto. De terno. Com a mala no colo. E chorou. Eu desliguei o carro e sentei do lado dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "lado",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Disse: eu perdi tudo, moço. Dois anos esperando. E perdi por dois minutos. Por causa de um acidente.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu perdi tudo."
+   ],
+   "destaque": [
+    "causa",
+    "acidente."
+   ]
+  },
+  {
+   "fala": "Eu não sabia o que dizer. Contei pra ele da fábrica. De quando eu perdi o emprego. Que eu também achei que tinha perdido tudo. E não tinha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "tudo.",
+    "tinha."
+   ]
+  },
+  {
+   "fala": "Sugeri: liga pra empresa. Explica. Às vezes eles remarcam. Ele ligou. Caixa postal. Mandou e-mail. Sem resposta.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Liga pra empresa."
+   ],
+   "destaque": [
+    "Sem",
+    "resposta."
+   ]
+  },
+  {
+   "fala": "Ele pediu pra eu levar ele de volta pra casa. Derrotado. No caminho, ficou quieto, olhando a cidade acordar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cidade",
+    "acordar."
+   ]
+  },
+  {
+   "fala": "Às oito da manhã, passamos pela avenida do acidente. Ainda tinha ambulância. Um carro capotado. Uma senhora sentada na calçada, sozinha, com a mão na cabeça.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "8H"
+   ],
+   "destaque": [
+    "mão",
+    "cabeça."
+   ]
+  },
+  {
+   "fala": "O Thiago pediu pra eu parar. Desceu. Foi até a senhora. Ela estava em choque. Era a motorista do carro. Não tinha ninguém com ela.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "ninguém"
+   ]
+  },
+  {
+   "fala": "Ele ficou com ela. Ligou pra família dela. Acompanhou até o hospital, na ambulância. Eu fui atrás de carro, com a mala dele.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "ELE FICOU"
+   ],
+   "destaque": [
+    "mala",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Às onze, no hospital, a família da senhora chegou. O filho dela. Um homem de uns cinquenta anos. De terno também.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "11H"
+   ],
+   "destaque": [
+    "terno",
+    "também."
+   ]
+  },
+  {
+   "fala": "O filho agradeceu. Perguntou o que o Thiago fazia. Ele disse: sou engenheiro. Perdi uma entrevista hoje por causa do acidente da sua mãe.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O FILHO DA SENHORA"
+   ],
+   "destaque": [
+    "sua",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "O homem ficou quieto. Depois tirou um cartão do bolso. Disse: eu sou dono de uma construtora. Aqui na cidade. Você pode passar lá amanhã?",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "lá",
+    "amanhã?"
+   ]
+  },
+  {
+   "fala": "No dia seguinte, o Thiago passou. E foi contratado. Na cidade dele, perto da família. Com salário melhor que o da outra vaga.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O VOO PERDIDO"
+   ],
+   "destaque": [
+    "outra",
+    "vaga."
+   ]
+  },
+  {
+   "fala": "Ele me mandou mensagem uma semana depois. Disse: se eu tivesse pegado aquele voo, eu teria passado direto por ela. E ela ia ficar sozinha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ficar",
+    "sozinha."
+   ]
+  },
+  {
+   "fala": "Eu fiquei pensando quantas vezes eu achei que perdi alguma coisa. E na verdade só estava sendo levado pra outro lugar.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "outro",
+    "lugar."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes perder o voo é a única forma de chegar no lugar certo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONFIA NO DESVIO"
+   ],
+   "destaque": [
+    "lugar",
+    "certo."
+   ]
+  },
+  {
+   "fala": "E se você perdeu alguma coisa importante essa semana, respira. Pode ser só o caminho mudando de rota.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O DESVIO"
+   ],
+   "destaque": [
+    "mudando",
+    "rota."
+   ]
+  }
+ ]
+}

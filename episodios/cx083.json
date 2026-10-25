@@ -1,0 +1,282 @@
+{
+ "id": "cx083",
+ "ep": 83,
+ "avulso": true,
+ "titulo": "O PINGUIM DA GELADEIRA",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🐧 Cinco irmãos brigando por uma herança. Só que o que eles disputavam era um pinguim de geladeira.\n\nQue objeto da casa dos seus avós você mais quer guardar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#heranca #humor #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🐧 Cinco irmãos brigando por uma herança. Só que o que eles disputavam era um pinguim de geladeira. Que objeto da casa dos seus avós você mais quer guardar? 👇\nHistória de ficção.\n#heranca #humor #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve uma disputa de herança. E o tesouro era de louça.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "era",
+    "louça."
+   ]
+  },
+  {
+   "fala": "Sábado, onze da manhã. Entrou uma mulher de uns cinquenta anos abraçada numa sacola de supermercado como se carregasse ouro.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "SÁBADO · 11H"
+   ],
+   "destaque": [
+    "carregasse",
+    "ouro."
+   ]
+  },
+  {
+   "fala": "Disse: se alguém seguir a gente, o senhor acelera. Eu perguntei: o que tem nessa sacola? Ela abriu devagar.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Se alguém seguir, acelera."
+   ],
+   "destaque": [
+    "abriu",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "Um pinguim. De geladeira. Daqueles de louça, branco e preto, com a pintura do bico descascada.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "UM PINGUIM"
+   ],
+   "destaque": [
+    "bico",
+    "descascada."
+   ]
+  },
+  {
+   "fala": "Dona Neusa. A mãe faleceu fazia seis meses. Os cinco irmãos estavam dividindo as coisas da casa. E todo mundo queria o pinguim.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A HERANÇA"
+   ],
+   "destaque": [
+    "queria",
+    "pinguim."
+   ]
+  },
+  {
+   "fala": "Disse: a casa ninguém briga. O carro ninguém briga. Mas o pinguim, moço, o pinguim vai acabar com a família.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A casa ninguém briga."
+   ],
+   "destaque": [
+    "acabar",
+    "família."
+   ]
+  },
+  {
+   "fala": "O pinguim ficou quarenta anos em cima da geladeira da mãe. Viu todos os aniversários, todos os natais, todas as brigas e todas as pazes.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "todas",
+    "pazes."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: e a senhora pegou sem avisar? Ela disse: eu sou a mais velha. Eu tenho direito. E saí correndo antes deles chegarem.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "E a senhora roubou?"
+   ],
+   "destaque": [
+    "deles",
+    "chegarem."
+   ]
+  },
+  {
+   "fala": "O celular dela não parava. Grupo da família. Quarenta e sete mensagens. Devolve o pinguim, Neusa.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "47 mensagens no grupo"
+   ],
+   "destaque": [
+    "pinguim,",
+    "Neusa."
+   ]
+  },
+  {
+   "fala": "Ela lia em voz alta pra mim: o Carlos disse que vai chamar a polícia. A Rita disse que o pinguim é dela porque ela deu o nome. O nome dele é Fred.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "Fred."
+   ]
+  },
+  {
+   "fala": "Aí eu vi pelo retrovisor. Um carro vermelho atrás de nós. Buzinando. Com um homem na janela gesticulando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "janela",
+    "gesticulando."
+   ]
+  },
+  {
+   "fala": "Ela gritou: é o Carlos! Acelera! Eu não acelerei, porque eu tenho juízo e tinha um quebra-molas.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "É o Carlos!"
+   ],
+   "destaque": [
+    "tinha",
+    "quebra-molas."
+   ]
+  },
+  {
+   "fala": "Foi a perseguição mais lenta da história. Trinta por hora, quebra-molas, faixa de pedestre. O Carlos atrás buzinando.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "PERSEGUIÇÃO A 30 POR HORA"
+   ],
+   "destaque": [
+    "atrás",
+    "buzinando."
+   ]
+  },
+  {
+   "fala": "Ela pediu pra eu parar na casa dela. Parei. O carro vermelho parou atrás. E atrás dele chegou outro. E outro. Os cinco irmãos.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "cinco",
+    "irmãos."
+   ]
+  },
+  {
+   "fala": "Cinco irmãos de cinquenta e tantos anos na calçada gritando: devolve o Fred! A vizinhança saindo na janela.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Devolve o Fred!"
+   ],
+   "destaque": [
+    "saindo",
+    "janela."
+   ]
+  },
+  {
+   "fala": "Aí a dona Neusa, no meio da briga, deixou a sacola escorregar. O pinguim caiu. No chão. E rachou ao meio.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "rachou",
+    "meio."
+   ]
+  },
+  {
+   "fala": "Silêncio total. Os cinco olhando pro pinguim partido no chão. Eu achei que alguém ia chorar. E aí o Carlos se abaixou.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PINGUIM QUEBROU"
+   ],
+   "destaque": [
+    "Carlos",
+    "abaixou."
+   ]
+  },
+  {
+   "fala": "Dentro do pinguim, enrolado, tinha um papel. Um bilhete da mãe. Escondido ali sabe-se lá desde quando.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "TINHA UM PAPEL DENTRO"
+   ],
+   "destaque": [
+    "desde",
+    "quando."
+   ]
+  },
+  {
+   "fala": "O Carlos leu: se vocês quebraram o Fred, é porque estavam brigando por ele. Parem com isso. O Fred é de todo mundo. E eu também.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Se vocês quebraram o Fred…"
+   ],
+   "destaque": [
+    "mundo.",
+    "também."
+   ]
+  },
+  {
+   "fala": "E no final: aluguem uma casa na praia e passem o ano novo juntos. A mãe manda.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mãe",
+    "manda."
+   ]
+  },
+  {
+   "fala": "Os cinco começaram a rir. Depois a chorar. Depois a rir de novo. Abraçados na calçada, em cima dos cacos do Fred.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O FRED É DE TODOS"
+   ],
+   "destaque": [
+    "cacos",
+    "Fred."
+   ]
+  },
+  {
+   "fala": "Colaram o Fred com cola de porcelana. Ele roda de casa em casa. Dois meses com cada irmão. Tem até calendário no grupo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "calendário",
+    "grupo."
+   ]
+  },
+  {
+   "fala": "Moral da história: herança boa é a que junta a família. Nem que seja com cola.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DIVIDE"
+   ],
+   "destaque": [
+    "seja",
+    "cola."
+   ]
+  },
+  {
+   "fala": "E se você tem um pinguim de geladeira na casa da sua mãe, olha dentro. Vai que.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FRED COLADO"
+   ],
+   "destaque": [
+    "dentro.",
+    "Vai"
+   ]
+  }
+ ]
+}

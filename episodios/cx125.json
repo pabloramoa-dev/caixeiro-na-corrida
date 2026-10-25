@@ -1,0 +1,267 @@
+{
+ "id": "cx125",
+ "ep": 125,
+ "avulso": true,
+ "titulo": "O PIPOQUEIRO DO ESTÁDIO",
+ "categoria": "futebol",
+ "cenario": "noite",
+ "legenda_post": "🍿 Ele vende pipoca no mesmo estádio onde, há 30 anos, fez o gol de um título. Ninguém reconhece. Até aparecer no telão.\n\nQual ídolo antigo do seu time você queria reencontrar? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #idolo #gratidao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🍿 Ele vende pipoca no mesmo estádio onde, há 30 anos, fez o gol de um título. Ninguém reconhece. Até aparecer no telão. Qual ídolo antigo do seu time você queria reencontrar? 👇\nHistória de ficção.\n#futebol #idolo #gratidao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um campeão com um carrinho de pipoca.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "carrinho",
+    "pipoca."
+   ]
+  },
+  {
+   "fala": "Quarta, seis da tarde. Entrou um senhor de uns sessenta anos com um carrinho de pipoca desmontado e um avental amarelo. Pediu pra ir pro estádio.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 18H"
+   ],
+   "destaque": [
+    "pro",
+    "estádio."
+   ]
+  },
+  {
+   "fala": "Disse: dia de jogo é dia de pipoca. Eu vendo na rampa do portão três. Há quinze anos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Dia de jogo é dia de pipoca."
+   ],
+   "destaque": [
+    "quinze",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Seu nome: Jair. Mas no estádio, todo mundo chamava de seu Jairzinho da pipoca. Doce, salgada e mista.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU JAIRZINHO"
+   ],
+   "destaque": [
+    "salgada",
+    "mista."
+   ]
+  },
+  {
+   "fala": "No meio do caminho, passamos por um muro grafitado com o escudo do time e uma data antiga. Ele ficou olhando, sorrindo meio de lado.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "lado."
+   ]
+  },
+  {
+   "fala": "Perguntei: o senhor torce desde quando? Ele demorou: eu não torço. Eu joguei.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O senhor torce desde quando?"
+   ],
+   "destaque": [
+    "torço.",
+    "joguei."
+   ]
+  },
+  {
+   "fala": "Ele foi ponta-direita do time em mil novecentos e noventa e quatro. E fez o gol do título estadual. Aos quarenta e três do segundo tempo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "CAMPEÃO EM 1994"
+   ],
+   "destaque": [
+    "segundo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "Disse que depois teve uma lesão no joelho, foi jogar em time pequeno, o dinheiro acabou. E ninguém mais lembrou dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "lembrou",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Contou sem mágoa: eu voltei pro estádio como pipoqueiro. Gosto de ouvir a torcida. Mas ninguém me reconhece. E tá bom assim.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Voltei como pipoqueiro."
+   ],
+   "destaque": [
+    "bom",
+    "assim."
+   ]
+  },
+  {
+   "fala": "Chegamos. Ele montou o carrinho na rampa do portão três. Eu fiquei um pouco pra comprar uma pipoca mista. Ele não deixou eu pagar.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "deixou",
+    "pagar."
+   ]
+  },
+  {
+   "fala": "Aí um menino de uns doze anos parou pra comprar pipoca. Olhou bem pro seu Jair. Olhou de novo. Puxou o celular.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Puxou",
+    "celular."
+   ]
+  },
+  {
+   "fala": "Perguntou: o senhor é o Jair? O do gol de noventa e quatro? O meu avô tem o pôster do senhor no quarto até hoje.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "O senhor é o Jair do gol de 94?"
+   ],
+   "destaque": [
+    "até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "O seu Jair riu nervoso: era, meu filho. Hoje sou o Jair da pipoca. O menino pediu foto. E postou.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "foto.",
+    "postou."
+   ]
+  },
+  {
+   "fala": "Quarenta minutos depois, já dentro do jogo, eu ouvindo pelo rádio do carro, o locutor falou uma coisa estranha.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "40 MINUTOS DEPOIS"
+   ],
+   "destaque": [
+    "coisa",
+    "estranha."
+   ]
+  },
+  {
+   "fala": "Disse: atenção, torcida! O clube acaba de descobrir que um campeão de noventa e quatro está aqui. No portão três. Vendendo pipoca.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O TELÃO"
+   ],
+   "destaque": [
+    "Vendendo",
+    "pipoca."
+   ]
+  },
+  {
+   "fala": "O vídeo do menino tinha chegado no clube. E alguém do marketing correu até a rampa e levou ele pra beira do campo. De avental amarelo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "avental",
+    "amarelo."
+   ]
+  },
+  {
+   "fala": "O telão mostrou o gol de noventa e quatro. Depois mostrou ele, de avental, chorando. Quarenta mil pessoas de pé gritando: Jair! Jair! Jair!",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O ESTÁDIO DE PÉ"
+   ],
+   "destaque": [
+    "Jair!",
+    "Jair!"
+   ]
+  },
+  {
+   "fala": "Eu vi o vídeo depois. Ele tirou o avental e levantou o braço igual na comemoração do gol. Trinta anos depois.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "depois."
+   ]
+  },
+  {
+   "fala": "Depois o menino me contou que o avô dele estava assistindo em casa e chorou mais que no título.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O avô do menino ligou."
+   ],
+   "destaque": [
+    "mais",
+    "título."
+   ]
+  },
+  {
+   "fala": "O clube convidou ele pra ser embaixador do time. Pra contar a história pros meninos da base. Sem precisar largar a pipoca, que ele não quis largar.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "CAMPEÃO DE NOVO"
+   ],
+   "destaque": [
+    "quis",
+    "largar."
+   ]
+  },
+  {
+   "fala": "Busquei ele depois do jogo. Entrou com o carrinho e uma camisa nova com o número sete e o nome dele. Disse: hoje eu fiz outro gol.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "outro",
+    "gol."
+   ]
+  },
+  {
+   "fala": "Moral da história: o tempo esquece. Mas sempre tem um menino que lembra. Cuida dos seus ídolos.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "LEMBRA DE QUEM FEZ"
+   ],
+   "destaque": [
+    "seus",
+    "ídolos."
+   ]
+  },
+  {
+   "fala": "E se você for no estádio, compra uma pipoca e puxa conversa com o pipoqueiro. Pode ser um campeão.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PIPOCA MISTA"
+   ],
+   "destaque": [
+    "ser",
+    "campeão."
+   ]
+  }
+ ]
+}

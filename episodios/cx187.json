@@ -1,0 +1,264 @@
+{
+ "id": "cx187",
+ "ep": 187,
+ "avulso": true,
+ "titulo": "O PASTOR E O PAGODEIRO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🎶 Dividiram a corrida: um pastor de terno e um pagodeiro de camisa florida. Começaram se estranhando. Descobriram que cantaram no mesmo grupo em 1992.\n\nVocê tem algum amigo que mudou completamente de vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#humor #musica #amizade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎶 Dividiram a corrida: um pastor de terno e um pagodeiro de camisa florida. Começaram se estranhando. Descobriram que cantaram no mesmo grupo em 1992. Você tem algum amigo que mudou completamente de vida? 👇\nHistória de ficção.\n#humor #musica #amizade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um reencontro com pandeiro e Bíblia no mesmo banco.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "mesmo",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Domingo, nove da manhã. Corrida compartilhada. Primeiro entrou um senhor de uns cinquenta anos, terno, gravata, Bíblia debaixo do braço. Pastor indo pro culto.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 9H"
+   ],
+   "destaque": [
+    "pro",
+    "culto."
+   ]
+  },
+  {
+   "fala": "Segunda parada. Entrou um homem da mesma idade, camisa florida, corrente de ouro, chapéu panamá e um pandeiro na mão. Voltando de um pagode que virou a noite.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Segunda parada"
+   ],
+   "destaque": [
+    "virou",
+    "noite."
+   ]
+  },
+  {
+   "fala": "Os dois se olharam de cima a baixo. O pastor segurou a Bíblia. O pagodeiro segurou o pandeiro. Silêncio no carro.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "Silêncio",
+    "carro."
+   ]
+  },
+  {
+   "fala": "O pastor fungou de leve. O pagodeiro percebeu e disse: é perfume, pastor. Perfume de pagode. O pastor não riu.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O CHEIRO DE CERVEJA"
+   ],
+   "destaque": [
+    "pastor",
+    "riu."
+   ]
+  },
+  {
+   "fala": "O pagodeiro começou a batucar baixinho no pandeiro. O pastor abriu a Bíblia e começou a ler em voz baixa. Uma disputa de volume.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disputa",
+    "volume."
+   ]
+  },
+  {
+   "fala": "Eu, no meio, liguei o rádio. Pra ninguém ganhar. Tocou um samba antigo. Daqueles de mil novecentos e noventa e poucos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "noventa",
+    "poucos."
+   ]
+  },
+  {
+   "fala": "E os dois, ao mesmo tempo, começaram a cantar. O pastor e o pagodeiro. A mesma música. Afinados. Em dupla.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Afinados.",
+    "dupla."
+   ]
+  },
+  {
+   "fala": "Os dois pararam e se olharam. O pagodeiro perguntou: pastor, como o senhor conhece essa? O pastor, vermelho: eu gravei essa.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Você conhece essa?"
+   ],
+   "destaque": [
+    "gravei",
+    "essa."
+   ]
+  },
+  {
+   "fala": "O pastor tinha sido cantor de um grupo de pagode em mil novecentos e noventa e dois. Fizeram um disco só. Tocou em rádio de bairro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O GRUPO DE 1992"
+   ],
+   "destaque": [
+    "rádio",
+    "bairro."
+   ]
+  },
+  {
+   "fala": "O pagodeiro arregalou os olhos. Tirou o chapéu. Olhou bem pro pastor. E gritou: Marquinho Voz de Veludo?!",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "Voz",
+    "Veludo?!"
+   ]
+  },
+  {
+   "fala": "O pastor: e você é o Toninho do Pandeiro! Os dois eram do mesmo grupo. Trinta e quatro anos sem se ver.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E você é o Toninho do Pandeiro!"
+   ],
+   "destaque": [
+    "sem",
+    "ver."
+   ]
+  },
+  {
+   "fala": "Se abraçaram no banco de trás. O chapéu caiu, a Bíblia caiu, o pandeiro caiu. Os dois rindo igual menino.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O ABRAÇO"
+   ],
+   "destaque": [
+    "igual",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Contaram a história. O grupo acabou depois de uma briga por causa de cachê. Cada um foi pra um lado. O Marquinho virou pastor. O Toninho continuou no pagode.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "continuou",
+    "pagode."
+   ]
+  },
+  {
+   "fala": "O pastor disse: Toninho, eu nunca te pedi desculpa pela briga. A culpa foi minha. O pagodeiro: foi nada. Foi do empresário. Aquele safado.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu nunca te pedi desculpa."
+   ],
+   "destaque": [
+    "Aquele",
+    "safado."
+   ]
+  },
+  {
+   "fala": "E aí começaram a lembrar das músicas. Cantaram o disco inteiro. No meu carro. Uma por uma. O pastor fazendo a primeira voz, o Toninho no pandeiro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Toninho",
+    "pandeiro."
+   ]
+  },
+  {
+   "fala": "Chegamos na igreja do pastor. Ele ia descer. Mas olhou pro Toninho e teve uma ideia.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "teve",
+    "ideia."
+   ]
+  },
+  {
+   "fala": "Disse: entra comigo. Canta uma comigo no culto. Uma música de louvor. Com pandeiro. O Toninho riu: de camisa florida? O pastor: Deus não liga pra camisa.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Entra comigo."
+   ],
+   "destaque": [
+    "liga",
+    "camisa."
+   ]
+  },
+  {
+   "fala": "Eu fiquei na porta pra ver. O pastor chamou o Toninho no altar. Apresentou como amigo de juventude. E cantaram um louvor. Com pandeiro de pagode.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O PANDEIRO NO CULTO"
+   ],
+   "destaque": [
+    "pandeiro",
+    "pagode."
+   ]
+  },
+  {
+   "fala": "A igreja inteira bateu palma no ritmo. As senhoras de chapéu dançando. O Toninho suando de emoção. O pastor rindo no microfone.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A IGREJA BATEU PALMA"
+   ],
+   "destaque": [
+    "rindo",
+    "microfone."
+   ]
+  },
+  {
+   "fala": "Levei o Toninho pra casa depois. Ele disse que não ia virar crente. Mas ia voltar no culto pra cantar com o amigo. Uma vez por mês.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "vez",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Moral da história: a vida separa a gente por caminhos diferentes. A música junta de novo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CANTA JUNTO"
+   ],
+   "destaque": [
+    "junta",
+    "novo."
+   ]
+  },
+  {
+   "fala": "E se você tem um amigo que seguiu outro caminho, liga. Vocês ainda sabem a mesma música.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "VOZ DE VELUDO"
+   ],
+   "destaque": [
+    "mesma",
+    "música."
+   ]
+  }
+ ]
+}

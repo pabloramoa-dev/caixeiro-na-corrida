@@ -1,0 +1,279 @@
+{
+ "id": "cx084",
+ "ep": 84,
+ "avulso": true,
+ "titulo": "O GARÇOM DE CINCO LÍNGUAS",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🌍 Ele aprendeu cinco idiomas servindo turistas num quiosque de praia. Na entrevista do hotel cinco estrelas, travou. Até que apareceu uma família perdida.\n\nQue habilidade você aprendeu sozinho, sem curso nenhum? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #idiomas #emprego #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌍 Ele aprendeu cinco idiomas servindo turistas num quiosque de praia. Na entrevista do hotel cinco estrelas, travou. Até que apareceu uma família perdida. Que habilidade você aprendeu sozinho, sem curso nenhum? 👇\nHistória de ficção.\n#superacao #idiomas #emprego #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um professor de idiomas que nunca pisou numa escola de idiomas.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "escola",
+    "idiomas."
+   ]
+  },
+  {
+   "fala": "Segunda, cinco da tarde. Entrou um rapaz de uns vinte e oito anos, camisa branca passada, sapato engraxado e um caderninho cheio de anotação.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 17H"
+   ],
+   "destaque": [
+    "cheio",
+    "anotação."
+   ]
+  },
+  {
+   "fala": "Entrou dizendo: good afternoon. Depois: buenas tardes. Depois: boa tarde, desculpa, tô treinando.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Good afternoon."
+   ],
+   "destaque": [
+    "desculpa,",
+    "treinando."
+   ]
+  },
+  {
+   "fala": "Chama-se Jefferson. Dez anos de garçom num quiosque de praia. E nesses dez anos, aprendeu inglês, espanhol, italiano, francês e um pouco de alemão.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "QUIOSQUE DE PRAIA"
+   ],
+   "destaque": [
+    "pouco",
+    "alemão."
+   ]
+  },
+  {
+   "fala": "Disse: tudo de ouvido. Turista pedindo cerveja, perguntando o caminho, reclamando do sol. Eu anotava as palavras no caderno.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Tudo de ouvido."
+   ],
+   "destaque": [
+    "palavras",
+    "caderno."
+   ]
+  },
+  {
+   "fala": "Me mostrou o caderno. Páginas e páginas. Palavra em português e do lado, como ele achava que se escrevia. Uns erros lindos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "erros",
+    "lindos."
+   ]
+  },
+  {
+   "fala": "Ia pra uma entrevista num hotel cinco estrelas. Vaga de recepcionista. Pré-requisito: três idiomas. Ele tinha cinco. Mas sem diploma nenhum.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "ENTREVISTA NO HOTEL"
+   ],
+   "destaque": [
+    "diploma",
+    "nenhum."
+   ]
+  },
+  {
+   "fala": "Disse: os outros candidatos têm certificado, intercâmbio. Eu tenho um caderno de praia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Os outros têm certificado."
+   ],
+   "destaque": [
+    "caderno",
+    "praia."
+   ]
+  },
+  {
+   "fala": "Pediu pra eu fazer perguntas de entrevista. Eu fiz, do jeito que dava. Ele respondia em inglês. Eu não entendia nada, mas parecia bonito.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "parecia",
+    "bonito."
+   ]
+  },
+  {
+   "fala": "Chegamos no hotel. Lobby enorme, mármore, lustre. Ele ficou pequenininho na porta giratória. Pediu pra eu esperar. Combinado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "esperar.",
+    "Combinado."
+   ]
+  },
+  {
+   "fala": "Meia hora depois, ele saiu na porta pra me dar notícia. Cara de enterro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "30 MINUTOS"
+   ],
+   "destaque": [
+    "Cara",
+    "enterro."
+   ]
+  },
+  {
+   "fala": "Disse: eu travei, moço. Ela fez a pergunta em inglês formal. Palavras de escritório. Eu não sei falar de escritório. Só de praia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu travei."
+   ],
+   "destaque": [
+    "Só",
+    "praia."
+   ]
+  },
+  {
+   "fala": "A gerente agradeceu e disse que ia ligar. Aquele vamos ligar que todo mundo sabe o que significa.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "sabe",
+    "significa."
+   ]
+  },
+  {
+   "fala": "Aí, no lobby, uma confusão. Uma família de turistas falando alto, nervosa, com um menino chorando. A recepcionista não entendia nada.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "entendia",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Eram italianos. O menino tinha se perdido do grupo de turismo na praia. A mãe desesperada. Ninguém no hotel falava italiano.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "ERAM ITALIANOS"
+   ],
+   "destaque": [
+    "falava",
+    "italiano."
+   ]
+  },
+  {
+   "fala": "O Jefferson nem pensou. Entrou de volta pela porta giratória e foi direto até a mãe. E falou em italiano. Italiano de praia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Italiano",
+    "praia."
+   ]
+  },
+  {
+   "fala": "Calma, signora. Qual praia? Que horas? Como é o menino? Ele traduziu tudo. Ligou pro guia, que conhecia do quiosque.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "CALMA, SIGNORA"
+   ],
+   "destaque": [
+    "conhecia",
+    "quiosque."
+   ]
+  },
+  {
+   "fala": "Em quinze minutos, o grupo de turismo chegou no hotel com o outro filho deles, que também tinha se perdido. A família inteira chorou abraçada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "chorou",
+    "abraçada."
+   ]
+  },
+  {
+   "fala": "A gerente viu tudo. Do balcão. Chegou perto do Jefferson com um papel na mão.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "A GERENTE VIU TUDO"
+   ],
+   "destaque": [
+    "papel",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Disse: eu não preciso de certificado. Eu preciso disso que você fez agora. Começa segunda.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Começa segunda."
+   ],
+   "destaque": [
+    "Começa",
+    "segunda."
+   ]
+  },
+  {
+   "fala": "E pediu o caderno. Folheou. Disse: esse caderno vale mais que muito diploma. Só corrige o alemão.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CONTRATADO"
+   ],
+   "destaque": [
+    "corrige",
+    "alemão."
+   ]
+  },
+  {
+   "fala": "Na volta ele ficou falando nas cinco línguas pra me agradecer. Eu respondi em português de motorista: valeu, campeão.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "valeu,",
+    "campeão."
+   ]
+  },
+  {
+   "fala": "Moral da história: o mundo pede diploma. Mas a vida pergunta: na hora que precisou, você soube?",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOCÊ SABE"
+   ],
+   "destaque": [
+    "você",
+    "soube?"
+   ]
+  },
+  {
+   "fala": "E se você aprendeu alguma coisa sozinho, não tem vergonha do caderno. Ele conta a sua história.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "GRAZIE MILLE"
+   ],
+   "destaque": [
+    "sua",
+    "história."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "id": "cx114",
+ "ep": 114,
+ "avulso": true,
+ "titulo": "A AVÓ MOTOQUEIRA",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "🏍️ A neta ia se casar. A avó de 74 anos tinha um pedido: chegar na festa de moto. Pilotando.\n\nQual o maior sonho que sua avó ou avô ainda tem? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #moto #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏍️ A neta ia se casar. A avó de 74 anos tinha um pedido: chegar na festa de moto. Pilotando. Qual o maior sonho que sua avó ou avô ainda tem? 👇\nHistória de ficção.\n#avo #moto #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida eu fui só o carro de apoio. A estrela foi de duas rodas.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "duas",
+    "rodas."
+   ]
+  },
+  {
+   "fala": "Sábado, sete da noite. Peguei uma família inteira numa casa pra levar até a festa de casamento da neta. Mas a avó não entrou no carro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 19H"
+   ],
+   "destaque": [
+    "entrou",
+    "carro."
+   ]
+  },
+  {
+   "fala": "A filha explicou: a vó vai de moto. A gente vai atrás. O senhor pode ir devagar pra não perder ela de vista?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "A vó vai de moto."
+   ],
+   "destaque": [
+    "perder",
+    "vista?"
+   ]
+  },
+  {
+   "fala": "Saiu do portão uma senhora de setenta e quatro anos, jaqueta de couro, vestido de festa por baixo e capacete rosa. Montou numa moto antiga, prateada, e deu partida.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "DONA ODETE, 74 ANOS"
+   ],
+   "destaque": [
+    "deu",
+    "partida."
+   ]
+  },
+  {
+   "fala": "O ronco da moto fez os cachorros da rua latirem. Ela acenou pra gente e saiu na frente. Eu fui atrás, com a família toda no meu carro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "meu",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Perguntei pra filha: ela sempre foi assim? A filha riu: não. Começou com setenta.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ela sempre foi assim?"
+   ],
+   "destaque": [
+    "Começou",
+    "setenta."
+   ]
+  },
+  {
+   "fala": "Contou que a dona Odete passou a vida cuidando dos outros. Do marido doente, dos filhos, dos netos. Nunca fez nada por ela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "fez",
+    "nada"
+   ]
+  },
+  {
+   "fala": "Quando o marido faleceu, aos setenta, ela disse pra família: agora eu quero vento na cara. E tirou carteira de moto. Passou de primeira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela disse que queria vento."
+   ],
+   "destaque": [
+    "Passou",
+    "primeira."
+   ]
+  },
+  {
+   "fala": "A moto era do marido. Ficou trinta anos parada na garagem, coberta com lona. Ela mandou consertar e pintou o tanque com o nome dele.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A MOTO DO MARIDO"
+   ],
+   "destaque": [
+    "nome",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Ela ia na frente, firme, sinalizando com o braço em cada curva. A gente atrás, rindo e torcendo pra ela não acelerar demais.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "acelerar",
+    "demais."
+   ]
+  },
+  {
+   "fala": "Num sinal, um grupo de motoqueiros parou do lado dela. Uns cinco homens barbudos de jaqueta. Olharam pra ela. Ela olhou pra eles.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "olhou",
+    "eles."
+   ]
+  },
+  {
+   "fala": "Um deles disse: bonita a máquina, senhora. Ela respondeu: obrigada. A de vocês também, mas a minha é mais velha e mais bonita.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Bonita a máquina, senhora."
+   ],
+   "destaque": [
+    "mais",
+    "bonita."
+   ]
+  },
+  {
+   "fala": "Eles riram. Perguntaram pra onde ela ia. Ela disse: casamento da minha neta. Vou chegar de moto. É surpresa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "moto.",
+    "surpresa."
+   ]
+  },
+  {
+   "fala": "E os cinco motoqueiros resolveram acompanhar. Escolta de honra. Dois na frente, três atrás dela. Eu atrás de todos, de pisca-alerta.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "ESCOLTA DE HONRA"
+   ],
+   "destaque": [
+    "todos,",
+    "pisca-alerta."
+   ]
+  },
+  {
+   "fala": "Chegamos no salão de festa. A noiva estava na porta, recebendo os convidados. E ouviu o ronco. Seis motos chegando juntas.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "chegando",
+    "juntas."
+   ]
+  },
+  {
+   "fala": "A dona Odete parou a moto bem na frente da noiva. Tirou o capacete rosa. Balançou o cabelo branco. E disse: cheguei, minha filha.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A VÓ CHEGOU"
+   ],
+   "destaque": [
+    "minha",
+    "filha."
+   ]
+  },
+  {
+   "fala": "A noiva gritou. Os convidados correram pra porta. Os motoqueiros aceleraram em saudação. A festa inteira aplaudindo uma avó de jaqueta de couro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "jaqueta",
+    "couro."
+   ]
+  },
+  {
+   "fala": "A noiva abraçou a avó chorando e disse: o vô ia amar ver isso. A dona Odete respondeu: ele tá vendo. Tá escrito no tanque.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "O vô ia amar ver isso."
+   ],
+   "destaque": [
+    "escrito",
+    "tanque."
+   ]
+  },
+  {
+   "fala": "A noiva passou a mão no tanque, no nome do avô pintado. E pediu uma coisa: vó, depois da festa, me leva na garupa?",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O NOME NO TANQUE"
+   ],
+   "destaque": [
+    "leva",
+    "garupa?"
+   ]
+  },
+  {
+   "fala": "De madrugada, depois da festa, a noiva de vestido de casamento subiu na garupa da avó. Deram uma volta no quarteirão. Os convidados filmando.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "convidados",
+    "filmando."
+   ]
+  },
+  {
+   "fala": "Eu levei o resto da família. Os motoqueiros ficaram pra festa. Um deles dançou valsa com a dona Odete.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "dona",
+    "Odete."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra sentir vento na cara. Às vezes a vida começa aos setenta.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VIVE AGORA"
+   ],
+   "destaque": [
+    "aos",
+    "setenta."
+   ]
+  },
+  {
+   "fala": "E se sua avó tem um sonho guardado, pergunta qual é. E ajuda. Ela passou a vida realizando os seus.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CAPACETE ROSA"
+   ],
+   "destaque": [
+    "realizando",
+    "seus."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "id": "cx036",
+ "ep": 36,
+ "avulso": true,
+ "titulo": "O PAPAGAIO DELATOR",
+ "categoria": "humor",
+ "cenario": "noite",
+ "legenda_post": "🦜 O passageiro entrou com um papagaio. Em dez minutos, o bicho tinha contado todos os segredos da casa.\n\nQual o bicho mais fofoqueiro que você já conheceu? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#papagaio #humor #pets #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🦜 O passageiro entrou com um papagaio. Em dez minutos, o bicho tinha contado todos os segredos da casa. Qual o bicho mais fofoqueiro que você já conheceu? 👇\nHistória de ficção.\n#papagaio #humor #pets #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve uma testemunha de penas verdes.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "penas",
+    "verdes."
+   ]
+  },
+  {
+   "fala": "Sexta, sete e meia da noite. Entrou um homem de uns cinquenta anos com uma gaiola coberta por um pano de prato.",
+   "expr": "desconfiada",
+   "arte": [
+    "relogio",
+    "SEXTA · 19H30"
+   ],
+   "destaque": [
+    "pano",
+    "prato."
+   ]
+  },
+  {
+   "fala": "Perguntou: pode bicho, né? Eu disse: se não morder o motorista, pode tudo.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "Pode bicho, né?"
+   ],
+   "destaque": [
+    "pode",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Seu Jair. Ia levar o papagaio, o Juca, pra passar o fim de semana na casa da irmã. A esposa ia fazer uma obra na sala.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "obra",
+    "sala."
+   ]
+  },
+  {
+   "fala": "Mal o carro andou, uma voz debaixo do pano: cadê o pudim? Cadê o pudim, Jair?",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Cadê o pudim?"
+   ],
+   "destaque": [
+    "pudim,",
+    "Jair?"
+   ]
+  },
+  {
+   "fala": "O seu Jair deu um tapinha na gaiola: fica quieto, Juca. E me explicou: ele fala umas bobagens.",
+   "expr": "ironica",
+   "arte": null,
+   "destaque": [
+    "umas",
+    "bobagens."
+   ]
+  },
+  {
+   "fala": "Juca insistiu: cadê o pudim, Jair? E aí imitou uma porta de geladeira abrindo. Perfeito. Com o barulhinho da borracha.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CADÊ O PUDIM, JAIR?"
+   ],
+   "destaque": [
+    "barulhinho",
+    "borracha."
+   ]
+  },
+  {
+   "fala": "Eu comecei a desconfiar. Perguntei, sem maldade: o senhor gosta de pudim, seu Jair?",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "seu",
+    "Jair?"
+   ]
+  },
+  {
+   "fala": "Ele confessou. A esposa faz pudim pra vender. E todo mês some um. Ela acha que é o vizinho.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "A esposa faz pra vender."
+   ],
+   "destaque": [
+    "acha",
+    "vizinho."
+   ]
+  },
+  {
+   "fala": "Aí o Juca soltou, na voz do seu Jair: é o vizinho, amor! É o vizinho!",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o vizinho! É o vizinho!"
+   ],
+   "destaque": [
+    "amor!",
+    "vizinho!"
+   ]
+  },
+  {
+   "fala": "Eu tive que encostar o carro. Não conseguia dirigir de tanto rir. O seu Jair vermelho igual pimentão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "igual",
+    "pimentão."
+   ]
+  },
+  {
+   "fala": "Ele disse: esse bicho ouve tudo. Por isso eu vou levar ele pra irmã. A esposa tá começando a prestar atenção.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ele ouve tudo, moço."
+   ],
+   "destaque": [
+    "prestar",
+    "atenção."
+   ]
+  },
+  {
+   "fala": "Aí a verdade. Não tinha obra nenhuma. Ele inventou a obra pra tirar o papagaio de casa antes que a esposa juntasse as peças.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A OBRA ERA MENTIRA"
+   ],
+   "destaque": [
+    "juntasse",
+    "peças."
+   ]
+  },
+  {
+   "fala": "O celular dele tocou. Amor. Ele atendeu no viva-voz, porque estava com a gaiola no colo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Ligação: Amor"
+   ],
+   "destaque": [
+    "gaiola",
+    "colo."
+   ]
+  },
+  {
+   "fala": "A esposa: Jair, sumiu o pudim de leite ninho da encomenda. Você viu?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Jair, cadê o pudim de leite ninho?"
+   ],
+   "destaque": [
+    "Você",
+    "viu?"
+   ]
+  },
+  {
+   "fala": "Silêncio. O seu Jair me olhou. Eu olhei pra frente. E o Juca, debaixo do pano, abriu o bico.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "abriu",
+    "bico."
+   ]
+  },
+  {
+   "fala": "Jair, cadê o pudim? Porta da geladeira. Barulho de colher no prato. E um arroto. Um arroto, gente.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O JUCA ENTREGOU"
+   ],
+   "destaque": [
+    "arroto,",
+    "gente."
+   ]
+  },
+  {
+   "fala": "Do outro lado do telefone: Jair! Esse é o barulho da nossa geladeira!",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "JAIR!"
+   ],
+   "destaque": [
+    "nossa",
+    "geladeira!"
+   ]
+  },
+  {
+   "fala": "O seu Jair desligou, respirou fundo e disse: moço, dá meia-volta. Eu vou pra casa resolver isso como homem.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "como",
+    "homem."
+   ]
+  },
+  {
+   "fala": "Voltamos. Na porta, a esposa de braço cruzado. Ele desceu, entregou a gaiola pra ela e falou: foi eu. Todos os pudins. Desde março.",
+   "expr": "rindo",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Desde",
+    "março."
+   ]
+  },
+  {
+   "fala": "Ela riu. Riu muito. Disse que perdoava, com uma condição: ele ia ajudar a fazer os pudins de agora em diante.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PERDOADO COM CONDIÇÕES"
+   ],
+   "destaque": [
+    "agora",
+    "diante."
+   ]
+  },
+  {
+   "fala": "Hoje eles vendem o dobro. O seu Jair virou sócio. E o Juca tem uma placa na gaiola: gerente de controle de estoque.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "controle",
+    "estoque."
+   ]
+  },
+  {
+   "fala": "Moral da história: segredo dentro de casa dura pouco. Ainda mais se tiver um papagaio.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONFESSA LOGO"
+   ],
+   "destaque": [
+    "tiver",
+    "papagaio."
+   ]
+  },
+  {
+   "fala": "E se você comprar um pudim deles, pode confiar: o Juca conta todos. Um por um.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "CADÊ O PUDIM?"
+   ],
+   "destaque": [
+    "conta",
+    "todos."
+   ]
+  }
+ ]
+}

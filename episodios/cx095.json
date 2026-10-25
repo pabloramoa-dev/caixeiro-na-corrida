@@ -1,0 +1,285 @@
+{
+ "id": "cx095",
+ "ep": 95,
+ "avulso": true,
+ "titulo": "A PROMESSA A PÉ",
+ "categoria": "futebol",
+ "cenario": "noite",
+ "legenda_post": "🙏 Ele prometeu ir a pé até o santuário se o time fosse campeão. O time foi. Eram 32 quilômetros. Eu achei ele no quilômetro 25.\n\nVocê já fez promessa por causa de futebol? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #promessa #fe #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🙏 Ele prometeu ir a pé até o santuário se o time fosse campeão. O time foi. Eram 32 quilômetros. Eu achei ele no quilômetro 25. Você já fez promessa por causa de futebol? 👇\nHistória de ficção.\n#futebol #promessa #fe #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida eu não cobrei. E no fim, nem dirigi.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nem",
+    "dirigi."
+   ]
+  },
+  {
+   "fala": "Domingo, onze da noite. Eu voltava de uma corrida pela estrada velha quando vi um homem andando no acostamento. Camisa de time, bandeira nas costas, mancando.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 23H"
+   ],
+   "destaque": [
+    "costas,",
+    "mancando."
+   ]
+  },
+  {
+   "fala": "Diminuí, abri o vidro e perguntei se ele precisava de ajuda. Ele disse: preciso de água. E de mais sete quilômetros de perna.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "quilômetros",
+    "perna."
+   ]
+  },
+  {
+   "fala": "Seu Raimundo. Cinquenta e oito anos. Tinha prometido que, se o time fosse campeão, ia a pé de casa até o santuário. Trinta e dois quilômetros.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "PROMESSA DE CAMPEÃO"
+   ],
+   "destaque": [
+    "dois",
+    "quilômetros."
+   ]
+  },
+  {
+   "fala": "Disse: o time foi campeão hoje às quatro da tarde. Às cinco eu já estava andando. Promessa é promessa.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O time foi campeão hoje."
+   ],
+   "destaque": [
+    "Promessa",
+    "promessa."
+   ]
+  },
+  {
+   "fala": "Dei a garrafa de água que eu levo no carro. Ele bebeu metade de uma vez. Os pés dentro do tênis estavam em carne viva.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "carne",
+    "viva."
+   ]
+  },
+  {
+   "fala": "Falei: entra aí que eu te levo o resto. Ninguém vai saber. Ele balançou a cabeça.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Entra que eu te levo."
+   ],
+   "destaque": [
+    "balançou",
+    "cabeça."
+   ]
+  },
+  {
+   "fala": "Ele apontou pra cima: ele vai saber. E eu também. Não posso.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Ele vai saber."
+   ],
+   "destaque": [
+    "também.",
+    "posso."
+   ]
+  },
+  {
+   "fala": "Fiquei olhando ele mancar. Pensei na Rosângela me esperando. Pensei que era quase meia-noite. E pensei que não ia conseguir dormir sabendo que deixei ele ali.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "deixei",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Liguei o pisca-alerta e fui atrás dele. Devagarinho. Iluminando o acostamento com o farol. Cinco por hora.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "ESCOLTA"
+   ],
+   "destaque": [
+    "Cinco",
+    "hora."
+   ]
+  },
+  {
+   "fala": "Ele virou pra trás, me viu, riu e falou: o senhor é doido. Eu disse: doido é quem promete trinta e dois quilômetros por causa de futebol.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "causa",
+    "futebol."
+   ]
+  },
+  {
+   "fala": "No caminho, gritando pela janela, perguntei por que uma promessa tão pesada. Ele parou um pouco, respirou.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Por que essa promessa?"
+   ],
+   "destaque": [
+    "pouco,",
+    "respirou."
+   ]
+  },
+  {
+   "fala": "Disse: meu pai morreu no ano passado. A última coisa que ele me pediu foi pra ver o time campeão por ele. Eu prometi o santuário pra ele ver lá de cima.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai pediu."
+   ],
+   "destaque": [
+    "lá",
+    "cima."
+   ]
+  },
+  {
+   "fala": "Uma da manhã. Quilômetro vinte e nove. Ele parou. Sentou no meio-fio. Disse que não aguentava mais. Que o pé não obedecia.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "1H DA MANHÃ"
+   ],
+   "destaque": [
+    "pé",
+    "obedecia."
+   ]
+  },
+  {
+   "fala": "Eu desliguei o carro, desci e sentei do lado dele. Ficamos um tempo em silêncio, ouvindo grilo.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ouvindo",
+    "grilo."
+   ]
+  },
+  {
+   "fala": "Aí eu falei: o carro fica aqui. Eu ando com o senhor os últimos três. Promessa sua, perna minha de apoio.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu ando com o senhor."
+   ],
+   "destaque": [
+    "minha",
+    "apoio."
+   ]
+  },
+  {
+   "fala": "Tranquei o carro no acostamento, com o pisca ligado. Ele apoiou o braço no meu ombro. E fomos.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ombro.",
+    "fomos."
+   ]
+  },
+  {
+   "fala": "Três quilômetros. Os dois cantando o hino do time dele. Eu nem torço pra esse time. Cantei mesmo assim. Mal.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "TRÊS QUILÔMETROS DE MADRUGADA"
+   ],
+   "destaque": [
+    "assim.",
+    "Mal."
+   ]
+  },
+  {
+   "fala": "Às duas e vinte da manhã, chegamos no santuário. Portão fechado. Escadaria iluminada. Silêncio absoluto.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Silêncio",
+    "absoluto."
+   ]
+  },
+  {
+   "fala": "Ele subiu os degraus de joelho. Um por um. Eu fiquei lá embaixo, segurando a bandeira dele.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "bandeira",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Lá em cima, ele levantou a camisa do time pro céu e falou alto: campeão, pai. Campeão.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "CAMPEÃO, PAI"
+   ],
+   "destaque": [
+    "pai.",
+    "Campeão."
+   ]
+  },
+  {
+   "fala": "Depois desceu, e a gente voltou os três quilômetros até o meu carro. Dessa vez sem promessa nenhuma. Andando devagar e rindo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "devagar",
+    "rindo."
+   ]
+  },
+  {
+   "fala": "Deixei ele em casa às quatro da manhã. A Rosângela acordou e perguntou onde eu estava. Eu disse: numa promessa. Ela não entendeu. Até hoje.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "Moral da história: promessa a gente cumpre sozinho. Mas ninguém disse que não pode ter alguém do lado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CUMPRE"
+   ],
+   "destaque": [
+    "alguém",
+    "lado."
+   ]
+  },
+  {
+   "fala": "E se você ver alguém cumprindo promessa na estrada, oferece água. E, se der, anda um pouco junto.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "32 QUILÔMETROS"
+   ],
+   "destaque": [
+    "pouco",
+    "junto."
+   ]
+  }
+ ]
+}

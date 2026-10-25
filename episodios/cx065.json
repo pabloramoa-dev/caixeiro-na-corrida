@@ -1,0 +1,288 @@
+{
+ "id": "cx065",
+ "ep": 65,
+ "avulso": true,
+ "titulo": "O JARDINEIRO DO GRAMADO",
+ "categoria": "futebol",
+ "cenario": "dia",
+ "legenda_post": "🌱 Por 34 anos ele cuidou do gramado do estádio e nunca foi visto pela torcida. No último dia, o time fez um corredor só pra ele.\n\nQuem é o trabalhador invisível que você mais admira? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebol #gratidao #trabalho #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌱 Por 34 anos ele cuidou do gramado do estádio e nunca foi visto pela torcida. No último dia, o time fez um corredor só pra ele. Quem é o trabalhador invisível que você mais admira? 👇\nHistória de ficção.\n#futebol #gratidao #trabalho #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o homem que mais pisou naquele gramado. E ninguém sabia o nome dele.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nome",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Domingo, meio-dia. Entrou um senhor de uns sessenta e cinco anos, chapéu de palha, mãos grossas e uma sacola com uma tesoura de grama.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 12H"
+   ],
+   "destaque": [
+    "tesoura",
+    "grama."
+   ]
+  },
+  {
+   "fala": "Pediu: estádio, mas pelo portão dos fundos, por favor. Eu achei estranho, dia de jogo, pelo fundo.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Estádio, pelo portão dos fundos."
+   ],
+   "destaque": [
+    "pelo",
+    "fundo."
+   ]
+  },
+  {
+   "fala": "Seu Joaquim. Jardineiro do estádio há trinta e quatro anos. Era o último dia de trabalho dele. Aposentadoria.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "34 ANOS DE GRAMADO"
+   ],
+   "destaque": [
+    "dele.",
+    "Aposentadoria."
+   ]
+  },
+  {
+   "fala": "Disse: eu conheço cada pedaço daquela grama, moço. Sei onde o goleiro cava, onde a bola quica torto, onde a chuva empoça.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu conheço cada folha."
+   ],
+   "destaque": [
+    "chuva",
+    "empoça."
+   ]
+  },
+  {
+   "fala": "Contou que viu quatro gerações de jogadores. Que deu bronca em craque que pisava no gramado de chuteira de travas na segunda-feira.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "travas",
+    "segunda-feira."
+   ]
+  },
+  {
+   "fala": "Riu: até o artilheiro da Copa tinha medo de mim. Pedia desculpa quando arrancava um tufo de grama comemorando.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Até o artilheiro tinha medo de mim."
+   ],
+   "destaque": [
+    "grama",
+    "comemorando."
+   ]
+  },
+  {
+   "fala": "Mas disse que, em trinta e quatro anos, nunca entrou no gramado com o estádio cheio. Trabalhava antes e depois. Na hora do jogo, ficava no túnel.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ficava",
+    "túnel."
+   ]
+  },
+  {
+   "fala": "Disse sem mágoa: a torcida nem sabe que eu existo. E tá certo. Grama boa é aquela que ninguém repara.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A torcida nem sabe que eu existo."
+   ],
+   "destaque": [
+    "ninguém",
+    "repara."
+   ]
+  },
+  {
+   "fala": "Chegamos no portão dos fundos. Mas tinha um segurança esperando. Disse que o seu Joaquim tinha que entrar pela frente hoje. Ordem do presidente.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Ordem",
+    "presidente."
+   ]
+  },
+  {
+   "fala": "O seu Joaquim achou que era algum problema. Pediu pra eu entrar junto. O segurança deixou. Eu fui, com a sacola dele na mão.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Levaram a gente pelo túnel principal. O mesmo dos jogadores. Ele ia devagar, desconfiado, segurando o chapéu.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PELO TÚNEL PRINCIPAL"
+   ],
+   "destaque": [
+    "segurando",
+    "chapéu."
+   ]
+  },
+  {
+   "fala": "E na saída do túnel, o time inteiro. Os dois times, na verdade. Em fila, um de cada lado, formando um corredor.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O CORREDOR DO TIME"
+   ],
+   "destaque": [
+    "formando",
+    "corredor."
+   ]
+  },
+  {
+   "fala": "O estádio cheio. Trinta mil pessoas. O telão mostrando o rosto dele com o nome embaixo: Joaquim, trinta e quatro anos de gramado.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "gramado."
+   ]
+  },
+  {
+   "fala": "Ele parou. Tirou o chapéu. Não conseguia andar. Os jogadores começaram a aplaudir. E aí a torcida inteira se levantou.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "inteira",
+    "levantou."
+   ]
+  },
+  {
+   "fala": "Trinta mil pessoas de pé aplaudindo um jardineiro. Eu, do lado do túnel, com a tesoura de grama na mão, chorando.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "TRINTA MIL DE PÉ"
+   ],
+   "destaque": [
+    "mão,",
+    "chorando."
+   ]
+  },
+  {
+   "fala": "O capitão do time deu o braço pra ele e levou até o meio de campo. No caminho, o seu Joaquim gritou pros jogadores: pisa devagar que a grama tá nova!",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pisa devagar!"
+   ],
+   "destaque": [
+    "tá",
+    "nova!"
+   ]
+  },
+  {
+   "fala": "A torcida riu. Ele ganhou uma camisa com o número trinta e quatro e o nome dele nas costas.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nas",
+    "costas."
+   ]
+  },
+  {
+   "fala": "E deu o pontapé inicial. Um chute fraquinho, de bico. Mas a bola correu reta, sem quicar. Gramado dele, né.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PONTAPÉ INICIAL"
+   ],
+   "destaque": [
+    "dele,",
+    "né."
+   ]
+  },
+  {
+   "fala": "Depois do jogo ele me pediu pra levar ele de volta pelo portão dos fundos. Disse que precisava fazer uma última coisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "última",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Às sete da noite, estádio vazio, ele andou o gramado inteiro, devagar, consertando os buracos do jogo com a mão. Um por um.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "19H"
+   ],
+   "destaque": [
+    "jogo",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Quando terminou, olhou o campo e disse: agora tá entregue. E foi embora sem olhar pra trás.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Agora tá entregue."
+   ],
+   "destaque": [
+    "olhar",
+    "trás."
+   ]
+  },
+  {
+   "fala": "No carro, ele dormiu com a camisa trinta e quatro no colo, igual criança depois do aniversário.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "depois",
+    "aniversário."
+   ]
+  },
+  {
+   "fala": "Moral da história: todo espetáculo tem alguém cuidando da grama. Repara nele. Agradece.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "REPARA"
+   ],
+   "destaque": [
+    "nele.",
+    "Agradece."
+   ]
+  },
+  {
+   "fala": "E se você for no estádio esse fim de semana, olha o gramado antes do jogo. Tem um seu Joaquim ali.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "NÚMERO 34"
+   ],
+   "destaque": [
+    "Joaquim",
+    "ali."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "id": "cx039",
+ "ep": 39,
+ "avulso": true,
+ "titulo": "O TÁXI DE 1974",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "💛 Um casal comemorando 50 anos de casados me contou como se conheceu: num táxi. E o taxista eu conhecia muito bem.\n\nComo os seus pais ou avós se conheceram? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#bodasdeouro #amor #coincidencia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💛 Um casal comemorando 50 anos de casados me contou como se conheceu: num táxi. E o taxista eu conhecia muito bem. Como os seus pais ou avós se conheceram? 👇\nHistória de ficção.\n#bodasdeouro #amor #coincidencia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida voltou cinquenta anos no tempo e parou na minha família.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "minha",
+    "família."
+   ]
+  },
+  {
+   "fala": "Sábado, onze da manhã. Entrou um casal de idosos de mãos dadas, ela de vestido dourado, ele de gravata amarela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 11H"
+   ],
+   "destaque": [
+    "gravata",
+    "amarela."
+   ]
+  },
+  {
+   "fala": "Ela anunciou: hoje são cinquenta anos de casados. A gente vai almoçar onde se conheceu.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje são bodas de ouro."
+   ],
+   "destaque": [
+    "onde",
+    "conheceu."
+   ]
+  },
+  {
+   "fala": "Perguntei: e onde foi? O seu Euclides respondeu: dentro de um táxi, meu filho. Igualzinho a esse banco aqui.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "E onde foi?"
+   ],
+   "destaque": [
+    "banco",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "Contaram. Mil novecentos e setenta e quatro. Chovia muito. Os dois fizeram sinal pro mesmo táxi, na mesma esquina, ao mesmo tempo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "RIO, 1974"
+   ],
+   "destaque": [
+    "mesmo",
+    "tempo."
+   ]
+  },
+  {
+   "fala": "Discutiram na calçada pra ver quem tinha chegado primeiro. Os dois encharcados. Nenhum queria ceder.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "queria",
+    "ceder."
+   ]
+  },
+  {
+   "fala": "Aí o taxista gritou lá de dentro: entra os dois e para de briga, que eu levo um de cada vez.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Entra os dois e para de briga!"
+   ],
+   "destaque": [
+    "cada",
+    "vez."
+   ]
+  },
+  {
+   "fala": "No caminho, o taxista puxou assunto, fez os dois rirem, e descobriu que ela ia pra uma confeitaria e ele ia pro mesmo bairro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "mesmo",
+    "bairro."
+   ]
+  },
+  {
+   "fala": "Disse: o rapaz desce junto e paga um café pra moça, que a corrida fica mais barata. E foi assim.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O TAXISTA CUPIDO"
+   ],
+   "destaque": [
+    "foi",
+    "assim."
+   ]
+  },
+  {
+   "fala": "Ela completou: o taxista era um baixinho de bigode, com um terço no retrovisor e uma fita do time pendurada.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Um baixinho de bigode."
+   ],
+   "destaque": [
+    "time",
+    "pendurada."
+   ]
+  },
+  {
+   "fala": "Eu senti um frio na barriga. Perguntei: a senhora lembra do carro? Ela disse: um fusca azul. Placa com dois noves.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "noves."
+   ]
+  },
+  {
+   "fala": "Eu tive que encostar. Meu pai foi taxista por trinta anos. Fusca azul. Placa com dois noves. Terço no retrovisor.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O FUSCA AZUL DO MEU PAI"
+   ],
+   "destaque": [
+    "Terço",
+    "retrovisor."
+   ]
+  },
+  {
+   "fala": "Falei: era o meu pai. O nome dele era Sebastião. A dona Neide levou a mão na boca.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Era o meu pai."
+   ],
+   "destaque": [
+    "mão",
+    "boca."
+   ]
+  },
+  {
+   "fala": "E disse: o seu Tião! Ele foi no nosso casamento! Ele levou a gente pra igreja de graça!",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "O seu Tião!"
+   ],
+   "destaque": [
+    "igreja",
+    "graça!"
+   ]
+  },
+  {
+   "fala": "Eu não sabia de nada disso. Meu pai faleceu quando eu tinha vinte anos. Pouca gente me contou histórias dele assim.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dele",
+    "assim."
+   ]
+  },
+  {
+   "fala": "O seu Euclides tirou a carteira e mostrou uma foto do casamento, gasta. Lá no canto, encostado no fusca, de bigode, o meu pai.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A FOTO DO CASAMENTO"
+   ],
+   "destaque": [
+    "meu",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Ele me deu a foto. Eu não queria aceitar. Ele insistiu: a gente tem o original no álbum. Essa aqui é sua.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "aqui",
+    "sua."
+   ]
+  },
+  {
+   "fala": "Eu tinha pouquíssimas fotos dele sorrindo. Nessa ele tá rindo de alguma piada, com a mão no teto do carro.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "MEU PAI SORRINDO"
+   ],
+   "destaque": [
+    "teto",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Deixei os dois na confeitaria. A mesma, há cinquenta anos no mesmo endereço. Eles me fizeram descer pra tomar um café.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "tomar",
+    "café."
+   ]
+  },
+  {
+   "fala": "Pediram três cafés. Um pra cada um e um pro seu Tião. Deixaram a xícara cheia no lugar vazio da mesa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "vazio",
+    "mesa."
+   ]
+  },
+  {
+   "fala": "Cheguei em casa e mostrei a foto pra Rosângela. Ela chorou mais que eu. Hoje tá num porta-retrato na estante.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "porta-retrato",
+    "estante."
+   ]
+  },
+  {
+   "fala": "Moral da história: a gente nunca sabe o tamanho do bem que faz. Meu pai fez um casamento e nem ficou sabendo o fim.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SEJA O CUPIDO"
+   ],
+   "destaque": [
+    "sabendo",
+    "fim."
+   ]
+  },
+  {
+   "fala": "E se você trabalha com gente, capricha no bom-dia. Pode ser o começo de uma família inteira.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CINQUENTA ANOS"
+   ],
+   "destaque": [
+    "família",
+    "inteira."
+   ]
+  }
+ ]
+}

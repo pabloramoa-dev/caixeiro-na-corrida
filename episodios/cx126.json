@@ -1,0 +1,261 @@
+{
+ "id": "cx126",
+ "ep": 126,
+ "avulso": true,
+ "titulo": "O FILHO DE PORTUGAL",
+ "categoria": "familia",
+ "cenario": "dia",
+ "legenda_post": "✈️ Ele foi pra Portugal há 15 anos e nunca voltou. Desembarcou de surpresa e me pediu pra levar até a feira onde a mãe vende verdura.\n\nQuanto tempo você já ficou longe de quem ama? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#saudade #mae #reencontro #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "✈️ Ele foi pra Portugal há 15 anos e nunca voltou. Desembarcou de surpresa e me pediu pra levar até a feira onde a mãe vende verdura. Quanto tempo você já ficou longe de quem ama? 👇\nHistória de ficção.\n#saudade #mae #reencontro #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida terminou numa barraca de alface, com a maior colheita de saudade que eu já vi.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "já",
+    "vi."
+   ]
+  },
+  {
+   "fala": "Sábado, seis e meia da manhã. Aeroporto. Entrou um homem de uns quarenta anos com duas malas e uma cara de quem não dormiu na viagem.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 6H30"
+   ],
+   "destaque": [
+    "dormiu",
+    "viagem."
+   ]
+  },
+  {
+   "fala": "Pediu: feira livre do bairro tal, rua tal. Eu estranhei: do aeroporto direto pra feira? Ele sorriu: é onde a minha mãe tá.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Feira do bairro, por favor."
+   ],
+   "destaque": [
+    "mãe",
+    "tá."
+   ]
+  },
+  {
+   "fala": "Chama-se Reinaldo. Foi pra Portugal aos vinte e cinco tentar a vida. Trabalhou em obra, em restaurante, em fábrica. Ficou quinze anos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "QUINZE ANOS FORA"
+   ],
+   "destaque": [
+    "quinze",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Disse: ela acha que eu chego em dezembro. Eu falei isso pra fazer surpresa. Faz quinze anos que eu prometo e não venho.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela acha que eu chego em dezembro."
+   ],
+   "destaque": [
+    "prometo",
+    "venho."
+   ]
+  },
+  {
+   "fala": "Contou que primeiro não tinha dinheiro. Depois não tinha documento. Depois tinha vergonha de voltar sem ter ficado rico.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ficado",
+    "rico."
+   ]
+  },
+  {
+   "fala": "A mãe dele, dona Benedita, vende verdura na mesma barraca da feira há quarenta anos. Foi com essa barraca que ela criou os quatro filhos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quatro",
+    "filhos."
+   ]
+  },
+  {
+   "fala": "Ele riu: ela grita alface fresquinha, dois por três. Eu ouço essa voz no meu sonho até hoje.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela grita o preço do alface."
+   ],
+   "destaque": [
+    "até",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "Chegamos na feira. Barulho, cheiro de fruta, gente com carrinho. Ele pediu pra eu esperar com as malas no carro.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "malas",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Mas eu fiquei curioso. Tranquei o carro e fui atrás dele, de longe, no meio das barracas.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "das",
+    "barracas."
+   ]
+  },
+  {
+   "fala": "E aí eu ouvi. Uma voz de senhora, alta, rouca: alface fresquinha, dois por três! Ele parou no meio da feira.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "meio",
+    "feira."
+   ]
+  },
+  {
+   "fala": "Ele colocou um boné e óculos escuros. E entrou na fila da barraca dela, como um cliente qualquer.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DE BONÉ E ÓCULOS"
+   ],
+   "destaque": [
+    "cliente",
+    "qualquer."
+   ]
+  },
+  {
+   "fala": "Chegou a vez dele. Disse com a voz grossa: dois alfaces, senhora. Ela pegou, embrulhou no jornal, e esticou o braço.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Dois alfaces, senhora."
+   ],
+   "destaque": [
+    "esticou",
+    "braço."
+   ]
+  },
+  {
+   "fala": "E parou. Olhou a mão dele. Uma cicatriz na mão esquerda, de quando ele caiu da bicicleta aos dez anos. Ela reconheceu a mão.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELA RECONHECEU A MÃO"
+   ],
+   "destaque": [
+    "reconheceu",
+    "mão."
+   ]
+  },
+  {
+   "fala": "Largou o alface. Tirou os óculos dele com as duas mãos. E falou só o nome: Reinaldo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "nome:",
+    "Reinaldo."
+   ]
+  },
+  {
+   "fala": "A feira inteira parou. As outras feirantes, que conheciam a história, largaram tudo. Uma delas começou a chorar antes da própria mãe.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "própria",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "A dona Benedita abraçou o filho por cima da banca de verdura. Derrubou as cenouras, o cheiro-verde, as alfaces. Ninguém juntou nada.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "QUINZE ANOS"
+   ],
+   "destaque": [
+    "juntou",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Depois de um tempão, ela afastou ele, olhou de cima a baixo e disse: você engordou. E ele riu chorando: a senhora não mudou nada, mãe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você engordou."
+   ],
+   "destaque": [
+    "nada,",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "O vizinho de barraca gritou: hoje a alface é de graça! A dona Benedita voltou a si e respondeu: de graça nada, é dois por três!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "três!"
+   ]
+  },
+  {
+   "fala": "Ele passou a manhã inteira na barraca, de avental, vendendo verdura com a mãe. Gritando junto: alface fresquinha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "alface",
+    "fresquinha."
+   ]
+  },
+  {
+   "fala": "Ao meio-dia levei os dois pra casa. Com as malas e a banca desmontada. Ela segurando a mão dele, a da cicatriz, o caminho todo.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "caminho",
+    "todo."
+   ]
+  },
+  {
+   "fala": "Moral da história: mãe não precisa que você volte rico. Precisa só que você volte.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "VOLTA"
+   ],
+   "destaque": [
+    "você",
+    "volte."
+   ]
+  },
+  {
+   "fala": "E se você está longe de casa, liga hoje. E se der, aparece de surpresa numa feira de sábado.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DOIS POR TRÊS"
+   ],
+   "destaque": [
+    "feira",
+    "sábado."
+   ]
+  }
+ ]
+}

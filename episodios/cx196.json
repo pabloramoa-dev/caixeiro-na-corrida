@@ -1,0 +1,267 @@
+{
+ "id": "cx196",
+ "ep": 196,
+ "avulso": true,
+ "titulo": "O MARIDO NA COZINHA",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🍳 Ela quebrou o braço. Ele, casado há 45 anos, nunca tinha fritado um ovo. Aprendeu a cozinhar em uma semana, por vídeo. O primeiro jantar foi no meu carro.\n\nQual foi a primeira coisa que você cozinhou pra alguém que ama? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #cozinha #casal #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🍳 Ela quebrou o braço. Ele, casado há 45 anos, nunca tinha fritado um ovo. Aprendeu a cozinhar em uma semana, por vídeo. O primeiro jantar foi no meu carro. Qual foi a primeira coisa que você cozinhou pra alguém que ama? 👇\nHistória de ficção.\n#amor #cozinha #casal #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um chef de primeira viagem e um jantar que esfriou de nervoso.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "esfriou",
+    "nervoso."
+   ]
+  },
+  {
+   "fala": "Sexta, seis da tarde. Entrou um senhor de setenta e dois anos num supermercado. Com uma lista enorme e um carrinho cheio. E uma cara de quem está em território inimigo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 18H"
+   ],
+   "destaque": [
+    "território",
+    "inimigo."
+   ]
+  },
+  {
+   "fala": "Antes de eu sair, ele perguntou: o senhor sabe o que é tomilho? Eu disse: é um tempero. Ele: comprei três. Não sei qual é.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "O senhor sabe o que é tomilho?"
+   ],
+   "destaque": [
+    "sei",
+    "qual"
+   ]
+  },
+  {
+   "fala": "Seu Osvaldo. Quarenta e cinco anos de casado com a dona Zélia. E em quarenta e cinco anos, nunca tinha cozinhado nada. Nem ovo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU OSVALDO NA COZINHA"
+   ],
+   "destaque": [
+    "Nem",
+    "ovo."
+   ]
+  },
+  {
+   "fala": "Disse: ela escorregou no banheiro e quebrou o braço. Engessado por seis semanas. E eu não sei fazer nada.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela quebrou o braço."
+   ],
+   "destaque": [
+    "fazer",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Contou que no primeiro dia pediu pizza. No segundo, pizza. No terceiro, a dona Zélia disse: Osvaldo, eu vou morrer de pizza.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "morrer",
+    "pizza."
+   ]
+  },
+  {
+   "fala": "Aí ele pegou o celular da neta e começou a ver vídeo de receita. Uma semana. Anotando num caderno. Errando, queimando, salgando demais.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "salgando",
+    "demais."
+   ]
+  },
+  {
+   "fala": "Riu: queimei três panelas, uma frigideira e a ponta do meu dedo. A cozinha parece campo de batalha.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Queimei três panelas."
+   ],
+   "destaque": [
+    "campo",
+    "batalha."
+   ]
+  },
+  {
+   "fala": "E naquela sexta ia fazer o jantar mais difícil. Frango assado com batata. A receita preferida dela. A que ela fazia todo aniversário de casamento.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O JANTAR DE HOJE"
+   ],
+   "destaque": [
+    "aniversário",
+    "casamento."
+   ]
+  },
+  {
+   "fala": "Era o aniversário de casamento. Quarenta e cinco anos. E ele queria fazer pra ela. O que ela sempre fez pra ele.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Hoje é aniversário."
+   ],
+   "destaque": [
+    "sempre",
+    "fez"
+   ]
+  },
+  {
+   "fala": "Levei ele pra casa. Ajudei com as sacolas até a cozinha. A dona Zélia na sala, de gesso no braço, assistindo novela. Desconfiada.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "novela.",
+    "Desconfiada."
+   ]
+  },
+  {
+   "fala": "Eu ia embora. Mas ele pediu: o senhor fica uns minutinhos? Se pegar fogo, preciso de alguém. Eu fiquei. Na porta da cozinha.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "porta",
+    "cozinha."
+   ]
+  },
+  {
+   "fala": "Duas horas. Ele temperando com medo. Lendo o caderno. Perguntando pra mim: isso é uma pitada? Eu: acho que é. Nenhum dos dois sabia.",
+   "expr": "rindo",
+   "arte": [
+    "relogio",
+    "DUAS HORAS"
+   ],
+   "destaque": [
+    "dois",
+    "sabia."
+   ]
+  },
+  {
+   "fala": "No meio do caminho, a dona Zélia apareceu na porta da cozinha. Ele tentou expulsar. Ela não saiu. Ficou encostada no batente, olhando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "batente,",
+    "olhando."
+   ]
+  },
+  {
+   "fala": "Ela não falou nada. Só olhava ele mexendo nas panelas, suado, de avental florido dela. E sorria de canto.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "sorria",
+    "canto."
+   ]
+  },
+  {
+   "fala": "O frango saiu do forno. Dourado. Um pouco queimado de um lado. Mas dourado. A batata, crocante. A casa inteira cheirando a domingo.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O FRANGO SAIU"
+   ],
+   "destaque": [
+    "cheirando",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "Ele colocou na mesa, com vela e toalha bordada. Puxou a cadeira pra ela. Cortou o frango pra ela, que estava de braço engessado.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "braço",
+    "engessado."
+   ]
+  },
+  {
+   "fala": "Ela provou. Mastigou devagar. Fechou o olho. Ficou em silêncio. Ele parado do lado, segurando o pano de prato, esperando.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A PRIMEIRA GARFADA"
+   ],
+   "destaque": [
+    "prato,",
+    "esperando."
+   ]
+  },
+  {
+   "fala": "Ela abriu o olho e disse: tá igual o meu, Osvaldo. Um pouquinho mais salgado. Mas igual. Ele sentou e chorou.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "TÁ IGUAL O MEU"
+   ],
+   "destaque": [
+    "sentou",
+    "chorou."
+   ]
+  },
+  {
+   "fala": "Ela disse: quarenta e cinco anos eu cozinhei pra você. Precisei quebrar o braço pra você cozinhar pra mim. Valeu o gesso.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Quarenta e cinco anos."
+   ],
+   "destaque": [
+    "Valeu",
+    "gesso."
+   ]
+  },
+  {
+   "fala": "Fui embora com um pedaço de frango numa marmita. Estava salgado. Estava ótimo. A Rosângela leu essa história e perguntou: e você, sabe fazer frango? Não sei.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "frango?",
+    "sei."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem cuida a vida inteira também merece ser cuidado. Nem que seja com frango queimado.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "COZINHA PRA QUEM COZINHA"
+   ],
+   "destaque": [
+    "frango",
+    "queimado."
+   ]
+  },
+  {
+   "fala": "E se alguém cozinha pra você todo dia, cozinha pra ela esse fim de semana. Pode errar. Ela vai adorar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "45 ANOS"
+   ],
+   "destaque": [
+    "vai",
+    "adorar."
+   ]
+  }
+ ]
+}

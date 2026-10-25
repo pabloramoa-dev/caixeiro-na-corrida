@@ -1,0 +1,275 @@
+{
+ "id": "cx048",
+ "ep": 48,
+ "avulso": true,
+ "titulo": "A DEDICATÓRIA GUARDADA",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "📻 Um viúvo ligou pra rádio do meu carro pra dedicar uma música à esposa. A locutora tinha uma surpresa guardada havia um ano.\n\nQual música é a \"música do casal\" na sua família? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #radio #saudade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📻 Um viúvo ligou pra rádio do meu carro pra dedicar uma música à esposa. A locutora tinha uma surpresa guardada havia um ano. Qual música é a \"música do casal\" na sua família? 👇\nHistória de ficção.\n#amor #radio #saudade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um recado que atravessou o tempo pelo rádio do carro.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "rádio",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou um senhor de setenta e oito anos, camisa de botão, cabelo penteado com água.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "penteado",
+    "água."
+   ]
+  },
+  {
+   "fala": "Logo pediu: pode ligar o rádio na AM? Tem um programa que eu não perco.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Pode ligar o rádio?"
+   ],
+   "destaque": [
+    "programa",
+    "perco."
+   ]
+  },
+  {
+   "fala": "Era um programa de dedicatórias, desses antigos. Gente ligando pra oferecer música pra namorada, pra mãe, pro vizinho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "PROGRAMA DE DEDICATÓRIAS"
+   ],
+   "destaque": [
+    "pro",
+    "vizinho."
+   ]
+  },
+  {
+   "fala": "Seu Osvaldo. Disse que ouviu esse programa com a esposa, a dona Célia, todo domingo, por quarenta anos.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "A gente ouvia juntos."
+   ],
+   "destaque": [
+    "quarenta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Ela faleceu fazia um ano. Desde então, ele não conseguia ouvir em casa. Ouvia no táxi, na rua, em qualquer lugar menos na sala.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "menos",
+    "sala."
+   ]
+  },
+  {
+   "fala": "E contou: hoje a gente faria cinquenta anos de casados. Eu queria ligar e oferecer a nossa música pra ela.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Hoje faria 50 anos."
+   ],
+   "destaque": [
+    "nossa",
+    "música"
+   ]
+  },
+  {
+   "fala": "Mas tinha vergonha. Achava bobeira de velho. Ficou com o telefone na mão, olhando o número da rádio.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "número",
+    "rádio."
+   ]
+  },
+  {
+   "fala": "Eu falei: liga, seu Osvaldo. Bobeira é a gente guardar as coisas que tem vontade de dizer.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Liga, seu Osvaldo."
+   ],
+   "destaque": [
+    "vontade",
+    "dizer."
+   ]
+  },
+  {
+   "fala": "Ele ligou. Eu encostei o carro na sombra. Atendeu a produção. Depois de um tempo, ele estava no ar.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Chamando: Rádio"
+   ],
+   "destaque": [
+    "estava",
+    "ar."
+   ]
+  },
+  {
+   "fala": "Com a voz tremendo, disse o nome dele, o nome dela, e pediu a música do casamento. Disse que hoje eram bodas de ouro.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "bodas",
+    "ouro."
+   ]
+  },
+  {
+   "fala": "A locutora ficou quieta um segundo. Depois disse: seu Osvaldo, espera um pouquinho. Eu tenho uma coisa pro senhor.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "Seu Osvaldo, espera um pouco."
+   ],
+   "destaque": [
+    "pro",
+    "senhor."
+   ]
+  },
+  {
+   "fala": "Ela explicou: um ano atrás, a dona Célia ligou pro programa. Deixou um recado gravado. Pediu pra gente tocar no dia das bodas de ouro.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "UMA GRAVAÇÃO DE UM ANO ATRÁS"
+   ],
+   "destaque": [
+    "bodas",
+    "ouro."
+   ]
+  },
+  {
+   "fala": "O seu Osvaldo segurou no encosto do meu banco. Eu aumentei o volume devagar.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "volume",
+    "devagar."
+   ]
+  },
+  {
+   "fala": "A voz dela, fraquinha, no rádio do meu carro: Osvaldo, se eu não estiver aí, quero que você saiba que valeu cada domingo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Osvaldo, se eu não estiver aí..."
+   ],
+   "destaque": [
+    "cada",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "Disse que ele precisava voltar a ouvir o programa na sala. Que ela ia estar ali do lado, no sofá, do jeito de sempre.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "jeito",
+    "sempre."
+   ]
+  },
+  {
+   "fala": "E terminou: e por favor, rega as minhas violetas, que você esquece. Aí a música começou.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "VALEU CADA DOMINGO"
+   ],
+   "destaque": [
+    "música",
+    "começou."
+   ]
+  },
+  {
+   "fala": "O seu Osvaldo cantou junto. Baixinho, desafinado, com o rosto todo molhado. Eu cantei também. Não sabia a letra, mas cantei.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "letra,",
+    "cantei."
+   ]
+  },
+  {
+   "fala": "Ele não quis mais ir pra onde ia. Pediu pra voltar pra casa. Disse que tinha uma coisa pra fazer.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "coisa",
+    "fazer."
+   ]
+  },
+  {
+   "fala": "Desceu na frente da casa, abriu o portão, e a primeira coisa que fez foi pegar a mangueira e regar as violetas da varanda.",
+   "expr": "neutra",
+   "arte": [
+    "porta"
+   ],
+   "destaque": [
+    "violetas",
+    "varanda."
+   ]
+  },
+  {
+   "fala": "Depois me acenou da janela da sala. Dava pra ouvir o rádio lá dentro, alto, tocando o programa.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tocando",
+    "programa."
+   ]
+  },
+  {
+   "fala": "Fui embora com o rádio na mesma estação. Fiquei ouvindo as dedicatórias até o fim, sem pegar corrida.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "pegar",
+    "corrida."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem amor que não acaba nem quando a pessoa vai. Ele só muda de estação.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "DEDICA HOJE"
+   ],
+   "destaque": [
+    "muda",
+    "estação."
+   ]
+  },
+  {
+   "fala": "E se você tem alguém pra dedicar uma música, dedica hoje. Não precisa de rádio. Manda o link.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "REGA AS VIOLETAS"
+   ],
+   "destaque": [
+    "Manda",
+    "link."
+   ]
+  }
+ ]
+}

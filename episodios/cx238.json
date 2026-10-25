@@ -1,0 +1,258 @@
+{
+ "id": "cx238",
+ "ep": 238,
+ "avulso": true,
+ "titulo": "O NADADOR CEGO",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🏊 Ele perdeu a visão aos 15. Aos 25, ia disputar a seletiva paralímpica de natação. O irmão dele era o técnico que batia nas costas dele com um bastão.\n\nQuem é o seu maior parceiro de vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#natacao #paratleta #irmaos #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏊 Ele perdeu a visão aos 15. Aos 25, ia disputar a seletiva paralímpica de natação. O irmão dele era o técnico que batia nas costas dele com um bastão. Quem é o seu maior parceiro de vida? 👇\nHistória de ficção.\n#natacao #paratleta #irmaos #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou dois irmãos que nadam juntos. Um dentro da água, outro fora.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "outro",
+    "fora."
+   ]
+  },
+  {
+   "fala": "Sábado, seis da manhã. Entraram dois rapazes. Um de óculos escuros e bengala branca. O outro com uma vara comprida, de ponta de espuma.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 6H"
+   ],
+   "destaque": [
+    "ponta",
+    "espuma."
+   ]
+  },
+  {
+   "fala": "O da bengala disse: esse é o meu irmão. O meu técnico. E o meu batedor. O outro riu: batedor oficial. Eu bato nele há dez anos.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o meu irmão."
+   ],
+   "destaque": [
+    "dez",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Chamam-se Daniel e Rafael. O Daniel perdeu a visão aos quinze, por uma doença na retina. O Rafael era o irmão mais velho.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OS IRMÃOS"
+   ],
+   "destaque": [
+    "mais",
+    "velho."
+   ]
+  },
+  {
+   "fala": "O Daniel contou: eu parei de sair do quarto. Durante um ano. Achei que a vida tinha acabado. Eu era nadador. Treinava todo dia.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu parei de sair do quarto."
+   ],
+   "destaque": [
+    "todo",
+    "dia."
+   ]
+  },
+  {
+   "fala": "O Rafael não aceitou. Pesquisou. Descobriu a natação paralímpica. E descobriu que nadador cego precisa de um batedor.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "precisa",
+    "batedor."
+   ]
+  },
+  {
+   "fala": "Ele explicou: o batedor fica na borda da piscina com essa vara. Quando o nadador chega perto da parede, ele bate nas costas. Pra ele virar sem bater a cabeça.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O BATEDOR"
+   ],
+   "destaque": [
+    "bater",
+    "cabeça."
+   ]
+  },
+  {
+   "fala": "O Rafael riu: eu aprendi a bater no tempo certo. No começo eu batia muito cedo ou muito tarde. Ele bateu a cabeça três vezes. Ficou com raiva de mim.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Eu aprendi a bater."
+   ],
+   "destaque": [
+    "raiva",
+    "mim."
+   ]
+  },
+  {
+   "fala": "Dez anos treinando juntos. Toda manhã, às cinco. O Rafael largou o emprego de vendedor pra virar técnico de natação. Por causa do irmão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "causa",
+    "irmão."
+   ]
+  },
+  {
+   "fala": "E naquele sábado era a seletiva pra seleção paralímpica. Cem metros livre. Se ganhasse, ia pras competições internacionais.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A SELETIVA"
+   ],
+   "destaque": [
+    "competições",
+    "internacionais."
+   ]
+  },
+  {
+   "fala": "Chegamos num complexo aquático. Piscina olímpica, arquibancada, bandeiras. Atletas de todo o país. Eu fiquei. Eles pediram.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "Eles",
+    "pediram."
+   ]
+  },
+  {
+   "fala": "A prova do Daniel. Oito atletas, oito batedores na borda. O Rafael do lado da raia quatro, segurando a vara com as duas mãos.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "A PROVA"
+   ],
+   "destaque": [
+    "duas",
+    "mãos."
+   ]
+  },
+  {
+   "fala": "Largada. O Daniel nadando reto, sem ver nada. Seguindo a corda da raia com o braço. O Rafael andando na borda, acompanhando.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "borda,",
+    "acompanhando."
+   ]
+  },
+  {
+   "fala": "Na virada dos cinquenta metros, o Rafael bateu nas costas dele. No tempo exato. O Daniel virou perfeito. Saiu na frente.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A BATIDA"
+   ],
+   "destaque": [
+    "Saiu",
+    "frente."
+   ]
+  },
+  {
+   "fala": "Os outros nadadores encostando. O Daniel na frente por pouco. O Rafael gritando da borda. Ele não podia ver, mas sentia o irmão ali.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "irmão",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Bateu na parede. Primeiro lugar. Por dois décimos. Classificado pra seleção.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PRIMEIRO LUGAR"
+   ],
+   "destaque": [
+    "Classificado",
+    "seleção."
+   ]
+  },
+  {
+   "fala": "O Daniel tirou a touca e perguntou: ganhei? O Rafael não conseguiu responder. Pulou na piscina. De roupa. Com a vara.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "roupa.",
+    "vara."
+   ]
+  },
+  {
+   "fala": "Os dois abraçados dentro da piscina. O nadador cego e o irmão de roupa molhada. A arquibancada inteira de pé.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "DOIS IRMÃOS NA ÁGUA"
+   ],
+   "destaque": [
+    "inteira",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Na beira da piscina, o Daniel disse no microfone: obrigado, irmão. Mas você bateu muito forte na virada. Tá doendo até agora.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Você me batia muito forte."
+   ],
+   "destaque": [
+    "até",
+    "agora."
+   ]
+  },
+  {
+   "fala": "Na volta, os dois molhados no banco de trás, rindo. O Rafael de roupa encharcada. Eu forrei o banco com saco de lixo. Valeu a pena.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Valeu",
+    "pena."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que não enxerga o caminho. E tem gente que vira o caminho de alguém.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "NADA JUNTO"
+   ],
+   "destaque": [
+    "caminho",
+    "alguém."
+   ]
+  },
+  {
+   "fala": "E se você tem um irmão que é seu batedor na vida, agradece hoje. Ele bate pra você não bater a cabeça.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "RAIA QUATRO"
+   ],
+   "destaque": [
+    "bater",
+    "cabeça."
+   ]
+  }
+ ]
+}

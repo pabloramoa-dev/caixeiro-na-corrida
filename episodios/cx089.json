@@ -1,0 +1,276 @@
+{
+ "id": "cx089",
+ "ep": 89,
+ "avulso": true,
+ "titulo": "AS MUDAS DO SEU BENTO",
+ "categoria": "curiosa",
+ "cenario": "dia",
+ "legenda_post": "🌳 Há 25 anos ele planta árvores escondido nos canteiros da cidade. Já levou multa. Hoje o bairro dele é o mais verde da região.\n\nTem alguma árvore que marcou a sua infância? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#natureza #arvores #cidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🌳 Há 25 anos ele planta árvores escondido nos canteiros da cidade. Já levou multa. Hoje o bairro dele é o mais verde da região. Tem alguma árvore que marcou a sua infância? 👇\nHistória de ficção.\n#natureza #arvores #cidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve o passageiro mais sujo de terra e mais limpo de alma que eu já levei.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "já",
+    "levei."
+   ]
+  },
+  {
+   "fala": "Domingo, cinco e meia da manhã. Entrou um senhor de setenta anos, chapéu de palha, uma pá dobrável e o porta-malas cheio de mudas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 5H30"
+   ],
+   "destaque": [
+    "cheio",
+    "mudas."
+   ]
+  },
+  {
+   "fala": "Disse: vamos rápido, antes do sol nascer. Eu perguntei se era alguma coisa ilegal. Ele riu: mais ou menos.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Rápido, antes do sol."
+   ],
+   "destaque": [
+    "ou",
+    "menos."
+   ]
+  },
+  {
+   "fala": "Seu Bento. Há vinte e cinco anos, todo domingo de madrugada, ele planta árvores em canteiros, calçadas, terrenos baldios da cidade. Sem autorização.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "PLANTADOR CLANDESTINO"
+   ],
+   "destaque": [
+    "Sem",
+    "autorização."
+   ]
+  },
+  {
+   "fala": "Disse: já levei três multas da prefeitura. Paguei as três. E plantei mais uma árvore com o recibo de cada multa enterrado junto.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Já levei três multas."
+   ],
+   "destaque": [
+    "enterrado",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Contou que começou quando a esposa dele, que adorava sombra, reclamava que não tinha uma árvore na rua deles. Nenhuma.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "deles.",
+    "Nenhuma."
+   ]
+  },
+  {
+   "fala": "Ela dizia: Bento, essa rua é um forno. Quem sabe um dia tenha uma sombra pra eu sentar. Ele plantou a primeira na frente de casa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela queria sombra."
+   ],
+   "destaque": [
+    "frente",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Fomos parando. Ele descia, cavava o buraco em três minutos, plantava, regava com uma garrafa pet e voltava. Ipê, quaresmeira, pitangueira.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "quaresmeira,",
+    "pitangueira."
+   ]
+  },
+  {
+   "fala": "Em cada uma, uma plaquinha de madeira escrita a mão: cuida de mim. Eu dou sombra.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "dou",
+    "sombra."
+   ]
+  },
+  {
+   "fala": "No caminho ele me mostrou as árvores antigas dele. Uma rua inteira, de ponta a ponta, com ipê amarelo. Todos dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "Todos",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Na época de florada, essa rua fica amarela. Vem gente de longe tirar foto. E ninguém sabe que foi um velho de madrugada.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A RUA AMARELA"
+   ],
+   "destaque": [
+    "velho",
+    "madrugada."
+   ]
+  },
+  {
+   "fala": "Aí, na décima parada, chegou uma viatura da guarda municipal. Luz piscando. Parou do lado do seu Bento, de pá na mão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pá",
+    "mão."
+   ]
+  },
+  {
+   "fala": "O guarda desceu e disse: bom dia, seu Bento. O seu Bento abaixou a cabeça: vai ser a quarta multa, né?",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Bom dia, seu Bento."
+   ],
+   "destaque": [
+    "multa,",
+    "né?"
+   ]
+  },
+  {
+   "fala": "Mas o guarda abriu o porta-malas da viatura. Tinha uma muda de ipê-roxo. E disse: essa aqui é minha. O senhor me ensina a plantar?",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O GUARDA TINHA UMA MUDA"
+   ],
+   "destaque": [
+    "ensina",
+    "plantar?"
+   ]
+  },
+  {
+   "fala": "Contou que cresceu numa rua do bairro do seu Bento. Que estudava debaixo de um ipê que o seu Bento plantou. Que era a única sombra no caminho da escola.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "caminho",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Os dois plantaram juntos. O guarda de farda, o velho de chapéu de palha, cavando na calçada. Eu segurando a lanterna. Que cena.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "lanterna.",
+    "cena."
+   ]
+  },
+  {
+   "fala": "E aí o guarda entregou um papel. Era da prefeitura. Um convite. O projeto de arborização da cidade queria o seu Bento como consultor.",
+   "expr": "chocada",
+   "arte": [
+    "notificacao",
+    "Ofício da prefeitura"
+   ],
+   "destaque": [
+    "como",
+    "consultor."
+   ]
+  },
+  {
+   "fala": "De multado a consultor. Vinte e cinco anos depois. Com direito a mudas de graça, viveiro e um crachá.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "DE MULTADO A CONSULTOR"
+   ],
+   "destaque": [
+    "viveiro",
+    "crachá."
+   ]
+  },
+  {
+   "fala": "Ele segurou o papel e falou: a minha esposa ia rir disso. Ela dizia que um dia iam me prender ou me dar uma medalha.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela ia rir disso."
+   ],
+   "destaque": [
+    "dar",
+    "medalha."
+   ]
+  },
+  {
+   "fala": "Sete da manhã. O sol nasceu. Voltamos pela rua dele. A primeira árvore, a da frente da casa, gigante.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "7H"
+   ],
+   "destaque": [
+    "casa,",
+    "gigante."
+   ]
+  },
+  {
+   "fala": "Embaixo dela, um banquinho de madeira. Com uma plaquinha: aqui é o lugar da Dona Zélia. Sente-se na sombra.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Sente-se",
+    "sombra."
+   ]
+  },
+  {
+   "fala": "Eu levei uma muda pra casa. Plantei na calçada. A Rosângela reclamou que vai sujar de folha. Mas ela senta lá toda tarde.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "toda",
+    "tarde."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que reclama do calor. E tem gente que planta a sombra que nunca vai sentar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PLANTA"
+   ],
+   "destaque": [
+    "vai",
+    "sentar."
+   ]
+  },
+  {
+   "fala": "E se você tiver um pedaço de terra na calçada, planta uma árvore. Daqui a vinte anos, alguém vai estudar na sombra dela.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "CUIDA DE MIM"
+   ],
+   "destaque": [
+    "sombra",
+    "dela."
+   ]
+  }
+ ]
+}

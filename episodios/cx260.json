@@ -1,0 +1,243 @@
+{
+ "id": "cx260",
+ "ep": 260,
+ "avulso": true,
+ "titulo": "AS GÊMEAS TROCADAS",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "👯 As gêmeas idênticas trocaram de lugar pela última vez, aos 70 anos, pra pregar uma peça na família. Ninguém percebeu. Só o marido de uma delas.\n\nVocê conhece gêmeos que adoravam se passar um pelo outro? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#gemeas #humor #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "👯 As gêmeas idênticas trocaram de lugar pela última vez, aos 70 anos, pra pregar uma peça na família. Ninguém percebeu. Só o marido de uma delas. Você conhece gêmeos que adoravam se passar um pelo outro? 👇\nHistória de ficção.\n#gemeas #humor #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou duas senhoras idênticas. E uma delas mentindo o caminho todo.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "caminho",
+    "todo."
+   ]
+  },
+  {
+   "fala": "Domingo, meio-dia. Entraram duas senhoras de setenta anos. Idênticas. Mesmo cabelo, mesmo óculos, mesmo vestido. Rindo como meninas.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 12H"
+   ],
+   "destaque": [
+    "como",
+    "meninas."
+   ]
+  },
+  {
+   "fala": "Uma disse: somos gêmeas. Eu sou a Lurdes. A outra: e eu sou a Lúcia. Aí as duas riram juntas. E a primeira disse: ou não.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Somos gêmeas."
+   ],
+   "destaque": [
+    "disse:",
+    "ou"
+   ]
+  },
+  {
+   "fala": "Contaram: desde crianças, trocavam de lugar. Na escola, uma fazia a prova da outra. No namoro, uma ia no encontro da outra. Ninguém nunca percebia.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A TROCA DE 70 ANOS"
+   ],
+   "destaque": [
+    "nunca",
+    "percebia."
+   ]
+  },
+  {
+   "fala": "Disse a Lurdes, ou a Lúcia: uma vez eu fui no encontro dela e o rapaz me pediu em namoro. Eu disse sim por ela. Ela não gostou nada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "gostou",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Aquele domingo era o almoço de aniversário de setenta anos das duas. A família inteira reunida. Filhos, netos, maridos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "netos,",
+    "maridos."
+   ]
+  },
+  {
+   "fala": "E elas tinham um plano: a última troca. Uma ia se passar pela outra o almoço inteiro. Pra ver se alguém percebia.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A última troca."
+   ],
+   "destaque": [
+    "alguém",
+    "percebia."
+   ]
+  },
+  {
+   "fala": "Perguntei: e os maridos? Eles não vão perceber? As duas riram: cinquenta anos de casados. Vamos ver se conhecem a gente.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E os maridos?"
+   ],
+   "destaque": [
+    "conhecem",
+    "gente."
+   ]
+  },
+  {
+   "fala": "Chegamos numa chácara. Família reunida, churrasco, música. Elas me convidaram pra ficar de testemunha. Eu fiquei. Ia ser divertido.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "ser",
+    "divertido."
+   ]
+  },
+  {
+   "fala": "As duas entraram. Cada uma foi pro lado do marido da outra. E começou. Os filhos abraçando a mãe errada. Os netos chamando a avó errada.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "avó",
+    "errada."
+   ]
+  },
+  {
+   "fala": "Meia hora. Uma hora. Ninguém percebeu. A Lurdes, sendo a Lúcia, comentou a novela. O genro da Lúcia concordou. Ela não assiste a novela.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "NINGUÉM PERCEBEU"
+   ],
+   "destaque": [
+    "assiste",
+    "novela."
+   ]
+  },
+  {
+   "fala": "As duas trocando olhares de longe, segurando o riso. Eu no canto, comendo picanha, assistindo a melhor novela do domingo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "novela",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "Aí o seu Antônio, marido da Lúcia, foi até a mulher que estava sentada do lado dele. Que era a Lurdes. E segurou a mão dela.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mão",
+    "dela."
+   ]
+  },
+  {
+   "fala": "E disse: Lurdes, cadê a minha mulher? A Lurdes ficou paralisada. A família inteira parou. Ninguém tinha percebido. Só ele.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELE PERCEBEU"
+   ],
+   "destaque": [
+    "percebido.",
+    "Só"
+   ]
+  },
+  {
+   "fala": "A Lúcia de verdade veio lá do outro lado, rindo. Perguntou: como você sabia, Antônio? Ninguém nunca soube. Nem a nossa mãe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Como você sabia?"
+   ],
+   "destaque": [
+    "nossa",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "Ele disse: pela mão. A Lúcia tem uma cicatriz pequena no dedo. De quando cortou cebola no nosso primeiro jantar. Cinquenta anos atrás. Eu beijo esse dedo todo dia.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A MÃO"
+   ],
+   "destaque": [
+    "todo",
+    "dia."
+   ]
+  },
+  {
+   "fala": "A Lúcia ficou com o olho cheio d'água. Disse: setenta anos enganando todo mundo. E você me pegou pelo dedo da cebola.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O DEDO DA CEBOLA"
+   ],
+   "destaque": [
+    "dedo",
+    "cebola."
+   ]
+  },
+  {
+   "fala": "E o marido da Lurdes? Ele estava do outro lado conversando com a Lúcia achando que era a mulher dele. Até hoje é zoado na família.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "zoado",
+    "família."
+   ]
+  },
+  {
+   "fala": "Na volta, as duas foram rindo o caminho todo. Disseram que foi a melhor troca da vida. E a última. Porque alguém finalmente conhecia de verdade uma delas.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "verdade",
+    "delas."
+   ]
+  },
+  {
+   "fala": "Moral da história: amor de verdade é conhecer o detalhe que ninguém mais vê. Nem que seja um corte de cebola.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONHECE DE VERDADE"
+   ],
+   "destaque": [
+    "corte",
+    "cebola."
+   ]
+  },
+  {
+   "fala": "E se você conhece gêmeos, desafia: tem alguém que sabe diferenciar? Pode ser a pessoa que mais ama eles.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "LURDES E LÚCIA"
+   ],
+   "destaque": [
+    "ama",
+    "eles."
+   ]
+  }
+ ]
+}

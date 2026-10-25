@@ -1,0 +1,243 @@
+{
+ "id": "cx287",
+ "ep": 287,
+ "avulso": true,
+ "titulo": "O DNA DO CACHORRO",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🐕 A família brigava há anos pra saber de que raça era o vira-lata deles. Fizeram um teste de DNA. O resultado deixou todo mundo sem fala.\n\nSeu cachorro é de que raça? Ou é um vira-lata misterioso? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#cachorro #humor #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🐕 A família brigava há anos pra saber de que raça era o vira-lata deles. Fizeram um teste de DNA. O resultado deixou todo mundo sem fala. Seu cachorro é de que raça? Ou é um vira-lata misterioso? 👇\nHistória de ficção.\n#cachorro #humor #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um vira-lata pra descobrir a própria árvore genealógica.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "árvore",
+    "genealógica."
+   ]
+  },
+  {
+   "fala": "Sábado, dez da manhã. Entrou uma família: pai, mãe, avó e dois adolescentes. E um cachorro. Marrom, de orelha caída, rabo enrolado e cara de quem não sabe de nada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 10H"
+   ],
+   "destaque": [
+    "sabe",
+    "nada."
+   ]
+  },
+  {
+   "fala": "A mãe disse: hoje sai o resultado do DNA do Pipoca. Eu perguntei: DNA? Do cachorro? O filho: é. A gente não aguenta mais a briga.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Hoje sai o resultado."
+   ],
+   "destaque": [
+    "mais",
+    "briga."
+   ]
+  },
+  {
+   "fala": "Explicaram: o Pipoca foi adotado de um abrigo seis anos antes. E desde então, a família discute de que raça ele é.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A GUERRA DA RAÇA"
+   ],
+   "destaque": [
+    "discute",
+    "raça"
+   ]
+  },
+  {
+   "fala": "O pai: é labrador. Olha o tamanho. A mãe: é beagle. Olha a orelha. A avó: é pastor alemão. Olha a cara de bravo. O filho: é salsicha. Olha a barriga.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É labrador."
+   ],
+   "destaque": [
+    "Olha",
+    "barriga."
+   ]
+  },
+  {
+   "fala": "Seis anos de discussão. Em todo almoço de domingo. Fizeram até um bolão. Cada um apostou numa raça. Quem acertasse, não lavava louça por um mês.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "louça",
+    "mês."
+   ]
+  },
+  {
+   "fala": "Aí a filha encomendou um teste de DNA canino pela internet. Colheu saliva do Pipoca com um cotonete. Mandou pro laboratório. E o resultado ia ser aberto na clínica veterinária.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "clínica",
+    "veterinária."
+   ]
+  },
+  {
+   "fala": "Chegamos na clínica. A família me convidou pra entrar. Disseram: o senhor é testemunha neutra. Pro bolão ser válido. Eu já virei testemunha profissional.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "testemunha",
+    "profissional."
+   ]
+  },
+  {
+   "fala": "A veterinária abriu o envelope. A família em volta. O Pipoca sentado, abanando o rabo, sem entender a tensão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "entender",
+    "tensão."
+   ]
+  },
+  {
+   "fala": "A veterinária leu: o Pipoca é vinte e cinco por cento labrador. Vinte por cento beagle. Quinze por cento pastor alemão. Dez por cento salsicha.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O RESULTADO"
+   ],
+   "destaque": [
+    "cento",
+    "salsicha."
+   ]
+  },
+  {
+   "fala": "Silêncio. Os quatro se olharam. Todo mundo tinha acertado. Mais ou menos. O pai: então eu ganhei. A mãe: eu também. A avó: e eu.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "também.",
+    "avó:"
+   ]
+  },
+  {
+   "fala": "Aí a filha perguntou: e o resto? Faltam trinta por cento. A veterinária olhou o papel de novo. E começou a rir.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "E O RESTO?"
+   ],
+   "destaque": [
+    "começou",
+    "rir."
+   ]
+  },
+  {
+   "fala": "Disse: trinta por cento poodle. A maior parte. O Pipoca é mais poodle que qualquer outra coisa.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "TRINTA POR CENTO DE POODLE"
+   ],
+   "destaque": [
+    "outra",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "A família inteira olhou pro Pipoca. Marrom, de cara de bravo, rabo enrolado. Nada de poodle. O pai disse: impossível. Ele não tem nada de poodle.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "nada",
+    "poodle."
+   ]
+  },
+  {
+   "fala": "O filho: ninguém apostou em poodle! Então ninguém ganhou! Todo mundo lava louça! A avó: e o cachorro? O cachorro ganhou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ninguém apostou poodle."
+   ],
+   "destaque": [
+    "cachorro",
+    "ganhou."
+   ]
+  },
+  {
+   "fala": "Aí a veterinária disse uma coisa bonita: sabe o que esse teste mostra? Que ele é um pouco de tudo. Igual a família de vocês. Cada um puxou de um lado.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O MAIS IMPORTANTE"
+   ],
+   "destaque": [
+    "puxou",
+    "lado."
+   ]
+  },
+  {
+   "fala": "A avó abraçou o Pipoca e disse: tá vendo? Ele tem um pouquinho de cada um de nós. Por isso a gente ama tanto.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "UM POUCO DE CADA"
+   ],
+   "destaque": [
+    "ama",
+    "tanto."
+   ]
+  },
+  {
+   "fala": "E aí o Pipoca, como quem entende, fez uma coisa que nunca tinha feito. Ficou de pé nas patas de trás e deu uma voltinha. Igual poodle de circo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "poodle",
+    "circo."
+   ]
+  },
+  {
+   "fala": "Na volta, a família inteira decidiu: o bolão foi anulado. A louça vai ser dividida. E o Pipoca ganhou um corte de cabelo de poodle. Ficou horrível. Ele adorou.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "horrível.",
+    "adorou."
+   ]
+  },
+  {
+   "fala": "Moral da história: não importa a raça. Importa o amor. E às vezes o vira-lata é mais poodle do que parece.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "AMA O MISTURADO"
+   ],
+   "destaque": [
+    "poodle",
+    "parece."
+   ]
+  },
+  {
+   "fala": "E o seu vira-lata, você acha que é de que raça? Me conta nos comentários. Aposto que tem um pouco de poodle.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PIPOCA POODLE"
+   ],
+   "destaque": [
+    "pouco",
+    "poodle."
+   ]
+  }
+ ]
+}

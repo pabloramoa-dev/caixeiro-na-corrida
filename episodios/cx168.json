@@ -1,0 +1,267 @@
+{
+ "id": "cx168",
+ "ep": 168,
+ "avulso": true,
+ "titulo": "O PEDREIRO ARQUITETO",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🏗️ Ele foi pedreiro por 30 anos construindo a casa dos outros. Aos 52, se formou arquiteto. O primeiro projeto foi a casa da mãe.\n\nQual profissão você sempre quis ter e nunca teve? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #arquitetura #mae #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🏗️ Ele foi pedreiro por 30 anos construindo a casa dos outros. Aos 52, se formou arquiteto. O primeiro projeto foi a casa da mãe. Qual profissão você sempre quis ter e nunca teve? 👇\nHistória de ficção.\n#superacao #arquitetura #mae #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um arquiteto com calo de pedreiro nas mãos.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nas",
+    "mãos."
+   ]
+  },
+  {
+   "fala": "Sábado, cinco da tarde. Entrou um homem de cinquenta e dois anos, camisa social, mãos grossas de calo e um tubo de papelão com uma planta enrolada dentro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 17H"
+   ],
+   "destaque": [
+    "enrolada",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Disse: me formei ontem. Arquitetura. Eu disse: parabéns, doutor. Ele riu: doutor eu não sou. Mas arquiteto agora eu sou.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Me formei ontem."
+   ],
+   "destaque": [
+    "agora",
+    "sou."
+   ]
+  },
+  {
+   "fala": "Seu Edvaldo. Começou como servente de pedreiro aos quinze. Virou pedreiro. Depois mestre de obras. Trinta anos levantando parede.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "TRINTA ANOS DE OBRA"
+   ],
+   "destaque": [
+    "levantando",
+    "parede."
+   ]
+  },
+  {
+   "fala": "Disse: eu construía o que os outros desenhavam. E pensava: eu faria diferente. Eu botaria a janela pro outro lado, pro sol da manhã.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu construía o que os outros desenhavam."
+   ],
+   "destaque": [
+    "sol",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "Aos quarenta e seis, um engenheiro de uma obra viu ele corrigindo uma planta errada. E disse: você devia estudar arquitetura.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estudar",
+    "arquitetura."
+   ]
+  },
+  {
+   "fala": "Riu: achei que era piada. Mas o homem me deu os livros dele. E eu fui. Seis anos de faculdade à noite. Depois de dez horas de obra.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Achei que era piada."
+   ],
+   "destaque": [
+    "horas",
+    "obra."
+   ]
+  },
+  {
+   "fala": "Disse que dormia no ônibus. Fazia trabalho de faculdade no intervalo do almoço, em cima de saco de cimento.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "saco",
+    "cimento."
+   ]
+  },
+  {
+   "fala": "Perguntei o que tinha no tubo. Ele sorriu: o meu primeiro projeto. É a casa da minha mãe.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E o que tem no tubo?"
+   ],
+   "destaque": [
+    "minha",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "A mãe dele, dona Maria José, oitenta anos, morava há cinquenta numa casa de dois cômodos. Que ele mesmo ajudou a levantar aos quinze. Com tijolo torto.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A CASA DA MÃE"
+   ],
+   "destaque": [
+    "tijolo",
+    "torto."
+   ]
+  },
+  {
+   "fala": "Disse: ela nunca reclamou. Criou cinco filhos ali. Mas a casa é escura, úmida, a escada é perigosa pra ela.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ela nunca reclamou."
+   ],
+   "destaque": [
+    "escada",
+    "perigosa"
+   ]
+  },
+  {
+   "fala": "Ele projetou uma casa nova. No mesmo terreno. Com janela pro sol da manhã. Rampa no lugar de escada. E uma varanda.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "escada.",
+    "varanda."
+   ]
+  },
+  {
+   "fala": "Chegamos na casa da mãe. Pequena, de tijolo aparente, no fim de uma rua de terra. A mãe na porta, de vestido de chita, esperando o filho formado.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "filho",
+    "formado."
+   ]
+  },
+  {
+   "fala": "Ela abraçou ele e disse: meu filho arquiteto. E ele abriu a planta ali na mesa da cozinha. Explicou cada cômodo.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "cada",
+    "cômodo."
+   ]
+  },
+  {
+   "fala": "E aí ele mostrou a varanda. Disse: aqui, mãe, a senhora vai poder sentar de tarde e ver o pôr do sol. Igual a senhora sempre quis.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "A VARANDA"
+   ],
+   "destaque": [
+    "sempre",
+    "quis."
+   ]
+  },
+  {
+   "fala": "A mãe passou a mão no papel, devagar, como quem passa a mão numa foto. Disse: eu falava isso quando você tinha cinco anos. Você lembrou?",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Você",
+    "lembrou?"
+   ]
+  },
+  {
+   "fala": "Ele disse: lembrei, mãe. Eu passei trinta anos construindo varanda pros outros. Agora é a sua.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELE LEMBROU"
+   ],
+   "destaque": [
+    "Agora",
+    "sua."
+   ]
+  },
+  {
+   "fala": "Seis meses depois, ele me chamou de novo. Pra levar a mãe pra ver a casa pronta. Ele mesmo levantou. Com os irmãos. Nos fins de semana.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEIS MESES DEPOIS"
+   ],
+   "destaque": [
+    "fins",
+    "semana."
+   ]
+  },
+  {
+   "fala": "A casa tinha uma janela enorme na cozinha. Virada pro leste. Quando a mãe entrou, de manhã, o sol entrou junto. Bateu no rosto dela.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A JANELA PRO SOL"
+   ],
+   "destaque": [
+    "rosto",
+    "dela."
+   ]
+  },
+  {
+   "fala": "Ela sentou na varanda. Ficou um tempão olhando a rua. Disse: agora sim, meu filho. Agora eu posso ver o mundo de dentro de casa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dentro",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Na volta, ele me mostrou a mão. Calejada. Disse: o diploma tá na parede. Mas o que me fez arquiteto foi isso aqui.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "isso",
+    "aqui."
+   ]
+  },
+  {
+   "fala": "Moral da história: quem passou a vida construindo o sonho dos outros também merece desenhar o seu.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CONSTRÓI O SEU"
+   ],
+   "destaque": [
+    "desenhar",
+    "seu."
+   ]
+  },
+  {
+   "fala": "E se você tem um sonho de profissão, começa. Nem que seja aos quarenta e seis, em cima de um saco de cimento.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "JANELA PRO SOL"
+   ],
+   "destaque": [
+    "saco",
+    "cimento."
+   ]
+  }
+ ]
+}

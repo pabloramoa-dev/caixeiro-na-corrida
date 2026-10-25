@@ -1,0 +1,261 @@
+{
+ "id": "cx170",
+ "ep": 170,
+ "avulso": true,
+ "titulo": "AS HISTÓRIAS DO AVÔ NO ÁUDIO",
+ "categoria": "familia",
+ "cenario": "noite",
+ "legenda_post": "📖 O avô lia histórias pelo telefone pro neto toda noite. O avô se foi. Agora o neto, adulto, lê pro filho. Com a voz do avô no meio.\n\nQuem lia histórias pra você antes de dormir? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#avo #historias #familia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "📖 O avô lia histórias pelo telefone pro neto toda noite. O avô se foi. Agora o neto, adulto, lê pro filho. Com a voz do avô no meio. Quem lia histórias pra você antes de dormir? 👇\nHistória de ficção.\n#avo #historias #familia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um contador de histórias que atravessou três gerações.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "três",
+    "gerações."
+   ]
+  },
+  {
+   "fala": "Domingo, oito da noite. Entrou um homem de uns trinta e cinco anos com um menino de cinco, de pijama, já com sono, abraçado num livro.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 20H"
+   ],
+   "destaque": [
+    "num",
+    "livro."
+   ]
+  },
+  {
+   "fala": "O pai disse: ele não dorme sem história. A gente tá voltando da casa da avó, ele vai dormir no carro. Posso ler aqui?",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ele não dorme sem história."
+   ],
+   "destaque": [
+    "ler",
+    "aqui?"
+   ]
+  },
+  {
+   "fala": "Eu disse: claro. Liguei a luz de leitura do banco de trás. E o pai começou a ler. Mas não era só a voz dele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "voz",
+    "dele."
+   ]
+  },
+  {
+   "fala": "Antes de começar, ele pôs o celular no colo do menino. E apertou o play. Uma voz rouca, de senhor, começou: era uma vez.",
+   "expr": "desconfiada",
+   "arte": [
+    "carimbo",
+    "UMA VOZ NO CELULAR"
+   ],
+   "destaque": [
+    "era",
+    "vez."
+   ]
+  },
+  {
+   "fala": "Depois o pai continuava. Depois a voz do celular de novo. Depois o pai. Uma história contada em dupla.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "contada",
+    "dupla."
+   ]
+  },
+  {
+   "fala": "Quando o menino cochilou, perguntei baixinho: quem é a voz do áudio? Ele sorriu: é o meu avô.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Quem é no áudio?"
+   ],
+   "destaque": [
+    "meu",
+    "avô."
+   ]
+  },
+  {
+   "fala": "Contou: o avô dele era caminhoneiro. Passava semanas na estrada. Mas toda noite, às oito, ligava de algum posto e lia uma história pelo telefone.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O AVÔ CAMINHONEIRO"
+   ],
+   "destaque": [
+    "pelo",
+    "telefone."
+   ]
+  },
+  {
+   "fala": "Disse: eu dormia com o telefone na orelha. A minha mãe tirava depois. Eu achava que o vô estava dentro do telefone.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu dormia com o telefone."
+   ],
+   "destaque": [
+    "dentro",
+    "telefone."
+   ]
+  },
+  {
+   "fala": "E um dia, já adolescente, ele começou a gravar as ligações. Sem o avô saber. Só pra guardar. Gravou mais de cem histórias.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cem",
+    "histórias."
+   ]
+  },
+  {
+   "fala": "O avô faleceu quando ele tinha vinte anos. E as gravações ficaram guardadas num pen drive esquecido numa gaveta.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "numa",
+    "gaveta."
+   ]
+  },
+  {
+   "fala": "Quando o filho nasceu, ele fez uma mudança de casa. E achou o pen drive. Ouviu a primeira história. Chorou a noite inteira.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Achei na mudança."
+   ],
+   "destaque": [
+    "noite",
+    "inteira."
+   ]
+  },
+  {
+   "fala": "Agora, toda noite, ele lê pro filho junto com o avô. O avô começa. Ele continua. O avô volta. O menino conhece o bisavô pela voz.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A HISTÓRIA EM DUPLA"
+   ],
+   "destaque": [
+    "pela",
+    "voz."
+   ]
+  },
+  {
+   "fala": "Disse: ele acha que o bisavô está dentro do celular. Igual eu achava. A história se repete.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "história",
+    "repete."
+   ]
+  },
+  {
+   "fala": "O menino acordou um pouquinho, de olho fechado, e falou: papai, deixa o biso terminar. E voltou a dormir.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "voltou",
+    "dormir."
+   ]
+  },
+  {
+   "fala": "O pai apertou o play. A voz do avô terminou a história. E no final do áudio, uma coisa que ele nunca tinha percebido.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "tinha",
+    "percebido."
+   ]
+  },
+  {
+   "fala": "Depois do fim da história, o avô falou baixinho, achando que o neto já tinha dormido: boa noite, meu filho. Um dia você vai ler pros seus. Eu vou estar junto.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O RECADO NO FINAL"
+   ],
+   "destaque": [
+    "estar",
+    "junto."
+   ]
+  },
+  {
+   "fala": "O pai ficou parado, com o celular na mão. Disse: eu ouvi esse áudio cem vezes. Nunca tinha chegado até o fim. Sempre parava na história.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "EU VOU ESTAR JUNTO"
+   ],
+   "destaque": [
+    "parava",
+    "história."
+   ]
+  },
+  {
+   "fala": "Ficou em silêncio no resto do caminho. Com o filho dormindo no colo e o celular apertado no peito.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "apertado",
+    "peito."
+   ]
+  },
+  {
+   "fala": "Deixei os dois em casa. O menino no colo do pai, o livro caindo da mão, o celular no bolso da camisa.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "bolso",
+    "camisa."
+   ]
+  },
+  {
+   "fala": "Antes de descer, ele me disse: obrigado por deixar ler aqui. Hoje eu descobri que o meu avô sabia. Que ia estar junto.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "estar",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Moral da história: grava a voz de quem você ama. Um dia ela vai contar história pra alguém que ainda nem nasceu.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "GRAVA A VOZ"
+   ],
+   "destaque": [
+    "nem",
+    "nasceu."
+   ]
+  },
+  {
+   "fala": "E se seus avós ainda estão aqui, grava uma história com eles. Hoje. Vai valer mais que qualquer foto.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "ERA UMA VEZ"
+   ],
+   "destaque": [
+    "qualquer",
+    "foto."
+   ]
+  }
+ ]
+}

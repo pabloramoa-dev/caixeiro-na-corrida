@@ -1,0 +1,266 @@
+{
+ "id": "cx233",
+ "ep": 233,
+ "avulso": true,
+ "titulo": "AS ALIANÇAS ESQUECIDAS",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "💍 O noivo esqueceu as alianças em casa. O casamento era em 40 minutos. A casa ficava a 35. Começou a corrida mais tensa da minha vida.\n\nQual foi o maior esquecimento num momento importante? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#casamento #humor #noivo #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💍 O noivo esqueceu as alianças em casa. O casamento era em 40 minutos. A casa ficava a 35. Começou a corrida mais tensa da minha vida. Qual foi o maior esquecimento num momento importante? 👇\nHistória de ficção.\n#casamento #humor #noivo #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve cronômetro, um noivo desesperado e um padrinho que não ajudava em nada.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "ajudava",
+    "nada."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro e vinte da tarde. Peguei dois rapazes de terno na porta de uma igreja. Um pálido. O outro rindo. O noivo e o padrinho.",
+   "expr": "chocada",
+   "arte": [
+    "relogio",
+    "SÁBADO · 16H20"
+   ],
+   "destaque": [
+    "noivo",
+    "padrinho."
+   ]
+  },
+  {
+   "fala": "O noivo gritou: esqueci as alianças em casa! O casamento é às cinco! O padrinho, rindo: eu falei pra você conferir.",
+   "expr": "brava",
+   "arte": [
+    "conversa",
+    "Esqueci as alianças!"
+   ],
+   "destaque": [
+    "você",
+    "conferir."
+   ]
+  },
+  {
+   "fala": "A casa dele ficava a trinta e cinco minutos dali. Ida e volta: setenta. O casamento: em quarenta. A matemática não fechava.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "QUARENTA MINUTOS"
+   ],
+   "destaque": [
+    "matemática",
+    "fechava."
+   ]
+  },
+  {
+   "fala": "Eu pensei rápido. Disse: liga pra alguém que tá na sua casa e manda trazer no meio do caminho. A gente se encontra na metade.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "encontra",
+    "metade."
+   ]
+  },
+  {
+   "fala": "O noivo: só a minha avó tá lá. Ela tem oitenta e dois anos. Não dirige. O padrinho: e o vizinho? O noivo: o vizinho tá aqui na igreja.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "A minha avó tá lá."
+   ],
+   "destaque": [
+    "aqui",
+    "igreja."
+   ]
+  },
+  {
+   "fala": "Ligou pra avó. Explicou. A avó disse: calma, meu filho. Eu vou pegar o ônibus. O noivo quase desmaiou: não, vó! Ônibus demora!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Ônibus",
+    "demora!"
+   ]
+  },
+  {
+   "fala": "Eu falei: pede um carro de aplicativo pra ela. A gente se encontra no meio. Ele pediu. A avó nunca tinha andado de aplicativo.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Pede um carro pra ela."
+   ],
+   "destaque": [
+    "andado",
+    "aplicativo."
+   ]
+  },
+  {
+   "fala": "No viva-voz, o noivo ensinando a avó: vó, entra no carro prata. Não, vó, não precisa pagar o motorista em dinheiro. Vó, coloca o cinto.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A AVÓ NO APLICATIVO"
+   ],
+   "destaque": [
+    "coloca",
+    "cinto."
+   ]
+  },
+  {
+   "fala": "Combinamos de nos encontrar num posto de gasolina na metade do caminho. Eu fui o mais rápido que a lei deixava. O padrinho comendo amendoim.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "comendo",
+    "amendoim."
+   ]
+  },
+  {
+   "fala": "Quatro e trinta e oito. Chegamos no posto. Nada da avó. O noivo andando de um lado pro outro. Suando o terno.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "16H38"
+   ],
+   "destaque": [
+    "Suando",
+    "terno."
+   ]
+  },
+  {
+   "fala": "Quatro e quarenta e dois. Chega um carro prata. Desce uma senhora de oitenta e dois anos. De bobes no cabelo. Segurando uma caixinha de veludo.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "caixinha",
+    "veludo."
+   ]
+  },
+  {
+   "fala": "Ela estava se arrumando pro casamento quando o neto ligou. Saiu de bobes. Disse: não tive tempo de tirar. Depois eu tiro na igreja.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "A VÓ DE BOBES"
+   ],
+   "destaque": [
+    "tiro",
+    "igreja."
+   ]
+  },
+  {
+   "fala": "O noivo abraçou a avó. Pegou as alianças. E aí perguntou: vó, a senhora vem com a gente? Ela: claro. Eu vou no casamento, ué.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "casamento,",
+    "ué."
+   ]
+  },
+  {
+   "fala": "Quatro e quarenta e quatro. Todos no meu carro. O noivo na frente, a avó e o padrinho atrás. Dezesseis minutos pra chegar.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "16H44"
+   ],
+   "destaque": [
+    "minutos",
+    "chegar."
+   ]
+  },
+  {
+   "fala": "No caminho, a avó tirou os bobes um por um. E pediu pro padrinho segurar. O padrinho com as mãos cheias de bobe.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "cheias",
+    "bobe."
+   ]
+  },
+  {
+   "fala": "Chegamos na igreja às quatro e cinquenta e nove. O noivo correu pro altar. A avó entrou ajeitando o cabelo. O padrinho entrou com os bobes no bolso.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "bobes",
+    "bolso."
+   ]
+  },
+  {
+   "fala": "Às cinco em ponto, a noiva entrou. Não sabia de nada. E no altar, o noivo com as alianças na mão, suado, sorrindo como quem ganhou uma corrida.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CINCO EM PONTO"
+   ],
+   "destaque": [
+    "ganhou",
+    "corrida."
+   ]
+  },
+  {
+   "fala": "No momento das alianças, o padre perguntou: quem trouxe as alianças? E o noivo apontou pra avó na primeira fila. Ela acenou, de cabelo arrumado.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A AVÓ DE CABELO PRONTO"
+   ],
+   "destaque": [
+    "cabelo",
+    "arrumado."
+   ]
+  },
+  {
+   "fala": "Na festa, o padrinho fez discurso. Contou tudo. Com os bobes na mão. Mostrando como prova. A noiva riu até chorar.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "até",
+    "chorar."
+   ]
+  },
+  {
+   "fala": "Eu fui embora com um bobe no banco de trás. Esqueceram. Tá no meu porta-luvas. A Rosângela acha que é de alguma passageira. É.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "alguma",
+    "passageira."
+   ]
+  },
+  {
+   "fala": "Moral da história: quando tudo dá errado, liga pra vó. Ela resolve. Nem que seja de bobes.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "TEM SEMPRE UMA VÓ"
+   ],
+   "destaque": [
+    "seja",
+    "bobes."
+   ]
+  },
+  {
+   "fala": "E se você vai casar, confere as alianças três vezes. E deixa o telefone da vó no viva-voz.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A VÓ DOS BOBES"
+   ],
+   "destaque": [
+    "vó",
+    "viva-voz."
+   ]
+  }
+ ]
+}

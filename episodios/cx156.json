@@ -1,0 +1,252 @@
+{
+ "id": "cx156",
+ "ep": 156,
+ "avulso": true,
+ "titulo": "O CASAMENTO NO ÔNIBUS",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "🚌 O motorista e a cobradora se conheceram na linha 307. Vinte anos depois, decidiram casar dentro do ônibus. E eu fui buscar o padre.\n\nOnde aconteceu o começo da sua história de amor? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#casamento #onibus #amor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🚌 O motorista e a cobradora se conheceram na linha 307. Vinte anos depois, decidiram casar dentro do ônibus. E eu fui buscar o padre. Onde aconteceu o começo da sua história de amor? 👇\nHistória de ficção.\n#casamento #onibus #amor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um padre até um ônibus. E não era pra benzer o ônibus.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "benzer",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Sábado, cinco da tarde. Entrou um padre de uns sessenta anos, de batina e tênis, com uma maleta. Disse: garagem da viação, por favor. Tenho um casamento.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 17H"
+   ],
+   "destaque": [
+    "Tenho",
+    "casamento."
+   ]
+  },
+  {
+   "fala": "Eu perguntei: casamento na garagem de ônibus, padre? Ele riu: dentro do ônibus. Primeira vez em trinta anos de padre.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "Casamento na garagem?"
+   ],
+   "destaque": [
+    "anos",
+    "padre."
+   ]
+  },
+  {
+   "fala": "Contou a história. Seu Valmir, motorista, e dona Rose, cobradora. Trabalharam juntos vinte anos na linha trezentos e sete. Ele dirigindo, ela na catraca.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A LINHA 307"
+   ],
+   "destaque": [
+    "dirigindo,",
+    "catraca."
+   ]
+  },
+  {
+   "fala": "Disse que eles brigavam todo dia. Ela reclamava que ele freava forte. Ele reclamava que ela cantava alto. Os passageiros achavam que eram casados.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "eram",
+    "casados."
+   ]
+  },
+  {
+   "fala": "O padre riu: os passageiros juntaram os dois. Toda manhã alguém perguntava: e aí, já casaram? Até que um dia eles se olharam e pensaram: por que não?",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Os passageiros juntaram."
+   ],
+   "destaque": [
+    "olharam",
+    "pensaram:"
+   ]
+  },
+  {
+   "fala": "Mas os dois eram tímidos. Namoraram dez anos escondido dentro do ônibus. Bilhete na catraca, café na garrafa térmica, mão dada no ponto final.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "ponto",
+    "final."
+   ]
+  },
+  {
+   "fala": "Naquela semana, os dois se aposentaram. E pediram pra viação uma coisa só: casar no ônibus da linha trezentos e sete, no último dia dele em circulação.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A APOSENTADORIA"
+   ],
+   "destaque": [
+    "dele",
+    "circulação."
+   ]
+  },
+  {
+   "fala": "Chegamos na garagem. E lá estava. O ônibus trezentos e sete, decorado com fita branca, balão e uma faixa no para-brisa: Valmir e Rose. Ponto final: felicidade.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "final:",
+    "felicidade."
+   ]
+  },
+  {
+   "fala": "E tinha gente. Os passageiros. Os de vinte anos. A estudante que virou médica. O senhor que pegava o ônibus pra ir no dentista. A turma da escola que cresceu ali dentro.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ali",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Todo mundo entrou no ônibus. Os bancos lotados. Gente em pé segurando na barra, como no horário de pico. O padre no corredor. Eu fiquei em pé lá atrás.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "lá",
+    "atrás."
+   ]
+  },
+  {
+   "fala": "A noiva entrou pela porta da frente. De vestido branco. E passou pela catraca. A catraca dela. Girando com a mão, como fez vinte anos.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A NOIVA PASSOU NA CATRACA"
+   ],
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  },
+  {
+   "fala": "O noivo esperava no lugar do motorista. De terno. Com as mãos no volante, como sempre. Ele se levantou quando ela passou a catraca.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "passou",
+    "catraca."
+   ]
+  },
+  {
+   "fala": "Nos votos, ela disse: prometo não reclamar mais da freada. Ele: prometo não reclamar mais da cantoria. O ônibus inteiro riu.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "OS VOTOS"
+   ],
+   "destaque": [
+    "inteiro",
+    "riu."
+   ]
+  },
+  {
+   "fala": "E ele completou: vinte anos no mesmo trajeto, Rose. E eu nunca quis mudar de linha. Por sua causa.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Vinte anos no mesmo trajeto."
+   ],
+   "destaque": [
+    "sua",
+    "causa."
+   ]
+  },
+  {
+   "fala": "Eles disseram sim no corredor do ônibus. Os passageiros aplaudiram de pé. Batendo na barra de ferro. Fazendo a campainha de parada tocar sem parar.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "SIM NO CORREDOR"
+   ],
+   "destaque": [
+    "sem",
+    "parar."
+   ]
+  },
+  {
+   "fala": "E aí veio a surpresa. A viação liberou. O noivo sentou no volante. A noiva na catraca. E o ônibus saiu da garagem. Com todos os convidados dentro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "convidados",
+    "dentro."
+   ]
+  },
+  {
+   "fala": "Fizeram a linha trezentos e sete inteira. Uma última vez. Parando em cada ponto. As pessoas na rua acenando, buzinando, sem entender, aplaudindo.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "A ÚLTIMA VIAGEM"
+   ],
+   "destaque": [
+    "entender,",
+    "aplaudindo."
+   ]
+  },
+  {
+   "fala": "Eu fui atrás de carro, buzinando. O padre ficou no ônibus. Disse que nunca tinha feito uma viagem de lua de mel de linha urbana.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "linha",
+    "urbana."
+   ]
+  },
+  {
+   "fala": "No ponto final, os dois desceram de mão dada. A noiva tirou a tampa da catraca de lembrança. A viação deixou. O motorista levou o volante. Isso a viação não deixou.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "viação",
+    "deixou."
+   ]
+  },
+  {
+   "fala": "Moral da história: o amor às vezes está todo dia no mesmo trajeto. Só precisa alguém puxar a campainha.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "SEGUE NA LINHA"
+   ],
+   "destaque": [
+    "puxar",
+    "campainha."
+   ]
+  },
+  {
+   "fala": "E se você vê sempre a mesma pessoa no seu ônibus, fala com ela. Pode ser o começo de uma linha de vinte anos.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "LINHA 307"
+   ],
+   "destaque": [
+    "vinte",
+    "anos."
+   ]
+  }
+ ]
+}

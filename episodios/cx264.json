@@ -1,0 +1,248 @@
+{
+ "id": "cx264",
+ "ep": 264,
+ "avulso": true,
+ "titulo": "A MENINA DA ROBÓTICA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🤖 Ela tem 14 anos e montou um robô com sucata. A equipe dela, de escola pública, foi pro campeonato nacional. Contra escolas de elite.\n\nVocê conhece alguma criança que é gênio em tecnologia? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#robotica #ciencia #superacao #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🤖 Ela tem 14 anos e montou um robô com sucata. A equipe dela, de escola pública, foi pro campeonato nacional. Contra escolas de elite. Você conhece alguma criança que é gênio em tecnologia? 👇\nHistória de ficção.\n#robotica #ciencia #superacao #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou um robô feito de lixo e uma menina que sonha com Marte.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "sonha",
+    "Marte."
+   ]
+  },
+  {
+   "fala": "Sexta, três da tarde. Entraram três meninas de quatorze anos e um professor. Com uma caixa de papelão no colo. Dentro, um robô. Feito de peça velha.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 15H"
+   ],
+   "destaque": [
+    "peça",
+    "velha."
+   ]
+  },
+  {
+   "fala": "Uma delas, de óculos, apresentou: esse é o Ferrinho. O nosso robô. A gente vai pro campeonato nacional de robótica.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o Ferrinho."
+   ],
+   "destaque": [
+    "nacional",
+    "robótica."
+   ]
+  },
+  {
+   "fala": "O professor contou: a equipe se chama Sucata. Escola estadual da periferia. Não tinham dinheiro pra comprar kit de robótica. Fizeram com lixo eletrônico.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "EQUIPE SUCATA"
+   ],
+   "destaque": [
+    "lixo",
+    "eletrônico."
+   ]
+  },
+  {
+   "fala": "A menina de óculos, a Bia, riu: eu desmontei o videogame velho do meu irmão. Ele ficou um mês sem falar comigo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Desmontei o videogame do meu irmão."
+   ],
+   "destaque": [
+    "falar",
+    "comigo."
+   ]
+  },
+  {
+   "fala": "Motor de impressora, bateria de celular velho, roda de carrinho de brinquedo. E uma placa de computador que acharam no ferro-velho.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "acharam",
+    "ferro-velho."
+   ]
+  },
+  {
+   "fala": "A outra menina disse: no regional, as outras equipes riram da gente. Com robô de plástico brilhante. E a gente com o Ferrinho cheio de fita.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Riram da gente."
+   ],
+   "destaque": [
+    "cheio",
+    "fita."
+   ]
+  },
+  {
+   "fala": "Mas ficaram em segundo no regional. E foram classificadas pro nacional. Em outra cidade. A escola fez rifa e bingo pra pagar a viagem.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "SEGUNDO LUGAR"
+   ],
+   "destaque": [
+    "pagar",
+    "viagem."
+   ]
+  },
+  {
+   "fala": "Levei as quatro pra rodoviária. Ônibus noturno. Doze horas de viagem. A Bia segurando o Ferrinho no colo como quem segura um bebê.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "segura",
+    "bebê."
+   ]
+  },
+  {
+   "fala": "Antes de descer, ela me disse: eu quero ser engenheira da agência espacial. Quero mandar robô pra Marte. Eu disse: então começa ganhando esse campeonato.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "esse",
+    "campeonato."
+   ]
+  },
+  {
+   "fala": "Três dias depois, o professor me mandou mensagem. Pedindo pra eu buscar na rodoviária. E mandou uma foto junto.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TRÊS DIAS DEPOIS"
+   ],
+   "destaque": [
+    "foto",
+    "junto."
+   ]
+  },
+  {
+   "fala": "A foto: as três meninas no pódio. Segurando um troféu. E o Ferrinho no meio, todo remendado com fita, com uma medalha pendurada no pescoço de arame.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A FOTO"
+   ],
+   "destaque": [
+    "pescoço",
+    "arame."
+   ]
+  },
+  {
+   "fala": "Primeiro lugar na categoria inovação. O júri disse que o robô feito de sucata era a ideia mais criativa do campeonato.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PRIMEIRO LUGAR EM INOVAÇÃO"
+   ],
+   "destaque": [
+    "criativa",
+    "campeonato."
+   ]
+  },
+  {
+   "fala": "Busquei as quatro na rodoviária. E na porta da rodoviária, a escola inteira esperando. Com faixa. Com fanfarra. Às seis da manhã.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "seis",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "A Bia desceu do ônibus segurando o Ferrinho. E viu a mãe na frente da multidão. A mãe, diarista, que tinha vendido bolo pra pagar a passagem.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "pagar",
+    "passagem."
+   ]
+  },
+  {
+   "fala": "A Bia correu e abraçou a mãe. E disse: mãe, a gente ganhou. Com o videogame do Lucas. A mãe chorando: você vai pra Marte, filha.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A MÃE DA BIA"
+   ],
+   "destaque": [
+    "Marte,",
+    "filha."
+   ]
+  },
+  {
+   "fala": "O irmão, o Lucas, estava lá também. Disse: tá perdoada pelo videogame. Mas o próximo robô você faz com o celular velho do pai.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "velho",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Depois, uma universidade federal entrou em contato. Ofereceu um laboratório de robótica pra equipe. E uma bolsa de iniciação científica pras três.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "A UNIVERSIDADE"
+   ],
+   "destaque": [
+    "pras",
+    "três."
+   ]
+  },
+  {
+   "fala": "Eu levei as três pra escola naquela manhã. O Ferrinho no banco da frente, com cinto de segurança. A Bia disse que ele merecia.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "disse",
+    "merecia."
+   ]
+  },
+  {
+   "fala": "Moral da história: genialidade não precisa de kit caro. Precisa de criatividade e de uma mãe que vende bolo.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "MONTA COM O QUE TEM"
+   ],
+   "destaque": [
+    "vende",
+    "bolo."
+   ]
+  },
+  {
+   "fala": "E se você tem eletrônico velho em casa, doa pra uma escola. Pode virar o robô campeão do Brasil.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "FERRINHO"
+   ],
+   "destaque": [
+    "campeão",
+    "Brasil."
+   ]
+  }
+ ]
+}

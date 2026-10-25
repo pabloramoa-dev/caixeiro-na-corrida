@@ -1,0 +1,246 @@
+{
+ "id": "cx296",
+ "ep": 296,
+ "avulso": true,
+ "titulo": "O CASAMENTO AOS CEM",
+ "categoria": "amor",
+ "cenario": "noite",
+ "legenda_post": "💒 Ele tem 100 anos. Ela, 96. Namoram há 30. E decidiram casar. A cidade inteira foi na igreja. Inclusive o padre que batizou os dois.\n\nQual o casal mais velho que você conhece? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#casamento #amor #centenario #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💒 Ele tem 100 anos. Ela, 96. Namoram há 30. E decidiram casar. A cidade inteira foi na igreja. Inclusive o padre que batizou os dois. Qual o casal mais velho que você conhece? 👇\nHistória de ficção.\n#casamento #amor #centenario #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou o noivo mais velho que eu já vi. E o mais nervoso também.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "nervoso",
+    "também."
+   ]
+  },
+  {
+   "fala": "Sábado, quatro da tarde. Entrou um senhor de cem anos, terno preto, gravata borboleta, flor na lapela. Com o neto ajudando a sentar. E uma bengala de madeira.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SÁBADO · 16H"
+   ],
+   "destaque": [
+    "bengala",
+    "madeira."
+   ]
+  },
+  {
+   "fala": "Disse com a voz firme: vou casar. Eu perguntei: com quantos anos, senhor? Ele: cem. Fiz mês passado. A noiva tem noventa e seis. Uma menina.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Vou casar."
+   ],
+   "destaque": [
+    "seis.",
+    "menina."
+   ]
+  },
+  {
+   "fala": "Seu Benedito e dona Maria. Os dois ficaram viúvos aos setenta. Se conheceram num grupo de oração da igreja. E namoram há trinta anos.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEU BENEDITO E DONA MARIA"
+   ],
+   "destaque": [
+    "trinta",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Disse: ela não queria casar. Dizia que era bobagem na nossa idade. Que namoro tá bom. Eu pedi trinta vezes. Uma por ano.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ela não queria casar."
+   ],
+   "destaque": [
+    "vezes.",
+    "ano."
+   ]
+  },
+  {
+   "fala": "O neto riu: na trigésima vez, ela disse sim. No aniversário de cem anos dele. Na frente da família inteira. Ele quase desmaiou.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "quase",
+    "desmaiou."
+   ]
+  },
+  {
+   "fala": "O seu Benedito ficou sério: eu quero partir casado com ela. Do jeito certo. Com padre, com aliança, com tudo.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu quero partir casado."
+   ],
+   "destaque": [
+    "aliança,",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "Contou que conheceu a dona Maria quando os dois eram crianças. Na mesma paróquia. Mas casaram com outras pessoas. E se reencontraram setenta anos depois.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "anos",
+    "depois."
+   ]
+  },
+  {
+   "fala": "Chegamos na igreja. A mesma paróquia onde os dois foram batizados. A igreja lotada. A cidade pequena inteira. Na porta, uma faixa: cem anos de amor.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "anos",
+    "amor."
+   ]
+  },
+  {
+   "fala": "O neto me convidou pra entrar. Disse que o avô queria o motorista que trouxe ele. Eu entrei. Sentei no fundo. Do lado de um senhor de noventa anos.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "noventa",
+    "anos."
+   ]
+  },
+  {
+   "fala": "E no altar, um padre de noventa e cinco anos. Aposentado. Que voltou só pra esse casamento. Ele batizou os dois. Noventa e cinco anos antes, ele era coroinha.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O PADRE"
+   ],
+   "destaque": [
+    "era",
+    "coroinha."
+   ]
+  },
+  {
+   "fala": "A noiva entrou. De vestido azul-claro, de bengala, com o bisneto de oito anos levando ela pelo braço. A igreja inteira de pé.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "A NOIVA"
+   ],
+   "destaque": [
+    "inteira",
+    "pé."
+   ]
+  },
+  {
+   "fala": "O seu Benedito, no altar, tentou ficar em pé sem a bengala. O neto segurou. Ele olhou a noiva chegando. E chorou. Um homem de cem anos chorando como um menino.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "como",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Nos votos, ele disse: Maria, eu demorei cem anos pra casar com você. Desculpa a demora. Mas prometo te amar todos os dias que ainda me restarem.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "OS VOTOS"
+   ],
+   "destaque": [
+    "ainda",
+    "restarem."
+   ]
+  },
+  {
+   "fala": "Ela respondeu: Benedito, na nossa idade, cada dia é um presente. Eu prometo abrir todos com você.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Cada dia é presente."
+   ],
+   "destaque": [
+    "todos",
+    "você."
+   ]
+  },
+  {
+   "fala": "Os dois disseram sim. O padre de noventa e cinco abençoou. A igreja inteira aplaudiu de pé. Os sinos tocaram. A cidade inteira ouviu.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "SIM AOS CEM"
+   ],
+   "destaque": [
+    "inteira",
+    "ouviu."
+   ]
+  },
+  {
+   "fala": "Na hora da aliança, a mão dele tremia tanto que não conseguia colocar. A dona Maria segurou a mão dele com as duas mãos. E ajudou. Os dois juntos.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "A ALIANÇA"
+   ],
+   "destaque": [
+    "dois",
+    "juntos."
+   ]
+  },
+  {
+   "fala": "Na festa, ele dançou uma valsa. Sentado. Na cadeira. Com ela no colo. O bisneto empurrando a cadeira devagar pelo salão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pelo",
+    "salão."
+   ]
+  },
+  {
+   "fala": "Eu levei os dois pra casa. A primeira noite de casados. Ele disse: cem anos esperando. Ela disse: noventa e seis. Os dois rindo no banco de trás.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "banco",
+    "trás."
+   ]
+  },
+  {
+   "fala": "Moral da história: nunca é tarde pra dizer sim. Nem aos cem.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "NUNCA É TARDE"
+   ],
+   "destaque": [
+    "aos",
+    "cem."
+   ]
+  },
+  {
+   "fala": "E se você tem um sonho que acha que é tarde demais, lembra do seu Benedito. Ele casou aos cem.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "BENEDITO E MARIA"
+   ],
+   "destaque": [
+    "aos",
+    "cem."
+   ]
+  }
+ ]
+}

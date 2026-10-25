@@ -1,0 +1,279 @@
+{
+ "id": "cx038",
+ "ep": 38,
+ "avulso": true,
+ "titulo": "A PONTA-ESQUERDA DE 1968",
+ "categoria": "futebol",
+ "cenario": "noite",
+ "legenda_post": "⚽ Uma senhora de 87 anos pediu pra ir ao estádio pela primeira vez. No caminho, contou que jogou futebol quando era proibido.\n\nVocê conhece alguma mulher que abriu caminho no futebol? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#futebolfeminino #futebol #historia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "⚽ Uma senhora de 87 anos pediu pra ir ao estádio pela primeira vez. No caminho, contou que jogou futebol quando era proibido. Você conhece alguma mulher que abriu caminho no futebol? 👇\nHistória de ficção.\n#futebolfeminino #futebol #historia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma craque que o futebol esqueceu de anotar.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "esqueceu",
+    "anotar."
+   ]
+  },
+  {
+   "fala": "Quarta-feira, oito da noite, jogo de campeonato. Entrou uma senhora miudinha, oitenta e sete anos, camisa de time por cima do casaco de lã.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "QUARTA · 20H"
+   ],
+   "destaque": [
+    "casaco",
+    "lã."
+   ]
+  },
+  {
+   "fala": "Disse orgulhosa: primeira vez no estádio, moço. Meu neto comprou o ingresso.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Primeira vez no estádio."
+   ],
+   "destaque": [
+    "comprou",
+    "ingresso."
+   ]
+  },
+  {
+   "fala": "Perguntei: a senhora gosta de futebol? Ela riu: gostar? Eu jogava. Ponta-esquerda.",
+   "expr": "ironica",
+   "arte": [
+    "conversa",
+    "A senhora gosta de futebol?"
+   ],
+   "destaque": [
+    "jogava.",
+    "Ponta-esquerda."
+   ]
+  },
+  {
+   "fala": "Dona Zilda. Contou que nos anos sessenta mulher era proibida de jogar futebol no Brasil. Proibida por lei.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "PROIBIDO PRA MULHER"
+   ],
+   "destaque": [
+    "Proibida",
+    "lei."
+   ]
+  },
+  {
+   "fala": "E mesmo assim, ela e as amigas jogavam escondido num campinho de terra atrás da fábrica de tecido onde trabalhavam.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "onde",
+    "trabalhavam."
+   ]
+  },
+  {
+   "fala": "Jogavam de saia comprida e chinelo, pra disfarçar. Quando a polícia passava, viravam piquenique.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "A gente jogava de saia."
+   ],
+   "destaque": [
+    "viravam",
+    "piquenique."
+   ]
+  },
+  {
+   "fala": "Ela tinha um drible que chamava de laçada. Puxava a bola com a sola por trás da outra perna. Fez o gesto ali no banco.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ali",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Em sessenta e oito marcaram um jogo contra o time da fábrica vizinha. Mas alguém denunciou. O campo foi fechado.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O JOGO QUE NÃO ACONTECEU"
+   ],
+   "destaque": [
+    "foi",
+    "fechado."
+   ]
+  },
+  {
+   "fala": "E o pai dela, quando descobriu, queimou a chuteira no quintal. Ela nunca mais jogou.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Meu pai queimou minha chuteira."
+   ],
+   "destaque": [
+    "mais",
+    "jogou."
+   ]
+  },
+  {
+   "fala": "Disse isso sem mágoa. Disse que o pai era homem do tempo dele. Mas que ela sonhou a vida inteira com um estádio cheio.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "estádio",
+    "cheio."
+   ]
+  },
+  {
+   "fala": "Chegamos no estádio. Movimento, luz, buzina. Ela com os olhos brilhando, pequenininha no meio da multidão.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "meio",
+    "multidão."
+   ]
+  },
+  {
+   "fala": "O neto estava esperando na calçada. Mas não estava sozinho. Do lado dele, três moças de agasalho do clube.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "agasalho",
+    "clube."
+   ]
+  },
+  {
+   "fala": "Eram jogadoras do time feminino do clube. O neto tinha mandado a história da avó pra elas pelas redes sociais.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O TIME FEMININO"
+   ],
+   "destaque": [
+    "redes",
+    "sociais."
+   ]
+  },
+  {
+   "fala": "A capitã falou: dona Zilda, a senhora vai dar o pontapé inicial do nosso jogo, no domingo. Aqui. Com o estádio aberto.",
+   "expr": "chocada",
+   "arte": [
+    "conversa",
+    "A senhora vai dar o pontapé."
+   ],
+   "destaque": [
+    "estádio",
+    "aberto."
+   ]
+  },
+  {
+   "fala": "A dona Zilda não falou nada. Só segurou na minha mão pela janela do carro. Bem forte.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "Bem",
+    "forte."
+   ]
+  },
+  {
+   "fala": "Aí ela disse: o senhor me traz no domingo? Eu sei o caminho, mas não confio nesse neto pra chegar cedo.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Me leva no domingo?"
+   ],
+   "destaque": [
+    "chegar",
+    "cedo."
+   ]
+  },
+  {
+   "fala": "Domingo, três da tarde, eu estava lá. Fui até o gramado como acompanhante. Primeira vez que eu piso num gramado de estádio.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 15H"
+   ],
+   "destaque": [
+    "gramado",
+    "estádio."
+   ]
+  },
+  {
+   "fala": "Ela foi até o meio de campo de chuteira nova, presente das meninas. E em vez de chutar, deu a laçada. Puxou com a sola, por trás da perna.",
+   "expr": "rindo",
+   "arte": [
+    "manchete",
+    "A LAÇADA"
+   ],
+   "destaque": [
+    "trás",
+    "perna."
+   ]
+  },
+  {
+   "fala": "O estádio inteiro levantou. As jogadoras aplaudiram. A dona Zilda levantou os braços igual quem faz gol em final.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "gol",
+    "final."
+   ]
+  },
+  {
+   "fala": "Cinquenta e oito anos depois, o jogo dela aconteceu. Ela me disse na saída: o pai ia gostar de ver.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "CINQUENTA E OITO ANOS DEPOIS"
+   ],
+   "destaque": [
+    "gostar",
+    "ver."
+   ]
+  },
+  {
+   "fala": "No carro, ela tirou a chuteira, abraçou no colo e dormiu antes de chegar em casa.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "chegar",
+    "casa."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que joga pra plateia. E tem gente que joga pra que um dia outras possam jogar.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ABRE CAMINHO"
+   ],
+   "destaque": [
+    "possam",
+    "jogar."
+   ]
+  },
+  {
+   "fala": "E se você ver uma menina jogando bola na rua, lembra da dona Zilda. Foi ela que abriu essa porta.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "PONTA-ESQUERDA"
+   ],
+   "destaque": [
+    "essa",
+    "porta."
+   ]
+  }
+ ]
+}

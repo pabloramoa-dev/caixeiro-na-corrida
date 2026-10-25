@@ -1,0 +1,246 @@
+{
+ "id": "cx291",
+ "ep": 291,
+ "avulso": true,
+ "titulo": "O RAPAZ QUE QUERIA SER RICO",
+ "categoria": "reflexao",
+ "cenario": "dia",
+ "legenda_post": "💰 O rapaz de 22 anos falou a corrida inteira sobre ficar rico. Carro, mansão, viagem. Perguntei: e depois? Ele travou. E o passageiro seguinte respondeu.\n\nSe você fosse rico amanhã, o que mudaria na sua vida? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#reflexao #dinheiro #felicidade #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💰 O rapaz de 22 anos falou a corrida inteira sobre ficar rico. Carro, mansão, viagem. Perguntei: e depois? Ele travou. E o passageiro seguinte respondeu. Se você fosse rico amanhã, o que mudaria na sua vida? 👇\nHistória de ficção.\n#reflexao #dinheiro #felicidade #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que nessa corrida teve uma pergunta que ninguém conseguiu responder. Até chegar quem já tinha vivido a resposta.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "vivido",
+    "resposta."
+   ]
+  },
+  {
+   "fala": "Sexta, seis da tarde. Corrida compartilhada. Entrou um rapaz de uns vinte e dois anos, roupa de marca, fone de ouvido, falando no celular sobre investimento.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEXTA · 18H"
+   ],
+   "destaque": [
+    "sobre",
+    "investimento."
+   ]
+  },
+  {
+   "fala": "Quando desligou, me disse: eu vou ser milionário antes dos trinta. Tá tudo planejado. Eu perguntei: e o que o senhor vai fazer com o dinheiro?",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu vou ser milionário."
+   ],
+   "destaque": [
+    "fazer",
+    "dinheiro?"
+   ]
+  },
+  {
+   "fala": "Ele listou: um carro esportivo. Uma casa com piscina. Viagem pra Europa todo ano. Relógio caro. Roupa de grife. Um barco.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "O PLANO DO MILHÃO"
+   ],
+   "destaque": [
+    "grife.",
+    "barco."
+   ]
+  },
+  {
+   "fala": "Eu ouvi tudo. E perguntei: e depois? Ele parou. Depois do quê? Eu disse: depois do carro, da casa, do barco. O que vem depois?",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "E depois?"
+   ],
+   "destaque": [
+    "vem",
+    "depois?"
+   ]
+  },
+  {
+   "fala": "Ele ficou quieto. Pensou. Disse: aí eu compro mais. Um carro melhor. Uma casa maior. Eu perguntei de novo: e depois? Ele riu nervoso. Não respondeu.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "nervoso.",
+    "respondeu."
+   ]
+  },
+  {
+   "fala": "Aí o aplicativo apitou. Segunda parada. Entrou um senhor de uns setenta anos, roupa simples, camisa de botão gasta e um sorriso tranquilo.",
+   "expr": "neutra",
+   "arte": [
+    "notificacao",
+    "Segunda parada"
+   ],
+   "destaque": [
+    "sorriso",
+    "tranquilo."
+   ]
+  },
+  {
+   "fala": "O rapaz continuou falando dos planos. O senhor ouvindo quieto. Até que o rapaz perguntou, meio debochado: e o senhor, qual era o seu sonho?",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "seu",
+    "sonho?"
+   ]
+  },
+  {
+   "fala": "O senhor disse: eu fui rico. Muito rico. Tive tudo isso que você falou. O carro, a casa, o barco. Três barcos, na verdade.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu fui rico."
+   ],
+   "destaque": [
+    "barcos,",
+    "verdade."
+   ]
+  },
+  {
+   "fala": "O rapaz ficou de boca aberta. Olhou a camisa gasta do senhor. Perguntou: e o que aconteceu? O senhor sorriu.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ELE TEVE TUDO"
+   ],
+   "destaque": [
+    "senhor",
+    "sorriu."
+   ]
+  },
+  {
+   "fala": "Disse: eu trabalhei tanto pra ter tudo, que perdi o que importava. Perdi o casamento. Perdi a infância dos meus filhos. Não fui em nenhuma apresentação de escola.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "O QUE ELE PERDEU"
+   ],
+   "destaque": [
+    "apresentação",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Contou que quando teve um infarto, aos cinquenta e cinco, olhou em volta no hospital. E não tinha ninguém. Só o motorista dele. Pago pra estar ali.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "estar",
+    "ali."
+   ]
+  },
+  {
+   "fala": "Disse: quando eu saí do hospital, eu vendi quase tudo. Fiquei com uma casa pequena. E fui atrás dos meus filhos. Pedir perdão.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Eu vendi tudo."
+   ],
+   "destaque": [
+    "Pedir",
+    "perdão."
+   ]
+  },
+  {
+   "fala": "Levou anos. Mas os filhos perdoaram. Hoje ele tem cinco netos. Busca na escola todo dia. Vai em toda apresentação. Senta na primeira fila.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "primeira",
+    "fila."
+   ]
+  },
+  {
+   "fala": "O rapaz perguntou baixinho: e agora o senhor é feliz? O senhor disse: muito mais do que com três barcos. Muito mais.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E agora o senhor é feliz?"
+   ],
+   "destaque": [
+    "Muito",
+    "mais."
+   ]
+  },
+  {
+   "fala": "E aí respondeu a minha pergunta. Disse pro rapaz: sabe o que vem depois do barco? Nada. O que vem depois é quem tá do seu lado. Se tiver alguém.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "O QUE VEM DEPOIS"
+   ],
+   "destaque": [
+    "tiver",
+    "alguém."
+   ]
+  },
+  {
+   "fala": "O rapaz ficou em silêncio o resto da corrida. Tirou o fone do ouvido. Guardou o celular. Ficou olhando pela janela.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pela",
+    "janela."
+   ]
+  },
+  {
+   "fala": "O senhor desceu primeiro. Numa escola. Tinha ido buscar o neto. Acenou pro rapaz pela janela. Com um menino pendurado no braço.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "pendurado",
+    "braço."
+   ]
+  },
+  {
+   "fala": "Quando o rapaz desceu, ele disse: moço, obrigado pela pergunta. Eu vou pensar no depois. E ligou pra alguém. Ouvi ele dizer: mãe, tô indo jantar aí hoje.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "aí",
+    "hoje."
+   ]
+  },
+  {
+   "fala": "Moral da história: pode sonhar em ser rico. Mas pensa no depois. E em quem vai estar do seu lado quando chegar lá.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "PENSA NO DEPOIS"
+   ],
+   "destaque": [
+    "chegar",
+    "lá."
+   ]
+  },
+  {
+   "fala": "E você? Se fosse rico amanhã, o que vem depois? Me conta nos comentários. Eu já sei a minha: a Rosângela e um pão francês.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "E DEPOIS?"
+   ],
+   "destaque": [
+    "pão",
+    "francês."
+   ]
+  }
+ ]
+}

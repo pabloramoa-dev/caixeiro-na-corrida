@@ -1,0 +1,249 @@
+{
+ "id": "cx157",
+ "ep": 157,
+ "avulso": true,
+ "titulo": "O PATO FIEL",
+ "categoria": "humor",
+ "cenario": "dia",
+ "legenda_post": "🦆 A família foi soltar o pato de estimação num lago, porque ele estava grande demais. O pato voltou pro meu carro. Três vezes.\n\nQual o bicho de estimação mais diferente que você já teve? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#pato #pets #humor #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🦆 A família foi soltar o pato de estimação num lago, porque ele estava grande demais. O pato voltou pro meu carro. Três vezes. Qual o bicho de estimação mais diferente que você já teve? 👇\nHistória de ficção.\n#pato #pets #humor #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida teve um passageiro de penas que não aceitou a despedida.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "aceitou",
+    "despedida."
+   ]
+  },
+  {
+   "fala": "Domingo, dez da manhã. Entrou uma família: pai, mãe, dois meninos e um pato. Um pato branco, enorme, no colo do menino menor, com um laço azul no pescoço.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 10H"
+   ],
+   "destaque": [
+    "azul",
+    "pescoço."
+   ]
+  },
+  {
+   "fala": "O menino apresentou: esse é o Bolacha. Ele tem três anos. A mãe completou: e trinta quilos de bagunça.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Esse é o Bolacha."
+   ],
+   "destaque": [
+    "quilos",
+    "bagunça."
+   ]
+  },
+  {
+   "fala": "Iam soltar o Bolacha num lago de um parque grande. Ele tinha crescido demais pra casa. Fazia barulho às cinco da manhã. O vizinho reclamou na associação.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O ÚLTIMO PASSEIO"
+   ],
+   "destaque": [
+    "reclamou",
+    "associação."
+   ]
+  },
+  {
+   "fala": "O pai dizia pros meninos: ele vai ser feliz lá, com outros patos. Vai ter água, vai ter amigos. Os meninos fungando.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele vai ser feliz lá."
+   ],
+   "destaque": [
+    "meninos",
+    "fungando."
+   ]
+  },
+  {
+   "fala": "O Bolacha, no colo, mordia a manga da camisa do menino e grasnava pra mim pelo retrovisor. Acho que ele não gostava de motorista.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "gostava",
+    "motorista."
+   ]
+  },
+  {
+   "fala": "Chegamos no parque. Lago grande, uns vinte patos nadando. A família desceu. Eu fiquei no carro, de porta aberta, porque eles iam voltar logo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "voltar",
+    "logo."
+   ]
+  },
+  {
+   "fala": "Soltaram o Bolacha na beira do lago. Os meninos se despediram, chorando. O Bolacha olhou pros outros patos. Olhou pra família. E foi pra água.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "foi",
+    "água."
+   ]
+  },
+  {
+   "fala": "A família voltou pro carro devagar. Os meninos olhando pra trás. Sentaram. Fecharam a porta. Eu liguei o carro.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "liguei",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Quá. Do banco de trás. O Bolacha. Dentro do carro. Tinha voltado correndo e entrado pela porta, antes de fecharem. Molhado. Pingando no banco.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "QUÁ"
+   ],
+   "destaque": [
+    "Pingando",
+    "banco."
+   ]
+  },
+  {
+   "fala": "Os meninos gritaram de alegria. O pai suspirou. A mãe começou a rir. Eu fiquei com o banco molhado e um pato me encarando.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "pato",
+    "encarando."
+   ]
+  },
+  {
+   "fala": "Segunda tentativa. O pai levou o Bolacha até o meio do lago, de pedalinho. Soltou lá longe. Voltou remando. Fechamos as portas antes.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "SEGUNDA TENTATIVA"
+   ],
+   "destaque": [
+    "portas",
+    "antes."
+   ]
+  },
+  {
+   "fala": "Quando o pai chegou no carro, o Bolacha já estava sentado no capô. Tinha nadado mais rápido que o pedalinho e voado até o carro.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "até",
+    "carro."
+   ]
+  },
+  {
+   "fala": "Terceira tentativa. Soltaram e eu saí de carro rápido. O Bolacha veio correndo atrás. Grasnando. Batendo as asas. Pelo estacionamento.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "TERCEIRA TENTATIVA"
+   ],
+   "destaque": [
+    "Pelo",
+    "estacionamento."
+   ]
+  },
+  {
+   "fala": "Correu atrás do carro uns cinquenta metros. As pessoas do parque filmando. Um senhor gritando: para o carro, homem, o pato quer ir junto!",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "ir",
+    "junto!"
+   ]
+  },
+  {
+   "fala": "Eu parei. O pai desceu. O Bolacha parou na frente dele, ofegante, e encostou a cabeça na perna do pai. Ficou ali, quieto.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "ali,",
+    "quieto."
+   ]
+  },
+  {
+   "fala": "O pai se abaixou, pegou o pato no colo e disse: ele escolheu a gente. Não dá pra soltar quem escolheu a gente.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele escolheu a gente."
+   ],
+   "destaque": [
+    "escolheu",
+    "gente."
+   ]
+  },
+  {
+   "fala": "Os meninos pularam de alegria. A mãe disse: e o vizinho? O pai: o vizinho que compre um protetor de ouvido. Eu ajudo a pagar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "O BOLACHA FICA"
+   ],
+   "destaque": [
+    "ajudo",
+    "pagar."
+   ]
+  },
+  {
+   "fala": "No caminho de volta, eles combinaram: vão construir um laguinho no quintal. Com a ajuda do vizinho, se ele quiser. Se não quiser, sem ele.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "quiser,",
+    "sem"
+   ]
+  },
+  {
+   "fala": "Eu fiquei com o banco molhado e uma pena branca no painel. Guardei de lembrança. A Rosângela achou que era de travesseiro.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "era",
+    "travesseiro."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem amor que não aceita despedida. Nem de pato.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "QUEM ESCOLHE FICA"
+   ],
+   "destaque": [
+    "Nem",
+    "pato."
+   ]
+  },
+  {
+   "fala": "E se seu bicho te segue até a porta todo dia, é amor. Abre a porta.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "QUÁ QUÁ"
+   ],
+   "destaque": [
+    "Abre",
+    "porta."
+   ]
+  }
+ ]
+}

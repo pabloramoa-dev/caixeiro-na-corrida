@@ -1,0 +1,261 @@
+{
+ "id": "cx254",
+ "ep": 254,
+ "avulso": true,
+ "titulo": "A CANTORA DO ÔNIBUS",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "🎤 Ela cantava dentro dos ônibus pra ganhar uns trocados. Um passageiro gravou, postou, e o vídeo chegou num produtor. Hoje ela gravava o primeiro disco.\n\nQual talento você já viu escondido no transporte público? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#musica #superacao #cantora #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "🎤 Ela cantava dentro dos ônibus pra ganhar uns trocados. Um passageiro gravou, postou, e o vídeo chegou num produtor. Hoje ela gravava o primeiro disco. Qual talento você já viu escondido no transporte público? 👇\nHistória de ficção.\n#musica #superacao #cantora #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida levou uma voz que até ontem cantava pra quem estava em pé no ônibus.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "pé",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Terça, nove da manhã. Entrou uma mulher de uns trinta e cinco anos, roupa simples, cabelo preso e um violão velho dentro de uma capa remendada.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TERÇA · 9H"
+   ],
+   "destaque": [
+    "capa",
+    "remendada."
+   ]
+  },
+  {
+   "fala": "Disse: estúdio de gravação, por favor. Vou gravar o meu primeiro disco. Eu disse: que bacana. Ela: até semana passada eu cantava no ônibus.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Estúdio de gravação."
+   ],
+   "destaque": [
+    "cantava",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Roseli. Mãe de três filhos. Desempregada há dois anos. Começou a cantar dentro dos ônibus pra ganhar uns trocados. Com o violão do pai.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "DONA ROSELI"
+   ],
+   "destaque": [
+    "violão",
+    "pai."
+   ]
+  },
+  {
+   "fala": "Contou: eu tinha vergonha. No primeiro dia, eu entrei no ônibus, peguei o violão e não consegui cantar. Desci no ponto seguinte chorando.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu tinha vergonha."
+   ],
+   "destaque": [
+    "seguinte",
+    "chorando."
+   ]
+  },
+  {
+   "fala": "Mas precisava. No segundo dia, cantou. Uma música antiga, de rádio. Os passageiros olharam. Uns ignoraram. Uma senhora deu dois reais.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "dois",
+    "reais."
+   ]
+  },
+  {
+   "fala": "Disse: eu ganhava uns vinte, trinta reais por dia. Às vezes menos. Mas dava pro pão e pro leite das crianças.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Ganhava uns vinte por dia."
+   ],
+   "destaque": [
+    "das",
+    "crianças."
+   ]
+  },
+  {
+   "fala": "Um dia, um rapaz no ônibus gravou ela cantando. Postou na internet. Com a legenda: essa mulher canta melhor que muito famoso.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O VÍDEO"
+   ],
+   "destaque": [
+    "muito",
+    "famoso."
+   ]
+  },
+  {
+   "fala": "O vídeo teve milhões de visualizações. Em uma semana. As pessoas procurando ela. Entrando nos ônibus da linha pra ver se ela estava.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "ver",
+    "estava."
+   ]
+  },
+  {
+   "fala": "E um produtor musical viu. Mandou mensagem. Ela achou que era golpe. Não respondeu. Ele mandou de novo. E de novo. Até ela atender.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "O PRODUTOR"
+   ],
+   "destaque": [
+    "Até",
+    "atender."
+   ]
+  },
+  {
+   "fala": "Disse: eu achei que era mentira. Até ele aparecer no ponto de ônibus. De carro. Com um contrato.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Achei que era mentira."
+   ],
+   "destaque": [
+    "carro.",
+    "contrato."
+   ]
+  },
+  {
+   "fala": "Naquela terça, ia gravar o primeiro disco. Com as músicas antigas que cantava no ônibus. E duas dela mesma, que ela escrevia no caderno das crianças.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "das",
+    "crianças."
+   ]
+  },
+  {
+   "fala": "Chegamos no estúdio. Prédio pequeno, porta de vidro. Ela desceu, ajeitou a capa do violão. Ficou parada na porta.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "parada",
+    "porta."
+   ]
+  },
+  {
+   "fala": "Disse: e se eu não for boa o suficiente? Lá dentro é tudo profissional. Eu sou só a moça do ônibus.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "E se eu não for boa?"
+   ],
+   "destaque": [
+    "moça",
+    "ônibus."
+   ]
+  },
+  {
+   "fala": "Eu disse: dona Roseli, canta como no ônibus. Pra quem tá cansado, em pé, voltando do trabalho. Foi isso que conquistou todo mundo.",
+   "expr": "neutra",
+   "arte": [
+    "conversa",
+    "Canta como no ônibus."
+   ],
+   "destaque": [
+    "todo",
+    "mundo."
+   ]
+  },
+  {
+   "fala": "Ela sorriu. Respirou fundo. E entrou. Eu fui embora. Mas ela me mandou um áudio à tarde.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "à",
+    "tarde."
+   ]
+  },
+  {
+   "fala": "Era ela cantando no estúdio. Com banda. Com orquestra de corda. A mesma música do primeiro dia no ônibus. Eu arrepiei no carro.",
+   "expr": "chocada",
+   "arte": [
+    "carimbo",
+    "O ÁUDIO"
+   ],
+   "destaque": [
+    "arrepiei",
+    "carro."
+   ]
+  },
+  {
+   "fala": "No final do áudio, ela falou: essa versão é pro motorista que me disse pra cantar como no ônibus. Obrigada.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "PRO MOTORISTA"
+   ],
+   "destaque": [
+    "ônibus.",
+    "Obrigada."
+   ]
+  },
+  {
+   "fala": "Três meses depois, o disco saiu. E o primeiro show foi num lugar curioso. Dentro de um ônibus. Na linha onde tudo começou. Com a passagem paga por ela.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "TRÊS MESES DEPOIS"
+   ],
+   "destaque": [
+    "passagem",
+    "paga"
+   ]
+  },
+  {
+   "fala": "Eu fui. Entrei no ônibus. Ela cantando de pé, entre os passageiros, com o violão do pai. Os mesmos passageiros de antes. Agora aplaudindo de pé.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "aplaudindo",
+    "pé."
+   ]
+  },
+  {
+   "fala": "Moral da história: o talento não precisa de palco. Precisa de coragem. O palco aparece depois.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "CANTA ONDE ESTIVER"
+   ],
+   "destaque": [
+    "aparece",
+    "depois."
+   ]
+  },
+  {
+   "fala": "E se você ouvir alguém cantando no ônibus amanhã, presta atenção. E dá dois reais. Pode ser o começo de um disco.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "A CANTORA DO ÔNIBUS"
+   ],
+   "destaque": [
+    "começo",
+    "disco."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+## 205 | A PROMESSA DO SEU JOAQUIM | futebol | noite
+G: 🏆 Ele tem 74 anos e nunca viu o time ser campeão. Prometeu que, se um dia visse, pagaria a corrida da rua inteira. Naquele domingo, o time chegou na final.
+P: Seu time já te deu a alegria de um título?
+H: #futebol #torcedor #promessa
+neutra | titulo | Sobe aí, que essa corrida terminou com uma promessa cara. E muito bem paga.
+neutra | relogio: DOMINGO · 15H | Domingo, três da tarde. Entrou um senhor de setenta e quatro anos, camisa de time pequeno, bandeira nas costas e um radinho de pilha.
+neutra | conversa: Bar do Português. | Pediu: bar do Português, na esquina da minha rua. Vou ver a final lá. Com a rua inteira.
+neutra | carimbo: SETENTA E QUATRO ANOS SEM TÍTULO | Seu Joaquim. Torcedor de um time do interior. Setenta e quatro anos de vida, setenta e quatro anos sem ver o time ganhar nada.
+rindo | conversa: É sofrimento hereditário. | Riu: é sofrimento hereditário. Meu pai torcia, meu avô torcia. Nenhum deles viu título. Eu sou a terceira geração de sofredores.
+neutra | - | E naquele domingo, pela primeira vez na história, o time estava na final do campeonato estadual. Contra o maior time do estado.
+rindo | carimbo: A PROMESSA | Contou: há trinta anos eu prometi na rua. Se um dia o time for campeão, eu pago a corrida de todo mundo da rua pra onde quiserem ir.
+ironica | conversa: Quantas pessoas na rua? | Eu perguntei: e quantas pessoas moram na rua? Ele fez a conta: umas cento e vinte. Eu ri. Ele riu também, mas nervoso.
+neutra | mapa | Chegamos no bar. Rua fechada, bandeirinha, telão improvisado num lençol, churrasqueira. A rua inteira de camisa do time pequeno.
+neutra | - | Eu fiquei. Ninguém deixou eu ir embora. Disseram que motorista de domingo dá sorte. Já ouvi isso em muitas corridas.
+neutra | relogio: O JOGO | Primeiro tempo: um a zero pro time grande. A rua em silêncio. O seu Joaquim apertando o radinho no peito.
+chocada | relogio: 30 DO SEGUNDO TEMPO | Aos trinta do segundo tempo, empate. A rua explodiu. Aos quarenta e quatro, pênalti pro time pequeno. A rua parou de respirar.
+chocada | manchete: CAMPEÃO | Gol. Campeão. Pela primeira vez em cem anos de história. A rua inteira chorando, gritando, abraçando quem estivesse do lado.
+triste | - | O seu Joaquim ficou parado no meio da rua. Com o radinho no ouvido. Olhando pro céu. Disse: pai, vô, a gente ganhou.
+rindo | carimbo: A CONTA DA PROMESSA | Aí alguém gritou: seu Joaquim! E a promessa? A rua inteira começou a cantar: paga a corrida! Paga a corrida!
+rindo | - | O seu Joaquim tirou a carteira. Olhou. Tinha pouco dinheiro. Ficou vermelho. Mas disse: promessa é promessa. Quem quer ir aonde?
+chocada | - | Aí o dono do bar, o Português, levantou a mão. E disse: ninguém vai a lugar nenhum. A gente vai ficar aqui. E a conta é por minha conta.
+triste | conversa: A promessa tá paga. | Um vizinho completou: a promessa tá paga, seu Joaquim. O senhor esperou setenta e quatro anos com a gente. Isso já valeu.
+triste | coracao: TRÊS GERAÇÕES | A rua inteira abraçou o seu Joaquim. Ele chorava e ria. Disse que ia levar a camisa no túmulo do pai no dia seguinte.
+rindo | - | Mas ele insistiu em pagar pelo menos uma corrida. A minha. Me deu o dinheiro todo amassado. Eu peguei uma nota e devolvi o resto.
+neutra | carro | Na segunda de manhã, levei ele no cemitério. Com a camisa e o radinho. Ficou meia hora conversando com o pai e o avô.
+neutra | manchete_v: CONTINUA TORCENDO | Moral da história: tem alegria que demora setenta e quatro anos. Mas vale cada domingo de sofrimento.
+rindo | coracao: CAMPEÃO, SEU JOAQUIM | E se o seu time nunca ganhou nada, continua torcendo. Um dia o seu Joaquim vai ser você.
+
+## 206 | A MOÇA DO CARTÓRIO | amor | dia
+G: 💍 Em 30 anos de cartório, ela registrou mais de 5 mil casamentos. Nunca casou. Até o noivo da vez ser alguém que ela não esperava.
+P: Você acredita que o amor chega quando a gente menos espera?
+H: #amor #cartorio #casamento
+neutra | titulo | Sobe aí, que essa corrida levou a oficial de cartório mais romântica que eu já conheci. E a mais solteira.
+neutra | relogio: SEXTA · 8H | Sexta, oito da manhã. Entrou uma senhora de uns cinquenta e cinco anos, coque, óculos de corrente e uma pasta de documentos.
+rindo | conversa: Cartório de registro civil. | Pediu: cartório de registro civil, no centro. Trabalho lá. Eu disse: deve ver muito casamento. Ela: cinco mil. Mais ou menos.
+neutra | carimbo: DONA HELOÍSA | Dona Heloísa. Trinta anos no cartório. Registrou mais de cinco mil casamentos. Conhece todos os tipos de noivo nervoso.
+rindo | - | Contou do noivo que desmaiou. Da noiva que chegou de pijama. Do casal de noventa anos. Do casal que casou e separou no mesmo mês.
+triste | conversa: E a senhora? | Eu perguntei: e a senhora, já casou? Ela riu: eu? Não. Nunca deu tempo. Eu caso os outros.
+triste | - | Disse que teve um namorado na juventude. Mas ele foi embora trabalhar fora e eles perderam contato. Depois disso, ela se dedicou ao trabalho.
+neutra | - | Contou que naquela sexta tinha um casamento às dez. De um casal de idosos. Ela gostava dos casamentos de idoso. Dizia que eram os mais bonitos.
+neutra | mapa | Deixei ela no cartório. Às nove e cinquenta, o aplicativo me mandou outra corrida. Pro mesmo cartório. Um senhor de terno, sozinho, com um buquê.
+desconfiada | conversa: O senhor é o noivo? | Perguntei: o senhor é o noivo do casamento das dez? Ele riu nervoso: não. Eu sou o padrinho. O noivo é o meu irmão.
+neutra | - | Seu Rubens. Sessenta anos. Veio de outro estado pro casamento do irmão. Disse que não pisava naquela cidade fazia trinta e cinco anos.
+neutra | mapa | Chegamos. Ele desceu com o buquê. Pediu pra eu esperar, porque ia precisar voltar pro hotel. Eu esperei. Entrei pra tomar água.
+chocada | - | Lá dentro, na mesa do cartório, a dona Heloísa organizando os papéis. O seu Rubens entrou, ela levantou os olhos. E os dois pararam.
+chocada | manchete: ERA ELE | Ela tirou os óculos. Ele quase derrubou o buquê. E falou: Heloísa? E ela: Rubens? Era o namorado. O de trinta e cinco anos antes.
+triste | - | Ninguém no cartório entendeu nada. O casal de noivos idosos olhando. A dona Heloísa sentou de novo. Respirou fundo. Disse: vamos casar seu irmão primeiro.
+neutra | carimbo: O CASAMENTO DO IRMÃO | Ela fez a cerimônia. A voz tremendo um pouquinho. O seu Rubens de padrinho, olhando pra ela o tempo todo. Ela evitando olhar pra ele.
+triste | conversa: Você nunca escreveu. | No fim, ele foi até a mesa dela. Disse: eu escrevi. Três cartas. Elas voltaram. Endereço errado. Eu achei que você não queria.
+triste | coracao: AS CARTAS QUE VOLTARAM | Ela disse: eu mudei de casa naquele ano. Ninguém me avisou que tinha carta. Trinta e cinco anos achando que você esqueceu.
+rindo | - | Ele tirou da carteira uma das cartas. Guardada trinta e cinco anos. Envelope amarelado, carimbo de devolvido. Entregou pra ela.
+neutra | carro | Eu levei o seu Rubens pro hotel. E à noite, levei os dois pra jantar. Ela de vestido. Ele com o buquê do casamento do irmão.
+rindo | - | Seis meses depois, eu fui num casamento naquele cartório. Quem fez a cerimônia foi uma colega. A noiva era a dona Heloísa.
+neutra | manchete_v: O AMOR VOLTA | Moral da história: às vezes o amor só se perdeu no endereço. Ele volta. Nem que seja trinta e cinco anos depois.
+rindo | coracao: CINCO MIL E UM | E se você perdeu contato com alguém importante, procura. As cartas podem ter voltado sem você saber.
+
+## 207 | O VÔ DO PATINETE | humor | noite
+G: 🛴 O avô de 81 anos viu um patinete elétrico e decidiu: quero andar nisso. A família proibiu. Ele chamou um carro e fugiu pro parque.
+P: Qual coisa moderna seu avô ou avó quis experimentar?
+H: #avo #humor #patinete
+neutra | titulo | Sobe aí, que essa corrida foi uma fuga radical. Com capacete, joelheira e oitenta e um anos.
+neutra | relogio: SÁBADO · 16H | Sábado, quatro da tarde. Entrou um senhor de oitenta e um anos, de capacete de bicicleta na cabeça, joelheira por cima da calça social e uma cara de criança aprontando.
+rindo | conversa: Parque, rápido. | Disse: parque municipal, rápido, antes que a minha filha descubra. Eu perguntei: o senhor vai andar de bicicleta? Ele: não. De patinete.
+neutra | carimbo: SEU ALCIDES | Seu Alcides. Viu os jovens andando de patinete elétrico na rua e ficou encantado. Disse pra família que queria andar. A família inteira disse não.
+rindo | conversa: Disseram que eu ia quebrar o fêmur. | Riu: disseram que eu ia quebrar o fêmur. A minha filha, a médica da família, me mostrou um raio-x de fêmur quebrado. Pra me assustar.
+rindo | - | Mas ele pesquisou. Viu que dava pra alugar pelo celular no parque. Pediu pro neto ensinar a usar o aplicativo. Sem contar pra quê.
+rindo | conversa: O neto é cúmplice. | O neto sabia. Ele disse: o neto é meu cúmplice. Ele me emprestou o capacete e a joelheira. E vai me encontrar lá pra filmar.
+neutra | mapa | Chegamos no parque. O neto de dezesseis anos esperando na entrada, com o celular na mão, rindo. Do lado de uma fileira de patinetes.
+neutra | - | Eu estacionei e fui junto. Precisava ver aquilo. E se acontecesse alguma coisa, alguém precisava estar lá.
+rindo | carimbo: A PRIMEIRA TENTATIVA | O neto destravou o patinete pelo aplicativo. O seu Alcides subiu. Apertou o acelerador. E o patinete saiu. Sem ele. Ele ficou parado no chão.
+rindo | - | Segunda tentativa: ele subiu, segurou firme, acelerou devagar. Andou cinco metros. A cinco por hora. Com a cara mais concentrada do mundo.
+rindo | - | O povo do parque começou a parar pra olhar. Umas crianças torcendo. Um casal de idosos no banco aplaudindo. Ele acenou e quase caiu.
+chocada | manchete: ELE PEGOU O JEITO | Na quinta volta, ele pegou o jeito. Começou a andar pela pista de caminhada. Devagar, mas firme. Fazendo curva. Rindo alto.
+rindo | conversa: É igual cavalo! | Gritou pra mim: é igual cavalo, só que não morde! Ele tinha sido peão de fazenda na juventude.
+chocada | notificacao: Ligação: Filha | Aí o celular dele tocou. A filha. Ele atendeu andando de patinete. A filha perguntou: pai, onde o senhor tá? Ele: passeando.
+chocada | - | E aí ela ouviu o barulho. O vento. As crianças gritando: vai, vovô! Ela perguntou: pai, isso é um patinete?
+brava | conversa: Pai! | Ela gritou do outro lado: pai! O senhor tá de patinete?! Ele desligou. E acelerou. O neto morrendo de rir, filmando.
+rindo | relogio: 20 MINUTOS DEPOIS | Vinte minutos depois, chegou a filha. Correndo. De jaleco ainda. Brava. Parou na pista. O pai vindo de patinete na direção dela.
+triste | - | Ele parou na frente dela. Desceu. Tirou o capacete. Disse: filha, eu passei a vida inteira com medo de tudo. Hoje eu fui feliz por vinte minutos.
+triste | coracao: VINTE MINUTOS DE VENTO | A filha ficou quieta. Olhou pro pai, de joelheira, suado, sorrindo como menino. Respirou fundo. E disse: tá bom. Mas a próxima vez eu vou junto.
+rindo | - | E foi. Na semana seguinte, a família inteira alugou patinete. Pai, filha, neto. Andando juntos no parque. Devagar. No ritmo do avô.
+neutra | carro | Eu levei o seu Alcides pra casa naquele dia. Ele foi com o capacete no colo, ainda sorrindo. Disse: o fêmur ainda tá inteiro, viu?
+neutra | manchete_v: DEIXA VIVER | Moral da história: cuidar de quem a gente ama não é proibir tudo. É ir junto, de joelheira.
+rindo | coracao: VÔ RADICAL | E se seu avô quer experimentar alguma coisa nova, vai junto. Com capacete. E filma.
+
+## 208 | O PROFESSOR DO HAITI | superacao | dia
+G: 📚 Ele chegou do Haiti e trabalhou de pedreiro. Hoje é professor de francês numa escola pública. Os alunos fizeram uma surpresa no último dia de aula.
+P: Qual professor ensinou mais do que a matéria pra você?
+H: #professor #superacao #educacao
+neutra | titulo | Sobe aí, que essa corrida levou um professor que aprendeu português carregando tijolo.
+neutra | relogio: SEXTA · 7H | Sexta, sete da manhã. Entrou um homem de uns quarenta anos, alto, camisa social, com uma pilha de cadernos corrigidos no colo. Sotaque bonito.
+rindo | conversa: Bom dia, motorista. | Disse: bom dia, motorista. Escola estadual, por favor. Último dia de aula do ano. Eu sou professor de francês.
+neutra | carimbo: PROFESSOR JEAN | Professor Jean. Nasceu no Haiti. Era professor de francês lá. Veio pro Brasil há doze anos, depois do terremoto que destruiu a escola onde dava aula.
+triste | conversa: Aqui eu fui pedreiro. | Contou: quando cheguei, ninguém aceitava meu diploma. Eu fui pedreiro. Seis anos. Carregando tijolo, aprendendo português na obra.
+rindo | conversa: Aprendi palavrão primeiro. | Riu: as primeiras palavras que eu aprendi foram palavrão. Os colegas da obra me ensinaram. Eu falava pra todo mundo, achando que era bom dia.
+neutra | - | À noite, estudava português sozinho. Depois conseguiu validar o diploma. Depois fez concurso. Passou. Hoje dá aula de francês pra adolescentes.
+triste | conversa: Eles me chamavam de gringo. | Disse: no começo, os alunos me chamavam de gringo. Riam do meu sotaque. Não queriam aprender francês. Diziam que não servia pra nada.
+neutra | - | Mas ele não desistiu. Ensinava francês com música, com comida, com futebol. Contava do Haiti. Da mãe dele. Do terremoto.
+neutra | mapa | Chegamos na escola. Ele desceu com os cadernos. Pediu pra eu esperar, porque ia sair cedo, era só entrega de nota.
+neutra | relogio: 15 MINUTOS | Quinze minutos depois, ele não voltou. Vinte. Trinta. Eu fui até o portão ver. A coordenadora me chamou pra entrar.
+chocada | manchete: A SALA DECORADA | Na sala de aula, quarenta alunos de pé. A sala decorada com a bandeira do Brasil e a do Haiti. E um cartaz enorme: merci, professeur.
+chocada | - | O professor Jean parado na porta, com os cadernos no chão. Os alunos começaram a cantar. Em francês. Uma música que ele ensinou.
+triste | carimbo: A MÚSICA DO HAITI | Depois cantaram uma música em kreyòl, a língua do Haiti. A língua da mãe dele. Que eles aprenderam escondido, com vídeo na internet, pra fazer surpresa.
+triste | - | O professor sentou numa carteira de aluno. Não conseguia ficar em pé. Cobriu o rosto com as mãos.
+triste | conversa: A minha mãe cantava isso. | Ele disse: a minha mãe cantava essa música. Ela não sobreviveu ao terremoto. Ninguém aqui sabia disso.
+chocada | carimbo: A CARTA DOS ALUNOS | Um aluno, aquele que mais ria do sotaque dele no começo do ano, leu uma carta. Em francês. Errado, cheio de sotaque brasileiro. Mas leu.
+triste | coracao: MERCI, PROFESSEUR | Dizia: o senhor ensinou que a gente pode recomeçar do zero. Que a língua da gente é bonita. E que o mundo é maior que o nosso bairro.
+rindo | - | O professor riu chorando e corrigiu, carinhosamente, três erros da carta. A sala inteira riu. Ele disse: nota dez mesmo assim.
+neutra | carro | Na volta, ele foi com o cartaz enrolado no colo. Disse: doze anos atrás eu perdi uma escola. Hoje eu ganhei quarenta alunos.
+neutra | manchete_v: RECOMEÇA | Moral da história: tem gente que perde tudo e reconstrói tijolo por tijolo. Respeita essa gente.
+rindo | coracao: PROFESSEUR JEAN | E se você tem um professor que veio de longe, pergunta a história dele. Ele vai te ensinar mais que a matéria.
+
+## 209 | O SENHOR DAS PIPAS | curiosa | noite
+G: 🪁 Ele faz pipas gigantes há 50 anos. No festival da cidade, soltou uma de 12 metros. Com uma mensagem pro filho que não vê há 10 anos.
+P: Você soltava pipa quando era criança?
+H: #pipa #curiosidades #pai
+neutra | titulo | Sobe aí, que essa corrida levou uma pipa maior que o meu carro. Com um recado lá dentro.
+neutra | relogio: DOMINGO · 7H | Domingo, sete da manhã. Recebi uma corrida estranha. Pedido: carro com bagageiro grande. Eu tenho bagageiro de teto. Fui.
+neutra | mapa | Cheguei numa casa simples. Na calçada, um senhor de setenta anos e um embrulho enorme de tecido colorido, dobrado, amarrado com corda.
+rindo | conversa: É uma pipa. | Disse: é uma pipa. Doze metros. Vai pro festival de pipas no aterro. Eu olhei o embrulho. Olhei o meu teto. Disse: amarra bem.
+neutra | carimbo: SEU ORLANDO, PIPEIRO | Seu Orlando. Faz pipa desde os oito anos. Hoje faz pipa gigante. Já ganhou o festival da cidade nove vezes. A pipa dele é famosa.
+rindo | - | No caminho, ele contou que cada pipa leva três meses pra fazer. Varetas de bambu, tecido de nylon, linha de náilon grossa. Precisa de quatro homens pra segurar.
+neutra | - | Mas essa pipa era diferente. Ele disse que não era pra ganhar o festival. Era pra mandar uma mensagem.
+desconfiada | conversa: Que mensagem? | Perguntei: que mensagem? Ele ficou quieto um tempo. Depois disse: pro meu filho.
+triste | carimbo: O FILHO | O filho dele, o Daniel, aprendeu a fazer pipa com ele. Mas brigaram feio há dez anos. O filho foi morar em outra cidade. Não se falam desde então.
+triste | conversa: Ele ficou sabendo do festival. | Disse: eu soube que ele vem pro festival esse ano. Com o filho dele. O meu neto, que eu nunca conheci.
+neutra | - | E ele fez uma pipa. A maior da vida dele. Com uma mensagem pintada à mão. Que só ia aparecer quando a pipa subisse.
+neutra | mapa | Chegamos no aterro. Céu azul, vento forte, centenas de pipas coloridas no ar. Milhares de pessoas. Barraca, música, criança correndo.
+neutra | - | Os quatro ajudantes dele estavam esperando. Abriram a pipa no chão. Doze metros de tecido. Eu não conseguia ver a mensagem. Estava dobrada.
+chocada | relogio: A SUBIDA | Quando chegou a vez dele, os quatro seguraram a linha. O vento pegou. E a pipa subiu. Devagar. Enorme. Fazendo sombra no chão.
+chocada | manchete: A MENSAGEM NO CÉU | E lá em cima, abriu. Escrito em letra enorme, no meio de um desenho de duas pipas lado a lado: Daniel, me perdoa. Pai.
+chocada | - | O aterro inteiro olhou pra cima. Milhares de pessoas lendo. O locutor do festival leu no microfone. Um silêncio enorme.
+triste | - | E aí, no meio da multidão, um homem de uns quarenta anos parou. Com um menino de uns oito anos do lado. Olhando pro céu.
+triste | carimbo: O FILHO VEIO | Ele atravessou o aterro. Devagar. Até o seu Orlando. Que estava segurando a linha com os ajudantes. E parou do lado dele.
+triste | coracao: SEGURA COMIGO | O Daniel não disse nada. Pegou a linha da pipa. Segurou junto com o pai. Do jeito que aprendeu aos oito anos.
+neutra | - | O menino, o neto, olhando os dois sem entender. O seu Orlando abaixou e disse pra ele: quer segurar também? E os três seguraram juntos.
+neutra | carro | A pipa não ganhou o festival. Ficou em terceiro. O seu Orlando disse que foi a maior vitória da vida dele. E o Daniel voltou de carro com o pai. No meu carro.
+neutra | manchete_v: PEDE PERDÃO | Moral da história: às vezes o orgulho é grande demais pra falar. Aí a gente escreve no céu.
+rindo | coracao: DUAS PIPAS | E se você tem alguém pra pedir perdão, não precisa de doze metros. Uma mensagem já voa.
+
+## 210 | A CARTEIRA DO AVÔ | familia | dia
+G: 🎒 O avô levou o neto pro primeiro dia de aula. Na mesma escola onde estudou há 70 anos. E achou a própria carteira, com o nome gravado.
+P: Você ainda lembra da sua primeira escola?
+H: #avo #escola #primeirodiadeaula
+neutra | titulo | Sobe aí, que essa corrida levou dois alunos pro primeiro dia de aula. Um de seis anos e um de setenta e seis.
+neutra | relogio: SEGUNDA · 7H | Segunda, sete da manhã. Entraram um avô de setenta e seis anos e um menino de seis, de uniforme novo, mochila maior que ele e lancheira de dinossauro.
+rindo | conversa: Primeiro dia de aula. | O menino anunciou: hoje é meu primeiro dia de aula! O avô completou: e o meu também. De novo. Setenta anos depois.
+neutra | carimbo: A MESMA ESCOLA | Seu Waldir. O neto, Theo, ia estudar na mesma escola onde o avô estudou em mil novecentos e cinquenta e seis. Escola estadual antiga, no centro.
+rindo | conversa: Eu era bagunceiro. | O avô riu: eu era bagunceiro. Fui pra diretoria umas trinta vezes. A minha professora, dona Odete, me botava de castigo atrás da porta.
+rindo | - | O neto perguntando tudo. O senhor apanhava? Tinha recreio? Tinha merenda? O avô respondendo com histórias que pareciam de outro planeta.
+triste | conversa: Eu gravei meu nome numa carteira. | Contou: no último ano, eu gravei meu nome com um prego numa carteira de madeira. Ganhei uma semana de castigo. Valeu a pena.
+neutra | mapa | Chegamos na escola. O prédio antigo, de janelas altas, com escadaria de pedra. Reformado, pintado, mas o mesmo.
+neutra | - | O avô ficou parado na calçada. Olhando. Disse: setenta anos e parece que foi ontem. Até o cheiro é o mesmo.
+neutra | - | Ele me pediu pra esperar, ia ser rápido. Só ia deixar o neto. Mas a diretora, quando soube que ele era ex-aluno, convidou ele pra entrar. E ele me chamou junto.
+neutra | carimbo: O PORÃO | A diretora disse: a gente guarda as carteiras antigas no porão. Não tem coragem de jogar fora. Quer ver? Ele quis.
+chocada | - | Descemos. Um porão empoeirado, cheio de carteiras de madeira empilhadas. Dezenas. Velhas, riscadas, cheias de nome gravado.
+chocada | manchete: O NOME GRAVADO | O avô começou a procurar. Uma por uma. Passando a mão. E parou numa. Gravado com prego, torto: Waldir, mil novecentos e sessenta e um.
+triste | - | Ele sentou no chão empoeirado. Passou o dedo no nome. Disse: eu tinha onze anos. Achava que ia ser astronauta. Fui marceneiro.
+triste | conversa: Posso levar pra sala? | Aí o neto perguntou pra diretora: posso sentar na carteira do meu avô? A diretora olhou pro avô, olhou pro menino. E disse: pode.
+triste | carimbo: A CARTEIRA SUBIU | E a carteira subiu. Dois funcionários levaram pra sala do primeiro ano. Limparam. Colocaram na primeira fila.
+triste | coracao: O NETO SENTOU | O Theo sentou na carteira do avô. Passou o dedo no nome gravado. E disse: vô, eu vou ser astronauta por você.
+rindo | - | O avô, que era marceneiro, ainda deu um jeito. Disse pra diretora: essa carteira tá bamba. Amanhã eu venho com ferramenta e conserto.
+neutra | carro | Ele consertou. E consertou mais dez carteiras antigas. De graça. Hoje vai na escola toda semana. Virou o marceneiro voluntário.
+neutra | manchete_v: VOLTA PRA ESCOLA | Moral da história: o que a gente grava na infância fica. Às vezes setenta anos esperando alguém sentar.
+rindo | coracao: WALDIR, 1961 | E se você ainda passa pela sua escola antiga, entra um dia. Pode ter um nome seu esperando no porão.
+
+## 211 | A SENHORA DA JANELA | reflexao | noite
+G: 👋 Há 15 anos ela acena da janela pra todos os ônibus que passam. Ninguém sabia por quê. Um dia o ônibus parou.
+P: Que gesto pequeno de alguém muda o seu dia?
+H: #reflexao #gentileza #ônibus
+neutra | titulo | Sobe aí, que essa corrida terminou numa janela. A janela mais famosa do bairro.
+neutra | relogio: TERÇA · 18H | Terça, seis da tarde. Eu sempre passava por uma avenida movimentada e via, numa janela do segundo andar, uma senhora de cabelo branco acenando.
+neutra | carimbo: A SENHORA DA JANELA | Ela acenava pra todos os carros, todos os ônibus, todas as motos. O dia inteiro. Com um paninho branco na mão.
+desconfiada | - | Os motoristas de ônibus buzinavam pra ela. Os passageiros acenavam de volta. Eu também acenava. Mas nunca soube quem era.
+neutra | notificacao: Corrida: endereço da janela | Até que um dia, o aplicativo me mandou uma corrida. O endereço era o prédio da janela. Uma moça pediu pra levar a avó ao médico.
+neutra | mapa | Subi pra ajudar. Era ela. A senhora da janela. Dona Celestina. Oitenta e oito anos. Andava devagar, de andador.
+rindo | conversa: O senhor é o do carro prata! | Ela me olhou e disse: o senhor é o do carro prata! Que acena com dois dedos. Eu fiquei vermelho. Ela sabia quem eu era.
+desconfiada | conversa: Por que a senhora acena? | No carro, eu perguntei: dona Celestina, por que a senhora acena pra todo mundo? A neta riu: todo mundo pergunta isso.
+triste | carimbo: O MARIDO MOTORISTA | Ela contou. O marido dela foi motorista de ônibus quarenta anos. A linha passava naquela avenida. Bem embaixo da janela.
+triste | conversa: Eu acenava pra ele. | Disse: toda vez que ele passava, eu acenava. Ele buzinava duas vezes. Era o nosso jeito de dizer: tô aqui. Quarenta anos.
+triste | - | Ele faleceu há quinze anos. Ela continuou acenando. No começo, pro ônibus dele. Depois, pra todo mundo.
+triste | conversa: Alguém pode estar precisando. | Disse: depois eu pensei: alguém pode estar precisando de um aceno. Alguém triste, cansado, sozinho. E eu continuei.
+neutra | - | A neta contou que o prédio recebe cartas. De gente que passou de ônibus e quer agradecer. Uma caixa cheia.
+neutra | mapa | Levei ela no médico. Exame de rotina. Na volta, eu passei pela avenida devagar. E aconteceu uma coisa.
+chocada | manchete: O ÔNIBUS PAROU | Um ônibus da linha antiga do marido dela estava parado no ponto embaixo do prédio. E o motorista viu a dona Celestina no meu carro.
+chocada | - | Ele desceu do ônibus. Veio até a minha janela. Um senhor de uns sessenta anos. E disse: dona Celestina! A senhora não tava na janela hoje. Ficamos preocupados.
+triste | carimbo: OS MOTORISTAS | Ele contou: todos os motoristas da linha sabem dela. Quando ela não aparece na janela, a gente avisa no rádio. Hoje o rádio tava agitado.
+triste | coracao: DUAS BUZINADAS | Aí ele voltou pro ônibus. E buzinou duas vezes. Igual o marido dela. A dona Celestina começou a chorar.
+neutra | - | Depois disso, eu soube que os motoristas da linha combinaram. Todo dia, quem passa embaixo da janela buzina duas vezes. Pra ela saber.
+neutra | carro | Eu deixei ela em casa. Ela subiu e foi direto pra janela. Pegou o paninho branco. E acenou pro meu carro indo embora.
+neutra | manchete_v: ACENA | Moral da história: um aceno parece pouco. Mas pode ser o único bom-dia que alguém recebe.
+rindo | coracao: DONA CELESTINA | E se você vê alguém acenando de uma janela, acena de volta. Pode ser a coisa mais importante do dia dela.
+
+## 212 | O MENINO E OS GARIS | amizade | dia
+G: 🚛 Todo dia o menino de 5 anos esperava o caminhão de lixo pra acenar. No aniversário dele, os garis tocaram a campainha.
+P: Qual era o seu herói de infância que não era super-herói?
+H: #garis #crianca #amizade
+neutra | titulo | Sobe aí, que essa corrida levou um presente de aniversário inusitado: um caminhão de lixo.
+neutra | relogio: SÁBADO · 7H | Sábado, sete da manhã. Recebi um pedido estranho. Uma mulher pedindo pra eu buscar um bolo numa padaria e levar até a garagem da coleta de lixo.
+rindo | conversa: É pro aniversário do meu filho. | Ela explicou pelo telefone: é pro aniversário do meu filho. Cinco anos. Ele ama os garis. É complicado. O senhor vai entender.
+neutra | mapa | Busquei o bolo. Um bolo com um caminhão de lixo de açúcar em cima. Levei até a garagem da coleta. Ela me esperava lá com o menino.
+neutra | carimbo: O FÃ DOS GARIS | Chama-se Bento. Desde os dois anos, toda segunda, quarta e sexta, às seis e meia da manhã, espera no portão o caminhão de lixo passar.
+rindo | conversa: Ele acorda sozinho. | A mãe riu: ele acorda sozinho. Coloca o tênis, corre pro portão. Quando o caminhão passa, ele grita: oi, garis! E eles buzinam.
+rindo | - | Disse que os garis começaram a responder. Depois a acenar. Depois a parar um minuto. Um deles, o seu Valter, dava um tapinha na mão do Bento.
+triste | conversa: Ele quer ser gari. | E disse: ele quer ser gari quando crescer. As pessoas riem. Eu não rio. Eu acho lindo. São as pessoas que ele mais admira.
+neutra | - | Pro aniversário de cinco anos, a mãe teve uma ideia. Ligou na empresa de coleta. Contou a história. E pediu um favor.
+neutra | carimbo: A GARAGEM | Na garagem, os garis esperavam. Uns dez. De uniforme laranja. Com um caminhão limpinho, lavado, decorado com balão.
+chocada | - | O Bento entrou e travou. Olhando o caminhão. Olhando os garis. Com a boca aberta. Igual criança na frente do Papai Noel.
+chocada | manchete: O SEU VALTER | O seu Valter, o gari do tapinha, se abaixou e disse: feliz aniversário, parceiro. Hoje você é gari por um dia.
+rindo | - | Deram pra ele um uniforme laranja. Pequenininho. Feito sob medida por uma costureira da empresa. Com o nome dele bordado: Bento, gari mirim.
+rindo | carimbo: GARI POR UM DIA | E ele subiu no caminhão. Na cabine, com o motorista. Deu uma volta no pátio. Apertou o botão da caçamba. Puxou a buzina.
+rindo | - | Os garis aplaudindo. A mãe filmando chorando. Eu segurando o bolo, também chorando um pouquinho.
+triste | conversa: Vocês são meus heróis. | No final, o Bento, de uniforme laranja, falou no meio dos garis: vocês são meus heróis. Vocês limpam tudo.
+triste | - | Os garis ficaram em silêncio. Um deles, o mais velho, tirou o boné. Disse: em trinta anos de trabalho, ninguém nunca me chamou de herói.
+triste | coracao: OS HERÓIS LARANJA | Cantaram parabéns na garagem. Com o bolo do caminhão. Dez garis, uma mãe, um motorista de aplicativo e um herói de cinco anos.
+neutra | carro | Na volta, o Bento dormiu no carro, de uniforme laranja, abraçado num boné de gari que ganhou do seu Valter.
+neutra | manchete_v: RECONHECE | Moral da história: tem herói que usa capa. E tem herói que usa uniforme laranja e acorda às cinco da manhã.
+rindo | coracao: BENTO, GARI MIRIM | E se o caminhão de lixo passar na sua rua amanhã, acena. Agradece. Eles fazem a cidade funcionar.
+
+## 213 | O DENTISTA COM MEDO | humor | noite
+G: 🦷 O passageiro era dentista. Estava indo ao dentista. E tremia mais que todos os pacientes dele juntos.
+P: Você tem medo de dentista?
+H: #dentista #humor #medo
+neutra | titulo | Sobe aí, que essa corrida teve a maior ironia que eu já levei no banco de trás.
+neutra | relogio: QUINTA · 18H | Quinta, seis da tarde. Entrou um homem de uns quarenta e cinco anos, camisa social, suando frio, apertando as mãos no colo.
+neutra | conversa: Consultório odontológico. | Disse o endereço: um consultório odontológico. E respirou fundo três vezes. Eu perguntei: dor de dente? Ele: canal.
+rindo | carimbo: DOUTOR ALEXANDRE, DENTISTA | E aí ele confessou. Era dentista. Doutor Alexandre. Vinte anos de profissão. Faz canal todo dia. E estava indo fazer um canal. Nele mesmo.
+rindo | conversa: Eu tenho pavor. | Disse: eu tenho pavor de dentista. Pavor. Por isso eu virei dentista. Achei que ia perder o medo. Não perdi.
+rindo | - | Contou que fazia vinte anos que não sentava na cadeira do outro lado. Que cuidava dos dentes sozinho, no espelho. Até que um dente começou a doer.
+rindo | conversa: Eu sei exatamente o que vão fazer. | E o pior: eu sei exatamente o que vão fazer. Cada instrumento. Cada barulhinho. Eu sei o nome de tudo. Isso piora.
+ironica | - | Eu, que tenho medo de dentista também, fiquei com pena. Tentei ajudar: o senhor fala pros seus pacientes o quê, pra acalmar?
+rindo | conversa: Que não vai doer. | Ele riu nervoso: eu falo que não vai doer. E que é rapidinho. Duas mentiras. Eu sei porque eu falo.
+neutra | mapa | Chegamos no consultório. Ele não desceu. Ficou parado olhando a porta. Disse: dá uma volta no quarteirão? Eu dei.
+rindo | - | Duas voltas. Três. Na quarta, eu disse: doutor, o taxímetro tá correndo. Ele disse: vale cada centavo.
+neutra | carimbo: A DENTISTA | Na quinta volta, ele desceu. Mas pediu pra eu esperar. Pra levar ele de volta. Disse que não ia conseguir dirigir depois. Nem andar.
+neutra | relogio: UMA HORA | Uma hora depois, ele saiu. Com a bochecha inchada. Andando torto. E um sorriso meio torto, por causa da anestesia.
+rindo | conversa: Fui corajoso. | Ele entrou no carro e disse, com a boca dormente: fui corajoso. Ela me deu um adesivo. Igual eu dou pras crianças.
+chocada | manchete: O ADESIVO | Ele mostrou. Um adesivo de dentinho sorrindo, colado na camisa: paciente corajoso. A dentista deu de brincadeira. Ele colou com orgulho.
+rindo | - | Contou que a dentista era a ex-aluna dele. Da faculdade. Que ela riu muito quando ele chegou tremendo. E segurou a mão dele no começo.
+triste | conversa: Agora eu entendo. | No caminho, ele ficou pensando. Disse: agora eu entendo os meus pacientes. Vinte anos e eu nunca tinha entendido de verdade.
+triste | coracao: DO OUTRO LADO | Disse que ia mudar o jeito de atender. Ia explicar mais. Esperar mais. Segurar a mão quando precisasse. E parar de dizer que não dói.
+rindo | - | Depois me mandou uma foto. O consultório dele com um pote de adesivos na recepção. E uma placa: aqui, até o dentista tem medo.
+neutra | carro | Eu fiquei rindo sozinho a noite toda. E marquei o meu dentista. Que eu adiava fazia dois anos. A Rosângela agradece ao doutor Alexandre.
+neutra | manchete_v: SENTA DO OUTRO LADO | Moral da história: às vezes a gente só entende o outro quando senta na cadeira dele.
+rindo | coracao: PACIENTE CORAJOSO | E se você tá adiando o dentista, marca. Leva um adesivo. Até o dentista tem medo.
+
+## 214 | O B-BOY NO BALÉ | superacao | dia
+G: 🕺 Ele dançava breaking na praça. Uma professora de balé viu e ofereceu uma bolsa. Hoje, aos 19, era o solista principal do teatro.
+P: Qual talento escondido você já viu num lugar inesperado?
+H: #danca #bale #superacao
+neutra | titulo | Sobe aí, que essa corrida levou um bailarino que aprendeu a girar no chão de cimento.
+neutra | relogio: SÁBADO · 17H | Sábado, cinco da tarde. Entrou um rapaz de dezenove anos, boné virado, bermuda larga, uma bolsa de dança e um par de sapatilhas de balé pendurado.
+rindo | conversa: Hoje é a estreia. | Disse: hoje é a minha estreia. Teatro municipal. Solista principal. Eu olhei o boné e a sapatilha juntos. Achei curioso.
+neutra | carimbo: KAIQUE | Chama-se Kaique. Cresceu na periferia. Aos doze, começou a dançar breaking na praça do bairro. Girando de cabeça no chão de cimento.
+rindo | conversa: Eu girava de cabeça. | Riu: eu girava de cabeça, fazia moinho, congelava no ar. A galera da praça me chamava de pião.
+neutra | - | Aos quatorze, uma professora de balé passou pela praça. Ficou meia hora olhando ele dançar. Depois se aproximou.
+desconfiada | conversa: Você já fez balé? | Ela perguntou: você já fez balé? Ele riu na cara dela: balé? Eu? Os meninos da praça riram junto.
+neutra | - | Mas ela insistiu. Disse que ele tinha uma coisa rara: força, equilíbrio e alma. Ofereceu uma bolsa na escola dela.
+triste | conversa: Eu tinha vergonha. | Disse: eu tinha vergonha. Menino da periferia fazendo balé. Eu ia escondido. Com a sapatilha dentro da mochila. Dizia que ia no curso de informática.
+neutra | - | Cinco anos de balé. De manhã na escola, à tarde no balé, à noite treinando breaking na praça. Os dois ao mesmo tempo.
+neutra | carimbo: A ESTREIA | E naquela noite, era a estreia do espetáculo de fim de ano. Ele era o solista principal. Um papel criado pela professora: misturando balé e breaking.
+desconfiada | conversa: Os amigos da praça sabem? | Perguntei: e os amigos da praça sabem? Ele baixou a cabeça: não. Eu nunca contei. Eles acham que eu sou técnico de informática.
+neutra | mapa | Chegamos no teatro. Antigo, enorme, cortina vermelha. Ele me deu um ingresso. Disse que a mãe tinha guardado um pra quem levasse ele. Eu entrei.
+neutra | relogio: O ESPETÁCULO | O espetáculo começou. Bailarinos clássicos, música de orquestra. Lindo. E aí, no segundo ato, ele entrou.
+chocada | manchete: O SOLO | De sapatilha, ele dançou balé clássico. Saltos altíssimos, giros perfeitos. E no meio da música, a orquestra parou. E entrou uma batida de hip hop.
+chocada | - | E ele caiu no chão e girou de cabeça. No palco do teatro municipal. De sapatilha. A plateia inteira gritou.
+chocada | carimbo: A PRAÇA NA PLATEIA | E aí eu vi. No fundo do teatro, uns quinze rapazes de boné e bermuda. Os amigos da praça. A mãe dele tinha convidado escondida.
+rindo | - | Eles gritavam: vai, pião! Vai, pião! No meio do teatro municipal. Os senhores de terno olhando assustados. E depois gritando junto.
+triste | coracao: VAI, PIÃO | No final, ele viu os amigos lá do palco. Parou. E fez uma reverência de balé pra eles. Os amigos fizeram o passo de breaking de volta.
+triste | - | A plateia levantou. De pé. Dez minutos de aplauso. A professora de balé chorando na coxia. A mãe dele na terceira fila, de mão no peito.
+neutra | carro | Na saída, os amigos carregaram ele nos ombros até a calçada. Eu levei a mãe pra casa. Ele foi de ônibus com a galera. Cantando.
+neutra | manchete_v: NÃO ESCONDE | Moral da história: você não precisa escolher entre de onde veio e pra onde vai. Dá pra dançar os dois.
+rindo | coracao: PIÃO NO TEATRO | E se você esconde alguma coisa que ama por vergonha, mostra pros seus amigos. Eles podem gritar mais alto que todo mundo.

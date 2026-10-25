@@ -1,0 +1,276 @@
+{
+ "id": "cx104",
+ "ep": 104,
+ "avulso": true,
+ "titulo": "O COPILOTO DA FAXINA",
+ "categoria": "superacao",
+ "cenario": "noite",
+ "legenda_post": "✈️ Ele limpou banheiro de aeroporto por oito anos olhando os aviões. Hoje era o primeiro voo dele como copiloto. A família inteira ia de passageira.\n\nQual sonho você ainda tem e acha impossível? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#superacao #piloto #sonho #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "✈️ Ele limpou banheiro de aeroporto por oito anos olhando os aviões. Hoje era o primeiro voo dele como copiloto. A família inteira ia de passageira. Qual sonho você ainda tem e acha impossível? 👇\nHistória de ficção.\n#superacao #piloto #sonho #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida foi pro aeroporto. Mas quem ia voar era o motorista de quem eu levei.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "quem",
+    "levei."
+   ]
+  },
+  {
+   "fala": "Domingo, quatro da manhã. Peguei uma família inteira numa casa simples. Uma senhora de uns sessenta anos, um senhor, duas moças e um menino, todos de roupa de domingo.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "DOMINGO · 4H"
+   ],
+   "destaque": [
+    "roupa",
+    "domingo."
+   ]
+  },
+  {
+   "fala": "A senhora disse: é o primeiro voo da nossa vida. E o piloto é o meu filho. Copiloto, corrigiu a moça. Copiloto, mãe.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "É o primeiro voo da gente."
+   ],
+   "destaque": [
+    "Copiloto,",
+    "mãe."
+   ]
+  },
+  {
+   "fala": "O filho se chama Anderson. Trinta e dois anos. Durante oito anos trabalhou como auxiliar de limpeza no aeroporto. Limpando banheiro, recolhendo lixo.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "OITO ANOS DE FAXINA"
+   ],
+   "destaque": [
+    "recolhendo",
+    "lixo."
+   ]
+  },
+  {
+   "fala": "A mãe contou: no intervalo, ele comia a marmita na janela grande, olhando os aviões decolando. Todo dia. Oito anos.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele comia olhando os aviões."
+   ],
+   "destaque": [
+    "Oito",
+    "anos."
+   ]
+  },
+  {
+   "fala": "Juntava cada centavo pro curso de piloto. Que é caríssimo. Hora de voo, prova teórica, médico, inglês. Levou dez anos pra pagar tudo.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pagar",
+    "tudo."
+   ]
+  },
+  {
+   "fala": "O pai falou baixo: ele vendeu a moto, o videogame, deixou de ir em festa. Ia de bicicleta pro aeroporto às quatro da manhã.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Ele vendeu a moto."
+   ],
+   "destaque": [
+    "quatro",
+    "manhã."
+   ]
+  },
+  {
+   "fala": "Seis meses antes, foi contratado por uma companhia aérea. E aquele domingo era o primeiro voo comercial dele. Como copiloto.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "CONTRATADO"
+   ],
+   "destaque": [
+    "Como",
+    "copiloto."
+   ]
+  },
+  {
+   "fala": "Ele comprou passagem pra família inteira. No mesmo voo. Pra ver ele trabalhar. Nenhum deles tinha entrado num avião.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "num",
+    "avião."
+   ]
+  },
+  {
+   "fala": "O menino, sobrinho dele, perguntou: e se eu vomitar? A avó disse: vomita no saquinho, que é de graça.",
+   "expr": "desconfiada",
+   "arte": [
+    "conversa",
+    "E se eu passar mal?"
+   ],
+   "destaque": [
+    "saquinho,",
+    "graça."
+   ]
+  },
+  {
+   "fala": "Chegamos no aeroporto às cinco da manhã. Saguão quase vazio. As luzes, os painéis, o barulho de mala rodando.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "mala",
+    "rodando."
+   ]
+  },
+  {
+   "fala": "Eles pediram pra eu ajudar com a mala, que era a primeira vez e não sabiam onde ir. Eu entrei junto até o balcão.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "até",
+    "balcão."
+   ]
+  },
+  {
+   "fala": "Aí veio uma senhora de uniforme de limpeza, empurrando um carrinho. Olhou pra família e parou. Gritou: dona Lúcia? É hoje?",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "Lúcia?",
+    "hoje?"
+   ]
+  },
+  {
+   "fala": "Era a ex-colega do Anderson. E atrás dela vieram mais cinco. A equipe inteira da limpeza do turno da madrugada.",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "A EQUIPE DA LIMPEZA"
+   ],
+   "destaque": [
+    "turno",
+    "madrugada."
+   ]
+  },
+  {
+   "fala": "Fizeram uma faixa. Escrita à mão, em papel pardo: boa viagem, comandante Anderson. Da sua equipe de sempre.",
+   "expr": "triste",
+   "arte": [
+    "carimbo",
+    "ELES FIZERAM UMA FAIXA"
+   ],
+   "destaque": [
+    "equipe",
+    "sempre."
+   ]
+  },
+  {
+   "fala": "Seis horas. O Anderson apareceu no saguão. De uniforme de piloto. Quepe, dragona, mala de bordo. Passou pela família e parou na frente da equipe da limpeza.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "6H"
+   ],
+   "destaque": [
+    "equipe",
+    "limpeza."
+   ]
+  },
+  {
+   "fala": "Tirou o quepe. Abraçou um por um. A senhora do carrinho chorando: eu sempre falei que você ia voar, menino.",
+   "expr": "triste",
+   "arte": null,
+   "destaque": [
+    "voar,",
+    "menino."
+   ]
+  },
+  {
+   "fala": "Ele disse: eu limpei esse chão oito anos. Nunca vou esquecer quem me ajudou a não desistir.",
+   "expr": "triste",
+   "arte": [
+    "coracao",
+    "ELE NÃO ESQUECEU"
+   ],
+   "destaque": [
+    "ajudou",
+    "desistir."
+   ]
+  },
+  {
+   "fala": "Depois ele foi pra família. A mãe arrumou a gravata dele como no primeiro dia de escola. Ele riu: mãe, é uniforme, não precisa.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "uniforme,",
+    "precisa."
+   ]
+  },
+  {
+   "fala": "Depois, a moça me mandou um áudio gravado de dentro do avião. A voz dele no alto-falante: senhores passageiros, bom dia. Aqui fala o copiloto Anderson.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Senhoras e senhores, aqui fala o copiloto."
+   ],
+   "destaque": [
+    "copiloto",
+    "Anderson."
+   ]
+  },
+  {
+   "fala": "E no fundo do áudio, a família inteira batendo palma. E o avião inteiro, que não sabia de nada, batendo palma junto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "palma",
+    "junto."
+   ]
+  },
+  {
+   "fala": "Eu fiquei no estacionamento olhando o avião deles decolar. Acenei. Ninguém viu. Mas eu acenei.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "viu.",
+    "acenei."
+   ]
+  },
+  {
+   "fala": "Moral da história: tem gente que olha pela janela e só vê avião. E tem gente que vê o caminho.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "OLHA PRO ALTO"
+   ],
+   "destaque": [
+    "vê",
+    "caminho."
+   ]
+  },
+  {
+   "fala": "E se você está limpando o chão hoje, olha pela janela. O avião pode ser o seu um dia.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "COPILOTO ANDERSON"
+   ],
+   "destaque": [
+    "seu",
+    "dia."
+   ]
+  }
+ ]
+}

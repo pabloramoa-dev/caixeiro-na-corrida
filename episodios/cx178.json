@@ -1,0 +1,246 @@
+{
+ "id": "cx178",
+ "ep": 178,
+ "avulso": true,
+ "titulo": "O BILHETE DA QUINTA SÉRIE",
+ "categoria": "amor",
+ "cenario": "dia",
+ "legenda_post": "💌 Aos 45 anos, ele achou um bilhete que escreveu na quinta série pra uma colega e nunca entregou. Resolveu procurar ela. Era a professora da filha dele.\n\nVocê já escreveu um bilhete de amor que nunca entregou? 👇\n\n🚗 Cada corrida, uma história. Segue o Caixeiro pra não perder a próxima.\n\nHistória de ficção.\n\n#amor #escola #nostalgia #historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+ "legenda_tiktok": "💌 Aos 45 anos, ele achou um bilhete que escreveu na quinta série pra uma colega e nunca entregou. Resolveu procurar ela. Era a professora da filha dele. Você já escreveu um bilhete de amor que nunca entregou? 👇\nHistória de ficção.\n#amor #escola #nostalgia #historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+ "batidas": [
+  {
+   "fala": "Sobe aí, que essa corrida entregou um bilhete trinta e cinco anos atrasado.",
+   "expr": "neutra",
+   "arte": [
+    "titulo"
+   ],
+   "destaque": [
+    "anos",
+    "atrasado."
+   ]
+  },
+  {
+   "fala": "Segunda, sete da manhã. Entrou um homem de uns quarenta e cinco anos e uma menina de dez, de uniforme escolar. Indo pra escola.",
+   "expr": "neutra",
+   "arte": [
+    "relogio",
+    "SEGUNDA · 7H"
+   ],
+   "destaque": [
+    "Indo",
+    "escola."
+   ]
+  },
+  {
+   "fala": "A menina falou: o papai achou um bilhete de amor da quinta série. Ele ficou vermelho o fim de semana inteiro.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "O papai achou um bilhete."
+   ],
+   "destaque": [
+    "semana",
+    "inteiro."
+   ]
+  },
+  {
+   "fala": "O pai, Fernando, explicou rindo: arrumando a casa da mãe dele, achou um caderno da quinta série. E dentro, um bilhete dobrado em forma de coração.",
+   "expr": "neutra",
+   "arte": [
+    "carimbo",
+    "O BILHETE"
+   ],
+   "destaque": [
+    "forma",
+    "coração."
+   ]
+  },
+  {
+   "fala": "Escrito com caneta colorida: Juliana, você quer namorar comigo? Marque sim ou não. E dois quadradinhos. Nunca entregue.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "Nunca",
+    "entregue."
+   ]
+  },
+  {
+   "fala": "Disse: eu tinha onze anos. Escrevi, dobrei, guardei no bolso. Uma semana tentando entregar. Nunca tive coragem. Depois ela mudou de escola.",
+   "expr": "triste",
+   "arte": [
+    "conversa",
+    "Eu tive vergonha."
+   ],
+   "destaque": [
+    "mudou",
+    "escola."
+   ]
+  },
+  {
+   "fala": "A filha, rindo: ele procurou a Juliana na internet o fim de semana todo. Achou nada. Juliana tem um milhão.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "tem",
+    "milhão."
+   ]
+  },
+  {
+   "fala": "Ele disse que era bobagem. Que só queria saber se ela estava bem. E rir disso com ela, se possível.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "disso",
+    "possível."
+   ]
+  },
+  {
+   "fala": "Chegamos na escola da filha. Ele desceu pra levar ela até o portão, como todo dia. Eu esperei, porque ele ia voltar pro trabalho comigo.",
+   "expr": "neutra",
+   "arte": [
+    "mapa"
+   ],
+   "destaque": [
+    "trabalho",
+    "comigo."
+   ]
+  },
+  {
+   "fala": "Na porta, a professora da filha recebendo os alunos. Uma mulher de uns quarenta e cinco anos, óculos, cabelo cacheado.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "cabelo",
+    "cacheado."
+   ]
+  },
+  {
+   "fala": "Eu vi o Fernando parar. Olhar. Olhar de novo. Pegar o bilhete do bolso. E guardar de volta.",
+   "expr": "desconfiada",
+   "arte": null,
+   "destaque": [
+    "guardar",
+    "volta."
+   ]
+  },
+  {
+   "fala": "A professora olhou pra ele também. Inclinou a cabeça. E falou: Fernando? Fernando da quinta série B? O que sentava atrás de mim?",
+   "expr": "chocada",
+   "arte": [
+    "manchete",
+    "ERA A JULIANA"
+   ],
+   "destaque": [
+    "atrás",
+    "mim?"
+   ]
+  },
+  {
+   "fala": "Era a Juliana. A professora da filha dele havia seis meses. Ele nunca tinha ido numa reunião. A mãe é que ia.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "mãe",
+    "ia."
+   ]
+  },
+  {
+   "fala": "A filha, que sabia de tudo, cutucou o pai: entrega, pai! Entrega o bilhete! Ele ficou da cor do tijolo da escola.",
+   "expr": "rindo",
+   "arte": [
+    "conversa",
+    "Pai, entrega!"
+   ],
+   "destaque": [
+    "tijolo",
+    "escola."
+   ]
+  },
+  {
+   "fala": "Ele tirou o bilhete do bolso. Estendeu. Disse: eu escrevi isso pra você em mil novecentos e noventa. Demorei um pouco pra entregar.",
+   "expr": "neutra",
+   "arte": null,
+   "destaque": [
+    "pouco",
+    "entregar."
+   ]
+  },
+  {
+   "fala": "Ela abriu o bilhete. Leu. Começou a rir. Uma gargalhada que fez os pais em volta olharem. E falou: deixa eu ver uma coisa.",
+   "expr": "rindo",
+   "arte": [
+    "carimbo",
+    "ELA ABRIU"
+   ],
+   "destaque": [
+    "ver",
+    "coisa."
+   ]
+  },
+  {
+   "fala": "Tirou uma caneta do bolso do jaleco. Marcou um dos quadradinhos. Dobrou de novo. E devolveu pra ele.",
+   "expr": "chocada",
+   "arte": null,
+   "destaque": [
+    "novo.",
+    "devolveu"
+   ]
+  },
+  {
+   "fala": "Ele abriu. Ela tinha marcado sim. E escrito do lado: em mil novecentos e noventa, sim. Hoje, sou casada e tenho três filhos. Mas obrigada por perguntar.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "SIM, EM 1990"
+   ],
+   "destaque": [
+    "obrigada",
+    "perguntar."
+   ]
+  },
+  {
+   "fala": "Os dois caíram na risada. Ela disse: eu sempre achei que você ia me pedir. Você me olhava o recreio inteiro. O Fernando cobriu o rosto.",
+   "expr": "rindo",
+   "arte": null,
+   "destaque": [
+    "cobriu",
+    "rosto."
+   ]
+  },
+  {
+   "fala": "Ele voltou pro carro rindo sozinho, com o bilhete na mão. Disse: trinta e cinco anos e eu fui aceito. Pena que atrasado.",
+   "expr": "neutra",
+   "arte": [
+    "carro"
+   ],
+   "destaque": [
+    "Pena",
+    "atrasado."
+   ]
+  },
+  {
+   "fala": "Moral da história: às vezes a resposta era sim. A gente só nunca perguntou.",
+   "expr": "neutra",
+   "arte": [
+    "manchete_v",
+    "ENTREGA O BILHETE"
+   ],
+   "destaque": [
+    "nunca",
+    "perguntou."
+   ]
+  },
+  {
+   "fala": "E se você tem um bilhete guardado, entrega. Nem que seja pra rir junto trinta anos depois.",
+   "expr": "rindo",
+   "arte": [
+    "coracao",
+    "QUINTA SÉRIE B"
+   ],
+   "destaque": [
+    "anos",
+    "depois."
+   ]
+  }
+ ]
+}
