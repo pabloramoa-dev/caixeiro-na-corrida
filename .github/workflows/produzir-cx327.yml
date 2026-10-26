@@ -1,0 +1,70 @@
+name: Piloto ilustrado da lasanha (sem publicar)
+
+# Roda o motor ORIGINAL para o episódio cx327, com apoio visual a cada 7 segundos.
+# O MP4 vai somente para artifacts: não grava em reels/ nem publica nas redes.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "episodios/cx327.json"
+      - "assets/episodios/cx327/**"
+      - "motor/hyperframes_marcao.py"
+      - ".github/workflows/produzir-cx327.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: piloto-caixeiro-cx327
+  cancel-in-progress: false
+
+jobs:
+  renderizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Dependencias do estúdio original
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          mkdir -p ~/.fonts
+          for p in Bold Regular; do
+            curl -fsSL -o ~/.fonts/Poppins-$p.ttf "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$p.ttf"
+          done
+          fc-cache -f
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install --no-build-isolation srt || true
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Renderizar o Caixeiro com as 10 imagens
+        env:
+          NINA_HF_WORKERS: "2"
+        run: |
+          python motor/produzir.py episodios/cx327.json --publicar-em saida_piloto
+      - name: Validar MP4 e sequencia visual
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d = json.loads(Path("saida_piloto/cx327-render.json").read_text())
+          assert d["resolucao"] == [1080, 1920] and d["fps"] == 30, d
+          assert d.get("illustrations") == 10, d
+          assert d.get("illustration_interval") == 7, d
+          assert Path("saida_piloto/cx327.mp4").stat().st_size > 100000, d
+          print("Render validado: 10 imagens, 7 segundos, 1080x1920, 30fps")
+          PY
+      - name: Disponibilizar o piloto para avaliacao (sem publicar)
+        uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-cx327-lasanha-ilustrado
+          path: |
+            saida_piloto/cx327.mp4
+            saida_piloto/cx327-capa.jpg
+            saida_piloto/cx327-render.json
+          if-no-files-found: error
+          retention-days: 7

@@ -1,0 +1,247 @@
+{
+  "id": "cx327",
+  "ep": 327,
+  "avulso": true,
+  "titulo": "A MENTIRA DA LASANHA",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "😂 Ele mentiu que sabia fazer lasanha, mas a sogra ficou amiga da dona do restaurante! E o final foi melhor que o jantar.\n\nVocê entregaria o genro ou ajudaria a sustentar a mentira? 👇\n\nHistória de ficção. 🚗 Cada corrida, uma história.\n\n#historiasengracadas #lasanha #sogra #humor #motoristadeaplicativo #uber #caixeironacorrida",
+  "legenda_tiktok": "😂 O genro disse que fez a lasanha… até a sogra encontrar a dona do restaurante! Você ajudaria esse genro?👇\nHistória de ficção.\n#humor #lasanha #sogra #historias #uber #fyp #caixeironacorrida",
+  "visual_sequence": {
+    "path": "assets/episodios/cx327/ilustracoes-hq.webp.b64",
+    "interval_seconds": 7,
+    "count": 10,
+    "sha256": "c3ab88a0dc6980cb8f0bfda403ac195c1b1c1c97f80e9618a80f7a980f248649"
+  },
+  "batidas": [
+    {
+      "fala": "Sobe aí, que hoje a lasanha de um passageiro quase virou prova num tribunal. O juiz? A sogra dele.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "sogra",
+        "dele."
+      ]
+    },
+    {
+      "fala": "Era sexta-feira, fim de tarde. Um rapaz chamado Vinícius entrou apressado no meu carro abraçado com uma lasanha de restaurante.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "SEXTA · 18H"
+      ],
+      "destaque": [
+        "de",
+        "restaurante."
+      ]
+    },
+    {
+      "fala": "Perguntei se aquilo era jantar ou passageiro VIP. Ele disse que tinha prometido à sogra uma lasanha feita por ele mesmo.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "FEITA EM CASA?"
+      ],
+      "destaque": [
+        "ele",
+        "mesmo."
+      ]
+    },
+    {
+      "fala": "Só que o Vinícius confessou: não sabia nem acender o forno direito. Pagou oitenta reais na lasanha e inventou um plano.",
+      "expr": "desconfiada",
+      "arte": [
+        "carimbo",
+        "PLANO INFALÍVEL"
+      ],
+      "destaque": [
+        "um",
+        "plano."
+      ]
+    },
+    {
+      "fala": "Chegaria antes da sogra, tiraria a lasanha da embalagem e sujaria um avental de farinha para parecer um chef de cozinha.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "AVENTAL COM FARINHA"
+      ],
+      "destaque": [
+        "de",
+        "cozinha."
+      ]
+    },
+    {
+      "fala": "Eu disse que mentira com sogra costuma vir acompanhada de sobremesa amarga. Ele riu e garantiu que estava tudo calculado.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "tudo",
+        "calculado."
+      ]
+    },
+    {
+      "fala": "Foi quando o celular apitou. Mensagem da sogra: 'Genro, conheci hoje a dona de um restaurante maravilhoso!'",
+      "expr": "chocada",
+      "arte": [
+        "notificacao",
+        "A MENSAGEM"
+      ],
+      "destaque": [
+        "restaurante",
+        "maravilhoso!'"
+      ]
+    },
+    {
+      "fala": "Vinícius olhou o nome do lugar e quase deixou a lasanha cair. Era exatamente o restaurante onde ele tinha comprado o jantar.",
+      "expr": "chocada",
+      "arte": [
+        "manchete",
+        "O MESMO RESTAURANTE"
+      ],
+      "destaque": [
+        "o",
+        "jantar."
+      ]
+    },
+    {
+      "fala": "Apareceu outra mensagem. A sogra mandou uma foto dela sorrindo ao lado da dona do restaurante.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "A FOTO!"
+      ],
+      "destaque": [
+        "do",
+        "restaurante."
+      ]
+    },
+    {
+      "fala": "Ele me mostrou a foto, suando mais que panela de pressão. Eu tentei ficar sério, mas já estava difícil.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "ELA DESCOBRIU!"
+      ],
+      "destaque": [
+        "estava",
+        "difícil."
+      ]
+    },
+    {
+      "fala": "Aí veio a última mensagem: 'Já sei de tudo. Mas vou te dar uma chance. Me manda a receita da sua lasanha.'",
+      "expr": "chocada",
+      "arte": [
+        "notificacao",
+        "MANDA A RECEITA!"
+      ],
+      "destaque": [
+        "sua",
+        "lasanha.'"
+      ]
+    },
+    {
+      "fala": "O rapaz me perguntou, desesperado, se eu sabia cozinhar. Respondi: claro! Primeiro, abre o aplicativo de entrega...",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "A RECEITA SECRETA"
+      ],
+      "destaque": [
+        "de",
+        "entrega..."
+      ]
+    },
+    {
+      "fala": "Ele bateu a mão na testa. Eu comecei a rir, e até ele percebeu que a situação era boa demais.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "boa",
+        "demais."
+      ]
+    },
+    {
+      "fala": "Vinícius pediu para eu voltar ao restaurante. Disse que ia pedir emprego lá e aprender a fazer lasanha antes do jantar.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "do",
+        "jantar."
+      ]
+    },
+    {
+      "fala": "Eu avisei: a dona agora é amiga da sua sogra. Seu estágio vai ser supervisionado, meu filho!",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "ESTÁGIO SUPERVISIONADO"
+      ],
+      "destaque": [
+        "meu",
+        "filho!"
+      ]
+    },
+    {
+      "fala": "No fim, ele decidiu contar a verdade. Mandou um áudio pedindo desculpas e convidando a sogra para jantar mesmo assim.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "A VERDADE"
+      ],
+      "destaque": [
+        "mesmo",
+        "assim."
+      ]
+    },
+    {
+      "fala": "A resposta dela veio rapidinho: 'Eu sabia. Pode trazer a lasanha, que eu levo a sobremesa. E o avental você guarda.'",
+      "expr": "rindo",
+      "arte": [
+        "notificacao",
+        "ELA JÁ SABIA!"
+      ],
+      "destaque": [
+        "você",
+        "guarda.'"
+      ]
+    },
+    {
+      "fala": "O Vinícius soltou um suspiro. Descobriu que a sogra já tinha sacado a história toda e só queria se divertir um pouco.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "um",
+        "pouco."
+      ]
+    },
+    {
+      "fala": "E eu aprendi outra: na família, é melhor servir uma lasanha comprada com sinceridade do que um banquete cheio de mentira.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "SINCERIDADE É O TEMPERO"
+      ],
+      "destaque": [
+        "de",
+        "mentira."
+      ]
+    },
+    {
+      "fala": "Agora me conta: você entregaria esse genro ou ajudaria a sustentar a história? Cinco estrelas pra essa história.",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "CINCO ESTRELAS"
+      ],
+      "destaque": [
+        "essa",
+        "história."
+      ]
+    }
+  ]
+}
