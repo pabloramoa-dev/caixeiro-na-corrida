@@ -67,7 +67,7 @@ def pronto(ep_id: str) -> bool:
 
 def episodios() -> list[str]:
     ids = [f.stem for f in config.EPISODIOS.glob("cx*.json") if RX.match(f.stem)]
-    return sorted(ids, key=lambda s: int(s[2:]))
+    # Episódios em avaliação ficam fora da produção/publicação programada.\n    ids = [e for e in ids if not carregar_ep(e).get("preview_only", False)]\n    return sorted(ids, key=lambda s: int(s[2:]))
 
 
 def prontos_nao_publicados() -> list[str]:
