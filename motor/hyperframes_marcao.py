@@ -157,7 +157,7 @@ def compor(ep,segs,pasta):
             nome = html.escape(frames[j % len(frames)], quote=True)
             support_parts.append(
                 f'<div id="support{j}" class="clip visual-support" data-start="{ini}" '
-                f'data-duration="{tempo}" data-track-index="2.5">'
+                f'data-duration="{tempo}" data-track-index="5">'
                 f'<img src="assets/{nome}" alt="Ilustração de apoio"></div>'
             )
     confetti=''
