@@ -169,11 +169,18 @@ def compor(ep,segs,pasta):
     out=f'''<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="composition.css">{"<style>"+V4.CSS+"</style>" if v4 else ""}</head><body><div id="root" class="{"v4" if v4 else ""}" data-composition-id="nina-hf" data-width="1080" data-height="1920" data-duration="{dur}" data-fps="30"><video id="base" class="clip" src="assets/base.mp4" data-start="0" data-duration="{dur}" data-track-index="0" muted playsinline></video><div class="wash"></div><header><div class="brand">CAIXEIRO NA CORRIDA</div><div class="tag">BANCO DE TRÁS</div></header>{''.join(parts)}{''.join(support_parts)}{confetti}<footer><span>Cada corrida, uma história.</span><small>COMENTE · SIGA</small></footer><div id="progress"></div><div class="demo">HISTÓRIA FICTÍCIA</div><div id="grain"></div><div id="wipe"></div><div id="flash"></div><audio id="voice" src="assets/mix.wav" data-start="0" data-duration="{dur}" data-track-index="4"></audio><script src="assets/gsap.min.js"></script><script>const tl=gsap.timeline({{paused:true}});{''.join(anim)}window.__timelines=window.__timelines||{{}};window.__timelines['nina-hf']=tl;</script></div></body></html>'''
     out=out.replace('NINA ME CONTOU','CAIXEIRO NA CORRIDA').replace('<footer>','<div id="neon"><div class="n n1">UBER</div><div class="n n2">99</div></div><footer>').replace('window.__timelines=window.__timelines',"[...Array(40).keys()].map(k=>[1.1+k*5.9,k%2?'.n2':'.n1']).forEach(([t,s])=>{tl.to('#neon '+s,{opacity:.25,duration:.04,yoyo:true,repeat:5,ease:'none'},t);});tl.fromTo('#neon',{opacity:0,scale:.9},{opacity:1,scale:1,duration:.35,immediateRender:false,ease:'back.out(2)'},.3);window.__timelines=window.__timelines").replace('</head>','<style>#neon{position:absolute;right:44px;top:792px;display:flex;flex-direction:column;align-items:center;gap:2px;padding:12px 20px 10px;border:3px solid #ff4fd8;border-radius:20px;background:#0a0c1fb3;box-shadow:0 0 10px #ff4fd8,0 0 28px #ff4fd8aa,inset 0 0 14px #ff4fd899;transform:rotate(-3deg)}#neon .n{font-family:Bold,sans-serif;line-height:1.05;color:#fff}#neon .n1{font-size:56px;letter-spacing:5px;text-shadow:0 0 5px #fff,0 0 12px #3ff0ff,0 0 26px #3ff0ff,0 0 46px #3ff0ff}#neon .n2{font-size:64px;letter-spacing:3px;text-shadow:0 0 5px #fff,0 0 12px #ff9a3c,0 0 26px #ff9a3c,0 0 46px #ff9a3c}.wash{background:linear-gradient(#efe4d5 0%,#efe4d5f0 25%,#efe4d580 37%,transparent 47%,transparent 68%,#10162dcc 84%,#10162d 100%)}.brand{background:#ffb347}#progress{background:#ffb347}.eyebrow{color:#2f5aa8}.underline{background:#2f5aa8}.speaker{background:#ffb347}</style></head>')
     if support_parts:
-        css = ('<style>.visual-support{position:absolute;top:447px;left:169px;'
-               'width:742px;height:285px;border:4px solid #fff9ea;border-radius:16px;'
-               'overflow:hidden;background:#fff9ea;box-shadow:0 9px 19px #13111b66;}'
-               '.visual-support img{display:block;width:100%;height:100%;object-fit:cover;'
-               'object-position:center 38%;}</style>')
+        # Modo ilustrado: a imagem cobre exatamente a caixa superior original.
+        # O card (titulo, selo, baloes e arte) fica invisivel; so o rodape
+        # de legendas continua sobre o Caixeiro, sem textos por tras da foto.
+        css = ('<style>.panel{visibility:hidden!important;}'
+               '.visual-support{position:absolute;left:74px;top:205px;'
+               'width:932px;height:550px;z-index:2;'
+               'border:3px solid #28232b;border-radius:0;'
+               'overflow:hidden;background:#16161b;'
+               'box-shadow:14px 18px 0 #34233628;}'
+               '.visual-support img{display:block;width:100%;height:100%;'
+               'object-fit:cover;object-position:center 20%;}'
+               '</style>')
         out = out.replace('</head>', css + '</head>')
     (pasta/'index.html').write_text(out,encoding='utf-8')
     return dur
