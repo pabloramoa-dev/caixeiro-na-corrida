@@ -100,9 +100,10 @@ def montar(e: dict) -> dict:
         if not e["cab"].get(k):
             raise ValueError(f"{e['onde']}: falta a linha {k}:")
     ig, tt = legendas(e["cab"])
-    return {"id": f"cx{e['num']:03d}", "ep": e["num"], "avulso": True, "titulo": e["titulo"],
+    from ganchos_caixeiro import aplicar_ganchos
+    return aplicar_ganchos({"id": f"cx{e['num']:03d}", "ep": e["num"], "avulso": True, "titulo": e["titulo"],
             "categoria": e["categoria"], "cenario": e["cenario"],
-            "legenda_post": ig, "legenda_tiktok": tt, "batidas": e["batidas"]}
+            "legenda_post": ig, "legenda_tiktok": tt, "batidas": e["batidas"]})
 
 
 def main() -> int:

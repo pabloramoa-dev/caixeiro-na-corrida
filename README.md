@@ -72,3 +72,18 @@ O vídeo não chama API paga de imagens. Episódios que já incluem uma sequênc
 Use `CAIXEIRO_MOTION_IMAGES=0` para restaurar o visual anterior.
 A mudança visual não publica nada por conta própria e não altera
 `conteudo/publicados.json`.
+
+
+## Aberturas com antecipação e micro-reenganches (outubro/2026)
+
+A partir da versão v3, todos os roteiros que entram na renderização são tratados
+por `motor/ganchos_caixeiro.py`: o início de cada história pode antecipar uma
+pista real encontrada entre 30% e 65% do roteiro; uma segunda cena da história
+recebe um micro-reenganche por volta da metade. Nunca são inventados fatos,
+alterados nomes/desfechos ou duplicados CTAs. Histórias com abertura editorial
+já adequada são preservadas. Vídeos já publicados não são republicados.
+
+O módulo é idempotente: aplica uma versão única no compilador dos lotes e
+também no renderizador, para os JSONs antigos ainda na fila. A versão de render
+mudou para reavaliar somente os episódios pendentes. Consulte
+`python motor/ganchos_caixeiro.py` para uma auditoria local sem renderizar.

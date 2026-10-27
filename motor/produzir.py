@@ -57,7 +57,10 @@ def main():
     os.environ["MARCAO_VOZ"] = VOZ
     from cta import garantir_cta
     from render_version import versao
-    ep = garantir_cta(json.load(open(a.episodio, encoding="utf-8")))   # CTA só no final
+    from ganchos_caixeiro import aplicar_ganchos
+    ep = aplicar_ganchos(garantir_cta(json.load(open(a.episodio, encoding="utf-8"))))
+    # Gancho de antecipação + micro-reenganche antes da voz e das ilustrações.
+    # O arquivo-fonte e os registros de publicação permanecem intactos.
     ep["avulso"] = True
     ep["_render_version"] = versao()
 
