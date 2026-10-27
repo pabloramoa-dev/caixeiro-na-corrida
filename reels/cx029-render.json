@@ -1,6 +1,6 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-1",
+  "versao": "caixeiro-hyperframes-2-motion-illustrations",
   "fotos": 0,
   "duracao": 154.897,
   "resolucao": [
@@ -14,5 +14,9 @@
   "visual": "v4",
   "lip": "rhubarb",
   "cenario": "dia",
-  "batidas": 26
+  "batidas": 26,
+  "illustrations": 23,
+  "illustration_interval": 7.0,
+  "animated_support": true,
+  "support_source": "original_local"
 }

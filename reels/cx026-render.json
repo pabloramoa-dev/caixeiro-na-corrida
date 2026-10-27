@@ -1,6 +1,6 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-1",
+  "versao": "caixeiro-hyperframes-2-motion-illustrations",
   "fotos": 0,
   "duracao": 155.095,
   "resolucao": [
@@ -9,10 +9,14 @@
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "ffmpeg",
+  "audio": "pedalboard",
   "sfx": 90,
   "visual": "v4",
   "lip": "rhubarb",
   "cenario": "noite",
-  "batidas": 25
+  "batidas": 25,
+  "illustrations": 23,
+  "illustration_interval": 7.0,
+  "animated_support": true,
+  "support_source": "original_local"
 }
