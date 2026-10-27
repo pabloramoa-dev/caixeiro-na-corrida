@@ -285,11 +285,18 @@ def renderizar(ep,pasta,raiz):
             desenho.convert('RGB').save(assets / nome, format='PNG')
             ep['_support_frames'].append(nome)
     if imagens_moveis and not especificacao:
-        from uber_visual_motion import preparar, INTERVALO
-        ep['_support_interval'] = INTERVALO
-        ep['_support_frames'] = preparar(ep,segs,assets,dur)
-        ep['_free_story_visuals'] = True
-        print(f"[Caixeiro] {len(ep['_support_frames'])} ilustrações locais, custo de imagem zero", flush=True)
+        try:
+            from uber_visual_motion import preparar, INTERVALO
+            ep['_support_interval'] = INTERVALO
+            ep['_support_frames'] = preparar(ep,segs,assets,dur)
+            ep['_free_story_visuals'] = True
+            print(f"[Caixeiro] {len(ep['_support_frames'])} ilustrações locais, custo de imagem zero", flush=True)
+        except Exception as exc:
+            # Não descartar o episódio se o desenho local falhar: conserva o visual anterior.
+            print(f"::warning::Ilustração local indisponível ({type(exc).__name__}); retornando aos cartões originais.", flush=True)
+            ep['_support_frames'] = []
+            ep['_free_story_visuals'] = False
+            ep['_fotos'] = banco_imagens.preparar_episodio(ep,assets,pasta)
     native=[]
     for i,b in enumerate(ep['batidas']):
         spec=b.get('arte') or [None];tipo=spec[0]
