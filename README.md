@@ -58,3 +58,17 @@ O repositório precisa ser **público** (o Instagram baixa o vídeo pelo link ra
 
 Família-friendly, tema nunca repetido (`references/temas-usados.md`), CTA só no fim
 (coração + seguir), nunca o nome antigo na tela. Detalhes em `SKILL.md`.
+
+## Visual com imagens em movimento (outubro/2026)
+
+O motor HyperFrames agora utiliza, por padrão, ilustrações originais geradas
+localmente com Pillow a cada **7 segundos**, alinhadas às falas reais. Elas
+ganham zoom e deslocamento suaves (efeito Ken Burns) na área superior,
+substituindo os antigos cartões que repetiam legendas. As legendas continuam
+na parte inferior, preservando Caixeiro, voz masculina e lip sync.
+
+O vídeo não chama API paga de imagens. Episódios que já incluem uma sequência
+`visual_sequence` preservam suas imagens e também recebem movimento.
+Use `CAIXEIRO_MOTION_IMAGES=0` para restaurar o visual anterior.
+A mudança visual não publica nada por conta própria e não altera
+`conteudo/publicados.json`.

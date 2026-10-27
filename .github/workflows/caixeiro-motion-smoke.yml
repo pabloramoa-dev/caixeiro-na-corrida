@@ -1,0 +1,71 @@
+name: Caixeiro - testar imagens com movimento sem publicar
+on:
+  push:
+    branches: [feat/caixeiro-imagens-animadas-20261027]
+    paths:
+      - 'motor/hyperframes_marcao.py'
+      - 'motor/uber_visual_motion.py'
+      - 'motor/render_version.py'
+      - 'tests/test_uber_visual_motion.py'
+      - 'tests/fixtures/cx-motion-smoke-20261027.json'
+      - '.github/workflows/caixeiro-motion-smoke.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      CAIXEIRO_MOTION_IMAGES: '1'
+      NINA_FOTOS: '0'
+      NINA_MAX_DUR: '120'
+      NINA_HF_WORKERS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            .github/actions/setup-hyperframes
+            assets
+            motor
+            src
+            tests
+            video
+            requirements-estudio.txt
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements-estudio.txt
+      - name: Dependências e testes
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          pip install -r requirements-estudio.txt
+          python -m unittest discover -s tests -p test_uber_visual_motion.py -v
+          python -m compileall -q motor src
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Renderizar piloto isolado
+        run: |
+          python motor/produzir.py tests/fixtures/cx-motion-smoke-20261027.json
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          p=Path('saida/cx-motion-smoke-20261027')
+          meta=json.loads((p/'render.json').read_text())
+          assert meta['animated_support'],meta
+          assert meta['support_source']=='original_local',meta
+          assert meta['illustrations']>=4,meta
+          assert (p/'cx-motion-smoke-20261027.mp4').stat().st_size>100000
+          print('CAIXEIRO PILOTO OK',meta)
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: caixeiro-imagens-animadas-smoke
+          path: |
+            saida/cx-motion-smoke-20261027/cx-motion-smoke-20261027.mp4
+            saida/cx-motion-smoke-20261027/render.json
+          retention-days: 5

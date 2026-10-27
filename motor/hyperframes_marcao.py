@@ -160,6 +160,15 @@ def compor(ep,segs,pasta):
                 f'data-duration="{tempo}" data-track-index="5">'
                 f'<img src="assets/{nome}" alt="Ilustração de apoio"></div>'
             )
+            # Ken Burns por intervalo, sincronizado com a timeline, sem animação artificial da voz.
+            direcao = 1 if j % 2 == 0 else -1
+            anim.append(f'tl.fromTo("#support{j} img",'
+                        f'{{scale:1.025,x:{-12*direcao},y:6}},'
+                        f'{{scale:1.11,x:{12*direcao},y:-6,duration:{tempo},'
+                        f'immediateRender:false,ease:"none"}},{ini});')
+            anim.append(f'tl.fromTo("#support{j}",{{opacity:0}},'
+                        f'{{opacity:1,duration:{min(0.30,tempo/3)},'
+                        f'immediateRender:false}},{ini});')
     confetti=''
     for k in range(22):
         x=80+k*139%920;color=['#ffd24a','#d76577','#fff9ea'][k%3]
@@ -172,14 +181,16 @@ def compor(ep,segs,pasta):
         # Modo ilustrado: a imagem cobre exatamente a caixa superior original.
         # O card (titulo, selo, baloes e arte) fica invisivel; so o rodape
         # de legendas continua sobre o Caixeiro, sem textos por tras da foto.
+        fit = 'contain' if ep.get('_free_story_visuals') else 'cover'
         css = ('<style>.panel{visibility:hidden!important;}'
                '.visual-support{position:absolute;left:74px;top:205px;'
                'width:932px;height:550px;z-index:2;'
-               'border:3px solid #28232b;border-radius:0;'
-               'overflow:hidden;background:#16161b;'
+               'border:4px solid #28232b;border-radius:25px;'
+               'overflow:hidden;background:linear-gradient(135deg,#fff9ed,#e6f0e8);'
                'box-shadow:14px 18px 0 #34233628;}'
                '.visual-support img{display:block;width:100%;height:100%;'
-               'object-fit:cover;object-position:center 20%;}'
+               'object-fit:' + fit + ';object-position:center center;'
+               'transform-origin:center center;}'
                '</style>')
         out = out.replace('</head>', css + '</head>')
     (pasta/'index.html').write_text(out,encoding='utf-8')
@@ -249,8 +260,10 @@ def renderizar(ep,pasta,raiz):
     if len(bases)!=1:raise ValueError('Camada Caixeiro não encontrada')
     sh(['ffmpeg','-y','-v','error','-i',bases[0],'-c:v','libx264','-preset','fast','-crf','18','-g','30','-keyint_min','30','-sc_threshold','0','-pix_fmt','yuv420p','-an','-movflags','+faststart',assets/'base.mp4'])
     import banco_imagens
-    ep=dict(ep);ep['_fotos']=banco_imagens.preparar_episodio(ep,assets,pasta)
-    # Os demais episódios não são afetados: só cx327 solicita sequência visual.
+    ep=dict(ep)
+    imagens_moveis = os.environ.get('CAIXEIRO_MOTION_IMAGES','1').lower() in ('1','true','sim')
+    ep['_fotos'] = {} if imagens_moveis else banco_imagens.preparar_episodio(ep,assets,pasta)
+    # Sequências ilustradas aprovadas por episódio continuam tendo prioridade.
     especificacao = ep.get('visual_sequence') or {}
     if especificacao:
         origem = (raiz / str(especificacao['path'])).resolve()
@@ -271,6 +284,12 @@ def renderizar(ep,pasta,raiz):
             nome = f'illustration-{i:02d}.png'
             desenho.convert('RGB').save(assets / nome, format='PNG')
             ep['_support_frames'].append(nome)
+    if imagens_moveis and not especificacao:
+        from uber_visual_motion import preparar, INTERVALO
+        ep['_support_interval'] = INTERVALO
+        ep['_support_frames'] = preparar(ep,segs,assets,dur)
+        ep['_free_story_visuals'] = True
+        print(f"[Caixeiro] {len(ep['_support_frames'])} ilustrações locais, custo de imagem zero", flush=True)
     native=[]
     for i,b in enumerate(ep['batidas']):
         spec=b.get('arte') or [None];tipo=spec[0]
@@ -297,6 +316,6 @@ def renderizar(ep,pasta,raiz):
     final=pasta/(ep['id']+'.mp4');tmp=pasta/(ep['id']+'.rendering.mp4')
     sh(['node',cli,'render',work,'--output',tmp,'--workers',os.environ.get('NINA_HF_WORKERS','2'),'--no-browser-gpu'],env=env)
     conferir(tmp,dur);tmp.replace(final)
-    info={'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval')}
+    info={'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval'),'animated_support':bool(ep.get('_support_frames')),'support_source':'original_local' if ep.get('_free_story_visuals') else ('approved_sequence' if especificacao else 'none')}
     (pasta/'render.json').write_text(json.dumps(info,ensure_ascii=False,indent=2))
     return final
