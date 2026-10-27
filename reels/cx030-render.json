@@ -1,21 +1,21 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-2-motion-illustrations",
+  "versao": "caixeiro-hyperframes-3-gancho-reenganche",
   "fotos": 0,
-  "duracao": 156.839,
+  "duracao": 161.447,
   "resolucao": [
     1080,
     1920
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "ffmpeg",
+  "audio": "pedalboard",
   "sfx": 94,
   "visual": "v4",
   "lip": "rhubarb",
   "cenario": "noite",
   "batidas": 26,
-  "illustrations": 23,
+  "illustrations": 24,
   "illustration_interval": 7.0,
   "animated_support": true,
   "support_source": "original_local"

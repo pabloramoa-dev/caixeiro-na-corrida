@@ -1,15 +1,15 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-2-motion-illustrations",
+  "versao": "caixeiro-hyperframes-3-gancho-reenganche",
   "fotos": 0,
-  "duracao": 155.437,
+  "duracao": 159.959,
   "resolucao": [
     1080,
     1920
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "pedalboard",
+  "audio": "ffmpeg",
   "sfx": 91,
   "visual": "v4",
   "lip": "rhubarb",
