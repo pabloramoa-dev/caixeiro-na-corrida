@@ -2,7 +2,7 @@
 import json
 import unittest
 from pathlib import Path
-from motor.ganchos_caixeiro import aplicar_ganchos, VERSAO
+from motor.ganchos_caixeiro import aplicar_ganchos, VERSAO, _limpar
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -32,8 +32,8 @@ class GanchosCaixeiroTest(unittest.TestCase):
                 idx = novo["reenganche_indice"]
                 self.assertGreater(idx, 0)
                 self.assertLess(idx, len(ep["batidas"]) - 2)
-                self.assertIn(ep["batidas"][idx]["fala"].lstrip("Aí, MasSó que"),
-                              novo["batidas"][idx]["fala"] + "  ", ep["id"])
+                self.assertTrue(novo["batidas"][idx]["fala"].endswith(
+                                _limpar(ep["batidas"][idx]["fala"])), ep["id"])
 
     def test_nao_mexe_no_piloto(self):
         piloto = next((e for e in self.examples if e.get("preview_only")), None)
