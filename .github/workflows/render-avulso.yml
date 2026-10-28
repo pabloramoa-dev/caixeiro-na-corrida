@@ -1,0 +1,107 @@
+name: Renderizar episodio avulso (sem publicar)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'episodios/cx*.json'
+  workflow_dispatch:
+    inputs:
+      episodio:
+        description: 'ID do episodio, ex. cx328'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: caixeiro-avulso-${{ github.sha }}
+  cancel-in-progress: false
+
+jobs:
+  renderizar:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[render-avulso]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - id: alvo
+        name: Identificar episodio avulso
+        shell: bash
+        env:
+          EP_INPUT: ${{ inputs.episodio }}
+        run: |
+          if [[ -n "$EP_INPUT" ]]; then
+            id="$EP_INPUT"
+          else
+            id=$(git diff-tree --no-commit-id --name-only -r HEAD | grep -E '^episodios/cx[0-9]{3}\.json$' | head -n 1 | sed -E 's@episodios/(.*)\.json@\1@')
+          fi
+          [[ "$id" =~ ^cx[0-9]{3}$ ]] || { echo "::error::ID invalido"; exit 1; }
+          test -f "episodios/$id.json"
+          python - "$id" <<'PY'
+          import json,sys
+          e=json.load(open('episodios/'+sys.argv[1]+'.json',encoding='utf-8'))
+          assert e['id']==sys.argv[1] and e.get('preview_only') is True, 'somente episodios preview_only'
+          PY
+          echo "id=$id" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - name: Dependencias de sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          mkdir -p ~/.fonts
+          for p in Bold Regular; do
+            curl -sSL -o ~/.fonts/Poppins-$p.ttf "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$p.ttf"
+          done
+          fc-cache -f
+      - name: Pacotes Python
+        run: |
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install --no-build-isolation srt || true
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Cache voz de contingencia
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/dvh_kokoro
+          key: ${{ runner.os }}-${{ runner.arch }}-cache-kokoro-caixeiro-v1
+      - name: Renderizar sem publicar
+        env:
+          NINA_HF_WORKERS: '2'
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+        run: python motor/produzir.py "episodios/${{ steps.alvo.outputs.id }}.json" --publicar-em saida_reels
+      - name: Validar MP4 e audio
+        shell: bash
+        run: |
+          id="${{ steps.alvo.outputs.id }}"
+          test -s "saida_reels/$id.mp4"
+          ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=p=0 "saida_reels/$id.mp4" | grep -qx '1080,1920'
+          ffprobe -v error -select_streams a:0 -show_entries stream=codec_name -of csv=p=0 "saida_reels/$id.mp4" | grep -q .
+          ffprobe -v error -show_entries format=duration -of csv=p=0 "saida_reels/$id.mp4"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-${{ steps.alvo.outputs.id }}-mp4
+          path: |
+            saida_reels/${{ steps.alvo.outputs.id }}.mp4
+            saida_reels/${{ steps.alvo.outputs.id }}-capa.jpg
+            saida_reels/${{ steps.alvo.outputs.id }}-render.json
+          retention-days: 7
+      - name: Guardar MP4 no repositorio (nao publicar)
+        run: |
+          id="${{ steps.alvo.outputs.id }}"
+          mkdir -p reels
+          cp "saida_reels/$id.mp4" "reels/$id.mp4"
+          test -f "saida_reels/$id-capa.jpg" && cp "saida_reels/$id-capa.jpg" "reels/$id-capa.jpg" || true
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add "reels/$id.mp4" "reels/$id-capa.jpg"
+          git diff --cached --quiet && exit 0
+          git commit -m "avulso: MP4 $id [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 7; done
+          exit 1
