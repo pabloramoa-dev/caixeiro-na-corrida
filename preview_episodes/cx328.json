@@ -1,0 +1,270 @@
+{
+  "id": "cx328",
+  "ep": 328,
+  "avulso": true,
+  "preview_only": true,
+  "titulo": "O CINEMA QUE ABRIU POR UMA NOITE",
+  "categoria": "amizade",
+  "cenario": "noite",
+  "legenda_post": "🎬 Ele entrou no meu carro com uma lata de filme vazia. O destino era um cinema fechado havia 16 anos. E o que aconteceu lá fez uma plateia inteira se levantar! 🥹🍿\n\nQual lugar da sua infância você gostaria de visitar mais uma vez? 💛 Conte nos comentários e envie para alguém que guarda boas lembranças.\n\nHistória de ficção. 🚗 Cada corrida, uma história.\n\n#historiasemocionantes #cinema #amizade #memorias #gratidao #motoristadeaplicativo #uber #caixeironacorrida",
+  "legenda_tiktok": "🎬 Uma lata de filme VAZIA. Um cinema fechado há 16 anos. E uma surpresa que ninguém esperava! 🥹🍿\n\nQual lugar marcou sua infância? 👇\nHistória de ficção.\n#historias #cinema #emocionante #memorias #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, que hoje um passageiro entrou com uma lata de filme vazia. E aquela lata acabou fazendo um cinema inteiro aplaudir.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "inteiro",
+        "aplaudir."
+      ]
+    },
+    {
+      "fala": "Quarta-feira, sete e quarenta da noite. Chovia fino. Seu Álvaro, setenta e oito anos, entrou no carro abraçado numa lata de metal.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "QUARTA · 19H40"
+      ],
+      "destaque": [
+        "de",
+        "metal."
+      ]
+    },
+    {
+      "fala": "Pediu para ir ao Cine Aurora. Eu conhecia o lugar: portas fechadas havia dezesseis anos, fachada descascando, cartazes antigos.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa",
+        "CINE AURORA"
+      ],
+      "destaque": [
+        "cartazes",
+        "antigos."
+      ]
+    },
+    {
+      "fala": "Perguntei se ia ter obra por lá. Ele disse: não sei, meu filho. Me pediram para levar isto. E mostrou a lata.",
+      "expr": "neutra",
+      "arte": [
+        "conversa",
+        "ME PEDIRAM PARA LEVAR ISTO"
+      ],
+      "destaque": [
+        "a",
+        "lata."
+      ]
+    },
+    {
+      "fala": "Era daquelas latas redondas de cinema, com a etiqueta escrita à mão. Abri o olho: será que tinha um filme raro ali?",
+      "expr": "desconfiada",
+      "arte": null,
+      "destaque": [
+        "raro",
+        "ali?"
+      ]
+    },
+    {
+      "fala": "Ele percebeu e riu. Falou: pode olhar. Está vazia. Faz dezesseis anos que não tem filme nenhum aí dentro.",
+      "expr": "rindo",
+      "arte": [
+        "imagem",
+        "LATA DE FILME VAZIA"
+      ],
+      "destaque": [
+        "aí",
+        "dentro."
+      ]
+    },
+    {
+      "fala": "Seu Álvaro tinha sido o projecionista do Aurora por quarenta e três anos. Conhecia cada cadeira que rangia e cada criança que chegava atrasada.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "chegava",
+        "atrasada."
+      ]
+    },
+    {
+      "fala": "Contou que deixava os meninos sem dinheiro assistir da última fileira, desde que ajudassem a recolher os copos depois.",
+      "expr": "neutra",
+      "arte": [
+        "carimbo",
+        "ÚLTIMA FILEIRA"
+      ],
+      "destaque": [
+        "copos",
+        "depois."
+      ]
+    },
+    {
+      "fala": "Um deles era Davi. Aparecia toda sexta, fazia perguntas sobre as luzes e esperava os créditos terminarem até a última letra.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "última",
+        "letra."
+      ]
+    },
+    {
+      "fala": "O menino dizia: um dia vou fazer um filme. Seu Álvaro respondia: então me chama para a estreia, combinado?",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "ME CHAMA PARA A ESTREIA"
+      ],
+      "destaque": [
+        "estreia,",
+        "combinado?"
+      ]
+    },
+    {
+      "fala": "O tempo passou. O cinema fechou. Seu Álvaro levou aquela lata vazia para casa, como lembrança da última sessão.",
+      "expr": "triste",
+      "arte": [
+        "imagem",
+        "A ÚLTIMA SESSÃO"
+      ],
+      "destaque": [
+        "última",
+        "sessão."
+      ]
+    },
+    {
+      "fala": "Naquela tarde, um número desconhecido ligou: seu Álvaro, apareça no Aurora às oito. E traga a lata. Não explicou mais nada.",
+      "expr": "desconfiada",
+      "arte": [
+        "notificacao",
+        "APAREÇA ÀS OITO"
+      ],
+      "destaque": [
+        "mais",
+        "nada."
+      ]
+    },
+    {
+      "fala": "Quando chegamos, o letreiro estava apagado. Ele apertou a lata contra o peito e falou baixinho: acho que me fizeram uma brincadeira.",
+      "expr": "triste",
+      "arte": null,
+      "destaque": [
+        "uma",
+        "brincadeira."
+      ]
+    },
+    {
+      "fala": "Eu disse: espera. Já estamos aqui. Vamos pelo menos bater na porta. Desci com ele, protegendo a lata da chuva.",
+      "expr": "neutra",
+      "arte": [
+        "porta",
+        "CINE AURORA"
+      ],
+      "destaque": [
+        "da",
+        "chuva."
+      ]
+    },
+    {
+      "fala": "A porta abriu. Acenderam-se as luzes. Tinha um tapete vermelho improvisado e umas sessenta pessoas de pé, esperando por ele.",
+      "expr": "chocada",
+      "arte": [
+        "manchete",
+        "SURPRESA NO CINEMA"
+      ],
+      "destaque": [
+        "por",
+        "ele."
+      ]
+    },
+    {
+      "fala": "Na primeira fila, um homem de barba levantou uma claquete. Era Davi, aquele menino que ficava até o fim dos créditos.",
+      "expr": "chocada",
+      "arte": [
+        "carimbo",
+        "DAVI VOLTOU"
+      ],
+      "destaque": [
+        "dos",
+        "créditos."
+      ]
+    },
+    {
+      "fala": "Davi tinha virado diretor. Reuniu vídeos antigos dos moradores, festas de escola, aniversários e até imagens do seu Álvaro na cabine.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "na",
+        "cabine."
+      ]
+    },
+    {
+      "fala": "Montou um documentário sobre o bairro. E decidiu que a primeira sessão tinha que ser no cinema onde aprendeu a sonhar.",
+      "expr": "neutra",
+      "arte": [
+        "imagem",
+        "A PRIMEIRA SESSÃO"
+      ],
+      "destaque": [
+        "a",
+        "sonhar."
+      ]
+    },
+    {
+      "fala": "Seu Álvaro apontou para a lata e disse: mas aqui dentro não tem nada. Davi respondeu: eu sei. Era só para o senhor voltar.",
+      "expr": "triste",
+      "arte": [
+        "conversa",
+        "ERA SÓ PARA O SENHOR VOLTAR"
+      ],
+      "destaque": [
+        "senhor",
+        "voltar."
+      ]
+    },
+    {
+      "fala": "A tela acendeu. Apareceu o projecionista jovem, girando a manivela. Seu Álvaro cobriu a boca. A plateia começou a aplaudir.",
+      "expr": "chocada",
+      "arte": [
+        "coracao",
+        "O CINEMA VOLTOU"
+      ],
+      "destaque": [
+        "a",
+        "aplaudir."
+      ]
+    },
+    {
+      "fala": "E eu, que só tinha ido deixar um passageiro, fiquei na porta assistindo. Até recebi pipoca. Corrida com sessão grátis, rapaz!",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "grátis,",
+        "rapaz!"
+      ]
+    },
+    {
+      "fala": "Na saída, seu Álvaro me entregou um ingresso antigo e disse: guarda. Para lembrar que às vezes a gente precisa voltar para seguir em frente.",
+      "expr": "neutra",
+      "arte": [
+        "imagem",
+        "UM INGRESSO ANTIGO"
+      ],
+      "destaque": [
+        "em",
+        "frente."
+      ]
+    },
+    {
+      "fala": "Tem lugar que fecha as portas, mas continua aberto dentro das pessoas. Cinco estrelas para essa história. E para quem nunca esquece de agradecer.",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "CINCO ESTRELAS"
+      ],
+      "destaque": [
+        "de",
+        "agradecer."
+      ]
+    }
+  ]
+}
