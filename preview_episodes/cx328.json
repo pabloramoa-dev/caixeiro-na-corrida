@@ -69,7 +69,7 @@
       "fala": "Ele percebeu e riu. Falou: pode olhar. Está vazia. Faz dezesseis anos que não tem filme nenhum aí dentro.",
       "expr": "rindo",
       "arte": [
-        "imagem",
+        "carimbo",
         "LATA DE FILME VAZIA"
       ],
       "destaque": [
@@ -123,7 +123,7 @@
       "fala": "O tempo passou. O cinema fechou. Seu Álvaro levou aquela lata vazia para casa, como lembrança da última sessão.",
       "expr": "triste",
       "arte": [
-        "imagem",
+        "carimbo",
         "A ÚLTIMA SESSÃO"
       ],
       "destaque": [
@@ -201,7 +201,7 @@
       "fala": "Montou um documentário sobre o bairro. E decidiu que a primeira sessão tinha que ser no cinema onde aprendeu a sonhar.",
       "expr": "neutra",
       "arte": [
-        "imagem",
+        "carimbo",
         "A PRIMEIRA SESSÃO"
       ],
       "destaque": [
@@ -246,7 +246,7 @@
       "fala": "Na saída, seu Álvaro me entregou um ingresso antigo e disse: guarda. Para lembrar que às vezes a gente precisa voltar para seguir em frente.",
       "expr": "neutra",
       "arte": [
-        "imagem",
+        "carimbo",
         "UM INGRESSO ANTIGO"
       ],
       "destaque": [
