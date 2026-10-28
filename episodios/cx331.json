@@ -1,0 +1,278 @@
+{
+  "id": "cx331",
+  "ep": 331,
+  "avulso": true,
+  "preview_only": true,
+  "titulo": "O HOMEM QUE FUGIU DA PRÓPRIA FESTA SURPRESA",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "🎉 Ele entrou no meu carro e pediu para eu fingir que nunca o tinha visto! Seu Nestor estava fugindo da própria festa surpresa… mas o que encontrou no destino não tinha bolo nem parabéns. 📚❤️ Você conhece alguém que merece uma homenagem assim? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Biblioteca #Gratidao #HistoriasQueInspiram",
+  "legenda_tiktok": "😳 Meu passageiro tentou FUGIR da própria festa surpresa. Só que o plano secreto da família não era o que ele imaginava! 📚❤️ Manda para quem merece um obrigado. História fictícia. #HistoriasDeUber #MotoristaDeAplicativo #Surpresa #Humor #Gratidao #PraVoce #CaixeiroNaCorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje um passageiro entrou no meu carro e pediu: se alguém perguntar, você nunca me viu. Eu pensei em confusão. Mas ele só queria fugir da própria festa surpresa.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "festa",
+        "surpresa."
+      ]
+    },
+    {
+      "fala": "Era seu Nestor, sessenta e dois anos, de óculos escuros e uma sacola de pão. Sentou atrás, olhou pelo vidro e mandou seguir sem ligar o rádio.",
+      "expr": "desconfiada",
+      "arte": [
+        "relogio",
+        "QUARTA · 16H10"
+      ],
+      "destaque": [
+        "o",
+        "rádio."
+      ]
+    },
+    {
+      "fala": "Eu perguntei o destino. Ele respondeu: qualquer lugar que não seja o centro comunitário. E mostrou o celular com um grupo chamado OPERAÇÃO NESTOR.",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "OPERAÇÃO NESTOR"
+      ],
+      "destaque": [
+        "OPERAÇÃO",
+        "NESTOR."
+      ]
+    },
+    {
+      "fala": "Na tela tinha uma mensagem: não deixem ele chegar antes das cinco. Outra dizia: a surpresa está quase pronta. Nestor suspirou como quem descobriu um segredo.",
+      "expr": "desconfiada",
+      "arte": [
+        "notificacao",
+        "NÃO CHEGAR ANTES DAS CINCO"
+      ],
+      "destaque": [
+        "um",
+        "segredo."
+      ]
+    },
+    {
+      "fala": "Ele falou que não aguentava mais homenagem, bolo e discurso. Na aposentadoria, fizeram ele cantar no microfone. A gravação ainda circulava nos grupos da família.",
+      "expr": "rindo",
+      "arte": [
+        "carimbo",
+        "CHEGA DE DISCURSO"
+      ],
+      "destaque": [
+        "da",
+        "família."
+      ]
+    },
+    {
+      "fala": "Eu disse: seu Nestor, a gente pode dar uma volta, mas a corrida fica mais cara. Ele respondeu: pago até pedágio para escapar de um parabéns desafinado.",
+      "expr": "rindo",
+      "arte": null,
+      "destaque": [
+        "parabéns",
+        "desafinado."
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, ele me contou que trabalhou décadas na escola do bairro. Não era professor. Cuidava do almoxarifado, dos móveis e de uma montanha de livros usados.",
+      "expr": "neutra",
+      "arte": [
+        "manchete",
+        "TRINTA ANOS NA ESCOLA"
+      ],
+      "destaque": [
+        "livros",
+        "usados."
+      ]
+    },
+    {
+      "fala": "Quando um livro rasgava, Nestor levava para casa e colava página por página. Dizia que uma história não merecia acabar só porque a capa tinha soltado.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "NENHUMA HISTÓRIA PERDIDA"
+      ],
+      "destaque": [
+        "tinha",
+        "soltado."
+      ]
+    },
+    {
+      "fala": "Aí ele pediu uma parada na padaria. Voltou com dois pães de queijo e um suco para mim. Falou: fugir de festa com fome não é inteligente.",
+      "expr": "rindo",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "é",
+        "inteligente."
+      ]
+    },
+    {
+      "fala": "Passamos perto do centro comunitário. Nestor reconheceu o carro da filha e a bicicleta da antiga diretora da escola. Se abaixou no banco como se fosse um espião.",
+      "expr": "chocada",
+      "arte": [
+        "carimbo",
+        "ELE SE ESCONDEU"
+      ],
+      "destaque": [
+        "um",
+        "espião."
+      ]
+    },
+    {
+      "fala": "O celular vibrou. Mensagem da filha: pai, não foge. Só confia em mim. Nestor me olhou sério e perguntou se eu já tinha participado de uma festa com três discursos.",
+      "expr": "desconfiada",
+      "arte": [
+        "notificacao",
+        "PAI, CONFIA EM MIM"
+      ],
+      "destaque": [
+        "três",
+        "discursos."
+      ]
+    },
+    {
+      "fala": "Foi quando aconteceu uma coisa que mudou o rumo daquela corrida. Um menino na calçada apontou para o carro e gritou: mãe, olha o homem que salvou meu livro!",
+      "expr": "chocada",
+      "arte": [
+        "manchete",
+        "O MENINO RECONHECEU"
+      ],
+      "destaque": [
+        "meu",
+        "livro!"
+      ]
+    },
+    {
+      "fala": "Nestor pediu para parar. O garoto mostrou um livro de aventuras com a lombada remendada. Disse que a mãe lia aquela história para ele e agora ele lia para a irmã.",
+      "expr": "neutra",
+      "arte": null,
+      "destaque": [
+        "a",
+        "irmã."
+      ]
+    },
+    {
+      "fala": "Seu Nestor ficou sem graça. Contou que consertava livros de graça porque muita família não podia comprar outro. Guardava até as capas que sobravam para aproveitar depois.",
+      "expr": "triste",
+      "arte": [
+        "coracao",
+        "LIVROS CONSERTADOS"
+      ],
+      "destaque": [
+        "aproveitar",
+        "depois."
+      ]
+    },
+    {
+      "fala": "Quando o menino foi embora, o celular tocou de novo. Era uma vizinha perguntando se ainda podia levar dez livros. Nestor estranhou: levar para onde, se eu nem estou em casa?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "DEZ LIVROS PARA ONDE?"
+      ],
+      "destaque": [
+        "em",
+        "casa?"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se ele tinha certeza de que estavam preparando um aniversário. Ele ficou quieto. Depois falou: se não for bolo, então por que precisam tanto que eu me atrase?",
+      "expr": "desconfiada",
+      "arte": null,
+      "destaque": [
+        "me",
+        "atrase?"
+      ]
+    },
+    {
+      "fala": "Às cinco em ponto, ele respirou fundo e pediu para voltar ao centro comunitário. Eu estacionei. Na porta havia uma faixa coberta por um pano azul e várias crianças esperando.",
+      "expr": "neutra",
+      "arte": [
+        "porta",
+        "CENTRO COMUNITÁRIO"
+      ],
+      "destaque": [
+        "crianças",
+        "esperando."
+      ]
+    },
+    {
+      "fala": "A filha puxou o pano. Não dizia FELIZ ANIVERSÁRIO. Dizia BIBLIOTECA LIVRE DO SEU NESTOR. Ele tirou os óculos, leu de novo e ficou sem palavras.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "BIBLIOTECA LIVRE DO SEU NESTOR"
+      ],
+      "destaque": [
+        "sem",
+        "palavras."
+      ]
+    },
+    {
+      "fala": "Lá dentro havia estantes feitas com madeira reaproveitada, centenas de livros doados e uma mesa de consertos. Os antigos alunos tinham organizado tudo em segredo.",
+      "expr": "chocada",
+      "arte": [
+        "coracao",
+        "UMA BIBLIOTECA INTEIRA"
+      ],
+      "destaque": [
+        "em",
+        "segredo."
+      ]
+    },
+    {
+      "fala": "A filha explicou: pai, a operação era para você não chegar antes de montarmos as prateleiras. A gente não queria te dar uma festa. Queria continuar o que você começou.",
+      "expr": "triste",
+      "arte": [
+        "conversa",
+        "CONTINUAR O QUE VOCÊ COMEÇOU"
+      ],
+      "destaque": [
+        "você",
+        "começou."
+      ]
+    },
+    {
+      "fala": "Nestor perguntou baixinho se ia ter discurso. A filha respondeu: microfone só para leitura de histórias. Ele riu tão alto que até a diretora começou a rir junto.",
+      "expr": "rindo",
+      "arte": [
+        "carimbo",
+        "SEM DISCURSO!"
+      ],
+      "destaque": [
+        "rir",
+        "junto."
+      ]
+    },
+    {
+      "fala": "Uma criança entregou a ele um cartão: obrigado por não deixar nossas histórias acabarem. Seu Nestor sentou no tapete, abriu um livro remendado e leu a primeira página.",
+      "expr": "triste",
+      "arte": [
+        "coracao",
+        "OBRIGADO, SEU NESTOR"
+      ],
+      "destaque": [
+        "primeira",
+        "página."
+      ]
+    },
+    {
+      "fala": "Eu fui embora com um pão de queijo e um livro emprestado. Naquele dia aprendi que a melhor surpresa nem sempre tem bolo. Manda essa história para quem merece um obrigado. Segue o Caixeiro. Cinco estrelas!",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "CADA CORRIDA, UMA HISTÓRIA"
+      ],
+      "destaque": [
+        "Cinco",
+        "estrelas!"
+      ]
+    }
+  ]
+}
