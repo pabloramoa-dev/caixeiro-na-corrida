@@ -315,3 +315,5 @@ tipo de passageiro + situação, nem a mesma virada em episódios seguidos.
 - 324 · O Farol Da Estrada · curiosa
 - 325 · A Passageira das Caretas · humor · avó de 68 anos indo ao centro cultural · oficina de caretas para pais e filhos montada pela neta
 - 326 · A Feira de Ciências na Farmácia · familia · pai e filha astronauta, mãe caixa de farmácia · filha leva a feira de ciências até a mãe que trabalha
+- 327 · A Mentira da Lasanha · humor · rapaz levando lasanha de restaurante à sogra · sogra conhece a dona do restaurante
+- 328 · O Dominó de Trinta e Dois Anos · amizade · idoso com peça de dominó guardada há 32 anos · rival conservou o placar para retomar a partida
