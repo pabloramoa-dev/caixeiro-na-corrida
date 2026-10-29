@@ -87,3 +87,23 @@ O módulo é idempotente: aplica uma versão única no compilador dos lotes e
 também no renderizador, para os JSONs antigos ainda na fila. A versão de render
 mudou para reavaliar somente os episódios pendentes. Consulte
 `python motor/ganchos_caixeiro.py` para uma auditoria local sem renderizar.
+
+## Cenas cinematograficas 2D — producao (29/10/2026)
+
+Aprovado no piloto **O radio que tocou antes da surpresa**. Agora os episodios
+novos usam, por padrao, `motor/cinematic_story_art.py` para criar, em CPU/Pillow,
+ilustracoes cinematograficas originais com personagens, cenarios em profundidade,
+objetos tematicos (radio, presente, celular, bilhete, mala, carro etc.) e textura.
+As imagens acompanham a fala e recebem movimentos suaves de camera no HyperFrames,
+sem mudar Caixeiro, voz, lip sync, legendas inferiores, ganchos nem publicacao.
+
+- Estilo default: `CAIXEIRO_STORY_STYLE=cinematic_2d` (nenhuma chave ou GPU necessaria).
+- Retrocesso imediato: `CAIXEIRO_STORY_STYLE=classic`.
+- Ainda e possivel usar `CAIXEIRO_MOTION_IMAGES=0` para tirar imagens em movimento.
+- Um roteiro pode optar por `"visual_style": "classic"`.
+- Sequencias explicitamente aprovadas (`visual_sequence`) continuam prioritarias.
+- A assinatura de render muda somente para os videos pendentes; ja publicados
+  nao sao republicados. Nenhuma conta de rede social e acionada por esta mudanca.
+
+O visual das ilustracoes e de **animacao de camera sobre quadros 2D**:
+nao deve ser confundido com animacao de membros independente por personagem.
