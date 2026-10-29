@@ -1,0 +1,33 @@
+name: "Caixeiro - teste visual cinematografico"
+on:
+  push:
+    branches: [feat/caixeiro-cinema-producao-20261029, main]
+    paths:
+      - "motor/cinematic_story_art.py"
+      - "motor/uber_visual_motion.py"
+      - "motor/render_version.py"
+      - "tests/test_uber_visual_motion.py"
+      - ".github/workflows/caixeiro-cinema-ci.yml"
+  pull_request:
+    paths:
+      - "motor/cinematic_story_art.py"
+      - "motor/uber_visual_motion.py"
+      - "motor/render_version.py"
+      - "tests/test_uber_visual_motion.py"
+permissions:
+  contents: read
+jobs:
+  visual-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install Pillow
+        run: python -m pip install Pillow
+      - name: Verificar Python e gerar imagens reais
+        run: |
+          python -m compileall -q motor/cinematic_story_art.py motor/uber_visual_motion.py motor/render_version.py
+          python -m unittest discover -s tests -p "test_uber_visual_motion.py" -v
