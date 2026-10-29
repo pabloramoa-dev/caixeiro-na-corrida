@@ -29,6 +29,9 @@ def preparar(ep, segs, assets, dur, intervalo=INTERVALO, gerador=None):
     assets.mkdir(parents=True, exist_ok=True)
     nomes = []
     desenhista = gerador or desenhar
+    if gerador is None and ep.get('pilot_visual_style') == 'cinematic_2d':
+        from cinematic_story_art import render as desenhar_cinema
+        desenhista = desenhar_cinema
     for cena in planejar(ep, segs, dur, intervalo):
         name = f"caixeiro-cena-{cena['scene']:02d}.png"
         data = desenhista(cena, ep)
