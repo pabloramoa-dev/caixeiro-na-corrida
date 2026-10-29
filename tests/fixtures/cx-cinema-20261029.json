@@ -1,0 +1,64 @@
+{
+  "id": "cx-cinema-20261029",
+  "ep": 999,
+  "avulso": true,
+  "preview_only": true,
+  "pilot_visual_style": "cinematic_2d",
+  "titulo": "O RÁDIO QUE TOCOU ANTES DA SURPRESA",
+  "categoria": "emocao",
+  "cenario": "noite",
+  "legenda_post": "📻 Uma caixa começou a tocar música no meio da corrida. Eu não imaginava quem estava esperando aquela melodia no destino. ❤️\n\nQual lembrança da sua família você guardaria para sempre?\n\nHistória de ficção. 🚗 Cada corrida, uma história.\n\n#CaixeiroNaCorrida #HistoriasEmocionantes #MotoristaDeAplicativo #Familia",
+  "legenda_tiktok": "📻 O rádio tocou ANTES de chegar ao destino... e a reação foi emocionante. ❤️\nHistória de ficção.\n#historias #motorista #emocionante #familia #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no meu carro uma moça com uma caixa fechada. Na primeira curva, a caixa começou a tocar música sozinha.",
+      "expr": "chocada",
+      "arte": [
+        "presente"
+      ]
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor e perguntei se tinha alguém cantando lá dentro. Ela riu nervosa e pediu para eu ir mais devagar.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ]
+    },
+    {
+      "fala": "Era um rádio antigo da mãe dela. Fazia mais de vinte anos que ninguém conseguia ligá-lo. A filha passou a semana consertando escondido.",
+      "expr": "neutra",
+      "arte": [
+        "presente"
+      ]
+    },
+    {
+      "fala": "Naquele dia era aniversário da mãe. Só que a surpresa tinha começado a tocar antes de chegarmos. E ela ficou com medo de estragar tudo.",
+      "expr": "desconfiada",
+      "arte": [
+        "relogio"
+      ]
+    },
+    {
+      "fala": "Quando parei na frente da casa, uma senhora já estava na janela. Ela reconheceu a melodia, abriu a porta e veio correndo até o carro.",
+      "expr": "chocada",
+      "arte": [
+        "porta"
+      ]
+    },
+    {
+      "fala": "A filha abriu a caixa e mostrou o rádio aceso. A mãe segurou o presente e falou baixinho: pensei que nunca mais ia ouvir essa música.",
+      "expr": "triste",
+      "arte": [
+        "coracao"
+      ]
+    },
+    {
+      "fala": "Fui embora olhando pelo retrovisor. As duas estavam abraçadas na calçada. E eu descobri que às vezes a melhor corrida é a que devolve uma lembrança.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ]
+    }
+  ],
+  "fim": "QUAL LEMBRANÇA VOCÊ GUARDARIA?"
+}
