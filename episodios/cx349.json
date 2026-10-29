@@ -1,0 +1,202 @@
+{
+  "id": "cx349",
+  "ep": 349,
+  "avulso": true,
+  "titulo": "O SUSTO DO BONECO NO BANCO",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "🚗 O SUSTO DO BONECO NO BANCO. Uma passageira entrou carregando um boneco de papelão em tamanho natural, e a sombra no vidro me fez achar que havia outra pessoa.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 O SUSTO DO BONECO NO BANCO. Uma passageira entrou carregando um boneco de papelão em tamanho natural, e a sombra no vidro me fez achar que havia outra pessoa. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma passageira entrou carregando um boneco de papelão em tamanho natural, e a sombra no vidro me fez achar que havia outra pessoa.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Era quinta, oito da noite. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma atriz chamada Renata, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quinta,",
+        "noite."
+      ]
+    },
+    {
+      "fala": "Renata trabalhava num teatro de bairro e precisava levar o boneco para uma peça sobre mistérios de família.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Renata",
+        "trabalhava"
+      ]
+    },
+    {
+      "fala": "No primeiro cruzamento, o boneco tombou no banco e o movimento refletiu no retrovisor. Eu perguntei quem estava mexendo atrás de mim.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "primeiro",
+        "cruzamento,"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Renata caiu na risada, pediu desculpas e prendeu o cenário de forma segura para não atrapalhar a viagem.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Renata",
+        "risada,"
+      ]
+    },
+    {
+      "fala": "Ela explicou que o personagem era um tio que nunca aparecia nos encontros, mas sempre era citado nas conversas.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "explicou",
+        "personagem"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Perguntei se aquilo não era história da própria família dela. Renata disse que os parentes brigaram para decidir de quem vinha a inspiração.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "aquilo"
+      ]
+    },
+    {
+      "fala": "Quando chegamos ao teatro, o diretor recebeu o boneco e apresentou um segundo recorte, desta vez de uma tia com óculos enormes.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Renata me convidou para assistir à apresentação, garantindo que ninguém precisaria dirigir com boneco nenhum na volta.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Renata",
+        "convidou"
+      ]
+    },
+    {
+      "fala": "Na plateia, percebi que os dois personagens de papel eram os únicos que não discutiam durante a peça.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "plateia,",
+        "percebi"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "De todas as viagens, foi a primeira em que um passageiro de papel me deu um susto e, no fim, ainda ganhou aplauso.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "viagens,",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 44,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

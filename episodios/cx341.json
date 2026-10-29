@@ -1,0 +1,202 @@
+{
+  "id": "cx341",
+  "ep": 341,
+  "avulso": true,
+  "titulo": "O CORTE QUE VIROU FANTASIA",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "🚗 O CORTE QUE VIROU FANTASIA. Um rapaz entrou com uma sacola de perucas e pediu corrida para um salão, dizendo que seu corte de cabelo tinha virado uma atração.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 O CORTE QUE VIROU FANTASIA. Um rapaz entrou com uma sacola de perucas e pediu corrida para um salão, dizendo que seu corte de cabelo tinha virado uma atração. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um rapaz entrou com uma sacola de perucas e pediu corrida para um salão, dizendo que seu corte de cabelo tinha virado uma atração.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Era quarta, duas da tarde. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi um figurinista chamado Ramon, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quarta,",
+        "tarde."
+      ]
+    },
+    {
+      "fala": "Ramon preparava figurinos para uma peça da escola e tentou experimentar um visual diferente na véspera da apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "preparava",
+        "figurinos"
+      ]
+    },
+    {
+      "fala": "Não gostou do resultado e passou a noite pensando que os outros iam rir dele, embora ninguém tivesse visto ainda.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "gostou",
+        "resultado"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Eu disse que um corte de cabelo não define uma pessoa, mas ele insistiu que a estreia seria impossível daquele jeito.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "cabelo",
+        "define"
+      ]
+    },
+    {
+      "fala": "No carro, mostrou fotos do elenco: cada personagem tinha um chapéu exagerado, uma capa ou uma peruca feita à mão.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "carro,",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Ramon percebeu que podia usar um dos acessórios no palco e escolher tranquilamente o que faria com o cabelo depois.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "percebeu",
+        "acessórios"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a cabeleireira ouviu a história e propôs apenas arrumar o penteado de um jeito confortável para ele.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Na noite da peça, Ramon apareceu usando um chapéu de papel que tinha produzido para o figurino do narrador.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "apareceu",
+        "usando"
+      ]
+    },
+    {
+      "fala": "A turma aplaudiu o personagem, não o cabelo. Ramon me mandou uma foto do cenário, cheio de cores e cartazes.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "aplaudiu",
+        "personagem,"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Foi uma corrida sobre a importância de não transformar um erro pequeno na única coisa que a gente enxerga em si mesmo.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "corrida",
+        "importância"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 20,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

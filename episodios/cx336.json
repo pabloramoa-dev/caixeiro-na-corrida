@@ -1,0 +1,202 @@
+{
+  "id": "cx336",
+  "ep": 336,
+  "avulso": true,
+  "titulo": "O RESTAURANTE SEM CONTA",
+  "categoria": "solidariedade",
+  "cenario": "noite",
+  "legenda_post": "🚗 O RESTAURANTE SEM CONTA. Um homem entrou carregando uma sacola de talheres e disse que ia trabalhar num restaurante onde alguns clientes nunca recebiam conta.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 O RESTAURANTE SEM CONTA. Um homem entrou carregando uma sacola de talheres e disse que ia trabalhar num restaurante onde alguns clientes nunca recebiam conta. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um homem entrou carregando uma sacola de talheres e disse que ia trabalhar num restaurante onde alguns clientes nunca recebiam conta.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Era quarta, duas da tarde. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi um cozinheiro chamado Péricles, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quarta,",
+        "tarde."
+      ]
+    },
+    {
+      "fala": "Péricles tinha sido demitido de um restaurante grande e agora ajudava uma cozinha comunitária que fazia refeições por contribuição voluntária.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Péricles",
+        "demitido"
+      ]
+    },
+    {
+      "fala": "Ele mostrou um caderno com três colunas: quem doou ingredientes, quem cozinhou e quem precisava de uma refeição naquele dia.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "mostrou",
+        "caderno"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Perguntei como a casa se mantinha aberta. Ele respondeu que ninguém ali era obrigado a explicar por que estava com pouco dinheiro.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Perguntei",
+        "mantinha"
+      ]
+    },
+    {
+      "fala": "Ao chegar, havia uma fila pequena e uma menina desenhando um sol na vitrine, enquanto a mãe ajudava a organizar as mesas.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "chegar,",
+        "pequena"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Péricles encontrou um envelope anônimo de um antigo cliente e percebeu que a doação cobria os ingredientes daquela semana.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Péricles",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "Em vez de anunciar um benfeitor, ele escreveu no quadro: hoje a cozinha é de quem estiver com fome e vontade de conversar.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "anunciar",
+        "benfeitor,"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Um senhor que comera ali meses antes voltou com uma caixa de tomates do próprio quintal, para retribuir o acolhimento.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "senhor",
+        "comera"
+      ]
+    },
+    {
+      "fala": "Antes de descer, Péricles me entregou um cartão e disse que, se um dia eu tivesse um passageiro sem almoço, poderia indicar o endereço.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "descer,",
+        "Péricles"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Não era comida grátis de filme. Era organização, trabalho e gente tratando gente como gente, sem transformar dificuldade em espetáculo.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "comida",
+        "grátis"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 6,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

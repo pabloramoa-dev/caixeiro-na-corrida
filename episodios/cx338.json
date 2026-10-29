@@ -1,0 +1,202 @@
+{
+  "id": "cx338",
+  "ep": 338,
+  "avulso": true,
+  "titulo": "A COZINHEIRA DA CAIXA VAZIA",
+  "categoria": "trabalho",
+  "cenario": "noite",
+  "legenda_post": "🚗 A COZINHEIRA DA CAIXA VAZIA. Uma cozinheira entrou no carro com uma caixa de entrega vazia e anunciou que aquele era o lançamento mais importante da carreira.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A COZINHEIRA DA CAIXA VAZIA. Uma cozinheira entrou no carro com uma caixa de entrega vazia e anunciou que aquele era o lançamento mais importante da carreira. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma cozinheira entrou no carro com uma caixa de entrega vazia e anunciou que aquele era o lançamento mais importante da carreira.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "cozinheira"
+      ]
+    },
+    {
+      "fala": "Era sábado, nove da manhã. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma criadora de receitas chamada Lúcia, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "manhã."
+      ]
+    },
+    {
+      "fala": "Lúcia tinha deixado o emprego depois de economizar por anos para abrir um pequeno serviço de comida caseira.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "deixado",
+        "emprego"
+      ]
+    },
+    {
+      "fala": "Na primeira semana quase ninguém pediu. Ela estava indo devolver o forno emprestado por uma vizinha que não podia mais esperar.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "primeira",
+        "semana"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Eu perguntei por que a caixa estava tão bem decorada se não tinha nenhum pedido. Ela mostrou o desenho feito pelo filho.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "perguntei",
+        "estava"
+      ]
+    },
+    {
+      "fala": "O menino desenhou uma fila de pessoas felizes e escreveu: a comida da mamãe faz a casa cheirar a domingo.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "menino",
+        "desenhou"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Na esquina, Lúcia recebeu uma ligação de uma professora que queria saber se ela poderia preparar almoços para uma reunião de bairro.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "esquina,",
+        "recebeu"
+      ]
+    },
+    {
+      "fala": "Não era um pedido enorme. Eram dez marmitas, com entrega marcada e pagamento combinado por escrito.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "pedido",
+        "enorme."
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Ela sorriu, mas disse que primeiro precisava refazer as contas e verificar se conseguiria atender sem trabalhar no prejuízo.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "sorriu,",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Deixei Lúcia na casa da vizinha. Em vez de devolver o forno, ela negociou mais uma semana de empréstimo.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "Deixei",
+        "vizinha."
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Não virou famosa naquela corrida. Virou uma pessoa com o primeiro pedido confirmado e um plano mais concreto do que a caixa vazia.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "famosa",
+        "naquela"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 14,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

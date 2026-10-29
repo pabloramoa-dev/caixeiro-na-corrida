@@ -1,0 +1,202 @@
+{
+  "id": "cx353",
+  "ep": 353,
+  "avulso": true,
+  "titulo": "O JOGO NO BANCO DE TRÁS",
+  "categoria": "curiosidade",
+  "cenario": "dia",
+  "legenda_post": "🚗 O JOGO NO BANCO DE TRÁS. Um professor aposentado entrou no carro segurando cartões de perguntas e disse que precisava descobrir se ainda conhecia bem a própria família.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 O JOGO NO BANCO DE TRÁS. Um professor aposentado entrou no carro segurando cartões de perguntas e disse que precisava descobrir se ainda conhecia bem a própria família. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um professor aposentado entrou no carro segurando cartões de perguntas e disse que precisava descobrir se ainda conhecia bem a própria família.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "professor"
+      ]
+    },
+    {
+      "fala": "Era sábado, nove da manhã. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi um professor aposentado chamado Hélio, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "manhã."
+      ]
+    },
+    {
+      "fala": "Hélio estava indo ao aniversário do neto e queria apresentar um jogo com histórias de três gerações, em vez de dar um presente caro.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "estava",
+        "aniversário"
+      ]
+    },
+    {
+      "fala": "Nos cartões havia perguntas como quem inventou a receita do domingo e qual foi a primeira música tocada no rádio da casa.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "cartões",
+        "perguntas"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Ele testou algumas perguntas comigo, enquanto eu respondia apenas quando o trânsito permitia conversar sem perder a atenção.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "testou",
+        "algumas"
+      ]
+    },
+    {
+      "fala": "Uma pergunta dizia: quem ajudou o avô a aprender a usar o celular? Hélio sabia que a resposta era o próprio neto aniversariante.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "pergunta",
+        "dizia:"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, ele percebeu que tinha esquecido a caixa com as respostas na mesa de casa.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Eu sugeri que o jogo talvez fosse ainda melhor se cada pessoa contasse a versão que lembrava antes de conferir qualquer cartão.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "sugeri",
+        "talvez"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Na festa, a família discutiu alegremente de quem era a culpa por um bolo queimado em uma viagem de férias.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "festa,",
+        "família"
+      ]
+    },
+    {
+      "fala": "Hélio me mandou uma foto dos cartões espalhados na mesa e uma frase: algumas respostas eu não sabia, mas agora sei.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "mandou",
+        "cartões"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "O melhor jogo daquela viagem não foi vencer um quiz. Foi descobrir quantas histórias ficam guardadas quando ninguém pergunta.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "melhor",
+        "daquela"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 49,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

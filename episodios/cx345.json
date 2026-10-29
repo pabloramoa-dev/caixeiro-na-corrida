@@ -1,0 +1,202 @@
+{
+  "id": "cx345",
+  "ep": 345,
+  "avulso": true,
+  "titulo": "A MAQUIAGEM QUE ASSUSTOU O PRÉDIO",
+  "categoria": "fantasia",
+  "cenario": "dia",
+  "legenda_post": "🚗 A MAQUIAGEM QUE ASSUSTOU O PRÉDIO. Uma artista entrou no carro maquiada como personagem de ficção científica e disse que o porteiro do prédio achou que acontecia algo sério.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A MAQUIAGEM QUE ASSUSTOU O PRÉDIO. Uma artista entrou no carro maquiada como personagem de ficção científica e disse que o porteiro do prédio achou que acontecia algo sério. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma artista entrou no carro maquiada como personagem de ficção científica e disse que o porteiro do prédio achou que acontecia algo sério.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "artista"
+      ]
+    },
+    {
+      "fala": "Era terça, sete e meia da manhã. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma artista chamada Joana, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça,",
+        "manhã."
+      ]
+    },
+    {
+      "fala": "Joana trabalhava com efeitos de maquiagem e tinha acabado de sair de um ensaio para uma apresentação de teatro.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "trabalhava",
+        "efeitos"
+      ]
+    },
+    {
+      "fala": "Ela tentou receber uma entrega sem retirar a fantasia, e o entregador perguntou se precisava de ajuda.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "tentou",
+        "receber"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Como estavam desencontrados e ninguém explicava o figurino, o porteiro começou a chamar o responsável pelo evento.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "estavam",
+        "desencontrados"
+      ]
+    },
+    {
+      "fala": "Joana respirou, mostrou o crachá do teatro e explicou que tudo fazia parte de um teste de iluminação para o espetáculo.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "respirou,",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "O entregador ficou aliviado, mas pediu que avisassem previamente quando houvesse gravações no local.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "entregador",
+        "aliviado,"
+      ]
+    },
+    {
+      "fala": "No carro, Joana mostrou um folheto da peça e disse que a fantasia era muito menos assustadora sem a luz azul da filmagem.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "carro,",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Ela voltou ao prédio no dia seguinte com uma foto dos bastidores e agradeceu a preocupação de quem tentou ajudar.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "voltou",
+        "prédio"
+      ]
+    },
+    {
+      "fala": "O porteiro colou a foto no mural, ao lado de um aviso sobre os próximos ensaios autorizados.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "porteiro",
+        "mural,"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Naquela corrida eu entendi que uma explicação na hora certa evita que uma história engraçada vire uma confusão desnecessária.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Naquela",
+        "corrida"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 33,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

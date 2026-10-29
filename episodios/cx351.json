@@ -1,0 +1,202 @@
+{
+  "id": "cx351",
+  "ep": 351,
+  "avulso": true,
+  "titulo": "OS MORANGOS NO BANCO DE TRÁS",
+  "categoria": "fantasia",
+  "cenario": "dia",
+  "legenda_post": "🚗 OS MORANGOS NO BANCO DE TRÁS. Três passageiros vestidos de morango, abacaxi e banana entraram no carro discutindo uma novela em que uma fruta tinha roubado o papel da outra.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 OS MORANGOS NO BANCO DE TRÁS. Três passageiros vestidos de morango, abacaxi e banana entraram no carro discutindo uma novela em que uma fruta tinha roubado o papel da outra. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque três passageiros vestidos de morango, abacaxi e banana entraram no carro discutindo uma novela em que uma fruta tinha roubado o papel da outra.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "passageiros"
+      ]
+    },
+    {
+      "fala": "Era quarta, duas da tarde. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi três artistas vestidos de frutas, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quarta,",
+        "tarde."
+      ]
+    },
+    {
+      "fala": "Eles eram atores de uma apresentação infantil e estavam atrasados para uma sessão numa biblioteca pública.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "atores",
+        "apresentação"
+      ]
+    },
+    {
+      "fala": "O morango segurava um roteiro com páginas molhadas, a banana procurava uma coroa de papel e o abacaxi queria resolver tudo cantando.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "morango",
+        "segurava"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Perguntei se aquilo era ensaio ou briga de verdade. Os três responderam ao mesmo tempo, cada um interpretando seu personagem.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Perguntei",
+        "aquilo"
+      ]
+    },
+    {
+      "fala": "No trajeto, descobriram que a biblioteca mudara a sala do evento e que uma turma de crianças já esperava pelo espetáculo.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "trajeto,",
+        "descobriram"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Os artistas decidiram trocar a discussão por uma história sobre dividir o palco e aceitar que todos podem ser protagonistas.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "artistas",
+        "decidiram"
+      ]
+    },
+    {
+      "fala": "Quando chegaram, uma menina perguntou por que a banana parecia triste. O ator respondeu que tinha esquecido como pedir desculpas.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Quando",
+        "chegaram,"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Foi a deixa perfeita para o morango entregar a coroa ao abacaxi e convidar o público a escolher um final em conjunto.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "perfeita",
+        "morango"
+      ]
+    },
+    {
+      "fala": "Eu saí da porta ouvindo as crianças inventarem finais completamente diferentes, alguns mais engraçados do que o roteiro original.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "ouvindo",
+        "crianças"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Aprendi que uma novela de frutas pode terminar sem vilões quando alguém percebe que dividir atenção não significa perder valor.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Aprendi",
+        "novela"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 46,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

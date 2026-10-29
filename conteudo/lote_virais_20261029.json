@@ -1,0 +1,129 @@
+{
+  "lote": "virais-originais-20261029",
+  "tipo": "ficcao_original",
+  "episodios": [
+    "cx335",
+    "cx336",
+    "cx337",
+    "cx338",
+    "cx339",
+    "cx340",
+    "cx341",
+    "cx342",
+    "cx343",
+    "cx344",
+    "cx345",
+    "cx346",
+    "cx347",
+    "cx348",
+    "cx349",
+    "cx350",
+    "cx351",
+    "cx352",
+    "cx353",
+    "cx354"
+  ],
+  "referencias": [
+    {
+      "episodio": 335,
+      "numero_lista": 2,
+      "titulo": "O VOO QUE SUMIU DO PAINEL"
+    },
+    {
+      "episodio": 336,
+      "numero_lista": 6,
+      "titulo": "O RESTAURANTE SEM CONTA"
+    },
+    {
+      "episodio": 337,
+      "numero_lista": 13,
+      "titulo": "A CARTA PARA O PORTEIRO"
+    },
+    {
+      "episodio": 338,
+      "numero_lista": 14,
+      "titulo": "A COZINHEIRA DA CAIXA VAZIA"
+    },
+    {
+      "episodio": 339,
+      "numero_lista": 18,
+      "titulo": "O PAI VESTIDO DE PLANETA"
+    },
+    {
+      "episodio": 340,
+      "numero_lista": 19,
+      "titulo": "O CRÍTICO DE GORRO"
+    },
+    {
+      "episodio": 341,
+      "numero_lista": 20,
+      "titulo": "O CORTE QUE VIROU FANTASIA"
+    },
+    {
+      "episodio": 342,
+      "numero_lista": 22,
+      "titulo": "A PEGADINHA DO BISCOITO"
+    },
+    {
+      "episodio": 343,
+      "numero_lista": 25,
+      "titulo": "O PRATO CHAMADO SURPRESA"
+    },
+    {
+      "episodio": 344,
+      "numero_lista": 32,
+      "titulo": "A FRASE ERRADA NO AVIÃO"
+    },
+    {
+      "episodio": 345,
+      "numero_lista": 33,
+      "titulo": "A MAQUIAGEM QUE ASSUSTOU O PRÉDIO"
+    },
+    {
+      "episodio": 346,
+      "numero_lista": 34,
+      "titulo": "A MARMITA TROCADA"
+    },
+    {
+      "episodio": 347,
+      "numero_lista": 37,
+      "titulo": "O NATAL DA CASA VAZIA"
+    },
+    {
+      "episodio": 348,
+      "numero_lista": 41,
+      "titulo": "A AUDIÇÃO DA FILHA"
+    },
+    {
+      "episodio": 349,
+      "numero_lista": 44,
+      "titulo": "O SUSTO DO BONECO NO BANCO"
+    },
+    {
+      "episodio": 350,
+      "numero_lista": 45,
+      "titulo": "A MOCHILA DO IRMÃO"
+    },
+    {
+      "episodio": 351,
+      "numero_lista": 46,
+      "titulo": "OS MORANGOS NO BANCO DE TRÁS"
+    },
+    {
+      "episodio": 352,
+      "numero_lista": 47,
+      "titulo": "A PASSAGEIRA QUE ESTAVA FUGINDO"
+    },
+    {
+      "episodio": 353,
+      "numero_lista": 49,
+      "titulo": "O JOGO NO BANCO DE TRÁS"
+    },
+    {
+      "episodio": 354,
+      "numero_lista": 50,
+      "titulo": "A FOFOCA QUE FICOU SEM FINAL"
+    }
+  ],
+  "nota": "20 histórias completas; outras 30 adaptações estão na Nina. Roteiros e renders antigos preservados na branch backup/episodios-antes-virais-20261029."
+}
