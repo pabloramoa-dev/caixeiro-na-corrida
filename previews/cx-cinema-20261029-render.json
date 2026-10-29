@@ -1,0 +1,22 @@
+{
+  "motor": "hyperframes",
+  "versao": "caixeiro-hyperframes-3-gancho-reenganche",
+  "fotos": 0,
+  "duracao": 63.784,
+  "resolucao": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "voz": "kokoro pm_alex",
+  "audio": "ffmpeg",
+  "sfx": 32,
+  "visual": "v4",
+  "lip": "rhubarb",
+  "cenario": "noite",
+  "batidas": 8,
+  "illustrations": 10,
+  "illustration_interval": 7.0,
+  "animated_support": true,
+  "support_source": "original_local"
+}
