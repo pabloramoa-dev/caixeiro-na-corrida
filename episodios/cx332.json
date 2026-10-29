@@ -1,0 +1,288 @@
+{
+  "id": "cx332",
+  "ep": 332,
+  "avulso": true,
+  "preview_only": true,
+  "titulo": "OS DEZOITO GUARDA-CHUVAS NUM DIA DE SOL",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "☂️ Uma passageira entrou no carro com 18 guarda-chuvas em pleno dia de sol. Eu achei que era venda… até descobrir a briga que ela queria resolver no bairro. E o homem que mais reclamava foi quem mais surpreendeu! ❤️ Você emprestaria o seu guarda-chuva? Conte aqui! História de ficção. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Solidariedade #HistoriasQueInspiram #MotoristaDeAplicativo",
+  "legenda_tiktok": "☂️ Ela entrou no meu carro com DEZOITO guarda-chuvas e nenhuma nuvem no céu! O motivo? Uma confusão no grupo do bairro… e um final que ninguém esperava. 😂❤️ Você emprestaria o seu? 👇 História fictícia. #HistoriasDeUber #CaixeiroNaCorrida #GuardaChuva #Humor #Solidariedade #PraVoce",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje uma passageira entrou no meu carro com dezoito guarda-chuvas. O céu estava azul. Mas ela disse que, se a gente atrasasse, ia chover problema.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "chover",
+        "problema."
+      ]
+    },
+    {
+      "fala": "Era dona Marlene, sessenta e quatro anos, com um guarda-chuva amarelo preso na bolsa e outros dezessete amarrados com barbante. Ela pediu o terminal do bairro, sem desvio.",
+      "expr": "neutra",
+      "arte": [
+        "relogio",
+        "QUINTA · 9H15"
+      ],
+      "destaque": [
+        "sem",
+        "desvio."
+      ]
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor e perguntei se ela tinha aberto uma loja. Marlene respondeu: loja, não. Hoje eu vou acabar com uma briga que começou por causa de chuva.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "UMA BRIGA POR CHUVA?"
+      ],
+      "destaque": [
+        "de",
+        "chuva."
+      ]
+    },
+    {
+      "fala": "Na semana anterior, caiu um temporal bem na saída da escola. Quem tinha guarda-chuva se protegeu. Quem não tinha ficou espremido debaixo da cobertura do ponto.",
+      "expr": "triste",
+      "arte": [
+        "manchete",
+        "O TEMPORAL DA SEMANA PASSADA"
+      ],
+      "destaque": [
+        "do",
+        "ponto."
+      ]
+    },
+    {
+      "fala": "Um senhor emprestou o guarda-chuva para uma menina e voltou para casa molhado. No dia seguinte, o objeto apareceu na porta da padaria, com um bilhete de agradecimento.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "UM GUARDA-CHUVA EMPRESTADO"
+      ],
+      "destaque": [
+        "de",
+        "agradecimento."
+      ]
+    },
+    {
+      "fala": "Só que alguém pegou o guarda-chuva da padaria achando que era de uso livre. O dono reclamou no grupo do bairro. Em duas horas, virou discussão de condomínio sem condomínio.",
+      "expr": "rindo",
+      "arte": [
+        "notificacao",
+        "CADÊ MEU GUARDA-CHUVA?"
+      ],
+      "destaque": [
+        "sem",
+        "condomínio."
+      ]
+    },
+    {
+      "fala": "Teve gente dizendo que emprestar era obrigação. Outros juraram que ninguém devolve nada. E um sujeito mandou dezessete áudios explicando a diferença entre emprestar e dar.",
+      "expr": "rindo",
+      "arte": [
+        "carimbo",
+        "17 ÁUDIOS!"
+      ],
+      "destaque": [
+        "e",
+        "dar."
+      ]
+    },
+    {
+      "fala": "Marlene, que já tinha visto muita confusão na vida, decidiu fazer uma coisa simples. Passou a semana recolhendo guarda-chuvas que as pessoas queriam doar.",
+      "expr": "neutra",
+      "arte": [
+        "manchete",
+        "A IDEIA DA DONA MARLENE"
+      ],
+      "destaque": [
+        "queriam",
+        "doar."
+      ]
+    },
+    {
+      "fala": "Eu perguntei por que eram exatamente dezoito. Ela contou que dezessete tinham sido doados. O amarelo era dela, companheiro de caminhada havia vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "17 DOADOS + 1 DELA"
+      ],
+      "destaque": [
+        "vinte",
+        "anos."
+      ]
+    },
+    {
+      "fala": "Quando chegamos perto do terminal, ela pediu para eu estacionar longe. Apontou para um homem parado na calçada, de braços cruzados, olhando para uma banca fechada.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa",
+        "TERMINAL DO BAIRRO"
+      ],
+      "destaque": [
+        "banca",
+        "fechada."
+      ]
+    },
+    {
+      "fala": "Era seu Geraldo, dono da loja de consertos. No grupo, ele tinha sido o mais bravo. Disse que a ideia de guarda-chuva comunitário era bonita até o primeiro sumir.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "ISSO NÃO VAI DURAR"
+      ],
+      "destaque": [
+        "primeiro",
+        "sumir."
+      ]
+    },
+    {
+      "fala": "Marlene desceu com os dezoito guarda-chuvas e uma placa de papelão: PEGUE UM SE PRECISAR. DEVOLVA QUANDO PUDER. Eu ajudei a montar um suporte com canos reaproveitados.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "PEGUE UM SE PRECISAR"
+      ],
+      "destaque": [
+        "canos",
+        "reaproveitados."
+      ]
+    },
+    {
+      "fala": "Seu Geraldo se aproximou. Eu pensei: pronto, começou a discussão. Ele olhou a placa, olhou os guarda-chuvas e perguntou se alguém tinha pensado em consertar os quebrados.",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "E OS QUEBRA­DOS?"
+      ],
+      "destaque": [
+        "os",
+        "quebrados."
+      ]
+    },
+    {
+      "fala": "Marlene respondeu que não tinha dinheiro para isso. Geraldo tirou do bolso uma caixa de varetas, molas e parafusos. Falou: dinheiro não precisa. Ferramenta eu tenho.",
+      "expr": "chocada",
+      "arte": [
+        "carimbo",
+        "FERRAMENTA EU TENHO"
+      ],
+      "destaque": [
+        "eu",
+        "tenho."
+      ]
+    },
+    {
+      "fala": "Eu fiquei sem entender. Aquele homem tinha reclamado a semana inteira! Ele explicou que não era contra emprestar. Tinha medo de ver os guarda-chuvas virarem lixo.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete",
+        "O VERDADEIRO MOTIVO"
+      ],
+      "destaque": [
+        "virarem",
+        "lixo."
+      ]
+    },
+    {
+      "fala": "Então ele puxou uma cadeira, abriu a caixa e começou a arrumar os mais antigos. Uma estudante que passava ofereceu fita adesiva. O rapaz da banca trouxe barbante.",
+      "expr": "neutra",
+      "arte": [
+        "coracao",
+        "TODO MUNDO AJUDANDO"
+      ],
+      "destaque": [
+        "trouxe",
+        "barbante."
+      ]
+    },
+    {
+      "fala": "Em poucos minutos, o suporte estava cheio. Uma senhora deixou outro guarda-chuva. Um entregador trouxe dois que estavam esquecidos no depósito da lanchonete.",
+      "expr": "neutra",
+      "arte": [
+        "carimbo",
+        "18 VIRARAM 21"
+      ],
+      "destaque": [
+        "da",
+        "lanchonete."
+      ]
+    },
+    {
+      "fala": "Marlene contou de novo: vinte e um. Geraldo falou: vinte e dois. E abriu o guarda-chuva preto que usava havia anos. Colocou no suporte sem fazer discurso.",
+      "expr": "chocada",
+      "arte": [
+        "manchete",
+        "O VIGÉSIMO SEGUNDO"
+      ],
+      "destaque": [
+        "fazer",
+        "discurso."
+      ]
+    },
+    {
+      "fala": "Foi aí que uma criança perguntou se podia pegar o amarelo. Marlene hesitou por um segundo. Era o favorito dela. Depois se abaixou e disse: pode, mas cuida direitinho.",
+      "expr": "triste",
+      "arte": [
+        "coracao",
+        "O AMARELO TAMBÉM"
+      ],
+      "destaque": [
+        "cuida",
+        "direitinho."
+      ]
+    },
+    {
+      "fala": "A menina abriu o guarda-chuva e percebeu uma etiqueta antiga: MARLENE. Ela perguntou como faria para devolver. Marlene apontou para a placa e respondeu: aqui mesmo.",
+      "expr": "neutra",
+      "arte": [
+        "conversa",
+        "DEVOLVA AQUI"
+      ],
+      "destaque": [
+        "aqui",
+        "mesmo."
+      ]
+    },
+    {
+      "fala": "E sabe o melhor? Não caiu uma gota de chuva naquele dia. Mesmo assim, antes do almoço, duas pessoas já tinham deixado guarda-chuvas novos no suporte.",
+      "expr": "rindo",
+      "arte": [
+        "relogio",
+        "ANTES DO ALMOÇO"
+      ],
+      "destaque": [
+        "no",
+        "suporte."
+      ]
+    },
+    {
+      "fala": "Quando voltei para o carro, Geraldo me chamou e entregou uma plaquinha mais resistente. Disse: papelão molha. Amanhã eu instalo essa. E saiu fingindo que não estava emocionado.",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "A PLACA NOVA"
+      ],
+      "destaque": [
+        "estava",
+        "emocionado."
+      ]
+    },
+    {
+      "fala": "Eu aprendi que uma boa ideia não precisa vencer uma discussão. Às vezes, só precisa de gente disposta a ajudar. Compartilha com quem emprestaria um guarda-chuva. Segue o Caixeiro. Cinco estrelas!",
+      "expr": "rindo",
+      "arte": [
+        "coracao",
+        "CADA CORRIDA, UMA HISTÓRIA"
+      ],
+      "destaque": [
+        "Cinco",
+        "estrelas!"
+      ]
+    }
+  ]
+}
