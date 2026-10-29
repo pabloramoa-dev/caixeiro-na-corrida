@@ -1,14 +1,18 @@
 """Versão visual/voz usada pelo estúdio e pela fila; não carrega o renderizador."""
 import os,json,hashlib
 from pathlib import Path
-HYPERFRAMES_VERSION = 'caixeiro-hyperframes-3-gancho-reenganche'
+HYPERFRAMES_VERSION = 'caixeiro-hyperframes-4-gancho-reenganche-cinema2d'
 def versao():
     motor = os.environ.get('NINA_MOTOR', 'hyperframes')
     if motor not in ('hyperframes', 'manim'):
         raise ValueError('NINA_MOTOR deve ser hyperframes ou manim')
     if motor != 'hyperframes':
         return 'nina-manim-legacy'
-    extra = '-imagens-moveis' if os.environ.get('CAIXEIRO_MOTION_IMAGES','1').lower() in ('1','true','sim') else '-visual-antigo'
+    estilo = os.environ.get("CAIXEIRO_STORY_STYLE", "cinematic_2d").strip().lower()
+    if estilo not in ("classic", "cinematic_2d"):
+        raise ValueError("CAIXEIRO_STORY_STYLE invalido")
+    extra = "-arte-" + estilo
+    extra += '-imagens-moveis' if os.environ.get('CAIXEIRO_MOTION_IMAGES','1').lower() in ('1','true','sim') else '-visual-antigo'
     extra += '-sem-direcao' if os.environ.get('NINA_DIRECAO','1') in ('0','false','False') else ''
     if os.environ.get('NINA_VISUAL', 'v4') != 'v4':
         extra += '-visual-v3'
