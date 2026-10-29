@@ -24,7 +24,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: experimento/caixeiro-cinema-20261029
-          fetch-depth: 2
+          fetch-depth: 1
+          sparse-checkout: |
+            .github/actions/setup-hyperframes
+            assets
+            motor
+            src
+            tests
+            video
+            requirements-estudio.txt
+          sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
