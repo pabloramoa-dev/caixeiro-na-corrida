@@ -1,6 +1,6 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-3-gancho-reenganche",
+  "versao": "caixeiro-hyperframes-4-gancho-reenganche-cinema2d",
   "fotos": 0,
   "duracao": 161.447,
   "resolucao": [
@@ -9,7 +9,7 @@
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "pedalboard",
+  "audio": "ffmpeg",
   "sfx": 94,
   "visual": "v4",
   "lip": "rhubarb",
