@@ -1,6 +1,7 @@
 """Imagens de apoio gratuitas, alinhadas às falas do Caixeiro."""
 from __future__ import annotations
 import math
+import os
 from pathlib import Path
 try:
     from .local_story_art import render as desenhar
@@ -29,6 +30,19 @@ def preparar(ep, segs, assets, dur, intervalo=INTERVALO, gerador=None):
     assets.mkdir(parents=True, exist_ok=True)
     nomes = []
     desenhista = gerador or desenhar
+    # O estilo cinematografico aprovado e o padrao dos novos renders.
+    # Roteiros podem escolher "classic" e a variavel de ambiente oferece rollback.
+    if gerador is None:
+        estilo = str(ep.get("pilot_visual_style") or ep.get("visual_style") or
+                     os.environ.get("CAIXEIRO_STORY_STYLE", "cinematic_2d")).strip().lower()
+        if estilo == "cinematic_2d":
+            try:
+                from .cinematic_story_art import render as desenho_cinematico
+            except ImportError:
+                from cinematic_story_art import render as desenho_cinematico
+            desenhista = desenho_cinematico
+        elif estilo != "classic":
+            raise ValueError("CAIXEIRO_STORY_STYLE deve ser cinematic_2d ou classic")
     for cena in planejar(ep, segs, dur, intervalo):
         name = f"caixeiro-cena-{cena['scene']:02d}.png"
         data = desenhista(cena, ep)
