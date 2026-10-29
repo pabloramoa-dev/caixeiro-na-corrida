@@ -1,0 +1,195 @@
+{
+  "id": "cx365",
+  "ep": 365,
+  "avulso": true,
+  "titulo": "O KARAOKÊ DA PASSAGEIRA TÍMIDA",
+  "categoria": "cotidiano",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O KARAOKÊ DA PASSAGEIRA TÍMIDA\n\nEla entrou com uma pasta de músicas e disse que tinha perdido a coragem de cantar na festa da escola. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O KARAOKÊ DA PASSAGEIRA TÍMIDA\nEla entrou com uma pasta de músicas e disse que tinha perdido a coragem de cantar na festa da escola. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma professora chamada Taís, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "professora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era terça-feira, seis e quarenta da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça-feira,",
+        "quarenta"
+      ]
+    },
+    {
+      "fala": "Uma professora chamada Taís explicou a situação logo depois de sentar: ela entrou com uma pasta de músicas e disse que tinha perdido a coragem de cantar na festa da escola.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "professora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Eu já aprendi que ninguém entra no carro carregando apenas o que cabe na mochila. Tem lembrança, preocupação e plano para amanhã, tudo no banco de trás.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "aprendi",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Taís ensaiava sozinha no caminho, baixinho, como quem não queria que ninguém ouvisse.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "ensaiava",
+        "sozinha"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se ela preferia silêncio para praticar ou uma conversa para distrair; ela escolheu a conversa.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "perguntei",
+        "preferia"
+      ]
+    },
+    {
+      "fala": "Perguntei se preferia que eu seguisse em silêncio. A resposta veio devagar, mas mostrou que a pessoa só precisava organizar as ideias.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "preferia"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Descobri que a apresentação era feita por professores para os alunos, e ela tinha preparado uma canção autoral.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Descobri",
+        "apresentação"
+      ]
+    },
+    {
+      "fala": "Nessa hora, eu disse que seria melhor confirmar os fatos do que imaginar uma explicação apressada. O passageiro concordou e tomou a decisão que cabia a ele.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "confirmar",
+        "imaginar"
+      ]
+    },
+    {
+      "fala": "Taís decidiu mostrar a letra ao grupo antes de subir ao palco, pedindo ajuda para dividir alguns versos.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "decidiu",
+        "mostrar"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Na noite do evento, mandou uma gravação em que vários professores cantavam juntos, sem ninguém precisar ser solista.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "evento,",
+        "gravação"
+      ]
+    },
+    {
+      "fala": "Quando a viagem terminou, conferi o local de desembarque e me despedi. Fiquei com a sensação de ter ouvido uma história que merecia ser contada com cuidado.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "terminou,",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

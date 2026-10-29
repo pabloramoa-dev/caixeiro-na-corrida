@@ -1,0 +1,195 @@
+{
+  "id": "cx380",
+  "ep": 380,
+  "avulso": true,
+  "titulo": "O POETA DA PASSAGEM DE ÔNIBUS",
+  "categoria": "cotidiano",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O POETA DA PASSAGEM DE ÔNIBUS\n\nEle mostrou um caderno cheio de versos escritos durante deslocamentos diários de ônibus. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O POETA DA PASSAGEM DE ÔNIBUS\nEle mostrou um caderno cheio de versos escritos durante deslocamentos diários de ônibus. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro um poeta chamado Luís, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "chamado",
+        "aconteceu"
+      ]
+    },
+    {
+      "fala": "Era terça-feira, seis e quarenta da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça-feira,",
+        "quarenta"
+      ]
+    },
+    {
+      "fala": "Um poeta chamado Luís explicou a situação logo depois de sentar: ele mostrou um caderno cheio de versos escritos durante deslocamentos diários de ônibus.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "chamado",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Eu já aprendi que ninguém entra no carro carregando apenas o que cabe na mochila. Tem lembrança, preocupação e plano para amanhã, tudo no banco de trás.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "aprendi",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Luís tinha sido convidado para ler numa biblioteca e estava com vergonha de mostrar textos tão pessoais.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "convidado",
+        "biblioteca"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "No caminho, contou que escrevia pequenas histórias sobre vendedores, chuvas e gente esperando condução.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "caminho,",
+        "escrevia"
+      ]
+    },
+    {
+      "fala": "Perguntei se preferia que eu seguisse em silêncio. A resposta veio devagar, mas mostrou que a pessoa só precisava organizar as ideias.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "preferia"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Perguntei se já mostrara os poemas a alguém. Ele disse que uma passageira encontrara o caderno e o incentivara a publicá-los.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Perguntei",
+        "mostrara"
+      ]
+    },
+    {
+      "fala": "Nessa hora, eu disse que seria melhor confirmar os fatos do que imaginar uma explicação apressada. O passageiro concordou e tomou a decisão que cabia a ele.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "confirmar",
+        "imaginar"
+      ]
+    },
+    {
+      "fala": "Na biblioteca, Luís descobriu que outros autores iniciantes também apresentariam textos simples, sem competição.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "biblioteca,",
+        "descobriu"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Ele leu apenas dois poemas e recebeu perguntas de pessoas que reconheciam as mesmas cenas.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "recebeu",
+        "perguntas"
+      ]
+    },
+    {
+      "fala": "Quando a viagem terminou, conferi o local de desembarque e me despedi. Fiquei com a sensação de ter ouvido uma história que merecia ser contada com cuidado.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "terminou,",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

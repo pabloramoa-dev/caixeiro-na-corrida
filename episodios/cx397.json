@@ -1,0 +1,194 @@
+{
+  "id": "cx397",
+  "ep": 397,
+  "avulso": true,
+  "titulo": "O SUPER-HERÓI DA FESTA",
+  "categoria": "humor",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O SUPER-HERÓI DA FESTA\n\nEle entrou vestido de super-herói e percebeu que a escola da festa não era a mesma que aparecia no convite. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O SUPER-HERÓI DA FESTA\nEle entrou vestido de super-herói e percebeu que a escola da festa não era a mesma que aparecia no convite. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro um animador chamado Nando, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "animador",
+        "chamado"
+      ]
+    },
+    {
+      "fala": "Era sábado, dez e quinze da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Um animador chamado Nando explicou a situação logo depois de sentar: ele entrou vestido de super-herói e percebeu que a escola da festa não era a mesma que aparecia no convite.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "animador",
+        "chamado"
+      ]
+    },
+    {
+      "fala": "A corrida parecia comum no aplicativo, mas a conversa mudou assim que passamos pela primeira esquina. A pessoa estava tentando resolver algo importante.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "corrida",
+        "parecia"
+      ]
+    },
+    {
+      "fala": "Nando tinha prometido fazer uma apresentação breve para crianças e estava preocupado em não chegar a tempo.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "prometido",
+        "apresentação"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Conferimos o endereço completo com a organização e corrigimos a rota sem pressa perigosa.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Conferimos",
+        "endereço"
+      ]
+    },
+    {
+      "fala": "Eu olhei para a rota e avisei quanto faltava, sem inventar atalhos. A notícia mudou o tom da conversa e fez surgir mais uma lembrança.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "faltava,",
+        "inventar"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "No caminho, ele revelou que tinha criado um personagem próprio para ensinar cooperação e gentileza, sem imitar heróis famosos.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "caminho,",
+        "revelou"
+      ]
+    },
+    {
+      "fala": "Lembrei da Rosângela dizendo que a gente não precisa ganhar toda discussão. Às vezes a coisa certa é encontrar uma forma de conversar com respeito.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "Lembrei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a turma estava brincando de inventar poderes que ajudam outras pessoas.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "chegamos,",
+        "brincando"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Nando entrou e disse que seu poder era chegar ao lugar certo depois de pedir informação.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "informação."
+      ]
+    },
+    {
+      "fala": "O aplicativo marcou a chegada, mas a conversa continuou por mais alguns instantes, o suficiente para uma despedida tranquila.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "aplicativo",
+        "chegada,"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

@@ -1,0 +1,195 @@
+{
+  "id": "cx357",
+  "ep": 357,
+  "avulso": true,
+  "titulo": "A VOZ DE VINTE ANOS ATRÁS",
+  "categoria": "humor",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 A VOZ DE VINTE ANOS ATRÁS\n\nEle embarcou com uma caixa de ferramentas e perguntou se eu lembrava de uma velha oficina da avenida principal. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 A VOZ DE VINTE ANOS ATRÁS\nEle embarcou com uma caixa de ferramentas e perguntou se eu lembrava de uma velha oficina da avenida principal. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro um homem chamado Wilson, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "chamado",
+        "Wilson,"
+      ]
+    },
+    {
+      "fala": "Era sábado, dez e quinze da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Um homem chamado Wilson explicou a situação logo depois de sentar: ele embarcou com uma caixa de ferramentas e perguntou se eu lembrava de uma velha oficina da avenida principal.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "chamado",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "A corrida parecia comum no aplicativo, mas a conversa mudou assim que passamos pela primeira esquina. A pessoa estava tentando resolver algo importante.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "corrida",
+        "parecia"
+      ]
+    },
+    {
+      "fala": "Ao dizer o apelido do antigo dono, Wilson usou uma expressão que eu não ouvia desde o tempo de fábrica.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "apelido",
+        "expressão"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Demorei um sinal para reconhecer naquele passageiro um antigo companheiro de equipe que não via havia décadas.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Demorei",
+        "reconhecer"
+      ]
+    },
+    {
+      "fala": "Eu olhei para a rota e avisei quanto faltava, sem inventar atalhos. A notícia mudou o tom da conversa e fez surgir mais uma lembrança.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "faltava,",
+        "inventar"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Ele contou que voltara à cidade para ajudar a filha a montar uma pequena oficina de bicicletas.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "voltara",
+        "pequena"
+      ]
+    },
+    {
+      "fala": "Lembrei da Rosângela dizendo que a gente não precisa ganhar toda discussão. Às vezes a coisa certa é encontrar uma forma de conversar com respeito.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "Lembrei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Encerramos a corrida na porta do novo negócio e trocamos contatos para conversar em outro momento, sem atrapalhar meu trabalho.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Encerramos",
+        "corrida"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Wilson mostrou que guardava até hoje uma fotografia da turma na fábrica, com o meu boné quase escondido no canto.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "mostrou",
+        "guardava"
+      ]
+    },
+    {
+      "fala": "O aplicativo marcou a chegada, mas a conversa continuou por mais alguns instantes, o suficiente para uma despedida tranquila.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "aplicativo",
+        "chegada,"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

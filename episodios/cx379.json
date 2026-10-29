@@ -1,0 +1,195 @@
+{
+  "id": "cx379",
+  "ep": 379,
+  "avulso": true,
+  "titulo": "A MALA DE LIVROS INFANTIS",
+  "categoria": "curiosidade",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 A MALA DE LIVROS INFANTIS\n\nEla entrou com uma mala tão pesada que pensei que estivesse viajando para o aeroporto. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 A MALA DE LIVROS INFANTIS\nEla entrou com uma mala tão pesada que pensei que estivesse viajando para o aeroporto. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma professora chamada Sônia, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "professora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era quinta-feira, sete da noite. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quinta-feira,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Uma professora chamada Sônia explicou a situação logo depois de sentar: ela entrou com uma mala tão pesada que pensei que estivesse viajando para o aeroporto.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "professora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Quando alguém entra no carro quieto, eu respeito. Quando resolve falar, eu tento escutar sem interromper. Naquela viagem, a conversa nasceu aos poucos.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "quieto,",
+        "respeito."
+      ]
+    },
+    {
+      "fala": "A mala estava cheia de livros doados para uma biblioteca comunitária construída numa antiga sala de espera.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "biblioteca",
+        "comunitária"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Sônia explicou que alguns exemplares precisavam de pequenos reparos e que a equipe ainda não tinha estantes suficientes.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "explicou",
+        "exemplares"
+      ]
+    },
+    {
+      "fala": "A pessoa respirou fundo, guardou o celular e começou a contar o que tinha acontecido antes de eu chegar. Aí o enredo ficou completo.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "respirou",
+        "guardou"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, três voluntários aguardavam com caixas de papelão e etiquetas coloridas.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "chegamos,",
+        "voluntários"
+      ]
+    },
+    {
+      "fala": "Eu disse uma coisa que aprendi com os anos: uma notícia não explica uma vida inteira. Ela pensou nisso antes de responder à próxima mensagem.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "aprendi",
+        "notícia"
+      ]
+    },
+    {
+      "fala": "Uma criança ajudava a separar livros por tema e disse que esperava ansiosamente a seção de aventuras.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "criança",
+        "ajudava"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Sônia colocou o primeiro livro na prateleira e pediu que todos assinassem o caderno de empréstimos.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "colocou",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Voltei a trabalhar e pensei em contar para Rosângela apenas o aprendizado, sem detalhes pessoais. Ela gosta quando uma história termina com respeito.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "trabalhar",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}
