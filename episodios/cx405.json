@@ -1,0 +1,282 @@
+{
+  "id": "cx405",
+  "ep": 405,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DAS DOZE MOLDURAS VAZIAS",
+  "categoria": "reflexao",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🖼️ Ela entrou no carro com 12 molduras VAZIAS e disse que a última mostraria alguém que eu conhecia. O segredo me pegou de surpresa! 😳❤️ Quem trabalha nos bastidores e merece reconhecimento? História de ficção. #CaixeiroNaCorrida #HistoriasDeUber #MotoristaDeAplicativo #StorytimeBrasil #Gratidao #PraVoce",
+  "legenda_post": "🖼️ Doze molduras vazias no banco de trás e uma promessa misteriosa: a última revelaria alguém conhecido. Quando a passageira tirou o pano azul, entendi por que aquela corrida era tão importante. ❤️ Quem na sua cidade trabalha sem receber o reconhecimento que merece? Marque essa pessoa. História de ficção. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Trabalhadores #Gratidao #HistoriasQueInspiram",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma passageira entrou com doze molduras vazias e avisou: a última ia mostrar alguém que eu conhecia. E não era brincadeira.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Era quinta-feira, quase seis da tarde. O céu ameaçava chuva e a corrida ia da rodoviária até um centro cultural do outro lado da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quinta-feira",
+        "ameaçava"
+      ]
+    },
+    {
+      "fala": "Quem entrou foi a Lara, professora de artes. Ela acomodou as molduras no banco com mais cuidado do que quem carrega bolo de aniversário.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "entrou",
+        "professora"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se tinha quebrado todas as fotografias. Ela respondeu: fotografia nenhuma. As imagens vão aparecer só quando a gente chegar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "perguntei",
+        "quebrado"
+      ]
+    },
+    {
+      "fala": "Pronto. Meu carro virou transporte de enigma. E a Lara ainda pediu para eu não perguntar quem estava na décima segunda moldura.",
+      "expr": "ironica",
+      "arte": [
+        "manchete_v",
+        "A ÚLTIMA MOLDURA"
+      ],
+      "destaque": [
+        "Pronto",
+        "transporte"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal, ela recebeu uma mensagem: o projetor tinha parado de funcionar. O rosto dela mudou na hora. Era a peça principal do evento.",
+      "expr": "triste",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "primeiro",
+        "recebeu"
+      ]
+    },
+    {
+      "fala": "Eu ofereci parar num lugar seguro para ela telefonar. Lara ligou para a equipe, respirou fundo e disse que o plano teria de mudar.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "ofereci",
+        "seguro"
+      ]
+    },
+    {
+      "fala": "Foi aí que ela contou: naquela noite, o bairro ia homenagear pessoas que trabalham enquanto quase todo mundo está dormindo.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "contou",
+        "naquela"
+      ]
+    },
+    {
+      "fala": "O padeiro que acende o forno às três, a moça que limpa a escola antes das aulas, o vigia que conhece cada cachorro da rua.",
+      "expr": "neutra",
+      "arte": [
+        "imagem"
+      ],
+      "destaque": [
+        "padeiro",
+        "acende"
+      ]
+    },
+    {
+      "fala": "As onze primeiras molduras receberiam retratos enviados pelos próprios vizinhos. Cada foto viria acompanhada de uma frase de agradecimento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "primeiras",
+        "molduras"
+      ]
+    },
+    {
+      "fala": "Eu achei bonito, mas perguntei por que ela estava tão nervosa. Lara respondeu baixinho: porque essa ideia nasceu de uma frase do meu pai.",
+      "expr": "desconfiada",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "bonito",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "O pai dela limpou o terminal rodoviário durante vinte e sete anos. No dia da aposentadoria, disse que ninguém lembraria do seu rosto.",
+      "expr": "triste",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "limpou",
+        "terminal"
+      ]
+    },
+    {
+      "fala": "Lara guardou aquilo. Reuniu moradores, pediu imagens antigas e organizou a exposição sem cobrar ingresso de ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "guardou",
+        "aquilo"
+      ]
+    },
+    {
+      "fala": "Só que, sem projetor, as fotos estavam presas no computador. E faltavam vinte minutos para as portas abrirem.",
+      "expr": "chocada",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "projetor",
+        "estavam"
+      ]
+    },
+    {
+      "fala": "Perguntei se alguém tinha uma impressora por perto. Ela abriu o grupo do bairro e mandou uma mensagem pedindo ajuda, sem muita esperança.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Perguntei",
+        "alguém"
+      ]
+    },
+    {
+      "fala": "Antes da próxima esquina, responderam três pessoas: uma papelaria ofereceu impressão, um motoboy faria a entrega e uma vizinha levaria fita.",
+      "expr": "rindo",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "próxima",
+        "esquina"
+      ]
+    },
+    {
+      "fala": "A Lara ficou olhando para a tela, sem conseguir falar. Eu disse: olha aí, o pessoal que você queria homenagear já está salvando a festa.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "olhando",
+        "conseguir"
+      ]
+    },
+    {
+      "fala": "Chegamos ao centro cultural. Um rapaz trouxe as fotos ainda mornas da impressora, e cada morador ajudou a colocar uma imagem na moldura.",
+      "expr": "neutra",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "Chegamos",
+        "centro"
+      ]
+    },
+    {
+      "fala": "Vi o padeiro reconhecendo o próprio avental numa fotografia. A funcionária da limpeza apontou para a imagem e falou: essa sou eu, gente!",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "padeiro",
+        "reconhecendo"
+      ]
+    },
+    {
+      "fala": "Mas a décima segunda moldura continuou coberta por um pano azul. Lara me chamou e disse que finalmente podia mostrar o segredo.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "O SEGREDO"
+      ],
+      "destaque": [
+        "décima",
+        "segunda"
+      ]
+    },
+    {
+      "fala": "Quando tirou o pano, não tinha fotografia. Era um espelho. Embaixo, uma plaquinha dizia: para quem faz a cidade funcionar e quase nunca aparece.",
+      "expr": "chocada",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Quando",
+        "fotografia"
+      ]
+    },
+    {
+      "fala": "Olhei e vi meu próprio rosto, com o boné meio torto depois de um dia inteiro de corrida. Pela primeira vez, eu entendi a surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "próprio",
+        "depois"
+      ]
+    },
+    {
+      "fala": "Lara falou: meu pai sempre achou que era invisível. Hoje eu queria que ninguém saísse daqui se sentindo assim. E me agradeceu pela carona.",
+      "expr": "triste",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "sempre",
+        "invisível"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. Me conta: quem trabalha nos bastidores e merece ser lembrado na sua cidade? Compartilha com essa pessoa!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUEM MERECE SER LEMBRADO?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história"
+      ]
+    }
+  ]
+}
