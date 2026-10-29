@@ -1,0 +1,81 @@
+name: "[PILOTO] Caixeiro cinema 2D sem publicar"
+on:
+  push:
+    branches:
+      - experimento/caixeiro-cinema-20261029
+    paths:
+      - "tests/fixtures/cx-cinema-20261029.json"
+      - "motor/cinematic_story_art.py"
+      - "motor/uber_visual_motion.py"
+      - ".github/workflows/caixeiro-cinema-piloto.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  piloto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      CAIXEIRO_MOTION_IMAGES: "1"
+      NINA_FOTOS: "0"
+      NINA_HF_WORKERS: "2"
+      NINA_MAX_DUR: "180"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: experimento/caixeiro-cinema-20261029
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-estudio.txt
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Renderizar piloto com cenas cinematograficas
+        run: python motor/produzir.py tests/fixtures/cx-cinema-20261029.json
+      - name: Validar video, audio e ilustracoes
+        run: |
+          python - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+          p=Path("saida/cx-cinema-20261029")
+          f=p/"cx-cinema-20261029.mp4"
+          meta=json.loads((p/"render.json").read_text())
+          assert meta["animated_support"] and meta["illustrations"]>=7,meta
+          assert meta["support_source"]=="original_local",meta
+          info=json.loads(subprocess.check_output(["ffprobe","-v","error","-show_streams","-show_format","-of","json",str(f)]))
+          assert any(s.get("codec_type")=="audio" for s in info["streams"])
+          assert any(s.get("width")==1080 and s.get("height")==1920 for s in info["streams"])
+          assert f.stat().st_size>100000
+          print("PILOTO VIDEO VALIDADO",meta)
+          PY
+      - name: Disponibilizar MP4 para avaliacao sem publicar
+        run: |
+          mkdir -p previews
+          cp saida/cx-cinema-20261029/cx-cinema-20261029.mp4 previews/cx-cinema-20261029.mp4
+          cp saida/cx-cinema-20261029/render.json previews/cx-cinema-20261029-render.json
+          ffmpeg -y -loglevel error -ss 5 -i previews/cx-cinema-20261029.mp4 -frames:v 1 previews/cx-cinema-20261029-amostra.jpg
+          git config user.name "caixeiro-piloto-bot"
+          git config user.email "actions@github.com"
+          git add previews/cx-cinema-20261029*
+          git commit -m "piloto: MP4 cinema 2D validado [skip ci]" || exit 0
+          for i in 1 2 3; do
+            git pull --rebase origin experimento/caixeiro-cinema-20261029
+            git push origin HEAD:experimento/caixeiro-cinema-20261029 && exit 0
+            sleep 8
+          done
+          exit 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: caixeiro-cinema-piloto-20261029
+          path: |
+            previews/cx-cinema-20261029.mp4
+            previews/cx-cinema-20261029-amostra.jpg
+            previews/cx-cinema-20261029-render.json
+          retention-days: 7
