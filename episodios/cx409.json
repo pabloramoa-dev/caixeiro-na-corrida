@@ -1,0 +1,304 @@
+{
+  "id": "cx409",
+  "ep": 409,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO CINEMA QUE FECHOU HÁ VINTE ANOS",
+  "categoria": "misterio_humor_emocao",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎟️ Ela entrou no meu carro com um ingresso de cinema de 1998 e disse que a sessão começaria às oito. 😳 Só que o cinema tinha fechado havia décadas! O que encontrei na Rua do Mercado me surpreendeu. Qual cinema antigo você gostaria de ver reabrir? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #CinemaAntigo #FinalSurpresa #StorytimeBrasil #PraVoce",
+  "legenda_post": "🎬 Um ingresso guardado por 28 anos, uma passageira misteriosa e um cinema que já nem existia mais. Quando chegamos ao endereço, havia cadeiras, pipoca e uma surpresa que reuniu o bairro inteiro. ❤️ Qual lugar da sua cidade merece uma noite de reencontro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasDoBairro #CinemaDeRua #BoasHistorias",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro com um ingresso de cinema de vinte e oito anos atrás. Pediu para chegar antes da sessão das oito. Só tinha um detalhe: aquele cinema estava fechado havia décadas.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "passageira",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Ela segurava o ingresso como se fosse de ouro. Estava tão bem guardado que parecia ter saído da bilheteria naquela manhã.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "segurava",
+        "ingresso"
+      ]
+    },
+    {
+      "fala": "Perguntei o endereço. Ela disse: Cine Estrela, na Rua do Mercado. Meu aplicativo mostrou uma loja de colchões no mesmo lugar.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "endereço"
+      ]
+    },
+    {
+      "fala": "Eu falei: senhora, acho que venderam até as poltronas. Ela respondeu: poltrona não importa. O importante é a tela.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "falei",
+        "senhora"
+      ]
+    },
+    {
+      "fala": "O nome dela era Dalva. Usava um vestido azul, uma bolsa pequena e carregava um envelope que não deixava ninguém encostar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "Usava"
+      ]
+    },
+    {
+      "fala": "Achei que fosse uma festa à fantasia. Mas Dalva me mostrou o ingresso: fileira G, cadeira doze, sessão das oito, de mil novecentos e noventa e oito.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Achei",
+        "fosse"
+      ]
+    },
+    {
+      "fala": "Ela contou que tinha marcado um encontro naquela sessão, mas a pessoa nunca apareceu. Eu olhei pelo retrovisor, sem saber se perguntava mais.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "contou",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Antes que eu abrisse a boca, Dalva riu: calma, motorista. Não é história de amor perdido. É história de um erro que virou tradição.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUE ERRO FOI ESSE?"
+      ],
+      "destaque": [
+        "Antes",
+        "abrisse"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, o celular dela tocou. Uma voz perguntou se estava tudo pronto. Dalva respondeu: só falta a nossa estrela principal.",
+      "expr": "chocada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "primeira",
+        "esquina"
+      ]
+    },
+    {
+      "fala": "Eu pensei que fosse alguma atriz famosa. Perguntei se precisávamos passar no hotel. Dalva disse que a estrela estava no próprio bairro.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "pensei",
+        "fosse"
+      ]
+    },
+    {
+      "fala": "Quando passamos pela praça, ela apontou um mural antigo com cartazes desbotados. Ali ficava a fila do cinema aos domingos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "passamos"
+      ]
+    },
+    {
+      "fala": "Dalva explicou que trabalhava na bilheteria quando era jovem. Guardou aquele ingresso porque foi o último que vendeu antes de o cinema fechar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Naquela noite, uma tempestade interrompeu a energia e a sessão foi cancelada. O dono prometeu devolver o dinheiro, mas quase ninguém voltou para buscar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "Naquela",
+        "noite"
+      ]
+    },
+    {
+      "fala": "Em vez disso, os vizinhos passaram a se reunir na calçada para contar os finais dos filmes que não conseguiram assistir.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "disso",
+        "vizinhos"
+      ]
+    },
+    {
+      "fala": "Eu soltei uma risada. Quer dizer que o cinema fechou e o povo inventou sessão de fofoca? Dalva respondeu: e tinha pipoca também!",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "soltei",
+        "risada"
+      ]
+    },
+    {
+      "fala": "Só que a rua mudou, as lojas chegaram e cada família foi para um canto. Dalva achava que aquelas histórias tinham acabado para sempre.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "mudou",
+        "lojas"
+      ]
+    },
+    {
+      "fala": "Na semana anterior, uma neta encontrou uma caixa de ingressos antigos e publicou uma foto no grupo do bairro. Apareceram dezenas de mensagens.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "semana",
+        "anterior"
+      ]
+    },
+    {
+      "fala": "Uma pessoa lembrava da máquina de pipoca. Outra guardava o uniforme do lanterninha. E alguém disse que tinha um projetor funcionando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoa",
+        "lembrava"
+      ]
+    },
+    {
+      "fala": "Foi aí que Dalva decidiu reunir a turma para uma última sessão, bem em frente ao endereço antigo. O envelope escondia uma surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Dalva",
+        "decidiu"
+      ]
+    },
+    {
+      "fala": "Chegamos à Rua do Mercado e vi cadeiras dobráveis na calçada autorizada, um lençol branco esticado e uma fila que dava a volta na esquina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "Mercado"
+      ]
+    },
+    {
+      "fala": "Dalva ficou nervosa. Falou que a estrela principal ainda não tinha chegado. Nesse momento, um senhor de boné apareceu empurrando um carrinho.",
+      "expr": "desconfiada",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "Dalva",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Dentro do carrinho havia um projetor antigo. O senhor era o lanterninha do cinema, agora aposentado. Ele piscou para Dalva e gritou: pode apagar as luzes!",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "carrinho"
+      ]
+    },
+    {
+      "fala": "Dalva abriu o envelope. Não era um filme famoso: eram fotografias dos moradores na frente do cinema, reunidas pela vizinhança e transformadas numa apresentação.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "A TELA MOSTROU O BAIRRO INTEIRO"
+      ],
+      "destaque": [
+        "Dalva",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Quando apareceu a foto da antiga bilheteria, todos viram Dalva jovem, entregando justamente aquele ingresso. O povo começou a aplaudir e ela cobriu o rosto de vergonha.",
+      "expr": "rindo",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Quando",
+        "apareceu"
+      ]
+    },
+    {
+      "fala": "O lanterninha anunciou: a sessão que faltava em noventa e oito está começando agora! E alguém passou com um balde enorme de pipoca entre as cadeiras.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "lanterninha",
+        "anunciou"
+      ]
+    },
+    {
+      "fala": "Voltei para o carro pensando que certos lugares fecham, mas as histórias continuam abertas. Você também tem um lugar do bairro que merece voltar por uma noite? Conta aqui e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL LUGAR VOCÊ TRARIA DE VOLTA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "carro"
+      ]
+    }
+  ]
+}
