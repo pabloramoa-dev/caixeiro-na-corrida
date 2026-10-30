@@ -1,0 +1,304 @@
+{
+  "id": "cx408",
+  "ep": 408,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DOS TRINTA GUARDA-CHUVAS",
+  "categoria": "humor_emocao",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☀️ Ela entrou no meu carro com 30 GUARDA-CHUVAS num dia de sol! ☂️😳 Quando descobri para quem eram, entendi tudo. E o pátio da escola virou uma surpresa inesquecível! Quem merece uma homenagem assim? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #Gratidao #StorytimeBrasil #PraVoce",
+  "legenda_post": "☂️ Trinta guarda-chuvas, céu azul e uma passageira pedindo segredo absoluto! Eu achei que fosse uma venda, mas era uma homenagem a alguém que protegeu gerações de alunos na saída da escola. ❤️ Quem fez diferença na sua infância e merece ser lembrado? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Escola #Gratidao",
+  "batidas": [
+    {
+      "fala": "Trinta guarda-chuvas entraram no meu carro num dia de sol rachando. A passageira pediu segredo absoluto. E, quando chegamos à escola, eu vi chover sem uma única nuvem.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Trinta",
+        "guarda-chuvas"
+      ]
+    },
+    {
+      "fala": "Eu estava parado perto da praça, procurando uma corrida curta, quando vi uma senhora cercada por sacolas coloridas na calçada.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "estava",
+        "parado"
+      ]
+    },
+    {
+      "fala": "Ela acenou, abriu a porta traseira e perguntou se eu aceitava transportar trinta guarda-chuvas. Eu olhei para o céu azul e pensei: previsão do tempo enlouqueceu.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "acenou,",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "O nome dela era Helena. Usava tênis, carregava uma lista de nomes e parecia mais nervosa que estudante no primeiro dia de aula.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena.",
+        "Usava"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela vendia guarda-chuvas. Helena respondeu: hoje não estou vendendo nada. Estou devolvendo uma coisa que alguém deu de graça durante vinte e cinco anos.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "O QUE ELA QUERIA DEVOLVER?"
+      ],
+      "destaque": [
+        "Perguntei",
+        "vendia"
+      ]
+    },
+    {
+      "fala": "Eu fiquei curioso, mas ela só pediu que dirigisse até a Escola Municipal do Ipê, do outro lado do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "fiquei",
+        "curioso,"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal, uma das sacolas virou. Guarda-chuvas amarelos, vermelhos e azuis se espalharam pelo banco como um carnaval fora de época.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "primeiro",
+        "sinal,"
+      ]
+    },
+    {
+      "fala": "Ajudei a arrumar tudo e notei que cada cabo tinha uma etiqueta: Marina, Gustavo, Beto, Cíntia. Pareciam nomes de uma turma inteira.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ajudei",
+        "arrumar"
+      ]
+    },
+    {
+      "fala": "Helena percebeu meu olhar e explicou que eram ex-alunos. Alguns já tinham filhos; outros moravam longe e voltaram só para aquele encontro.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Helena",
+        "percebeu"
+      ]
+    },
+    {
+      "fala": "Perguntei se era reunião de formatura. Ela disse que era uma despedida, mas não da escola. Aí meu retrovisor virou interrogatório.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Perguntei",
+        "reunião"
+      ]
+    },
+    {
+      "fala": "O homenageado era seu Dario, que trabalhava na faixa de pedestres em frente ao portão. Todo mundo o conhecia pelo apito e pelo boné verde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "homenageado",
+        "Dario,"
+      ]
+    },
+    {
+      "fala": "Quando chovia, ele aparecia com um guarda-chuva enorme. Atravessava as crianças uma por uma e ainda lembrava o nome de quase todas.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Quando",
+        "chovia,"
+      ]
+    },
+    {
+      "fala": "Só que seu Dario nunca tinha guarda-chuva suficiente. Em dia de temporal, voltava para casa molhado, depois de deixar os pequenos secos.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dario",
+        "nunca"
+      ]
+    },
+    {
+      "fala": "Helena contou que estudou ali quando menina. Uma vez, esqueceu o material numa enxurrada, e seu Dario guardou seus cadernos até o dia seguinte.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Helena",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Agora ele ia se aposentar. A escola preparou uma homenagem simples, mas os antigos alunos quiseram fazer algo que ele pudesse lembrar por muitos anos.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Agora",
+        "aposentar."
+      ]
+    },
+    {
+      "fala": "Eu disse: então cada um comprou um guarda-chuva? Helena balançou a cabeça. Cada um escreveu uma lembrança na parte de dentro. Só ele vai ler.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "disse:",
+        "então"
+      ]
+    },
+    {
+      "fala": "Nesse instante, o telefone dela tocou. Uma professora avisou que seu Dario estava saindo mais cedo. A surpresa corria o risco de acabar antes de começar.",
+      "expr": "chocada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Nesse",
+        "instante,"
+      ]
+    },
+    {
+      "fala": "Pegamos a avenida principal, mas uma obra bloqueava o acesso à escola. Helena apertou a lista e soltou: justo hoje, meu Deus do céu!",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Pegamos",
+        "avenida"
+      ]
+    },
+    {
+      "fala": "Expliquei que havia uma entrada lateral permitida, por trás da quadra. Ela respirou aliviada e me chamou de motorista oficial dos guarda-chuvas.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Expliquei",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, o pátio estava cheio de adultos fingindo conversar normalmente. Mas todos olhavam para o relógio e seguravam um sorriso.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Ajudei a levar as sacolas até o portão. Helena distribuiu os guarda-chuvas e pediu que ninguém abrisse antes do sinal combinado.",
+      "expr": "neutra",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "Ajudei",
+        "levar"
+      ]
+    },
+    {
+      "fala": "Seu Dario apareceu com o boné verde, segurando o apito. Achou estranho ver tanta gente reunida num dia sem chuva.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dario",
+        "apareceu"
+      ]
+    },
+    {
+      "fala": "Helena chamou seu nome. Os ex-alunos abriram os trinta guarda-chuvas ao mesmo tempo. O pátio virou um teto colorido, e seu Dario parou no meio da faixa.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "CHOVEU COR NO PÁTIO!"
+      ],
+      "destaque": [
+        "Helena",
+        "chamou"
+      ]
+    },
+    {
+      "fala": "Ela explicou: o senhor protegeu a gente da chuva durante anos. Hoje somos nós que queremos proteger suas lembranças. Ele leu a primeira mensagem e ficou quietinho.",
+      "expr": "triste",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "explicou:",
+        "senhor"
+      ]
+    },
+    {
+      "fala": "Depois levantou o guarda-chuva amarelo e disse: agora tenho trinta motivos para sair na chuva. Todo mundo riu, e até eu ganhei uma foto da homenagem.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Depois",
+        "levantou"
+      ]
+    },
+    {
+      "fala": "Na volta, pensei que às vezes a maior surpresa não precisa de presente caro, só de memória e gratidão. E você, quem merece uma homenagem assim? Conta e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUEM MERECE ESSA HOMENAGEM?"
+      ],
+      "destaque": [
+        "volta,",
+        "pensei"
+      ]
+    }
+  ]
+}
