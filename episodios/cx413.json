@@ -1,0 +1,302 @@
+{
+  "id": "cx413",
+  "ep": 413,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DA BOLA MURCHA E A FINAL DE DESPEDIDA",
+  "categoria": "misterio_humor_emocao",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⚽ Ela entrou no meu carro com uma bola MURCHA e avisou: 'Se encherem essa bola, a final acaba!' 😳 Só entendi o motivo quando vi quem apareceu no campinho. Quem merece uma homenagem assim no seu bairro? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FutebolDeVarzea #FinalSurpresa #StorytimeBrasil #PraVoce",
+  "legenda_post": "⚽🚕 Uma bola murcha, um campinho prestes a mudar e uma passageira determinada a reunir jogadores de várias gerações. Rosa tinha um plano para homenagear alguém que nunca quis aparecer nas fotos. ❤️ Qual pessoa do seu bairro merece esse reconhecimento? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #FutebolDeBairro #MemoriasDaComunidade #HistoriasQueInspiram",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma bola de futebol completamente murcha e avisou: se alguém encher essa bola, a final de hoje acaba. Eu quase pedi para repetir.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Antes que eu perguntasse, ela mostrou um bilhete amassado: campo do Areal, quatro da tarde. E disse que faltava uma surpresa para o jogo começar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "que"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. Já levei torcida, chuteira esquecida e até juiz atrasado. Mas uma passageira protegendo bola furada era novidade.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "Ela se chamava Rosa, tinha um boné vermelho e segurava aquela bola no colo como se fosse uma peça de museu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "se"
+      ]
+    },
+    {
+      "fala": "Perguntei se a bola era da sorte. Rosa respondeu: era. Até o dia em que todo mundo resolveu que ela não prestava mais.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal, o celular dela apitou. Uma mensagem dizia: o portão está fechado, e o pessoal já está indo embora.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "No",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Rosa me pediu pressa, mas sem correr. Disse que a verdadeira partida não era contra o time visitante. Era contra o relógio.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Rosa",
+        "me"
+      ]
+    },
+    {
+      "fala": "Olhei pelo retrovisor e vi nomes escritos na bola. Havia assinaturas, desenhos tortos e uma frase quase apagada: ninguém fica de fora.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Olhei",
+        "pelo"
+      ]
+    },
+    {
+      "fala": "Perguntei se era um troféu. Ela disse que aquela bola tinha passado por mais pés do que qualquer jogador famoso.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Rosa contou que, vinte anos antes, um zelador chamado seu Damião transformou um terreno vazio em campinho para as crianças do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Ele arrumava as redes, marcava as linhas com cal e emprestava chuteiras. Quando faltava jogador, chamava quem estivesse olhando pela grade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "arrumava"
+      ]
+    },
+    {
+      "fala": "A bola ficou murcha numa final antiga. Sem dinheiro para outra, seu Damião mandou todos assinarem e prometeu guardar a lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "bola"
+      ]
+    },
+    {
+      "fala": "Eu achei bonito, mas não entendi o drama. Rosa respirou fundo: hoje é o último dia que deixam a gente usar aquele campo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "achei"
+      ]
+    },
+    {
+      "fala": "O terreno seria reformado para virar uma praça. Não era o fim do bairro, mas o pessoal temia perder o lugar de jogar junto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "terreno"
+      ]
+    },
+    {
+      "fala": "Rosa organizou uma partida de despedida. Só que os antigos jogadores estavam espalhados pela cidade, e quase ninguém confirmou presença.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "organizou"
+      ]
+    },
+    {
+      "fala": "Quando dobramos a esquina, vimos o portão fechado. Do lado de fora, meia dúzia de crianças chutava uma garrafa vazia.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "dobramos"
+      ]
+    },
+    {
+      "fala": "Rosa desceu com a bola murcha. Um menino perguntou se tinha acabado tudo. Ela respondeu: ainda não. Falta o capitão.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "desceu"
+      ]
+    },
+    {
+      "fala": "Nesse instante, um ônibus parou. Dele saíram adultos de uniforme, alguns com barriga de respeito e outros carregando os próprios filhos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Nesse",
+        "instante"
+      ]
+    },
+    {
+      "fala": "Reconheceram a bola imediatamente. Um deles apontou para a assinatura torta e gritou: essa aqui é minha! Todo mundo começou a rir.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Reconheceram",
+        "a"
+      ]
+    },
+    {
+      "fala": "Mas seu Damião não estava ali. Rosa me explicou que ele achava que ninguém se lembrava mais dos anos cuidando do campo.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "seu"
+      ]
+    },
+    {
+      "fala": "Fomos buscá-lo numa oficina próxima. Quando viu a bola, ele perguntou por que tinham guardado aquele negócio velho por tanto tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Fomos",
+        "buscá-lo"
+      ]
+    },
+    {
+      "fala": "Rosa respondeu: porque foi com ela que você ensinou uma geração inteira a dividir o jogo. Seu Damião ficou sem palavras.",
+      "expr": "triste",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Rosa",
+        "respondeu"
+      ]
+    },
+    {
+      "fala": "Voltamos ao campo. A administração abriu o portão para a despedida, e as crianças entraram de mãos dadas com os antigos jogadores.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Voltamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Ninguém encheu a bola antiga. Ela ficou no centro, sobre uma caixa, enquanto uma bola nova rolava pela quadra improvisada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ninguém",
+        "encheu"
+      ]
+    },
+    {
+      "fala": "Antes do apito, seu Damião recebeu uma placa. A nova praça teria um espaço esportivo com o nome dele. Rosa já sabia da surpresa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "do"
+      ]
+    },
+    {
+      "fala": "Eu saí dali pensando que bola murcha também pode guardar uma história enorme. Você tem alguém assim no seu bairro? Comenta e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUEM MERECE ESSA HOMENAGEM?"
+      ],
+      "destaque": [
+        "Eu",
+        "saí"
+      ]
+    }
+  ]
+}
