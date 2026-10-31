@@ -1,0 +1,291 @@
+{
+  "id": "cx412",
+  "ep": 412,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DAS DOZE MARMITAS E O CASAMENTO SEM BUFFET",
+  "categoria": "misterio_humor_emocao",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🍱 Ela entrou no meu carro com 12 marmitas e disse: 'Se eu chegar depois da noiva, o casamento acaba!' 😳 O buffet tinha sumido e eu não fazia ideia do que viria depois. Você faria o mesmo pelos seus vizinhos? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Casamento #FinalSurpresa #StorytimeBrasil #PraVoce",
+  "legenda_post": "🍱🚕 Doze marmitas, uma panela enorme e uma passageira com pressa para salvar um casamento. O buffet cancelou, mas uma vizinhança inteira resolveu transformar o problema em uma surpresa inesquecível. ❤️ Você já viu uma comunidade se unir assim? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Gentileza #HistoriasQueInspiram",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com doze marmitas e falou: motorista, se eu chegar depois da noiva, o casamento acaba. E eu nem sabia quem era a noiva.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Olhei pelo retrovisor. A passageira usava tênis, avental florido e segurava uma panela enorme como se fosse um troféu.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Olhei",
+        "pelo"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela era a cozinheira da festa. Ela respondeu: hoje sou o plano B. E o plano A desapareceu.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. Já levei gente atrasada para casamento, mas nunca alguém dizendo que ia salvar a cerimônia com feijão.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Marlene. Disse que a festa seria num salão pequeno e que o buffet tinha cancelado naquela manhã.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Fiquei indignado. Ela corrigiu: cancelou porque a cozinha do salão alagou. Ninguém teve culpa, mas cento e vinte convidados iam chegar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Fiquei",
+        "indignado"
+      ]
+    },
+    {
+      "fala": "Então Marlene abriu um grupo no celular. Havia mensagens de vizinhos oferecendo arroz, salada, frango e até uma panela de farofa.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Então",
+        "Marlene"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela conhecia os noivos. Ela ficou quieta e respondeu: conheço a mãe do rapaz. Isso já basta.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Na primeira curva, uma marmita escorregou. Segurei o freio devagar. Marlene gritou: cuidado, motorista, essa é a sobremesa!",
+      "expr": "chocada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Eu olhei a etiqueta: pudim da dona Celina. Pensei que fosse um casamento. Aquilo parecia uma operação secreta de condomínio.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "olhei"
+      ]
+    },
+    {
+      "fala": "Um áudio chegou no celular. Uma voz nervosa avisou que o salão estava sem mesas suficientes. Marlene respondeu: as mesas estão vindo.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Um",
+        "áudio"
+      ]
+    },
+    {
+      "fala": "Perguntei de onde. Ela apontou para uma caminhonete à frente. No veículo, três vizinhos transportavam mesas dobráveis e flores.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "de"
+      ]
+    },
+    {
+      "fala": "Aquilo ficou ainda mais estranho quando ela me pediu para parar numa padaria. Faltava uma única coisa para a festa começar.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Aquilo",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Entrei atrás dela. Marlene comprou duas velas pequenas. Eu perguntei: casamento tem aniversário agora? Ela respondeu: depois você entende.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Entrei",
+        "atrás"
+      ]
+    },
+    {
+      "fala": "No caminho, contou que a mãe do noivo vendia almoço em marmitas e ajudava quem não podia pagar. Por anos, ninguém ficou sem comer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "caminho"
+      ]
+    },
+    {
+      "fala": "Quando o filho decidiu casar, a mãe economizou cada moeda para oferecer uma festa bonita. Mas o imprevisto quase acabou com tudo.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "o"
+      ]
+    },
+    {
+      "fala": "Chegamos ao salão. Tinha gente carregando cadeira, ajeitando flores e limpando o chão. Os convidados trabalhavam juntos, sem reclamar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Marlene desceu e anunciou: chegou o almoço! Todo mundo aplaudiu como se ela tivesse entrado com a própria banda do casamento.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marlene",
+        "desceu"
+      ]
+    },
+    {
+      "fala": "Foi aí que vi a mãe do noivo chorando. Ela tentou pagar pelas marmitas. Marlene empurrou o dinheiro de volta.",
+      "expr": "triste",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Foi",
+        "aí"
+      ]
+    },
+    {
+      "fala": "Ela disse: lembra de quando você me deu comida durante três meses, sem cobrar? Hoje é a nossa vez de retribuir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "disse:"
+      ]
+    },
+    {
+      "fala": "O salão ficou em silêncio por um segundo. Depois começaram os abraços, as risadas e uma fila organizada para servir os pratos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "salão"
+      ]
+    },
+    {
+      "fala": "E as duas velas? Marlene colocou no pudim. Era aniversário da mãe do noivo, que tinha escondido a data para não atrapalhar a festa.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "E",
+        "as"
+      ]
+    },
+    {
+      "fala": "Os convidados cantaram parabéns antes da entrada da noiva. Eu, que só tinha ido dirigir, acabei segurando a bandeja do pudim.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "convidados"
+      ]
+    },
+    {
+      "fala": "Na volta, Marlene me entregou uma marmita e disse: para você não sair dessa história de barriga vazia. Recusei, mas ela insistiu.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Na",
+        "volta"
+      ]
+    },
+    {
+      "fala": "Eu aceitei e pensei: às vezes a melhor festa não é a mais cara, é a que ninguém deixa acontecer sozinho. Você ajudaria? Comenta e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "VOCÊ FARIA O MESMO?"
+      ],
+      "destaque": [
+        "Eu",
+        "aceitei"
+      ]
+    }
+  ]
+}
