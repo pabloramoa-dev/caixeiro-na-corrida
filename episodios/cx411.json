@@ -1,0 +1,304 @@
+{
+  "id": "cx411",
+  "ep": 411,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO QUADRO COMPLETAMENTE EM BRANCO",
+  "categoria": "misterio_humor_emocao",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎨 Ela entrou no meu carro com um quadro COMPLETAMENTE BRANCO e disse que a exposição não podia começar sem ele! 😳 Quando chegamos, descobri quem eram os verdadeiros artistas. O que você pintaria nessa tela? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PlotTwist #ArteQueTransforma #StorytimeBrasil #PraVoce",
+  "legenda_post": "🎨🚕 Uma professora aposentada, um quadro em branco e uma exposição cheia de gente esperando. Eu achei que alguém tinha esquecido de pintar a obra principal... até descobrir o plano da passageira! ❤️ Uma história sobre o que aprendemos e deixamos na vida dos outros. O que você colocaria nesse quadro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #ArteComunitaria #HistoriasQueInspiram #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um quadro completamente branco e avisou: motorista, se chegarmos atrasados, a exposição inteira vai começar sem a obra principal. E não era brincadeira.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "O quadro tinha quase um metro, estava embrulhado em tecido amarelo e ocupava o banco de trás. A passageira segurava a moldura como quem protege um segredo.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "quadro"
+      ]
+    },
+    {
+      "fala": "Perguntei por que uma pintura tão importante não tinha uma única pincelada. Ela respondeu: porque ninguém conseguiu terminar. Mas hoje todo mundo vai tentar.",
+      "expr": "chocada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro e já transportei de tudo. Só nunca imaginei que uma tela vazia pudesse deixar alguém tão nervoso quanto uma mala cheia de dinheiro.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Lúcia. Era professora de artes aposentada e usava um avental dobrado na bolsa, apesar de estar vestida para uma festa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Ela me pediu para seguir até um galpão perto da praça. No aplicativo aparecia uma antiga fábrica de móveis. Perguntei se era mesmo uma galeria.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Ela",
+        "me"
+      ]
+    },
+    {
+      "fala": "Lúcia sorriu: é uma galeria por uma noite. Amanhã volta a ser oficina. E, se tudo der certo, ninguém vai querer desmontar a exposição.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Lúcia",
+        "sorriu"
+      ]
+    },
+    {
+      "fala": "No primeiro semáforo, o celular dela vibrou. Uma mensagem dizia: os convidados chegaram, mas ninguém sabe o que fazer com a tela. Lúcia respondeu: ótimo.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "No",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Ótimo? Eu perguntei se ela tinha esquecido de contratar o artista. Ela riu e disse: o artista está espalhado pela cidade. Só precisa aparecer.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Ótimo",
+        "Eu"
+      ]
+    },
+    {
+      "fala": "Aquilo parecia conversa de filme de mistério. Enquanto dirigia, reparei que a moldura tinha pequenos nomes escritos na parte de trás, em letras diferentes.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Aquilo",
+        "parecia"
+      ]
+    },
+    {
+      "fala": "Lúcia contou que durante trinta anos ensinou desenho num centro comunitário. Cada turma deixava um pedacinho de si nas paredes, nas mesas e até nas janelas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Só que o centro fechou para reforma. As paredes foram pintadas, os desenhos desapareceram e muita gente achou que aquelas lembranças tinham ido embora junto.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Só",
+        "que"
+      ]
+    },
+    {
+      "fala": "Então ela teve uma ideia: convidar antigos alunos para uma exposição. Eu imaginei quadros enormes, retratos e esculturas. Mas a estrela era justamente aquela tela vazia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "ela"
+      ]
+    },
+    {
+      "fala": "Perguntei se os alunos não tinham trazido suas próprias obras. Ela disse que sim, mas havia uma regra: ninguém podia tocar na tela antes da chegada dela.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "POR QUE NINGUÉM PODIA PINTAR?"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Faltando duas ruas, o telefone tocou. Um rapaz perguntou se devia colocar tintas na mesa. Lúcia respondeu: só as cores que eles escolheram quando eram crianças.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Faltando",
+        "duas"
+      ]
+    },
+    {
+      "fala": "Ela me mostrou uma fotografia antiga. Havia dezenas de crianças segurando pincéis, cada uma com uma mancha colorida na camiseta. No centro, Lúcia aparecia toda pintada.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "me"
+      ]
+    },
+    {
+      "fala": "Achei que a surpresa seria reproduzir a foto. Ela negou com a cabeça e disse: Caixeiro, fotografia guarda um instante. Eu quero descobrir o que aconteceu depois.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Achei",
+        "que"
+      ]
+    },
+    {
+      "fala": "Chegamos ao galpão. Havia gente de terno, uniforme de trabalho, roupa de festa e até um senhor carregando uma caixa de ferramentas. Todo mundo olhou para a moldura.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Lúcia pediu que eu ajudasse a levar o quadro até o cavalete. Uma moça me entregou um pincel, mas eu avisei: não sei desenhar nem uma bicicleta.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "A professora abriu o tecido amarelo. A tela continuava branca. Então ela falou ao público: cada pessoa vai pintar apenas uma coisa que aprendeu a construir aqui.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "A TELA ERA DE TODO MUNDO"
+      ],
+      "destaque": [
+        "A",
+        "professora"
+      ]
+    },
+    {
+      "fala": "O primeiro rapaz desenhou uma pequena janela. Disse que virou arquiteto porque, quando criança, Lúcia o ensinou a olhar os prédios de outro jeito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Uma mulher pintou uma flor e contou que hoje tem uma floricultura. O senhor das ferramentas desenhou uma porta, porque aprendeu a fazer móveis naquele centro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "mulher"
+      ]
+    },
+    {
+      "fala": "Em poucos minutos, a tela ficou cheia de janelas, flores, portas e caminhos. Nada combinava perfeitamente. E, mesmo assim, parecia que tudo pertencia ao mesmo lugar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Em",
+        "poucos"
+      ]
+    },
+    {
+      "fala": "Quando faltava um cantinho vazio, Lúcia virou para mim e perguntou: motorista, você também não aprendeu alguma coisa hoje? Fiquei parado com o pincel na mão.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Quando",
+        "faltava"
+      ]
+    },
+    {
+      "fala": "Desenhei um retrovisor torto. Todo mundo riu. Eu expliquei que, naquela corrida, aprendi que às vezes a melhor paisagem não está na frente do carro, mas nas histórias atrás.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Desenhei",
+        "um"
+      ]
+    },
+    {
+      "fala": "Lúcia escreveu no rodapé: esta obra nunca termina. Saí dali com tinta no dedo e uma história nova. Que lembrança você colocaria nesse quadro? Comenta e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ PINTARIA NESSE QUADRO?"
+      ],
+      "destaque": [
+        "Lúcia",
+        "escreveu"
+      ]
+    }
+  ]
+}
