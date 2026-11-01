@@ -1,0 +1,305 @@
+{
+  "id": "cx410",
+  "ep": 410,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA QUE FEZ ANIVERSARIO PARA UM BURACO NA RUA",
+  "categoria": "humor_misterio_reviravolta",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no meu carro com um bolo de aniversário... para um BURACO NA RUA! 😳 Três velinhas, lista de convidados e um plano secreto. O final me surpreendeu! Qual problema da sua rua merece um bolo? 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #StorytimeBrasil #FinalSurpresa #PraVoce",
+  "legenda_post": "🎂🚕 A passageira apareceu com um bolo escrito 'Feliz aniversário, buraco da rua'. Pensei que era piada, mas a festa tinha convidados, mestre de cerimônias e até uma surpresa! No fim, descobri que a história não era sobre o buraco — era sobre os vizinhos. ❤️ Qual problema do seu bairro merece um aniversário desses? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasEngracadas #Vizinhos #Comunidade",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro segurando um bolo escrito: feliz aniversário, buraco da rua! Eu achei que era brincadeira. Até ela me mostrar o convite para a festa.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "passageira",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "O bolo era de chocolate, tinha três velinhas e um carrinho de brinquedo preso na cobertura. Ela o segurava com mais cuidado do que uma taça de cristal.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "chocolate",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Perguntei se alguém tinha o apelido de Buraco. Ela respondeu: não, motorista. É um buraco mesmo. E hoje ele completa três anos.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "alguém"
+      ]
+    },
+    {
+      "fala": "Eu ri tão alto que quase perdi a entrada da avenida. Mas ela continuou séria, conferindo a hora no celular como quem vai a uma cerimônia importante.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "quase",
+        "perdi"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Teresa e morava numa rua pequena. Disse que o buraco já tinha nome, endereço e até perfil no grupo dos vizinhos.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "passageira",
+        "chamava"
+      ]
+    },
+    {
+      "fala": "O nome dele era Cratera do Amor. Perguntei de onde vinha tanto carinho. Teresa explicou que carinho não era bem a palavra que os moradores usavam.",
+      "expr": "ironica",
+      "arte": [
+        "manchete_v",
+        "CONHEÇA A CRATERA DO AMOR"
+      ],
+      "destaque": [
+        "Cratera",
+        "Perguntei"
+      ]
+    },
+    {
+      "fala": "Tudo começou com uma rachadura depois de uma chuva. No primeiro mês, dava para desviar. No sexto, os carros já passavam em fila indiana.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "começou",
+        "rachadura"
+      ]
+    },
+    {
+      "fala": "No primeiro aniversário, alguém colocou uma vela de papelão na calçada. No segundo, apareceu uma faixa dizendo: parabéns por mais um ano atrapalhando nossa vida.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "primeiro",
+        "aniversário"
+      ]
+    },
+    {
+      "fala": "Desta vez, Teresa decidiu fazer uma festa de verdade. E não era só pelo humor. Ela tinha um plano que ainda não queria me contar.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "MAS QUAL ERA O PLANO?"
+      ],
+      "destaque": [
+        "Desta",
+        "Teresa"
+      ]
+    },
+    {
+      "fala": "Ela abriu a bolsa e tirou uma lista de convidados. Tinha o padeiro, a professora, a dona da farmácia e até o carteiro do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "abriu",
+        "bolsa"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se o prefeito também tinha sido convidado. Teresa respondeu: convite eu mandei. Se ele aparecer, vai ganhar o primeiro pedaço do bolo.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "perguntei",
+        "prefeito"
+      ]
+    },
+    {
+      "fala": "No semáforo, o celular dela apitou. Uma mensagem dizia: o aniversariante está do mesmo tamanho. Teresa suspirou e respondeu: infelizmente, sempre crescendo.",
+      "expr": "ironica",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "semáforo",
+        "celular"
+      ]
+    },
+    {
+      "fala": "Ela me mostrou uma foto. O buraco era tão grande que alguém tinha desenhado uma placa de piscina ao lado. Eu não sabia se ria ou ficava preocupado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "mostrou",
+        "buraco"
+      ]
+    },
+    {
+      "fala": "Teresa explicou que os vizinhos já tinham enviado pedidos de reparo. Enquanto esperavam, organizaram uma reunião bem-humorada para chamar atenção sem bloquear a rua.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Teresa",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Perguntei por que precisava de bolo. Ela disse: porque um problema que ninguém enxerga fica mais difícil de ignorar quando aparece com três velinhas.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "precisava"
+      ]
+    },
+    {
+      "fala": "Chegamos perto do endereço e eu vi uma fila de pessoas segurando plaquinhas. Uma dizia: favor não alimentar a cratera. Outra: três anos de carreira.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "perto"
+      ]
+    },
+    {
+      "fala": "Tinha até um senhor vestido de mestre de cerimônias, com microfone e gravata borboleta. Ele anunciou que o convidado de honra continuava no mesmo lugar.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Tinha",
+        "senhor"
+      ]
+    },
+    {
+      "fala": "Teresa pediu que eu estacionasse num lugar permitido. Desceu com o bolo e me chamou para assistir. Fiquei curioso demais para ir embora.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Teresa",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Os moradores estavam na calçada, deixando a passagem livre. Um menino colocou um chapéu de aniversário numa maquete de papelão que representava o buraco.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "moradores",
+        "estavam"
+      ]
+    },
+    {
+      "fala": "Então o mestre de cerimônias anunciou: antes do parabéns, temos uma notícia. Teresa apertou minha mão e disse baixinho: agora você vai entender o plano.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "A SURPRESA AINDA NÃO CHEGOU"
+      ],
+      "destaque": [
+        "Então",
+        "mestre"
+      ]
+    },
+    {
+      "fala": "Uma moça mostrou no celular a resposta oficial ao pedido coletivo. O conserto tinha sido aprovado, com data marcada para a semana seguinte.",
+      "expr": "chocada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "mostrou",
+        "celular"
+      ]
+    },
+    {
+      "fala": "A turma aplaudiu, mas Teresa ergueu a mão. Disse que a festa não era só pela obra. Era pela união dos vizinhos, que quase não se cumprimentavam antes.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "turma",
+        "aplaudiu"
+      ]
+    },
+    {
+      "fala": "O padeiro contou que conheceu a professora quando os dois ajudaram a sinalizar a calçada. A farmacêutica disse que dali nasceu um grupo de ajuda para idosos.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "padeiro",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Na hora do parabéns, ninguém cantou para o buraco. Cantaram para o bairro. E as três velinhas foram apagadas pelo morador mais antigo da rua.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "parabéns",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Eu ganhei um pedaço de bolo e Teresa me deu uma plaquinha de lembrança: sobrevivi ao aniversário da cratera. Guardei no porta-luvas, porque ninguém ia acreditar.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "ganhei",
+        "pedaço"
+      ]
+    },
+    {
+      "fala": "Voltei para as corridas pensando que até uma rua esburacada pode juntar gente boa. Na sua cidade, que problema merecia um aniversário desses? Comenta e compartilha essa história!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL PROBLEMA MERECE UM BOLO?"
+      ],
+      "destaque": [
+        "Voltei",
+        "corridas"
+      ]
+    }
+  ]
+}

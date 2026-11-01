@@ -1,0 +1,263 @@
+{
+  "tipo": "ficcao_original",
+  "personagem": "Caixeiro",
+  "data": "2026-10-29",
+  "id": "100-novas-historias-20261029",
+  "quantidade": 50,
+  "arquivos": 50,
+  "episodios": [
+    "cx355",
+    "cx356",
+    "cx357",
+    "cx358",
+    "cx359",
+    "cx360",
+    "cx361",
+    "cx362",
+    "cx363",
+    "cx364",
+    "cx365",
+    "cx366",
+    "cx367",
+    "cx368",
+    "cx369",
+    "cx370",
+    "cx371",
+    "cx372",
+    "cx373",
+    "cx374",
+    "cx375",
+    "cx376",
+    "cx377",
+    "cx378",
+    "cx379",
+    "cx380",
+    "cx381",
+    "cx382",
+    "cx383",
+    "cx384",
+    "cx385",
+    "cx386",
+    "cx387",
+    "cx388",
+    "cx389",
+    "cx390",
+    "cx391",
+    "cx392",
+    "cx393",
+    "cx394",
+    "cx395",
+    "cx396",
+    "cx397",
+    "cx398",
+    "cx399",
+    "cx400",
+    "cx401",
+    "cx402",
+    "cx403",
+    "cx404"
+  ],
+  "pautas": [
+    {
+      "ep": 355,
+      "titulo": "CENTO E CINQUENTA REAIS POR UMA CONVERSA"
+    },
+    {
+      "ep": 356,
+      "titulo": "O PASSAGEIRO COM O SOBRENOME DO MOTORISTA"
+    },
+    {
+      "ep": 357,
+      "titulo": "A VOZ DE VINTE ANOS ATRÁS"
+    },
+    {
+      "ep": 358,
+      "titulo": "O PAI E O CARTAZ DA FILHA"
+    },
+    {
+      "ep": 359,
+      "titulo": "O PAGAMENTO DE MIL REAIS"
+    },
+    {
+      "ep": 360,
+      "titulo": "A PASSAGEIRA QUE NÃO ENTROU NO CARRO"
+    },
+    {
+      "ep": 361,
+      "titulo": "O CACHORRO RECONHECIDO NA ESQUINA"
+    },
+    {
+      "ep": 362,
+      "titulo": "O CÃO QUE DEIXOU UM PRESENTE"
+    },
+    {
+      "ep": 363,
+      "titulo": "O COPILOTO DE QUATRO PATAS"
+    },
+    {
+      "ep": 364,
+      "titulo": "A SENHORA QUE LEVOU A CASA NO CARRINHO"
+    },
+    {
+      "ep": 365,
+      "titulo": "O KARAOKÊ DA PASSAGEIRA TÍMIDA"
+    },
+    {
+      "ep": 366,
+      "titulo": "O CARRO QUE VIROU ARQUIBANCADA"
+    },
+    {
+      "ep": 367,
+      "titulo": "A FRASE QUE O TRADUTOR MUDOU"
+    },
+    {
+      "ep": 368,
+      "titulo": "O EXECUTIVO QUE ESCOLHEU O VOLANTE"
+    },
+    {
+      "ep": 369,
+      "titulo": "A TAMPA QUE NÃO FECHAVA"
+    },
+    {
+      "ep": 370,
+      "titulo": "O BOLO DO TAMANHO DO BANCO"
+    },
+    {
+      "ep": 371,
+      "titulo": "O CELULAR DO SEU AMÂNCIO"
+    },
+    {
+      "ep": 372,
+      "titulo": "O CARRO DAS JANELAS DIFERENTES"
+    },
+    {
+      "ep": 373,
+      "titulo": "O HÓSPEDE DE QUATRO PATAS DA OFICINA"
+    },
+    {
+      "ep": 374,
+      "titulo": "O ENDEREÇO DA OUTRA CIDADE"
+    },
+    {
+      "ep": 375,
+      "titulo": "A JOVEM QUE NÃO PASSOU NO TESTE"
+    },
+    {
+      "ep": 376,
+      "titulo": "O SAPATO DA NOIVA"
+    },
+    {
+      "ep": 377,
+      "titulo": "O MAPA DESENHADO PELA AVÓ"
+    },
+    {
+      "ep": 378,
+      "titulo": "A CAIXA DE INSTRUMENTOS DO MAESTRO"
+    },
+    {
+      "ep": 379,
+      "titulo": "A MALA DE LIVROS INFANTIS"
+    },
+    {
+      "ep": 380,
+      "titulo": "O POETA DA PASSAGEM DE ÔNIBUS"
+    },
+    {
+      "ep": 381,
+      "titulo": "OS CEM BALÕES DA FESTA PEQUENA"
+    },
+    {
+      "ep": 382,
+      "titulo": "O ENVELOPE PARA A FILHA"
+    },
+    {
+      "ep": 383,
+      "titulo": "O RECIBO DE UMA GENTILEZA"
+    },
+    {
+      "ep": 384,
+      "titulo": "O PIANO QUE CABIA NUMA CAIXA"
+    },
+    {
+      "ep": 385,
+      "titulo": "DOIS PASSAGEIROS COM O MESMO NOME"
+    },
+    {
+      "ep": 386,
+      "titulo": "AS GAIOLAS SEM PÁSSAROS"
+    },
+    {
+      "ep": 387,
+      "titulo": "O BOLO PARA QUEM NÃO QUERIA FESTA"
+    },
+    {
+      "ep": 388,
+      "titulo": "A PRIMEIRA AULA AOS SETENTA"
+    },
+    {
+      "ep": 389,
+      "titulo": "O PAI NA PLATEIA DA FILHA"
+    },
+    {
+      "ep": 390,
+      "titulo": "A MUDANÇA DO AQUÁRIO"
+    },
+    {
+      "ep": 391,
+      "titulo": "O BUQUÊ ESQUECIDO NO BANCO"
+    },
+    {
+      "ep": 392,
+      "titulo": "A VOZ NO RÁDIO ANTIGO"
+    },
+    {
+      "ep": 393,
+      "titulo": "A REUNIÃO DE TRINTA ANOS"
+    },
+    {
+      "ep": 394,
+      "titulo": "A RECEITA QUE SUMIU"
+    },
+    {
+      "ep": 395,
+      "titulo": "O TERNO SEM BOTÃO"
+    },
+    {
+      "ep": 396,
+      "titulo": "OS CONVITES DA CAMPANHA"
+    },
+    {
+      "ep": 397,
+      "titulo": "O SUPER-HERÓI DA FESTA"
+    },
+    {
+      "ep": 398,
+      "titulo": "O BAIRRO ERRADO QUE TROUXE UMA MEMÓRIA"
+    },
+    {
+      "ep": 399,
+      "titulo": "A GAIOLA COBERTA"
+    },
+    {
+      "ep": 400,
+      "titulo": "O PALHAÇO FORA DA FESTA"
+    },
+    {
+      "ep": 401,
+      "titulo": "A CARTEIRA DEPOIS DE ANOS"
+    },
+    {
+      "ep": 402,
+      "titulo": "A AVALIAÇÃO DE UMA ESTRELA"
+    },
+    {
+      "ep": 403,
+      "titulo": "O CACHORRO QUE ESPERAVA NA OFICINA"
+    },
+    {
+      "ep": 404,
+      "titulo": "DOIS MINUTOS DE SILÊNCIO"
+    }
+  ],
+  "regra": "apendice, nao substitui os 20 roteiros anteriores nem publica automaticamente"
+}

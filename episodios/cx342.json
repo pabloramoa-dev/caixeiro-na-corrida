@@ -1,0 +1,202 @@
+{
+  "id": "cx342",
+  "ep": 342,
+  "avulso": true,
+  "titulo": "A PEGADINHA DO BISCOITO",
+  "categoria": "familia",
+  "cenario": "noite",
+  "legenda_post": "🚗 A PEGADINHA DO BISCOITO. Dois irmãos entraram no carro discutindo sobre um biscoito que um deles jurava ter roubado do outro havia vinte anos.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A PEGADINHA DO BISCOITO. Dois irmãos entraram no carro discutindo sobre um biscoito que um deles jurava ter roubado do outro havia vinte anos. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque dois irmãos entraram no carro discutindo sobre um biscoito que um deles jurava ter roubado do outro havia vinte anos.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "irmãos"
+      ]
+    },
+    {
+      "fala": "Era sexta, seis da noite. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi dois irmãos, Hugo e André, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sexta,",
+        "noite."
+      ]
+    },
+    {
+      "fala": "Hugo guardava uma lata com a etiqueta proibido mexer, e André dizia que aquilo tinha começado como uma brincadeira de infância.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "guardava",
+        "etiqueta"
+      ]
+    },
+    {
+      "fala": "Os dois estavam indo ao aniversário da mãe depois de muitos anos morando em cidades diferentes.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "estavam",
+        "aniversário"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "No banco de trás, começaram a contar as pegadinhas com bolachas trocadas por bilhetes e pequenos presentes escondidos na cozinha.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "começaram",
+        "contar"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se a mãe conhecia a história. Hugo disse que ela sempre fingiu não perceber as trocas.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "perguntei",
+        "conhecia"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "No caminho, André abriu a lata e encontrou um papel da mãe escrito: vocês dois acham mesmo que eu não sabia?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "caminho,",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "O papel vinha acompanhado de duas receitas antigas, uma de cada filho, que ela guardara para reunir a família novamente.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "acompanhado",
+        "receitas"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Quando chegaram à festa, os irmãos pararam de discutir e decidiram preparar juntos os biscoitos preferidos dela.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Quando",
+        "chegaram"
+      ]
+    },
+    {
+      "fala": "Recebi uma mensagem mais tarde: a mesa tinha duas travessas, uma com biscoitos perfeitos e outra com formatos bem esquisitos.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "Recebi",
+        "mensagem"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "A pegadinha durou décadas; a parte mais bonita foi perceber que a mãe sempre esteve dentro dela.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "pegadinha",
+        "décadas;"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 22,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

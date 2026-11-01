@@ -1,0 +1,22 @@
+{
+  "motor": "hyperframes",
+  "versao": "caixeiro-hyperframes-4-gancho-reenganche-cinema2d",
+  "fotos": 0,
+  "duracao": 148.076,
+  "resolucao": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "voz": "kokoro pm_alex",
+  "audio": "ffmpeg",
+  "sfx": 75,
+  "visual": "v4",
+  "lip": "rhubarb",
+  "cenario": "dia",
+  "batidas": 18,
+  "illustrations": 22,
+  "illustration_interval": 7.0,
+  "animated_support": true,
+  "support_source": "original_local"
+}

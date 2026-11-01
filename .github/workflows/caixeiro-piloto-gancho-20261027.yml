@@ -1,0 +1,92 @@
+name: Caixeiro - novo episodio com ganchos e imagens animadas
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'tests/fixtures/cx-piloto-gancho-20261027.json'
+      - '.github/workflows/caixeiro-piloto-gancho-20261027.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  renderizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      CAIXEIRO_MOTION_IMAGES: '1'
+      NINA_FOTOS: '0'
+      NINA_MAX_DUR: '180'
+      NINA_HF_WORKERS: '2'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: |
+            .github/actions/setup-hyperframes
+            assets
+            motor
+            src
+            video
+            tests
+            requirements-estudio.txt
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements-estudio.txt
+      - name: Preparar bibliotecas
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          pip install -r requirements-estudio.txt
+          python -m compileall -q motor src
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Conferir gancho e reenganche
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          from motor.ganchos_caixeiro import aplicar_ganchos
+          original=json.loads(Path('tests/fixtures/cx-piloto-gancho-20261027.json').read_text())
+          transformed=aplicar_ganchos(original)
+          print('GANCHO',transformed['batidas'][0]['fala'])
+          idx=transformed.get('reenganche_indice')
+          print('REENGANCHE',idx,transformed['batidas'][idx]['fala'] if idx is not None else 'nenhum')
+          assert transformed['gancho_modelo']=='antecipacao_factual',transformed.get('gancho_modelo')
+          assert idx is not None
+          assert len(transformed['batidas'])==len(original['batidas'])
+          assert transformed['batidas'][-1]['fala']==original['batidas'][-1]['fala']
+          PY
+      - name: Produzir MP4 sem publicar
+        run: python motor/produzir.py tests/fixtures/cx-piloto-gancho-20261027.json
+      - name: Validar vídeo, áudio e imagens
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path('saida/cx-piloto-gancho-20261027')
+          ep=json.loads((p/'ep.json').read_text())
+          meta=json.loads((p/'render.json').read_text())
+          assert ep['gancho_modelo']=='antecipacao_factual'
+          assert ep.get('reenganche_indice') is not None
+          assert meta['motor']=='hyperframes'
+          assert meta['animated_support'] and meta['illustrations']>=7,meta
+          assert meta['resolucao']==[1080,1920] and meta['fps']==30
+          assert (p/'cx-piloto-gancho-20261027.mp4').stat().st_size>100000
+          print('VÍDEO VALIDADO:',meta)
+          PY
+      - name: Disponibilizar MP4 para assistir, sem redes sociais
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-novo-episodio-gancho-20261027
+          path: |
+            saida/cx-piloto-gancho-20261027/cx-piloto-gancho-20261027.mp4
+            saida/cx-piloto-gancho-20261027/render.json
+            saida/cx-piloto-gancho-20261027/ep.json
+            saida/cx-piloto-gancho-20261027/capa.jpg
+          retention-days: 7
+          if-no-files-found: warn

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+saida/
+video/node_modules/
+.cache/
+*.wav

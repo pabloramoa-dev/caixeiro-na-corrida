@@ -1,0 +1,195 @@
+{
+  "id": "cx403",
+  "ep": 403,
+  "avulso": true,
+  "titulo": "O CACHORRO QUE ESPERAVA NA OFICINA",
+  "categoria": "emocionante",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O CACHORRO QUE ESPERAVA NA OFICINA\n\nEle embarcou com uma caixa de brinquedos para um cachorro que aparecia todos os dias perto da oficina. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O CACHORRO QUE ESPERAVA NA OFICINA\nEle embarcou com uma caixa de brinquedos para um cachorro que aparecia todos os dias perto da oficina. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro um funcionário chamado Renato, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "funcionário",
+        "chamado"
+      ]
+    },
+    {
+      "fala": "Era sexta-feira, quatro da tarde. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sexta-feira,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Um funcionário chamado Renato explicou a situação logo depois de sentar: ele embarcou com uma caixa de brinquedos para um cachorro que aparecia todos os dias perto da oficina.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "funcionário",
+        "chamado"
+      ]
+    },
+    {
+      "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "fábrica,",
+        "aprendi"
+      ]
+    },
+    {
+      "fala": "Renato contou que o animal pertencia a uma família da rua e esperava os tutores voltarem do trabalho.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "pertencia",
+        "família"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Os mecânicos tinham aprendido a não oferecer alimentos aleatórios e a chamar a família quando o cachorro escapava.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "mecânicos",
+        "aprendido"
+      ]
+    },
+    {
+      "fala": "Sabe quando uma informação pequenininha vira a peça principal de um quebra-cabeça? Foi exatamente isso que aconteceu ali no meio da corrida.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "informação",
+        "pequenininha"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Naquele dia ele levava brinquedos comprados com ajuda dos colegas para presentear as crianças da casa.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Naquele",
+        "brinquedos"
+      ]
+    },
+    {
+      "fala": "A conversa ficou mais leve, mas ninguém fingiu que o problema sumiu. A pessoa decidiu resolver uma etapa por vez, sem pressão.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "conversa",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a família agradeceu e mostrou que havia reforçado o portão para evitar novas fugas.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "chegamos,",
+        "família"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "O cachorro ficou brincando no quintal, e os funcionários voltaram à rotina sabendo que estava protegido.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "cachorro",
+        "brincando"
+      ]
+    },
+    {
+      "fala": "A porta se fechou, a próxima corrida apareceu e eu fiquei pensando na virada que acabara de ouvir. Não era algo que eu pudesse inventar olhando o mapa.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "fechou,",
+        "próxima"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

@@ -1,0 +1,195 @@
+{
+  "id": "cx377",
+  "ep": 377,
+  "avulso": true,
+  "titulo": "O MAPA DESENHADO PELA AVÓ",
+  "categoria": "humor",
+  "cenario": "dia",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O MAPA DESENHADO PELA AVÓ\n\nEla segurava um mapa feito à mão e queria conhecer a rua onde morava quando criança. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O MAPA DESENHADO PELA AVÓ\nEla segurava um mapa feito à mão e queria conhecer a rua onde morava quando criança. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma senhora chamada Nazaré, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "senhora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era sábado, dez e quinze da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Uma senhora chamada Nazaré explicou a situação logo depois de sentar: ela segurava um mapa feito à mão e queria conhecer a rua onde morava quando criança.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "senhora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "A corrida parecia comum no aplicativo, mas a conversa mudou assim que passamos pela primeira esquina. A pessoa estava tentando resolver algo importante.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "corrida",
+        "parecia"
+      ]
+    },
+    {
+      "fala": "Os nomes das ruas tinham mudado, e Nazaré reconhecia apenas um desenho de ponte e uma mangueira grande.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "mudado,",
+        "reconhecia"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Mostrou o mapa e contou que o pai o desenhara para ajudá-la a voltar da escola há muitas décadas.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Mostrou",
+        "desenhara"
+      ]
+    },
+    {
+      "fala": "Eu olhei para a rota e avisei quanto faltava, sem inventar atalhos. A notícia mudou o tom da conversa e fez surgir mais uma lembrança.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "faltava,",
+        "inventar"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Com os endereços atuais, encontramos um centro cultural que preservava fotografias antigas do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "endereços",
+        "atuais,"
+      ]
+    },
+    {
+      "fala": "Lembrei da Rosângela dizendo que a gente não precisa ganhar toda discussão. Às vezes a coisa certa é encontrar uma forma de conversar com respeito.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "Lembrei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Nazaré reconheceu a escola numa imagem e descobriu onde ficava a antiga casa, hoje substituída por outra construção.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "reconheceu",
+        "descobriu"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Ela tirou uma foto da rua e agradeceu por poder comparar o presente com a lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "agradeceu",
+        "comparar"
+      ]
+    },
+    {
+      "fala": "O aplicativo marcou a chegada, mas a conversa continuou por mais alguns instantes, o suficiente para uma despedida tranquila.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "aplicativo",
+        "chegada,"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

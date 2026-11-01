@@ -1,0 +1,195 @@
+{
+  "id": "cx390",
+  "ep": 390,
+  "avulso": true,
+  "titulo": "A MUDANÇA DO AQUÁRIO",
+  "categoria": "cotidiano",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 A MUDANÇA DO AQUÁRIO\n\nEle apareceu com uma caixa de transporte apropriada para um peixe e um pequeno aquário vazio. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 A MUDANÇA DO AQUÁRIO\nEle apareceu com uma caixa de transporte apropriada para um peixe e um pequeno aquário vazio. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro um rapaz chamado Enzo, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "chamado",
+        "aconteceu"
+      ]
+    },
+    {
+      "fala": "Era terça-feira, seis e quarenta da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça-feira,",
+        "quarenta"
+      ]
+    },
+    {
+      "fala": "Um rapaz chamado Enzo explicou a situação logo depois de sentar: ele apareceu com uma caixa de transporte apropriada para um peixe e um pequeno aquário vazio.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "chamado",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Eu já aprendi que ninguém entra no carro carregando apenas o que cabe na mochila. Tem lembrança, preocupação e plano para amanhã, tudo no banco de trás.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "aprendi",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Enzo estava mudando de casa e havia se informado previamente sobre como transportar o animal com segurança.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "mudando",
+        "informado"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Durante a corrida, evitou sacudidas e manteve a embalagem estável, seguindo as recomendações que recebera de um especialista.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Durante",
+        "corrida,"
+      ]
+    },
+    {
+      "fala": "Perguntei se preferia que eu seguisse em silêncio. A resposta veio devagar, mas mostrou que a pessoa só precisava organizar as ideias.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "preferia"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Ele contou que o peixe fora presente do avô e que cuidar dele o ajudava a manter uma rotina.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "presente",
+        "ajudava"
+      ]
+    },
+    {
+      "fala": "Nessa hora, eu disse que seria melhor confirmar os fatos do que imaginar uma explicação apressada. O passageiro concordou e tomou a decisão que cabia a ele.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "confirmar",
+        "imaginar"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, Enzo conferiu o ambiente preparado e agradeceu por eu ter mantido a viagem tranquila.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "chegamos,",
+        "conferiu"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Na semana seguinte, enviou uma foto do aquário já instalado, com o peixe bem acomodado.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "seguinte,",
+        "aquário"
+      ]
+    },
+    {
+      "fala": "Quando a viagem terminou, conferi o local de desembarque e me despedi. Fiquei com a sensação de ter ouvido uma história que merecia ser contada com cuidado.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "terminou,",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

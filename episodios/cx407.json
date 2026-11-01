@@ -1,0 +1,293 @@
+{
+  "id": "cx407",
+  "ep": 407,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O TROFÉU DO PIOR VIZINHO DO PRÉDIO",
+  "categoria": "humor_emocao",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ela entrou no meu carro com um troféu de PIOR VIZINHO DO PRÉDIO! 😳 Eu esperava confusão, mas a revelação fez o condomínio inteiro aplaudir. Você conhece um vizinho assim? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Condominio #FinalSurpresa #StorytimeBrasil #PraVoce",
+  "legenda_post": "🏆 Um troféu escrito 'Pior Vizinho do Prédio', uma passageira atrasada e uma reunião de condomínio cheia de mistério. Eu achei que ia dar briga… até descobrir o que aquele senhor fazia quando ninguém estava olhando. ❤️ Quem no seu bairro merece reconhecimento? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #BoasHistorias #Vizinhos #Gentileza",
+  "batidas": [
+    {
+      "fala": "Uma mulher entrou no meu carro segurando um troféu escrito PIOR VIZINHO DO PRÉDIO. Disse que, em quinze minutos, todo mundo ia aplaudir o vencedor. Eu achei que era pegadinha. Mas espera até ouvir o motivo.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "mulher",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Era quase seis da tarde quando ela apareceu na calçada, abraçada a um troféu dourado maior que uma panela de pressão.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "quase",
+        "tarde"
+      ]
+    },
+    {
+      "fala": "Ela se apresentou como Marta, do condomínio Jardim das Acácias, e pediu para eu correr até o salão de festas.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "apresentou",
+        "Marta"
+      ]
+    },
+    {
+      "fala": "Eu olhei a placa do troféu e perguntei: moça, vocês dão prêmio para vizinho ruim agora? Ela respondeu: hoje, sim.",
+      "expr": "ironica",
+      "arte": [
+        "manchete_v",
+        "O PIOR VIZINHO DO PRÉDIO?"
+      ],
+      "destaque": [
+        "olhei",
+        "placa"
+      ]
+    },
+    {
+      "fala": "Antes que eu perguntasse mais, o celular dela começou a tocar. Marta atendeu e falou: segura o pessoal, não revela o nome ainda!",
+      "expr": "desconfiada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Antes",
+        "perguntasse"
+      ]
+    },
+    {
+      "fala": "Fiquei imaginando uma reunião de condomínio com pipoca e confusão. Quem mora em prédio sabe que até vaso de planta vira discussão.",
+      "expr": "rindo",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "Fiquei",
+        "imaginando"
+      ]
+    },
+    {
+      "fala": "Marta explicou que o premiado era um senhor chamado Arnaldo. Ele reclamava do barulho, dos sapatos no corredor e até da campainha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Segundo ela, o homem tinha um caderninho. Anotava lâmpada queimada, portão aberto e encomenda entregue no apartamento errado.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Segundo",
+        "homem"
+      ]
+    },
+    {
+      "fala": "Eu falei: então ele é fiscal de corredor? Marta riu e respondeu: praticamente. Mas essa é só a metade da história.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "falei",
+        "então"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, ela mostrou uma fotografia antiga. Arnaldo aparecia com uma caixa de ferramentas e uma escada dobrável.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "primeira",
+        "esquina"
+      ]
+    },
+    {
+      "fala": "Ela contou que, durante meses, o elevador do prédio vivia dando defeito. Toda vez que acontecia, Arnaldo era o primeiro a avisar.",
+      "expr": "neutra",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "contou",
+        "durante"
+      ]
+    },
+    {
+      "fala": "Os moradores reclamavam que ele se metia em tudo. Só que ninguém percebia o que ele fazia depois de anotar cada problema.",
+      "expr": "desconfiada",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "moradores",
+        "reclamavam"
+      ]
+    },
+    {
+      "fala": "Uma vizinha mais velha tinha dificuldade para subir as compras. Toda terça-feira, encontrava as sacolas diante da porta, sem saber quem ajudara.",
+      "expr": "triste",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "vizinha",
+        "velha"
+      ]
+    },
+    {
+      "fala": "Outro morador chegava tarde do trabalho e achava o corredor iluminado, mesmo quando a lâmpada queimava de manhã.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Outro",
+        "morador"
+      ]
+    },
+    {
+      "fala": "Quando uma encomenda se perdia, aparecia na portaria no dia seguinte com um bilhete: agora está no lugar certo.",
+      "expr": "neutra",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "Quando",
+        "encomenda"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se Arnaldo era síndico. Marta respondeu: não. Ele só dizia que prédio bom é prédio onde ninguém fica para trás.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "perguntei",
+        "Arnaldo"
+      ]
+    },
+    {
+      "fala": "Na semana passada, a câmera da portaria revelou o segredo. Era ele quem carregava sacolas, trocava lâmpadas e organizava as entregas.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "semana",
+        "passada"
+      ]
+    },
+    {
+      "fala": "Os vizinhos decidiram agradecer. Mas queriam fazer isso do jeito mais engraçado possível, porque Arnaldo odiava elogio em público.",
+      "expr": "rindo",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "vizinhos",
+        "decidiram"
+      ]
+    },
+    {
+      "fala": "Por isso encomendaram um troféu com a frase que ele mesmo dizia quando alguém reclamava: o pior vizinho é o que finge que não vê.",
+      "expr": "ironica",
+      "arte": [
+        "manchete_v",
+        "UM PRÊMIO INESPERADO"
+      ],
+      "destaque": [
+        "encomendaram",
+        "troféu"
+      ]
+    },
+    {
+      "fala": "Chegamos ao condomínio, mas a rua estava tomada por carros. Marta ficou nervosa: se ele descer antes da surpresa, acabou tudo!",
+      "expr": "chocada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Chegamos",
+        "condomínio"
+      ]
+    },
+    {
+      "fala": "Deixei o carro na área permitida e ajudei Marta a levar o troféu até a entrada. O porteiro abriu a porta tentando esconder a risada.",
+      "expr": "rindo",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "Deixei",
+        "carro"
+      ]
+    },
+    {
+      "fala": "No salão, os moradores estavam em silêncio. Arnaldo apareceu pensando que seria mais uma reunião sobre o elevador quebrado.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "salão",
+        "moradores"
+      ]
+    },
+    {
+      "fala": "Marta anunciou o prêmio de pior vizinho. Arnaldo cruzou os braços, indignado. Então todos levantaram cartazes: OBRIGADO POR CUIDAR DA GENTE!",
+      "expr": "chocada",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Marta",
+        "anunciou"
+      ]
+    },
+    {
+      "fala": "Ele leu a placa inteira, ficou sem palavras e soltou: vocês gastaram dinheiro com isso? A plateia caiu na risada. Depois veio o aplauso.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "placa",
+        "inteira"
+      ]
+    },
+    {
+      "fala": "Quando voltei ao carro, encontrei um bilhete no para-brisa: motorista, obrigado por trazer a surpresa. E você, tem um vizinho que merece um troféu? Conta aqui e compartilha!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL VIZINHO MERECE TROFÉU?"
+      ],
+      "destaque": [
+        "Quando",
+        "voltei"
+      ]
+    }
+  ]
+}

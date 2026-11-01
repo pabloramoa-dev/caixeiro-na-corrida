@@ -1,0 +1,291 @@
+{
+  "id": "cx406",
+  "ep": 406,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O CASAMENTO QUE PRECISAVA DE PÃO FRANCÊS",
+  "categoria": "emocao",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🥖 O passageiro entrou no carro desesperado: um casamento inteiro estava esperando... PÃO FRANCÊS! 😳💍 Quando descobri o motivo, até esqueci do trânsito. Qual comida lembra alguém especial pra você? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Casamento #Familia #StorytimeBrasil #PraVoce",
+  "legenda_post": "🥖💍 Uma sacola de pão francês, uma gravata cheia de farinha e um avô com pressa. Parecia uma corrida comum até eu descobrir por que a noiva não começaria a cerimônia sem aqueles pãezinhos. ❤️ Qual sabor faz você lembrar de alguém da família? Conta aqui! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasAfetivas #Familia #HistoriasQueInspiram",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um passageiro entrou com uma sacola de pão e gritou que, se eu atrasasse, um casamento inteiro ia parar. E olha que nem era o noivo!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "passageiro"
+      ]
+    },
+    {
+      "fala": "Era sábado, quatro e meia da tarde. Eu estava terminando uma corrida quando apareceu um senhor de camisa social, gravata torta e uma sacola amassada.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado",
+        "quatro"
+      ]
+    },
+    {
+      "fala": "O nome dele era Osvaldo. Sentou no banco de trás, segurou a sacola com as duas mãos e falou: moço, vamos para o salão da praça, por favor.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Osvaldo",
+        "Sentou"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se ele estava levando as alianças. Ele balançou a cabeça e respondeu: pior. Estou levando os pães. Aí eu quase perdi a concentração.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "perguntei",
+        "estava"
+      ]
+    },
+    {
+      "fala": "Pensei que fosse brincadeira. Casamento tem bolo, doce, buffet. Mas o homem olhava para o relógio como se carregasse uma bomba de farinha.",
+      "expr": "ironica",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "Pensei",
+        "fosse"
+      ]
+    },
+    {
+      "fala": "Osvaldo explicou que a noiva tinha feito um pedido muito específico: antes de qualquer música, todo mundo precisava receber um pão quentinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Osvaldo",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se era alguma moda nova de casamento. Ele respondeu que não. Era uma promessa antiga, dessas que só fazem sentido para uma família.",
+      "expr": "desconfiada",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "perguntei",
+        "alguma"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal vermelho, a sacola abriu e o cheiro de pão tomou o carro. Eu falei: se esse casamento atrasar, pelo menos o motorista janta.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "primeiro",
+        "sinal"
+      ]
+    },
+    {
+      "fala": "Ele riu pela primeira vez. Disse que tinha sido padeiro durante quarenta anos e que, quando fechou a padaria, achou que ninguém sentiria falta.",
+      "expr": "triste",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "primeira",
+        "Disse"
+      ]
+    },
+    {
+      "fala": "A noiva, chamada Clara, era a neta dele. Quando criança, passava as férias atrás do balcão, contando moedas e roubando a casquinha crocante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "noiva",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Todo aniversário dela começava com um pãozinho e uma vela. Não importava se havia presente caro: o avô aparecia antes de todo mundo.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "aniversário",
+        "começava"
+      ]
+    },
+    {
+      "fala": "Quando Clara marcou o casamento, pediu ao avô uma coisa só: que repetisse o ritual para todos os convidados. Osvaldo topou, mas ficou nervoso.",
+      "expr": "desconfiada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Quando",
+        "Clara"
+      ]
+    },
+    {
+      "fala": "O problema é que o forno emprestado desligou no meio da fornada. Ele teve de correr até a antiga padaria de um amigo para terminar tudo.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "problema",
+        "forno"
+      ]
+    },
+    {
+      "fala": "Olhei pelo retrovisor e vi a gravata dele toda suja de farinha. Perguntei quantos pães havia naquela sacola. Ele respondeu: só os primeiros doze.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Olhei",
+        "retrovisor"
+      ]
+    },
+    {
+      "fala": "Os outros estavam em duas caixas no porta-malas. Eu nem tinha percebido. De repente, virei transporte oficial de padaria e cerimônia ao mesmo tempo.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "outros",
+        "estavam"
+      ]
+    },
+    {
+      "fala": "Chegando perto da praça, encontramos uma rua fechada por causa de uma feira. Osvaldo ficou pálido. Eu avisei que dava para entrar pela rua lateral.",
+      "expr": "chocada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Chegando",
+        "perto"
+      ]
+    },
+    {
+      "fala": "Ele apertou a sacola contra o peito e falou baixinho: ela já perdeu a mãe. Eu não quero que hoje ela sinta falta de mais ninguém.",
+      "expr": "triste",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "apertou",
+        "sacola"
+      ]
+    },
+    {
+      "fala": "Naquela hora, entendi que não era sobre pão. Era sobre a presença de alguém que tinha prometido estar ali, mesmo depois de tantas mudanças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Naquela",
+        "entendi"
+      ]
+    },
+    {
+      "fala": "Estacionei diante do salão. Osvaldo saiu quase correndo, mas voltou para me pedir ajuda com as caixas. Eu fui, porque aquela história merecia final.",
+      "expr": "neutra",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "Estacionei",
+        "diante"
+      ]
+    },
+    {
+      "fala": "Quando entramos, não havia música. Todos os convidados estavam de pé, esperando. Clara apareceu de vestido branco e abraçou o avô sem dizer nada.",
+      "expr": "chocada",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Quando",
+        "entramos"
+      ]
+    },
+    {
+      "fala": "Osvaldo entregou o primeiro pão. Ela colocou uma velinha apagada em cima e disse: vô, a senhora da padaria era você e a minha infância inteira.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Osvaldo",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "Ele começou a chorar de alegria. Depois descobri que os convidados tinham levado bilhetes com lembranças da antiga padaria para montar um livro.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "começou",
+        "chorar"
+      ]
+    },
+    {
+      "fala": "Eu já estava saindo quando Clara me chamou. Colocou um pão na minha mão e falou: o senhor também ajudou a trazer meu avô para cá.",
+      "expr": "rindo",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "estava",
+        "saindo"
+      ]
+    },
+    {
+      "fala": "Voltei para o carro com o lanche mais caro que já ganhei: custou uma corrida, duas caixas e uma história que eu não vou esquecer.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Voltei",
+        "carro"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas para o Osvaldo! Agora me conta: qual comida simples faz você lembrar de alguém especial? Escreve aqui e manda esse vídeo pra essa pessoa.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL SABOR TRAZ UMA LEMBRANÇA?"
+      ],
+      "destaque": [
+        "Cinco",
+        "estrelas"
+      ]
+    }
+  ]
+}

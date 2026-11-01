@@ -1,0 +1,96 @@
+name: "Caixeiro — render avulso cx328 (sem publicar)"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "preview_episodes/cx328.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: caixeiro-preview-cx328
+  cancel-in-progress: false
+
+jobs:
+  renderizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Registrar execução sem publicar
+        shell: bash
+        run: |
+          set -e
+          mkdir -p previews
+          printf '{"episodio":"cx328","status":"renderizando","run_id":"%s"}\n' "$GITHUB_RUN_ID" > previews/cx328-status.json
+          git config user.name "caixeiro-preview-bot"
+          git config user.email "actions@github.com"
+          git add previews/cx328-status.json
+          git commit -m "preview: iniciar cx328 [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 8; done
+          exit 1
+      - name: Dependências de sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          mkdir -p ~/.fonts
+          for p in Bold Regular; do
+            curl -sSL -o ~/.fonts/Poppins-$p.ttf "https://github.com/google/fonts/raw/main/ofl/poppins/Poppins-$p.ttf"
+          done
+          fc-cache -f
+      - name: Pacotes Python
+        run: |
+          SETUPTOOLS_USE_DISTUTILS=stdlib pip install --no-build-isolation srt || true
+          pip install -r requirements-estudio.txt
+      - uses: ./.github/actions/setup-hyperframes
+      - name: Renderizar episódio com motor original
+        env:
+          NINA_HF_WORKERS: "2"
+          CAIXEIRO_MOTION_IMAGES: "1"
+        run: python motor/produzir.py preview_episodes/cx328.json
+      - name: Validar MP4 e áudio
+        run: |
+          python - <<'PY'
+          import json, subprocess, os
+          f="saida/cx328/cx328.mp4"
+          assert os.path.getsize(f)>100000, "MP4 vazio"
+          d=json.loads(subprocess.check_output(["ffprobe","-v","error","-show_streams","-show_format","-of","json",f]))
+          v=[s for s in d["streams"] if s.get("codec_type")=="video"]
+          a=[s for s in d["streams"] if s.get("codec_type")=="audio"]
+          assert len(v)>0 and len(a)>0, "vídeo ou áudio ausente"
+          assert v[0].get("width")==1080 and v[0].get("height")==1920, "resolução inválida"
+          dur=float(d["format"]["duration"])
+          assert 45<dur<241, f"duração inválida {dur}"
+          os.makedirs("previews",exist_ok=True)
+          import shutil
+          shutil.copyfile(f,"previews/cx328.mp4")
+          with open("previews/cx328-validacao.json","w") as out:
+              json.dump({"status":"validado","run_id":os.environ.get("GITHUB_RUN_ID"),"duracao_segundos":dur,"resolucao":"1080x1920","audio":True,"bytes":os.path.getsize(f)},out)
+          PY
+          ffmpeg -y -loglevel error -ss 25 -i previews/cx328.mp4 -frames:v 1 previews/cx328-amostra.jpg
+      - uses: actions/upload-artifact@v4
+        with:
+          name: caixeiro-cx328-mp4
+          path: |
+            previews/cx328.mp4
+            previews/cx328-amostra.jpg
+            previews/cx328-validacao.json
+          retention-days: 7
+      - name: Disponibilizar MP4 no repositório sem publicar
+        run: |
+          set -e
+          printf '{"episodio":"cx328","status":"validado","run_id":"%s"}\n' "$GITHUB_RUN_ID" > previews/cx328-status.json
+          git add previews/cx328.mp4 previews/cx328-amostra.jpg previews/cx328-validacao.json previews/cx328-status.json
+          git commit -m "preview: MP4 cx328 validado, não publicar [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 8; done
+          exit 1

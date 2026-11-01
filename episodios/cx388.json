@@ -1,0 +1,195 @@
+{
+  "id": "cx388",
+  "ep": 388,
+  "avulso": true,
+  "titulo": "A PRIMEIRA AULA AOS SETENTA",
+  "categoria": "emocionante",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 A PRIMEIRA AULA AOS SETENTA\n\nEla entrou com uma mochila nova e pediu para chegar cedo ao primeiro dia de aula na universidade. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 A PRIMEIRA AULA AOS SETENTA\nEla entrou com uma mochila nova e pediu para chegar cedo ao primeiro dia de aula na universidade. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma estudante chamada Conceição, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "estudante",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era sexta-feira, quatro da tarde. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sexta-feira,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Uma estudante chamada Conceição explicou a situação logo depois de sentar: ela entrou com uma mochila nova e pediu para chegar cedo ao primeiro dia de aula na universidade.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "estudante",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "fábrica,",
+        "aprendi"
+      ]
+    },
+    {
+      "fala": "Conceição contava que sempre quis estudar história, mas precisou trabalhar desde muito jovem.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Conceição",
+        "contava"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Estava nervosa porque acreditava que todos na sala seriam mais novos e saberiam muito mais.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "nervosa",
+        "acreditava"
+      ]
+    },
+    {
+      "fala": "Sabe quando uma informação pequenininha vira a peça principal de um quebra-cabeça? Foi exatamente isso que aconteceu ali no meio da corrida.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "informação",
+        "pequenininha"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Perguntei qual assunto ela mais queria conhecer. Ela respondeu que pretendia pesquisar as lembranças das mulheres do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Perguntei",
+        "assunto"
+      ]
+    },
+    {
+      "fala": "A conversa ficou mais leve, mas ninguém fingiu que o problema sumiu. A pessoa decidiu resolver uma etapa por vez, sem pressão.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "conversa",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, um grupo de estudantes recepcionava os calouros e ofereceu ajuda para encontrar a sala.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "chegamos,",
+        "estudantes"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Conceição desceu segurando a mochila e disse que, pela primeira vez em décadas, tinha uma lição de casa por vontade própria.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Conceição",
+        "segurando"
+      ]
+    },
+    {
+      "fala": "A porta se fechou, a próxima corrida apareceu e eu fiquei pensando na virada que acabara de ouvir. Não era algo que eu pudesse inventar olhando o mapa.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "fechou,",
+        "próxima"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}
