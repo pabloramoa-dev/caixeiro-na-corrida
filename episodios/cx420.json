@@ -1,0 +1,324 @@
+{
+  "id": "cx420",
+  "ep": 420,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DOS TRINTA GUARDA-CHUVAS",
+  "categoria": "humor_gentileza_surpresa",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no meu carro com TRINTA guarda-chuvas num dia de sol e disse: 'Se um abrir antes da hora, estraga tudo!' 😳 A surpresa na praça revelou uma história de vinte anos. Qual gentileza você nunca esqueceu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Gentileza #PraVoce",
+  "legenda_post": "☀️☂️ Lúcia carregava trinta guarda-chuvas, mas não havia uma nuvem no céu. O destino era uma praça, e a missão era surpreender Dona Nair, que durante anos ajudou desconhecidos sem esperar nada em troca. ❤️ A sombrinha mais velha guardava a maior surpresa. Qual pequena gentileza marcou sua vida? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gentileza #Surpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com trinta guarda-chuvas num sol de rachar e avisou: se um abrir antes da hora, a surpresa acaba.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Já transportei mudança, cachorro e até bolo falso. Mas uma tempestade portátil era novidade.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Lúcia. Estava ofegante, com um guarda-chuva vermelho preso no cinto e outro debaixo do braço.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei se a previsão anunciava chuva. Ela apontou para o céu azul e respondeu: hoje vai chover lembrança.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Eu não entendi nada. E quando o passageiro fala em código, normalmente a corrida fica mais interessante.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "não"
+      ]
+    },
+    {
+      "fala": "No banco de trás havia sombrinhas amarelas, verdes, lilases e uma toda remendada com fita transparente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "banco"
+      ]
+    },
+    {
+      "fala": "Lúcia me pediu para não encostar na remendada. Disse que aquela era a peça mais importante da entrega.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "me"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, um guarda-chuva escapou da sacola e abriu sozinho. Quase me fez parar o carro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Eu disse: moça, se esse negócio decolar, a gente cobra passagem aérea. Ela riu, mas logo conferiu o relógio.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "disse:"
+      ]
+    },
+    {
+      "fala": "Precisávamos chegar à praça antes das quatro. Um grupo inteiro esperava por ela, escondido atrás do coreto.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Precisávamos",
+        "chegar"
+      ]
+    },
+    {
+      "fala": "Perguntei se era apresentação de circo. Lúcia disse que era uma homenagem para Dona Nair, a mulher da banca de jornais.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Durante vinte anos, Dona Nair emprestou guarda-chuvas a quem saía da banca e era surpreendido pela chuva.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Durante",
+        "vinte"
+      ]
+    },
+    {
+      "fala": "Ela nunca cobrava nada. Só dizia: quando o tempo melhorar, você devolve. E muita gente acabava esquecendo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "nunca"
+      ]
+    },
+    {
+      "fala": "Um dia, a banca fechou. Dona Nair se aposentou achando que ninguém lembrava das pequenas gentilezas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "dia"
+      ]
+    },
+    {
+      "fala": "Lúcia, que tinha sido uma dessas pessoas, resolveu procurar os antigos clientes e reunir os guarda-chuvas perdidos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "que"
+      ]
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. Aquela coleção colorida tinha sido espalhada pela cidade durante duas décadas.",
+      "expr": "chocada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "olhei"
+      ]
+    },
+    {
+      "fala": "Mas havia um problema: a sombrinha remendada era a primeira que Dona Nair emprestara, muitos anos atrás.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Seu dono tinha mudado de cidade. Só naquela manhã mandou a peça pelo correio, junto de uma carta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seu",
+        "dono"
+      ]
+    },
+    {
+      "fala": "Lúcia me mostrou o envelope fechado. Na frente, estava escrito: para quem me ensinou que confiança volta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "me"
+      ]
+    },
+    {
+      "fala": "Quando chegamos à praça, vi gente segurando cartazes e tentando se esconder atrás de uma árvore minúscula.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Eu falei que aquele disfarce era tão eficiente quanto esconder um caminhão atrás de uma bicicleta.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "falei"
+      ]
+    },
+    {
+      "fala": "Às quatro em ponto, Dona Nair apareceu caminhando devagar, acompanhada da neta, sem desconfiar de nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Às",
+        "quatro"
+      ]
+    },
+    {
+      "fala": "Lúcia fez um sinal. Trinta pessoas abriram os guarda-chuvas ao mesmo tempo, formando um teto colorido na praça.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "fez"
+      ]
+    },
+    {
+      "fala": "Dona Nair parou, olhou para cima e perguntou: mas de onde saíram todos esses guarda-chuvas?",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dona",
+        "Nair"
+      ]
+    },
+    {
+      "fala": "Cada pessoa contou onde estava quando recebeu ajuda. Teve entrevista de emprego, prova de escola e até primeiro encontro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Cada",
+        "pessoa"
+      ]
+    },
+    {
+      "fala": "Então Lúcia entregou a sombrinha remendada e a carta. Dona Nair reconheceu o cabo de madeira antes de abrir o envelope.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "Lúcia"
+      ]
+    },
+    {
+      "fala": "A carta dizia que aquele empréstimo tinha inspirado o dono a ajudar outras pessoas. Agora ele ensinava isso aos filhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "carta"
+      ]
+    },
+    {
+      "fala": "Na volta, pensei que guarda-chuva serve para proteger da chuva, mas gentileza também abriga a gente. Qual favor você nunca esqueceu? Comenta e segue o Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL GENTILEZA VOCÊ LEMBRA?"
+      ],
+      "destaque": [
+        "Na",
+        "volta"
+      ]
+    }
+  ]
+}
