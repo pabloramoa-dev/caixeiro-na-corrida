@@ -1,0 +1,324 @@
+{
+  "id": "cx418",
+  "ep": 418,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DOS DOZE DESPERTADORES",
+  "categoria": "misterio_humor_homenagem",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⏰ Ela entrou no meu carro com DOZE despertadores e avisou: 'Se todos tocarem às seis e meia, ninguém pode se atrasar!' 😳 Eu pensei que era uma entrega estranha… até descobrir para quem eram os relógios. Quem já fez uma gentileza que você nunca esqueceu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #StorytimeBrasil #Gentileza #PraVoce",
+  "legenda_post": "⏰🚕 Carmen carregava doze despertadores e uma missão: chegar à oficina antes que o relojoeiro Severino fechasse as portas pela última vez. Cada relógio guardava uma história — e às seis e meia a rua inteira descobriu por quê. ❤️ Quem marcou a sua vida com uma pequena gentileza? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gratidao #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com doze despertadores e avisou: às seis e meia, todos vão tocar. Se eu me atrasar, acabou a surpresa.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu pensei que fosse uma loja de relógios fazendo entrega. Mas ela segurava a sacola como se carregasse um segredo de família.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "pensei"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. E naquela corrida aprendi que alguns minutos podem valer uma vida inteira de gratidão.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Carmen. Tinha um endereço rabiscado no verso de uma conta de padaria e olhava o horário sem parar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei por que precisava de tantos despertadores. Ela respondeu: porque um só não seria suficiente para acordar a memória do seu Severino.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Fiquei imaginando o senhor dormindo tão pesado que nem uma banda de escola conseguiria acordar. Carmen soltou uma risada nervosa.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Fiquei",
+        "imaginando"
+      ]
+    },
+    {
+      "fala": "Severino era relojoeiro do bairro havia quarenta e cinco anos. Naquela noite, fecharia sua pequena oficina pela última vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Severino",
+        "era"
+      ]
+    },
+    {
+      "fala": "Ele tinha consertado relógios de casamento, de formatura e até o relógio da cozinha de um restaurante que nunca parava.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Ele",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Mas havia um detalhe que ninguém esquecia: quando alguém estava sem dinheiro, Severino sempre encontrava uma maneira de ajudar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Carmen contou que, quando era menina, sua mãe trabalhava de madrugada. O despertador quebrou justamente na semana de uma entrevista importante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Carmen",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Severino consertou a peça sem cobrar nada. Disse que um relógio não podia ser o motivo de alguém perder uma oportunidade.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Severino",
+        "consertou"
+      ]
+    },
+    {
+      "fala": "A mãe conseguiu o emprego. Anos depois, Carmen abriu sua própria padaria. E nunca esqueceu daquela gentileza.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "mãe"
+      ]
+    },
+    {
+      "fala": "Foi então que entendi: aqueles doze despertadores não eram para vender. Eram lembranças de doze famílias ajudadas pelo relojoeiro.",
+      "expr": "chocada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Foi",
+        "então"
+      ]
+    },
+    {
+      "fala": "Cada família tinha emprestado um relógio antigo para participar de uma homenagem. Mas Carmen ainda não me contou qual seria a surpresa.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Cada",
+        "família"
+      ]
+    },
+    {
+      "fala": "Quando entramos na avenida, um dos despertadores tocou antes da hora. Eu quase pulei do banco. Carmen apertou o botão e pediu desculpas.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "entramos"
+      ]
+    },
+    {
+      "fala": "Eu disse: se os outros onze resolverem conversar também, vou precisar cobrar corrida de cada um. Ela começou a rir de verdade.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Faltavam quinze minutos. Uma rua estava interditada para uma feira. Carmen olhou para mim como se eu fosse controlar o tempo.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Faltavam",
+        "quinze"
+      ]
+    },
+    {
+      "fala": "Escolhi um caminho alternativo, sem pressa e respeitando o trânsito. Ela mandou uma mensagem: estamos chegando, preparem a vitrine.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Escolhi",
+        "um"
+      ]
+    },
+    {
+      "fala": "A oficina apareceu na esquina. A porta estava meio fechada e Severino apagava as luzes, sozinho, com uma caixa de ferramentas na mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "oficina"
+      ]
+    },
+    {
+      "fala": "Na calçada havia gente escondida atrás das barracas da feira. Vi crianças, entregadores, cozinheiras e uma senhora segurando flores.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "calçada"
+      ]
+    },
+    {
+      "fala": "Carmen me pediu para esperar ali. Ela entrou na loja e disse ao relojoeiro que precisava de um último conserto urgente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Carmen",
+        "me"
+      ]
+    },
+    {
+      "fala": "Severino abriu a sacola, viu os doze relógios e ficou confuso. Perguntou como todos tinham parado no mesmo minuto.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Severino",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Era exatamente seis e meia. De repente, os despertadores tocaram juntos. Um barulho tão grande que até o vendedor de pipoca olhou.",
+      "expr": "chocada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Era",
+        "exatamente"
+      ]
+    },
+    {
+      "fala": "As pessoas saíram dos esconderijos e começaram a aplaudir. Cada uma segurava uma fotografia de um momento que Severino tinha ajudado a salvar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "As",
+        "pessoas"
+      ]
+    },
+    {
+      "fala": "Uma moça mostrou a foto da própria formatura. Um rapaz levantou a imagem do primeiro dia de trabalho. Carmen mostrou a foto da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "moça"
+      ]
+    },
+    {
+      "fala": "Severino ficou sem palavras. Então a senhora das flores entregou uma placa: aqui, o tempo nunca foi perdido quando era dedicado aos outros.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Severino",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Ele olhou para os relógios e falou: eu achei que estava fechando a oficina. Vocês acabaram de abrir um lugar enorme dentro de mim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "olhou"
+      ]
+    },
+    {
+      "fala": "Voltei ao carro com o som daqueles despertadores na cabeça. Quem marcou a sua vida com um gesto pequeno? Conta aqui e compartilha essa corrida do Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUEM MARCOU SUA VIDA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}
