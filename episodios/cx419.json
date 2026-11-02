@@ -1,0 +1,325 @@
+{
+  "id": "cx419",
+  "ep": 419,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO BOLO QUE NINGUÉM PODIA COMER",
+  "categoria": "misterio_humor_festa",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um BOLO DE TRÊS ANDARES e avisou: 'Se alguém cortar, acabou a festa!' 😳 Eu só entendi quando vi o bilhete na caixa... Você teria tentado provar? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #BoloMisterioso #Reviravolta #HumorBrasileiro #StorytimeBrasil",
+  "legenda_post": "🎂🚕 Rosana precisava entregar um bolo de astronauta antes do aniversário do sobrinho. Só havia um problema: ninguém podia comer aquele bolo! 👀 O bilhete na caixa explicava tudo — ou quase. E o tio que adorava atacar a mesa de doces chegou antes de todo mundo. 😂 Você teria desconfiado? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #FestaDeAniversario #Humor #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro abraçada a um bolo enorme e avisou: se alguém tentar cortar, a festa inteira vai por água abaixo.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu, Caixeiro, já levei de tudo no banco de trás. Mas nunca um bolo que precisava de segurança particular.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "Caixeiro"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Rosana. Estava atrasada para uma festa de aniversário e não parava de conferir o retrovisor.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "O bolo tinha três andares, cobertura azul e um enfeite de astronauta. Parecia pesado demais para caber no colo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "bolo"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela tinha medo de derrubar a sobremesa. Rosana respondeu: cair seria ruim, mas comer seria pior.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Na mesma hora imaginei uma receita experimental, daquelas que fazem o convidado pedir água antes do parabéns.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "mesma"
+      ]
+    },
+    {
+      "fala": "Ela explicou que o aniversariante era seu sobrinho Davi, apaixonado por espaço e convencido de que seria astronauta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Até aí, tudo normal. O estranho era o bilhete colado na caixa: ATENÇÃO, ESTE BOLO NÃO É O BOLO.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "ESTE BOLO NÃO É O BOLO"
+      ],
+      "destaque": [
+        "Até",
+        "aí"
+      ]
+    },
+    {
+      "fala": "Eu li duas vezes. Rosana percebeu e disse que a explicação vinha depois. Claro, comigo sempre vem depois.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "li"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal, o celular dela tocou. Uma voz perguntou: a nave já decolou? Ela respondeu: está no trânsito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Pensei que fosse algum código secreto. A verdade era menos perigosa e muito mais engraçada do que parecia.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Pensei",
+        "que"
+      ]
+    },
+    {
+      "fala": "Rosana contou que o tio do menino tinha um talento raro: desaparecer com os doces antes de todo mundo chegar.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosana",
+        "contou"
+      ]
+    },
+    {
+      "fala": "No ano anterior, ele comeu metade dos brigadeiros. No outro, achou que a mesa de lembrancinhas era um bufê.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "ano"
+      ]
+    },
+    {
+      "fala": "Por isso, a família inventou um plano: colocar um bolo falso bem na frente e esconder o verdadeiro até a hora certa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Por",
+        "isso"
+      ]
+    },
+    {
+      "fala": "Olhei para o bolo de três andares e perguntei se era de mentira. Ela bateu de leve na lateral. Fez toc, toc.",
+      "expr": "chocada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Olhei",
+        "para"
+      ]
+    },
+    {
+      "fala": "Era isopor coberto de pasta decorativa. Eu falei: então hoje eu estou transportando a sobremesa mais indestrutível da cidade.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "isopor"
+      ]
+    },
+    {
+      "fala": "Rosana riu, mas logo ficou séria. O tio tinha visto a decoração numa foto e prometido chegar cedo para provar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosana",
+        "riu"
+      ]
+    },
+    {
+      "fala": "Quando viramos a esquina, ela recebeu uma mensagem: ELE JÁ ESTÁ NA MESA, COM PRATO E GARFO.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "viramos"
+      ]
+    },
+    {
+      "fala": "Eu disse que era melhor avisar logo. Rosana respondeu que a família queria descobrir se o tio aprenderia a esperar.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Chegamos ao salão. Pela janela, vi um homem observando o bolo da mesa como quem estuda um mapa do tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Rosana entrou carregando nossa nave espacial falsa. As crianças correram para olhar o astronauta no topo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosana",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "O tio apareceu imediatamente e perguntou se podia tirar só uma fatia pequena. Rosana respondeu: depois do parabéns.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "O",
+        "tio"
+      ]
+    },
+    {
+      "fala": "Ele insistiu que era apenas para conferir o recheio. Eu quase disse que o recheio era uma bela surpresa de isopor.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "insistiu"
+      ]
+    },
+    {
+      "fala": "Então Davi chegou, olhou para o bolo e perguntou: tia, por que a nave está sem combustível? O salão caiu na risada.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "Davi"
+      ]
+    },
+    {
+      "fala": "O menino sabia de tudo. Tinha ajudado a construir a maquete e guardado o bolo verdadeiro na cozinha.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "menino"
+      ]
+    },
+    {
+      "fala": "Na hora do parabéns, trouxeram um bolo de chocolate com planetas coloridos. O tio finalmente ganhou a primeira fatia.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "hora"
+      ]
+    },
+    {
+      "fala": "Mas a melhor parte veio depois: Davi levou o bolo falso para a escola, onde virou cenário de uma feira de ciências.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "a"
+      ]
+    },
+    {
+      "fala": "Saí da corrida pensando que algumas mentiras são só brincadeiras bem planejadas. Você teria tentado cortar aquele bolo? Conta aí e segue o Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "VOCÊ CORTARIA?"
+      ],
+      "destaque": [
+        "Saí",
+        "da"
+      ]
+    }
+  ]
+}
