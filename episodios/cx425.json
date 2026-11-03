@@ -1,0 +1,324 @@
+{
+  "id": "cx425",
+  "ep": 425,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO BOLO PARA UM CINEMA FECHADO",
+  "categoria": "reencontro_misterio_memorias",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no meu carro com um bolo e uma chave de quarenta anos! O destino era um cinema fechado... e a promessa que ela fez quando criança. Você voltaria para cumprir? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Reencontro",
+  "legenda_post": "🎞️🎂 Uma chave de latão, um cinema prestes a desaparecer e uma promessa feita por cinco amigos na infância. Celina tinha uma última chance de descobrir o que o tempo guardou. Qual amigo você gostaria de reencontrar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Amizade #Memorias",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro segurando um bolo com uma vela apagada e avisou: se eu chegar depois das seis, ninguém vai lembrar quem eu sou!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Pensei que era festa surpresa, mas aquela passageira parecia mais preocupada com uma fotografia antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "O nome dela era Celina. No colo, uma caixa de bolo; na mão, um retrato de uma escola de quarenta anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "nome"
+      ]
+    },
+    {
+      "fala": "Ela pediu que eu fosse até o antigo cinema do bairro, fechado havia décadas, e não contasse a ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Quando perguntei o motivo, ela disse: hoje eu vou descobrir se uma promessa de infância ainda vale.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, o telefone tocou. Uma voz perguntou se ela havia trazido a chave de latão.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Celina abriu a bolsa e mostrou uma chave pequena, presa a uma fita vermelha já desbotada.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Ela contou que cinco colegas esconderam uma cápsula do tempo atrás da última fileira do cinema.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Prometeram voltar no mesmo dia, quarenta anos depois, com uma lembrança de cada um.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Prometeram",
+        "voltar"
+      ]
+    },
+    {
+      "fala": "Mas o cinema fechou, os amigos mudaram de cidade e as cartas pararam de chegar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "o"
+      ]
+    },
+    {
+      "fala": "Eu perguntei pelo bolo. Ela respondeu que era a receita da mãe de um dos meninos, que sempre dividia o lanche.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Quando chegamos à praça, vimos um cartaz: DEMOLIÇÃO DO CINEMA ADIADA ATÉ AMANHÃ.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Celina ficou pálida. Se a parede fosse derrubada, a cápsula desapareceria para sempre.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Um homem de boné apareceu na calçada e perguntou se ela ainda sabia a senha combinada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "homem"
+      ]
+    },
+    {
+      "fala": "Celina respondeu: a última sessão nunca termina. O homem tirou o boné e começou a rir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "respondeu:"
+      ]
+    },
+    {
+      "fala": "Era Augusto, o antigo projecionista, que tinha guardado a chave do portão durante todos aqueles anos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Augusto,"
+      ]
+    },
+    {
+      "fala": "Ele explicou que dois colegas haviam confirmado presença, mas um deles enviara apenas uma carta.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Entramos no saguão empoeirado. Os cartazes antigos ainda estavam nas paredes, como se o tempo tivesse parado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Entramos",
+        "no"
+      ]
+    },
+    {
+      "fala": "Na última fileira, a chave de Celina não girou. O cadeado havia sido trocado durante uma reforma.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "última"
+      ]
+    },
+    {
+      "fala": "Eu já estava pensando em voltar ao carro quando Augusto apontou para uma portinhola sob a poltrona.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "já"
+      ]
+    },
+    {
+      "fala": "Dentro havia uma lata azul com cinco envelopes, um ingresso de cinema e uma fotografia dobrada.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Celina abriu o primeiro envelope e encontrou uma carta que ela mesma escrevera aos onze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Na carta, a menina prometia nunca esquecer os amigos, mesmo que a vida levasse cada um para longe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "carta,"
+      ]
+    },
+    {
+      "fala": "Então ouvimos passos. Dois senhores entraram com uma pequena caixa de som e uma câmera antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "ouvimos"
+      ]
+    },
+    {
+      "fala": "Eles eram os colegas que tinham viajado para o reencontro. O quarto amigo não pôde vir, mas enviou uma gravação.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eles",
+        "eram"
+      ]
+    },
+    {
+      "fala": "Na gravação, ele contou que ainda guardava o primeiro ingresso e agradeceu pela amizade que atravessou décadas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "gravação,"
+      ]
+    },
+    {
+      "fala": "Celina acendeu a vela do bolo. No cinema vazio, os amigos cantaram baixinho e dividiram a primeira fatia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "acendeu"
+      ]
+    },
+    {
+      "fala": "Eu saí pensando que certas promessas não vencem com o tempo. E você, reencontraria um amigo de infância? Conta aqui e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL AMIGO VOCE REENCONTRARIA?"
+      ],
+      "destaque": [
+        "Eu",
+        "saí"
+      ]
+    }
+  ]
+}
