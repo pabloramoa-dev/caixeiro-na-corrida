@@ -1,0 +1,324 @@
+{
+  "id": "cx422",
+  "ep": 422,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DA CAIXA QUE NÃO PODIA SER ABERTA",
+  "categoria": "casamento_misterio_reviravolta",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "📦 Ela entrou no carro e avisou: SE O NOIVO ABRIR ESSA CAIXA, A FESTA ACABA! 😳 Três caixas, um segredo de vinte anos e uma surpresa que ninguém esperava. Você teria aberto? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Casamento",
+  "legenda_post": "💍📦 Dalva tinha uma caixa lacrada e uma missão antes do casamento de Elisa e Renato. O mistério levou todo mundo até uma antiga banca de jornais — e revelou uma homenagem emocionante. Você conseguiria guardar esse segredo? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Reviravolta #HistoriasQueEmocionam",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro segurando uma caixa de sapatos e disse: se o noivo abrir isso antes do casamento, a festa acaba!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro, e quando alguém entra com uma caixa lacrada e cara de susto, eu já sei que a corrida vai render.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Dalva. Vestia roupa de festa, mas carregava uma etiqueta escrita: NÃO ABRIR ANTES DAS SEIS.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei se era presente. Ela respondeu: é a única coisa que pode salvar esse casamento. E olhou para o relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Eu imaginei aliança perdida, documento esquecido, até um bolo desmontado. Mas ela disse que era muito pior.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "imaginei"
+      ]
+    },
+    {
+      "fala": "O noivo, Renato, tinha prometido fazer uma surpresa para a noiva, mas havia esquecido completamente o combinado.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "O",
+        "noivo,"
+      ]
+    },
+    {
+      "fala": "Dalva era a tia da noiva e guardava um segredo havia vinte anos. Naquela caixa estava a pista final.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "era"
+      ]
+    },
+    {
+      "fala": "Foi aí que o celular dela vibrou. Uma mensagem dizia: ele já encontrou a primeira caixa. Corre!",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "aí"
+      ]
+    },
+    {
+      "fala": "Perguntei quantas caixas existiam. Dalva respondeu: três. E nenhuma delas tem o que ele pensa.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "quantas"
+      ]
+    },
+    {
+      "fala": "Na primeira caixa, o noivo encontrara uma gravata velha e uma foto da infância. Ele achou que era brincadeira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Na segunda, havia um bilhete: vá até o lugar onde vocês se conheceram. Só que o lugar tinha fechado fazia anos.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Na",
+        "segunda,"
+      ]
+    },
+    {
+      "fala": "Dalva explicou que Renato e a noiva, Elisa, se conheceram numa pequena banca de jornais da praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "O dono da banca, seu Armando, costumava guardar cartas e recados dos dois quando os celulares ainda não eram comuns.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "dono"
+      ]
+    },
+    {
+      "fala": "Eu disse que parecia novela. Dalva respondeu: novela nada, motorista. Isso aqui é mais complicado que inventário de família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Quando chegamos à praça, havia um grupo de convidados esperando diante de uma banca nova, toda enfeitada.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Dalva pediu para eu estacionar longe. Disse que Renato precisava resolver o mistério sem ver a última caixa.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Dalva",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Mas o homem apareceu correndo, com a gravata torta e uma expressão de quem tinha perdido o próprio casamento.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "o"
+      ]
+    },
+    {
+      "fala": "Ele gritou: tia Dalva, onde está o anel? Ela respondeu: anel nenhum sumiu, meu filho. Você não entendeu nada!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "gritou:"
+      ]
+    },
+    {
+      "fala": "Renato mostrou a foto antiga. Atrás estava escrito: a primeira promessa foi feita aqui. Ele ficou em silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Renato",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Dalva abriu a caixa de sapatos. Dentro havia dezenas de bilhetinhos amarelados, presos por uma fita azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Eram os recados que Elisa e Renato trocavam na banca. Seu Armando guardou tudo e entregou a Dalva antes de se aposentar.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eram",
+        "os"
+      ]
+    },
+    {
+      "fala": "Renato leu um bilhete de Elisa: quando a gente casar, quero que você lembre de como começou, não só da festa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Renato",
+        "leu"
+      ]
+    },
+    {
+      "fala": "O homem ficou emocionado. Mas aí veio a reviravolta: a terceira caixa não era para ele. Era para seu Armando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "homem"
+      ]
+    },
+    {
+      "fala": "O antigo jornaleiro surgiu da esquina, apoiado na bengala, e recebeu uma miniatura da banca feita pelos dois noivos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "antigo"
+      ]
+    },
+    {
+      "fala": "Ele não sabia da homenagem. Os convidados começaram a aplaudir, e a noiva apareceu segurando um buquê de flores.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "não"
+      ]
+    },
+    {
+      "fala": "Renato abraçou Elisa e disse que quase chamou a polícia por causa das caixas. Ela respondeu: ainda bem que chamou só o Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Renato",
+        "abraçou"
+      ]
+    },
+    {
+      "fala": "Eu achei que tinha acabado, até Dalva me entregar um bilhete: motorista, você também faz parte da surpresa. Era um convite para o bolo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "achei"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas para essa corrida! E você, teria aberto a caixa antes da hora? Conta nos comentários e segue o Caixeiro para mais histórias!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "VOCÊ ABRIRIA A CAIXA?"
+      ],
+      "destaque": [
+        "Cinco",
+        "estrelas"
+      ]
+    }
+  ]
+}
