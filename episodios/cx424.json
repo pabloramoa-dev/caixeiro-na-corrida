@@ -1,0 +1,324 @@
+{
+  "id": "cx424",
+  "ep": 424,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DOS DOZE RELOGIOS PARADOS",
+  "categoria": "misterio_homenagem_estacao",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⏰ Ela entrou no carro com DOZE RELÓGIOS PARADOS e disse que um deles não podia tocar antes das cinco! 😳 O segredo da estação abandonada mudou tudo. Você guarda alguma lembrança de um lugar especial? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Misterio #FinalSurpresa #StorytimeBrasil",
+  "legenda_post": "🚕⏰ Teresa carregava doze relógios parados e uma promessa que precisava cumprir antes das cinco. Na antiga estação, cartas esquecidas revelaram como um relojoeiro marcou a vida de toda uma cidade. ❤️ Qual lugar guarda uma lembrança especial para você? História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reviravolta",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala cheia de relógios parados e avisou: se um deles tocar antes das cinco, meu avô vai descobrir tudo!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Já transportei muita encomenda estranha, mas relógios que não funcionavam me deixaram curioso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Teresa. Segurava uma mala azul e olhava o celular a cada esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela trabalhava com conserto de relógios. Ela respondeu: hoje, motorista, estou tentando consertar uma promessa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "O destino era a antiga estação ferroviária, fechada havia anos. Teresa pediu para chegarmos pela entrada lateral.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "destino"
+      ]
+    },
+    {
+      "fala": "De repente o celular apitou. A mensagem dizia: ele já saiu de casa, temos só vinte minutos!",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "De",
+        "repente"
+      ]
+    },
+    {
+      "fala": "Eu perguntei quem estava chegando. Teresa falou baixinho: o homem que nunca mais quis voltar à estação.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Seu avô, seu Dário, havia sido o relojoeiro da estação por mais de trinta anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seu",
+        "avô,"
+      ]
+    },
+    {
+      "fala": "Quando o último trem deixou de passar, ele guardou os relógios e jurou que não voltaria ao prédio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "o"
+      ]
+    },
+    {
+      "fala": "Mas Teresa descobriu uma caixa de cartas que os antigos passageiros tinham escrito para agradecer a ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "Teresa"
+      ]
+    },
+    {
+      "fala": "Uma das cartas dizia que o relógio da plataforma ajudara uma mãe a reencontrar o filho perdido numa viagem.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "das"
+      ]
+    },
+    {
+      "fala": "Outra contava que Dário sempre esperava os estudantes atrasados antes de fechar o portão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Outra",
+        "contava"
+      ]
+    },
+    {
+      "fala": "Teresa decidiu organizar uma homenagem, mas não queria que o avô pensasse que estavam tentando reabrir a estação.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Teresa",
+        "decidiu"
+      ]
+    },
+    {
+      "fala": "Na mala havia doze relógios antigos, emprestados por famílias que tinham passado por ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "mala"
+      ]
+    },
+    {
+      "fala": "Perguntei por que estavam todos parados. Ela respondeu: cada ponteiro marca a hora de uma lembrança importante.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Foi quando ouvimos um tique-taque. Um dos relógios tinha começado a funcionar sozinho no banco de trás.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "quando"
+      ]
+    },
+    {
+      "fala": "Teresa arregalou os olhos. Eu quase parei o carro, mas era só uma pequena mola que havia se soltado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Teresa",
+        "arregalou"
+      ]
+    },
+    {
+      "fala": "Ela riu de nervoso e recebeu outra mensagem: o avô mudou o caminho e está chegando antes de vocês!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "riu"
+      ]
+    },
+    {
+      "fala": "Entrei na rua lateral da estação. Havia bicicletas, flores de papel e vizinhos carregando fotografias antigas.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Entrei",
+        "na"
+      ]
+    },
+    {
+      "fala": "Um menino correu até o carro e gritou que faltava a peça principal da surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "menino"
+      ]
+    },
+    {
+      "fala": "Teresa abriu a mala, conferiu os doze relógios e percebeu que o relógio de bolso do avô tinha sumido.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Teresa",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Eu lembrei de um pequeno embrulho que ela havia deixado no porta-copos. Estava ali, escondido sob o recibo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "lembrei"
+      ]
+    },
+    {
+      "fala": "Quando entreguei o embrulho, ouvimos a voz de seu Dário perguntando por que tanta gente estava na estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "entreguei"
+      ]
+    },
+    {
+      "fala": "Teresa tentou explicar, mas o avô viu o relógio de bolso e reconheceu a gravação na tampa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Teresa",
+        "tentou"
+      ]
+    },
+    {
+      "fala": "Ele contou que aquele relógio tinha sido presente de sua esposa no primeiro dia de trabalho na ferrovia.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Os vizinhos abriram as cartas. Em vez de um trem, uma gravação de apito anunciou a hora da homenagem.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "vizinhos"
+      ]
+    },
+    {
+      "fala": "Dário acertou os ponteiros do relógio da plataforma e disse que algumas histórias continuam mesmo depois da última viagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dário",
+        "acertou"
+      ]
+    },
+    {
+      "fala": "Eu voltei ao carro com a corrida encerrada e uma pergunta: qual lugar da sua cidade merece uma homenagem dessas? Conta e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL LUGAR MERECE HOMENAGEM?"
+      ],
+      "destaque": [
+        "Eu",
+        "voltei"
+      ]
+    }
+  ]
+}
