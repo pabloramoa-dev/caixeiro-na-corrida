@@ -1,0 +1,324 @@
+{
+  "id": "cx427",
+  "ep": 427,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DAS SAPATILHAS AZUIS",
+  "categoria": "misterio_memoria_teatro",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🩰 Ela entrou no meu carro com sapatilhas azuis e uma carta: precisava abrir o armário 17 antes que esvaziassem um teatro! 😳 O que havia lá mudou tudo. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Misterio",
+  "legenda_post": "🎭🩰 Uma chave escondida, um teatro prestes a fechar e a última carta de uma mãe. Marina não imaginava o que encontraria no armário 17. Que lembrança você guardaria para sempre? ❤️ #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Memorias #Reviravolta",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma sacola de sapatos e disse: se chegarmos depois das seis, vão vender a última lembrança da minha mãe.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. A passageira, Marina, segurava um par de sapatilhas azuis como se fosse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Ela pediu para ir até um antigo teatro do centro, fechado havia muitos anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Antes de sair, mostrou uma fotografia: uma bailarina sorrindo ao lado de uma menina pequena.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "de"
+      ]
+    },
+    {
+      "fala": "A bailarina era sua mãe, Helena. E aquele teatro seria esvaziado naquela mesma tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "bailarina"
+      ]
+    },
+    {
+      "fala": "Marina explicou que a mãe costurava figurinos e dançava escondida nos intervalos dos espetáculos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Quando Helena morreu, ficou uma carta: procure o armário número dezessete antes que fechem as portas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "Helena"
+      ]
+    },
+    {
+      "fala": "Eu perguntei por que ela esperou tanto. Marina respondeu que só tinha encontrado a carta naquela manhã.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, o telefone tocou. Um funcionário avisou: o leilão começou mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Marina apertou as sapatilhas contra o peito. Eu procurei uma rota sem trânsito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "apertou"
+      ]
+    },
+    {
+      "fala": "Ela contou que tinha medo de entrar naquele teatro, porque era onde ouvira a última apresentação da mãe.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Quando paramos no sinal, notei uma etiqueta escondida na sapatilha: armário dezessete.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "paramos"
+      ]
+    },
+    {
+      "fala": "Marina virou o calçado e encontrou uma chave pequena costurada por dentro da fita.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "virou"
+      ]
+    },
+    {
+      "fala": "Mas a chave estava torta. Ela achou que não serviria e ficou em silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "a"
+      ]
+    },
+    {
+      "fala": "Chegamos ao teatro e vimos caminhões na porta. Um segurança dizia que ninguém mais podia entrar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Marina mostrou a carta. O homem reconheceu a assinatura de Helena e mudou de expressão.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Ele contou que Helena havia ajudado a salvar o teatro de um incêndio muitos anos antes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "contou"
+      ]
+    },
+    {
+      "fala": "O segurança nos conduziu até um corredor estreito, cheio de cartazes antigos e caixas de figurino.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "segurança"
+      ]
+    },
+    {
+      "fala": "O armário dezessete estava lá, coberto de poeira. Marina tentou a chave, mas a fechadura não girou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "armário"
+      ]
+    },
+    {
+      "fala": "Foi então que uma senhora apareceu atrás de nós e disse: sua mãe sempre abria essa porta cantando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "então"
+      ]
+    },
+    {
+      "fala": "Era Rosa, antiga contrarregra. Ela cantarolou uma melodia, enquanto Marina tentava outra vez.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Rosa"
+      ]
+    },
+    {
+      "fala": "A chave girou. Dentro havia um caderno de desenhos, cartas e um envelope com o nome de Marina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "chave"
+      ]
+    },
+    {
+      "fala": "Marina abriu o envelope e leu que Helena havia guardado ali algo para seu primeiro grande espetáculo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Mas não havia joias nem dinheiro. Havia um convite escrito à mão e uma lista de pessoas que acreditavam nela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "não"
+      ]
+    },
+    {
+      "fala": "Rosa explicou que todos aqueles nomes eram ex-alunos de Helena, que agora ensinavam dança pela cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "De repente, o saguão se encheu de gente. Eles tinham recebido o aviso e vieram impedir que a memória se perdesse.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "De",
+        "repente"
+      ]
+    },
+    {
+      "fala": "Marina colocou as sapatilhas sobre o palco vazio. Os antigos alunos a convidaram para uma apresentação de despedida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "colocou"
+      ]
+    },
+    {
+      "fala": "Eu saí daquela corrida pensando que algumas heranças não cabem em uma caixa. Quem marcou sua vida assim? Conta aqui e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL LEMBRANÇA VOCÊ GUARDARIA?"
+      ],
+      "destaque": [
+        "Eu",
+        "saí"
+      ]
+    }
+  ]
+}
