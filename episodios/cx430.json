@@ -1,0 +1,324 @@
+{
+  "id": "cx430",
+  "ep": 430,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO RELÓGIO PARADO",
+  "categoria": "misterio_memoria_estacao",
+  "cenario": "manha",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⏰ Ela entrou no carro com um relógio parado há 50 anos. A peça escondida numa caixa revelou o segredo da velha estação! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa #Misterio",
+  "legenda_post": "🚕⏰ Um relógio parado, uma estação esquecida e uma promessa de cinquenta anos. Rosa só queria devolver uma pequena peça, mas acabou reunindo um bairro inteiro em torno de suas lembranças. Qual lugar da sua cidade merece ser preservado? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um relógio parado e disse: se ele voltar a funcionar antes do meio-dia, alguém vai perder uma surpresa de cinquenta anos.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Minha passageira era Rosa, uma senhora que não parava de conferir o horário no celular.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "No colo, ela carregava uma caixa de madeira com o nome de uma antiga estação ferroviária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "colo,"
+      ]
+    },
+    {
+      "fala": "Perguntei para onde íamos. Rosa respondeu: à oficina do seu Miguel, mas sem ele saber que estou chegando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "para"
+      ]
+    },
+    {
+      "fala": "Achei estranho. Ela explicou que Miguel consertava relógios e estava prestes a fechar a loja para sempre.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Achei",
+        "estranho."
+      ]
+    },
+    {
+      "fala": "Naquela manhã, a prefeitura inauguraria um pequeno museu no prédio da estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Naquela",
+        "manhã,"
+      ]
+    },
+    {
+      "fala": "Rosa tinha sido bilheteira ali quando jovem, e Miguel era o responsável pelo enorme relógio da plataforma.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Ela mostrou uma fotografia amarelada: dois funcionários sorrindo debaixo do mostrador redondo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Mas na foto havia um terceiro rosto cortado. Rosa virou a imagem antes que eu pudesse perguntar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "na"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, ela revelou que o relógio parara exatamente às onze e quarenta, cinquenta anos antes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se havia acontecido algum acidente. Rosa respondeu que não: naquele minuto, o último trem partira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Miguel sempre dissera que consertaria o relógio quando a estação recebesse passageiros novamente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Miguel",
+        "sempre"
+      ]
+    },
+    {
+      "fala": "Na caixa havia uma pequena peça de metal, guardada por décadas dentro de um envelope.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "caixa"
+      ]
+    },
+    {
+      "fala": "Rosa contou que encontrara a peça por acaso ao organizar as gavetas da antiga bilheteria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Ela queria entregá-la a Miguel antes da inauguração, mas não queria estragar a homenagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "queria"
+      ]
+    },
+    {
+      "fala": "Uma obra fechou a avenida principal. Eu conhecia um caminho pela praça e seguimos por ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "obra"
+      ]
+    },
+    {
+      "fala": "Quando passamos diante da oficina, a porta estava fechada e um aviso dizia: último dia de atendimento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "passamos"
+      ]
+    },
+    {
+      "fala": "Rosa ficou desanimada. Então vi um rapaz carregando uma caixa de ferramentas pela calçada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Era Pedro, neto de Miguel. Ele reconheceu a peça e disse que o avô a procurava havia anos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Pedro,"
+      ]
+    },
+    {
+      "fala": "Mas Pedro revelou algo inesperado: Miguel não pretendia consertar o relógio sozinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "Pedro"
+      ]
+    },
+    {
+      "fala": "O velho relojoeiro havia ensinado antigos alunos a restaurar todo o mecanismo em segredo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "velho"
+      ]
+    },
+    {
+      "fala": "Rosa perguntou quem organizara o grupo. Pedro mostrou uma foto: era o terceiro funcionário da fotografia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "perguntou"
+      ]
+    },
+    {
+      "fala": "Chamava-se Antônio. Ele se mudara depois do fechamento da estação e voltara para aquela homenagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chamava-se",
+        "Antônio."
+      ]
+    },
+    {
+      "fala": "Chegamos ao museu faltando dez minutos. O relógio ainda marcava onze e quarenta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Rosa entregou a peça a Miguel. Ele encaixou o pequeno componente, enquanto os alunos aguardavam em silêncio.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Rosa",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "Quando os ponteiros se moveram, o alto-falante reproduziu o som de um trem antigo, gravado especialmente para a inauguração.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "os"
+      ]
+    },
+    {
+      "fala": "Miguel abraçou os antigos colegas e contou que o relógio nunca fora apenas uma máquina: era a memória de um bairro inteiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Miguel",
+        "abraçou"
+      ]
+    },
+    {
+      "fala": "Voltei para o carro pensando em quantas histórias ficam esperando a hora certa. Que lugar da sua cidade merece ser lembrado? Comenta e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUE LUGAR MERECE SER LEMBRADO?"
+      ],
+      "destaque": [
+        "Voltei",
+        "para"
+      ]
+    }
+  ]
+}
