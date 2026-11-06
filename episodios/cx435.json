@@ -1,0 +1,324 @@
+{
+  "id": "cx435",
+  "ep": 435,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA DA PRIMEIRA FILA",
+  "categoria": "misterio_teatro_memoria",
+  "cenario": "tarde_nublada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎭 Ela entrou no carro com uma caixa e uma promessa de 32 anos. O que tocou naquela fita mudou o destino do teatro! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reviravolta",
+  "legenda_post": "🚕🎭 Uma caixa esquecida, três ingressos antigos e uma gravação que ninguém ouvia havia décadas. Helena chegou ao teatro para cumprir uma promessa do pai e encontrou uma história que merecia ser preservada. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Teatro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando uma caixa de sapatos e disse: se eu chegar atrasada, vão vender a única coisa que meu pai deixou. Mas dentro da caixa não havia dinheiro.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela corrida começou com um pedido estranho: não ligar o rádio até passarmos pela ponte velha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Helena. Tinha quarenta e poucos anos e conferia uma fotografia amarelada a cada semáforo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Ela pediu para ir ao leilão de um antigo teatro, do outro lado da cidade. Faltavam quarenta minutos para o início.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Perguntei o que tinha na caixa. Helena respondeu: uma chave, três ingressos e uma promessa que ninguém levou a sério.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "o"
+      ]
+    },
+    {
+      "fala": "Seu pai tinha sido iluminador do teatro por décadas. Conhecia cada lâmpada, cada corredor e cada ruído do palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seu",
+        "pai"
+      ]
+    },
+    {
+      "fala": "Quando o prédio fechou, ele levou para casa uma caixa esquecida na cabine de luz. Nunca conseguiu encontrar o dono.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "o"
+      ]
+    },
+    {
+      "fala": "Na semana anterior, Helena encontrou um bilhete preso na tampa: quando as cortinas abrirem de novo, entregue isto à primeira fila.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "semana"
+      ]
+    },
+    {
+      "fala": "O bilhete não tinha assinatura. Só um desenho de um passarinho azul, igual ao que aparecia na fachada do teatro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "bilhete"
+      ]
+    },
+    {
+      "fala": "Ela pesquisou e descobriu que a fachada seria retirada naquela tarde, antes da venda do prédio para uma construtora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pesquisou"
+      ]
+    },
+    {
+      "fala": "Foi aí que Helena decidiu cumprir a promessa. Mas havia um problema: ninguém sabia quem deveria receber a caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "aí"
+      ]
+    },
+    {
+      "fala": "Na ponte velha, ela pediu para ligar o rádio. Tocava uma música instrumental que seu pai ensaiava assobiando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "ponte"
+      ]
+    },
+    {
+      "fala": "Helena contou que, quando criança, esperava o pai terminar o expediente sentada na primeira fila, sempre na poltrona sete.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Ele dizia que as melhores histórias não começam no palco, mas com alguém que decide ficar até o final.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "dizia"
+      ]
+    },
+    {
+      "fala": "Chegamos ao teatro e vimos uma fila de curiosos. Um segurança avisou que a entrada estava restrita aos compradores.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Helena mostrou a fotografia do pai. O segurança hesitou, reconheceu o uniforme antigo e chamou a responsável pelo evento.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Uma senhora de cabelos brancos apareceu. Quando viu o desenho do passarinho, ficou parada por alguns segundos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "senhora"
+      ]
+    },
+    {
+      "fala": "Ela se apresentou como Clara, antiga figurinista. Disse que aquele símbolo pertencia a um grupo de crianças que ensaiava ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "se"
+      ]
+    },
+    {
+      "fala": "Clara abriu a caixa com cuidado. Dentro havia três ingressos antigos, uma chave pequena e uma fita de gravação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Clara",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Os ingressos eram para uma apresentação cancelada por uma tempestade, trinta e dois anos antes. Nenhuma criança chegou a subir ao palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "ingressos"
+      ]
+    },
+    {
+      "fala": "Clara explicou que o pai de Helena prometera guardar a gravação do ensaio para que aquelas crianças um dia pudessem ouvi-la.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Clara",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Uma das crianças, hoje adulta, estava no teatro: era justamente a organizadora do leilão. Chamava-se Beatriz.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "das"
+      ]
+    },
+    {
+      "fala": "Beatriz encontrou um aparelho antigo na sala de som. Todos esperaram enquanto ela colocava a fita para tocar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Beatriz",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "Primeiro veio um chiado. Depois, vozes infantis cantando desafinadas e uma gargalhada que fez Clara reconhecer uma amiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Primeiro",
+        "veio"
+      ]
+    },
+    {
+      "fala": "Beatriz chorou de emoção. Sua mãe, que já não podia comparecer, tinha gravado naquela fita uma mensagem de incentivo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Beatriz",
+        "chorou"
+      ]
+    },
+    {
+      "fala": "Em vez de vender tudo naquele dia, Beatriz anunciou uma pausa para discutir a preservação da sala de espetáculos com a comunidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Em",
+        "vez"
+      ]
+    },
+    {
+      "fala": "Helena guardou a chave na palma da mão. Era da cabine de luz, onde o pai tinha protegido aquela lembrança por tantos anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "guardou"
+      ]
+    },
+    {
+      "fala": "Na volta, pensei que às vezes uma caixa pequena carrega um teatro inteiro. Você teria aberto aquela caixa? Conte nos comentários e siga o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "VOCÊ ABRIRIA?"
+      ],
+      "destaque": [
+        "Na",
+        "volta,"
+      ]
+    }
+  ]
+}
