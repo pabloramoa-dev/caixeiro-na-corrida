@@ -1,0 +1,280 @@
+{
+  "id": "cx415",
+  "ep": 415,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O PAPAGAIO QUE ENTREGOU O SEGREDO DA FESTA",
+  "categoria": "humor_curiosidade_comunidade",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🦜 Ela entrou no meu carro e avisou: 'Se o papagaio falar, a surpresa acaba!' Dois minutos depois, ele gritou o endereço do BOLO! 😂 Mas o aniversariante tinha um segredo ainda maior. Você confiaria uma surpresa a esse pássaro? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PapagaioFofoqueiro #PlotTwist #HumorBrasileiro #StorytimeBrasil",
+  "legenda_post": "🦜🚕 Neide precisava levar um papagaio para casa sem estragar a festa surpresa do vizinho. Só que Picolé sabia de tudo — e não conseguia ficar quieto! 😂 O final teve uma surpresa que ninguém esperava. Qual segredo seu bichinho contaria se pudesse falar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #FestaSurpresa #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "A passageira entrou com um papagaio coberto por um pano. Antes de sentar, avisou: se ele falar, a surpresa acaba.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Eu nem tinha ligado o carro quando ouvi da gaiola: o bolo está na garagem! E ela ficou branca na hora.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "nem"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. Já ouvi passageiro contar segredo demais, mas era a primeira vez que um pássaro entregava tudo.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A mulher se chamava Neide. Estava organizando uma festa surpresa para seu Antônio, o vizinho mais desconfiado do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "mulher"
+      ]
+    },
+    {
+      "fala": "Ela disse que o papagaio, chamado Picolé, era o único convidado que não sabia guardar segredo. Achei justo.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "disse"
+      ]
+    },
+    {
+      "fala": "No semáforo, Picolé gritou: cinquenta pessoas atrás do portão! Um motociclista olhou para mim como se eu fosse investigador.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "semáforo,"
+      ]
+    },
+    {
+      "fala": "Neide explicou que seu Antônio tinha passado trinta anos consertando bicicletas de crianças sem cobrar quando a família apertava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Neide",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Agora ele completaria setenta anos. Os antigos meninos cresceram e decidiram retribuir, mas precisavam manter tudo escondido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Agora",
+        "ele"
+      ]
+    },
+    {
+      "fala": "Perguntei por que levar o papagaio. Neide respondeu: porque ele mora com o aniversariante e precisa voltar antes dele.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Picolé soltou outra: não esquece a faixa amarela! Neide apertou a bolsa e pediu que eu ligasse o rádio.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Picolé",
+        "soltou"
+      ]
+    },
+    {
+      "fala": "Só que o rádio parecia estimular o artista. Ele começou a imitar a buzina do meu carro com uma precisão assustadora.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Só",
+        "que"
+      ]
+    },
+    {
+      "fala": "Na rua da festa, vi gente escondida atrás de vasos, bicicletas enfeitadas e um bolo enorme esperando dentro da garagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "rua"
+      ]
+    },
+    {
+      "fala": "Neide mandou eu parar longe. O plano era entregar Picolé discretamente e trazer seu Antônio até o portão.",
+      "expr": "desconfiada",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Neide",
+        "mandou"
+      ]
+    },
+    {
+      "fala": "Assim que abri a porta, o papagaio berrou: Antônio, tem festa! Uma senhora derrubou um pacote de balões de susto.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Assim",
+        "que"
+      ]
+    },
+    {
+      "fala": "Todo mundo congelou. E então apareceu seu Antônio, de chinelo, com aquela cara de quem já desconfiava até da previsão do tempo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Todo",
+        "mundo"
+      ]
+    },
+    {
+      "fala": "Neide tentou improvisar: não é festa, é uma reunião sobre bicicletas. Picolé respondeu: tem brigadeiro! Eu quase perdi a compostura.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Neide",
+        "tentou"
+      ]
+    },
+    {
+      "fala": "Seu Antônio olhou a garagem, olhou o pássaro e começou a rir. Disse que sabia da surpresa havia três dias.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seu",
+        "Antônio"
+      ]
+    },
+    {
+      "fala": "A vizinha perguntou como ele descobriu. O homem respondeu: o Picolé ensaiava parabéns todas as manhãs na minha cozinha.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "vizinha"
+      ]
+    },
+    {
+      "fala": "Mas veio a verdadeira surpresa: seu Antônio também tinha preparado algo. Ele pediu que todos entrassem na oficina dos fundos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "veio"
+      ]
+    },
+    {
+      "fala": "Lá estavam dez bicicletas restauradas, cada uma com um nome. Eram presentes para crianças que precisavam pedalar até a escola.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lá",
+        "estavam"
+      ]
+    },
+    {
+      "fala": "A turma ficou emocionada. Ele disse que festa boa era aquela que fazia alguém sair dali mais feliz do que chegou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "turma"
+      ]
+    },
+    {
+      "fala": "Neide abraçou o aniversariante. Picolé escolheu aquele momento para anunciar: agora pode cortar o bolo! E ninguém discutiu.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Neide",
+        "abraçou"
+      ]
+    },
+    {
+      "fala": "Na volta, encontrei um brigadeiro esquecido no banco. Guardei a história e devolvi o doce, porque cinco estrelas não compram confiança.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Na",
+        "volta,"
+      ]
+    },
+    {
+      "fala": "Se você tivesse um papagaio fofoqueiro, qual segredo ele entregaria primeiro? Conta nos comentários e compartilha essa corrida do Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL SEGREDO O PAPAGAIO ENTREGARIA?"
+      ],
+      "destaque": [
+        "Se",
+        "você"
+      ]
+    }
+  ]
+}

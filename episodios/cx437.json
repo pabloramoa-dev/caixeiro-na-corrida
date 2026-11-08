@@ -1,0 +1,324 @@
+{
+  "id": "cx437",
+  "ep": 437,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO QUE NINGUÉM ESPERAVA",
+  "categoria": "gratidao_escola_passageiro",
+  "cenario": "tarde_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ele entrou no carro com um bolo e disse que talvez ninguém estivesse esperando. O que aconteceu na escola mudou tudo! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #Gratidao",
+  "legenda_post": "🚕🎂 Um bolo simples, uma promessa antiga e uma homenagem inesperada. Augusto descobriu que os pequenos gestos deixam marcas enormes. Qual gesto você nunca esqueceu? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #HistoriasQueEmocionam",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro segurando um bolo de aniversário sem cobertura. E pediu que eu não perguntasse para quem era, porque a resposta me faria voltar.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ele",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Já transportei de tudo, mas nunca vi alguém proteger tanto uma caixa de papelão enquanto olhava o relógio a cada esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "O passageiro se chamava Augusto. Tinha setenta anos e queria chegar à escola municipal do bairro antes que o portão fechasse.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "passageiro"
+      ]
+    },
+    {
+      "fala": "Perguntei se havia alguma festa. Ele disse que sim, mas que talvez ninguém o estivesse esperando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Na caixa havia um bolo simples, com uma única vela azul e um cartão escrito à mão: para quem nunca desistiu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "caixa"
+      ]
+    },
+    {
+      "fala": "Augusto contou que fora zelador daquela escola durante quase quarenta anos, até se aposentar no começo do ano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Todo aniversário, ele preparava um bolo para uma pessoa especial, mesmo sem saber se ela apareceria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Todo",
+        "aniversário,"
+      ]
+    },
+    {
+      "fala": "Eu achei que fosse um antigo amor. Ele respondeu que não, e apertou o cartão contra o peito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "achei"
+      ]
+    },
+    {
+      "fala": "Quando passamos pela praça, pediu que eu reduzisse. Apontou para um banco de madeira onde costumava esperar o ônibus depois do expediente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "passamos"
+      ]
+    },
+    {
+      "fala": "Foi ali, disse, que conheceu um garoto que chegava à escola antes de todo mundo, sempre com o uniforme amassado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "ali,"
+      ]
+    },
+    {
+      "fala": "O menino se chamava Davi. Estudava à noite e trabalhava de manhã para ajudar em casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "menino"
+      ]
+    },
+    {
+      "fala": "Augusto percebeu que Davi nunca participava das comemorações. Quando havia bolo, o garoto dizia que não gostava de doce.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "percebeu"
+      ]
+    },
+    {
+      "fala": "Um dia, o zelador descobriu o motivo: Davi guardava o pedaço para levar à irmã pequena.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "dia,"
+      ]
+    },
+    {
+      "fala": "Desde então, Augusto separava duas fatias em uma caixa, sem contar a ninguém, e deixava perto da saída.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Desde",
+        "então,"
+      ]
+    },
+    {
+      "fala": "Os anos passaram. Davi terminou os estudos, foi embora da cidade e as notícias ficaram cada vez mais raras.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "anos"
+      ]
+    },
+    {
+      "fala": "Mas Augusto manteve a tradição: todo ano, na mesma data, levava um bolo para lembrar o aniversário da menina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "Augusto"
+      ]
+    },
+    {
+      "fala": "Perguntei por que ele continuava fazendo isso. Ele respondeu: porque uma promessa não precisa de plateia para valer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Naquele instante, o celular dele vibrou. Era uma mensagem curta, enviada de um número desconhecido: sala sete, às quatro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Naquele",
+        "instante,"
+      ]
+    },
+    {
+      "fala": "Augusto ficou pálido. A sala sete era a antiga biblioteca, fechada para reforma desde o último semestre.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Chegamos à escola faltando cinco minutos. O portão estava aberto, mas o pátio parecia vazio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "à"
+      ]
+    },
+    {
+      "fala": "Ele pediu que eu esperasse. Eu disse que podia acompanhá-lo até a porta, porque a caixa já estava escorregando de suas mãos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Na entrada da biblioteca, ouvimos alguém ensaiando uma música num violão desafinado. Augusto reconheceu a melodia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "entrada"
+      ]
+    },
+    {
+      "fala": "Era a mesma canção que Davi tocava nos intervalos para acalmar a irmã enquanto esperavam a mãe sair do trabalho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "a"
+      ]
+    },
+    {
+      "fala": "A porta se abriu. Um homem de terno simples apareceu, acompanhado de uma mulher segurando uma fotografia antiga.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "porta"
+      ]
+    },
+    {
+      "fala": "Era Davi, agora professor da escola. A mulher era sua irmã, que havia escolhido aquela tarde para agradecer pessoalmente.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Davi,"
+      ]
+    },
+    {
+      "fala": "Os alunos tinham organizado uma homenagem secreta. Na parede, uma frase dizia: quem cuidou da nossa infância também merece ser lembrado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "alunos"
+      ]
+    },
+    {
+      "fala": "Augusto colocou o bolo na mesa e apagou a vela com os dois irmãos. Disse que aquele era o primeiro aniversário em que não precisava esperar sozinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "colocou"
+      ]
+    },
+    {
+      "fala": "Voltei ao carro pensando que certas corridas não são sobre chegar no horário, mas sobre chegar para alguém. Eu sou o Caixeiro. Qual gesto simples você nunca esqueceu? Comente e siga para mais histórias.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL GESTO?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}

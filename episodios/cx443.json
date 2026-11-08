@@ -1,0 +1,357 @@
+{
+  "id": "cx443",
+  "ep": 443,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "DOIS BOLOS NA CASA AMARELA",
+  "categoria": "reencontro_familia_passageiro",
+  "cenario": "tarde_chuvosa",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela levou um bolo até uma casa onde ninguém morava. Mas a luz estava acesa! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🚕🎂 Uma casa amarela, dois bolos e uma conversa adiada por quatro anos. Você daria o primeiro passo? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um bolo de aniversário e pediu para ir a um endereço onde ninguém morava. Só que alguém tinha deixado a luz acesa.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E antes de contar quem abriu aquela porta, preciso explicar por que ela estava tremendo tanto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Marina. Trazia uma caixa branca no colo e conferia o relógio a cada esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei se era festa surpresa. Ela respondeu que não sabia se haveria alguém para receber o bolo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Marina contou que seu irmão André tinha se mudado para outra cidade depois de uma discussão de família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Durante quatro anos, os dois só trocaram mensagens curtas em datas especiais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Durante",
+        "quatro"
+      ]
+    },
+    {
+      "fala": "Naquela manhã, ela recebeu uma fotografia antiga de uma casa amarela, sem nenhuma explicação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Naquela",
+        "manhã,"
+      ]
+    },
+    {
+      "fala": "No verso da fotografia estava escrito: 'Se ainda lembra da promessa, venha às sete'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "verso"
+      ]
+    },
+    {
+      "fala": "Marina reconheceu a letra do irmão e lembrou de uma brincadeira que faziam quando crianças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "reconheceu"
+      ]
+    },
+    {
+      "fala": "Todo aniversário, um preparava um bolo para o outro, mesmo quando o dinheiro mal dava para comprar velas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Todo",
+        "aniversário,"
+      ]
+    },
+    {
+      "fala": "Mas o endereço da foto era a antiga casa da avó, vendida havia muito tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "o"
+      ]
+    },
+    {
+      "fala": "Eu perguntei por que ela tinha aceitado o convite sem confirmar nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Ela disse que tinha medo de perder outra chance de conversar com André.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "disse"
+      ]
+    },
+    {
+      "fala": "No caminho, a chuva começou forte. Marina protegeu a caixa do bolo com a própria jaqueta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "caminho,"
+      ]
+    },
+    {
+      "fala": "Quando chegamos à rua, a casa amarela estava lá, com o portão recém-pintado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Marina ficou imóvel. A luz da varanda estava acesa, mas não havia carros estacionados.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Ela me pediu para esperar alguns minutos. Eu concordei e desliguei o motor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "me"
+      ]
+    },
+    {
+      "fala": "Marina tocou a campainha uma vez. Depois outra. Ninguém respondeu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "tocou"
+      ]
+    },
+    {
+      "fala": "Foi então que ela viu um bilhete preso ao portão: 'Entre pela lateral. A surpresa está no quintal'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "então"
+      ]
+    },
+    {
+      "fala": "Eu vi Marina respirar fundo e caminhar devagar até a passagem ao lado da casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "vi"
+      ]
+    },
+    {
+      "fala": "De repente, ouvi uma gargalhada. Era a primeira vez que ela ria desde que entrou no carro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "De",
+        "repente,"
+      ]
+    },
+    {
+      "fala": "André apareceu segurando uma bandeja de brigadeiros. Atrás dele estavam dois primos e a tia deles.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "André",
+        "apareceu"
+      ]
+    },
+    {
+      "fala": "Ele tinha alugado a casa por um dia, com autorização do proprietário, para recriar os aniversários da infância.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Mas ainda faltava uma coisa: André também tinha preparado um bolo, exatamente como faziam quando pequenos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "ainda"
+      ]
+    },
+    {
+      "fala": "Os dois ficaram olhando para os bolos e começaram a conversar, sem saber por onde começar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "dois"
+      ]
+    },
+    {
+      "fala": "Marina disse que sentia saudade. André respondeu que também, e pediu desculpas pela distância.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Não foi uma reconciliação mágica. Foi só o primeiro diálogo sincero depois de muito tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Não",
+        "foi"
+      ]
+    },
+    {
+      "fala": "Antes de eu ir embora, Marina voltou ao carro e me entregou um brigadeiro embrulhado num guardanapo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "de"
+      ]
+    },
+    {
+      "fala": "Ela disse: 'Obrigada por esperar. Eu precisava de coragem para tocar aquela campainha'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "disse:"
+      ]
+    },
+    {
+      "fala": "Eu segui viagem pensando que às vezes a corrida mais importante termina antes de o taxímetro parar.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "VOCÊ VOLTARIA?"
+      ],
+      "destaque": [
+        "Eu",
+        "segui"
+      ]
+    },
+    {
+      "fala": "E você? Já retomou uma conversa que parecia impossível? Conta nos comentários e acompanha a próxima corrida do Caixeiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "E",
+        "você?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+name: Publicar episódio
+
+# 3 vídeos por dia (8h, 12h, 20h de Brasília). O das 20h também vai pros Stories.
+# Junto, o WhatsApp do Pablo recebe o link do MP4 + a descrição pro TikTok.
+
+on:
+  schedule:
+    - cron: "7 11 * * *"    # 08:07 Brasília
+    - cron: "7 15 * * *"    # 12:07 Brasília
+    - cron: "7 23 * * *"    # 20:07 Brasília — Reel + Story
+  workflow_dispatch:
+    inputs:
+      horario:
+        description: "manha/almoco = só Reel · noite = Reel + Story"
+        type: choice
+        options: [manha, almoco, noite]
+        default: almoco
+      dry_run:
+        description: "Ensaio: valida tudo e NÃO publica nem manda WhatsApp"
+        type: boolean
+        default: true
+
+concurrency:
+  group: caixeiro-publicacao
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt
+      - name: Qual horário?
+        id: h
+        run: |
+          case "${{ inputs.horario || github.event.schedule }}" in
+            manha|"7 11 * * *")  h=manha ;;
+            almoco|"7 15 * * *") h=almoco ;;
+            *)                   h=noite ;;
+          esac
+          echo "h=$h" >> $GITHUB_OUTPUT
+      - name: Publicar
+        env:
+          IG_USER_ID_CAIXEIRO: ${{ secrets.IG_USER_ID_CAIXEIRO }}
+          IG_ACCESS_TOKEN_CAIXEIRO: ${{ secrets.IG_ACCESS_TOKEN_CAIXEIRO }}
+          WHATSAPP_NUMERO: ${{ secrets.WHATSAPP_NUMERO }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          RAW_BASE_URL: ${{ vars.RAW_BASE_URL }}
+          GRAPH_API_VERSION: ${{ vars.GRAPH_API_VERSION }}
+          PUBLICAR_ATIVO: ${{ vars.PUBLICAR_ATIVO }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && (inputs.dry_run && 'true' || 'false') || 'false' }}
+        run: python -m src.publicar --horario ${{ steps.h.outputs.h }}
+      - name: Registrar e limpar mídia antiga
+        if: success()
+        run: |
+          python motor/limpar_reels.py --dias 4 --alvo 9
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add -A conteudo/publicados.json reels/
+          git diff --cached --quiet && exit 0
+          git commit -m "publicado: ${{ steps.h.outputs.h }} [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 6; done
+          exit 1

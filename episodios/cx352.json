@@ -1,0 +1,202 @@
+{
+  "id": "cx352",
+  "ep": 352,
+  "avulso": true,
+  "titulo": "A PASSAGEIRA QUE ESTAVA FUGINDO",
+  "categoria": "surpresa",
+  "cenario": "noite",
+  "legenda_post": "🚗 A PASSAGEIRA QUE ESTAVA FUGINDO. Uma mulher entrou no meu carro dizendo estou fugindo de todo mundo e me pediu que não revelasse o destino a ninguém.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A PASSAGEIRA QUE ESTAVA FUGINDO. Uma mulher entrou no meu carro dizendo estou fugindo de todo mundo e me pediu que não revelasse o destino a ninguém. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma mulher entrou no meu carro dizendo estou fugindo de todo mundo e me pediu que não revelasse o destino a ninguém.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "mulher"
+      ]
+    },
+    {
+      "fala": "Era sexta, seis da noite. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma passageira chamada Helena, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sexta,",
+        "noite."
+      ]
+    },
+    {
+      "fala": "Helena segurava uma sacola de presentes e parecia mais cansada do que assustada, então perguntei apenas se estava segura.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Helena",
+        "segurava"
+      ]
+    },
+    {
+      "fala": "Ela explicou que os amigos tinham organizado surpresas o mês inteiro e que precisava de uma tarde tranquila para descansar.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "explicou",
+        "amigos"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "A última surpresa fora um grupo de mensagens com vinte pessoas tentando decidir onde ela deveria comemorar o aniversário.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "última",
+        "surpresa"
+      ]
+    },
+    {
+      "fala": "No caminho, o celular não parava de vibrar. Helena colocou as notificações no silencioso e pediu que seguíssemos até uma livraria.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "caminho,",
+        "celular"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, viu pela janela uma amiga segurando um bolo pequeno e quase pediu que eu desse outra volta no quarteirão.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "A amiga se aproximou sem festa nem plateia. Trouxe apenas o livro que Helena queria e disse que podia ir embora se preferisse.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "aproximou",
+        "plateia."
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Helena riu, desceu e explicou que agradecia o carinho, mas precisava aprender a dizer quando estava cansada.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Helena",
+        "desceu"
+      ]
+    },
+    {
+      "fala": "As duas escolheram uma mesa silenciosa e compartilharam o bolo sem fotografia obrigatória, sem música e sem surpresa escondida.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "escolheram",
+        "silenciosa"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Naquele dia a fuga mais difícil não era de ninguém. Era da obrigação de parecer feliz com toda homenagem que os outros inventam.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Naquele",
+        "difícil"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 47,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

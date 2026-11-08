@@ -1,0 +1,325 @@
+{
+  "id": "cx421",
+  "ep": 421,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO CAMPEONATO DE SILÊNCIO",
+  "categoria": "humor_biblioteca_reviravolta",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🐔 Ela entrou no meu carro com uma GALINHA DE BORRACHA e disse: 'Se isso gritar antes das sete, a biblioteca fecha!' 😳 O que aconteceu no Campeonato de Silêncio ninguém conseguiu segurar! Você já riu quando não podia? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #PlotTwist #Biblioteca #StorytimeBrasil",
+  "legenda_post": "📚🐔 Uma bibliotecária desesperada, uma galinha de borracha que não parava de gritar e um campeonato em que ninguém podia rir. Marlene queria salvar a biblioteca do bairro, mas seu sobrinho Tico tinha outros planos. 😂 O final dessa corrida provou que uma boa história não precisa de silêncio. Você já riu na hora errada? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #Leitura #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma galinha de borracha e sussurrou: se isso gritar antes das sete, a biblioteca fecha!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Já ouvi muita história estranha no banco de trás, mas aquela galinha parecia saber demais.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira era Marlene, bibliotecária havia vinte e seis anos. Segurava uma placa enorme: PROIBIDO RIR.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei se a biblioteca tinha virado delegacia. Ela pediu silêncio e colocou a galinha dentro de uma caixa.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Cinco segundos depois, a caixa fez có-có-có. Marlene quase pulou do banco. Eu quase perdi a saída.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Cinco",
+        "segundos"
+      ]
+    },
+    {
+      "fala": "Ela explicou que organizava o primeiro Campeonato de Silêncio do bairro. O prêmio era um ano de livros emprestados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Eu disse que livro emprestado já era de graça. Marlene respondeu: então o prêmio é conseguir alguém lá dentro!",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "A biblioteca andava vazia. O pessoal só passava na porta para usar a sombra da árvore e carregar celular.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "biblioteca"
+      ]
+    },
+    {
+      "fala": "Para atrair crianças, ela inventou uma disputa: quem aguentasse mais tempo sem rir ganharia uma surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Para",
+        "atrair"
+      ]
+    },
+    {
+      "fala": "O problema era seu sobrinho Tico, de nove anos, responsável pelos desafios. Ele desaparecera com a lista das provas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "problema"
+      ]
+    },
+    {
+      "fala": "Marlene suspeitava de sabotagem. Antes de sair, Tico deixara um bilhete: a regra número um está errada.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marlene",
+        "suspeitava"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela tinha brigado com o menino. Ela disse que só mandara parar de fazer piada entre as estantes.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "No semáforo, o celular tocou. Era Tico. Ele disse apenas: tia, confia em mim e não abre a caixa!",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "semáforo,"
+      ]
+    },
+    {
+      "fala": "Foi aí que a galinha gritou outra vez. Marlene me olhou como se eu tivesse apertado algum botão secreto.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "aí"
+      ]
+    },
+    {
+      "fala": "Eu jurei inocência. A galinha estava mais falante que comentarista de futebol em dia de clássico.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "jurei"
+      ]
+    },
+    {
+      "fala": "Chegamos às seis e cinquenta e oito. Havia uma fila de crianças na porta, cada uma segurando um livro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "às"
+      ]
+    },
+    {
+      "fala": "Na entrada, um cartaz dizia: CAMPEONATO DE SILÊNCIO. Mas alguém colara uma seta apontando para o salão de histórias.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "entrada,"
+      ]
+    },
+    {
+      "fala": "Marlene abriu a caixa para conferir o prêmio. Dentro havia a galinha, um microfone e outro bilhete dobrado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marlene",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "O bilhete dizia: se ninguém rir, ninguém vai descobrir por que ler é tão bom. Ela ficou parada, pensando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "bilhete"
+      ]
+    },
+    {
+      "fala": "De repente, Tico apareceu fantasiado de detetive. Pediu a todos que ficassem sérios e anunciou o primeiro desafio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "De",
+        "repente,"
+      ]
+    },
+    {
+      "fala": "Ele leu uma história sobre um rei que confundia seu trono com uma privada. A primeira criança soltou uma gargalhada.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "leu"
+      ]
+    },
+    {
+      "fala": "Logo a sala inteira ria. Marlene tentou lembrar as regras, mas até ela teve que esconder o rosto atrás do livro.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Logo",
+        "a"
+      ]
+    },
+    {
+      "fala": "Tico virou a placa. No verso estava escrito: AQUI PODE RIR. O campeonato era, na verdade, uma noite de leitura.",
+      "expr": "chocada",
+      "arte": [
+        "manchete_v",
+        "AQUI PODE RIR"
+      ],
+      "destaque": [
+        "Tico",
+        "virou"
+      ]
+    },
+    {
+      "fala": "O menino explicou que queria mostrar à tia que as histórias também fazem barulho, amizade e vontade de voltar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "menino"
+      ]
+    },
+    {
+      "fala": "Marlene pegou o microfone, agradeceu ao sobrinho e anunciou que quem quisesse podia escolher um livro para levar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marlene",
+        "pegou"
+      ]
+    },
+    {
+      "fala": "Na saída, a fila ainda estava grande. Dessa vez, ninguém procurava tomada: queriam fazer a carteirinha da biblioteca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "saída,"
+      ]
+    },
+    {
+      "fala": "Eu recebi a galinha como pagamento simbólico. Apertei sem querer, e ela gritou justo quando Marlene pediu silêncio.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "recebi"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa corrida! E você: já riu num lugar onde não podia? Conta aqui embaixo!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "VOCÊ JÁ RIU ONDE NÃO PODIA?"
+      ],
+      "destaque": [
+        "Cinco",
+        "estrelas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "cx339",
+  "ep": 339,
+  "avulso": true,
+  "titulo": "O PAI VESTIDO DE PLANETA",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "🚗 O PAI VESTIDO DE PLANETA. Um pai entrou no carro vestido de Saturno e jurou que a professora tinha escrito fantasia obrigatória no bilhete da escola.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 O PAI VESTIDO DE PLANETA. Um pai entrou no carro vestido de Saturno e jurou que a professora tinha escrito fantasia obrigatória no bilhete da escola. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um pai entrou no carro vestido de Saturno e jurou que a professora tinha escrito fantasia obrigatória no bilhete da escola.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Era quinta, oito da noite. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi um pai chamado Douglas, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quinta,",
+        "noite."
+      ]
+    },
+    {
+      "fala": "Douglas trabalhava de madrugada e só conseguiu ler a mensagem enquanto preparava o café do filho.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Douglas",
+        "trabalhava"
+      ]
+    },
+    {
+      "fala": "Ele passou a manhã colando círculos de papelão numa camisa azul, achando que faria uma surpresa bonita na feira de ciências.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "passou",
+        "colando"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "No caminho, a criança ligou e perguntou por que o pai estava levando aquele planeta para uma reunião de responsáveis.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "caminho,",
+        "criança"
+      ]
+    },
+    {
+      "fala": "Douglas abriu o grupo da turma e percebeu que o bilhete se referia a um trabalho de maquete, não a roupas temáticas.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "Douglas",
+        "percebeu"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Ele quis voltar para casa. Eu sugeri que perguntasse ao filho se o erro realmente o deixava constrangido.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "voltar",
+        "sugeri"
+      ]
+    },
+    {
+      "fala": "O menino respondeu rindo que o pai podia ir assim, mas precisava explicar por que Saturno estava andando de aplicativo.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "menino",
+        "respondeu"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Na escola, a professora convidou Douglas para abrir a feira contando como montou os anéis com material reciclado.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "escola,",
+        "professora"
+      ]
+    },
+    {
+      "fala": "Outros responsáveis pediram fotos, e o filho fez questão de apresentar o pai como meu Saturno particular.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "Outros",
+        "responsáveis"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Voltei para o carro pensando que alguns erros não precisam ser escondidos. Às vezes basta explicar e rir junto.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Voltei",
+        "pensando"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 18,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

@@ -1,0 +1,324 @@
+{
+  "id": "cx434",
+  "ep": 434,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CARTA QUE ESPEROU TRINTA ANOS",
+  "categoria": "reencontro_carta_clube",
+  "cenario": "manha_chuvosa",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "✉️ Ela entrou no carro com uma carta perdida há 30 anos. O destinatário apareceu onde ninguém esperava! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #CartaPerdida",
+  "legenda_post": "🚕✉️ Uma carta esquecida num livro, um muro cheio de estrelas e uma história que esperou trinta anos para terminar. Você acredita em reencontros inesperados? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um envelope escrito NÃO ENTREGUE AO DESTINATÁRIO. Quando vi o endereço, percebi que a carta era para alguém que já não morava lá havia trinta anos.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela corrida começou numa manhã de sexta-feira, com chuva fina e uma passageira olhando o relógio sem parar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Ela se chamava Elisa, trabalhava numa biblioteca e segurava o envelope como se ele pudesse fugir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "se"
+      ]
+    },
+    {
+      "fala": "O destino era um antigo clube de bairro, fechado para reforma, onde aconteceria uma reunião de ex-moradores.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "destino"
+      ]
+    },
+    {
+      "fala": "Perguntei por que uma carta tão velha precisava ser entregue naquele dia. Ela respondeu: porque hoje vão derrubar a última parede.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Elisa contou que encontrou o envelope dentro de um livro devolvido à biblioteca depois de décadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Na frente estava escrito: Para o menino que desenhava estrelas no muro. Sem nome, sem número, só o endereço do clube.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "frente"
+      ]
+    },
+    {
+      "fala": "Ela pensou em jogar fora. Mas dentro do livro havia uma fotografia do mesmo muro, cheio de estrelas pintadas à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pensou"
+      ]
+    },
+    {
+      "fala": "Quando mostrou a foto ao bibliotecário mais antigo, ele reconheceu o lugar na mesma hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "O clube tinha sido abrigo de crianças durante uma enchente. Muita gente perdeu objetos e documentos naquele ano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "clube"
+      ]
+    },
+    {
+      "fala": "Elisa passou a semana procurando moradores antigos. Descobriu que um garoto chamado Davi pintava estrelas para acalmar os menores.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "passou"
+      ]
+    },
+    {
+      "fala": "Mas Davi havia mudado de cidade antes de receber uma despedida. Ninguém sabia onde ele estava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "Davi"
+      ]
+    },
+    {
+      "fala": "Foi quando a diretora da biblioteca encontrou um caderno de recados guardado numa caixa de doações.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "quando"
+      ]
+    },
+    {
+      "fala": "Uma página dizia: se um dia ele voltar, digam que as estrelas ainda estão aqui. A assinatura estava borrada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "página"
+      ]
+    },
+    {
+      "fala": "Elisa decidiu levar o envelope ao encontro de antigos moradores. Talvez alguém reconhecesse a letra.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "decidiu"
+      ]
+    },
+    {
+      "fala": "Chegando perto do clube, vimos operários e uma faixa anunciando a reforma. A parede das estrelas estava coberta por uma lona.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegando",
+        "perto"
+      ]
+    },
+    {
+      "fala": "Ela ficou em silêncio. Disse que talvez tivesse chegado tarde demais para descobrir a história.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "Eu sugeri que entrássemos e perguntássemos antes de desistir. Afinal, uma carta não atravessa trinta anos à toa.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sugeri"
+      ]
+    },
+    {
+      "fala": "Uma senhora chamada Nair recebeu a fotografia e levou a mão à boca. Conhecia cada estrela daquele desenho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "senhora"
+      ]
+    },
+    {
+      "fala": "Foi Nair quem escreveu a carta. Na enchente, Davi havia ajudado seu filho pequeno a encontrar a família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "Nair"
+      ]
+    },
+    {
+      "fala": "Ela nunca conseguiu agradecer. Escreveu a carta e colocou num livro que seria entregue ao menino, mas o livro se perdeu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "nunca"
+      ]
+    },
+    {
+      "fala": "Perguntei se Davi ainda poderia aparecer. Nair respondeu que tinha tentado procurá-lo muitas vezes, sem sucesso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Então um homem de uniforme de pedreiro se aproximou. Estava ajudando na reforma e ouvira o nome Davi.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "um"
+      ]
+    },
+    {
+      "fala": "Ele mostrou uma pequena estrela tatuada no chaveiro, não na pele, que carregava desde menino. Era o desenho que fazia no muro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Era o próprio Davi. Tinha voltado à cidade para trabalhar na obra sem imaginar que aquele lugar guardava sua história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "o"
+      ]
+    },
+    {
+      "fala": "Nair entregou o envelope com as mãos trêmulas. Davi leu em silêncio e respondeu: eu também precisava saber que vocês ficaram bem.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Nair",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "O engenheiro então revelou que a parede seria restaurada, não demolida. As estrelas fariam parte de um espaço de memória do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "engenheiro"
+      ]
+    },
+    {
+      "fala": "Voltei ao carro pensando que algumas mensagens demoram, mas ainda chegam na hora certa. Você guardaria uma carta por trinta anos? Comente e siga o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "VOCÊ GUARDARIA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}

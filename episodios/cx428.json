@@ -1,0 +1,324 @@
+{
+  "id": "cx428",
+  "ep": 428,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DAS CARTAS ATRASADAS",
+  "categoria": "misterio_reencontro_cartas",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "📮 Ela entrou no meu carro com uma caixa de cartas que ninguém recebeu! Uma delas esperou quarenta anos para chegar. 🚕 Você entregaria uma carta antiga? #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa #Cartas",
+  "legenda_post": "📮🚕 Uma caixa de cartas esquecidas, uma biblioteca prestes a abrir e uma homenagem que quase não aconteceu. Elisa precisava cumprir a última missão do avô. Qual mensagem você gostaria de receber? ❤️ #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Memorias",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma caixa de cartas e disse: se a ponte fechar, cinquenta pessoas vão esperar por alguém que nunca aparece.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro, e naquela tarde a passageira se chamava Elisa. Ela não tirava os olhos do relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Perguntei para onde íamos. Ela respondeu: para a velha biblioteca da estação, antes das quatro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "para"
+      ]
+    },
+    {
+      "fala": "A caixa estava amarrada com barbante vermelho. Em cima, uma etiqueta dizia: devolver somente quando as luzes acenderem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "caixa"
+      ]
+    },
+    {
+      "fala": "Elisa contou que o avô fora carteiro e guardara cartas que ninguém teve coragem de entregar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Naquele dia, a prefeitura inauguraria uma biblioteca no antigo prédio dos correios.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Naquele",
+        "dia"
+      ]
+    },
+    {
+      "fala": "Mas havia um problema: o nome do avô de Elisa tinha sido retirado da homenagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Ela não queria discutir com ninguém. Só queria entregar a última caixa que ele deixou.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "não"
+      ]
+    },
+    {
+      "fala": "Quando passamos pela praça, uma senhora acenou ao ver o barbante vermelho pela janela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "passamos"
+      ]
+    },
+    {
+      "fala": "Elisa pediu para parar. A senhora perguntou se aquela era a caixa do seu Augusto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Antes de responder, Elisa ouviu algo inesperado: ele me prometeu uma carta quarenta anos atrás.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "de"
+      ]
+    },
+    {
+      "fala": "A passageira abriu a tampa. Havia dezenas de envelopes, cada um com uma data e um nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Procuramos juntos até encontrar um envelope amarelado com o nome da senhora: dona Célia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Procuramos",
+        "juntos"
+      ]
+    },
+    {
+      "fala": "Ela leu em silêncio e depois contou que a carta era um pedido de desculpas de uma antiga amiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "leu"
+      ]
+    },
+    {
+      "fala": "Mas o relógio avançava. Elisa ainda precisava chegar à cerimônia com as outras cartas.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "o"
+      ]
+    },
+    {
+      "fala": "Seguimos por uma rua estreita, onde uma obra havia bloqueado o caminho para a estação.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seguimos",
+        "por"
+      ]
+    },
+    {
+      "fala": "Elisa ficou aflita. Eu sugeri a entrada lateral, que conhecia das corridas pela região.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "No trajeto, ela revelou que o avô sempre dizia: uma notícia boa também pode chegar atrasada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "trajeto"
+      ]
+    },
+    {
+      "fala": "Quando estacionamos, o auditório já estava cheio. Um funcionário disse que a cerimônia começara.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "estacionamos"
+      ]
+    },
+    {
+      "fala": "Elisa segurou a caixa e entrou. Ninguém reconheceu o nome de Augusto no programa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "segurou"
+      ]
+    },
+    {
+      "fala": "Então dona Célia apareceu na porta, acompanhada de outras pessoas que receberam cartas naquela tarde.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "dona"
+      ]
+    },
+    {
+      "fala": "Cada uma tinha uma história: reconciliações, agradecimentos e convites que atravessaram décadas.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Cada",
+        "uma"
+      ]
+    },
+    {
+      "fala": "O diretor da biblioteca interrompeu o discurso e pediu que Elisa subisse ao pequeno palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "diretor"
+      ]
+    },
+    {
+      "fala": "Ela explicou que o avô nunca guardou aquelas cartas por descuido. Procurava destinatários que tinham mudado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Na última folha da caixa havia uma mensagem escrita por ele: nenhuma história merece ficar sem resposta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "última"
+      ]
+    },
+    {
+      "fala": "O diretor anunciou que a sala de leitura passaria a levar o nome de Augusto, o carteiro.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "diretor"
+      ]
+    },
+    {
+      "fala": "Elisa olhou para mim pela janela e ergueu o último envelope, agora destinado à própria biblioteca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Elisa",
+        "olhou"
+      ]
+    },
+    {
+      "fala": "Saí daquela corrida lembrando que uma palavra pode mudar uma vida, mesmo depois de anos. Você entregaria uma carta antiga? Comenta e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "VOCÊ ENTREGARIA ESSA CARTA?"
+      ],
+      "destaque": [
+        "Saí",
+        "daquela"
+      ]
+    }
+  ]
+}

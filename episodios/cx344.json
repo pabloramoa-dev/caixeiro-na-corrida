@@ -1,0 +1,202 @@
+{
+  "id": "cx344",
+  "ep": 344,
+  "avulso": true,
+  "titulo": "A FRASE ERRADA NO AVIÃO",
+  "categoria": "viagem",
+  "cenario": "noite",
+  "legenda_post": "🚗 A FRASE ERRADA NO AVIÃO. Uma mulher entrou no carro segurando um pedido de desculpas escrito num guardanapo e dizendo que falou a pior frase possível num avião.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A FRASE ERRADA NO AVIÃO. Uma mulher entrou no carro segurando um pedido de desculpas escrito num guardanapo e dizendo que falou a pior frase possível num avião. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma mulher entrou no carro segurando um pedido de desculpas escrito num guardanapo e dizendo que falou a pior frase possível num avião.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "mulher"
+      ]
+    },
+    {
+      "fala": "Era quinta, oito da noite. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma passageira chamada Miriam, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quinta,",
+        "noite."
+      ]
+    },
+    {
+      "fala": "Miriam estava nervosa com a viagem e tentou fazer uma piada quando a comissária perguntou se precisava de alguma coisa.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Miriam",
+        "estava"
+      ]
+    },
+    {
+      "fala": "A frase saiu atravessada, pareceu uma reclamação grosseira e a profissional se afastou sem responder.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "atravessada,",
+        "pareceu"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Miriam passou o resto do voo pensando na situação e escreveu uma mensagem, mas não conseguiu entregá-la antes de desembarcar.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Miriam",
+        "passou"
+      ]
+    },
+    {
+      "fala": "No carro, ela me perguntou se procurar a companhia para pedir desculpas seria exagero ou apenas mais um constrangimento.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "carro,",
+        "perguntou"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Eu disse que pedir desculpas de forma educada nunca obriga ninguém a responder e que a sinceridade basta.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "desculpas",
+        "educada"
+      ]
+    },
+    {
+      "fala": "Miriam usou o canal de atendimento da empresa para agradecer a ajuda da equipe e explicar a própria falta de jeito.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Miriam",
+        "atendimento"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Alguns dias depois recebeu uma resposta cordial dizendo que seu recado fora encaminhado aos funcionários do voo.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Alguns",
+        "depois"
+      ]
+    },
+    {
+      "fala": "Ela me mandou um áudio feliz, não porque ganhou um presente, mas porque deixou de carregar uma frase mal colocada.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "mandou",
+        "feliz,"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Às vezes a maior viagem é sair do orgulho, admitir o erro e deixar a outra pessoa livre para aceitar ou não.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "viagem",
+        "orgulho,"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 32,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

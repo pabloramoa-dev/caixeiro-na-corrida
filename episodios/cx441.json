@@ -1,0 +1,335 @@
+{
+  "id": "cx441",
+  "ep": 441,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A ÚLTIMA SESSÃO DO CINE AURORA",
+  "categoria": "familia_reencontro_passageiro",
+  "cenario": "tarde_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎞️ Ela entrou no carro com uma caixa lacrada e pediu para chegar ao cinema antes da última sessão. O segredo era maior que o fechamento! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🚕🎬 Uma caixa de fotografias, um cinema prestes a fechar e quinze anos de silêncio entre pai e filha. A última sessão guardava uma surpresa. Para quem você entregaria uma mensagem antiga? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando uma caixa de sapatos lacrada. Disse que precisava entregá-la antes que o cinema fechasse para sempre. Só não explicou por que estava tremendo.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela tarde achei que faria uma corrida comum, até ouvir a passageira pedir que eu não ligasse o rádio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "O nome dela era Helena. No aplicativo, o destino aparecia como Cine Aurora, um cinema antigo no centro da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "nome"
+      ]
+    },
+    {
+      "fala": "Perguntei se havia uma sessão especial. Ela respondeu: 'Hoje vão apagar as luzes pela última vez. E alguém precisa saber a verdade antes disso'.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "A caixa estava no banco ao lado. Tinha uma fita azul e uma etiqueta antiga com duas palavras: 'Para Miguel'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "caixa"
+      ]
+    },
+    {
+      "fala": "Helena contou que Miguel tinha sido projecionista do cinema por quase trinta anos, sempre na cabine do último andar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Quando ela era pequena, ele deixava que assistisse aos filmes pela janelinha da cabine, entre bobinas e cartazes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "ela"
+      ]
+    },
+    {
+      "fala": "Mas os dois perderam contato depois de uma discussão boba, na noite em que Helena decidiu mudar de cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "os"
+      ]
+    },
+    {
+      "fala": "Ela queria estudar fotografia. Miguel insistia que um emprego estável seria mais seguro. Nenhum dos dois soube pedir desculpas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "queria"
+      ]
+    },
+    {
+      "fala": "Passaram-se quinze anos. Helena virou fotógrafa, viajou muito e guardou na gaveta todas as cartas que escreveu sem coragem de enviar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Passaram-se",
+        "quinze"
+      ]
+    },
+    {
+      "fala": "Na semana anterior, soube que o cinema seria fechado. Procurou Miguel, mas descobriu que ele já não trabalhava ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "semana"
+      ]
+    },
+    {
+      "fala": "Foi então que encontrou a caixa no armário da mãe. Havia um bilhete: 'Seu pai pediu que você recebesse isto quando estivesse pronta'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "então"
+      ]
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. 'Miguel é seu pai?' Ela confirmou, e finalmente entendi por que aquela entrega importava tanto.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "olhei"
+      ]
+    },
+    {
+      "fala": "Helena disse que não abriu a caixa. Queria que o pai estivesse presente, para que os dois descobrissem juntos o que havia dentro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, o letreiro do Cine Aurora piscava pela última vez. Funcionários retiravam cartazes da entrada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Um rapaz informou que Miguel não aparecia ali havia meses. Helena baixou os olhos e segurou a caixa com força.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "rapaz"
+      ]
+    },
+    {
+      "fala": "Antes que ela desistisse, uma senhora da bilheteria nos chamou. 'Vocês vieram por causa da sessão das seis?'",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "que"
+      ]
+    },
+    {
+      "fala": "Ela explicou que os antigos funcionários tinham preparado uma despedida surpresa. Miguel prometera comparecer, mas ninguém tinha certeza.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Helena hesitou na porta. Eu disse que poderia esperar alguns minutos, caso precisasse de outra corrida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "hesitou"
+      ]
+    },
+    {
+      "fala": "Ela entrou na sala quase vazia. Na tela surgiu uma sequência de fotografias antigas: o cinema, os funcionários e uma menina na cabine.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "A menina era Helena. As imagens tinham sido guardadas por Miguel, uma por uma, durante todos aqueles anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "menina"
+      ]
+    },
+    {
+      "fala": "Então a tela mostrou uma frase: 'A melhor história que vi daqui foi você aprendendo a olhar o mundo'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "a"
+      ]
+    },
+    {
+      "fala": "Helena levou a mão ao rosto. Na última fileira, um homem de cabelos grisalhos se levantou devagar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "levou"
+      ]
+    },
+    {
+      "fala": "Era Miguel. Ele também parecia sem saber o que dizer. Os dois caminharam um na direção do outro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Miguel."
+      ]
+    },
+    {
+      "fala": "Helena entregou a caixa. Miguel abriu com cuidado. Dentro havia fotografias tiradas por ela em diferentes cidades, todas dedicadas a ele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "Na última foto, Helena escrevera: 'Você me ensinou a enxergar a luz. Desculpa ter demorado tanto para voltar'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "última"
+      ]
+    },
+    {
+      "fala": "Miguel mostrou o verso de uma fotografia antiga que carregava no bolso. Dizia: 'Tenho orgulho de você, desde o primeiro dia'.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Miguel",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Na saída, vi os dois conversando na calçada, enquanto o letreiro apagava. O cinema fechou, mas aquela conversa finalmente começou.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "PARA QUEM?"
+      ],
+      "destaque": [
+        "Na",
+        "saída,"
+      ]
+    },
+    {
+      "fala": "Se você pudesse entregar uma mensagem guardada há anos, para quem seria? Conte nos comentários e acompanhe o Caixeiro na próxima corrida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Se",
+        "você"
+      ]
+    }
+  ]
+}

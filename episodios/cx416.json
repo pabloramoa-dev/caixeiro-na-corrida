@@ -1,0 +1,291 @@
+{
+  "id": "cx416",
+  "ep": 416,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO TROFÉU DE ÚLTIMO LUGAR",
+  "categoria": "humor_reviravolta_comunidade",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ela entrou no meu carro com um troféu escrito ÚLTIMO LUGAR e disse: 'Hoje o perdedor vai ser aplaudido!' 😳 Eu achei que era piada... até descobrir o segredo do Zé na final de dominó. Você conhece alguém que merece esse troféu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PlotTwist #Domino #StorytimeBrasil #PraVoce",
+  "legenda_post": "🏆🚕 Dalva carregava um troféu para quem nunca tinha ganhado uma final. O destino era um campeonato de dominó na praça, mas a verdadeira disputa não era por pontos. ❤️ O que aconteceu quando o Zé recebeu a taça mudou meu jeito de enxergar uma vitória. Quem você homenagearia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #FinalSurpresa #Comunidade",
+  "batidas": [
+    {
+      "fala": "A passageira entrou com um troféu escrito ÚLTIMO LUGAR. E me avisou: hoje, o perdedor vai ser aplaudido de pé.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Eu achei que era brincadeira. Mas ela segurava a taça como quem transporta uma relíquia de família.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "achei"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. E naquela corrida descobri que ganhar nem sempre significa chegar na frente.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "Ela se chamava Dalva, tinha setenta anos e precisava chegar antes da final do campeonato de dominó da praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "se"
+      ]
+    },
+    {
+      "fala": "Perguntei se o troféu era para o campeão. Dalva respondeu: de jeito nenhum, esse é para o Zé.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "O tal Zé disputava o campeonato havia trinta e dois anos. E, segundo ela, nunca tinha vencido uma final.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "tal"
+      ]
+    },
+    {
+      "fala": "Falei que o homem merecia pelo menos um prêmio de participação. Dalva soltou uma gargalhada que acordou o trânsito.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Falei",
+        "que"
+      ]
+    },
+    {
+      "fala": "Ela explicou que Zé era o primeiro a chegar, varria as mesas e consertava as cadeiras quebradas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Quando faltava parceiro, ele jogava com quem estivesse sozinho. Quando faltava peça, tirava um jogo novinho da bolsa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "faltava"
+      ]
+    },
+    {
+      "fala": "Mas havia um detalhe estranho: nos últimos cinco anos, Zé perdia sempre a partida decisiva por um ponto.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Dalva pediu que eu não comentasse isso na frente dele. Foi aí que percebi que o troféu escondia outra história.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Dalva",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "No semáforo, ela me mostrou um caderno. Eram nomes de jogadores que Zé tinha ensinado a jogar desde crianças.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "semáforo,"
+      ]
+    },
+    {
+      "fala": "Havia médicos, pedreiros, professoras e até o guarda da praça. Todos tinham uma coisa em comum: aprenderam com Zé.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Havia",
+        "médicos,"
+      ]
+    },
+    {
+      "fala": "Perguntei se ele perdia de propósito. Dalva respondeu que nunca conseguiu provar, mas desconfiava fazia tempo.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a praça estava lotada. Vi bandeirinhas, mesas de dominó e um senhor de boné arrumando cadeiras.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Era Zé. Ele me pediu ajuda para carregar uma caixa, sem saber que eu estava levando o prêmio secreto.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "Zé."
+      ]
+    },
+    {
+      "fala": "A final começou. O adversário era um rapaz de dezesseis anos, nervoso, que tinha aprendido dominó com o próprio Zé.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "final"
+      ]
+    },
+    {
+      "fala": "Na última rodada, o garoto venceu por um ponto. Zé levantou, apertou a mão dele e foi o primeiro a aplaudir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "última"
+      ]
+    },
+    {
+      "fala": "Foi quando Dalva pediu o microfone. Anunciou que aquele ano teria um troféu diferente: o de último lugar mais importante.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "quando"
+      ]
+    },
+    {
+      "fala": "Zé tentou fugir pela lateral. Só que todos os antigos alunos dele se levantaram e começaram a bater palmas.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Zé",
+        "tentou"
+      ]
+    },
+    {
+      "fala": "Dalva abriu o caderno e leu os nomes. Cada pessoa contou uma pequena coisa boa que tinha aprendido naquela praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "O rapaz campeão entregou a taça a Zé e disse: eu ganhei uma partida; o senhor fez a gente ganhar uma praça.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "rapaz"
+      ]
+    },
+    {
+      "fala": "Zé enxugou os olhos, olhou para o troféu e perguntou se no próximo ano podia voltar a perder em paz.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Zé",
+        "enxugou"
+      ]
+    },
+    {
+      "fala": "Todo mundo riu. Eu saí dali entendendo que algumas pessoas não colecionam vitórias; elas ajudam os outros a vencer.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Todo",
+        "mundo"
+      ]
+    },
+    {
+      "fala": "E você: conhece alguém que merece um troféu por nunca desistir dos outros? Conta aqui e compartilha essa corrida do Caixeiro!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUEM MERECE ESSE TROFÉU?"
+      ],
+      "destaque": [
+        "E",
+        "você:"
+      ]
+    }
+  ]
+}

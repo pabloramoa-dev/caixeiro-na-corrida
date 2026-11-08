@@ -1,0 +1,324 @@
+{
+  "id": "cx429",
+  "ep": 429,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO VIOLINO SEM CORDAS",
+  "categoria": "misterio_reencontro_musica",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎻 Ela entrou no carro com um violino SEM CORDAS e uma promessa de vinte anos! O que havia na última cadeira do auditório? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🎻 Uma professora, um violino antigo e uma escola prestes a perder seu auditório. Helena achava que o irmão havia esquecido uma promessa — até chegar à última cadeira da plateia. Qual música traz lembranças para você? 🚕 #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Musica #Memorias",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro com um violino sem cordas e disse: se não chegarmos antes das seis, uma escola inteira vai perder sua última apresentação.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. A passageira era Helena, professora de música, e segurava o estojo como se fosse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Perguntei por que levava um instrumento quebrado. Ela respondeu: é a única prova de uma promessa feita há vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "No banco de trás havia também um envelope azul com a palavra 'palco' escrita à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "banco"
+      ]
+    },
+    {
+      "fala": "Helena contou que a escola do bairro fecharia o auditório naquela noite, por falta de recursos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Os alunos preparavam um concerto de despedida, mas o maestro convidado tinha desaparecido.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "alunos"
+      ]
+    },
+    {
+      "fala": "Ela me mostrou uma fotografia antiga: uma turma de crianças ao lado de um homem com o mesmo violino.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "me"
+      ]
+    },
+    {
+      "fala": "Na foto, um menino escondia o rosto atrás de uma partitura. Helena disse que ele nunca mais voltou à escola.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "foto,"
+      ]
+    },
+    {
+      "fala": "Eu perguntei quem era. Ela respondeu: meu irmão Daniel. Ele parou de tocar depois que nosso pai ficou doente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Helena havia encontrado o estojo no depósito da família naquela manhã.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Dentro dele estava um bilhete: 'Quando a música voltar, procure a última cadeira da plateia'.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "dele"
+      ]
+    },
+    {
+      "fala": "O trânsito travou perto do mercado. Helena olhou o relógio e quase pediu para descer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "trânsito"
+      ]
+    },
+    {
+      "fala": "Eu conhecia uma rua lateral, mas precisávamos passar pela antiga oficina de instrumentos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "conhecia"
+      ]
+    },
+    {
+      "fala": "Ela pediu para parar por um minuto. O dono da oficina reconheceu o violino imediatamente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "O senhor contou que Daniel havia deixado ali um jogo de cordas e uma carta, anos atrás.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "senhor"
+      ]
+    },
+    {
+      "fala": "Na carta, Daniel dizia que não abandonara a música; estava ensinando crianças em outra cidade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "carta,"
+      ]
+    },
+    {
+      "fala": "Helena ficou em silêncio. Ela achava que o irmão tinha esquecido a promessa de tocar com ela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "O relojoeiro da oficina indicou um endereço escrito no verso: o próprio auditório da escola.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "relojoeiro"
+      ]
+    },
+    {
+      "fala": "Seguimos apressados. Na entrada, os alunos já se alinhavam, segurando partituras amassadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seguimos",
+        "apressados."
+      ]
+    },
+    {
+      "fala": "Uma funcionária avisou que o concerto começaria sem maestro e que o auditório fecharia depois daquela noite.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Uma",
+        "funcionária"
+      ]
+    },
+    {
+      "fala": "Helena abriu o estojo. As cordas novas estavam lá, junto com um pequeno cartão de Daniel.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "O cartão dizia: 'Não olhe para o palco primeiro. Olhe para quem veio escutar'.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "cartão"
+      ]
+    },
+    {
+      "fala": "Quando as luzes baixaram, uma criança na primeira fila levantou uma placa: 'A música ainda mora aqui'.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "as"
+      ]
+    },
+    {
+      "fala": "Outras placas apareceram. Cada aluno tinha escrito o nome de alguém que aprendera música naquela escola.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Outras",
+        "placas"
+      ]
+    },
+    {
+      "fala": "Na última cadeira da plateia estava Daniel, agora professor, cercado por ex-alunos que haviam viajado para o encontro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "última"
+      ]
+    },
+    {
+      "fala": "Ele subiu ao palco com outro violino. Disse que não queria ser a atração; queria que as crianças fossem ouvidas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "subiu"
+      ]
+    },
+    {
+      "fala": "Os irmãos tocaram juntos, e a diretora anunciou que a comunidade havia conseguido apoio para manter as aulas de música.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "irmãos"
+      ]
+    },
+    {
+      "fala": "Voltei ao carro pensando no que uma promessa pode preservar. Você já reencontrou alguém por causa de uma lembrança? Comenta e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL PROMESSA VOCÊ CUMPRIRIA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}

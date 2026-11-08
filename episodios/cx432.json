@@ -1,0 +1,324 @@
+{
+  "id": "cx432",
+  "ep": 432,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DA MALA VAZIA",
+  "categoria": "reencontro_cinema",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🧳 Ela entrou no carro com uma mala VAZIA... e uma música começou a tocar! O que havia no cinema abandonado? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #Cinema",
+  "legenda_post": "🎬🚕 Uma mala vazia, um cinema antigo e desenhos esquecidos por décadas. Lúcia achou que iria buscar uma lembrança, mas encontrou algo muito maior. Qual gesto da infância você nunca esqueceu? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro com uma mala vazia e pediu que eu não abrisse o porta-malas até chegarmos. Mas a mala começou a tocar uma música conhecida.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Naquela tarde, achei que seria só mais uma corrida até a rodoviária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira era Lúcia, uma senhora de casaco amarelo e olhar atento ao relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Ela disse que precisava chegar ao antigo cinema antes das três. O prédio seria reformado naquela semana.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Perguntei por que carregava uma mala vazia. Ela respondeu: porque vou buscar algo que não cabe numa fotografia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "por"
+      ]
+    },
+    {
+      "fala": "Quando passamos pela praça, uma melodia baixinha saiu da mala. Lúcia desligou o celular depressa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "passamos"
+      ]
+    },
+    {
+      "fala": "Ela explicou que havia gravado aquela canção quando trabalhava como lanterninha no cinema, quarenta anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Na época, o cinema promovia sessões gratuitas para crianças do bairro aos domingos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "época,"
+      ]
+    },
+    {
+      "fala": "Um garoto chamado Davi sempre chegava primeiro, mas nunca tinha dinheiro para comprar pipoca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "garoto"
+      ]
+    },
+    {
+      "fala": "Lúcia guardava um saquinho para ele. Em troca, o menino desenhava cartazes de filmes imaginários.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "guardava"
+      ]
+    },
+    {
+      "fala": "Um dia, Davi sumiu. A família se mudou sem deixar endereço, e os desenhos ficaram numa caixa atrás da bilheteria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "dia,"
+      ]
+    },
+    {
+      "fala": "Anos depois, Lúcia soube que ele havia se tornado ilustrador, mas não conseguiu encontrá-lo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Anos",
+        "depois,"
+      ]
+    },
+    {
+      "fala": "Na semana passada, uma mensagem anônima chegou ao celular dela: leve uma mala ao cinema na quinta-feira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "semana"
+      ]
+    },
+    {
+      "fala": "A mensagem tinha a melodia que tocava antes das antigas sessões. Era impossível ignorar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "mensagem"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela não estava com medo. Lúcia disse que tinha mais curiosidade do que coragem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Chegamos ao cinema, mas as portas estavam fechadas e um aviso dizia que a entrada seria pelo corredor lateral.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "ao"
+      ]
+    },
+    {
+      "fala": "Um funcionário nos recebeu e perguntou se Lúcia ainda lembrava do assento da primeira fila.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "funcionário"
+      ]
+    },
+    {
+      "fala": "Ela respondeu sem pensar: poltrona sete. Era onde Davi se sentava para desenhar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "respondeu"
+      ]
+    },
+    {
+      "fala": "O funcionário abriu a sala. As luzes se acenderam devagar, revelando dezenas de cartazes pendurados nas paredes.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "funcionário"
+      ]
+    },
+    {
+      "fala": "Todos mostravam filmes inventados por uma criança, agora restaurados e coloridos com cuidado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Todos",
+        "mostravam"
+      ]
+    },
+    {
+      "fala": "No centro havia uma cadeira e uma caixa de pipoca. Lúcia reconheceu a letra no bilhete: obrigado por acreditar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "centro"
+      ]
+    },
+    {
+      "fala": "Um homem se aproximou do palco. Era Davi, agora adulto, com o mesmo sorriso tímido.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "homem"
+      ]
+    },
+    {
+      "fala": "Ele contou que guardara na memória cada domingo e que os desenhos o ajudaram a escolher sua profissão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "contou"
+      ]
+    },
+    {
+      "fala": "Quando soube da reforma, reuniu amigos para transformar a sala numa exposição antes que tudo mudasse.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "soube"
+      ]
+    },
+    {
+      "fala": "A mala não estava vazia por acaso. Davi pediu que Lúcia escolhesse os cartazes que gostaria de levar para casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "mala"
+      ]
+    },
+    {
+      "fala": "Ela escolheu só um: o primeiro desenho, com uma estrela torta e o nome de um filme que nunca existiu.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "escolheu"
+      ]
+    },
+    {
+      "fala": "Antes de sairmos, Davi anunciou que a exposição seria fotografada e preservada no acervo do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "de"
+      ]
+    },
+    {
+      "fala": "Voltei ao volante pensando que pequenos gestos podem virar grandes histórias. Qual lembrança da infância você guardaria? Comenta e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL LEMBRANÇA VOCÊ GUARDARIA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}

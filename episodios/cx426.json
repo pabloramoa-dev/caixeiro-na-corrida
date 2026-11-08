@@ -1,0 +1,324 @@
+{
+  "id": "cx426",
+  "ep": 426,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DOS GUARDA-CHUVAS SEM CHUVA",
+  "categoria": "misterio_homenagem_musica",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no meu carro com uma mala de guarda-chuvas e uma missão impossível: reunir uma banda antes que o maestro chegasse! 🎺 O final surpreendeu a praça inteira. Quem merece uma homenagem assim? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Musica",
+  "legenda_post": "☂️🎶 Uma mala de guarda-chuvas coloridos, uma partitura esquecida e uma corrida contra o tempo. Lúcia queria devolver ao pai uma música que ele acreditava perdida. Mas a praça guardava uma surpresa ainda maior. Quem você homenagearia? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Musica #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro com uma mala de guarda-chuvas coloridos e avisou: se chover antes da apresentação, a surpresa estará perdida!",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Naquele céu azul, a preocupação parecia exagerada. Mas a passageira, Lúcia, não parava de olhar para o relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Ela pediu uma corrida até o coreto da praça e colocou no banco uma caixa com o nome de seu pai, Joaquim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Perguntei se era aniversário. Ela respondeu: é a primeira vez que ele vai ouvir uma música que escreveu há trinta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "Joaquim tinha sido maestro de uma pequena banda do bairro, mas abandonou os ensaios quando o antigo coreto fechou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Joaquim",
+        "tinha"
+      ]
+    },
+    {
+      "fala": "Lúcia encontrou uma partitura incompleta entre as ferramentas dele e decidiu reunir os antigos músicos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, o celular vibrou: o trompetista perdeu o ônibus e não vai chegar a tempo!",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Ela fechou os olhos. Sem trompete, faltaria justamente a melodia principal.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "fechou"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se havia um plano alternativo. Lúcia apontou para os guarda-chuvas: cada um tem uma pista.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Abriu o primeiro, vermelho, e mostrou um bilhete com o endereço da antiga escola de música.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Abriu",
+        "o"
+      ]
+    },
+    {
+      "fala": "Fomos até lá. Na porta, uma professora aposentada esperava com um estojo de instrumento.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Fomos",
+        "até"
+      ]
+    },
+    {
+      "fala": "Ela explicou que Joaquim havia ensinado de graça dezenas de crianças, inclusive o trompetista atrasado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Dentro do estojo havia um trompete antigo e uma gravação da melodia que ninguém lembrava inteira.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "do"
+      ]
+    },
+    {
+      "fala": "Lúcia sorriu, mas outra mensagem chegou: o pai dela já estava caminhando para a praça!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "sorriu"
+      ]
+    },
+    {
+      "fala": "Agora tínhamos poucos minutos. A professora entrou no carro, segurando o estojo como um tesouro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Agora",
+        "tínhamos"
+      ]
+    },
+    {
+      "fala": "No caminho, vimos uma senhora carregando flores e um rapaz com um tambor. Todos iam ao mesmo lugar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "caminho"
+      ]
+    },
+    {
+      "fala": "Eu comecei a desconfiar de que aquela homenagem era muito maior do que Lúcia imaginava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "comecei"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, o coreto estava vazio. Só havia uma cadeira, uma estante de partituras e um guarda-chuva amarelo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Lúcia quase desistiu. Disse que os músicos tinham prometido estar ali antes do pai.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "quase"
+      ]
+    },
+    {
+      "fala": "Então ouvimos uma nota de clarinete vindo de trás das árvores. Outra nota respondeu do lado oposto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "ouvimos"
+      ]
+    },
+    {
+      "fala": "Os antigos integrantes surgiram aos poucos, cada um abrindo um guarda-chuva de uma cor diferente.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "antigos"
+      ]
+    },
+    {
+      "fala": "Um senhor de cabelos brancos se aproximou. Era Joaquim, parado, tentando entender aquela cena.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "senhor"
+      ]
+    },
+    {
+      "fala": "Lúcia entregou a partitura restaurada. Ele reconheceu a própria letra e perguntou quem havia encontrado o último trecho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "A professora abriu o estojo e mostrou a gravação feita por um aluno no último ensaio da banda.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "professora"
+      ]
+    },
+    {
+      "fala": "Joaquim ouviu a melodia, pegou a batuta e começou a reger com os olhos brilhando.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Joaquim",
+        "ouviu"
+      ]
+    },
+    {
+      "fala": "Foi quando o trompetista chegou correndo. Não tinha perdido o ônibus: tinha ido buscar os antigos alunos para completar a banda.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "quando"
+      ]
+    },
+    {
+      "fala": "Os guarda-chuvas se abriram ao redor do coreto, mesmo sem chuva. Cada cor representava uma turma que Joaquim ensinou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "guarda-chuvas"
+      ]
+    },
+    {
+      "fala": "Eu terminei a corrida ouvindo a música atravessar a praça. E você, quem merece uma homenagem surpresa? Conta nos comentários e segue o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUEM MERECE UMA HOMENAGEM?"
+      ],
+      "destaque": [
+        "Eu",
+        "terminei"
+      ]
+    }
+  ]
+}

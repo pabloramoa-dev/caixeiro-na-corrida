@@ -1,0 +1,202 @@
+{
+  "id": "cx346",
+  "ep": 346,
+  "avulso": true,
+  "titulo": "A MARMITA TROCADA",
+  "categoria": "comida",
+  "cenario": "noite",
+  "legenda_post": "🚗 A MARMITA TROCADA. Um passageiro entrou no carro com duas marmitas idênticas e jurou que alguém tinha comido o almoço que ele guardou no aeroporto.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A MARMITA TROCADA. Um passageiro entrou no carro com duas marmitas idênticas e jurou que alguém tinha comido o almoço que ele guardou no aeroporto. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque um passageiro entrou no carro com duas marmitas idênticas e jurou que alguém tinha comido o almoço que ele guardou no aeroporto.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "passageiro"
+      ]
+    },
+    {
+      "fala": "Era quarta, duas da tarde. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi um técnico chamado Davi, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "quarta,",
+        "tarde."
+      ]
+    },
+    {
+      "fala": "Davi voltava de uma viagem longa e carregava a refeição preparada pela irmã, com um bilhete carinhoso dentro da embalagem.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "voltava",
+        "viagem"
+      ]
+    },
+    {
+      "fala": "Na sala de espera, outro viajante colocou uma marmita igual sobre a mesa e os dois saíram apressados quando chamaram o embarque.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "espera,",
+        "viajante"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Quando Davi abriu a caixa depois do voo, encontrou comida diferente e um bilhete escrito por outra família.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Quando",
+        "depois"
+      ]
+    },
+    {
+      "fala": "Ele ficou irritado achando que alguém levara sua comida de propósito. Mas percebeu que o telefone do outro passageiro estava no bilhete.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "irritado",
+        "achando"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Do banco de trás, ligou para avisar da troca. O homem atendeu rindo e contou que tinha feito a mesma descoberta.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "avisar",
+        "troca."
+      ]
+    },
+    {
+      "fala": "Combinaram devolver as embalagens num café do terminal, onde cada um explicou a confusão e conferiu o que pertencia a quem.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Combinaram",
+        "devolver"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "A irmã de Davi recebeu a fotografia dos dois segurando as marmitas certas, já um pouco frias, mas intactas.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "recebeu",
+        "fotografia"
+      ]
+    },
+    {
+      "fala": "No fim da corrida, Davi comentou que talvez o cansaço tivesse transformado um engano pequeno numa grande acusação.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "corrida,",
+        "comentou"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "De vez em quando a gente acha que alguém fez de propósito o que começou com duas caixas iguais e uma sala apressada.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "quando",
+        "alguém"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 34,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

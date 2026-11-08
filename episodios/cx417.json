@@ -1,0 +1,302 @@
+{
+  "id": "cx417",
+  "ep": 417,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DA MALA DE SOMBRAS",
+  "categoria": "curiosidade_arte_improviso",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🐉 Ela entrou no carro com uma MALA VAZIA e avisou: 'Se a luz acender cedo, meu dragão desaparece!' 😳 O projetor da escola tinha queimado... e ninguém esperava o que aconteceu no palco. Você já salvou uma situação no improviso? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #TeatroDeSombras #FinalSurpresa #StorytimeBrasil #PraVoce",
+  "legenda_post": "🐉🌙 Uma mala aparentemente vazia, uma artista desesperada e um dragão feito de papel. Iara precisava salvar a estreia de crianças que ensaiaram durante meses, mas o projetor havia queimado. O que aconteceu naquela escola mostrou que a imaginação pode transformar qualquer imprevisto. ✨ Qual improviso salvou seu dia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #TeatroDeSombras #Criatividade #HistoriasQueInspiram",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala vazia e avisou: se a luz acender cedo demais, meu dragão desaparece.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. A mulher estava séria, segurando uma lanterna quebrada e um rolo de papel preto.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "olhei"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. Naquela noite, descobri que a maior criatura da cidade cabia dentro de uma mala.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A passageira era Iara, artista de teatro de sombras. Tinha uma apresentação marcada para as sete, numa escola pequena.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Perguntei pelo dragão. Ela abriu a mala e mostrou dois recortes de papel, uma fita adesiva e três palitos de churrasco.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "pelo"
+      ]
+    },
+    {
+      "fala": "Eu disse que aquele dragão precisava, no mínimo, de um curso de musculação. Iara riu, mas logo ficou preocupada.",
+      "expr": "rindo",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "O projetor da escola tinha queimado naquela tarde. Ela procurou outro aparelho pela cidade inteira e não encontrou nenhum.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "projetor"
+      ]
+    },
+    {
+      "fala": "Era a primeira apresentação de um grupo de crianças que ensaiava havia meses. Algumas nunca tinham pisado num palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "a"
+      ]
+    },
+    {
+      "fala": "Iara me mostrou uma mensagem da diretora: o salão estava lotado, e os pequenos atores já estavam vestidos para começar.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Iara",
+        "me"
+      ]
+    },
+    {
+      "fala": "No semáforo, ela perguntou se eu conhecia alguém com um projetor. Pensei em três pessoas. Nenhuma atenderia tão tarde.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "No",
+        "semáforo"
+      ]
+    },
+    {
+      "fala": "Foi quando reparei no farol refletindo na parede de uma loja. Uma sombra enorme do meu retrovisor atravessou a fachada.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "quando"
+      ]
+    },
+    {
+      "fala": "Perguntei: e se a gente usar a luz do carro? Iara ficou em silêncio por um segundo, depois abriu um sorriso.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "e"
+      ]
+    },
+    {
+      "fala": "Ela explicou que sombras precisam de luz, distância e uma superfície clara. O resto é imaginação. E nós tínhamos os três.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Chegamos à escola às seis e cinquenta e oito. O porteiro apontou para o pátio, onde havia um lençol branco esticado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Chegamos",
+        "à"
+      ]
+    },
+    {
+      "fala": "Eu estacionei com cuidado, num espaço autorizado e longe das crianças. A diretora ajudou a posicionar uma luminária portátil.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "estacionei"
+      ]
+    },
+    {
+      "fala": "Quando Iara levantou o primeiro recorte, surgiu na tela um dragão de pescoço torto. As crianças começaram a gargalhar.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "Iara"
+      ]
+    },
+    {
+      "fala": "O menino que faria o cavaleiro disse que aquele dragão parecia uma galinha de capacete. Eu quase concordei em voz alta.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "menino"
+      ]
+    },
+    {
+      "fala": "Mas Iara não desistiu. Mudou a distância do recorte, abriu as asas de papel e fez a criatura crescer até o teto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "Iara"
+      ]
+    },
+    {
+      "fala": "O salão ficou quietinho. O dragão agora parecia enorme. Um garoto sussurrou que nunca tinha visto uma sombra tão bonita.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "salão"
+      ]
+    },
+    {
+      "fala": "Começou a peça. Uma princesa procurava um tesouro, um cavaleiro se perdia e o dragão escondia alguma coisa atrás das asas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Começou",
+        "a"
+      ]
+    },
+    {
+      "fala": "No meio da história, uma rajada de vento derrubou parte do cenário. Achei que a apresentação tinha acabado ali mesmo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "meio"
+      ]
+    },
+    {
+      "fala": "Só que uma menina pegou a sombra da própria mão e inventou uma coruja. Outro garoto fez um lobo com os dedos.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Só",
+        "que"
+      ]
+    },
+    {
+      "fala": "Em segundos, a turma inteira estava criando bichos na tela. Iara deixou o roteiro de lado e acompanhou a brincadeira.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Em",
+        "segundos"
+      ]
+    },
+    {
+      "fala": "No final, o dragão abriu as asas e revelou o tesouro: desenhos das próprias crianças, presos no verso do papel.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "final"
+      ]
+    },
+    {
+      "fala": "A diretora disse que o projetor queimado tinha virado a melhor parte da noite. Iara respondeu: foi a imaginação que acendeu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "diretora"
+      ]
+    },
+    {
+      "fala": "Voltei ao carro pensando que nem toda luz vem de uma máquina. Qual improviso salvou um dia seu? Conta aqui, compartilha essa corrida e dá cinco estrelas pra essa história!",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL IMPROVISO SALVOU SEU DIA?"
+      ],
+      "destaque": [
+        "Voltei",
+        "ao"
+      ]
+    }
+  ]
+}

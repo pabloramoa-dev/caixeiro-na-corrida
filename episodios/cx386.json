@@ -1,0 +1,195 @@
+{
+  "id": "cx386",
+  "ep": 386,
+  "avulso": true,
+  "titulo": "AS GAIOLAS SEM PÁSSAROS",
+  "categoria": "familia",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 AS GAIOLAS SEM PÁSSAROS\n\nEla entrou com três gaiolas vazias e disse que aquele era o melhor sinal possível de sua semana. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 AS GAIOLAS SEM PÁSSAROS\nEla entrou com três gaiolas vazias e disse que aquele era o melhor sinal possível de sua semana. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma protetora chamada Cida, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "protetora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era segunda-feira, oito e meia da noite. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "segunda-feira,",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Uma protetora chamada Cida explicou a situação logo depois de sentar: ela entrou com três gaiolas vazias e disse que aquele era o melhor sinal possível de sua semana.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "protetora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "O trânsito estava daquele jeito: sem pressa de sair do lugar. Aproveitei para ouvir, porque certas histórias pedem mais atenção do que uma opinião rápida.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "trânsito",
+        "daquele"
+      ]
+    },
+    {
+      "fala": "Cida trabalhava com uma equipe de resgate que encaminhava aves recuperadas para locais adequados.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "trabalhava",
+        "resgate"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "As gaiolas tinham sido usadas temporariamente para transporte autorizado e agora voltavam para higienização.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "gaiolas",
+        "temporariamente"
+      ]
+    },
+    {
+      "fala": "No retrovisor, percebi um sorriso de canto de boca. Era a primeira vez, desde o início da viagem, que a preocupação parecia ter diminuído.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "retrovisor,",
+        "percebi"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "No caminho, ela explicou que muitas pessoas confundem acolhimento com manter qualquer animal em casa.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "caminho,",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Não dei uma solução de novela. Fiquei atento à direção e deixei que a pessoa escolhesse o próximo passo. Conselho sem ouvir costuma atrapalhar.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "solução",
+        "novela."
+      ]
+    },
+    {
+      "fala": "Perguntei se os pássaros estavam bem; ela mostrou apenas uma fotografia pública da equipe no centro de atendimento.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Perguntei",
+        "pássaros"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Cida disse que os animais foram encaminhados segundo orientação de profissionais e que a equipe celebrava cada etapa concluída.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "animais",
+        "encaminhados"
+      ]
+    },
+    {
+      "fala": "Encostei onde era permitido, encerrei o percurso e desejei boa sorte. A pessoa saiu com a mesma mochila, mas parecia carregar menos preocupação.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Encostei",
+        "permitido,"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

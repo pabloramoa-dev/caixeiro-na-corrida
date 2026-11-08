@@ -1,0 +1,324 @@
+{
+  "id": "cx438",
+  "ep": 438,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA VAZIA E A CASA AZUL",
+  "categoria": "reencontro_familia_passageiro",
+  "cenario": "manha_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🧳 Ela entrou com uma mala vazia e pediu para correr até uma casa que seria demolida. O que havia naquela caixa mudou tudo! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #Reviravolta",
+  "legenda_post": "🚕🧳 Uma casa azul, três bilhetes e uma lembrança guardada por 25 anos. A corrida de Lúcia virou um reencontro inesperado. Que lembrança você gostaria de recuperar? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala vazia e pediu para eu ir até um endereço que não existia mais. Só depois descobri por que precisava chegar antes das dez.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. Naquela manhã, a passageira se apresentou como Lúcia e colocou uma fotografia antiga sobre o banco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "Na foto havia uma casa azul, uma bicicleta vermelha e três crianças sorrindo diante de um portão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "foto"
+      ]
+    },
+    {
+      "fala": "Perguntei se ela estava de mudança. Lúcia disse que não: estava indo buscar uma coisa que tinha deixado para trás havia vinte e cinco anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "O aplicativo indicava uma rua do centro. Mas ela insistia em seguir por um caminho mais longo, passando pela antiga praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Quando chegamos à praça, Lúcia pediu que eu parasse por alguns segundos diante de um coreto reformado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Ela apontou para o coreto e contou que ali fazia apresentações de música com os irmãos quando eram pequenos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "apontou"
+      ]
+    },
+    {
+      "fala": "Os três tinham uma caixa de lata onde guardavam bilhetes com sonhos para o futuro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "três"
+      ]
+    },
+    {
+      "fala": "Um queria ser professor. Outro sonhava em conhecer o mar. Lúcia só tinha escrito que nunca queria perder contato com os dois.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "queria"
+      ]
+    },
+    {
+      "fala": "Depois de uma mudança repentina, a família se espalhou. As cartas voltavam sem resposta e os telefones mudaram.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Depois",
+        "de"
+      ]
+    },
+    {
+      "fala": "Lúcia cresceu, trabalhou, formou sua própria família, mas nunca esqueceu a caixa escondida perto da antiga casa azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "cresceu,"
+      ]
+    },
+    {
+      "fala": "Na semana anterior, recebeu uma mensagem anônima: a casa será demolida amanhã. Se quiser sua lembrança, venha hoje.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "semana"
+      ]
+    },
+    {
+      "fala": "Olhei para o relógio. Eram nove e vinte. A equipe de demolição chegaria às dez, segundo a mensagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Olhei",
+        "para"
+      ]
+    },
+    {
+      "fala": "Seguimos pela rua da fotografia. No lugar da padaria havia uma farmácia; o cinema agora era estacionamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seguimos",
+        "pela"
+      ]
+    },
+    {
+      "fala": "Lúcia reconheceu uma árvore enorme e pediu para virar à esquerda. A casa azul apareceu atrás de um tapume.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "reconheceu"
+      ]
+    },
+    {
+      "fala": "Mas o portão estava trancado e um funcionário explicou que ninguém poderia entrar na construção.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "o"
+      ]
+    },
+    {
+      "fala": "Ela mostrou a fotografia e perguntou se havia alguma caixa de lata encontrada no quintal. O homem balançou a cabeça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "mostrou"
+      ]
+    },
+    {
+      "fala": "Quando já íamos embora, uma senhora surgiu na calçada e chamou Lúcia pelo nome de infância.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "já"
+      ]
+    },
+    {
+      "fala": "Era dona Teresa, antiga vizinha. Ela disse que guardava algo desde que os irmãos tinham saído dali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Era",
+        "dona"
+      ]
+    },
+    {
+      "fala": "Da bolsa, tirou uma pequena caixa de lata amassada, embrulhada em pano. Lúcia ficou sem palavras.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Da",
+        "bolsa,"
+      ]
+    },
+    {
+      "fala": "Dona Teresa contou que encontrara a caixa durante a última reforma e esperara uma oportunidade de devolvê-la.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dona",
+        "Teresa"
+      ]
+    },
+    {
+      "fala": "Abri a porta do carro para que Lúcia se sentasse. Ela retirou a tampa com cuidado, como quem abre uma janela no tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Abri",
+        "a"
+      ]
+    },
+    {
+      "fala": "Dentro havia três bilhetes, uma fotografia menor e um papel dobrado que não parecia pertencer à infância.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "havia"
+      ]
+    },
+    {
+      "fala": "O papel tinha sido escrito recentemente. Dizia: se você chegou até aqui, venha ao coreto às dez e meia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "papel"
+      ]
+    },
+    {
+      "fala": "Lúcia olhou para mim, surpresa. Era a letra do irmão mais velho, reconhecível até depois de tantos anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "olhou"
+      ]
+    },
+    {
+      "fala": "Voltamos à praça. Dois homens aguardavam perto do coreto com uma bicicleta vermelha restaurada entre eles.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Voltamos",
+        "à"
+      ]
+    },
+    {
+      "fala": "Eram os irmãos. Tinham se reencontrado meses antes e prepararam aquela surpresa com ajuda de dona Teresa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eram",
+        "os"
+      ]
+    },
+    {
+      "fala": "Lúcia correu para conversar com os dois. Eu segui viagem lembrando que às vezes uma corrida nos leva de volta ao que importa. Qual lembrança você gostaria de recuperar? Comente e siga o Caixeiro.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUAL LEMBRANÇA?"
+      ],
+      "destaque": [
+        "Lúcia",
+        "correu"
+      ]
+    }
+  ]
+}

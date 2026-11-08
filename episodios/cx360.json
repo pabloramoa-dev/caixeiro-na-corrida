@@ -1,0 +1,195 @@
+{
+  "id": "cx360",
+  "ep": 360,
+  "avulso": true,
+  "titulo": "A PASSAGEIRA QUE NÃO ENTROU NO CARRO",
+  "categoria": "cotidiano",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 A PASSAGEIRA QUE NÃO ENTROU NO CARRO\n\nEla solicitou corrida e apareceu ao lado de um carro antigo que precisava levar a uma oficina. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 A PASSAGEIRA QUE NÃO ENTROU NO CARRO\nEla solicitou corrida e apareceu ao lado de um carro antigo que precisava levar a uma oficina. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma senhora chamada Regina, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "senhora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Era terça-feira, seis e quarenta da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça-feira,",
+        "quarenta"
+      ]
+    },
+    {
+      "fala": "Uma senhora chamada Regina explicou a situação logo depois de sentar: ela solicitou corrida e apareceu ao lado de um carro antigo que precisava levar a uma oficina.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "senhora",
+        "chamada"
+      ]
+    },
+    {
+      "fala": "Eu já aprendi que ninguém entra no carro carregando apenas o que cabe na mochila. Tem lembrança, preocupação e plano para amanhã, tudo no banco de trás.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "aprendi",
+        "ninguém"
+      ]
+    },
+    {
+      "fala": "Regina explicou que queria seguir o veículo enquanto um familiar o conduzia, porque estava insegura com o trajeto.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "explicou",
+        "veículo"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "perguntei",
+        "cuidado"
+      ]
+    },
+    {
+      "fala": "Conferimos a solicitação e ela resolveu embarcar no meu carro, em vez de tentar transformar a viagem numa escolta improvisada.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Conferimos",
+        "solicitação"
+      ]
+    },
+    {
+      "fala": "Perguntei se preferia que eu seguisse em silêncio. A resposta veio devagar, mas mostrou que a pessoa só precisava organizar as ideias.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "preferia"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "tentando",
+        "entender"
+      ]
+    },
+    {
+      "fala": "Ela contou que o automóvel tinha pertencido ao pai e que aguardava restauração há vários anos.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "automóvel",
+        "pertencido"
+      ]
+    },
+    {
+      "fala": "Nessa hora, eu disse que seria melhor confirmar os fatos do que imaginar uma explicação apressada. O passageiro concordou e tomou a decisão que cabia a ele.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "confirmar",
+        "imaginar"
+      ]
+    },
+    {
+      "fala": "Durante o trajeto, recebeu fotos da oficina mostrando a garagem preparada para receber o carro.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Durante",
+        "trajeto,"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "engraçado",
+        "sentido"
+      ]
+    },
+    {
+      "fala": "Chegamos ao endereço combinado e Regina ficou emocionada ao ver o veículo estacionado com cuidado.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Chegamos",
+        "endereço"
+      ]
+    },
+    {
+      "fala": "Quando a viagem terminou, conferi o local de desembarque e me despedi. Fiquei com a sensação de ter ouvido uma história que merecia ser contada com cuidado.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "terminou,",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

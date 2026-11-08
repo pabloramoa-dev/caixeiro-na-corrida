@@ -1,0 +1,202 @@
+{
+  "id": "cx350",
+  "ep": 350,
+  "avulso": true,
+  "titulo": "A MOCHILA DO IRMÃO",
+  "categoria": "escola",
+  "cenario": "noite",
+  "legenda_post": "🚗 A MOCHILA DO IRMÃO. Uma estudante entrou no carro com duas mochilas e disse que quase perdeu uma apresentação porque o irmão menor trocou as bolsas.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A MOCHILA DO IRMÃO. Uma estudante entrou no carro com duas mochilas e disse que quase perdeu uma apresentação porque o irmão menor trocou as bolsas. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma estudante entrou no carro com duas mochilas e disse que quase perdeu uma apresentação porque o irmão menor trocou as bolsas.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "estudante"
+      ]
+    },
+    {
+      "fala": "Era terça, sete e meia da manhã. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma estudante chamada Carol, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "terça,",
+        "manhã."
+      ]
+    },
+    {
+      "fala": "Carol preparava havia semanas um projeto sobre memória do bairro, com entrevistas e desenhos dos moradores mais antigos.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "preparava",
+        "semanas"
+      ]
+    },
+    {
+      "fala": "O irmão, sem perceber, pegou a mochila dela para ir à escola e deixou no lugar a bolsa com brinquedos e figurinhas.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "irmão,",
+        "perceber,"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Quando Carol abriu a mochila errada, encontrou um bilhete do menino dizendo que queria ajudar na apresentação.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Quando",
+        "mochila"
+      ]
+    },
+    {
+      "fala": "Ela ficou chateada e pensou em desistir. Eu perguntei se ainda havia tempo de pedir ao professor para receber os arquivos digitais.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "chateada",
+        "pensou"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Carol lembrou que tinha enviado cópias para a própria mãe e pediu que ela compartilhasse tudo pelo celular.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "lembrou",
+        "enviado"
+      ]
+    },
+    {
+      "fala": "No meio do caminho, o irmão ligou pedindo desculpas e contou que tinha colocado um desenho surpresa entre os papéis do projeto.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "caminho,",
+        "pedindo"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Chegando à escola, Carol conseguiu apresentar as entrevistas e incluiu o desenho do irmão na última página.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Chegando",
+        "escola,"
+      ]
+    },
+    {
+      "fala": "O professor elogiou especialmente a parte sobre como as crianças lembravam de ruas que os adultos já nem percebiam.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "professor",
+        "elogiou"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Um erro de mochila virou outra fonte para a pesquisa. E o irmão ganhou o cargo de ilustrador oficial da família.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "mochila",
+        "pesquisa."
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 45,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

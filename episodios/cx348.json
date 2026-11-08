@@ -1,0 +1,202 @@
+{
+  "id": "cx348",
+  "ep": 348,
+  "avulso": true,
+  "titulo": "A AUDIÇÃO DA FILHA",
+  "categoria": "sonhos",
+  "cenario": "noite",
+  "legenda_post": "🚗 A AUDIÇÃO DA FILHA. Uma jovem entrou no carro carregando uma pasta de letras e disse que o pai achava música um sonho grande demais.\n\nE você, como teria reagido? Conta aqui. 👇\n\nHistória de ficção. Personagens e acontecimentos inventados, inspirados apenas em temas de vídeos populares.\n\n#historias #motoristadeaplicativo #uber #corrida #caixeironacorrida",
+  "legenda_tiktok": "🚗 A AUDIÇÃO DA FILHA. Uma jovem entrou no carro carregando uma pasta de letras e disse que o pai achava música um sonho grande demais. O que você faria? 👇\nHistória de ficção.\n#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque uma jovem entrou no carro carregando uma pasta de letras e disse que o pai achava música um sonho grande demais.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "porque",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Era sábado, nove da manhã. O pedido veio de uma rua movimentada, destino marcado no aplicativo. Quem entrou foi uma cantora chamada Lívia, e eu nem imaginava o assunto dessa corrida.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "sábado,",
+        "manhã."
+      ]
+    },
+    {
+      "fala": "Lívia trabalhava durante o dia e fazia aulas gratuitas à noite, mas só tinha coragem de cantar para as amigas.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "trabalhava",
+        "durante"
+      ]
+    },
+    {
+      "fala": "Naquela manhã iria tentar uma vaga numa apresentação comunitária e tinha escondido o teste para evitar outra discussão em casa.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "Naquela",
+        "tentar"
+      ]
+    },
+    {
+      "fala": "Eu gosto de ouvir as pessoas do banco de trás, mas não fico dando palpite na primeira curva. Primeiro tento entender o que está acontecendo de verdade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "pessoas",
+        "palpite"
+      ]
+    },
+    {
+      "fala": "Eu perguntei se ela queria contar ao pai depois, qualquer que fosse o resultado. Ela disse que tinha medo da desaprovação.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "perguntei",
+        "queria"
+      ]
+    },
+    {
+      "fala": "Enquanto esperava no semáforo, o celular dela tocou. O pai tinha encontrado a pasta esquecida na cozinha e lido a primeira composição.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "Enquanto",
+        "esperava"
+      ]
+    },
+    {
+      "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "altura",
+        "pergunta"
+      ]
+    },
+    {
+      "fala": "Ele não reclamou. Perguntou se ainda dava tempo de entregar a pasta e se ela aceitava a companhia dele na plateia.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "reclamou.",
+        "Perguntou"
+      ]
+    },
+    {
+      "fala": "Lívia pediu que ele fosse, mas explicou que precisava ouvir apoio sem que toda escolha virasse uma cobrança.",
+      "expr": "neutra",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "fosse,",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Teve aquele segundo de silêncio de dentro do carro. Sabe quando alguém percebe que o plano acabou de mudar? Foi exatamente esse tipo de silêncio.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aquele",
+        "segundo"
+      ]
+    },
+    {
+      "fala": "Na apresentação, ela cantou uma música que tinha escrito sobre o trabalho da mãe e a rotina da família.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "apresentação,",
+        "cantou"
+      ]
+    },
+    {
+      "fala": "O pai não sabia todas as palavras, mas esperou o final para dizer: eu não entendo desse mundo, só quero aprender a te escutar.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v"
+      ],
+      "destaque": [
+        "palavras,",
+        "esperou"
+      ]
+    },
+    {
+      "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "percurso",
+        "conferi"
+      ]
+    },
+    {
+      "fala": "Voltei para casa pensando que apoiar um sonho não é prometer sucesso; é não fechar a porta antes da primeira tentativa.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Voltei",
+        "pensando"
+      ]
+    },
+    {
+      "fala": "Já em casa, contei para a Rosângela só a lição daquela corrida, sem nome nem detalhe que identificasse passageiro. Ela respondeu que ouvir também é uma forma de ajudar.",
+      "expr": "ironica",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "contei",
+        "Rosângela"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E você, o que teria feito se tivesse escutado uma situação dessas no banco de trás?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estrelas",
+        "história."
+      ]
+    }
+  ],
+  "origem_inspiracao_numero": 41,
+  "lote": "virais-originais-20261029",
+  "preview_only": false
+}

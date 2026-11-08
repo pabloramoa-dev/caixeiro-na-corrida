@@ -1,0 +1,280 @@
+{
+  "id": "cx414",
+  "ep": 414,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DO MANEQUIM QUE VIROU GERENTE",
+  "categoria": "humor_curiosidade_comunidade",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "👔 Ela entrou no meu carro com um MANEQUIM de terno e disse: 'Hoje ele vai ser promovido!' 😳 Só entendi quando chegamos à loja. Você conhece um comércio que merece uma segunda chance? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #Reviravolta #StorytimeBrasil #PraVoce",
+  "legenda_post": "👔🚕 Um manequim de terno, uma costureira cheia de segredos e uma loja prestes a fechar. Lúcia tinha um plano improvável para salvar quarenta anos de histórias. O novo gerente nem falava, mas ajudou todo mundo a ser ouvido! ❤️ Qual comércio do seu bairro você gostaria de ver continuar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Costura #ComercioLocal #FinalSurpresa",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro abraçada a um manequim de terno e avisou: hoje ele vai receber uma promoção. Eu achei que era pegadinha.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Antes de sair, ela cobriu o rosto de plástico com um boné. Disse que, se reconhecessem o sujeito, a surpresa acabava.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "de"
+      ]
+    },
+    {
+      "fala": "Meu nome é Caixeiro. Já transportei mudança, bolo gigante e passageiro dormindo. Mas funcionário de vitrine, confesso, era estreia.",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "Meu",
+        "nome"
+      ]
+    },
+    {
+      "fala": "A mulher se chamava Lúcia, costureira de uma loja antiga. O boneco tinha até crachá: seu Osório, setor de reclamações.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "mulher"
+      ]
+    },
+    {
+      "fala": "Perguntei se ele trabalhava bem. Lúcia respondeu: melhor que muito gerente. Não interrompe ninguém e nunca perde a paciência.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Perguntei",
+        "se"
+      ]
+    },
+    {
+      "fala": "No primeiro sinal, um braço do manequim escorregou. Um motociclista olhou assustado, e eu precisei explicar que estava tudo sob controle.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "No",
+        "primeiro"
+      ]
+    },
+    {
+      "fala": "Lúcia começou a rir, mas logo ficou séria. A loja completaria quarenta anos naquela manhã e ninguém sabia o que ela preparava.",
+      "expr": "neutra",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "Lúcia",
+        "começou"
+      ]
+    },
+    {
+      "fala": "O dono queria fechar o estabelecimento. Achava que a clientela tinha desaparecido e que as vitrines já não interessavam a ninguém.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "dono"
+      ]
+    },
+    {
+      "fala": "Só que Lúcia guardava uma informação. Durante meses, os clientes deixaram bilhetes agradecendo os consertos de roupa feitos ali.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Só",
+        "que"
+      ]
+    },
+    {
+      "fala": "Um bilhete dizia: minha mãe conseguiu ir à formatura com o vestido que vocês salvaram. Outro agradecia por um uniforme remendado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "bilhete"
+      ]
+    },
+    {
+      "fala": "Eu perguntei o que o boneco tinha a ver com aquilo. Ela apontou o crachá e respondeu: ele é quem vai contar tudo.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Chegamos à rua da loja. Havia uma fila pequena, uma caixa de som e um cartaz coberto por um lençol.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "Chegamos",
+        "à"
+      ]
+    },
+    {
+      "fala": "Quando Lúcia abriu a porta do carro, o manequim perdeu um sapato. Um menino pegou e perguntou se o moço estava nervoso.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "Lúcia"
+      ]
+    },
+    {
+      "fala": "Eu disse que era o primeiro dia dele como gerente. O menino respondeu: então começa mal, porque já perdeu o uniforme.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Eu",
+        "disse"
+      ]
+    },
+    {
+      "fala": "Entramos na loja. O dono, seu Álvaro, estava perto do balcão, segurando uma pasta com documentos e uma cara preocupada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Entramos",
+        "na"
+      ]
+    },
+    {
+      "fala": "Lúcia colocou seu Osório na vitrine e prendeu os bilhetes no terno. Cada bolso escondia uma história de cliente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "colocou"
+      ]
+    },
+    {
+      "fala": "De repente, a caixa de som começou a tocar gravações curtas. Eram vozes de gente contando por que aquela loja importava.",
+      "expr": "chocada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "De",
+        "repente"
+      ]
+    },
+    {
+      "fala": "Seu Álvaro reconheceu uma senhora que comprava tecido ali desde jovem. Reconheceu também o padeiro, a professora e um antigo aprendiz.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Seu",
+        "Álvaro"
+      ]
+    },
+    {
+      "fala": "Então veio a reviravolta: os clientes tinham organizado uma oficina coletiva para ensinar costura aos jovens, usando o espaço vazio dos fundos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Então",
+        "veio"
+      ]
+    },
+    {
+      "fala": "Não pediam dinheiro nem milagre. Queriam manter a loja aberta com aulas, reparos e encomendas, dividindo o trabalho com Lúcia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Não",
+        "pediam"
+      ]
+    },
+    {
+      "fala": "O dono ficou quieto por alguns segundos. Depois tirou da pasta o aviso de fechamento e colocou uma folha em branco no balcão.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "dono"
+      ]
+    },
+    {
+      "fala": "Ele escreveu: inscrições abertas. O menino do sapato foi o primeiro a levantar a mão, querendo aprender a costurar.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "escreveu"
+      ]
+    },
+    {
+      "fala": "Na saída, Lúcia me pagou a corrida e perguntou se o novo gerente tinha se comportado. Respondi: excelente, só perdeu um sapato.",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Na",
+        "saída"
+      ]
+    },
+    {
+      "fala": "E aprendi que às vezes uma vitrine não precisa de roupa nova, mas de novas histórias. Cinco estrelas pra essa corrida! Conta e compartilha.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "QUAL LOJA MERECE UMA SEGUNDA CHANCE?"
+      ],
+      "destaque": [
+        "E",
+        "aprendi"
+      ]
+    }
+  ]
+}
