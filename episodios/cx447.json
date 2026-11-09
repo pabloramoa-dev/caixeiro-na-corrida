@@ -1,0 +1,357 @@
+{
+  "id": "cx447",
+  "ep": 447,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA DE SAPATOS DO TEATRO",
+  "categoria": "reencontro_passageiro",
+  "cenario": "tarde_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎻 Ela entrou no carro com uma caixa lacrada e um segredo de quinze anos. O músico ainda lembrava dela? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🚕🎭 Uma caixa de sapatos, duas fotografias e um gesto que atravessou quinze anos. Quem acreditou no seu sonho? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma caixa de sapatos lacrada e disse: se eu estiver errada, vou embora antes que ele me veja.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Ela",
+        "entrou"
+      ]
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida descobri que uma pequena caixa pode guardar uma história enorme.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eu",
+        "sou"
+      ]
+    },
+    {
+      "fala": "A passageira era Marta, uma costureira que tinha acabado de receber uma ligação inesperada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Ela pediu para ir até um teatro antigo, no outro lado da cidade, antes que começasse a apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "pediu"
+      ]
+    },
+    {
+      "fala": "Perguntei o que havia na caixa. Ela respondeu: uma coisa que eu prometi devolver há quinze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "o"
+      ]
+    },
+    {
+      "fala": "Na época, Marta trabalhava nos bastidores daquele teatro, consertando figurinos até tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "época,"
+      ]
+    },
+    {
+      "fala": "Um garoto chamado Davi aparecia todos os dias para ensaiar, mesmo sem ter dinheiro para as aulas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Um",
+        "garoto"
+      ]
+    },
+    {
+      "fala": "Ele sonhava em tocar violino na orquestra, mas o instrumento emprestado vivia quebrando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ele",
+        "sonhava"
+      ]
+    },
+    {
+      "fala": "Marta passou semanas juntando sobras de tecido e dinheiro de pequenos consertos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "passou"
+      ]
+    },
+    {
+      "fala": "Com ajuda do porteiro, comprou um estojo usado e restaurou o forro por dentro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Com",
+        "ajuda"
+      ]
+    },
+    {
+      "fala": "Entregou o estojo ao menino na noite da primeira apresentação. Ele prometeu cuidar dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Entregou",
+        "o"
+      ]
+    },
+    {
+      "fala": "Poucos meses depois, o teatro fechou para reformas e todos perderam contato.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Poucos",
+        "meses"
+      ]
+    },
+    {
+      "fala": "Marta mudou de bairro. O tempo passou, e aquela lembrança ficou guardada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "mudou"
+      ]
+    },
+    {
+      "fala": "Até que, naquela manhã, recebeu uma ligação de uma antiga colega de trabalho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Até",
+        "que,"
+      ]
+    },
+    {
+      "fala": "A colega disse que Davi voltaria ao teatro para tocar como solista naquela noite.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "colega"
+      ]
+    },
+    {
+      "fala": "Mas havia um detalhe estranho: ele procurava a mulher que tinha costurado seu primeiro estojo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Mas",
+        "havia"
+      ]
+    },
+    {
+      "fala": "Marta ficou emocionada, mas disse que talvez ele nem lembrasse de seu rosto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "ficou"
+      ]
+    },
+    {
+      "fala": "A caixa no colo dela guardava o único objeto daquela época: uma fotografia do elenco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "caixa"
+      ]
+    },
+    {
+      "fala": "Ela queria entregar a foto e sair discretamente, sem atrapalhar o espetáculo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ela",
+        "queria"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a entrada estava cheia. Um funcionário pediu os ingressos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Quando",
+        "chegamos,"
+      ]
+    },
+    {
+      "fala": "Marta explicou que só queria deixar uma lembrança para o músico, sem entrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "O funcionário ouviu seu nome e pediu que esperasse. Parecia já saber quem ela era.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "O",
+        "funcionário"
+      ]
+    },
+    {
+      "fala": "Logo apareceu uma mulher da produção segurando um crachá escrito convidada especial.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Logo",
+        "apareceu"
+      ]
+    },
+    {
+      "fala": "Marta olhou para mim, surpresa, e perguntou se não tinham confundido as pessoas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "olhou"
+      ]
+    },
+    {
+      "fala": "A produtora mostrou uma fotografia antiga: Marta sorria ao lado de Davi e do estojo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "A",
+        "produtora"
+      ]
+    },
+    {
+      "fala": "Foi então que entendemos: Davi guardara a foto e pedira que encontrassem Marta.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Foi",
+        "então"
+      ]
+    },
+    {
+      "fala": "Antes do concerto, ele apareceu no corredor e agradeceu por alguém ter acreditado nele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Antes",
+        "do"
+      ]
+    },
+    {
+      "fala": "Marta entregou a caixa. Dentro estava outra fotografia, tirada no primeiro ensaio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "entregou"
+      ]
+    },
+    {
+      "fala": "Os dois riram ao comparar as fotos, e Davi a convidou para assistir da primeira fila.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Os",
+        "dois"
+      ]
+    },
+    {
+      "fala": "Na volta, pensei que gestos pequenos podem ecoar por muitos anos sem a gente perceber.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Na",
+        "volta,"
+      ]
+    },
+    {
+      "fala": "E você, quem acreditou no seu sonho quando ele ainda parecia impossível? Conta aqui e acompanha o Caixeiro.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "QUEM ACREDITOU EM VOCÊ?"
+      ],
+      "destaque": [
+        "E",
+        "você,"
+      ]
+    }
+  ]
+}
