@@ -61,7 +61,8 @@ jobs:
       - name: Registrar e limpar mídia antiga
         if: success()
         run: |
-          python motor/limpar_reels.py --dias 4 --alvo 9
+          python motor/limpar_reels.py --dias 7 --alvo 9 --simular
+          python motor/limpar_reels.py --dias 7 --alvo 9
           git config user.name "caixeiro-bot"
           git config user.email "actions@github.com"
           git add -A conteudo/publicados.json reels/
