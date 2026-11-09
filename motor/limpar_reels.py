@@ -27,7 +27,7 @@ def limpar(dias: int = 4, alvo: int = 9, simular: bool = False) -> dict:
     for x in dados:
         if x.get("ensaio") or not RX.match(str(x.get("id", ""))) or "-story" in str(x.get("id")):
             continue
-        quando[x["id"]] = datetime.fromisoformat(x["quando"])
+        # Somente publicacoes confirmadas no Instagram autorizam a limpeza.\n        if not x.get("instagram") or not x.get("media_id"):\n            continue\n        quando[x["id"]] = datetime.fromisoformat(x["quando"])
     limite = datetime.now(BRT) - timedelta(days=dias)
     grupos: dict[str, list[Path]] = {}
     for p in (REELS.iterdir() if REELS.exists() else []):
@@ -38,7 +38,7 @@ def limpar(dias: int = 4, alvo: int = 9, simular: bool = False) -> dict:
     excesso = set(nao_pub[alvo:])
     remover = []
     for ep_id, arqs in grupos.items():
-        if (ep_id in quando and quando[ep_id] < limite) or ep_id in excesso:
+        if ep_id in quando and quando[ep_id] < limite:
             remover.extend(arqs)
     total = sum(p.stat().st_size for p in remover)
     if not simular:
