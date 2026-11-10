@@ -8,8 +8,8 @@ name: Caixeiro diário (18h)
 # Disparo manual (Actions > Caixeiro diário (18h) > Run workflow) = episódio extra na hora.
 
 on:
-  # schedule:   (liga depois do teste manual)
-  #   - cron: "0 21 * * *"   # 18:00 em Brasília (UTC-3)
+  schedule:
+    - cron: "0 21 * * *"   # 18:00 em Brasília (UTC-3)
   workflow_dispatch:
     inputs:
       dry_run:
