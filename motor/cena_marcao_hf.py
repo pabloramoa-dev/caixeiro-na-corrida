@@ -6,6 +6,7 @@ sys.path.insert(0, str(M))
 from manim import *
 import numpy as np
 import marcao_lib as ML
+import caixeiro_marcha as MARCHA
 import dvh_vox_papel as V
 import objetos as O
 
@@ -84,7 +85,18 @@ class MarcaoBase(Scene):
             a = 0.07 * np.sin(t * 0.8) + 0.03 * np.sin(t * 2.1)
             m.rotate(a - st_v['a'], about_point=m[4].get_center()); st_v['a'] = a
         p['roda'].add_updater(girar)
-        home = p['tudo'].get_center().copy(); state = {'i': 0}
+        # Referências relativas à cabeça: permitem animar ombro, cotovelo e mão
+        # sem deslocar o personagem quando a geometria do braço muda.
+        home = p['cab'].get_center().copy()
+        ombro_rel = p['bracos'][3][0].get_start() - home
+        cotovelo_rel = p['bracos'][4][0].get_end() - home
+        mao_rel = p['mao_d'].get_center() - home
+        marcha_ativa = os.environ.get('CAIXEIRO_TROCA_MARCHA', '1').lower() not in ('0', 'false', 'nao')
+        state = {'i': 0}
+
+        def ajustar_membro(segmento, inicio, fim):
+            for linha in segmento:
+                linha.put_start_and_end_on(inicio, fim)
 
         def motion(m, dt):
             t = self.renderer.time
@@ -96,7 +108,25 @@ class MarcaoBase(Scene):
                 p['expr'] = expr; state['i'] = i
             # balanço do carro: leve, com "buraco" de vez em quando
             bump = 0.05 * max(0, np.sin(t * 0.9)) ** 12
-            m.move_to(home + np.array([.03 * np.sin(t * 1.1), .025 * np.sin(t * 3.3) + bump, 0]))
+            pos_cab = home + np.array([.03 * np.sin(t * 1.1), .025 * np.sin(t * 3.3) + bump, 0])
+            m.shift(pos_cab - p['cab'].get_center())
+
+            if marcha_ativa:
+                # Descer a mão direita até o câmbio, pausar e voltar ao volante.
+                # O braço esquerdo, volante, rosto e lip sync seguem independentes.
+                f = MARCHA.progresso(t)
+                cab = p['cab'].get_center()
+                ombro = cab + ombro_rel
+                cotovelo_neutro = cab + cotovelo_rel
+                mao_neutra = cab + mao_rel
+                mao_cambio = cen['manopla'].get_center()
+                cotovelo_cambio = ombro + 0.53 * (mao_cambio - ombro) + np.array([.11, -.13, 0])
+                cotovelo = (1 - f) * cotovelo_neutro + f * cotovelo_cambio
+                mao = (1 - f) * mao_neutra + f * mao_cambio
+                ajustar_membro(p['bracos'][3], ombro, ombro + .55 * (cotovelo - ombro))
+                ajustar_membro(p['bracos'][4], ombro + .50 * (cotovelo - ombro), cotovelo)
+                ajustar_membro(p['bracos'][5], cotovelo, mao)
+                p['mao_d'].move_to(mao)
         p['tudo'].add_updater(motion)
         ML.animar(self, p, cues)
         self.wait(segs[-1]['fim'] + 2.2)
