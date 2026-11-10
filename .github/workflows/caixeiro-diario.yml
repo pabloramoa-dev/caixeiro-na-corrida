@@ -1,17 +1,20 @@
-name: Caixeiro diário (18h)
+name: Caixeiro — 12h curto / 20h longo
 
-# Todo dia às 18h de Brasília:
-#   1. se não houver vídeo pronto, renderiza 1 episódio antes;
-#   2. publica o Reel no Instagram do Caixeiro;
-#   3. manda o MP4 + descrição no Telegram (mesmo bot da Nina);
-#   4. renderiza 1 episódio novo pra deixar pronto pro dia seguinte.
-# Disparo manual (Actions > Caixeiro diário (18h) > Run workflow) = episódio extra na hora.
+# Teste de retenção: 12h Reel curto, 20h Reel longo (Brasília).
+# Cada horário abastece sua própria fila e publica uma vez.
+# Disparo manual permite escolher o formato.
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # 18:00 em Brasília (UTC-3)
+    - cron: "0 15 * * *"   # 12:00 em Brasília (UTC-3)
+    - cron: "0 23 * * *"   # 20:00 em Brasília (UTC-3)
   workflow_dispatch:
     inputs:
+      horario:
+        description: "Qual Reel publicar"
+        type: choice
+        options: [almoco, noite]
+        default: almoco
       dry_run:
         description: "Ensaio: valida tudo e NÃO publica nem manda Telegram"
         type: boolean
@@ -29,6 +32,8 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       precisa: ${{ steps.e.outputs.precisa }}
+      horario: ${{ steps.e.outputs.horario }}
+      formato: ${{ steps.e.outputs.formato }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -41,7 +46,11 @@ jobs:
           python - <<'PY'
           import os
           from src import fila
-          prox = fila.proximo("diario")
+          horario = "${{ inputs.horario || '' }}" or ("almoco" if "${{ github.event.schedule }}" == "0 15 * * *" else "noite")
+          formato = "curto" if horario == "almoco" else "longo"
+          prox = fila.proximo(horario)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"horario={horario}\nformato={formato}\n")
           print("Próximo pronto:", prox)
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"precisa={'true' if prox is None else 'false'}\n")
@@ -54,6 +63,7 @@ jobs:
     with:
       limite: "1"
       alvo: "1"
+      formato: ${{ needs.estoque.outputs.formato }}
     secrets: inherit
 
   publicar:
@@ -80,7 +90,7 @@ jobs:
           GRAPH_API_VERSION: ${{ vars.GRAPH_API_VERSION }}
           PUBLICAR_ATIVO: "true"
           DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
-        run: python -m src.publicar --horario diario
+        run: python -m src.publicar --horario ${{ needs.estoque.outputs.horario }}
       - name: Registrar no histórico
         if: always()
         run: |
@@ -88,7 +98,7 @@ jobs:
           git config user.email "actions@github.com"
           git add conteudo/publicados.json
           git diff --cached --quiet && exit 0
-          git commit -m "publicado: 18h [skip ci]"
+          git commit -m "publicado: ${{ needs.estoque.outputs.horario }} [skip ci]"
           for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 6; done
           exit 1
 
@@ -98,5 +108,6 @@ jobs:
     uses: ./.github/workflows/produzir.yml
     with:
       limite: "1"
-      alvo: "3"
+      alvo: "2"
+      formato: ${{ needs.estoque.outputs.formato }}
     secrets: inherit
