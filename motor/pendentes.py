@@ -13,7 +13,6 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(RAIZ))
-from motor.formatos import FIM
 from src import fila  # noqa: E402
 
 
@@ -22,12 +21,9 @@ def selecionar(alvo: int, limite: int) -> list[Path]:
     prontos = len(fila.prontos_nao_publicados())
     faltam = max(0, alvo - prontos)
     out: list[Path] = []
-    pendentes = [e for e in fila.episodios() if e not in feitos and fila.desatualizado(e)]
-    if fila.datetime.now(fila.BRT).date() <= FIM:
-        curtos = [e for e in pendentes if e in fila.CURTOS]
-        longos = [e for e in pendentes if e not in fila.CURTOS]
-        from itertools import zip_longest
-        pendentes = [e for par in zip_longest(curtos,longos) for e in par if e]
+    # Rotina diária (18h): só episódios completos de ~3 min, um por vez.
+    pendentes = [e for e in fila.episodios()
+                 if e not in feitos and e not in fila.CURTOS and fila.desatualizado(e)]
     for ep_id in pendentes:
         if len(out) >= min(faltam, limite):
             break
