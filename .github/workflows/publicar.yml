@@ -1,13 +1,9 @@
-name: Publicar episódio
+name: Publicar episódio (manual, agenda antiga)
 
-# 3 vídeos por dia (8h, 12h, 20h de Brasília). O das 20h também vai pros Stories.
-# Junto, o WhatsApp do Pablo recebe o link do MP4 + a descrição pro TikTok.
+# A rotina automática agora é caixeiro-diario.yml (18h, 1 episódio, Instagram + Telegram).
+# Este workflow ficou só para disparo manual nos horários antigos.
 
 on:
-  schedule:
-    - cron: "7 11 * * *"    # 08:07 Brasília
-    - cron: "0 15 * * *"    # 12:00 Brasília
-    - cron: "0 23 * * *"    # 20:00 Brasília — Reel + Story
   workflow_dispatch:
     inputs:
       horario:
