@@ -11,8 +11,8 @@ EPISODIOS = RAIZ / "episodios"
 REELS = RAIZ / "reels"
 PUBLICADOS_JSON = RAIZ / "conteudo" / "publicados.json"
 
-RESERVA_MINIMA = 6        # vídeos prontos = 2 dias a 3 por dia; abaixo disso abre alerta
-HORARIOS = {"manha": "08h", "almoco": "12h", "noite": "20h"}
+RESERVA_MINIMA = 2        # vídeos prontos (1 por dia às 18h); abaixo disso abre alerta
+HORARIOS = {"manha": "08h", "almoco": "12h", "noite": "20h", "diario": "18h"}
 COM_STORY = {"noite"}     # o das 20h também vai pros Stories (versão de 59 s)
 DURACAO_MIN_S = 60.0
 DURACAO_MAX_S = 240.0     # episódios de ~3 min (Reels aceita até 15 min pela API)
@@ -59,7 +59,7 @@ def carregar(exigir_credenciais: bool = True) -> Config:
 
 
 def esconder(texto: str) -> str:
-    for nome in ("IG_ACCESS_TOKEN_CAIXEIRO", "CALLMEBOT_APIKEY"):
+    for nome in ("IG_ACCESS_TOKEN_CAIXEIRO", "CALLMEBOT_APIKEY", "TELEGRAM_BOT_TOKEN_NINA"):
         tok = os.getenv(nome, "")
         if tok and len(tok) > 4:
             texto = texto.replace(tok, "***")
