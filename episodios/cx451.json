@@ -1,0 +1,247 @@
+{
+  "id": "cx451",
+  "ep": 451,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA VAZIA DO AEROPORTO",
+  "categoria": "historia_passageiro",
+  "cenario": "manha_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🧳 Ela pediu uma corrida até o aeroporto com uma mala vazia e sem passagem. O que precisava entregar antes do voo? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #Memorias",
+  "legenda_post": "🚕🧳 Rosa levou uma mala vazia até o aeroporto, mas carregava uma lembrança que não cabia nela. Manda para quem guarda uma voz especial na memória. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Memorias\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala vazia e pediu para ir ao aeroporto. Só que não tinha passagem nenhuma.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando perguntei o motivo, ela respondeu: preciso devolver uma coisa antes que o voo decole.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Rosa. No colo, segurava uma pequena etiqueta de bagagem com o nome de outra pessoa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela explicou que trabalhava havia vinte anos no setor de objetos perdidos de um terminal rodoviário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, recebeu uma ligação de um rapaz chamado Miguel, que procurava uma mala azul desaparecida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Não era uma mala cara. Dentro havia um gravador antigo e fitas com a voz do avô dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O avô tinha falecido, e Miguel queria ouvir uma última história gravada para seu aniversário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa se lembrou imediatamente de uma mala azul guardada havia meses no depósito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a etiqueta estava rasgada, e ninguém conseguia confirmar quem era o dono.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu a mala com autorização do supervisor e encontrou o gravador embrulhado num casaco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira fita, uma voz dizia: Miguel, quando você crescer, quero que conheça o lugar onde aprendi a voar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa ficou intrigada. O avô de Miguel tinha sido mecânico de aviões, não piloto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na caixa havia também uma fotografia de um pequeno avião diante de um hangar antigo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela ligou para Miguel e descreveu a fotografia. Ele reconheceu o avô na mesma hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o rapaz estava a caminho do aeroporto, prestes a mudar de cidade para começar um emprego.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele não conseguiria passar na rodoviária antes do embarque. Rosa decidiu levar a mala pessoalmente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi aí que ela entrou no meu carro. Só que a mala estava vazia porque o gravador seguia numa sacola protegida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na metade do caminho, o celular dela tocou. O supervisor avisou que havia outra fita escondida no forro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa pediu para voltarmos. Eu olhei o relógio: faltavam quarenta minutos para o embarque.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltamos ao terminal e encontramos a fita pequena, marcada com uma data de vinte anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seguimos para o aeroporto. Rosa repetia que o importante era entregar tudo, mesmo que o rapaz perdesse o voo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, Miguel já estava na fila do portão. Um funcionário ajudou a chamá-lo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele veio correndo e reconheceu o casaco antes mesmo de olhar o gravador.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa entregou a fita extra. Miguel leu o rótulo e ficou em silêncio: era o dia em que ele nasceu.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele colocou os fones e ouviu alguns segundos. Depois contou que o avô havia gravado uma mensagem de boas-vindas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O rapaz agradeceu e disse que agora podia viajar levando uma parte da família com ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa voltou ao carro com a mala vazia. Dessa vez, ela parecia pesar muito menos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu aprendi que às vezes a corrida mais importante não transporta bagagem. Transporta uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda esta história para alguém que guarda com carinho a voz de uma pessoa querida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
