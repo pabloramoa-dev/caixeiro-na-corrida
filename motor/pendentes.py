@@ -16,14 +16,14 @@ sys.path.insert(0, str(RAIZ))
 from src import fila  # noqa: E402
 
 
-def selecionar(alvo: int, limite: int) -> list[Path]:
+def selecionar(alvo: int, limite: int, formato: str = 'longo') -> list[Path]:
     feitos = fila.ids_publicados()
-    prontos = len(fila.prontos_nao_publicados())
+    prontos = len([e for e in fila.prontos_nao_publicados() if (e in fila.CURTOS) == (formato == 'curto')])
     faltam = max(0, alvo - prontos)
     out: list[Path] = []
-    # Rotina diária (18h): só episódios completos de ~3 min, um por vez.
+    # Cada fila é abastecida de forma independente: curtos e longos.
     pendentes = [e for e in fila.episodios()
-                 if e not in feitos and e not in fila.CURTOS and fila.desatualizado(e)]
+                 if e not in feitos and (e in fila.CURTOS) == (formato == 'curto') and fila.desatualizado(e)]
     for ep_id in pendentes:
         if len(out) >= min(faltam, limite):
             break
@@ -38,8 +38,9 @@ def main() -> int:
     ap.add_argument("--rel", action="store_true")
     ap.add_argument("--alvo-prontos", type=int, default=9)
     ap.add_argument("--limite", type=int, default=9)
+    ap.add_argument("--formato", choices=["curto", "longo"], default="longo")
     a = ap.parse_args()
-    for p in selecionar(max(1, a.alvo_prontos), max(1, a.limite)):
+    for p in selecionar(max(1, a.alvo_prontos), max(1, a.limite), a.formato):
         print(p.relative_to(RAIZ) if a.rel else p)
     return 0
 
