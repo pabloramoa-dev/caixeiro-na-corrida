@@ -9,7 +9,7 @@
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "ffmpeg",
+  "audio": "pedalboard",
   "sfx": 75,
   "visual": "v4",
   "lip": "rhubarb",
