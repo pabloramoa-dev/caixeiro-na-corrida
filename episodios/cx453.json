@@ -1,0 +1,231 @@
+{
+  "id": "cx453",
+  "ep": 453,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA QUE TOCAVA TRES NOTAS",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎹 Uma caixa lacrada tocou três notas dentro do meu carro. O endereço levava a uma escola que já não existia! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #FinalSurpresa",
+  "legenda_post": "🚕🎼 Elisa recebeu uma caixa musical e um endereço misterioso. O que parecia um enigma virou uma homenagem inesquecível. Qual música lembra alguém especial? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Musica\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma caixa de sapatos lacrada e avisou: se tocar música lá dentro, não abra.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu nem tinha saído da esquina quando ouvi três notas de piano vindo da caixa. E o destino era uma escola demolida.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Elisa. Ela segurava um endereço rabiscado num papel amarelado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se havia um celular tocando. Ela disse que não: era um pequeno aparelho musical de corda.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa explicou que a mãe havia sido professora de música naquela escola por quase trinta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando a escola fechou, os instrumentos foram vendidos e os alunos seguiram caminhos diferentes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, Elisa recebeu uma caixa sem remetente e uma carta com apenas quatro palavras: volte antes de sexta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia uma fotografia da turma, uma chave e um bilhete com o endereço de um depósito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o mais estranho era a melodia. A caixa tocava sempre as mesmas três notas e parava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela acreditava que alguém tinha quebrado o mecanismo. Só que o bilhete dizia para não consertar nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira parada do semáforo, Elisa recebeu uma ligação de um número desconhecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma senhora perguntou se ela ainda lembrava a canção que a mãe ensinava para acalmar os alunos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa começou a cantarolar baixinho. A senhora respondeu: então você já sabe onde procurar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. Pela primeira vez na corrida, Elisa pareceu menos assustada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O depósito ficava ao lado do terreno onde existia a escola. Na porta havia um cartaz: encontro de ex-alunos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa quis voltar. Disse que não tinha coragem de entrar depois de tantos anos.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando um homem apareceu carregando um teclado antigo e chamou por ela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era Daniel, um dos primeiros alunos da mãe. Ele explicou que a turma tinha preparado uma surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Cada ex-aluno havia guardado uma nota da última música que a professora compôs.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A caixa musical tocava só o começo porque a melodia precisava ser completada por todos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa abriu a tampa. Em vez de uma peça quebrada, encontrou uma partitura dobrada com o nome da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No salão, antigos alunos se reuniram com violões, flautas e um piano emprestado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando tocaram juntos, Elisa reconheceu a canção que ouvia na cozinha durante a infância.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela percebeu que a caixa não era um enigma para resolver sozinha. Era um convite para reencontrar pessoas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de ir embora, Daniel entregou a ela a fotografia da turma com uma dedicatória no verso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei ao carro com a sensação de que algumas músicas guardam endereços que a memória esquece.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa história lembrou alguém que marcou sua vida, compartilhe e conte qual música traz essa pessoa de volta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
