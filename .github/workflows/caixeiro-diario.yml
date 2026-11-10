@@ -103,7 +103,7 @@ jobs:
           exit 1
 
   repor:
-    needs: publicar
+    needs: [estoque, publicar]
     if: ${{ always() && needs.publicar.result == 'success' }}
     uses: ./.github/workflows/produzir.yml
     with:
