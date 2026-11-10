@@ -1,0 +1,231 @@
+{
+  "id": "cx452",
+  "ep": 452,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O RELOGIO PARADO DA OFICINA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⌚ Um passageiro entrou no carro com um relógio parado e um endereço que guardava um segredo. O que havia na oficina? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #Memorias",
+  "legenda_post": "🚕⌚ Nestor voltou à oficina do pai com um relógio parado às seis e dez. Uma fotografia revelou o que ele nunca tinha entendido. Manda para quem merece ouvir uma lembrança boa. #CaixeiroNaCorrida #ReelsBrasil #Familia #Memorias\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro com um relógio parado e disse: preciso chegar antes que ele volte a funcionar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que fosse brincadeira. Mas quando vi o endereço, percebi que era uma oficina de relógios fechada havia anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Nestor. Tinha nas mãos uma caixinha de madeira e uma fotografia dobrada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que o pai consertava relógios na pequena oficina da praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando criança, Nestor esperava o pai fechar a loja para caminharem juntos até em casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia, os dois discutiram. Nestor foi embora da cidade sem se despedir direito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Anos depois, o pai morreu, e a oficina ficou trancada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, Nestor recebeu um telefonema da nova dona do imóvel.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Durante uma reforma, ela encontrara uma gaveta com o nome dele escrito à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei o que havia na gaveta. Ele mostrou o relógio de bolso, parado às seis e dez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era exatamente o horário em que o pai costumava encerrar o expediente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas havia outra coisa: um bilhete com uma frase incompleta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o ponteiro andar de novo, você vai entender por que eu sempre esperei.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nestor levou o relógio a um relojoeiro, que conseguiu recuperar o mecanismo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Só que ele pediu para não dar corda antes de chegar à antiga oficina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na metade da corrida, o celular tocou. A nova dona disse que tinha encontrado mais uma peça atrás do balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era uma fotografia antiga: Nestor criança, dormindo numa cadeira, enquanto o pai trabalhava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No verso, uma frase: eu fechava às seis e dez, mas ficava até você acordar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nestor ficou quieto. Olhou pela janela e apertou a caixinha contra o peito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a fachada estava diferente, mas o sino da porta ainda era o mesmo.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A dona entregou a fotografia. Ele leu a frase inteira pela primeira vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então deu corda no relógio. O tique-taque preencheu o silêncio da oficina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele me disse que passou a vida achando que o pai preferia o trabalho à companhia dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas naquela foto descobriu que o pai sempre escolhia esperar por ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de sair, Nestor deixou a fotografia numa moldura sobre o balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, o relógio continuava funcionando. E ele já não precisava correr contra o tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para alguém que merece saber que você nunca esqueceu de esperar por ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
