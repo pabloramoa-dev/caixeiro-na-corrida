@@ -1,0 +1,102 @@
+name: Caixeiro diário (18h)
+
+# Todo dia às 18h de Brasília:
+#   1. se não houver vídeo pronto, renderiza 1 episódio antes;
+#   2. publica o Reel no Instagram do Caixeiro;
+#   3. manda o MP4 + descrição no Telegram (mesmo bot da Nina);
+#   4. renderiza 1 episódio novo pra deixar pronto pro dia seguinte.
+# Disparo manual (Actions > Caixeiro diário (18h) > Run workflow) = episódio extra na hora.
+
+on:
+  # schedule:   (liga depois do teste manual)
+  #   - cron: "0 21 * * *"   # 18:00 em Brasília (UTC-3)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Ensaio: valida tudo e NÃO publica nem manda Telegram"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: caixeiro-diario
+  cancel-in-progress: false
+
+jobs:
+  estoque:
+    runs-on: ubuntu-latest
+    outputs:
+      precisa: ${{ steps.e.outputs.precisa }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - id: e
+        run: |
+          python - <<'PY'
+          import os
+          from src import fila
+          prox = fila.proximo("diario")
+          print("Próximo pronto:", prox)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"precisa={'true' if prox is None else 'false'}\n")
+          PY
+
+  render_antes:
+    needs: estoque
+    if: needs.estoque.outputs.precisa == 'true'
+    uses: ./.github/workflows/produzir.yml
+    with:
+      limite: "1"
+      alvo: "1"
+    secrets: inherit
+
+  publicar:
+    needs: [estoque, render_antes]
+    if: ${{ always() && needs.estoque.result == 'success' && (needs.render_antes.result == 'success' || needs.render_antes.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt
+      - name: Publicar no Instagram e mandar no Telegram
+        env:
+          IG_USER_ID_CAIXEIRO: ${{ secrets.IG_USER_ID_CAIXEIRO }}
+          IG_ACCESS_TOKEN_CAIXEIRO: ${{ secrets.IG_ACCESS_TOKEN_CAIXEIRO }}
+          TELEGRAM_BOT_TOKEN_NINA: ${{ secrets.TELEGRAM_BOT_TOKEN_NINA }}
+          TELEGRAM_CHAT_ID_NINA: ${{ secrets.TELEGRAM_CHAT_ID_NINA }}
+          RAW_BASE_URL: ${{ vars.RAW_BASE_URL }}
+          GRAPH_API_VERSION: ${{ vars.GRAPH_API_VERSION }}
+          PUBLICAR_ATIVO: "true"
+          DRY_RUN: ${{ inputs.dry_run && 'true' || 'false' }}
+        run: python -m src.publicar --horario diario
+      - name: Registrar no histórico
+        if: always()
+        run: |
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add conteudo/publicados.json
+          git diff --cached --quiet && exit 0
+          git commit -m "publicado: 18h [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 6; done
+          exit 1
+
+  repor:
+    needs: publicar
+    if: ${{ always() && needs.publicar.result == 'success' }}
+    uses: ./.github/workflows/produzir.yml
+    with:
+      limite: "1"
+      alvo: "3"
+    secrets: inherit
