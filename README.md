@@ -108,6 +108,23 @@ sem mudar Caixeiro, voz, lip sync, legendas inferiores, ganchos nem publicacao.
 O visual das ilustracoes e de **animacao de camera sobre quadros 2D**:
 nao deve ser confundido com animacao de membros independente por personagem.
 
+## Animação da mão direita e câmbio (novembro/2026)
+
+No motor Manim (`motor/marcao_lib.py` e `motor/cena_marcao_hf.py`),
+o Caixeiro mantém a mão esquerda no volante. A direita sai do volante,
+desce até o câmbio desenhado no console, faz uma pausa curta e retorna.
+O ombro, cotovelo e antebraço acompanham a mão, com interpolação suave.
+O gesto acontece aproximadamente a cada 13,5 segundos, sem loop acelerado.
+A animação integra a camada-base do HyperFrames e preserva voz, lipsync,
+ilustrações, legendas e horários da publicação.
+
+- Padrão em novos renders: `CAIXEIRO_TROCA_MARCHA=1`.
+- Para voltar ao braço estático: `CAIXEIRO_TROCA_MARCHA=0`.
+- A versão do render foi atualizada apenas para vídeos ainda pendentes;
+  vídeos já publicados não são republicados automaticamente.
+- Teste rápido: `python -m unittest tests.test_caixeiro_marcha -v`.
+- Prévia isolada sem publicar: workflow `caixeiro-marcha-preview.yml`.
+
 ## Vozes e encerramento dos Reels
 
 O Caixeiro usa Kokoro `pm_alex:0.62+pm_santa:0.38`. AntonioNeural é a reserva se a síntese local falhar.
