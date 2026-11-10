@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎻 Ela entrou no carro com um VIOLINO escondido numa caixa de ferramentas e disse que ninguém podia ouvir uma nota! 😳 O segredo da oficina emocionou a praça inteira. Você conhece alguém com um talento escondido? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #StorytimeBrasil #Musica #FinalSurpresa",
-  "legenda_post": "🎻🚕 Irene tinha uma missão: devolver ao pai uma lembrança que ele achava perdida para sempre. Entre bicicletas, vizinhos e uma jovem musicista, a praça virou palco de uma surpresa inesquecível. ❤️ Qual talento escondido merece ser reconhecido? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Musica #HistoriasQueInspiram #Surpresa",
+  "legenda_post": "🎻🚕 Irene tinha uma missão: devolver ao pai uma lembrança que ele achava perdida para sempre. Entre bicicletas, vizinhos e uma jovem musicista, a praça virou palco de uma surpresa inesquecível. ❤️ Qual talento escondido merece ser reconhecido? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Musica #HistoriasQueInspiram #Surpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um violino dentro de uma caixa de ferramentas e avisou: se alguém ouvir uma nota antes das seis, a surpresa acaba!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "seis",
+        "surpresa"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Já levei mudança, bolo e até galinha de borracha, mas violino escondido em caixa de ferramentas era novidade.",
+      "fala": "Já levei mudança, bolo e até galinha de borracha, mas violino escondido em caixa de ferramentas era novidade.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "ferramentas",
+        "escondido"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Irene",
+        "Usava"
       ]
     },
     {
       "fala": "Perguntei se o instrumento estava quebrado. Ela disse: pelo contrário, motorista. O problema é quem vai tocar nele.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "instrumento",
+        "Perguntei"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "destino"
+        "Irene",
+        "principal"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "perguntando",
+        "telefone"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "pensei"
+        "Irene",
+        "apresentação"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "Álvaro",
+        "consertava"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Todas",
-        "as"
+        "baixinho",
+        "escutava"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "os"
+        "Bia",
+        "escutavam"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Agora",
-        "Bia"
+        "Bia",
+        "agradecer"
       ]
     },
     {
@@ -139,7 +139,7 @@
         "foto"
       ],
       "destaque": [
-        "Irene",
+        "Entre",
         "abriu"
       ]
     },
@@ -150,19 +150,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "Álvaro",
+        "instrumento"
       ]
     },
     {
       "fala": "Eu quase errei a entrada da praça. Perguntei como ela conseguiu recuperar aquilo. Irene disse: essa é a parte que ele não pode descobrir ainda.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "quase"
+        "Perguntei",
+        "Irene"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "telefone"
+        "Disse",
+        "Bia"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Irene",
-        "ficou"
+        "Pediu",
+        "quarteirão"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "caminho,"
+        "revelou",
+        "segredo"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "dono"
+        "Bia",
+        "antiquário"
       ]
     },
     {
@@ -216,19 +216,19 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "paramos"
+        "enfileiradas",
+        "bicicletas"
       ]
     },
     {
       "fala": "Irene me pediu silêncio. Só que meu aplicativo anunciou em voz alta: você chegou ao destino! Todo mundo virou a cabeça.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Irene",
-        "me"
+        "Todo",
+        "aplicativo"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "Álvaro"
+        "Álvaro",
+        "carregando"
       ]
     },
     {
@@ -249,30 +249,30 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "tentou"
+        "Álvaro",
+        "Bia"
       ]
     },
     {
       "fala": "A menina abriu a caixa. O homem reconheceu o violino pela pequena marca na madeira e ficou sem conseguir dizer uma palavra.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "menina"
+        "abriu",
+        "reconheceu"
       ]
     },
     {
       "fala": "Ele perguntou quem tinha feito aquilo. Irene apontou para os vizinhos, os clientes e até o dono do antiquário, parado ao lado da banca.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "perguntou"
+        "Irene",
+        "antiquário"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "veio"
+        "Oficina",
+        "Sonhos"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "Álvaro"
+        "Álvaro",
+        "Bia"
       ]
     },
     {
       "fala": "A primeira nota saiu tímida. Na segunda, a praça ficou em silêncio. Na terceira, ele já tocava ao lado da menina, enquanto todos aplaudiam.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
+        "aplaudiam",
         "primeira"
       ]
     },
     {
       "fala": "Eu saí de fininho para não atrapalhar o concerto. E você, que talento escondido de alguém merecia uma homenagem? Conta e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL TALENTO ESCONDIDO?"
       ],
       "destaque": [
-        "Eu",
-        "saí"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

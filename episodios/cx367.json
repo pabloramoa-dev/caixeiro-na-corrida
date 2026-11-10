@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "estudante",
-        "chamada"
+        "Eva",
+        "estudante"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
+        "dez",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "estudante",
-        "chamada"
+        "Eva",
+        "automaticamente"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "corrida",
-        "parecia"
+        "aplicativo",
+        "importante"
       ]
     },
     {
@@ -62,19 +62,19 @@
       ],
       "destaque": [
         "visitando",
-        "primeira"
+        "precisava"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "cancelou",
-        "reserva"
+        "hostilidade",
+        "cancelou"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "faltava,",
+        "lembrança",
         "inventar"
       ]
     },
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Conferimos o texto original e ela percebeu que o tradutor tinha confundido uma expressão regional com uma ordem.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
         "Conferimos",
-        "original"
+        "confundido"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "Lembrei",
-        "Rosângela"
+        "Rosângela",
+        "discussão"
       ]
     },
     {
       "fala": "Eva respondeu pedindo esclarecimento em frases simples; o anfitrião confirmou que se referia ao horário de entrega das chaves.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "respondeu",
-        "pedindo"
+        "esclarecimento",
+        "respondeu"
       ]
     },
     {
@@ -151,18 +151,18 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "A moça chegou ao local e recebeu uma orientação cordial, sem nenhum desentendimento.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "recebeu",
+        "desentendimento",
         "orientação"
       ]
     },
@@ -174,19 +174,19 @@
       ],
       "destaque": [
         "aplicativo",
-        "chegada,"
+        "suficiente"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "mulher"
+        "guardanapo",
+        "segurando"
       ]
     },
     {
@@ -26,19 +26,19 @@
         "relogio"
       ],
       "destaque": [
-        "quinta,",
-        "noite."
+        "oito",
+        "Miriam"
       ]
     },
     {
       "fala": "Miriam estava nervosa com a viagem e tentou fazer uma piada quando a comissária perguntou se precisava de alguma coisa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Miriam",
-        "estava"
+        "comissária",
+        "perguntou"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "atravessada,",
-        "pareceu"
+        "profissional",
+        "atravessada"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "Miriam",
-        "passou"
+        "desembarcar",
+        "conseguiu"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "carro,",
+        "constrangimento",
         "perguntou"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "desculpas",
-        "educada"
+        "sinceridade",
+        "desculpas"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "Miriam",
-        "atendimento"
+        "atendimento",
+        "agradecer"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "Alguns",
-        "depois"
+        "funcionários",
+        "encaminhado"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "mandou",
-        "feliz,"
+        "presente",
+        "carregar"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Às vezes a maior viagem é sair do orgulho, admitir o erro e deixar a outra pessoa livre para aceitar ou não.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "viagem",
-        "orgulho,"
+        "orgulho",
+        "admitir"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

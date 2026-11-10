@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🍱 Ela entrou no meu carro com 12 marmitas e disse: 'Se eu chegar depois da noiva, o casamento acaba!' 😳 O buffet tinha sumido e eu não fazia ideia do que viria depois. Você faria o mesmo pelos seus vizinhos? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Casamento #FinalSurpresa #StorytimeBrasil #PraVoce",
-  "legenda_post": "🍱🚕 Doze marmitas, uma panela enorme e uma passageira com pressa para salvar um casamento. O buffet cancelou, mas uma vizinhança inteira resolveu transformar o problema em uma surpresa inesquecível. ❤️ Você já viu uma comunidade se unir assim? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Gentileza #HistoriasQueInspiram",
+  "legenda_post": "🍱🚕 Doze marmitas, uma panela enorme e uma passageira com pressa para salvar um casamento. O buffet cancelou, mas uma vizinhança inteira resolveu transformar o problema em uma surpresa inesquecível. ❤️ Você já viu uma comunidade se unir assim? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Gentileza #HistoriasQueInspiram\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com doze marmitas e falou: motorista, se eu chegar depois da noiva, o casamento acaba. E eu nem sabia quem era a noiva.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "doze",
+        "motorista"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Olhei",
-        "pelo"
+        "retrovisor",
+        "passageira"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "desapareceu",
+        "cozinheira"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "casamento"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Marlene",
+        "Disse"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Fiquei",
-        "indignado"
+        "vinte",
+        "Ninguém"
       ]
     },
     {
@@ -84,19 +84,19 @@
         "celular"
       ],
       "destaque": [
-        "Então",
-        "Marlene"
+        "Marlene",
+        "Havia"
       ]
     },
     {
       "fala": "Perguntei se ela conhecia os noivos. Ela ficou quieta e respondeu: conheço a mãe do rapaz. Isso já basta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Isso",
+        "Perguntei"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "carro"
       ],
       "destaque": [
-        "Na",
-        "primeira"
+        "Segurei",
+        "Marlene"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "olhei"
+        "Celina",
+        "Pensei"
       ]
     },
     {
@@ -128,19 +128,19 @@
         "notificacao"
       ],
       "destaque": [
-        "Um",
-        "áudio"
+        "Marlene",
+        "suficientes"
       ]
     },
     {
       "fala": "Perguntei de onde. Ela apontou para uma caminhonete à frente. No veículo, três vizinhos transportavam mesas dobráveis e flores.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "de"
+        "três",
+        "transportavam"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "mapa"
       ],
       "destaque": [
-        "Aquilo",
-        "ficou"
+        "Faltava",
+        "estranho"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Entrei",
-        "atrás"
+        "duas",
+        "Marlene"
       ]
     },
     {
@@ -172,7 +172,7 @@
         "foto"
       ],
       "destaque": [
-        "No",
+        "marmitas",
         "caminho"
       ]
     },
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "o"
+        "economizou",
+        "imprevisto"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "ao"
+        "Tinha",
+        "trabalhavam"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "Marlene",
-        "desceu"
+        "Todo",
+        "casamento"
       ]
     },
     {
@@ -216,19 +216,19 @@
         "conversa"
       ],
       "destaque": [
-        "Foi",
-        "aí"
+        "Marlene",
+        "chorando"
       ]
     },
     {
       "fala": "Ela disse: lembra de quando você me deu comida durante três meses, sem cobrar? Hoje é a nossa vez de retribuir.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "disse:"
+        "três",
+        "Hoje"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "salão"
+        "Depois",
+        "organizada"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "E",
-        "as"
+        "duas",
+        "Marlene"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "foto"
       ],
       "destaque": [
-        "Os",
-        "convidados"
+        "convidados",
+        "segurando"
       ]
     },
     {
@@ -271,8 +271,8 @@
         "carro"
       ],
       "destaque": [
-        "Na",
-        "volta"
+        "Marlene",
+        "Recusei"
       ]
     },
     {
@@ -283,8 +283,8 @@
         "VOCÊ FARIA O MESMO?"
       ],
       "destaque": [
-        "Eu",
-        "aceitei"
+        "Comenta",
+        "Você"
       ]
     }
   ]

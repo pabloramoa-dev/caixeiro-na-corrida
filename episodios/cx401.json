@@ -17,7 +17,7 @@
         "titulo"
       ],
       "destaque": [
-        "chamada",
+        "Ivone",
         "aconteceu"
       ]
     },
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "segunda-feira,",
+        "oito",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamada",
-        "explicou"
+        "Ivone",
+        "encontrada"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "trânsito",
-        "daquele"
+        "Aproveitei",
+        "histórias"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "localizado",
-        "biblioteca"
+        "instituição",
+        "localizado"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "publicar",
-        "documentos"
+        "fotografias",
+        "informações"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "retrovisor,",
-        "percebi"
+        "Era",
+        "preocupação"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "No balcão, a equipe confirmou o registro e explicou que tentaria contatar o antigo titular pelos meios adequados.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "balcão,",
-        "confirmou"
+        "confirmou",
+        "adequados"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "solução",
-        "novela."
+        "Conselho",
+        "Fiquei"
       ]
     },
     {
       "fala": "Semanas depois, Ivone recebeu uma mensagem de agradecimento encaminhada pela biblioteca.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "Semanas",
-        "depois,"
+        "Ivone",
+        "agradecimento"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "O dono da carteira guardava nela uma fotografia de sua formatura, perdida havia muito tempo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "carteira",
-        "guardava"
+        "fotografia",
+        "formatura"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "Encostei",
-        "permitido,"
+        "preocupação",
+        "permitido"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

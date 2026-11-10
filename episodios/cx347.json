@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "senhora"
+        "Natal",
+        "enfeites"
       ]
     },
     {
@@ -26,19 +26,19 @@
         "relogio"
       ],
       "destaque": [
-        "sexta,",
-        "noite."
+        "seis",
+        "Celeste"
       ]
     },
     {
       "fala": "Celeste morava sozinha desde que os filhos se mudaram para longe e tinha prometido que não faria festa naquele ano.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Celeste",
-        "morava"
+        "prometido",
+        "Celeste"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "assim,",
-        "montou"
+        "biscoitos",
+        "costumava"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "Quando",
-        "chegou"
+        "percebeu",
+        "momento"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "caminho,",
-        "contou"
+        "passaria",
+        "viajando"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "perguntei",
-        "tinham"
+        "duas",
+        "Celeste"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "vizinha",
-        "respondeu"
+        "Celeste",
+        "preparando"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "Deixei",
-        "entrada"
+        "delicados",
+        "carrinho"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "seguinte,",
-        "Celeste"
+        "duas",
+        "dois"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Faltava gente na mesa, sim, mas duas pessoas resolveram não esperar a casa perfeita para dividir a noite.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Faltava",
-        "pessoas"
+        "duas",
+        "resolveram"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

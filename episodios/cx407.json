@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🏆 Ela entrou no meu carro com um troféu de PIOR VIZINHO DO PRÉDIO! 😳 Eu esperava confusão, mas a revelação fez o condomínio inteiro aplaudir. Você conhece um vizinho assim? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Condominio #FinalSurpresa #StorytimeBrasil #PraVoce",
-  "legenda_post": "🏆 Um troféu escrito 'Pior Vizinho do Prédio', uma passageira atrasada e uma reunião de condomínio cheia de mistério. Eu achei que ia dar briga… até descobrir o que aquele senhor fazia quando ninguém estava olhando. ❤️ Quem no seu bairro merece reconhecimento? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #BoasHistorias #Vizinhos #Gentileza",
+  "legenda_post": "🏆 Um troféu escrito 'Pior Vizinho do Prédio', uma passageira atrasada e uma reunião de condomínio cheia de mistério. Eu achei que ia dar briga… até descobrir o que aquele senhor fazia quando ninguém estava olhando. ❤️ Quem no seu bairro merece reconhecimento? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #BoasHistorias #Vizinhos #Gentileza\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Uma mulher entrou no meu carro segurando um troféu escrito PIOR VIZINHO DO PRÉDIO. Disse que, em quinze minutos, todo mundo ia aplaudir o vencedor. Eu achei que era pegadinha. Mas espera até ouvir o motivo.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "mulher",
-        "entrou"
+        "Disse",
+        "segurando"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "carro"
       ],
       "destaque": [
-        "quase",
-        "tarde"
+        "seis",
+        "apareceu"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "conversa"
       ],
       "destaque": [
-        "apresentou",
-        "Marta"
+        "Acácias",
+        "Jardim"
       ]
     },
     {
@@ -52,8 +52,8 @@
         "O PIOR VIZINHO DO PRÉDIO?"
       ],
       "destaque": [
-        "olhei",
-        "placa"
+        "perguntei",
+        "respondeu"
       ]
     },
     {
@@ -63,7 +63,7 @@
         "celular"
       ],
       "destaque": [
-        "Antes",
+        "Marta",
         "perguntasse"
       ]
     },
@@ -74,7 +74,7 @@
         "relogio"
       ],
       "destaque": [
-        "Fiquei",
+        "Quem",
         "imaginando"
       ]
     },
@@ -85,8 +85,8 @@
         "foto"
       ],
       "destaque": [
-        "Marta",
-        "explicou"
+        "Arnaldo",
+        "reclamava"
       ]
     },
     {
@@ -96,8 +96,8 @@
         "conversa"
       ],
       "destaque": [
-        "Segundo",
-        "homem"
+        "Anotava",
+        "apartamento"
       ]
     },
     {
@@ -107,8 +107,8 @@
         "carro"
       ],
       "destaque": [
-        "falei",
-        "então"
+        "Marta",
+        "praticamente"
       ]
     },
     {
@@ -118,8 +118,8 @@
         "foto"
       ],
       "destaque": [
-        "primeira",
-        "esquina"
+        "Arnaldo",
+        "ferramentas"
       ]
     },
     {
@@ -129,8 +129,8 @@
         "porta"
       ],
       "destaque": [
-        "contou",
-        "durante"
+        "Arnaldo",
+        "Toda"
       ]
     },
     {
@@ -140,8 +140,8 @@
         "relogio"
       ],
       "destaque": [
-        "moradores",
-        "reclamavam"
+        "reclamavam",
+        "moradores"
       ]
     },
     {
@@ -151,8 +151,8 @@
         "coracao"
       ],
       "destaque": [
-        "vizinha",
-        "velha"
+        "Toda",
+        "dificuldade"
       ]
     },
     {
@@ -162,8 +162,8 @@
         "notificacao"
       ],
       "destaque": [
-        "Outro",
-        "morador"
+        "iluminado",
+        "trabalho"
       ]
     },
     {
@@ -173,19 +173,19 @@
         "porta"
       ],
       "destaque": [
-        "Quando",
-        "encomenda"
+        "encomenda",
+        "aparecia"
       ]
     },
     {
       "fala": "Eu perguntei se Arnaldo era síndico. Marta respondeu: não. Ele só dizia que prédio bom é prédio onde ninguém fica para trás.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "perguntei",
-        "Arnaldo"
+        "Arnaldo",
+        "Marta"
       ]
     },
     {
@@ -195,8 +195,8 @@
         "foto"
       ],
       "destaque": [
-        "semana",
-        "passada"
+        "Era",
+        "revelou"
       ]
     },
     {
@@ -206,7 +206,7 @@
         "coracao"
       ],
       "destaque": [
-        "vizinhos",
+        "Arnaldo",
         "decidiram"
       ]
     },
@@ -219,7 +219,7 @@
       ],
       "destaque": [
         "encomendaram",
-        "troféu"
+        "reclamava"
       ]
     },
     {
@@ -229,8 +229,8 @@
         "mapa"
       ],
       "destaque": [
-        "Chegamos",
-        "condomínio"
+        "Marta",
+        "surpresa"
       ]
     },
     {
@@ -240,8 +240,8 @@
         "porta"
       ],
       "destaque": [
-        "Deixei",
-        "carro"
+        "Marta",
+        "abriu"
       ]
     },
     {
@@ -251,7 +251,7 @@
         "foto"
       ],
       "destaque": [
-        "salão",
+        "Arnaldo",
         "moradores"
       ]
     },
@@ -262,8 +262,8 @@
         "coracao"
       ],
       "destaque": [
-        "Marta",
-        "anunciou"
+        "Arnaldo",
+        "Então"
       ]
     },
     {
@@ -273,8 +273,8 @@
         "conversa"
       ],
       "destaque": [
-        "placa",
-        "inteira"
+        "Depois",
+        "palavras"
       ]
     },
     {
@@ -285,8 +285,8 @@
         "QUAL VIZINHO MERECE TROFÉU?"
       ],
       "destaque": [
-        "Quando",
-        "voltei"
+        "Conta",
+        "surpresa"
       ]
     }
   ]

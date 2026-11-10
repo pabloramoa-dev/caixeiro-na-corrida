@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "mecânico",
-        "chamado"
+        "Cristiano",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sexta-feira,",
+        "quatro",
         "aplicativo"
       ]
     },
@@ -39,19 +39,19 @@
         "conversa"
       ],
       "destaque": [
-        "mecânico",
-        "chamado"
+        "Cristiano",
+        "ferramentas"
       ]
     },
     {
       "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "fábrica,",
-        "aprendi"
+        "dois",
+        "situação"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "Cristiano",
-        "explicou"
+        "identificação",
+        "Cristiano"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -85,7 +85,7 @@
       ],
       "destaque": [
         "transporte",
-        "apropriada,"
+        "apropriada"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "informação",
+        "Foi",
         "pequenininha"
       ]
     },
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "coracao"
       ],
       "destaque": [
-        "clínica,",
-        "descobriram"
+        "descobriram",
+        "cadastrado"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "conversa",
-        "ninguém"
+        "sumiu",
+        "conversa"
       ]
     },
     {
       "fala": "A tutora explicou que ele havia escapado durante uma visita a parentes e foi buscá-lo com seus documentos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "explicou",
-        "escapado"
+        "documentos",
+        "explicou"
       ]
     },
     {
@@ -151,13 +151,13 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Cristiano voltou à oficina sem o novo mascote, mas com a notícia que todos queriam ouvir.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "fechou,",
-        "próxima"
+        "apareceu",
+        "pensando"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "⏰ Ela entrou no meu carro com DOZE despertadores e avisou: 'Se todos tocarem às seis e meia, ninguém pode se atrasar!' 😳 Eu pensei que era uma entrega estranha… até descobrir para quem eram os relógios. Quem já fez uma gentileza que você nunca esqueceu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #StorytimeBrasil #Gentileza #PraVoce",
-  "legenda_post": "⏰🚕 Carmen carregava doze despertadores e uma missão: chegar à oficina antes que o relojoeiro Severino fechasse as portas pela última vez. Cada relógio guardava uma história — e às seis e meia a rua inteira descobriu por quê. ❤️ Quem marcou a sua vida com uma pequena gentileza? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gratidao #FinalSurpresa",
+  "legenda_post": "⏰🚕 Carmen carregava doze despertadores e uma missão: chegar à oficina antes que o relojoeiro Severino fechasse as portas pela última vez. Cada relógio guardava uma história — e às seis e meia a rua inteira descobriu por quê. ❤️ Quem marcou a sua vida com uma pequena gentileza? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gratidao #FinalSurpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com doze despertadores e avisou: às seis e meia, todos vão tocar. Se eu me atrasar, acabou a surpresa.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "doze",
+        "seis"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "pensei"
+        "segredo",
+        "carregasse"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "gratidão"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Carmen",
+        "Tinha"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
+        "Severino",
+        "despertadores"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Fiquei",
-        "imaginando"
+        "Carmen",
+        "conseguiria"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Severino",
-        "era"
+        "cinco",
+        "Naquela"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "carro"
       ],
       "destaque": [
-        "Ele",
-        "tinha"
+        "restaurante",
+        "consertado"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "Severino",
+        "encontrava"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Carmen",
-        "contou"
+        "despertador",
+        "trabalhava"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "conversa"
       ],
       "destaque": [
-        "Severino",
-        "consertou"
+        "Disse",
+        "oportunidade"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "mãe"
+        "Carmen",
+        "Anos"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "carro"
       ],
       "destaque": [
-        "Foi",
-        "então"
+        "doze",
+        "doze"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Cada",
-        "família"
+        "Carmen",
+        "surpresa"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "entramos"
+        "Carmen",
+        "despertadores"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "disse"
+        "resolverem",
+        "conversar"
       ]
     },
     {
@@ -194,30 +194,30 @@
         "conversa"
       ],
       "destaque": [
-        "Faltavam",
-        "quinze"
+        "Carmen",
+        "interditada"
       ]
     },
     {
       "fala": "Escolhi um caminho alternativo, sem pressa e respeitando o trânsito. Ela mandou uma mensagem: estamos chegando, preparem a vitrine.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Escolhi",
-        "um"
+        "alternativo",
+        "respeitando"
       ]
     },
     {
       "fala": "A oficina apareceu na esquina. A porta estava meio fechada e Severino apagava as luzes, sozinho, com uma caixa de ferramentas na mão.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "oficina"
+        "Severino",
+        "ferramentas"
       ]
     },
     {
@@ -227,19 +227,19 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "calçada"
+        "entregadores",
+        "cozinheiras"
       ]
     },
     {
       "fala": "Carmen me pediu para esperar ali. Ela entrou na loja e disse ao relojoeiro que precisava de um último conserto urgente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Carmen",
-        "me"
+        "relojoeiro",
+        "precisava"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "Severino",
-        "abriu"
+        "doze",
+        "Perguntou"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "carro"
       ],
       "destaque": [
-        "Era",
-        "exatamente"
+        "seis",
+        "despertadores"
       ]
     },
     {
@@ -271,19 +271,19 @@
         "foto"
       ],
       "destaque": [
-        "As",
-        "pessoas"
+        "Severino",
+        "Cada"
       ]
     },
     {
       "fala": "Uma moça mostrou a foto da própria formatura. Um rapaz levantou a imagem do primeiro dia de trabalho. Carmen mostrou a foto da mãe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "moça"
+        "Carmen",
+        "formatura"
       ]
     },
     {
@@ -293,19 +293,19 @@
         "foto"
       ],
       "destaque": [
-        "Severino",
-        "ficou"
+        "Então",
+        "Severino"
       ]
     },
     {
       "fala": "Ele olhou para os relógios e falou: eu achei que estava fechando a oficina. Vocês acabaram de abrir um lugar enorme dentro de mim.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "olhou"
+        "Vocês",
+        "relógios"
       ]
     },
     {
@@ -316,8 +316,8 @@
         "QUEM MARCOU SUA VIDA?"
       ],
       "destaque": [
-        "Voltei",
-        "ao"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "passageiro",
-        "chamado"
+        "Artur",
+        "passageiro"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sexta-feira,",
+        "quatro",
         "aplicativo"
       ]
     },
@@ -39,19 +39,19 @@
         "conversa"
       ],
       "destaque": [
-        "passageiro",
-        "chamado"
+        "Artur",
+        "passageiro"
       ]
     },
     {
       "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "fábrica,",
-        "aprendi"
+        "dois",
+        "situação"
       ]
     },
     {
@@ -62,19 +62,19 @@
       ],
       "destaque": [
         "trabalhava",
-        "empresa"
+        "planejado"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "carreira",
-        "significava"
+        "significava",
+        "conquistara"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "informação",
+        "Foi",
         "pequenininha"
       ]
     },
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "coracao"
       ],
       "destaque": [
-        "aplicativo,",
-        "trabalhei"
+        "aplicativo",
+        "diferentes"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "conversa",
-        "ninguém"
+        "sumiu",
+        "conversa"
       ]
     },
     {
       "fala": "Artur decidiu conversar com a família e pesquisar opções antes de pedir demissão por impulso.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "decidiu",
-        "conversar"
+        "conversar",
+        "pesquisar"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Meses depois, contou que começara a dar aulas de matemática voluntariamente aos sábados, sem abandonar o emprego.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "depois,",
-        "começara"
+        "voluntariamente",
+        "matemática"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "fechou,",
-        "próxima"
+        "apareceu",
+        "pensando"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

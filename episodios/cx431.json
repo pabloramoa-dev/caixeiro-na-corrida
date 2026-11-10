@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎂 Ela entrou no meu carro com um bolo e uma missão: chegar antes que apagassem a vela azul de uma promessa de vinte anos! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa #Professores",
-  "legenda_post": "🎶🎂 Uma professora de música, uma vela azul guardada por vinte anos e antigos alunos reunidos para cumprir uma promessa. Quem foi o professor que mudou sua vida? 🚕 #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro",
+  "legenda_post": "🎶🎂 Uma professora de música, uma vela azul guardada por vinte anos e antigos alunos reunidos para cumprir uma promessa. Quem foi o professor que mudou sua vida? 🚕 #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro com um bolo sem cobertura e disse: se eu chegar depois das quatro, vão apagar a única vela que importa. Eu nem imaginava o motivo.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "quatro",
+        "cobertura"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro, e aquela corrida começou numa confeitaria pequena, numa quinta-feira de chuva fina.",
+      "fala": "Aquela corrida começou numa confeitaria pequena, numa quinta-feira de chuva fina.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "confeitaria",
+        "corrida"
       ]
     },
     {
@@ -40,30 +40,30 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Segurava",
+        "Teresa"
       ]
     },
     {
       "fala": "Perguntei se era aniversário. Ela respondeu: é, mas a aniversariante não sabe que existe uma festa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "aniversariante",
+        "aniversário"
       ]
     },
     {
       "fala": "Antes que eu perguntasse mais, o celular dela tocou. Uma voz avisou que o salão fecharia em quarenta minutos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "que"
+        "perguntasse",
+        "fecharia"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "me"
+        "trabalhava",
+        "professora"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "professora,"
+        "Celina",
+        "Dizia"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
+        "vinte",
         "Teresa"
       ]
     },
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "vela"
+        "cancelado",
+        "aniversário"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Naquela",
-        "época,"
+        "prometeram",
+        "estivesse"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Só",
-        "que"
+        "Alguns",
+        "esquecida"
       ]
     },
     {
@@ -139,19 +139,19 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "passou"
+        "três",
+        "Encontrou"
       ]
     },
     {
       "fala": "Todos combinaram uma apresentação surpresa no antigo salão da escola. O bolo era a última peça do plano.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Todos",
-        "combinaram"
+        "surpresa",
+        "apresentação"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "Abriu",
+        "percebeu"
       ]
     },
     {
@@ -172,30 +172,30 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "procurou"
+        "Nada",
+        "Sem"
       ]
     },
     {
       "fala": "Eu sugeri ligar para a confeitaria. A atendente disse que uma senhora tinha deixado um envelope no balcão.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sugeri"
+        "confeitaria",
+        "atendente"
       ]
     },
     {
       "fala": "No envelope havia um bilhete com apenas uma frase: a música começa antes da primeira nota.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "No",
-        "envelope"
+        "envelope",
+        "primeira"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "reconheceu"
+        "Celina",
+        "Era"
       ]
     },
     {
@@ -216,30 +216,30 @@
         "foto"
       ],
       "destaque": [
-        "Seguimos",
-        "pela"
+        "Teresa",
+        "fotografia"
       ]
     },
     {
       "fala": "Na imagem, os alunos seguravam a mesma vela azul diante de uma porta fechada. No verso havia um nome: Augusto.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Na",
-        "imagem,"
-      ]
-    },
-    {
-      "fala": "Augusto era o zelador que tinha salvado os instrumentos da escola na época da crise. Teresa não o via havia anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Augusto",
-        "era"
+        "seguravam"
+      ]
+    },
+    {
+      "fala": "Augusto era o zelador que tinha salvado os instrumentos da escola na época da crise. Teresa não o via havia anos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Teresa",
+        "instrumentos"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "expectativa",
+        "chegamos"
       ]
     },
     {
@@ -260,19 +260,19 @@
         "foto"
       ],
       "destaque": [
-        "Disse",
-        "que"
+        "Celina",
+        "voltassem"
       ]
     },
     {
       "fala": "Teresa entrou no salão. As cadeiras estavam ocupadas, mas ninguém falava. Só se ouvia um violino afinando.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "entrou"
+        "cadeiras",
+        "ocupadas"
       ]
     },
     {
@@ -282,19 +282,19 @@
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "apareceu"
+        "Reconheceu",
+        "misturados"
       ]
     },
     {
       "fala": "Um antigo aluno levantou a batuta. A primeira música era aquela que Celina ensinava a quem mal sabia segurar um instrumento.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Um",
-        "antigo"
+        "Celina",
+        "instrumento"
       ]
     },
     {
@@ -304,20 +304,20 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "a"
+        "Augusto",
+        "Celina"
       ]
     },
     {
       "fala": "Eu voltei ao carro pensando que algumas promessas não vencem com o tempo. Qual professor marcou sua vida? Conta aqui e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL PROFESSOR MARCOU SUA VIDA?"
       ],
       "destaque": [
-        "Eu",
-        "voltei"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

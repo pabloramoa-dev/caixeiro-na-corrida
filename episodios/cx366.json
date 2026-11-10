@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "torcedor",
-        "chamado"
+        "Júlio",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "segunda-feira,",
+        "oito",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "torcedor",
-        "chamado"
+        "Júlio",
+        "revelou"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "trânsito",
-        "daquele"
+        "Aproveitei",
+        "histórias"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "carregava",
-        "portátil"
+        "campeonato",
+        "carregava"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "semáforo,",
-        "anunciou"
+        "dois",
+        "completamente"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "retrovisor,",
-        "percebi"
+        "Era",
+        "preocupação"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Eu disse que rivalidade cabe em conversa, mas não pode atrapalhar a direção nem virar discussão.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
         "rivalidade",
-        "conversa,"
+        "atrapalhar"
       ]
     },
     {
@@ -129,13 +129,13 @@
         "A VIRADA"
       ],
       "destaque": [
-        "solução",
-        "novela."
+        "Conselho",
+        "Fiquei"
       ]
     },
     {
       "fala": "Júlio revelou que estava indo encontrar o irmão, que torcia para o meu time e o esperava no estádio.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
@@ -151,18 +151,18 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Quando chegamos, os dois irmãos apareceram com cachecóis opostos e abraçaram um ao outro antes do jogo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "chegamos,",
+        "dois",
         "apareceram"
       ]
     },
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "Encostei",
-        "permitido,"
+        "preocupação",
+        "permitido"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

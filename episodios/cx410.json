@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎂 Ela entrou no meu carro com um bolo de aniversário... para um BURACO NA RUA! 😳 Três velinhas, lista de convidados e um plano secreto. O final me surpreendeu! Qual problema da sua rua merece um bolo? 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #StorytimeBrasil #FinalSurpresa #PraVoce",
-  "legenda_post": "🎂🚕 A passageira apareceu com um bolo escrito 'Feliz aniversário, buraco da rua'. Pensei que era piada, mas a festa tinha convidados, mestre de cerimônias e até uma surpresa! No fim, descobri que a história não era sobre o buraco — era sobre os vizinhos. ❤️ Qual problema do seu bairro merece um aniversário desses? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasEngracadas #Vizinhos #Comunidade",
+  "legenda_post": "🎂🚕 A passageira apareceu com um bolo escrito 'Feliz aniversário, buraco da rua'. Pensei que era piada, mas a festa tinha convidados, mestre de cerimônias e até uma surpresa! No fim, descobri que a história não era sobre o buraco — era sobre os vizinhos. ❤️ Qual problema do seu bairro merece um aniversário desses? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasEngracadas #Vizinhos #Comunidade\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Uma passageira entrou no meu carro segurando um bolo escrito: feliz aniversário, buraco da rua! Eu achei que era brincadeira. Até ela me mostrar o convite para a festa.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "passageira",
-        "entrou"
+        "Até",
+        "aniversário"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "chocolate",
-        "tinha"
+        "três",
+        "chocolate"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "alguém"
+        "três",
+        "Buraco"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "carro"
       ],
       "destaque": [
-        "quase",
-        "perdi"
+        "conferindo",
+        "importante"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "celular"
       ],
       "destaque": [
-        "passageira",
-        "chamava"
+        "Teresa",
+        "Disse"
       ]
     },
     {
@@ -74,8 +74,8 @@
         "CONHEÇA A CRATERA DO AMOR"
       ],
       "destaque": [
-        "Cratera",
-        "Perguntei"
+        "Perguntei",
+        "Cratera"
       ]
     },
     {
@@ -85,8 +85,8 @@
         "foto"
       ],
       "destaque": [
-        "começou",
-        "rachadura"
+        "rachadura",
+        "primeiro"
       ]
     },
     {
@@ -96,7 +96,7 @@
         "foto"
       ],
       "destaque": [
-        "primeiro",
+        "atrapalhando",
         "aniversário"
       ]
     },
@@ -108,8 +108,8 @@
         "MAS QUAL ERA O PLANO?"
       ],
       "destaque": [
-        "Desta",
-        "Teresa"
+        "Teresa",
+        "decidiu"
       ]
     },
     {
@@ -119,8 +119,8 @@
         "foto"
       ],
       "destaque": [
-        "abriu",
-        "bolsa"
+        "Tinha",
+        "abriu"
       ]
     },
     {
@@ -130,8 +130,8 @@
         "conversa"
       ],
       "destaque": [
-        "perguntei",
-        "prefeito"
+        "Teresa",
+        "perguntei"
       ]
     },
     {
@@ -141,8 +141,8 @@
         "notificacao"
       ],
       "destaque": [
-        "semáforo",
-        "celular"
+        "Teresa",
+        "aniversariante"
       ]
     },
     {
@@ -152,8 +152,8 @@
         "foto"
       ],
       "destaque": [
-        "mostrou",
-        "buraco"
+        "preocupado",
+        "desenhado"
       ]
     },
     {
@@ -163,19 +163,19 @@
         "celular"
       ],
       "destaque": [
-        "Teresa",
-        "explicou"
+        "Enquanto",
+        "organizaram"
       ]
     },
     {
       "fala": "Perguntei por que precisava de bolo. Ela disse: porque um problema que ninguém enxerga fica mais difícil de ignorar quando aparece com três velinhas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "precisava"
+        "três",
+        "Perguntei"
       ]
     },
     {
@@ -185,8 +185,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "perto"
+        "três",
+        "Outra"
       ]
     },
     {
@@ -196,8 +196,8 @@
         "foto"
       ],
       "destaque": [
-        "Tinha",
-        "senhor"
+        "cerimônias",
+        "continuava"
       ]
     },
     {
@@ -207,8 +207,8 @@
         "carro"
       ],
       "destaque": [
-        "Teresa",
-        "pediu"
+        "Desceu",
+        "Fiquei"
       ]
     },
     {
@@ -218,8 +218,8 @@
         "foto"
       ],
       "destaque": [
-        "moradores",
-        "estavam"
+        "representava",
+        "aniversário"
       ]
     },
     {
@@ -230,8 +230,8 @@
         "A SURPRESA AINDA NÃO CHEGOU"
       ],
       "destaque": [
-        "Então",
-        "mestre"
+        "Teresa",
+        "cerimônias"
       ]
     },
     {
@@ -241,8 +241,8 @@
         "celular"
       ],
       "destaque": [
-        "mostrou",
-        "celular"
+        "resposta",
+        "coletivo"
       ]
     },
     {
@@ -252,8 +252,8 @@
         "coracao"
       ],
       "destaque": [
-        "turma",
-        "aplaudiu"
+        "Teresa",
+        "Disse"
       ]
     },
     {
@@ -263,8 +263,8 @@
         "conversa"
       ],
       "destaque": [
-        "padeiro",
-        "contou"
+        "dois",
+        "farmacêutica"
       ]
     },
     {
@@ -274,8 +274,8 @@
         "foto"
       ],
       "destaque": [
-        "parabéns",
-        "ninguém"
+        "três",
+        "Cantaram"
       ]
     },
     {
@@ -285,8 +285,8 @@
         "carro"
       ],
       "destaque": [
-        "ganhei",
-        "pedaço"
+        "Guardei",
+        "Teresa"
       ]
     },
     {
@@ -297,8 +297,8 @@
         "QUAL PROBLEMA MERECE UM BOLO?"
       ],
       "destaque": [
-        "Voltei",
-        "corridas"
+        "Comenta",
+        "aniversário"
       ]
     }
   ]

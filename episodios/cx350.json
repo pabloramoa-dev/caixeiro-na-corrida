@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "estudante"
+        "duas",
+        "apresentação"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça,",
-        "manhã."
+        "sete",
+        "Carol"
       ]
     },
     {
@@ -37,8 +37,8 @@
         "conversa"
       ],
       "destaque": [
-        "preparava",
-        "semanas"
+        "entrevistas",
+        "preparava"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "irmão,",
-        "perceber,"
+        "brinquedos",
+        "figurinhas"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "Quando",
-        "mochila"
+        "Carol",
+        "abriu"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "chateada",
-        "pensou"
+        "perguntei",
+        "professor"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,19 +103,19 @@
         "conversa"
       ],
       "destaque": [
-        "lembrou",
-        "enviado"
+        "compartilhasse",
+        "lembrou"
       ]
     },
     {
       "fala": "No meio do caminho, o irmão ligou pedindo desculpas e contou que tinha colocado um desenho surpresa entre os papéis do projeto.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "caminho,",
-        "pedindo"
+        "surpresa",
+        "desculpas"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "Chegando",
-        "escola,"
+        "Carol",
+        "entrevistas"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "professor",
-        "elogiou"
+        "especialmente",
+        "professor"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Um erro de mochila virou outra fonte para a pesquisa. E o irmão ganhou o cargo de ilustrador oficial da família.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "mochila",
-        "pesquisa."
+        "ilustrador",
+        "pesquisa"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

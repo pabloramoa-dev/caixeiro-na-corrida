@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "Taís",
+        "professora"
       ]
     },
     {
@@ -28,8 +28,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça-feira,",
-        "quarenta"
+        "seis",
+        "aplicativo"
       ]
     },
     {
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "Taís",
+        "professora"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "aprendi",
-        "ninguém"
+        "Tem",
+        "preocupação"
       ]
     },
     {
@@ -62,24 +62,24 @@
       ],
       "destaque": [
         "ensaiava",
-        "sozinha"
+        "baixinho"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
       "fala": "Eu perguntei se ela preferia silêncio para praticar ou uma conversa para distrair; ela escolheu a conversa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "mapa"
       ],
@@ -96,7 +96,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "coracao"
       ],
       "destaque": [
-        "Descobri",
-        "apresentação"
+        "apresentação",
+        "professores"
       ]
     },
     {
@@ -129,13 +129,13 @@
         "A VIRADA"
       ],
       "destaque": [
-        "confirmar",
-        "imaginar"
+        "explicação",
+        "passageiro"
       ]
     },
     {
       "fala": "Taís decidiu mostrar a letra ao grupo antes de subir ao palco, pedindo ajuda para dividir alguns versos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
@@ -151,18 +151,18 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Na noite do evento, mandou uma gravação em que vários professores cantavam juntos, sem ninguém precisar ser solista.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "evento,",
+        "professores",
         "gravação"
       ]
     },
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "terminou,",
-        "conferi"
+        "Fiquei",
+        "desembarque"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

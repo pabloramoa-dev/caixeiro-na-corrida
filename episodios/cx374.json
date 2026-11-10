@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "turista",
-        "chamada"
+        "Paola",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira,",
+        "sete",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "turista",
-        "chamada"
+        "Paola",
+        "solicitou"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "quieto,",
-        "respeito."
+        "Naquela",
+        "Quando"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "marcado",
-        "reencontro"
+        "reencontro",
+        "preocupada"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -85,7 +85,7 @@
       ],
       "destaque": [
         "Conferimos",
-        "endereço"
+        "aplicativo"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "respirou",
-        "guardou"
+        "acontecido",
+        "respirou"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Descobriu que o grupo também se confundira e que duas pessoas aguardavam em restaurantes diferentes.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Descobriu",
-        "confundira"
+        "duas",
+        "Descobriu"
       ]
     },
     {
@@ -129,18 +129,18 @@
         "A VIRADA"
       ],
       "destaque": [
-        "aprendi",
-        "notícia"
+        "responder",
+        "mensagem"
       ]
     },
     {
       "fala": "Os colegas combinaram um ponto conhecido e atualizaram o convite, sem culpar ninguém pela troca.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "colegas",
+        "atualizaram",
         "combinaram"
       ]
     },
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Levei Paola ao destino confirmado, onde os amigos já tiravam fotos do próprio erro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "destino",
-        "confirmado,"
+        "Paola",
+        "confirmado"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "trabalhar",
-        "Rosângela"
+        "Rosângela",
+        "aprendizado"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

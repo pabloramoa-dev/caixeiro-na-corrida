@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎨 Ela entrou no meu carro com um quadro COMPLETAMENTE BRANCO e disse que a exposição não podia começar sem ele! 😳 Quando chegamos, descobri quem eram os verdadeiros artistas. O que você pintaria nessa tela? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PlotTwist #ArteQueTransforma #StorytimeBrasil #PraVoce",
-  "legenda_post": "🎨🚕 Uma professora aposentada, um quadro em branco e uma exposição cheia de gente esperando. Eu achei que alguém tinha esquecido de pintar a obra principal... até descobrir o plano da passageira! ❤️ Uma história sobre o que aprendemos e deixamos na vida dos outros. O que você colocaria nesse quadro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #ArteComunitaria #HistoriasQueInspiram #FinalSurpresa",
+  "legenda_post": "🎨🚕 Uma professora aposentada, um quadro em branco e uma exposição cheia de gente esperando. Eu achei que alguém tinha esquecido de pintar a obra principal... até descobrir o plano da passageira! ❤️ Uma história sobre o que aprendemos e deixamos na vida dos outros. O que você colocaria nesse quadro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #ArteComunitaria #HistoriasQueInspiram #FinalSurpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um quadro completamente branco e avisou: motorista, se chegarmos atrasados, a exposição inteira vai começar sem a obra principal. E não era brincadeira.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "completamente",
+        "brincadeira"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "quadro"
+        "segredo",
+        "embrulhado"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
+        "importante",
+        "Perguntei"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "transportei"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Lúcia",
+        "Era"
       ]
     },
     {
@@ -73,19 +73,19 @@
         "mapa"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "Perguntei",
+        "aplicativo"
       ]
     },
     {
       "fala": "Lúcia sorriu: é uma galeria por uma noite. Amanhã volta a ser oficina. E, se tudo der certo, ninguém vai querer desmontar a exposição.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Lúcia",
-        "sorriu"
+        "Amanhã",
+        "desmontar"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "notificacao"
       ],
       "destaque": [
-        "No",
-        "primeiro"
+        "Lúcia",
+        "convidados"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "Ótimo",
-        "Eu"
+        "perguntei",
+        "esquecido"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Aquilo",
-        "parecia"
+        "Enquanto",
+        "diferentes"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "contou"
+        "Cada",
+        "comunitário"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Só",
-        "que"
+        "desapareceram",
+        "lembranças"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "ela"
+        "esculturas",
+        "justamente"
       ]
     },
     {
@@ -163,18 +163,18 @@
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "próprias"
       ]
     },
     {
       "fala": "Faltando duas ruas, o telefone tocou. Um rapaz perguntou se devia colocar tintas na mesa. Lúcia respondeu: só as cores que eles escolheram quando eram crianças.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "Faltando",
-        "duas"
+        "duas",
+        "Lúcia"
       ]
     },
     {
@@ -184,19 +184,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "Havia",
+        "Lúcia"
       ]
     },
     {
       "fala": "Achei que a surpresa seria reproduzir a foto. Ela negou com a cabeça e disse: Caixeiro, fotografia guarda um instante. Eu quero descobrir o que aconteceu depois.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Achei",
-        "que"
+        "Caixeiro",
+        "surpresa"
       ]
     },
     {
@@ -206,8 +206,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "ao"
+        "Havia",
+        "Todo"
       ]
     },
     {
@@ -217,8 +217,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "pediu"
+        "bicicleta",
+        "ajudasse"
       ]
     },
     {
@@ -229,8 +229,8 @@
         "A TELA ERA DE TODO MUNDO"
       ],
       "destaque": [
-        "A",
-        "professora"
+        "Então",
+        "abriu"
       ]
     },
     {
@@ -240,8 +240,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "primeiro"
+        "Disse",
+        "Lúcia"
       ]
     },
     {
@@ -251,8 +251,8 @@
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "mulher"
+        "floricultura",
+        "ferramentas"
       ]
     },
     {
@@ -262,8 +262,8 @@
         "foto"
       ],
       "destaque": [
-        "Em",
-        "poucos"
+        "Nada",
+        "perfeitamente"
       ]
     },
     {
@@ -273,8 +273,8 @@
         "conversa"
       ],
       "destaque": [
-        "Quando",
-        "faltava"
+        "Fiquei",
+        "Lúcia"
       ]
     },
     {
@@ -284,8 +284,8 @@
         "carro"
       ],
       "destaque": [
-        "Desenhei",
-        "um"
+        "Todo",
+        "retrovisor"
       ]
     },
     {
@@ -296,8 +296,8 @@
         "O QUE VOCÊ PINTARIA NESSE QUADRO?"
       ],
       "destaque": [
-        "Lúcia",
-        "escreveu"
+        "Comenta",
+        "Saí"
       ]
     }
   ]

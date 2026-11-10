@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎂 Ela entrou no meu carro com um bolo e uma chave de quarenta anos! O destino era um cinema fechado... e a promessa que ela fez quando criança. Você voltaria para cumprir? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Reencontro",
-  "legenda_post": "🎞️🎂 Uma chave de latão, um cinema prestes a desaparecer e uma promessa feita por cinco amigos na infância. Celina tinha uma última chance de descobrir o que o tempo guardou. Qual amigo você gostaria de reencontrar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Amizade #Memorias",
+  "legenda_post": "🎞️🎂 Uma chave de latão, um cinema prestes a desaparecer e uma promessa feita por cinco amigos na infância. Celina tinha uma última chance de descobrir o que o tempo guardou. Qual amigo você gostaria de reencontrar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Amizade #Memorias\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro segurando um bolo com uma vela apagada e avisou: se eu chegar depois das seis, ninguém vai lembrar quem eu sou!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "seis",
+        "segurando"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Pensei que era festa surpresa, mas aquela passageira parecia mais preocupada com uma fotografia antiga.",
-      "expr": "neutra",
+      "fala": "Pensei que era festa surpresa, mas aquela passageira parecia mais preocupada com uma fotografia antiga.",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "surpresa",
+        "passageira"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "nome"
+        "Celina",
+        "quarenta"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "contasse",
+        "fechado"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "perguntei"
+        "perguntei",
+        "descobrir"
       ]
     },
     {
@@ -73,7 +73,7 @@
         "foto"
       ],
       "destaque": [
-        "Na",
+        "perguntou",
         "primeira"
       ]
     },
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "abriu"
+        "abriu",
+        "desbotada"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "cinco",
+        "esconderam"
       ]
     },
     {
@@ -107,7 +107,7 @@
       ],
       "destaque": [
         "Prometeram",
-        "voltar"
+        "lembrança"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "o"
+        "mudaram",
+        "pararam"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "perguntei"
+        "perguntei",
+        "respondeu"
       ]
     },
     {
@@ -139,7 +139,7 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
+        "DEMOLIÇÃO",
         "chegamos"
       ]
     },
@@ -150,19 +150,19 @@
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "ficou"
+        "desapareceria",
+        "derrubada"
       ]
     },
     {
       "fala": "Um homem de boné apareceu na calçada e perguntou se ela ainda sabia a senha combinada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Um",
-        "homem"
+        "perguntou",
+        "combinada"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "respondeu:"
+        "respondeu",
+        "termina"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Era",
-        "Augusto,"
+        "Augusto",
+        "projecionista"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "explicou"
+        "dois",
+        "confirmado"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "Entramos",
-        "no"
+        "empoeirado",
+        "Entramos"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "última"
+        "Celina",
+        "fileira"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "já"
+        "Augusto",
+        "portinhola"
       ]
     },
     {
@@ -238,41 +238,41 @@
         "foto"
       ],
       "destaque": [
-        "Dentro",
-        "havia"
+        "cinco",
+        "fotografia"
       ]
     },
     {
       "fala": "Celina abriu o primeiro envelope e encontrou uma carta que ela mesma escrevera aos onze anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "abriu"
+        "abriu",
+        "encontrou"
       ]
     },
     {
       "fala": "Na carta, a menina prometia nunca esquecer os amigos, mesmo que a vida levasse cada um para longe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "carta,"
+        "prometia",
+        "esquecer"
       ]
     },
     {
       "fala": "Então ouvimos passos. Dois senhores entraram com uma pequena caixa de som e uma câmera antiga.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Então",
-        "ouvimos"
+        "Dois",
+        "senhores"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Eles",
-        "eram"
+        "reencontro",
+        "gravação"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "gravação,"
+        "atravessou",
+        "agradeceu"
       ]
     },
     {
       "fala": "Celina acendeu a vela do bolo. No cinema vazio, os amigos cantaram baixinho e dividiram a primeira fatia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "acendeu"
+        "dividiram",
+        "cantaram"
       ]
     },
     {
       "fala": "Eu saí pensando que certas promessas não vencem com o tempo. E você, reencontraria um amigo de infância? Conta aqui e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL AMIGO VOCE REENCONTRARIA?"
       ],
       "destaque": [
-        "Eu",
-        "saí"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

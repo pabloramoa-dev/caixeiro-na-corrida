@@ -15,7 +15,7 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
+        "três",
         "passageiros"
       ]
     },
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "quarta,",
-        "tarde."
+        "duas",
+        "três"
       ]
     },
     {
@@ -37,8 +37,8 @@
         "conversa"
       ],
       "destaque": [
-        "atores",
-        "apresentação"
+        "apresentação",
+        "biblioteca"
       ]
     },
     {
@@ -48,7 +48,7 @@
         "celular"
       ],
       "destaque": [
-        "morango",
+        "procurava",
         "segurava"
       ]
     },
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "Perguntei",
-        "aquilo"
+        "três",
+        "interpretando"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "trajeto,",
-        "descobriram"
+        "descobriram",
+        "biblioteca"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,19 +103,19 @@
         "conversa"
       ],
       "destaque": [
-        "artistas",
+        "protagonistas",
         "decidiram"
       ]
     },
     {
       "fala": "Quando chegaram, uma menina perguntou por que a banana parecia triste. O ator respondeu que tinha esquecido como pedir desculpas.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "Quando",
-        "chegaram,"
+        "perguntou",
+        "respondeu"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -137,7 +137,7 @@
       ],
       "destaque": [
         "perfeita",
-        "morango"
+        "entregar"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "ouvindo",
-        "crianças"
+        "completamente",
+        "inventarem"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Aprendi que uma novela de frutas pode terminar sem vilões quando alguém percebe que dividir atenção não significa perder valor.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Aprendi",
-        "novela"
+        "significa",
+        "terminar"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "passageira",
-        "chamada"
+        "Bete",
+        "passageira"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "segunda-feira,",
+        "oito",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "passageira",
-        "chamada"
+        "Bete",
+        "passageira"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "trânsito",
-        "daquele"
+        "Aproveitei",
+        "histórias"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "passávamos",
-        "coleira"
+        "Bete",
+        "passávamos"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "mapa"
       ],
       "destaque": [
-        "pegá-lo;",
+        "identificação",
         "responsável"
       ]
     },
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "retrovisor,",
-        "percebi"
+        "Era",
+        "preocupação"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Descobriu que um morador tinha acolhido o animal e tentava localizar a família por grupos do bairro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
         "Descobriu",
-        "morador"
+        "localizar"
       ]
     },
     {
@@ -129,18 +129,18 @@
         "A VIRADA"
       ],
       "destaque": [
-        "solução",
-        "novela."
+        "Conselho",
+        "Fiquei"
       ]
     },
     {
       "fala": "Com a ajuda do morador, Bete confirmou as marcas e os dados do cachorro e conseguiu levá-lo para casa em segurança.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "morador,",
+        "Bete",
         "confirmou"
       ]
     },
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Na foto que me enviou depois, o cão dormia tranquilo ao lado da velha caminha.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "depois,",
-        "tranquilo"
+        "tranquilo",
+        "caminha"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "Encostei",
-        "permitido,"
+        "preocupação",
+        "permitido"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

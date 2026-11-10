@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "Sônia",
+        "professora"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira,",
+        "sete",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "Sônia",
+        "professora"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "quieto,",
-        "respeito."
+        "Naquela",
+        "Quando"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "biblioteca",
-        "comunitária"
+        "comunitária",
+        "biblioteca"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "mapa"
       ],
       "destaque": [
-        "explicou",
+        "suficientes",
         "exemplares"
       ]
     },
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "respirou",
-        "guardou"
+        "acontecido",
+        "respirou"
       ]
     },
     {
@@ -106,18 +106,18 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Quando chegamos, três voluntários aguardavam com caixas de papelão e etiquetas coloridas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "chegamos,",
+        "três",
         "voluntários"
       ]
     },
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "aprendi",
-        "notícia"
+        "responder",
+        "mensagem"
       ]
     },
     {
       "fala": "Uma criança ajudava a separar livros por tema e disse que esperava ansiosamente a seção de aventuras.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "criança",
-        "ajudava"
+        "ansiosamente",
+        "aventuras"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Sônia colocou o primeiro livro na prateleira e pediu que todos assinassem o caderno de empréstimos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "colocou",
-        "primeiro"
+        "empréstimos",
+        "prateleira"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "trabalhar",
-        "Rosângela"
+        "Rosângela",
+        "aprendizado"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎻 Ela entrou no carro com um violino SEM CORDAS e uma promessa de vinte anos! O que havia na última cadeira do auditório? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
-  "legenda_post": "🎻 Uma professora, um violino antigo e uma escola prestes a perder seu auditório. Helena achava que o irmão havia esquecido uma promessa — até chegar à última cadeira da plateia. Qual música traz lembranças para você? 🚕 #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Musica #Memorias",
+  "legenda_post": "🎻 Uma professora, um violino antigo e uma escola prestes a perder seu auditório. Helena achava que o irmão havia esquecido uma promessa — até chegar à última cadeira da plateia. Qual música traz lembranças para você? 🚕 #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Musica #Memorias\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro com um violino sem cordas e disse: se não chegarmos antes das seis, uma escola inteira vai perder sua última apresentação.",
@@ -18,30 +18,30 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "seis",
+        "apresentação"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. A passageira era Helena, professora de música, e segurava o estojo como se fosse um tesouro.",
+      "fala": "A passageira era Helena, professora de música, e segurava o estojo como se fosse um tesouro.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Helena",
+        "passageira"
       ]
     },
     {
       "fala": "Perguntei por que levava um instrumento quebrado. Ela respondeu: é a única prova de uma promessa feita há vinte anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
+        "vinte",
+        "instrumento"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "banco"
+        "envelope",
+        "palavra"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Helena",
-        "contou"
+        "auditório",
+        "fecharia"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Os",
-        "alunos"
+        "desaparecido",
+        "preparavam"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "fotografia",
+        "crianças"
       ]
     },
     {
@@ -95,18 +95,18 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "foto,"
+        "Helena",
+        "partitura"
       ]
     },
     {
       "fala": "Eu perguntei quem era. Ela respondeu: meu irmão Daniel. Ele parou de tocar depois que nosso pai ficou doente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
+        "Daniel",
         "perguntei"
       ]
     },
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Helena",
-        "havia"
+        "encontrado",
+        "depósito"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Dentro",
-        "dele"
+        "Quando",
+        "bilhete"
       ]
     },
     {
@@ -139,7 +139,7 @@
         "foto"
       ],
       "destaque": [
-        "O",
+        "Helena",
         "trânsito"
       ]
     },
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "conhecia"
+        "precisávamos",
+        "instrumentos"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "imediatamente",
+        "reconheceu"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "senhor"
+        "Daniel",
+        "deixado"
       ]
     },
     {
@@ -183,52 +183,52 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "carta,"
+        "Daniel",
+        "abandonara"
       ]
     },
     {
       "fala": "Helena ficou em silêncio. Ela achava que o irmão tinha esquecido a promessa de tocar com ela.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Helena",
-        "ficou"
+        "esquecido",
+        "silêncio"
       ]
     },
     {
       "fala": "O relojoeiro da oficina indicou um endereço escrito no verso: o próprio auditório da escola.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "relojoeiro"
+        "relojoeiro",
+        "auditório"
       ]
     },
     {
       "fala": "Seguimos apressados. Na entrada, os alunos já se alinhavam, segurando partituras amassadas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Seguimos",
-        "apressados."
+        "apressados",
+        "partituras"
       ]
     },
     {
       "fala": "Uma funcionária avisou que o concerto começaria sem maestro e que o auditório fecharia depois daquela noite.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "funcionária"
+        "funcionária",
+        "começaria"
       ]
     },
     {
@@ -238,7 +238,7 @@
         "foto"
       ],
       "destaque": [
-        "Helena",
+        "Daniel",
         "abriu"
       ]
     },
@@ -249,41 +249,41 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "cartão"
+        "Olhe",
+        "primeiro"
       ]
     },
     {
       "fala": "Quando as luzes baixaram, uma criança na primeira fila levantou uma placa: 'A música ainda mora aqui'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "as"
+        "baixaram",
+        "primeira"
       ]
     },
     {
       "fala": "Outras placas apareceram. Cada aluno tinha escrito o nome de alguém que aprendera música naquela escola.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Outras",
-        "placas"
+        "Cada",
+        "apareceram"
       ]
     },
     {
       "fala": "Na última cadeira da plateia estava Daniel, agora professor, cercado por ex-alunos que haviam viajado para o encontro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "última"
+        "Daniel",
+        "professor"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "subiu"
+        "Disse",
+        "crianças"
       ]
     },
     {
       "fala": "Os irmãos tocaram juntos, e a diretora anunciou que a comunidade havia conseguido apoio para manter as aulas de música.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Os",
-        "irmãos"
+        "comunidade",
+        "conseguido"
       ]
     },
     {
       "fala": "Voltei ao carro pensando no que uma promessa pode preservar. Você já reencontrou alguém por causa de uma lembrança? Comenta e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL PROMESSA VOCÊ CUMPRIRIA?"
       ],
       "destaque": [
-        "Voltei",
-        "ao"
+        "Caixeiro",
+        "Comenta"
       ]
     }
   ]

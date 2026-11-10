@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "⚽ Ela entrou no meu carro com uma bola MURCHA e avisou: 'Se encherem essa bola, a final acaba!' 😳 Só entendi o motivo quando vi quem apareceu no campinho. Quem merece uma homenagem assim no seu bairro? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FutebolDeVarzea #FinalSurpresa #StorytimeBrasil #PraVoce",
-  "legenda_post": "⚽🚕 Uma bola murcha, um campinho prestes a mudar e uma passageira determinada a reunir jogadores de várias gerações. Rosa tinha um plano para homenagear alguém que nunca quis aparecer nas fotos. ❤️ Qual pessoa do seu bairro merece esse reconhecimento? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #FutebolDeBairro #MemoriasDaComunidade #HistoriasQueInspiram",
+  "legenda_post": "⚽🚕 Uma bola murcha, um campinho prestes a mudar e uma passageira determinada a reunir jogadores de várias gerações. Rosa tinha um plano para homenagear alguém que nunca quis aparecer nas fotos. ❤️ Qual pessoa do seu bairro merece esse reconhecimento? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #FutebolDeBairro #MemoriasDaComunidade #HistoriasQueInspiram\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma bola de futebol completamente murcha e avisou: se alguém encher essa bola, a final de hoje acaba. Eu quase pedi para repetir.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "completamente",
+        "futebol"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "que"
+        "quatro",
+        "Areal"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "passageira"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "se"
+        "Rosa",
+        "vermelho"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Rosa",
+        "Até"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "notificacao"
       ],
       "destaque": [
-        "No",
-        "primeiro"
+        "primeiro",
+        "mensagem"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Rosa",
-        "me"
+        "Disse",
+        "Era"
       ]
     },
     {
@@ -95,19 +95,19 @@
         "foto"
       ],
       "destaque": [
-        "Olhei",
-        "pelo"
+        "Havia",
+        "assinaturas"
       ]
     },
     {
       "fala": "Perguntei se era um troféu. Ela disse que aquela bola tinha passado por mais pés do que qualquer jogador famoso.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "qualquer"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "contou"
+        "vinte",
+        "Damião"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "arrumava"
+        "Quando",
+        "emprestava"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "bola"
+        "Damião",
+        "Sem"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "achei"
+        "Rosa",
+        "respirou"
       ]
     },
     {
@@ -161,7 +161,7 @@
         "foto"
       ],
       "destaque": [
-        "O",
+        "reformado",
         "terreno"
       ]
     },
@@ -172,7 +172,7 @@
         "foto"
       ],
       "destaque": [
-        "Rosa",
+        "espalhados",
         "organizou"
       ]
     },
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "dobramos"
+        "dobramos",
+        "crianças"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "desceu"
+        "Falta",
+        "perguntou"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "Nesse",
-        "instante"
+        "Dele",
+        "carregando"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Reconheceram",
-        "a"
+        "Todo",
+        "imediatamente"
       ]
     },
     {
@@ -227,19 +227,19 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "seu"
+        "Damião",
+        "Rosa"
       ]
     },
     {
       "fala": "Fomos buscá-lo numa oficina próxima. Quando viu a bola, ele perguntou por que tinham guardado aquele negócio velho por tanto tempo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Fomos",
-        "buscá-lo"
+        "Quando",
+        "perguntou"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "conversa"
       ],
       "destaque": [
-        "Rosa",
-        "respondeu"
+        "Damião",
+        "Seu"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "foto"
       ],
       "destaque": [
-        "Voltamos",
-        "ao"
+        "abriu",
+        "administração"
       ]
     },
     {
@@ -271,8 +271,8 @@
         "foto"
       ],
       "destaque": [
-        "Ninguém",
-        "encheu"
+        "improvisada",
+        "enquanto"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "do"
+        "Damião",
+        "Rosa"
       ]
     },
     {
@@ -294,8 +294,8 @@
         "QUEM MERECE ESSA HOMENAGEM?"
       ],
       "destaque": [
-        "Eu",
-        "saí"
+        "Comenta",
+        "Você"
       ]
     }
   ]

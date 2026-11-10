@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "chamado",
-        "Arnaldo,"
+        "Arnaldo",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira,",
+        "sete",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamado",
-        "Arnaldo"
+        "Arnaldo",
+        "construído"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "quieto,",
-        "respeito."
+        "Naquela",
+        "Quando"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "Arnaldo",
-        "entregá-lo"
+        "começara",
+        "aprender"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Mostrou",
-        "fotografia"
+        "fotografia",
+        "Mostrou"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "respirou",
-        "guardou"
+        "acontecido",
+        "respirou"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "No meio da corrida, percebeu que uma tecla decorativa se soltou e ficou preocupado com o presente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "corrida,",
-        "percebeu"
+        "decorativa",
+        "preocupado"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "aprendi",
-        "notícia"
+        "responder",
+        "mensagem"
       ]
     },
     {
       "fala": "Parado em local seguro, ele guardou a peça numa embalagem para consertá-la com calma em casa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "seguro,",
-        "guardou"
+        "embalagem",
+        "consertá"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Decidiu entregar o presente contando que até um piano de brinquedo precisava de ajustes, como toda música em aprendizado.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Decidiu",
-        "entregar"
+        "aprendizado",
+        "brinquedo"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "trabalhar",
-        "Rosângela"
+        "Rosângela",
+        "aprendizado"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

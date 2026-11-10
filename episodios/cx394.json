@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "cozinheiro",
-        "chamado"
+        "Bruno",
+        "cozinheiro"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira,",
+        "sete",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "cozinheiro",
-        "chamado"
+        "Bruno",
+        "comunitário"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "quieto,",
-        "respeito."
+        "Naquela",
+        "Quando"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "percebeu",
-        "deixara"
+        "participação",
+        "percebeu"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "mapa"
       ],
       "destaque": [
-        "receita",
+        "aproveitar",
         "inventada"
       ]
     },
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "respirou",
-        "guardou"
+        "acontecido",
+        "respirou"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ele telefonou para a mãe, que localizou o caderno e enviou uma fotografia da página com o preparo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "telefonou",
-        "localizou"
+        "fotografia",
+        "telefonou"
       ]
     },
     {
@@ -129,13 +129,13 @@
         "A VIRADA"
       ],
       "destaque": [
-        "aprendi",
-        "notícia"
+        "responder",
+        "mensagem"
       ]
     },
     {
       "fala": "Bruno chegou ao evento com as informações e ainda pediu autorização para contar a história da família no palco.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Não ganhou o primeiro prêmio, mas recebeu pedidos de receita e convites para ensinar numa oficina.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
         "primeiro",
-        "prêmio,"
+        "convites"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "trabalhar",
-        "Rosângela"
+        "Rosângela",
+        "aprendizado"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "chamado",
-        "Amâncio,"
+        "Amâncio",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "segunda-feira,",
+        "oito",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamado",
-        "Amâncio"
+        "Amâncio",
+        "desaparecido"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "trânsito",
-        "daquele"
+        "Aproveitei",
+        "histórias"
       ]
     },
     {
@@ -61,25 +61,25 @@
         "celular"
       ],
       "destaque": [
-        "Amâncio",
-        "preocupado"
+        "preocupado",
+        "nascimento"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
       "fala": "Perguntei se havia alguém de confiança para acompanhá-lo e conferir possíveis cópias de segurança sem divulgar dados pessoais.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "mapa"
       ],
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "retrovisor,",
-        "percebi"
+        "Era",
+        "preocupação"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -118,7 +118,7 @@
       ],
       "destaque": [
         "funcionária",
-        "encontrou"
+        "atualização"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "solução",
-        "novela."
+        "Conselho",
+        "Fiquei"
       ]
     },
     {
       "fala": "Amâncio ficou aliviado e pediu ajuda para aprender a guardar cópias de modo seguro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "Amâncio",
-        "aliviado"
+        "aliviado",
+        "aprender"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Na volta, mostrou uma fotografia de uma pipa colorida, dizendo que era a favorita da neta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "mostrou",
-        "fotografia"
+        "fotografia",
+        "colorida"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "Encostei",
-        "permitido,"
+        "preocupação",
+        "permitido"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

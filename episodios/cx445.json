@@ -9,7 +9,7 @@
   "cenario": "manha_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎓 Ela levou um convite de formatura de 20 anos atrás para uma escola vazia. Quem estava esperando por ela? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #ProfessorQueMarca #FinalSurpresa",
-  "legenda_post": "🚕📚 Um convite guardado por vinte anos e uma surpresa que ninguém esperava. Qual professor marcou sua vida? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro",
+  "legenda_post": "🚕📚 Um convite guardado por vinte anos e uma surpresa que ninguém esperava. Qual professor marcou sua vida? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um vestido de formatura dentro de uma sacola. O estranho é que a formatura tinha acontecido vinte anos atrás.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "vinte",
+        "acontecido"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. E naquela corrida descobri por que uma professora guardou um convite por duas décadas.",
+      "fala": "E naquela corrida descobri por que uma professora guardou um convite por duas décadas.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "duas",
+        "professora"
       ]
     },
     {
@@ -40,30 +40,30 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Dalva",
+        "Pediu"
       ]
     },
     {
       "fala": "Era sábado. Perguntei se haveria alguma festa na escola. Ela disse que não sabia se seria bem-vinda.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Era",
-        "sábado."
+        "Perguntei",
+        "haveria"
       ]
     },
     {
       "fala": "Dalva segurava uma fotografia de uma turma de adolescentes, todos sorrindo no pátio.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "segurava"
+        "adolescentes",
+        "fotografia"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "trabalhado",
+        "professora"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "de"
+        "Leandro",
+        "atrasado"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Apesar",
-        "do"
+        "precisava",
+        "primeiro"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "último"
+        "Leandro",
+        "engenheiro"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "começou"
+        "três",
+        "exercícios"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "formatura",
+        "organizou"
       ]
     },
     {
@@ -139,41 +139,41 @@
         "foto"
       ],
       "destaque": [
-        "Leandro",
-        "entregou"
-      ]
-    },
-    {
-      "fala": "Mas Dalva precisou mudar de cidade às pressas para cuidar do pai, que estava doente.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Mas",
+        "Quando",
         "Dalva"
       ]
     },
     {
-      "fala": "Ela perdeu o contato com a turma. O convite ficou guardado numa caixa junto das provas antigas.",
-      "expr": "neutra",
+      "fala": "Mas Dalva precisou mudar de cidade às pressas para cuidar do pai, que estava doente.",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "perdeu"
+        "Dalva",
+        "precisou"
+      ]
+    },
+    {
+      "fala": "Ela perdeu o contato com a turma. O convite ficou guardado numa caixa junto das provas antigas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "guardado",
+        "contato"
       ]
     },
     {
       "fala": "Na quinta-feira passada, um envelope apareceu debaixo da porta do apartamento dela.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "quinta-feira"
+        "apartamento",
+        "envelope"
       ]
     },
     {
@@ -183,52 +183,52 @@
         "foto"
       ],
       "destaque": [
-        "Dentro",
-        "havia"
+        "dez",
+        "Professora"
       ]
     },
     {
       "fala": "Dalva não sabia quem tinha enviado. Achou que talvez fosse alguma brincadeira de ex-alunos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "não"
+        "Achou",
+        "brincadeira"
       ]
     },
     {
       "fala": "Olhei pelo retrovisor e percebi que ela havia trazido o velho convite como quem leva uma prova de coragem.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Olhei",
-        "pelo"
+        "retrovisor",
+        "percebi"
       ]
     },
     {
       "fala": "Quando chegamos, o portão da escola estava aberto, mas o pátio parecia vazio.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "chegamos",
+        "parecia"
       ]
     },
     {
       "fala": "Ela pediu para eu esperar dois minutos. Eu disse que ficaria estacionado no local permitido.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "dois",
+        "estacionado"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Pouco",
-        "depois,"
+        "Dalva",
+        "conseguir"
       ]
     },
     {
@@ -249,19 +249,19 @@
         "foto"
       ],
       "destaque": [
-        "Ouvi",
-        "palmas"
+        "Caixeiro",
+        "Então"
       ]
     },
     {
       "fala": "Na quadra, dezenas de ex-alunos haviam preparado um encontro surpresa para agradecer aos antigos professores.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "quadra,"
+        "surpresa",
+        "professores"
       ]
     },
     {
@@ -271,63 +271,63 @@
         "foto"
       ],
       "destaque": [
-        "Leandro",
-        "estava"
+        "Agora",
+        "trabalhava"
       ]
     },
     {
       "fala": "Ele contou que aquela primeira aula extra mudou o jeito como enxergava o futuro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "contou"
+        "enxergava",
+        "primeira"
       ]
     },
     {
       "fala": "Outros alunos mostraram fotos, cadernos e lembranças de professores que fizeram diferença.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Outros",
-        "alunos"
+        "professores",
+        "lembranças"
       ]
     },
     {
       "fala": "Dalva abriu a sacola. Não era um vestido para usar. Era a roupa que vestira na formatura daquela turma.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
+        "Era",
         "abriu"
       ]
     },
     {
       "fala": "Ela levou a peça para mostrar que também nunca tinha esquecido aquele dia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "levou"
+        "esquecido",
+        "mostrar"
       ]
     },
     {
       "fala": "Na saída, Leandro entregou a ela uma foto nova, com todos reunidos no mesmo lugar de vinte anos antes.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "saída,"
+        "vinte",
+        "Leandro"
       ]
     },
     {
@@ -337,20 +337,20 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "voltou"
+        "Achei",
+        "Hoje"
       ]
     },
     {
       "fala": "E você, qual professor merece ouvir um obrigado? Conta nos comentários e acompanha a próxima corrida do Caixeiro.",
-      "expr": "neutra",
+      "expr": "brava",
       "arte": [
         "manchete_v",
         "QUAL PROFESSOR?"
       ],
       "destaque": [
-        "E",
-        "você,"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "radialista",
-        "aposentado"
+        "Mário",
+        "radialista"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
+        "dez",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "radialista",
-        "aposentado"
+        "Mário",
+        "radialista"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "corrida",
-        "parecia"
+        "aplicativo",
+        "importante"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "reconheceu",
-        "transmitido"
+        "transmitido",
+        "reconheceu"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -85,7 +85,7 @@
       ],
       "destaque": [
         "Explicou",
-        "perdera"
+        "original"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "faltava,",
+        "lembrança",
         "inventar"
       ]
     },
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "O locutor anunciou que a rádio comunitária digitalizara arquivos antigos e receberia visitantes numa exposição.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "locutor",
-        "anunciou"
+        "digitalizara",
+        "comunitária"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "Lembrei",
-        "Rosângela"
+        "Rosângela",
+        "discussão"
       ]
     },
     {
       "fala": "Mário anotou o endereço da estação e decidiu ir com a família para ouvir o restante do acervo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
         "endereço",
-        "estação"
+        "restante"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Quando chegamos, ele estava emocionado, mas também animado para contar à neta como eram os programas ao vivo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "chegamos,",
-        "emocionado,"
+        "emocionado",
+        "programas"
       ]
     },
     {
@@ -174,19 +174,19 @@
       ],
       "destaque": [
         "aplicativo",
-        "chegada,"
+        "suficiente"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

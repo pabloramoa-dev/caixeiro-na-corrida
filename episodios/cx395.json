@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "chamado",
-        "Felipe,"
+        "Felipe",
+        "aconteceu"
       ]
     },
     {
@@ -28,8 +28,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça-feira,",
-        "quarenta"
+        "seis",
+        "aplicativo"
       ]
     },
     {
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamado",
-        "explicou"
+        "Felipe",
+        "entrevista"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "aprendi",
-        "ninguém"
+        "Tem",
+        "preocupação"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "nervoso",
-        "começou"
+        "estragaria",
+        "impressão"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Expliquei",
-        "poderia"
+        "apresentar",
+        "Expliquei"
       ]
     },
     {
@@ -96,7 +96,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ele contou que ensaiara as respostas durante dias e esquecera de dormir direito de tanta ansiedade.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "ensaiara",
-        "respostas"
+        "respostas",
+        "esquecera"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "confirmar",
-        "imaginar"
+        "explicação",
+        "passageiro"
       ]
     },
     {
       "fala": "Quando chegamos, a recepcionista ofereceu um local para ele se arrumar antes de entrar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "chegamos,",
-        "recepcionista"
+        "recepcionista",
+        "chegamos"
       ]
     },
     {
@@ -151,13 +151,13 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Felipe fez a entrevista e me contou depois que a primeira pergunta não foi sobre o terno, e sim sobre seu último projeto.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "terminou,",
-        "conferi"
+        "Fiquei",
+        "desembarque"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

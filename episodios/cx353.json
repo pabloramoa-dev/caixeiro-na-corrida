@@ -15,7 +15,7 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
+        "aposentado",
         "professor"
       ]
     },
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
-        "manhã."
+        "nove",
+        "Hélio"
       ]
     },
     {
@@ -37,19 +37,19 @@
         "conversa"
       ],
       "destaque": [
-        "estava",
+        "três",
         "aniversário"
       ]
     },
     {
       "fala": "Nos cartões havia perguntas como quem inventou a receita do domingo e qual foi a primeira música tocada no rádio da casa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "cartões",
-        "perguntas"
+        "perguntas",
+        "inventou"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "testou",
-        "algumas"
+        "perguntas",
+        "respondia"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "pergunta",
-        "dizia:"
+        "Hélio",
+        "aniversariante"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "esquecido",
+        "respostas"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "sugeri",
-        "talvez"
+        "contasse",
+        "lembrava"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "festa,",
-        "família"
+        "alegremente",
+        "discutiu"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "mandou",
-        "cartões"
+        "espalhados",
+        "respostas"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "O melhor jogo daquela viagem não foi vencer um quiz. Foi descobrir quantas histórias ficam guardadas quando ninguém pergunta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "melhor",
-        "daquela"
+        "Foi",
+        "descobrir"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

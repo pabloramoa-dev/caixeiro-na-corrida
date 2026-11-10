@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "senhora",
-        "chamada"
+        "Regina",
+        "aconteceu"
       ]
     },
     {
@@ -28,8 +28,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça-feira,",
-        "quarenta"
+        "seis",
+        "aplicativo"
       ]
     },
     {
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "senhora",
-        "chamada"
+        "Regina",
+        "solicitou"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "aprendi",
-        "ninguém"
+        "Tem",
+        "preocupação"
       ]
     },
     {
@@ -62,19 +62,19 @@
       ],
       "destaque": [
         "explicou",
-        "veículo"
+        "enquanto"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Conferimos",
-        "solicitação"
+        "solicitação",
+        "transformar"
       ]
     },
     {
@@ -96,7 +96,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -106,18 +106,18 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ela contou que o automóvel tinha pertencido ao pai e que aguardava restauração há vários anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "automóvel",
+        "restauração",
         "pertencido"
       ]
     },
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "confirmar",
-        "imaginar"
+        "explicação",
+        "passageiro"
       ]
     },
     {
       "fala": "Durante o trajeto, recebeu fotos da oficina mostrando a garagem preparada para receber o carro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "Durante",
-        "trajeto,"
+        "mostrando",
+        "preparada"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Chegamos ao endereço combinado e Regina ficou emocionada ao ver o veículo estacionado com cuidado.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Chegamos",
-        "endereço"
+        "Regina",
+        "estacionado"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "terminou,",
-        "conferi"
+        "Fiquei",
+        "desembarque"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

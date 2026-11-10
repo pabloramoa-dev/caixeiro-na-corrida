@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "contadora",
-        "chamada"
+        "Marta",
+        "contadora"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira,",
+        "sete",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "contadora",
-        "chamada"
+        "Marta",
+        "transferido"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "quieto,",
-        "respeito."
+        "Naquela",
+        "Quando"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "percebeu",
-        "recebeu"
+        "recuperaria",
+        "percebeu"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "mostrei",
-        "comprovante"
+        "comprovante",
+        "pagamentos"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "respirou",
-        "guardou"
+        "acontecido",
+        "respirou"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Enquanto conversávamos, Marta lembrou que havia digitado um valor de outra conta numa transferência diferente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Enquanto",
-        "conversávamos,"
+        "Marta",
+        "conversávamos"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "aprendi",
-        "notícia"
+        "responder",
+        "mensagem"
       ]
     },
     {
       "fala": "Ela confirmou com a instituição financeira que o pagamento da corrida estava correto e que o erro era em outro lançamento.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "confirmou",
-        "instituição"
+        "instituição",
+        "financeira"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Depois de falar com o destinatário e com o banco, conseguiu organizar a solicitação de correção.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
         "destinatário",
-        "conseguiu"
+        "solicitação"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "trabalhar",
-        "Rosângela"
+        "Rosângela",
+        "aprendizado"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

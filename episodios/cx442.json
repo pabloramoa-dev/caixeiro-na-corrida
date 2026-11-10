@@ -9,7 +9,7 @@
   "cenario": "tarde_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🚂 Ela entrou no carro com uma chave antiga e uma carta misteriosa. A estação estava fechada havia vinte anos… então quem deixou o recado? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reviravolta",
-  "legenda_post": "🚕🔑 Uma estação abandonada, uma porta azul e uma promessa de infância. Teresa descobriu que algumas lembranças esperam a hora certa de voltar. Que lugar você gostaria de revisitar? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Familia",
+  "legenda_post": "🚕🔑 Uma estação abandonada, uma porta azul e uma promessa de infância. Teresa descobriu que algumas lembranças esperam a hora certa de voltar. Que lugar você gostaria de revisitar? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Familia\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro com uma chave enferrujada e pediu para ir a uma estação de trem desativada. Disse que alguém a esperava lá havia vinte anos. Só que a estação estava vazia.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "vinte",
+        "Disse"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. E aquela corrida começou com uma pergunta estranha: 'Você acredita que uma promessa pode esperar duas décadas?'",
-      "expr": "neutra",
+      "fala": "E aquela corrida começou com uma pergunta estranha: 'Você acredita que uma promessa pode esperar duas décadas?'",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "duas",
+        "Você"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Teresa",
+        "Tinha"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "Joaquim",
+        "trabalhava"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Todas",
-        "as"
+        "dois",
+        "contavam"
       ]
     },
     {
@@ -73,19 +73,19 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "dia,"
+        "Joaquim",
+        "Quando"
       ]
     },
     {
       "fala": "Mas a família mudou de cidade de repente. A estação fechou, e Teresa nunca voltou.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "a"
+        "Teresa",
+        "família"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "Dentro",
+        "fotografia"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "verso,"
+        "cinco",
+        "Sexta"
       ]
     },
     {
@@ -117,19 +117,19 @@
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "quem"
+        "Joaquim",
+        "Teresa"
       ]
     },
     {
       "fala": "Olhei pelo retrovisor. Ela não parecia assustada. Parecia determinada a descobrir quem guardara aquela promessa.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Olhei",
-        "pelo"
+        "Parecia",
+        "determinada"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "caminho,"
+        "Teresa",
+        "Era"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "quatro",
+        "oito"
       ]
     },
     {
@@ -161,18 +161,18 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "plataforma"
+        "Nenhum",
+        "funcionário"
       ]
     },
     {
       "fala": "Teresa caminhou até a porta azul. A fechadura resistiu por um instante e depois girou.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Teresa",
+        "fechadura",
         "caminhou"
       ]
     },
@@ -183,40 +183,40 @@
         "foto"
       ],
       "destaque": [
-        "Do",
-        "outro"
+        "cuidadosamente",
+        "empilhadas"
       ]
     },
     {
       "fala": "Em cima da primeira caixa, um bilhete: 'Para Teresa, que sempre contou os vagões comigo'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Em",
-        "cima"
+        "Teresa",
+        "Para"
       ]
     },
     {
       "fala": "Ela abriu a caixa e encontrou cadernos cheios de desenhos de trens feitos por ela na infância.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "abriu"
+        "abriu",
+        "encontrou"
       ]
     },
     {
       "fala": "Na segunda caixa estavam fotos da estação, passagens antigas e uma fita com seu nome.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
+        "passagens",
         "segunda"
       ]
     },
@@ -227,52 +227,52 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "plataforma",
+        "segurando"
       ]
     },
     {
       "fala": "Ela se apresentou como Dona Celina, antiga colega de Joaquim na bilheteria.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "se"
+        "Joaquim",
+        "Celina"
       ]
     },
     {
       "fala": "Celina contou que o avô havia guardado aqueles objetos durante anos, esperando o dia em que Teresa voltaria.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Celina",
-        "contou"
+        "Teresa",
+        "esperando"
       ]
     },
     {
       "fala": "Antes de partir, Joaquim pediu a Celina que entregasse a lembrança quando a neta estivesse pronta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "Joaquim",
+        "Celina"
       ]
     },
     {
       "fala": "Mas havia mais uma surpresa: a porta azul seria restaurada para virar uma pequena biblioteca comunitária.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "surpresa",
+        "comunitária"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Os",
-        "moradores"
+        "Teresa",
+        "passageiros"
       ]
     },
     {
@@ -293,53 +293,53 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "chorou"
+        "segredo",
+        "lembranças"
       ]
     },
     {
       "fala": "Ela me pediu uma foto diante da porta azul. Desta vez, não havia trem para contar, mas havia uma história para compartilhar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "Desta",
+        "compartilhar"
       ]
     },
     {
       "fala": "Na volta, Teresa disse que pretendia ajudar a abrir a biblioteca. A chave ficaria com ela até a inauguração.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "volta,"
+        "Teresa",
+        "inauguração"
       ]
     },
     {
       "fala": "Eu pensei que algumas viagens não levam apenas a um endereço. Levam a uma parte da gente que estava esperando.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL LUGAR?"
       ],
       "destaque": [
-        "Eu",
-        "pensei"
+        "Levam",
+        "esperando"
       ]
     },
     {
       "fala": "E você? Qual lugar da infância gostaria de revisitar? Conta nos comentários e acompanha a próxima corrida do Caixeiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "E",
-        "você?"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

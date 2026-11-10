@@ -9,7 +9,7 @@
   "cenario": "manha_chuvosa",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "✉️ Ela entrou no carro com uma carta perdida há 30 anos. O destinatário apareceu onde ninguém esperava! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta #CartaPerdida",
-  "legenda_post": "🚕✉️ Uma carta esquecida num livro, um muro cheio de estrelas e uma história que esperou trinta anos para terminar. Você acredita em reencontros inesperados? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "legenda_post": "🚕✉️ Uma carta esquecida num livro, um muro cheio de estrelas e uma história que esperou trinta anos para terminar. Você acredita em reencontros inesperados? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um envelope escrito NÃO ENTREGUE AO DESTINATÁRIO. Quando vi o endereço, percebi que a carta era para alguém que já não morava lá havia trinta anos.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "Quando",
+        "DESTINATÁRIO"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. E aquela corrida começou numa manhã de sexta-feira, com chuva fina e uma passageira olhando o relógio sem parar.",
+      "fala": "E aquela corrida começou numa manhã de sexta-feira, com chuva fina e uma passageira olhando o relógio sem parar.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "passageira",
+        "corrida"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "se"
+        "Elisa",
+        "trabalhava"
       ]
     },
     {
@@ -51,19 +51,19 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "destino"
+        "aconteceria",
+        "moradores"
       ]
     },
     {
       "fala": "Perguntei por que uma carta tão velha precisava ser entregue naquele dia. Ela respondeu: porque hoje vão derrubar a última parede.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "por"
+        "precisava"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "contou"
+        "biblioteca",
+        "encontrou"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "frente"
+        "Para",
+        "Sem"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pensou"
+        "fotografia",
+        "estrelas"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "mostrou"
+        "bibliotecário",
+        "reconheceu"
       ]
     },
     {
       "fala": "O clube tinha sido abrigo de crianças durante uma enchente. Muita gente perdeu objetos e documentos naquele ano.",
-      "expr": "neutra",
+      "expr": "brava",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "clube"
+        "Muita",
+        "documentos"
       ]
     },
     {
@@ -128,63 +128,63 @@
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "passou"
+        "Descobriu",
+        "Davi"
       ]
     },
     {
       "fala": "Mas Davi havia mudado de cidade antes de receber uma despedida. Ninguém sabia onde ele estava.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
+        "Ninguém",
         "Davi"
       ]
     },
     {
       "fala": "Foi quando a diretora da biblioteca encontrou um caderno de recados guardado numa caixa de doações.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "biblioteca",
+        "encontrou"
       ]
     },
     {
       "fala": "Uma página dizia: se um dia ele voltar, digam que as estrelas ainda estão aqui. A assinatura estava borrada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "página"
+        "assinatura",
+        "estrelas"
       ]
     },
     {
       "fala": "Elisa decidiu levar o envelope ao encontro de antigos moradores. Talvez alguém reconhecesse a letra.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "decidiu"
+        "Talvez",
+        "reconhecesse"
       ]
     },
     {
       "fala": "Chegando perto do clube, vimos operários e uma faixa anunciando a reforma. A parede das estrelas estava coberta por uma lona.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Chegando",
-        "perto"
+        "anunciando",
+        "operários"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "ficou"
+        "Disse",
+        "descobrir"
       ]
     },
     {
@@ -205,52 +205,52 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sugeri"
+        "Afinal",
+        "perguntássemos"
       ]
     },
     {
       "fala": "Uma senhora chamada Nair recebeu a fotografia e levou a mão à boca. Conhecia cada estrela daquele desenho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "senhora"
-      ]
-    },
-    {
-      "fala": "Foi Nair quem escreveu a carta. Na enchente, Davi havia ajudado seu filho pequeno a encontrar a família.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Foi",
+        "Conhecia",
         "Nair"
       ]
     },
     {
-      "fala": "Ela nunca conseguiu agradecer. Escreveu a carta e colocou num livro que seria entregue ao menino, mas o livro se perdeu.",
-      "expr": "neutra",
+      "fala": "Foi Nair quem escreveu a carta. Na enchente, Davi havia ajudado seu filho pequeno a encontrar a família.",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "nunca"
+        "Nair",
+        "Davi"
+      ]
+    },
+    {
+      "fala": "Ela nunca conseguiu agradecer. Escreveu a carta e colocou num livro que seria entregue ao menino, mas o livro se perdeu.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Escreveu",
+        "conseguiu"
       ]
     },
     {
       "fala": "Perguntei se Davi ainda poderia aparecer. Nair respondeu que tinha tentado procurá-lo muitas vezes, sem sucesso.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Davi",
+        "Nair"
       ]
     },
     {
@@ -260,30 +260,30 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "um"
+        "Estava",
+        "Davi"
       ]
     },
     {
       "fala": "Ele mostrou uma pequena estrela tatuada no chaveiro, não na pele, que carregava desde menino. Era o desenho que fazia no muro.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Ele",
-        "mostrou"
-      ]
-    },
-    {
-      "fala": "Era o próprio Davi. Tinha voltado à cidade para trabalhar na obra sem imaginar que aquele lugar guardava sua história.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Era",
-        "o"
+        "carregava"
+      ]
+    },
+    {
+      "fala": "Era o próprio Davi. Tinha voltado à cidade para trabalhar na obra sem imaginar que aquele lugar guardava sua história.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Tinha",
+        "Davi"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Nair",
-        "entregou"
+        "Davi",
+        "respondeu"
       ]
     },
     {
       "fala": "O engenheiro então revelou que a parede seria restaurada, não demolida. As estrelas fariam parte de um espaço de memória do bairro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
+        "revelou",
         "engenheiro"
       ]
     },
     {
       "fala": "Voltei ao carro pensando que algumas mensagens demoram, mas ainda chegam na hora certa. Você guardaria uma carta por trinta anos? Comente e siga o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "VOCÊ GUARDARIA?"
       ],
       "destaque": [
-        "Voltei",
-        "ao"
+        "Caixeiro",
+        "Comente"
       ]
     }
   ]

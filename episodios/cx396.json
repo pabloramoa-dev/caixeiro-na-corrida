@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "voluntária",
-        "chamada"
+        "Marlene",
+        "voluntária"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "segunda-feira,",
+        "oito",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "voluntária",
-        "chamada"
+        "Marlene",
+        "voluntária"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "trânsito",
-        "daquele"
+        "Aproveitei",
+        "histórias"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "Marlene",
-        "precisava"
+        "comunitárias",
+        "inscrições"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "retrovisor,",
-        "percebi"
+        "Era",
+        "preocupação"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Mostrou a programação: troca de livros, orientação de currículo e oficinas de reparo de bicicletas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Mostrou",
-        "programação:"
+        "programação",
+        "orientação"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "solução",
-        "novela."
+        "Conselho",
+        "Fiquei"
       ]
     },
     {
       "fala": "Quando chegamos ao primeiro ponto, os voluntários já tinham separado mesas e cartazes e pediram mais convites.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "chegamos",
-        "primeiro"
+        "voluntários",
+        "chegamos"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Uma semana depois, Marlene contou que muitos moradores participaram e sugeriram novas atividades.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "depois,",
-        "Marlene"
+        "Marlene",
+        "participaram"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "Encostei",
-        "permitido,"
+        "preocupação",
+        "permitido"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

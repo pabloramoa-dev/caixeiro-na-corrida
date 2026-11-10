@@ -9,7 +9,7 @@
   "cenario": "tarde_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "☂️ Ela entrou no carro com um guarda-chuva num dia de sol e um relógio contando os minutos. O destino? Uma estação abandonada. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
-  "legenda_post": "🚕☂️ Um guarda-chuva amarelo, uma estação antiga e um bilhete misterioso. Dalva não sabia se encontraria alguém ou apenas uma lembrança. Que memória você gostaria de reviver? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "legenda_post": "🚕☂️ Um guarda-chuva amarelo, uma estação antiga e um bilhete misterioso. Dalva não sabia se encontraria alguém ou apenas uma lembrança. Que memória você gostaria de reviver? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um guarda-chuva amarelo, embora não houvesse uma nuvem no céu. E disse: se aquele relógio tocar, não pare o carro.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "houvesse",
+        "amarelo"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Naquele instante achei que fosse uma brincadeira, mas a passageira apertava o cabo do guarda-chuva como quem escondia uma notícia.",
+      "fala": "Naquele instante achei que fosse uma brincadeira, mas a passageira apertava o cabo do guarda-chuva como quem escondia uma notícia.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "brincadeira",
+        "passageira"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "se"
+        "Dalva",
+        "ferroviária"
       ]
     },
     {
@@ -51,19 +51,19 @@
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "vinte",
+        "sete"
       ]
     },
     {
       "fala": "Perguntei por que levava um guarda-chuva num dia de sol. Ela respondeu: foi o último presente que recebi do meu irmão.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "por"
+        "respondeu"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Disse",
-        "que"
+        "dois",
+        "inventavam"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "dia,"
+        "desapareceu",
+        "perderam"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "passou"
+        "procurando",
+        "fotografia"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "três",
+        "dois"
       ]
     },
     {
@@ -117,85 +117,85 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "quase"
+        "Afinal",
+        "passageiros"
       ]
     },
     {
       "fala": "Mas no verso do bilhete havia um desenho: dois meninos segurando um guarda-chuva sob um sol enorme.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "no"
+        "dois",
+        "segurando"
       ]
     },
     {
       "fala": "Era a brincadeira que os irmãos faziam: diziam que o guarda-chuva servia para proteger os sonhos, não da chuva.",
-      "expr": "neutra",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "brincadeira",
+        "proteger"
+      ]
+    },
+    {
+      "fala": "O despertador marcou dez minutos restantes. Dalva pediu que eu pegasse a avenida antiga, mesmo sendo um caminho mais demorado.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dez",
+        "Dalva"
+      ]
+    },
+    {
+      "fala": "Eu avisei que poderíamos chegar atrasados. Ela respondeu: preciso passar pela padaria da esquina antes de ver a estação.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "poderíamos",
+        "atrasados"
+      ]
+    },
+    {
+      "fala": "Na vitrine da padaria, uma senhora colocou um pão doce embrulhado em papel azul. Dalva reconheceu o embrulho imediatamente.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dalva",
+        "imediatamente"
+      ]
+    },
+    {
+      "fala": "Ela contou que o irmão guardava metade daquele pão para ela, mesmo quando os dois estavam com fome.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "guardava"
+      ]
+    },
+    {
+      "fala": "Foi quando percebi que a corrida não era apenas sobre encontrar alguém. Era sobre saber se uma lembrança podia continuar viva.",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Era",
-        "a"
-      ]
-    },
-    {
-      "fala": "O despertador marcou dez minutos restantes. Dalva pediu que eu pegasse a avenida antiga, mesmo sendo um caminho mais demorado.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "O",
-        "despertador"
-      ]
-    },
-    {
-      "fala": "Eu avisei que poderíamos chegar atrasados. Ela respondeu: preciso passar pela padaria da esquina antes de ver a estação.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Eu",
-        "avisei"
-      ]
-    },
-    {
-      "fala": "Na vitrine da padaria, uma senhora colocou um pão doce embrulhado em papel azul. Dalva reconheceu o embrulho imediatamente.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Na",
-        "vitrine"
-      ]
-    },
-    {
-      "fala": "Ela contou que o irmão guardava metade daquele pão para ela, mesmo quando os dois estavam com fome.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Ela",
-        "contou"
-      ]
-    },
-    {
-      "fala": "Foi quando percebi que a corrida não era apenas sobre encontrar alguém. Era sobre saber se uma lembrança podia continuar viva.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Foi",
-        "quando"
+        "encontrar"
       ]
     },
     {
@@ -205,30 +205,30 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "à"
+        "dois",
+        "completamente"
       ]
     },
     {
       "fala": "Dalva ficou imóvel. Disse que tinha medo de ter acreditado numa carta enviada por alguém que nem a conhecia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "ficou"
+        "Disse",
+        "acreditado"
       ]
     },
     {
       "fala": "Então ouvimos uma música baixinha saindo da antiga sala de bilhetes. Era uma melodia assobiada, simples, repetida três vezes.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Então",
-        "ouvimos"
+        "três",
+        "Era"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "reconheceu"
+        "reconheceu",
+        "inventara"
       ]
     },
     {
@@ -249,30 +249,30 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "homem"
+        "Apenas",
+        "fotografias"
       ]
     },
     {
       "fala": "Ele explicou que tinha encontrado o endereço de Dalva depois de pesquisar documentos antigos e conversar com moradores do bairro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "explicou"
+        "Dalva",
+        "encontrado"
       ]
     },
     {
       "fala": "A carta era dele. O relógio marcava a hora exata em que os dois costumavam se despedir na plataforma depois de vender doces.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "carta"
+        "dois",
+        "costumavam"
       ]
     },
     {
@@ -282,42 +282,42 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "o"
+        "dois",
+        "abriu"
       ]
     },
     {
       "fala": "Dalva não precisou perguntar mais nada. Os dois começaram a conversar como se a infância tivesse esperado pacientemente naquele lugar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "não"
+        "dois",
+        "pacientemente"
       ]
     },
     {
       "fala": "Na volta, ela deixou no banco um pão doce embrulhado em azul. Disse que eu merecia metade por ter acompanhado aquela corrida.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "volta,"
+        "Disse",
+        "acompanhado"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro, e aprendi que algumas viagens nos levam de volta ao que importa. Qual lembrança você gostaria de reencontrar? Comente e siga o Caixeiro!",
-      "expr": "neutra",
+      "fala": "Aprendi que algumas viagens nos levam de volta ao que importa. Qual lembrança você gostaria de reencontrar? Comente e siga o Caixeiro!",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL LEMBRANÇA?"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Caixeiro",
+        "Comente"
       ]
     }
   ]

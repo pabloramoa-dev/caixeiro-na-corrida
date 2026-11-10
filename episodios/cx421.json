@@ -9,7 +9,7 @@
   "cenario": "noite",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🐔 Ela entrou no meu carro com uma GALINHA DE BORRACHA e disse: 'Se isso gritar antes das sete, a biblioteca fecha!' 😳 O que aconteceu no Campeonato de Silêncio ninguém conseguiu segurar! Você já riu quando não podia? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #PlotTwist #Biblioteca #StorytimeBrasil",
-  "legenda_post": "📚🐔 Uma bibliotecária desesperada, uma galinha de borracha que não parava de gritar e um campeonato em que ninguém podia rir. Marlene queria salvar a biblioteca do bairro, mas seu sobrinho Tico tinha outros planos. 😂 O final dessa corrida provou que uma boa história não precisa de silêncio. Você já riu na hora errada? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #Leitura #FinalSurpresa",
+  "legenda_post": "📚🐔 Uma bibliotecária desesperada, uma galinha de borracha que não parava de gritar e um campeonato em que ninguém podia rir. Marlene queria salvar a biblioteca do bairro, mas seu sobrinho Tico tinha outros planos. 😂 O final dessa corrida provou que uma boa história não precisa de silêncio. Você já riu na hora errada? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #Leitura #FinalSurpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma galinha de borracha e sussurrou: se isso gritar antes das sete, a biblioteca fecha!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "sete",
+        "biblioteca"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Já ouvi muita história estranha no banco de trás, mas aquela galinha parecia saber demais.",
+      "fala": "Já ouvi muita história estranha no banco de trás, mas aquela galinha parecia saber demais.",
       "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "história",
+        "estranha"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "vinte",
+        "seis"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "biblioteca",
+        "Perguntei"
       ]
     },
     {
@@ -63,7 +63,7 @@
       ],
       "destaque": [
         "Cinco",
-        "segundos"
+        "Marlene"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "Campeonato",
+        "Silêncio"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "disse"
+        "Marlene",
+        "emprestado"
       ]
     },
     {
@@ -95,19 +95,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "biblioteca"
+        "biblioteca",
+        "carregar"
       ]
     },
     {
       "fala": "Para atrair crianças, ela inventou uma disputa: quem aguentasse mais tempo sem rir ganharia uma surpresa.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Para",
-        "atrair"
+        "surpresa",
+        "aguentasse"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "problema"
+        "nove",
+        "Tico"
       ]
     },
     {
@@ -128,19 +128,19 @@
         "foto"
       ],
       "destaque": [
-        "Marlene",
-        "suspeitava"
+        "Antes",
+        "Tico"
       ]
     },
     {
       "fala": "Perguntei se ela tinha brigado com o menino. Ela disse que só mandara parar de fazer piada entre as estantes.",
-      "expr": "neutra",
+      "expr": "brava",
       "arte": [
         "conversa"
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "estantes"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "semáforo,"
+        "Tico",
+        "Era"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "aí"
+        "Marlene",
+        "apertado"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "jurei"
+        "comentarista",
+        "inocência"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "às"
+        "seis",
+        "oito"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "entrada,"
+        "CAMPEONATO",
+        "apontando"
       ]
     },
     {
@@ -205,7 +205,7 @@
         "foto"
       ],
       "destaque": [
-        "Marlene",
+        "Dentro",
         "abriu"
       ]
     },
@@ -216,19 +216,19 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "bilhete"
+        "descobrir",
+        "pensando"
       ]
     },
     {
       "fala": "De repente, Tico apareceu fantasiado de detetive. Pediu a todos que ficassem sérios e anunciou o primeiro desafio.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "De",
-        "repente,"
+        "Pediu",
+        "Tico"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "leu"
+        "gargalhada",
+        "confundia"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "Logo",
-        "a"
+        "Marlene",
+        "esconder"
       ]
     },
     {
@@ -261,8 +261,8 @@
         "AQUI PODE RIR"
       ],
       "destaque": [
-        "Tico",
-        "virou"
+        "campeonato",
+        "escrito"
       ]
     },
     {
@@ -272,8 +272,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "menino"
+        "histórias",
+        "explicou"
       ]
     },
     {
@@ -283,8 +283,8 @@
         "foto"
       ],
       "destaque": [
-        "Marlene",
-        "pegou"
+        "microfone",
+        "agradeceu"
       ]
     },
     {
@@ -294,8 +294,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "saída,"
+        "Dessa",
+        "carteirinha"
       ]
     },
     {
@@ -305,8 +305,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "recebi"
+        "Apertei",
+        "Marlene"
       ]
     },
     {
@@ -318,7 +318,7 @@
       ],
       "destaque": [
         "Cinco",
-        "estrelas"
+        "Conta"
       ]
     }
   ]

@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🦜 Ela entrou no meu carro e avisou: 'Se o papagaio falar, a surpresa acaba!' Dois minutos depois, ele gritou o endereço do BOLO! 😂 Mas o aniversariante tinha um segredo ainda maior. Você confiaria uma surpresa a esse pássaro? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PapagaioFofoqueiro #PlotTwist #HumorBrasileiro #StorytimeBrasil",
-  "legenda_post": "🦜🚕 Neide precisava levar um papagaio para casa sem estragar a festa surpresa do vizinho. Só que Picolé sabia de tudo — e não conseguia ficar quieto! 😂 O final teve uma surpresa que ninguém esperava. Qual segredo seu bichinho contaria se pudesse falar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #FestaSurpresa #FinalSurpresa",
+  "legenda_post": "🦜🚕 Neide precisava levar um papagaio para casa sem estragar a festa surpresa do vizinho. Só que Picolé sabia de tudo — e não conseguia ficar quieto! 😂 O final teve uma surpresa que ninguém esperava. Qual segredo seu bichinho contaria se pudesse falar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Humor #FestaSurpresa #FinalSurpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "A passageira entrou com um papagaio coberto por um pano. Antes de sentar, avisou: se ele falar, a surpresa acaba.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Antes",
+        "surpresa"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "nem"
+        "garagem",
+        "ligado"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "segredo"
       ]
     },
     {
       "fala": "A mulher se chamava Neide. Estava organizando uma festa surpresa para seu Antônio, o vizinho mais desconfiado do bairro.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "mulher"
+        "Antônio",
+        "Estava"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "disse"
+        "Picolé",
+        "Achei"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "semáforo,"
+        "Picolé",
+        "motociclista"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Neide",
-        "explicou"
+        "Antônio",
+        "consertando"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Agora",
-        "ele"
+        "completaria",
+        "precisavam"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
+        "Neide",
+        "aniversariante"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Picolé",
-        "soltou"
+        "Neide",
+        "esquece"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "carro"
       ],
       "destaque": [
-        "Só",
-        "que"
+        "assustadora",
+        "estimular"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "rua"
+        "bicicletas",
+        "enfeitadas"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "mapa"
       ],
       "destaque": [
-        "Neide",
-        "mandou"
+        "Antônio",
+        "Picolé"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Assim",
-        "que"
+        "Antônio",
+        "papagaio"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Todo",
-        "mundo"
+        "Antônio",
+        "desconfiava"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "conversa"
       ],
       "destaque": [
-        "Neide",
-        "tentou"
+        "Picolé",
+        "improvisar"
       ]
     },
     {
@@ -194,7 +194,7 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
+        "três",
         "Antônio"
       ]
     },
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "vizinha"
+        "Picolé",
+        "descobriu"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "veio"
+        "Antônio",
+        "surpresa"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "foto"
       ],
       "destaque": [
-        "Lá",
-        "estavam"
+        "dez",
+        "Eram"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "turma"
+        "emocionada",
+        "aquela"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "Neide",
-        "abraçou"
+        "Picolé",
+        "aniversariante"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "carro"
       ],
       "destaque": [
-        "Na",
-        "volta,"
+        "cinco",
+        "Guardei"
       ]
     },
     {
@@ -272,8 +272,8 @@
         "QUAL SEGREDO O PAPAGAIO ENTREGARIA?"
       ],
       "destaque": [
-        "Se",
-        "você"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

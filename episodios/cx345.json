@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "artista"
+        "personagem",
+        "científica"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça,",
-        "manhã."
+        "sete",
+        "Joana"
       ]
     },
     {
@@ -37,19 +37,19 @@
         "conversa"
       ],
       "destaque": [
-        "trabalhava",
-        "efeitos"
+        "apresentação",
+        "trabalhava"
       ]
     },
     {
       "fala": "Ela tentou receber uma entrega sem retirar a fantasia, e o entregador perguntou se precisava de ajuda.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "tentou",
-        "receber"
+        "entregador",
+        "perguntou"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "estavam",
-        "desencontrados"
+        "desencontrados",
+        "responsável"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "respirou,",
-        "mostrou"
+        "iluminação",
+        "espetáculo"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,19 +103,19 @@
         "conversa"
       ],
       "destaque": [
-        "entregador",
-        "aliviado,"
+        "previamente",
+        "entregador"
       ]
     },
     {
       "fala": "No carro, Joana mostrou um folheto da peça e disse que a fantasia era muito menos assustadora sem a luz azul da filmagem.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "carro,",
-        "mostrou"
+        "Joana",
+        "assustadora"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "voltou",
-        "prédio"
+        "preocupação",
+        "bastidores"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "porteiro",
-        "mural,"
+        "autorizados",
+        "porteiro"
       ]
     },
     {
@@ -158,8 +158,8 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
@@ -169,8 +169,8 @@
         "conversa"
       ],
       "destaque": [
-        "Naquela",
-        "corrida"
+        "desnecessária",
+        "explicação"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "atendente"
+        "restaurante",
+        "embrulhada"
       ]
     },
     {
@@ -26,19 +26,19 @@
         "relogio"
       ],
       "destaque": [
-        "terça,",
-        "manhã."
+        "sete",
+        "Quem"
       ]
     },
     {
       "fala": "O gerente recebera um aviso de que um avaliador surpresa visitaria o salão, e os funcionários imaginavam que qualquer pessoa poderia ser ele.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "gerente",
-        "recebera"
+        "surpresa",
+        "funcionários"
       ]
     },
     {
@@ -48,7 +48,7 @@
         "celular"
       ],
       "destaque": [
-        "contou",
+        "três",
         "cozinheiro"
       ]
     },
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -71,7 +71,7 @@
       ],
       "destaque": [
         "perguntei",
-        "estavam"
+        "tentando"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "pensativa.",
-        "Quando"
+        "Quando",
+        "observando"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "ofereceu",
-        "perguntou"
+        "restaurante",
+        "fotografia"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "visitava",
-        "continuava"
+        "continuava",
+        "acolhedor"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,7 +136,7 @@
         "carro"
       ],
       "destaque": [
-        "avaliador",
+        "reconhecido",
         "verdadeiro"
       ]
     },
@@ -147,7 +147,7 @@
         "manchete_v"
       ],
       "destaque": [
-        "saída,",
+        "bilhete",
         "senhor"
       ]
     },
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Nara desceu do carro seguinte contando a história. O restaurante aprendeu que atendimento bom não pode ser figurino de um dia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "desceu",
-        "seguinte"
+        "restaurante",
+        "atendimento"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

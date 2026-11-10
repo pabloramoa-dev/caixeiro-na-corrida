@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "Lourdes",
+        "professora"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sexta-feira,",
+        "quatro",
         "aplicativo"
       ]
     },
@@ -39,19 +39,19 @@
         "conversa"
       ],
       "destaque": [
-        "professora",
-        "chamada"
+        "três",
+        "Lourdes"
       ]
     },
     {
       "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "fábrica,",
-        "aprendi"
+        "dois",
+        "situação"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "ex-alunos",
-        "organizavam"
+        "organizavam",
+        "reencontro"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Lourdes",
-        "preocupada"
+        "preocupada",
+        "reconhecer"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "informação",
+        "Foi",
         "pequenininha"
       ]
     },
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Mostrou uma fotografia de crianças usando uniformes enormes e perguntou se eu também guardava lembranças da escola.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Mostrou",
-        "fotografia"
+        "fotografia",
+        "lembranças"
       ]
     },
     {
@@ -129,8 +129,8 @@
         "A VIRADA"
       ],
       "destaque": [
-        "conversa",
-        "ninguém"
+        "sumiu",
+        "conversa"
       ]
     },
     {
@@ -140,8 +140,8 @@
         "notificacao"
       ],
       "destaque": [
-        "chegamos,",
-        "preparado"
+        "preparado",
+        "chegamos"
       ]
     },
     {
@@ -151,13 +151,13 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "A professora reconheceu uma risada antes mesmo de ler o primeiro cartão.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "carro"
       ],
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "fechou,",
-        "próxima"
+        "apareceu",
+        "pensando"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

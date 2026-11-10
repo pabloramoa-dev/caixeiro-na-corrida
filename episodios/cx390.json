@@ -17,7 +17,7 @@
         "titulo"
       ],
       "destaque": [
-        "chamado",
+        "Enzo",
         "aconteceu"
       ]
     },
@@ -28,8 +28,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça-feira,",
-        "quarenta"
+        "seis",
+        "aplicativo"
       ]
     },
     {
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamado",
-        "explicou"
+        "Enzo",
+        "transporte"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "aprendi",
-        "ninguém"
+        "Tem",
+        "preocupação"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "mudando",
-        "informado"
+        "previamente",
+        "transportar"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Durante",
-        "corrida,"
+        "recomendações",
+        "especialista"
       ]
     },
     {
@@ -96,7 +96,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -106,13 +106,13 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ele contou que o peixe fora presente do avô e que cuidar dele o ajudava a manter uma rotina.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "confirmar",
-        "imaginar"
+        "explicação",
+        "passageiro"
       ]
     },
     {
       "fala": "Quando chegamos, Enzo conferiu o ambiente preparado e agradeceu por eu ter mantido a viagem tranquila.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "chegamos,",
-        "conferiu"
+        "Enzo",
+        "preparado"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Na semana seguinte, enviou uma foto do aquário já instalado, com o peixe bem acomodado.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "seguinte,",
-        "aquário"
+        "instalado",
+        "acomodado"
       ]
     },
     {
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "terminou,",
-        "conferi"
+        "Fiquei",
+        "desembarque"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

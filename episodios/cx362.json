@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "adestradora",
-        "chamada"
+        "Carol",
+        "adestradora"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
+        "dez",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "adestradora",
-        "chamada"
+        "Carol",
+        "adestradora"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "corrida",
-        "parecia"
+        "aplicativo",
+        "importante"
       ]
     },
     {
@@ -61,31 +61,31 @@
         "celular"
       ],
       "destaque": [
-        "perguntou",
-        "transporte"
+        "transporte",
+        "perguntou"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
       "fala": "Durante a viagem, o cachorro se acomodou, enquanto a dona contava que trabalhava ensinando cuidados básicos aos tutores.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "mapa"
       ],
       "destaque": [
-        "Durante",
-        "viagem,"
+        "trabalhava",
+        "ensinando"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "faltava,",
+        "lembrança",
         "inventar"
       ]
     },
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "coracao"
       ],
       "destaque": [
-        "chegamos,",
-        "recolheu"
+        "Carol",
+        "brinquedo"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "Lembrei",
-        "Rosângela"
+        "Rosângela",
+        "discussão"
       ]
     },
     {
       "fala": "Ela recuperou o brinquedo, agradeceu a corrida e me entregou um cartão com informações sobre adoção responsável.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "recuperou",
-        "brinquedo,"
+        "informações",
+        "responsável"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "No dia seguinte, encontrei outro passageiro que procurava orientação sobre como acolher um animal abandonado e indiquei canais adequados.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "seguinte,",
-        "encontrei"
+        "passageiro",
+        "orientação"
       ]
     },
     {
@@ -174,19 +174,19 @@
       ],
       "destaque": [
         "aplicativo",
-        "chegada,"
+        "suficiente"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

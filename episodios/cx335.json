@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "passageira"
+        "passageira",
+        "formatura"
       ]
     },
     {
@@ -26,18 +26,18 @@
         "relogio"
       ],
       "destaque": [
-        "terça,",
-        "manhã."
+        "sete",
+        "Milena"
       ]
     },
     {
       "fala": "Milena precisava chegar à homenagem surpresa de uma antiga aluna, que seria premiada na cidade vizinha naquela noite.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Milena",
+        "surpresa",
         "precisava"
       ]
     },
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "caminho,",
-        "recebeu"
+        "cancelado",
+        "alternativa"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "silêncio",
-        "olhando"
+        "Depois",
+        "gratuitas"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "perguntei",
-        "importante"
+        "importante",
+        "professora"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "Milena",
-        "seguro,"
+        "coordenação",
+        "Milena"
       ]
     },
     {
@@ -114,7 +114,7 @@
         "celular"
       ],
       "destaque": [
-        "recebeu",
+        "professora",
         "respondeu"
       ]
     },
@@ -125,19 +125,19 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
       "fala": "Um grupo de ex-alunos organizou uma chamada coletiva. De repente, pessoas de cidades diferentes apareceram na tela para homenagear Milena.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "ex-alunos",
-        "organizou"
+        "Milena",
+        "diferentes"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "Quando",
-        "deixei"
+        "professora",
+        "continuava"
       ]
     },
     {
@@ -158,8 +158,8 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
@@ -169,8 +169,8 @@
         "conversa"
       ],
       "destaque": [
-        "Naquela",
-        "aprendi"
+        "importante",
+        "Naquela"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

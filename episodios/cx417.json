@@ -9,7 +9,7 @@
   "cenario": "noite",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🐉 Ela entrou no carro com uma MALA VAZIA e avisou: 'Se a luz acender cedo, meu dragão desaparece!' 😳 O projetor da escola tinha queimado... e ninguém esperava o que aconteceu no palco. Você já salvou uma situação no improviso? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #TeatroDeSombras #FinalSurpresa #StorytimeBrasil #PraVoce",
-  "legenda_post": "🐉🌙 Uma mala aparentemente vazia, uma artista desesperada e um dragão feito de papel. Iara precisava salvar a estreia de crianças que ensaiaram durante meses, mas o projetor havia queimado. O que aconteceu naquela escola mostrou que a imaginação pode transformar qualquer imprevisto. ✨ Qual improviso salvou seu dia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #TeatroDeSombras #Criatividade #HistoriasQueInspiram",
+  "legenda_post": "🐉🌙 Uma mala aparentemente vazia, uma artista desesperada e um dragão feito de papel. Iara precisava salvar a estreia de crianças que ensaiaram durante meses, mas o projetor havia queimado. O que aconteceu naquela escola mostrou que a imaginação pode transformar qualquer imprevisto. ✨ Qual improviso salvou seu dia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #TeatroDeSombras #Criatividade #HistoriasQueInspiram\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma mala vazia e avisou: se a luz acender cedo demais, meu dragão desaparece.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "desaparece",
+        "acender"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "olhei"
+        "retrovisor",
+        "segurando"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "Naquela"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "sete",
+        "Tinha"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "pelo"
+        "dois",
+        "três"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "carro"
       ],
       "destaque": [
-        "Eu",
-        "disse"
+        "Iara",
+        "musculação"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "foto"
       ],
       "destaque": [
-        "O",
+        "encontrou",
         "projetor"
       ]
     },
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Era",
-        "a"
+        "Algumas",
+        "apresentação"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "Iara",
-        "me"
+        "mensagem",
+        "diretora"
       ]
     },
     {
       "fala": "No semáforo, ela perguntou se eu conhecia alguém com um projetor. Pensei em três pessoas. Nenhuma atenderia tão tarde.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "No",
-        "semáforo"
+        "três",
+        "Nenhuma"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "refletindo",
+        "retrovisor"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "e"
+        "Iara",
+        "abriu"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "três",
+        "superfície"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "à"
+        "seis",
+        "oito"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "estacionei"
+        "estacionei",
+        "autorizado"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "Iara"
+        "Iara",
+        "começaram"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "menino"
+        "cavaleiro",
+        "concordei"
       ]
     },
     {
@@ -205,7 +205,7 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
+        "Mudou",
         "Iara"
       ]
     },
@@ -216,19 +216,19 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "salão"
+        "quietinho",
+        "sussurrou"
       ]
     },
     {
       "fala": "Começou a peça. Uma princesa procurava um tesouro, um cavaleiro se perdia e o dragão escondia alguma coisa atrás das asas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Começou",
-        "a"
+        "procurava",
+        "cavaleiro"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "meio"
+        "Achei",
+        "apresentação"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "Só",
-        "que"
+        "Outro",
+        "inventou"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "foto"
       ],
       "destaque": [
-        "Em",
-        "segundos"
+        "Iara",
+        "brincadeira"
       ]
     },
     {
@@ -271,19 +271,19 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "final"
+        "revelou",
+        "abriu"
       ]
     },
     {
       "fala": "A diretora disse que o projetor queimado tinha virado a melhor parte da noite. Iara respondeu: foi a imaginação que acendeu.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "diretora"
+        "Iara",
+        "imaginação"
       ]
     },
     {
@@ -294,8 +294,8 @@
         "QUAL IMPROVISO SALVOU SEU DIA?"
       ],
       "destaque": [
-        "Voltei",
-        "ao"
+        "cinco",
+        "Conta"
       ]
     }
   ]

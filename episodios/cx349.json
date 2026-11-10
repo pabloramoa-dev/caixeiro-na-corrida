@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "passageira"
+        "passageira",
+        "carregando"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "quinta,",
-        "noite."
+        "oito",
+        "Renata"
       ]
     },
     {
@@ -37,19 +37,19 @@
         "conversa"
       ],
       "destaque": [
-        "Renata",
-        "trabalhava"
+        "trabalhava",
+        "precisava"
       ]
     },
     {
       "fala": "No primeiro cruzamento, o boneco tombou no banco e o movimento refletiu no retrovisor. Eu perguntei quem estava mexendo atrás de mim.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "primeiro",
-        "cruzamento,"
+        "cruzamento",
+        "retrovisor"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "Renata",
-        "risada,"
+        "atrapalhar",
+        "desculpas"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "explicou",
-        "personagem"
+        "personagem",
+        "encontros"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "aquilo"
+        "Renata",
+        "inspiração"
       ]
     },
     {
@@ -114,7 +114,7 @@
         "celular"
       ],
       "destaque": [
-        "Quando",
+        "apresentou",
         "chegamos"
       ]
     },
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "Renata",
-        "convidou"
+        "apresentação",
+        "garantindo"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "plateia,",
-        "percebi"
+        "dois",
+        "personagens"
       ]
     },
     {
@@ -158,18 +158,18 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "De todas as viagens, foi a primeira em que um passageiro de papel me deu um susto e, no fim, ainda ganhou aplauso.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "viagens,",
+        "passageiro",
         "primeira"
       ]
     },
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

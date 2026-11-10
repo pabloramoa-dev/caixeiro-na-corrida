@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "entrou"
+        "carregando",
+        "porque"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
-        "manhã."
+        "nove",
+        "Lívia"
       ]
     },
     {
@@ -38,7 +38,7 @@
       ],
       "destaque": [
         "trabalhava",
-        "durante"
+        "gratuitas"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "Naquela",
-        "tentar"
+        "apresentação",
+        "comunitária"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "perguntei",
-        "queria"
+        "desaprovação",
+        "perguntei"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "Enquanto",
-        "esperava"
+        "encontrado",
+        "composição"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "reclamou.",
-        "Perguntou"
+        "Perguntou",
+        "companhia"
       ]
     },
     {
@@ -114,7 +114,7 @@
         "celular"
       ],
       "destaque": [
-        "fosse,",
+        "precisava",
         "explicou"
       ]
     },
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,8 +136,8 @@
         "carro"
       ],
       "destaque": [
-        "apresentação,",
-        "cantou"
+        "apresentação",
+        "trabalho"
       ]
     },
     {
@@ -147,29 +147,29 @@
         "manchete_v"
       ],
       "destaque": [
-        "palavras,",
-        "esperou"
+        "palavras",
+        "aprender"
       ]
     },
     {
       "fala": "No fim do percurso eu conferi o ponto de chegada, encostei onde era permitido e deixei a pessoa seguir com o que precisava resolver. Minha parte naquela história era escutar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Voltei para casa pensando que apoiar um sonho não é prometer sucesso; é não fechar a porta antes da primeira tentativa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Voltei",
+        "tentativa",
         "pensando"
       ]
     },
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

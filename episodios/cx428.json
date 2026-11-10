@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "📮 Ela entrou no meu carro com uma caixa de cartas que ninguém recebeu! Uma delas esperou quarenta anos para chegar. 🚕 Você entregaria uma carta antiga? #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa #Cartas",
-  "legenda_post": "📮🚕 Uma caixa de cartas esquecidas, uma biblioteca prestes a abrir e uma homenagem que quase não aconteceu. Elisa precisava cumprir a última missão do avô. Qual mensagem você gostaria de receber? ❤️ #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Memorias",
+  "legenda_post": "📮🚕 Uma caixa de cartas esquecidas, uma biblioteca prestes a abrir e uma homenagem que quase não aconteceu. Elisa precisava cumprir a última missão do avô. Qual mensagem você gostaria de receber? ❤️ #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Memorias\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma caixa de cartas e disse: se a ponte fechar, cinquenta pessoas vão esperar por alguém que nunca aparece.",
@@ -18,30 +18,30 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "cinquenta",
+        "pessoas"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro, e naquela tarde a passageira se chamava Elisa. Ela não tirava os olhos do relógio.",
+      "fala": "Naquela tarde a passageira se chamava Elisa. Ela não tirava os olhos do relógio.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Elisa",
+        "passageira"
       ]
     },
     {
       "fala": "Perguntei para onde íamos. Ela respondeu: para a velha biblioteca da estação, antes das quatro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "para"
+        "quatro",
+        "biblioteca"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "caixa"
+        "acenderem",
+        "amarrada"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "contou"
+        "carteiro",
+        "guardara"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Naquele",
-        "dia"
+        "inauguraria",
+        "prefeitura"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "Elisa",
+        "homenagem"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "não"
+        "discutir",
+        "entregar"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "passamos"
+        "passamos",
+        "barbante"
       ]
     },
     {
       "fala": "Elisa pediu para parar. A senhora perguntou se aquela era a caixa do seu Augusto.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "pediu"
+        "Augusto",
+        "perguntou"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "Elisa",
+        "inesperado"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Havia",
+        "abriu"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Procuramos",
-        "juntos"
+        "Célia",
+        "Procuramos"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "leu"
+        "desculpas",
+        "silêncio"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "o"
+        "Elisa",
+        "precisava"
       ]
     },
     {
@@ -183,52 +183,52 @@
         "foto"
       ],
       "destaque": [
-        "Seguimos",
-        "por"
+        "bloqueado",
+        "Seguimos"
       ]
     },
     {
       "fala": "Elisa ficou aflita. Eu sugeri a entrada lateral, que conhecia das corridas pela região.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "ficou"
+        "conhecia",
+        "corridas"
       ]
     },
     {
       "fala": "No trajeto, ela revelou que o avô sempre dizia: uma notícia boa também pode chegar atrasada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "No",
-        "trajeto"
+        "revelou",
+        "atrasada"
       ]
     },
     {
       "fala": "Quando estacionamos, o auditório já estava cheio. Um funcionário disse que a cerimônia começara.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "estacionamos"
+        "estacionamos",
+        "funcionário"
       ]
     },
     {
       "fala": "Elisa segurou a caixa e entrou. Ninguém reconheceu o nome de Augusto no programa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "segurou"
+        "Ninguém",
+        "Augusto"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "dona"
+        "Célia",
+        "acompanhada"
       ]
     },
     {
@@ -249,41 +249,41 @@
         "foto"
       ],
       "destaque": [
-        "Cada",
-        "uma"
+        "reconciliações",
+        "agradecimentos"
       ]
     },
     {
       "fala": "O diretor da biblioteca interrompeu o discurso e pediu que Elisa subisse ao pequeno palco.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "diretor"
+        "Elisa",
+        "interrompeu"
       ]
     },
     {
       "fala": "Ela explicou que o avô nunca guardou aquelas cartas por descuido. Procurava destinatários que tinham mudado.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "Procurava",
+        "destinatários"
       ]
     },
     {
       "fala": "Na última folha da caixa havia uma mensagem escrita por ele: nenhuma história merece ficar sem resposta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "última"
+        "mensagem",
+        "história"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "diretor"
+        "Augusto",
+        "anunciou"
       ]
     },
     {
       "fala": "Elisa olhou para mim pela janela e ergueu o último envelope, agora destinado à própria biblioteca.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Elisa",
-        "olhou"
+        "biblioteca",
+        "destinado"
       ]
     },
     {
       "fala": "Saí daquela corrida lembrando que uma palavra pode mudar uma vida, mesmo depois de anos. Você entregaria uma carta antiga? Comenta e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "VOCÊ ENTREGARIA ESSA CARTA?"
       ],
       "destaque": [
-        "Saí",
-        "daquela"
+        "Caixeiro",
+        "Comenta"
       ]
     }
   ]

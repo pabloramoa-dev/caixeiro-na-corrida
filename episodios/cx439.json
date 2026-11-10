@@ -9,7 +9,7 @@
   "cenario": "tarde_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎻 Ela entrou no carro com um violino sem cordas e um convite misterioso. O que encontrou no teatro mudou seus planos! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Recomeco #Surpresa",
-  "legenda_post": "🚕🎻 Um violino silencioso, uma partitura esquecida e uma promessa de infância. Marta descobriu que nunca é tarde para começar. Qual sonho você retomaria? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Recomeco",
+  "legenda_post": "🚕🎻 Um violino silencioso, uma partitura esquecida e uma promessa de infância. Marta descobriu que nunca é tarde para começar. Qual sonho você retomaria? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Recomeco\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro com um violino sem cordas e pediu que eu a levasse a um lugar onde ninguém tocava música havia vinte anos. O motivo me surpreendeu.",
@@ -18,30 +18,30 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "vinte",
+        "surpreendeu"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. A passageira se chamava Marta e segurava o estojo como se fosse uma coisa muito frágil.",
+      "fala": "A passageira se chamava Marta e segurava o estojo como se fosse uma coisa muito frágil.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Marta",
+        "passageira"
       ]
     },
     {
       "fala": "Perguntei se ela era musicista. Ela respondeu que nunca tinha aprendido a tocar uma nota sequer.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "musicista"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Disse",
-        "que"
+        "orquestra",
+        "violino"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "era"
+        "Marta",
+        "escondida"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "pai"
+        "doze",
+        "completasse"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "o"
+        "aniversário",
+        "família"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Durante",
-        "anos,"
+        "guardado",
+        "Durante"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "Marta",
+        "remetente"
       ]
     },
     {
@@ -117,96 +117,96 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "envelope"
+        "instrumento",
+        "fotografia"
       ]
     },
     {
       "fala": "Ela achou que fosse uma brincadeira, até reconhecer no verso a assinatura de um velho colega dele.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "achou"
+        "brincadeira",
+        "reconhecer"
       ]
     },
     {
       "fala": "Seguimos pela avenida. Marta contava histórias dos ensaios, das cadeiras vermelhas e do cheiro de madeira.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Seguimos",
-        "pela"
-      ]
-    },
-    {
-      "fala": "Na esquina do teatro, vimos andaimes e uma faixa anunciando a reabertura para a comunidade.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Na",
-        "esquina"
-      ]
-    },
-    {
-      "fala": "Marta ficou emocionada, mas disse que o prédio novo parecia não guardar mais nada de sua infância.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Marta",
-        "ficou"
+        "histórias"
+      ]
+    },
+    {
+      "fala": "Na esquina do teatro, vimos andaimes e uma faixa anunciando a reabertura para a comunidade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "anunciando",
+        "reabertura"
+      ]
+    },
+    {
+      "fala": "Marta ficou emocionada, mas disse que o prédio novo parecia não guardar mais nada de sua infância.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "emocionada",
+        "infância"
       ]
     },
     {
       "fala": "Na entrada, um funcionário conferiu o convite e nos pediu que aguardássemos perto da bilheteria.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "entrada,"
+        "aguardássemos",
+        "funcionário"
       ]
     },
     {
       "fala": "Eu ia encerrar a corrida quando Marta pediu que eu ficasse por mais cinco minutos. Aceitei.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "ia"
+        "cinco",
+        "Aceitei"
       ]
     },
     {
       "fala": "Um senhor de boina apareceu com um pequeno pacote e chamou Marta pelo apelido que o pai usava.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Um",
-        "senhor"
+        "Marta",
+        "apareceu"
       ]
     },
     {
       "fala": "Era Otávio, antigo afinador da orquestra. Ele havia encontrado um caderno de partituras durante a reforma.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Era",
-        "Otávio,"
+        "Otávio",
+        "encontrado"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Otávio",
-        "abriu"
+        "Marta",
+        "Ali"
       ]
     },
     {
@@ -227,52 +227,52 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
+        "dedicatória",
         "reconheceu"
       ]
     },
     {
       "fala": "Mas ainda havia um problema: o instrumento estava sem cordas e ela não sabia tocar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "ainda"
+        "instrumento",
+        "problema"
       ]
     },
     {
       "fala": "Otávio abriu o pacote. Dentro havia um jogo de cordas e uma fotografia da antiga orquestra.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Otávio",
+        "Dentro",
         "abriu"
       ]
     },
     {
       "fala": "Ele explicou que antigos músicos tinham se reunido para restaurar o palco e preparar uma homenagem.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "explicou"
+        "restaurar",
+        "homenagem"
       ]
     },
     {
       "fala": "Na fotografia, o pai de Marta estava na primeira fila, segurando o mesmo violino.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "fotografia,"
+        "Marta",
+        "fotografia"
       ]
     },
     {
@@ -282,42 +282,42 @@
         "foto"
       ],
       "destaque": [
-        "Uma",
+        "Marta",
         "professora"
       ]
     },
     {
       "fala": "Não houve apresentação milagrosa. Marta apenas segurou o instrumento e prometeu começar do zero.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Não",
-        "houve"
+        "Marta",
+        "apresentação"
       ]
     },
     {
       "fala": "Antes de sair, ela me mostrou a partitura. No alto, o pai escrevera: o importante é começar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "importante",
+        "partitura"
       ]
     },
     {
       "fala": "Voltei ao carro pensando que certas promessas encontram um jeito de continuar. Que sonho antigo você gostaria de retomar? Comente e siga o Caixeiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL SONHO?"
       ],
       "destaque": [
-        "Voltei",
-        "ao"
+        "Caixeiro",
+        "Comente"
       ]
     }
   ]

@@ -9,7 +9,7 @@
   "cenario": "noite",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🎟️ Ela entrou no meu carro com um ingresso de cinema de 1998 e disse que a sessão começaria às oito. 😳 Só que o cinema tinha fechado havia décadas! O que encontrei na Rua do Mercado me surpreendeu. Qual cinema antigo você gostaria de ver reabrir? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #CinemaAntigo #FinalSurpresa #StorytimeBrasil #PraVoce",
-  "legenda_post": "🎬 Um ingresso guardado por 28 anos, uma passageira misteriosa e um cinema que já nem existia mais. Quando chegamos ao endereço, havia cadeiras, pipoca e uma surpresa que reuniu o bairro inteiro. ❤️ Qual lugar da sua cidade merece uma noite de reencontro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasDoBairro #CinemaDeRua #BoasHistorias",
+  "legenda_post": "🎬 Um ingresso guardado por 28 anos, uma passageira misteriosa e um cinema que já nem existia mais. Quando chegamos ao endereço, havia cadeiras, pipoca e uma surpresa que reuniu o bairro inteiro. ❤️ Qual lugar da sua cidade merece uma noite de reencontro? Conte nos comentários! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasDoBairro #CinemaDeRua #BoasHistorias\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Uma passageira entrou no meu carro com um ingresso de cinema de vinte e oito anos atrás. Pediu para chegar antes da sessão das oito. Só tinha um detalhe: aquele cinema estava fechado havia décadas.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "passageira",
-        "entrou"
+        "vinte",
+        "oito"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "segurava",
-        "ingresso"
+        "Estava",
+        "bilheteria"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "mapa"
       ],
       "destaque": [
-        "Perguntei",
-        "endereço"
+        "Estrela",
+        "Mercado"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "conversa"
       ],
       "destaque": [
-        "falei",
-        "senhora"
+        "importante",
+        "poltronas"
       ]
     },
     {
@@ -73,19 +73,19 @@
         "foto"
       ],
       "destaque": [
-        "Achei",
-        "fosse"
+        "doze",
+        "oito"
       ]
     },
     {
       "fala": "Ela contou que tinha marcado um encontro naquela sessão, mas a pessoa nunca apareceu. Eu olhei pelo retrovisor, sem saber se perguntava mais.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "contou",
-        "tinha"
+        "retrovisor",
+        "perguntava"
       ]
     },
     {
@@ -96,8 +96,8 @@
         "QUE ERRO FOI ESSE?"
       ],
       "destaque": [
-        "Antes",
-        "abrisse"
+        "Dalva",
+        "motorista"
       ]
     },
     {
@@ -107,8 +107,8 @@
         "celular"
       ],
       "destaque": [
-        "primeira",
-        "esquina"
+        "Dalva",
+        "perguntou"
       ]
     },
     {
@@ -118,8 +118,8 @@
         "carro"
       ],
       "destaque": [
-        "pensei",
-        "fosse"
+        "Perguntei",
+        "Dalva"
       ]
     },
     {
@@ -129,8 +129,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "passamos"
+        "Ali",
+        "desbotados"
       ]
     },
     {
@@ -140,8 +140,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "explicou"
+        "Guardou",
+        "trabalhava"
       ]
     },
     {
@@ -151,8 +151,8 @@
         "relogio"
       ],
       "destaque": [
-        "Naquela",
-        "noite"
+        "interrompeu",
+        "tempestade"
       ]
     },
     {
@@ -162,7 +162,7 @@
         "conversa"
       ],
       "destaque": [
-        "disso",
+        "conseguiram",
         "vizinhos"
       ]
     },
@@ -173,8 +173,8 @@
         "carro"
       ],
       "destaque": [
-        "soltei",
-        "risada"
+        "Dalva",
+        "Quer"
       ]
     },
     {
@@ -184,8 +184,8 @@
         "foto"
       ],
       "destaque": [
-        "mudou",
-        "lojas"
+        "Dalva",
+        "histórias"
       ]
     },
     {
@@ -195,8 +195,8 @@
         "notificacao"
       ],
       "destaque": [
-        "semana",
-        "anterior"
+        "Apareceram",
+        "encontrou"
       ]
     },
     {
@@ -206,19 +206,19 @@
         "foto"
       ],
       "destaque": [
-        "pessoa",
-        "lembrava"
+        "Outra",
+        "lanterninha"
       ]
     },
     {
       "fala": "Foi aí que Dalva decidiu reunir a turma para uma última sessão, bem em frente ao endereço antigo. O envelope escondia uma surpresa.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "mapa"
       ],
       "destaque": [
         "Dalva",
-        "decidiu"
+        "surpresa"
       ]
     },
     {
@@ -228,8 +228,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "Mercado"
+        "Mercado",
+        "Rua"
       ]
     },
     {
@@ -239,8 +239,8 @@
         "relogio"
       ],
       "destaque": [
-        "Dalva",
-        "ficou"
+        "Falou",
+        "Nesse"
       ]
     },
     {
@@ -250,8 +250,8 @@
         "foto"
       ],
       "destaque": [
-        "Dentro",
-        "carrinho"
+        "Dalva",
+        "lanterninha"
       ]
     },
     {
@@ -262,8 +262,8 @@
         "A TELA MOSTROU O BAIRRO INTEIRO"
       ],
       "destaque": [
-        "Dalva",
-        "abriu"
+        "abriu",
+        "transformadas"
       ]
     },
     {
@@ -273,8 +273,8 @@
         "coracao"
       ],
       "destaque": [
-        "Quando",
-        "apareceu"
+        "Dalva",
+        "bilheteria"
       ]
     },
     {
@@ -284,8 +284,8 @@
         "foto"
       ],
       "destaque": [
-        "lanterninha",
-        "anunciou"
+        "oito",
+        "lanterninha"
       ]
     },
     {
@@ -296,8 +296,8 @@
         "QUAL LUGAR VOCÊ TRARIA DE VOLTA?"
       ],
       "destaque": [
-        "Voltei",
-        "carro"
+        "Conta",
+        "Você"
       ]
     }
   ]

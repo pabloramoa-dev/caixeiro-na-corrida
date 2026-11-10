@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🩰 Ela entrou no meu carro com sapatilhas azuis e uma carta: precisava abrir o armário 17 antes que esvaziassem um teatro! 😳 O que havia lá mudou tudo. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Misterio",
-  "legenda_post": "🎭🩰 Uma chave escondida, um teatro prestes a fechar e a última carta de uma mãe. Marina não imaginava o que encontraria no armário 17. Que lembrança você guardaria para sempre? ❤️ #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Memorias #Reviravolta",
+  "legenda_post": "🎭🩰 Uma chave escondida, um teatro prestes a fechar e a última carta de uma mãe. Marina não imaginava o que encontraria no armário 17. Que lembrança você guardaria para sempre? ❤️ #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Memorias #Reviravolta\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma sacola de sapatos e disse: se chegarmos depois das seis, vão vender a última lembrança da minha mãe.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "seis",
+        "chegarmos"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. A passageira, Marina, segurava um par de sapatilhas azuis como se fosse um tesouro.",
+      "fala": "A passageira, Marina, segurava um par de sapatilhas azuis como se fosse um tesouro.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Marina",
+        "passageira"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "fechado",
+        "antigo"
       ]
     },
     {
       "fala": "Antes de sair, mostrou uma fotografia: uma bailarina sorrindo ao lado de uma menina pequena.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "fotografia",
+        "bailarina"
       ]
     },
     {
@@ -62,7 +62,7 @@
         "foto"
       ],
       "destaque": [
-        "A",
+        "Helena",
         "bailarina"
       ]
     },
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Marina",
-        "explicou"
+        "espetáculos",
+        "intervalos"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "Helena"
+        "Helena",
+        "dezessete"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "perguntei"
+        "Marina",
+        "encontrado"
       ]
     },
     {
@@ -106,7 +106,7 @@
         "foto"
       ],
       "destaque": [
-        "Na",
+        "funcionário",
         "primeira"
       ]
     },
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Marina",
-        "apertou"
+        "sapatilhas",
+        "procurei"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "apresentação",
+        "naquele"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "paramos"
+        "escondida",
+        "sapatilha"
       ]
     },
     {
@@ -150,19 +150,19 @@
         "foto"
       ],
       "destaque": [
-        "Marina",
-        "virou"
+        "encontrou",
+        "costurada"
       ]
     },
     {
       "fala": "Mas a chave estava torta. Ela achou que não serviria e ficou em silêncio.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "a"
+        "serviria",
+        "silêncio"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "ao"
+        "caminhões",
+        "segurança"
       ]
     },
     {
@@ -183,52 +183,52 @@
         "foto"
       ],
       "destaque": [
-        "Marina",
-        "mostrou"
+        "Helena",
+        "reconheceu"
       ]
     },
     {
       "fala": "Ele contou que Helena havia ajudado a salvar o teatro de um incêndio muitos anos antes.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "contou"
+        "Helena",
+        "incêndio"
       ]
     },
     {
       "fala": "O segurança nos conduziu até um corredor estreito, cheio de cartazes antigos e caixas de figurino.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "segurança"
+        "segurança",
+        "conduziu"
       ]
     },
     {
       "fala": "O armário dezessete estava lá, coberto de poeira. Marina tentou a chave, mas a fechadura não girou.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "armário"
+        "Marina",
+        "dezessete"
       ]
     },
     {
       "fala": "Foi então que uma senhora apareceu atrás de nós e disse: sua mãe sempre abria essa porta cantando.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "então"
+        "apareceu",
+        "cantando"
       ]
     },
     {
@@ -238,7 +238,7 @@
         "foto"
       ],
       "destaque": [
-        "Era",
+        "Marina",
         "Rosa"
       ]
     },
@@ -249,41 +249,41 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "chave"
+        "Dentro",
+        "Marina"
       ]
     },
     {
       "fala": "Marina abriu o envelope e leu que Helena havia guardado ali algo para seu primeiro grande espetáculo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Marina",
+        "Helena",
         "abriu"
       ]
     },
     {
       "fala": "Mas não havia joias nem dinheiro. Havia um convite escrito à mão e uma lista de pessoas que acreditavam nela.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "não"
+        "Havia",
+        "acreditavam"
       ]
     },
     {
       "fala": "Rosa explicou que todos aqueles nomes eram ex-alunos de Helena, que agora ensinavam dança pela cidade.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "explicou"
+        "Helena",
+        "ensinavam"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "De",
-        "repente"
+        "Eles",
+        "recebido"
       ]
     },
     {
       "fala": "Marina colocou as sapatilhas sobre o palco vazio. Os antigos alunos a convidaram para uma apresentação de despedida.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Marina",
-        "colocou"
+        "apresentação",
+        "sapatilhas"
       ]
     },
     {
       "fala": "Eu saí daquela corrida pensando que algumas heranças não cabem em uma caixa. Quem marcou sua vida assim? Conta aqui e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL LEMBRANÇA VOCÊ GUARDARIA?"
       ],
       "destaque": [
-        "Eu",
-        "saí"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

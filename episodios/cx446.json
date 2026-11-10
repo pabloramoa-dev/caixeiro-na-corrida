@@ -9,7 +9,7 @@
   "cenario": "manha_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "📚 Ela pediu uma corrida até uma livraria que fechou há anos. O motivo estava dentro de um envelope devolvido. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Gratidao #Reviravolta",
-  "legenda_post": "🚕📚 Um livro verde, uma promessa de adolescência e uma carta que voltou pelo correio. Você já agradeceu alguém que mudou seu caminho? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Livros #Gratidao",
+  "legenda_post": "🚕📚 Um livro verde, uma promessa de adolescência e uma carta que voltou pelo correio. Você já agradeceu alguém que mudou seu caminho? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Livros #Gratidao\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um guarda-chuva aberto, mesmo sem chover. E pediu para ir a um endereço que não existia mais.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "endereço",
+        "existia"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Naquela manhã, uma corrida comum virou uma busca por uma promessa esquecida.",
+      "fala": "Naquela manhã, uma corrida comum virou uma busca por uma promessa esquecida.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "esquecida",
+        "promessa"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Irene",
+        "Tinha"
       ]
     },
     {
       "fala": "Perguntei pelo destino. Ela mostrou o nome de uma antiga livraria no centro da cidade.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "pelo"
+        "livraria"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Expliquei",
-        "que"
+        "Irene",
+        "Expliquei"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "dezesseis",
+        "entrava"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "proprietária,"
+        "Celeste",
+        "Pelo"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Todo",
-        "sábado,"
+        "Irene",
+        "aparecia"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "dia,"
+        "Celeste",
+        "Disse"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "Irene"
+        "Irene",
+        "realizasse"
       ]
     },
     {
@@ -128,62 +128,62 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "época,"
+        "Irene",
+        "trabalhar"
       ]
     },
     {
       "fala": "Os anos passaram. Ela estudou, mudou de cidade e virou cartógrafa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Os",
-        "anos"
+        "cartógrafa",
+        "passaram"
       ]
     },
     {
       "fala": "Mas a carta prometida ficou sempre para depois, no meio de mudanças e trabalhos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "a"
+        "prometida",
+        "trabalhos"
       ]
     },
     {
       "fala": "Na semana anterior, ao arrumar uma gaveta, encontrou o livro verde com uma dedicatória.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "dedicatória",
+        "encontrou"
       ]
     },
     {
       "fala": "Na primeira página estava escrito: nunca pare de procurar seu caminho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "primeira"
+        "primeira",
+        "procurar"
       ]
     },
     {
       "fala": "Irene escreveu a carta naquela noite. Contou das viagens, dos mapas e das pessoas que conheceu.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Irene",
+        "Contou",
         "escreveu"
       ]
     },
@@ -194,96 +194,96 @@
         "foto"
       ],
       "destaque": [
-        "Enviou",
-        "para"
+        "Três",
+        "destinatário"
       ]
     },
     {
       "fala": "Por isso estava no meu carro. Queria entregar a carta pessoalmente, nem que precisasse procurar o dia inteiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Por",
-        "isso"
+        "Queria",
+        "pessoalmente"
       ]
     },
     {
       "fala": "Chegamos ao antigo endereço. No lugar da livraria havia uma loja de consertos de relógio.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Chegamos",
-        "ao"
+        "consertos",
+        "Chegamos"
       ]
     },
     {
       "fala": "O relojoeiro ouviu o nome de Celeste e ficou pensativo. Disse que conhecia uma pista.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "relojoeiro"
+        "Celeste",
+        "Disse"
       ]
     },
     {
       "fala": "Contou que ela havia doado os livros para uma biblioteca comunitária antes de se aposentar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Contou",
-        "que"
+        "comunitária",
+        "biblioteca"
       ]
     },
     {
       "fala": "Fomos até a biblioteca. Irene segurava o envelope como quem protege uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Fomos",
-        "até"
+        "Irene",
+        "biblioteca"
       ]
     },
     {
       "fala": "Na recepção, uma funcionária reconheceu o nome. Celeste aparecia ali toda quarta para ler com crianças.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "recepção,"
+        "Celeste",
+        "funcionária"
       ]
     },
     {
       "fala": "Mas naquele dia era segunda. Irene achou que teria de esperar mais dois dias.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "naquele"
+        "dois",
+        "Irene"
       ]
     },
     {
       "fala": "Então a funcionária apontou para uma estante: havia uma caixa de cartas que os leitores deixavam para Celeste.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Então",
-        "a"
+        "Celeste",
+        "funcionária"
       ]
     },
     {
@@ -293,41 +293,41 @@
         "foto"
       ],
       "destaque": [
-        "Irene",
-        "colocou"
+        "envelope",
+        "percebeu"
       ]
     },
     {
       "fala": "O bilhete dizia: se você chegou até aqui por causa de um livro, saiba que ele cumpriu seu papel.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "bilhete"
+        "bilhete",
+        "cumpriu"
       ]
     },
     {
       "fala": "Irene ficou em silêncio. Depois tirou uma fotografia do livro verde ao lado da caixa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Irene",
-        "ficou"
+        "Depois",
+        "fotografia"
       ]
     },
     {
       "fala": "Na volta, ela disse que a viagem não tinha sido inútil. A promessa finalmente encontrara um destino.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "volta,"
+        "finalmente",
+        "encontrara"
       ]
     },
     {
@@ -338,30 +338,30 @@
       ],
       "destaque": [
         "Dois",
-        "dias"
+        "Celeste"
       ]
     },
     {
       "fala": "Naquele dia aprendi que alguns caminhos só se completam quando a gente volta para agradecer.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Naquele",
-        "dia"
+        "completam",
+        "agradecer"
       ]
     },
     {
       "fala": "E você, tem alguém a quem deve um obrigado? Conta nos comentários e acompanha a próxima corrida do Caixeiro.",
-      "expr": "neutra",
+      "expr": "brava",
       "arte": [
         "manchete_v",
         "QUEM VOCÊ AGRADECERIA?"
       ],
       "destaque": [
-        "E",
-        "você,"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

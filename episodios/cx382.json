@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "chamado",
-        "Otávio,"
+        "Otávio",
+        "aconteceu"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
+        "dez",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "chamado",
-        "explicou"
+        "dez",
+        "Otávio"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "corrida",
-        "parecia"
+        "aplicativo",
+        "importante"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "brigado",
-        "decisão"
+        "conversar",
+        "trabalho"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "garante",
-        "perdão,"
+        "respeitoso",
+        "garante"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "faltava,",
+        "lembrança",
         "inventar"
       ]
     },
@@ -106,18 +106,18 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ele mandou uma mensagem perguntando se a filha gostaria de conversar, sem aparecer de surpresa na porta.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "mensagem",
+        "surpresa",
         "perguntando"
       ]
     },
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "Lembrei",
-        "Rosângela"
+        "Rosângela",
+        "discussão"
       ]
     },
     {
       "fala": "A filha respondeu que preferia começar por uma ligação e que precisava de tempo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
         "respondeu",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Otávio guardou a carta por mais alguns dias, agora sabendo que não precisava forçar um encontro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "guardou",
-        "sabendo"
+        "precisava",
+        "encontro"
       ]
     },
     {
@@ -174,19 +174,19 @@
       ],
       "destaque": [
         "aplicativo",
-        "chegada,"
+        "suficiente"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

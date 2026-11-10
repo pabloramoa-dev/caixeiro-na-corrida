@@ -9,7 +9,7 @@
   "cenario": "tarde_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🔑 Ela carregava uma chave enferrujada e uma carta sem remetente. O que encontrou na padaria fechada? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #FinalSurpresa",
-  "legenda_post": "🚕🥖 Uma chave antiga, um caderno azul e o sino de uma padaria esquecida. Qual sabor traz suas melhores lembranças? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "legenda_post": "🚕🥖 Uma chave antiga, um caderno azul e o sino de uma padaria esquecida. Qual sabor traz suas melhores lembranças? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro segurando uma chave enferrujada e pediu para ir a uma padaria que tinha fechado fazia doze anos.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "doze",
+        "enferrujada"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. E antes de chegarmos lá, ela me avisou: se a porta abrir, minha vida vai mudar.",
+      "fala": "E antes de chegarmos lá, ela me avisou: se a porta abrir, minha vida vai mudar.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "chegarmos",
+        "avisou"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Teresa",
+        "Tinha"
       ]
     },
     {
       "fala": "Perguntei se alguém esperava por ela. Teresa respondeu que não sabia, e foi isso que me deixou curioso.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Teresa",
+        "Perguntei"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "infância,"
+        "infância",
+        "preparar"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "pai,"
+        "Augusto",
+        "carregava"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "a"
+        "desapareceu",
+        "família"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "passou"
+        "preparava",
+        "tentando"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "remetente",
+        "anterior"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "carta"
+        "três",
+        "Venha"
       ]
     },
     {
@@ -128,63 +128,63 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "reconheceu"
+        "reconheceu",
+        "escrevia"
       ]
     },
     {
       "fala": "Fiquei pensando em quem teria enviado aquela carta e por que escolheu justamente aquele dia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Fiquei",
+        "justamente",
         "pensando"
       ]
     },
     {
       "fala": "Teresa explicou que o sino ficava sobre a porta da padaria e anunciava cada cliente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Teresa",
+        "anunciava",
         "explicou"
       ]
     },
     {
       "fala": "Quando dobramos a rua, vimos a fachada reformada e uma pequena fila na calçada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
+        "reformada",
         "dobramos"
       ]
     },
     {
       "fala": "Ela pediu que eu parasse longe. Queria observar antes de se aproximar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "Queria",
+        "aproximar"
       ]
     },
     {
       "fala": "Na vitrine havia um cartaz: reabertura especial, uma receita de família.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "vitrine"
+        "reabertura",
+        "especial"
       ]
     },
     {
@@ -194,74 +194,74 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "ficou"
+        "reconheceu",
+        "caderno"
       ]
     },
     {
       "fala": "Um rapaz saiu da padaria com um avental e perguntou se ela era Teresa.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Um",
-        "rapaz"
-      ]
-    },
-    {
-      "fala": "Ele se apresentou como Lucas, filho do antigo ajudante de seu Augusto.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Ele",
-        "se"
-      ]
-    },
-    {
-      "fala": "Lucas contou que encontrou o caderno dentro de uma gaveta durante a reforma do imóvel.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Lucas",
-        "contou"
-      ]
-    },
-    {
-      "fala": "Em vez de vender as receitas, decidiu procurar a família que havia criado aquela padaria.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Em",
-        "vez"
-      ]
-    },
-    {
-      "fala": "A carta tinha sido copiada de uma anotação do próprio Augusto para que Teresa reconhecesse a letra.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "A",
-        "carta"
-      ]
-    },
-    {
-      "fala": "Teresa respirou aliviada. O mistério não era um aviso ruim, mas um convite para voltar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Teresa",
-        "respirou"
+        "perguntou"
+      ]
+    },
+    {
+      "fala": "Ele se apresentou como Lucas, filho do antigo ajudante de seu Augusto.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "Lucas"
+      ]
+    },
+    {
+      "fala": "Lucas contou que encontrou o caderno dentro de uma gaveta durante a reforma do imóvel.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "encontrou",
+        "caderno"
+      ]
+    },
+    {
+      "fala": "Em vez de vender as receitas, decidiu procurar a família que havia criado aquela padaria.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "receitas",
+        "procurar"
+      ]
+    },
+    {
+      "fala": "A carta tinha sido copiada de uma anotação do próprio Augusto para que Teresa reconhecesse a letra.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Augusto",
+        "Teresa"
+      ]
+    },
+    {
+      "fala": "Teresa respirou aliviada. O mistério não era um aviso ruim, mas um convite para voltar.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "respirou",
+        "aliviada"
       ]
     },
     {
@@ -271,86 +271,86 @@
         "foto"
       ],
       "destaque": [
-        "Lucas",
-        "abriu"
+        "abriu",
+        "exatamente"
       ]
     },
     {
       "fala": "Sobre o balcão estava o caderno azul, com manchas de farinha e páginas marcadas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Sobre",
-        "o"
+        "marcadas",
+        "caderno"
       ]
     },
     {
       "fala": "Na última página, havia uma dedicatória do pai: para Teresa, que sempre soube repartir.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Na",
-        "última"
-      ]
-    },
-    {
-      "fala": "Lucas revelou que seu Augusto ajudara muitas famílias do bairro quando faltava dinheiro.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Lucas",
-        "revelou"
-      ]
-    },
-    {
-      "fala": "Por isso, os vizinhos se reuniram para reabrir a padaria por um único dia em homenagem a ele.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Por",
-        "isso,"
-      ]
-    },
-    {
-      "fala": "Teresa provou o pão doce. Disse que o sabor era igual, mas a melhor parte era reencontrar aquelas pessoas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Teresa",
-        "provou"
+        "dedicatória"
       ]
     },
     {
-      "fala": "Voltei para o carro pensando que uma receita pode guardar muito mais do que ingredientes.",
-      "expr": "neutra",
+      "fala": "Lucas revelou que seu Augusto ajudara muitas famílias do bairro quando faltava dinheiro.",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Voltei",
-        "para"
+        "Augusto",
+        "revelou"
+      ]
+    },
+    {
+      "fala": "Por isso, os vizinhos se reuniram para reabrir a padaria por um único dia em homenagem a ele.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "homenagem",
+        "vizinhos"
+      ]
+    },
+    {
+      "fala": "Teresa provou o pão doce. Disse que o sabor era igual, mas a melhor parte era reencontrar aquelas pessoas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Disse",
+        "reencontrar"
+      ]
+    },
+    {
+      "fala": "Voltei para o carro pensando que uma receita pode guardar muito mais do que ingredientes.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "ingredientes",
+        "pensando"
       ]
     },
     {
       "fala": "E você, qual cheiro ou sabor faz lembrar alguém importante? Conta aqui e acompanha o Caixeiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL SABOR TRAZ LEMBRANÇAS?"
       ],
       "destaque": [
-        "E",
-        "você,"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

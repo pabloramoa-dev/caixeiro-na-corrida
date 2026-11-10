@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "☂️ Ela entrou no meu carro com uma mala de guarda-chuvas e uma missão impossível: reunir uma banda antes que o maestro chegasse! 🎺 O final surpreendeu a praça inteira. Quem merece uma homenagem assim? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Musica",
-  "legenda_post": "☂️🎶 Uma mala de guarda-chuvas coloridos, uma partitura esquecida e uma corrida contra o tempo. Lúcia queria devolver ao pai uma música que ele acreditava perdida. Mas a praça guardava uma surpresa ainda maior. Quem você homenagearia? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Musica #Reencontro",
+  "legenda_post": "☂️🎶 Uma mala de guarda-chuvas coloridos, uma partitura esquecida e uma corrida contra o tempo. Lúcia queria devolver ao pai uma música que ele acreditava perdida. Mas a praça guardava uma surpresa ainda maior. Quem você homenagearia? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Musica #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro com uma mala de guarda-chuvas coloridos e avisou: se chover antes da apresentação, a surpresa estará perdida!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "surpresa",
+        "apresentação"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Naquele céu azul, a preocupação parecia exagerada. Mas a passageira, Lúcia, não parava de olhar para o relógio.",
+      "fala": "Naquele céu azul, a preocupação parecia exagerada. Mas a passageira, Lúcia, não parava de olhar para o relógio.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Lúcia",
+        "preocupação"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "pediu"
+        "Joaquim",
+        "corrida"
       ]
     },
     {
       "fala": "Perguntei se era aniversário. Ela respondeu: é a primeira vez que ele vai ouvir uma música que escreveu há trinta anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "aniversário",
+        "Perguntei"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Joaquim",
-        "tinha"
+        "abandonou",
+        "Joaquim"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "encontrou"
+        "ferramentas",
+        "incompleta"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "foto"
       ],
       "destaque": [
-        "Na",
+        "trompetista",
         "primeira"
       ]
     },
@@ -95,19 +95,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "fechou"
+        "Sem",
+        "justamente"
       ]
     },
     {
       "fala": "Eu perguntei se havia um plano alternativo. Lúcia apontou para os guarda-chuvas: cada um tem uma pista.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "perguntei"
+        "Lúcia",
+        "alternativo"
       ]
     },
     {
@@ -118,7 +118,7 @@
       ],
       "destaque": [
         "Abriu",
-        "o"
+        "primeiro"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Fomos",
-        "até"
+        "instrumento",
+        "professora"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "Joaquim",
+        "trompetista"
       ]
     },
     {
@@ -150,19 +150,19 @@
         "foto"
       ],
       "destaque": [
-        "Dentro",
-        "do"
+        "trompete",
+        "gravação"
       ]
     },
     {
       "fala": "Lúcia sorriu, mas outra mensagem chegou: o pai dela já estava caminhando para a praça!",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "sorriu"
+        "caminhando",
+        "mensagem"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Agora",
-        "tínhamos"
+        "professora",
+        "segurando"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "caminho"
+        "Todos",
+        "carregando"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "comecei"
+        "Lúcia",
+        "desconfiar"
       ]
     },
     {
@@ -205,7 +205,7 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
+        "partituras",
         "chegamos"
       ]
     },
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "quase"
+        "Disse",
+        "prometido"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "ouvimos"
+        "Outra",
+        "clarinete"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Os",
-        "antigos"
+        "integrantes",
+        "diferente"
       ]
     },
     {
@@ -249,29 +249,29 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "senhor"
+        "Joaquim",
+        "Era"
       ]
     },
     {
       "fala": "Lúcia entregou a partitura restaurada. Ele reconheceu a própria letra e perguntou quem havia encontrado o último trecho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "entregou"
+        "restaurada",
+        "reconheceu"
       ]
     },
     {
       "fala": "A professora abriu o estojo e mostrou a gravação feita por um aluno no último ensaio da banda.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
+        "abriu",
         "professora"
       ]
     },
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Joaquim",
-        "ouviu"
+        "brilhando",
+        "Joaquim"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "trompetista",
+        "completar"
       ]
     },
     {
       "fala": "Os guarda-chuvas se abriram ao redor do coreto, mesmo sem chuva. Cada cor representava uma turma que Joaquim ensinou.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Os",
-        "guarda-chuvas"
+        "Joaquim",
+        "Cada"
       ]
     },
     {
       "fala": "Eu terminei a corrida ouvindo a música atravessar a praça. E você, quem merece uma homenagem surpresa? Conta nos comentários e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "manchete_v",
         "QUEM MERECE UMA HOMENAGEM?"
       ],
       "destaque": [
-        "Eu",
-        "terminei"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🥖 O passageiro entrou no carro desesperado: um casamento inteiro estava esperando... PÃO FRANCÊS! 😳💍 Quando descobri o motivo, até esqueci do trânsito. Qual comida lembra alguém especial pra você? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Casamento #Familia #StorytimeBrasil #PraVoce",
-  "legenda_post": "🥖💍 Uma sacola de pão francês, uma gravata cheia de farinha e um avô com pressa. Parecia uma corrida comum até eu descobrir por que a noiva não começaria a cerimônia sem aqueles pãezinhos. ❤️ Qual sabor faz você lembrar de alguém da família? Conta aqui! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasAfetivas #Familia #HistoriasQueInspiram",
+  "legenda_post": "🥖💍 Uma sacola de pão francês, uma gravata cheia de farinha e um avô com pressa. Parecia uma corrida comum até eu descobrir por que a noiva não começaria a cerimônia sem aqueles pãezinhos. ❤️ Qual sabor faz você lembrar de alguém da família? Conta aqui! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #MemoriasAfetivas #Familia #HistoriasQueInspiram\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Sobe aí, porque um passageiro entrou com uma sacola de pão e gritou que, se eu atrasasse, um casamento inteiro ia parar. E olha que nem era o noivo!",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "passageiro"
+        "passageiro",
+        "atrasasse"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "relogio"
       ],
       "destaque": [
-        "sábado",
-        "quatro"
+        "quatro",
+        "terminando"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Osvaldo",
-        "Sentou"
+        "duas",
+        "Osvaldo"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "conversa"
       ],
       "destaque": [
-        "perguntei",
-        "estava"
+        "Estou",
+        "concentração"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "relogio"
       ],
       "destaque": [
-        "Pensei",
-        "fosse"
+        "Casamento",
+        "brincadeira"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Osvaldo",
-        "explicou"
+        "específico",
+        "precisava"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "coracao"
       ],
       "destaque": [
-        "perguntei",
-        "alguma"
+        "Era",
+        "perguntei"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "carro"
       ],
       "destaque": [
-        "primeiro",
-        "sinal"
+        "abriu",
+        "casamento"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "primeira",
-        "Disse"
+        "Disse",
+        "primeira"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "noiva",
-        "chamada"
+        "Quando",
+        "Clara"
       ]
     },
     {
@@ -129,7 +129,7 @@
       ],
       "destaque": [
         "aniversário",
-        "começava"
+        "importava"
       ]
     },
     {
@@ -139,7 +139,7 @@
         "celular"
       ],
       "destaque": [
-        "Quando",
+        "Osvaldo",
         "Clara"
       ]
     },
@@ -150,8 +150,8 @@
         "notificacao"
       ],
       "destaque": [
-        "problema",
-        "forno"
+        "emprestado",
+        "problema"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "conversa"
       ],
       "destaque": [
-        "Olhei",
-        "retrovisor"
+        "doze",
+        "Perguntei"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "carro"
       ],
       "destaque": [
-        "outros",
-        "estavam"
+        "duas",
+        "transporte"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "mapa"
       ],
       "destaque": [
-        "Chegando",
-        "perto"
+        "Osvaldo",
+        "encontramos"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "coracao"
       ],
       "destaque": [
-        "apertou",
-        "sacola"
+        "baixinho",
+        "apertou"
       ]
     },
     {
@@ -205,8 +205,8 @@
         "foto"
       ],
       "destaque": [
-        "Naquela",
-        "entendi"
+        "Era",
+        "prometido"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "porta"
       ],
       "destaque": [
-        "Estacionei",
-        "diante"
+        "Osvaldo",
+        "Estacionei"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "coracao"
       ],
       "destaque": [
-        "Quando",
-        "entramos"
+        "Todos",
+        "Clara"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "Osvaldo",
-        "entregou"
+        "entregou",
+        "primeiro"
       ]
     },
     {
@@ -249,8 +249,8 @@
         "conversa"
       ],
       "destaque": [
-        "começou",
-        "chorar"
+        "Depois",
+        "convidados"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "coracao"
       ],
       "destaque": [
-        "estava",
-        "saindo"
+        "Colocou",
+        "Clara"
       ]
     },
     {
@@ -271,8 +271,8 @@
         "carro"
       ],
       "destaque": [
-        "Voltei",
-        "carro"
+        "duas",
+        "história"
       ]
     },
     {
@@ -284,7 +284,7 @@
       ],
       "destaque": [
         "Cinco",
-        "estrelas"
+        "Osvaldo"
       ]
     }
   ]

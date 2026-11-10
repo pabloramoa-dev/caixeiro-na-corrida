@@ -13,7 +13,7 @@ def main():
         return
     destino = Path('conteudo/retencao_teste.json')
     dados = json.loads(destino.read_text())['reels'] if destino.exists() else {}
-    cfg = config.carregar()
+    cfg = config.carregar(exigir_credenciais=False)
     for post in fila.ler_publicados():
         mid = post.get('media_id')
         if not mid or not post.get('dia_teste') or mid in dados:

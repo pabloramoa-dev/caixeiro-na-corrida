@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "☀️ Ela entrou no meu carro com 30 GUARDA-CHUVAS num dia de sol! ☂️😳 Quando descobri para quem eram, entendi tudo. E o pátio da escola virou uma surpresa inesquecível! Quem merece uma homenagem assim? História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #Gratidao #StorytimeBrasil #PraVoce",
-  "legenda_post": "☂️ Trinta guarda-chuvas, céu azul e uma passageira pedindo segredo absoluto! Eu achei que fosse uma venda, mas era uma homenagem a alguém que protegeu gerações de alunos na saída da escola. ❤️ Quem fez diferença na sua infância e merece ser lembrado? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Escola #Gratidao",
+  "legenda_post": "☂️ Trinta guarda-chuvas, céu azul e uma passageira pedindo segredo absoluto! Eu achei que fosse uma venda, mas era uma homenagem a alguém que protegeu gerações de alunos na saída da escola. ❤️ Quem fez diferença na sua infância e merece ser lembrado? Marque essa pessoa! História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Escola #Gratidao\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Trinta guarda-chuvas entraram no meu carro num dia de sol rachando. A passageira pediu segredo absoluto. E, quando chegamos à escola, eu vi chover sem uma única nuvem.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Trinta",
-        "guarda-chuvas"
+        "segredo",
+        "passageira"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "carro"
       ],
       "destaque": [
-        "estava",
-        "parado"
+        "procurando",
+        "coloridas"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "conversa"
       ],
       "destaque": [
-        "acenou,",
-        "abriu"
+        "abriu",
+        "transportar"
       ]
     },
     {
@@ -51,7 +51,7 @@
         "foto"
       ],
       "destaque": [
-        "Helena.",
+        "Helena",
         "Usava"
       ]
     },
@@ -63,8 +63,8 @@
         "O QUE ELA QUERIA DEVOLVER?"
       ],
       "destaque": [
-        "Perguntei",
-        "vendia"
+        "vinte",
+        "cinco"
       ]
     },
     {
@@ -74,8 +74,8 @@
         "mapa"
       ],
       "destaque": [
-        "fiquei",
-        "curioso,"
+        "Municipal",
+        "Escola"
       ]
     },
     {
@@ -85,8 +85,8 @@
         "carro"
       ],
       "destaque": [
-        "primeiro",
-        "sinal,"
+        "Guarda",
+        "espalharam"
       ]
     },
     {
@@ -96,8 +96,8 @@
         "foto"
       ],
       "destaque": [
-        "Ajudei",
-        "arrumar"
+        "Pareciam",
+        "Gustavo"
       ]
     },
     {
@@ -107,7 +107,7 @@
         "conversa"
       ],
       "destaque": [
-        "Helena",
+        "Alguns",
         "percebeu"
       ]
     },
@@ -118,8 +118,8 @@
         "carro"
       ],
       "destaque": [
-        "Perguntei",
-        "reunião"
+        "interrogatório",
+        "retrovisor"
       ]
     },
     {
@@ -129,8 +129,8 @@
         "foto"
       ],
       "destaque": [
-        "homenageado",
-        "Dario,"
+        "Dario",
+        "Todo"
       ]
     },
     {
@@ -140,8 +140,8 @@
         "coracao"
       ],
       "destaque": [
-        "Quando",
-        "chovia,"
+        "Atravessava",
+        "aparecia"
       ]
     },
     {
@@ -152,7 +152,7 @@
       ],
       "destaque": [
         "Dario",
-        "nunca"
+        "suficiente"
       ]
     },
     {
@@ -162,19 +162,19 @@
         "conversa"
       ],
       "destaque": [
-        "Helena",
-        "contou"
+        "Dario",
+        "enxurrada"
       ]
     },
     {
       "fala": "Agora ele ia se aposentar. A escola preparou uma homenagem simples, mas os antigos alunos quiseram fazer algo que ele pudesse lembrar por muitos anos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Agora",
-        "aposentar."
+        "aposentar",
+        "homenagem"
       ]
     },
     {
@@ -184,8 +184,8 @@
         "foto"
       ],
       "destaque": [
-        "disse:",
-        "então"
+        "Helena",
+        "Cada"
       ]
     },
     {
@@ -195,8 +195,8 @@
         "celular"
       ],
       "destaque": [
-        "Nesse",
-        "instante,"
+        "Dario",
+        "surpresa"
       ]
     },
     {
@@ -206,8 +206,8 @@
         "mapa"
       ],
       "destaque": [
-        "Pegamos",
-        "avenida"
+        "Helena",
+        "Deus"
       ]
     },
     {
@@ -218,29 +218,29 @@
       ],
       "destaque": [
         "Expliquei",
-        "havia"
+        "permitida"
       ]
     },
     {
       "fala": "Quando chegamos, o pátio estava cheio de adultos fingindo conversar normalmente. Mas todos olhavam para o relógio e seguravam um sorriso.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "normalmente",
+        "conversar"
       ]
     },
     {
       "fala": "Ajudei a levar as sacolas até o portão. Helena distribuiu os guarda-chuvas e pediu que ninguém abrisse antes do sinal combinado.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "porta"
       ],
       "destaque": [
-        "Ajudei",
-        "levar"
+        "Helena",
+        "distribuiu"
       ]
     },
     {
@@ -251,7 +251,7 @@
       ],
       "destaque": [
         "Dario",
-        "apareceu"
+        "Achou"
       ]
     },
     {
@@ -262,8 +262,8 @@
         "CHOVEU COR NO PÁTIO!"
       ],
       "destaque": [
-        "Helena",
-        "chamou"
+        "Dario",
+        "colorido"
       ]
     },
     {
@@ -273,8 +273,8 @@
         "coracao"
       ],
       "destaque": [
-        "explicou:",
-        "senhor"
+        "Hoje",
+        "lembranças"
       ]
     },
     {
@@ -284,8 +284,8 @@
         "foto"
       ],
       "destaque": [
-        "Depois",
-        "levantou"
+        "Todo",
+        "homenagem"
       ]
     },
     {
@@ -296,8 +296,8 @@
         "QUEM MERECE ESSA HOMENAGEM?"
       ],
       "destaque": [
-        "volta,",
-        "pensei"
+        "Conta",
+        "surpresa"
       ]
     }
   ]

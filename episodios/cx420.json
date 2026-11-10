@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "☂️ Ela entrou no meu carro com TRINTA guarda-chuvas num dia de sol e disse: 'Se um abrir antes da hora, estraga tudo!' 😳 A surpresa na praça revelou uma história de vinte anos. Qual gentileza você nunca esqueceu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Gentileza #PraVoce",
-  "legenda_post": "☀️☂️ Lúcia carregava trinta guarda-chuvas, mas não havia uma nuvem no céu. O destino era uma praça, e a missão era surpreender Dona Nair, que durante anos ajudou desconhecidos sem esperar nada em troca. ❤️ A sombrinha mais velha guardava a maior surpresa. Qual pequena gentileza marcou sua vida? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gentileza #Surpresa",
+  "legenda_post": "☀️☂️ Lúcia carregava trinta guarda-chuvas, mas não havia uma nuvem no céu. O destino era uma praça, e a missão era surpreender Dona Nair, que durante anos ajudou desconhecidos sem esperar nada em troca. ❤️ A sombrinha mais velha guardava a maior surpresa. Qual pequena gentileza marcou sua vida? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #Gentileza #Surpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com trinta guarda-chuvas num sol de rachar e avisou: se um abrir antes da hora, a surpresa acaba.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
+        "surpresa",
         "entrou"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Já transportei mudança, cachorro e até bolo falso. Mas uma tempestade portátil era novidade.",
+      "fala": "Já transportei mudança, cachorro e até bolo falso. Mas uma tempestade portátil era novidade.",
       "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "transportei",
+        "tempestade"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Estava",
+        "Lúcia"
       ]
     },
     {
@@ -52,7 +52,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "anunciava"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "carro"
       ],
       "destaque": [
-        "Eu",
-        "não"
+        "interessante",
+        "normalmente"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "banco"
+        "transparente",
+        "sombrinhas"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "me"
+        "Disse",
+        "importante"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "primeira"
+        "Quase",
+        "abriu"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "disse:"
+        "passagem",
+        "conferiu"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "carro"
       ],
       "destaque": [
-        "Precisávamos",
-        "chegar"
+        "quatro",
+        "Precisávamos"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Lúcia",
+        "Dona"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Durante",
-        "vinte"
+        "vinte",
+        "Dona"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "nunca"
+        "esquecendo",
+        "melhorar"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "dia"
+        "Dona",
+        "Nair"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "que"
+        "resolveu",
+        "procurar"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "carro"
       ],
       "destaque": [
-        "Eu",
-        "olhei"
+        "duas",
+        "Aquela"
       ]
     },
     {
@@ -194,30 +194,30 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "Dona",
+        "Nair"
       ]
     },
     {
       "fala": "Seu dono tinha mudado de cidade. Só naquela manhã mandou a peça pelo correio, junto de uma carta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "dono"
+        "naquela",
+        "correio"
       ]
     },
     {
       "fala": "Lúcia me mostrou o envelope fechado. Na frente, estava escrito: para quem me ensinou que confiança volta.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "me"
+        "confiança",
+        "envelope"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos"
+        "segurando",
+        "minúscula"
       ]
     },
     {
@@ -238,19 +238,19 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "falei"
+        "eficiente",
+        "bicicleta"
       ]
     },
     {
       "fala": "Às quatro em ponto, Dona Nair apareceu caminhando devagar, acompanhada da neta, sem desconfiar de nada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Às",
-        "quatro"
+        "quatro",
+        "Dona"
       ]
     },
     {
@@ -260,8 +260,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "fez"
+        "Trinta",
+        "formando"
       ]
     },
     {
@@ -271,19 +271,19 @@
         "foto"
       ],
       "destaque": [
-        "Dona",
-        "Nair"
+        "Nair",
+        "perguntou"
       ]
     },
     {
       "fala": "Cada pessoa contou onde estava quando recebeu ajuda. Teve entrevista de emprego, prova de escola e até primeiro encontro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Cada",
-        "pessoa"
+        "Teve",
+        "entrevista"
       ]
     },
     {
@@ -293,19 +293,19 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "Lúcia"
+        "Lúcia",
+        "Dona"
       ]
     },
     {
       "fala": "A carta dizia que aquele empréstimo tinha inspirado o dono a ajudar outras pessoas. Agora ele ensinava isso aos filhos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "carta"
+        "Agora",
+        "empréstimo"
       ]
     },
     {
@@ -316,8 +316,8 @@
         "QUAL GENTILEZA VOCÊ LEMBRA?"
       ],
       "destaque": [
-        "Na",
-        "volta"
+        "Caixeiro",
+        "Comenta"
       ]
     }
   ]

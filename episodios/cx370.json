@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "confeiteira",
-        "chamada"
+        "Mel",
+        "confeiteira"
       ]
     },
     {
@@ -28,8 +28,8 @@
         "relogio"
       ],
       "destaque": [
-        "terça-feira,",
-        "quarenta"
+        "seis",
+        "aplicativo"
       ]
     },
     {
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "confeiteira",
-        "chamada"
+        "Mel",
+        "descobriu"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "aprendi",
-        "ninguém"
+        "Tem",
+        "preocupação"
       ]
     },
     {
@@ -61,20 +61,20 @@
         "celular"
       ],
       "destaque": [
-        "nervosa",
-        "primeiro"
+        "primeiro",
+        "trabalho"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "Expliquei",
-        "acomodar"
+        "visibilidade",
+        "Expliquei"
       ]
     },
     {
@@ -96,7 +96,7 @@
       ],
       "destaque": [
         "Perguntei",
-        "preferia"
+        "precisava"
       ]
     },
     {
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Ela ligou para a festa e combinou a entrega por um veículo apropriado para cargas maiores.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "combinou",
-        "entrega"
+        "apropriado",
+        "combinou"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "confirmar",
-        "imaginar"
+        "explicação",
+        "passageiro"
       ]
     },
     {
       "fala": "Enquanto aguardava, mostrou uma foto do bolo e disse que tinha medo de parecer pouco profissional por reconhecer um erro de planejamento.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "Enquanto",
-        "aguardava,"
+        "profissional",
+        "planejamento"
       ]
     },
     {
@@ -151,13 +151,13 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Os organizadores agradeceram o cuidado; a sobremesa chegou intacta com o transporte correto.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "terminou,",
-        "conferi"
+        "Fiquei",
+        "desembarque"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

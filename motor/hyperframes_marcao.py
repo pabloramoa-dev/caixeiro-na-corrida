@@ -180,7 +180,7 @@ def compor(ep,segs,pasta):
     for t in range(0, math.ceil(dur), 5):
         i = next((j for j, seg in enumerate(segs) if seg['fim'] > t), len(segs)-1)
         forte = ep['batidas'][i]['expr'] in ('chocada', 'brava', 'triste')
-        plano = 1.38 if forte and ultimo != 1.38 else (1.17 if ultimo == 1 else 1)
+        plano = 1.38 if (forte or t % 15 == 10) and ultimo != 1.38 else (1.17 if ultimo == 1 else 1)
         anim.append(f'tl.set("#base",{{scale:{plano},transformOrigin:"50% 60%"}},{t});')
         ultimo = plano
     modelo = Template(Path(__file__).with_name('caixeiro.html').read_text())

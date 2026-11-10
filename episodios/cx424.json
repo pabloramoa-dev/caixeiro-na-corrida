@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "⏰ Ela entrou no carro com DOZE RELÓGIOS PARADOS e disse que um deles não podia tocar antes das cinco! 😳 O segredo da estação abandonada mudou tudo. Você guarda alguma lembrança de um lugar especial? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Misterio #FinalSurpresa #StorytimeBrasil",
-  "legenda_post": "🚕⏰ Teresa carregava doze relógios parados e uma promessa que precisava cumprir antes das cinco. Na antiga estação, cartas esquecidas revelaram como um relojoeiro marcou a vida de toda uma cidade. ❤️ Qual lugar guarda uma lembrança especial para você? História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reviravolta",
+  "legenda_post": "🚕⏰ Teresa carregava doze relógios parados e uma promessa que precisava cumprir antes das cinco. Na antiga estação, cartas esquecidas revelaram como um relojoeiro marcou a vida de toda uma cidade. ❤️ Qual lugar guarda uma lembrança especial para você? História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reviravolta\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma mala cheia de relógios parados e avisou: se um deles tocar antes das cinco, meu avô vai descobrir tudo!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "cinco",
+        "descobrir"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. Já transportei muita encomenda estranha, mas relógios que não funcionavam me deixaram curioso.",
+      "fala": "Já transportei muita encomenda estranha, mas relógios que não funcionavam me deixaram curioso.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "transportei",
+        "funcionavam"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "Segurava",
+        "Teresa"
       ]
     },
     {
       "fala": "Perguntei se ela trabalhava com conserto de relógios. Ela respondeu: hoje, motorista, estou tentando consertar uma promessa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "trabalhava",
+        "Perguntei"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "destino"
+        "Teresa",
+        "ferroviária"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "De",
-        "repente"
+        "vinte",
+        "mensagem"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
+        "Teresa",
         "perguntei"
       ]
     },
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
-        "avô,"
+        "Dário",
+        "relojoeiro"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "o"
+        "relógios",
+        "voltaria"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "Teresa"
+        "Teresa",
+        "descobriu"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "foto"
       ],
       "destaque": [
-        "Uma",
-        "das"
+        "reencontrar",
+        "plataforma"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Outra",
-        "contava"
+        "Dário",
+        "estudantes"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "decidiu"
+        "organizar",
+        "homenagem"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "mala"
+        "doze",
+        "emprestados"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
+        "importante",
+        "Perguntei"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "funcionar",
+        "relógios"
       ]
     },
     {
@@ -194,19 +194,19 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "arregalou"
+        "arregalou",
+        "pequena"
       ]
     },
     {
       "fala": "Ela riu de nervoso e recebeu outra mensagem: o avô mudou o caminho e está chegando antes de vocês!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "riu"
+        "mensagem",
+        "chegando"
       ]
     },
     {
@@ -216,19 +216,19 @@
         "foto"
       ],
       "destaque": [
-        "Entrei",
-        "na"
+        "Havia",
+        "fotografias"
       ]
     },
     {
       "fala": "Um menino correu até o carro e gritou que faltava a peça principal da surpresa.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Um",
-        "menino"
+        "surpresa",
+        "principal"
       ]
     },
     {
@@ -238,7 +238,7 @@
         "foto"
       ],
       "destaque": [
-        "Teresa",
+        "doze",
         "abriu"
       ]
     },
@@ -249,30 +249,30 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "lembrei"
+        "Estava",
+        "escondido"
       ]
     },
     {
       "fala": "Quando entreguei o embrulho, ouvimos a voz de seu Dário perguntando por que tanta gente estava na estação.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "entreguei"
+        "Dário",
+        "perguntando"
       ]
     },
     {
       "fala": "Teresa tentou explicar, mas o avô viu o relógio de bolso e reconheceu a gravação na tampa.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Teresa",
-        "tentou"
+        "reconheceu",
+        "explicar"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "contou"
+        "presente",
+        "primeiro"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "foto"
       ],
       "destaque": [
-        "Os",
+        "homenagem",
         "vizinhos"
       ]
     },
     {
       "fala": "Dário acertou os ponteiros do relógio da plataforma e disse que algumas histórias continuam mesmo depois da última viagem.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dário",
-        "acertou"
+        "plataforma",
+        "ponteiros"
       ]
     },
     {
       "fala": "Eu voltei ao carro com a corrida encerrada e uma pergunta: qual lugar da sua cidade merece uma homenagem dessas? Conta e segue o Caixeiro!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL LUGAR MERECE HOMENAGEM?"
       ],
       "destaque": [
-        "Eu",
-        "voltei"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

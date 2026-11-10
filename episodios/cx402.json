@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "empresária",
-        "chamada"
+        "Glória",
+        "empresária"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
+        "dez",
         "aplicativo"
       ]
     },
@@ -39,8 +39,8 @@
         "conversa"
       ],
       "destaque": [
-        "empresária",
-        "chamada"
+        "Glória",
+        "empresária"
       ]
     },
     {
@@ -50,8 +50,8 @@
         "carro"
       ],
       "destaque": [
-        "corrida",
-        "parecia"
+        "aplicativo",
+        "importante"
       ]
     },
     {
@@ -61,31 +61,31 @@
         "celular"
       ],
       "destaque": [
-        "preocupada",
-        "tranquila"
+        "injustamente",
+        "preocupada"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
       "fala": "Perguntou se existia um canal apropriado para corrigir o equívoco sem precisar procurar dados pessoais do profissional.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "mapa"
       ],
       "destaque": [
-        "Perguntou",
-        "existia"
+        "profissional",
+        "apropriado"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "faltava,",
+        "lembrança",
         "inventar"
       ]
     },
@@ -106,8 +106,8 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "coracao"
       ],
       "destaque": [
-        "Expliquei",
-        "poderia"
+        "plataforma",
+        "Expliquei"
       ]
     },
     {
@@ -129,19 +129,19 @@
         "A VIRADA"
       ],
       "destaque": [
-        "Lembrei",
-        "Rosângela"
+        "Rosângela",
+        "discussão"
       ]
     },
     {
       "fala": "Durante a corrida, ela aproveitou para contar como avaliações precipitadas também afetavam o pequeno negócio que administrava.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "notificacao"
       ],
       "destaque": [
-        "Durante",
-        "corrida,"
+        "precipitadas",
+        "administrava"
       ]
     },
     {
@@ -151,19 +151,19 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Glória resolveu seu pedido pelo aplicativo e passou a ler melhor cada tela antes de confirmar uma nota.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "resolveu",
-        "aplicativo"
+        "aplicativo",
+        "confirmar"
       ]
     },
     {
@@ -174,19 +174,19 @@
       ],
       "destaque": [
         "aplicativo",
-        "chegada,"
+        "suficiente"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

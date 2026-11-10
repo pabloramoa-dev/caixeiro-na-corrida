@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "passageira"
+        "doze",
+        "brincadeira"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "relogio"
       ],
       "destaque": [
-        "quinta-feira",
-        "ameaçava"
+        "seis",
+        "rodoviária"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "entrou",
-        "professora"
+        "Lara",
+        "aniversário"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "perguntei",
-        "quebrado"
+        "fotografias",
+        "fotografia"
       ]
     },
     {
@@ -63,8 +63,8 @@
         "A ÚLTIMA MOLDURA"
       ],
       "destaque": [
-        "Pronto",
-        "transporte"
+        "Lara",
+        "Meu"
       ]
     },
     {
@@ -74,8 +74,8 @@
         "notificacao"
       ],
       "destaque": [
-        "primeiro",
-        "recebeu"
+        "Era",
+        "funcionar"
       ]
     },
     {
@@ -85,8 +85,8 @@
         "celular"
       ],
       "destaque": [
-        "ofereci",
-        "seguro"
+        "Lara",
+        "telefonar"
       ]
     },
     {
@@ -96,19 +96,19 @@
         "conversa"
       ],
       "destaque": [
-        "contou",
-        "naquela"
+        "homenagear",
+        "trabalham"
       ]
     },
     {
       "fala": "O padeiro que acende o forno às três, a moça que limpa a escola antes das aulas, o vigia que conhece cada cachorro da rua.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "imagem"
       ],
       "destaque": [
-        "padeiro",
-        "acende"
+        "três",
+        "cachorro"
       ]
     },
     {
@@ -118,8 +118,8 @@
         "foto"
       ],
       "destaque": [
-        "primeiras",
-        "molduras"
+        "Cada",
+        "agradecimento"
       ]
     },
     {
@@ -129,7 +129,7 @@
         "coracao"
       ],
       "destaque": [
-        "bonito",
+        "Lara",
         "perguntei"
       ]
     },
@@ -140,8 +140,8 @@
         "carro"
       ],
       "destaque": [
-        "limpou",
-        "terminal"
+        "vinte",
+        "sete"
       ]
     },
     {
@@ -151,8 +151,8 @@
         "mapa"
       ],
       "destaque": [
-        "guardou",
-        "aquilo"
+        "Reuniu",
+        "moradores"
       ]
     },
     {
@@ -162,19 +162,19 @@
         "relogio"
       ],
       "destaque": [
-        "projetor",
-        "estavam"
+        "vinte",
+        "computador"
       ]
     },
     {
       "fala": "Perguntei se alguém tinha uma impressora por perto. Ela abriu o grupo do bairro e mandou uma mensagem pedindo ajuda, sem muita esperança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "Perguntei",
-        "alguém"
+        "abriu",
+        "impressora"
       ]
     },
     {
@@ -184,8 +184,8 @@
         "notificacao"
       ],
       "destaque": [
-        "próxima",
-        "esquina"
+        "três",
+        "responderam"
       ]
     },
     {
@@ -195,8 +195,8 @@
         "conversa"
       ],
       "destaque": [
-        "olhando",
-        "conseguir"
+        "Lara",
+        "homenagear"
       ]
     },
     {
@@ -206,8 +206,8 @@
         "porta"
       ],
       "destaque": [
-        "Chegamos",
-        "centro"
+        "impressora",
+        "Chegamos"
       ]
     },
     {
@@ -217,8 +217,8 @@
         "foto"
       ],
       "destaque": [
-        "padeiro",
-        "reconhecendo"
+        "reconhecendo",
+        "funcionária"
       ]
     },
     {
@@ -229,8 +229,8 @@
         "O SEGREDO"
       ],
       "destaque": [
-        "décima",
-        "segunda"
+        "Lara",
+        "segredo"
       ]
     },
     {
@@ -240,19 +240,19 @@
         "coracao"
       ],
       "destaque": [
-        "Quando",
-        "fotografia"
+        "Embaixo",
+        "Era"
       ]
     },
     {
       "fala": "Olhei e vi meu próprio rosto, com o boné meio torto depois de um dia inteiro de corrida. Pela primeira vez, eu entendi a surpresa.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "próprio",
-        "depois"
+        "Pela",
+        "surpresa"
       ]
     },
     {
@@ -262,7 +262,7 @@
         "conversa"
       ],
       "destaque": [
-        "sempre",
+        "Hoje",
         "invisível"
       ]
     },
@@ -274,8 +274,8 @@
         "QUEM MERECE SER LEMBRADO?"
       ],
       "destaque": [
-        "estrelas",
-        "história"
+        "Cinco",
+        "Compartilha"
       ]
     }
   ]

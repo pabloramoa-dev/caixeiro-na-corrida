@@ -9,7 +9,7 @@
   "cenario": "tarde_ensolarada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🥖 Ela pediu uma corrida até uma padaria fechada havia décadas — e disse que precisava chegar exatamente às seis! O que aconteceu lá surpreendeu até o Caixeiro. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
-  "legenda_post": "🚕🥖 Uma padaria antiga, uma receita guardada e uma visita marcada para as seis. Rosa descobriu que algumas histórias só esperam a hora certa de continuar. Qual lugar da infância você gostaria de rever? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro",
+  "legenda_post": "🚕🥖 Uma padaria antiga, uma receita guardada e uma visita marcada para as seis. Rosa descobriu que algumas histórias só esperam a hora certa de continuar. Qual lugar da infância você gostaria de rever? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com um envelope escrito 'não entregar antes das seis'. Faltavam vinte minutos. E o endereço era de uma padaria fechada havia anos.",
@@ -18,30 +18,30 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "vinte",
+        "seis"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. A passageira era Rosa, uma senhora de voz firme, mas que não parava de olhar para o relógio.",
+      "fala": "A passageira era Rosa, uma senhora de voz firme, mas que não parava de olhar para o relógio.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "Rosa",
+        "passageira"
       ]
     },
     {
       "fala": "Perguntei se o destino estava correto. Ela confirmou e pediu para seguir pela rua antiga, não pela avenida.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "confirmou"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "contou"
+        "trabalhara",
+        "aprendendo"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "época,"
+        "Davi",
+        "quentinho"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "dia,"
+        "Rosa",
+        "conseguir"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Anos",
-        "depois,"
+        "guardado",
+        "ninguém"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "semana"
+        "encontrado",
+        "telefonou"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "condição"
+        "seis",
+        "Rosa"
       ]
     },
     {
@@ -117,30 +117,30 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "achei"
+        "Rosa",
+        "brincadeira"
       ]
     },
     {
       "fala": "Quando viramos a esquina, vimos a fachada pintada de azul, com a velha placa de madeira ainda pendurada.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
+        "pendurada",
         "viramos"
       ]
     },
     {
       "fala": "A porta estava fechada. No vidro, havia um cartaz: 'Hoje, às seis, uma história volta a abrir'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "porta"
+        "seis",
+        "Hoje"
       ]
     },
     {
@@ -150,63 +150,63 @@
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "apertou"
+        "envelope",
+        "recebida"
       ]
     },
     {
       "fala": "Ela me contou que escrevera aquela resposta quarenta anos atrás, mas nunca teve coragem de enviá-la.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "me"
+        "escrevera",
+        "resposta"
       ]
     },
     {
       "fala": "Às cinco e cinquenta e oito, uma mulher saiu do prédio com um molho de chaves e nos chamou pelo nome.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Às",
-        "cinco"
+        "cinco",
+        "oito"
       ]
     },
     {
       "fala": "Era Clara, filha do antigo padeiro. Ela convidou Rosa para entrar e pediu que eu acompanhasse as duas.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Era",
-        "Clara,"
+        "duas",
+        "Clara"
       ]
     },
     {
       "fala": "Por dentro, o salão tinha mesas novas, mas o balcão de madeira continuava no mesmo lugar.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Por",
-        "dentro,"
+        "continuava",
+        "madeira"
       ]
     },
     {
       "fala": "Clara abriu uma gaveta e retirou um caderno antigo, com receitas escritas à mão e nomes nas margens.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Clara",
-        "abriu"
+        "abriu",
+        "receitas"
       ]
     },
     {
@@ -216,41 +216,41 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "última"
+        "Rosa",
+        "anotação"
       ]
     },
     {
       "fala": "Rosa começou a rir, surpresa. Disse que sua primeira fornada tinha saído torta e quase queimado.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Rosa",
-        "começou"
+        "Disse",
+        "surpresa"
       ]
     },
     {
       "fala": "Clara explicou que o pai repetia aquela história para ensinar aos aprendizes que ninguém começa sabendo tudo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Clara",
+        "aprendizes",
         "explicou"
       ]
     },
     {
       "fala": "Então mostrou uma fotografia: Rosa adolescente, coberta de farinha, ao lado do padeiro e do pequeno Davi.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Então",
-        "mostrou"
+        "Rosa",
+        "Davi"
       ]
     },
     {
@@ -260,19 +260,19 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "Davi",
+        "surpresa"
       ]
     },
     {
       "fala": "Ele tinha ajudado Clara a reabrir a padaria por um único dia, para comemorar a memória do antigo dono.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "tinha"
+        "Clara",
+        "comemorar"
       ]
     },
     {
@@ -282,42 +282,42 @@
         "foto"
       ],
       "destaque": [
-        "Às",
-        "seis"
+        "seis",
+        "Dentro"
       ]
     },
     {
       "fala": "Ela entregou a folha a Clara e disse: 'Seu pai me ensinou o começo. Eu trouxe o resto da história'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "entregou"
+        "Clara",
+        "Seu"
       ]
     },
     {
       "fala": "Os três foram para a cozinha preparar a receita juntos. Eu fiquei no balcão, sentindo o cheiro de pão saindo do forno.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Os",
-        "três"
+        "três",
+        "preparar"
       ]
     },
     {
       "fala": "Na volta, pensei que algumas despedidas só precisam de tempo para virar reencontro. Que lugar da sua infância você gostaria de revisitar? Comente e siga o Caixeiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "QUAL LUGAR?"
       ],
       "destaque": [
-        "Na",
-        "volta,"
+        "Caixeiro",
+        "Comente"
       ]
     }
   ]

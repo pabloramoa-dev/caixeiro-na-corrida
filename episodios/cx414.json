@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "👔 Ela entrou no meu carro com um MANEQUIM de terno e disse: 'Hoje ele vai ser promovido!' 😳 Só entendi quando chegamos à loja. Você conhece um comércio que merece uma segunda chance? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasileiro #Reviravolta #StorytimeBrasil #PraVoce",
-  "legenda_post": "👔🚕 Um manequim de terno, uma costureira cheia de segredos e uma loja prestes a fechar. Lúcia tinha um plano improvável para salvar quarenta anos de histórias. O novo gerente nem falava, mas ajudou todo mundo a ser ouvido! ❤️ Qual comércio do seu bairro você gostaria de ver continuar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Costura #ComercioLocal #FinalSurpresa",
+  "legenda_post": "👔🚕 Um manequim de terno, uma costureira cheia de segredos e uma loja prestes a fechar. Lúcia tinha um plano improvável para salvar quarenta anos de histórias. O novo gerente nem falava, mas ajudou todo mundo a ser ouvido! ❤️ Qual comércio do seu bairro você gostaria de ver continuar? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Costura #ComercioLocal #FinalSurpresa\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro abraçada a um manequim de terno e avisou: hoje ele vai receber uma promoção. Eu achei que era pegadinha.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "pegadinha",
+        "abraçada"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Antes",
-        "de"
+        "Disse",
+        "surpresa"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "transportei"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "mulher"
+        "Osório",
+        "Lúcia"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Lúcia",
+        "trabalhava"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "primeiro"
+        "motociclista",
+        "escorregou"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "notificacao"
       ],
       "destaque": [
-        "Lúcia",
-        "começou"
+        "completaria",
+        "preparava"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "dono"
+        "Achava",
+        "estabelecimento"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Só",
-        "que"
+        "Durante",
+        "Lúcia"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "bilhete"
+        "Outro",
+        "conseguiu"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "perguntei"
+        "perguntei",
+        "respondeu"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "mapa"
       ],
       "destaque": [
-        "Chegamos",
-        "à"
+        "Havia",
+        "Chegamos"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "Lúcia"
+        "Lúcia",
+        "abriu"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eu",
-        "disse"
+        "respondeu",
+        "primeiro"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Entramos",
-        "na"
+        "Álvaro",
+        "documentos"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "colocou"
+        "Osório",
+        "Cada"
       ]
     },
     {
@@ -194,8 +194,8 @@
         "notificacao"
       ],
       "destaque": [
-        "De",
-        "repente"
+        "Eram",
+        "gravações"
       ]
     },
     {
@@ -205,7 +205,7 @@
         "foto"
       ],
       "destaque": [
-        "Seu",
+        "Reconheceu",
         "Álvaro"
       ]
     },
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Então",
-        "veio"
+        "reviravolta",
+        "organizado"
       ]
     },
     {
@@ -227,8 +227,8 @@
         "foto"
       ],
       "destaque": [
-        "Não",
-        "pediam"
+        "Queriam",
+        "Lúcia"
       ]
     },
     {
@@ -238,8 +238,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "dono"
+        "Depois",
+        "fechamento"
       ]
     },
     {
@@ -249,7 +249,7 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
+        "inscrições",
         "escreveu"
       ]
     },
@@ -260,8 +260,8 @@
         "conversa"
       ],
       "destaque": [
-        "Na",
-        "saída"
+        "Respondi",
+        "Lúcia"
       ]
     },
     {
@@ -272,8 +272,8 @@
         "QUAL LOJA MERECE UMA SEGUNDA CHANCE?"
       ],
       "destaque": [
-        "E",
-        "aprendi"
+        "Cinco",
+        "Conta"
       ]
     }
   ]

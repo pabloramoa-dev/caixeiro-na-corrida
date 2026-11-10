@@ -9,7 +9,7 @@
   "cenario": "manha_nublada",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🧳 Ela pediu uma corrida até o aeroporto com uma mala vazia. O voo tinha pousado havia 17 anos! O que estava esperando por ela? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reencontro",
-  "legenda_post": "🚕🧳 Uma mala vazia, cartas perdidas e uma ligação que demorou dezessete anos. Às vezes, uma conversa muda o rumo da história. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #HistoriasQueEmocionam",
+  "legenda_post": "🚕🧳 Uma mala vazia, cartas perdidas e uma ligação que demorou dezessete anos. Às vezes, uma conversa muda o rumo da história. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #HistoriasQueEmocionam\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no meu carro com uma mala vazia e pediu para ir ao aeroporto. Mas o voo que ela queria encontrar tinha pousado havia dezessete anos.",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "aeroporto",
+        "encontrar"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro. E o que aconteceu naquele saguão começou com uma mensagem recebida às cinco da manhã.",
+      "fala": "E o que aconteceu naquele saguão começou com uma mensagem recebida às cinco da manhã.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "cinco",
+        "aconteceu"
       ]
     },
     {
@@ -40,30 +40,30 @@
         "foto"
       ],
       "destaque": [
-        "A",
+        "Lúcia",
         "passageira"
       ]
     },
     {
       "fala": "Perguntei se ela ia viajar. Ela respondeu: 'Hoje eu não vou embarcar. Vou tentar entender por que alguém não voltou'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Hoje",
+        "Vou"
       ]
     },
     {
       "fala": "Na foto, uma menina sorria ao lado de uma mulher com uniforme de comissária.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "foto,"
+        "comissária",
+        "uniforme"
       ]
     },
     {
@@ -73,7 +73,7 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
+        "Vera",
         "explicou"
       ]
     },
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "Lúcia"
+        "Lúcia",
+        "Vera"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "viagem"
+        "Depois",
+        "Aos"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "cresceu"
+        "simplesmente",
+        "desaparecer"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "naquela"
+        "desconhecido",
+        "madrugada"
       ]
     },
     {
@@ -128,19 +128,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "mensagem"
+        "acompanhada",
+        "funcionário"
       ]
     },
     {
       "fala": "Eu perguntei por que ela estava levando uma mala vazia. Lúcia disse que queria devolver qualquer coisa que encontrasse.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "perguntei"
+        "Lúcia",
+        "encontrasse"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "trânsito,"
+        "Ninguém",
+        "trânsito"
       ]
     },
     {
@@ -161,30 +161,30 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "dez",
+        "esperasse"
       ]
     },
     {
       "fala": "Pouco depois, Lúcia me ligou. Estava perdida entre os balcões e não encontrava o tal guarda-volumes.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Pouco",
-        "depois,"
+        "Estava",
+        "Lúcia"
       ]
     },
     {
       "fala": "Orientei que procurasse o balcão de informações. Ela voltou a ligar, agora com a voz diferente.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Orientei",
-        "que"
+        "informações",
+        "procurasse"
       ]
     },
     {
@@ -194,63 +194,63 @@
         "foto"
       ],
       "destaque": [
-        "Um",
-        "senhor"
+        "Alberto",
+        "esperando"
       ]
     },
     {
       "fala": "Alberto tinha trabalhado com Vera e guardara cartas que nunca chegaram ao endereço antigo de Lúcia.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Alberto",
-        "tinha"
-      ]
-    },
-    {
-      "fala": "Antes de entregar a caixa, ele explicou que Vera tentara procurá-la durante anos, mas perdera contato com a família.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Antes",
-        "de"
-      ]
-    },
-    {
-      "fala": "Lúcia abriu a primeira carta. Dentro havia um desenho feito por ela quando criança, com a frase: 'Quando crescer, vou viajar com a tia'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Lúcia",
-        "abriu"
+        "Vera"
+      ]
+    },
+    {
+      "fala": "Antes de entregar a caixa, ele explicou que Vera tentara procurá-la durante anos, mas perdera contato com a família.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Vera",
+        "entregar"
+      ]
+    },
+    {
+      "fala": "Lúcia abriu a primeira carta. Dentro havia um desenho feito por ela quando criança, com a frase: 'Quando crescer, vou viajar com a tia'.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "Quando"
       ]
     },
     {
       "fala": "Na segunda carta, Vera contava que estava aprendendo a usar computador para encontrar a sobrinha.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "segunda"
+        "Vera",
+        "aprendendo"
       ]
     },
     {
       "fala": "A terceira tinha um telefone atualizado e um pedido simples: 'Se quiser conversar, eu estarei aqui'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "A",
-        "terceira"
+        "atualizado",
+        "conversar"
       ]
     },
     {
@@ -260,19 +260,19 @@
         "foto"
       ],
       "destaque": [
-        "Lúcia",
-        "ficou"
+        "escrito",
+        "imóvel"
       ]
     },
     {
       "fala": "Ela discou ali mesmo. Uma voz atendeu depois do terceiro toque.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "discou"
+        "terceiro",
+        "atendeu"
       ]
     },
     {
@@ -282,64 +282,64 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "não"
+        "Lúcia",
+        "Ainda"
       ]
     },
     {
       "fala": "Quando voltou ao carro, a mala continuava vazia, mas ela segurava a caixa de cartas como se fosse um tesouro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "voltou"
+        "continuava",
+        "segurava"
       ]
     },
     {
       "fala": "Ela contou que Vera morava a duas horas dali. As duas tinham combinado um encontro para o domingo.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "contou"
+        "duas",
+        "duas"
       ]
     },
     {
       "fala": "Perguntei por que ela havia trazido a mala. Lúcia respondeu: 'Achei que precisaria carregar uma despedida. Acabei levando um começo'.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "por"
-      ]
-    },
-    {
-      "fala": "Deixei Lúcia em casa e segui pensando em quantas histórias mudam quando alguém finalmente faz uma ligação.",
-      "expr": "neutra",
-      "arte": [
-        "foto"
-      ],
-      "destaque": [
-        "Deixei",
+        "Acabei",
         "Lúcia"
       ]
     },
     {
+      "fala": "Deixei Lúcia em casa e segui pensando em quantas histórias mudam quando alguém finalmente faz uma ligação.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Lúcia",
+        "finalmente"
+      ]
+    },
+    {
       "fala": "E você? Existe uma conversa que gostaria de retomar? Conta nos comentários e acompanha a próxima corrida do Caixeiro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "VOCÊ LIGARIA?"
       ],
       "destaque": [
-        "E",
-        "você?"
+        "Caixeiro",
+        "Existe"
       ]
     }
   ]

@@ -9,7 +9,7 @@
   "cenario": "dia",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "🏆 Ela entrou no meu carro com um troféu escrito ÚLTIMO LUGAR e disse: 'Hoje o perdedor vai ser aplaudido!' 😳 Eu achei que era piada... até descobrir o segredo do Zé na final de dominó. Você conhece alguém que merece esse troféu? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #PlotTwist #Domino #StorytimeBrasil #PraVoce",
-  "legenda_post": "🏆🚕 Dalva carregava um troféu para quem nunca tinha ganhado uma final. O destino era um campeonato de dominó na praça, mas a verdadeira disputa não era por pontos. ❤️ O que aconteceu quando o Zé recebeu a taça mudou meu jeito de enxergar uma vitória. Quem você homenagearia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #FinalSurpresa #Comunidade",
+  "legenda_post": "🏆🚕 Dalva carregava um troféu para quem nunca tinha ganhado uma final. O destino era um campeonato de dominó na praça, mas a verdadeira disputa não era por pontos. ❤️ O que aconteceu quando o Zé recebeu a taça mudou meu jeito de enxergar uma vitória. Quem você homenagearia? História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #HistoriasQueInspiram #FinalSurpresa #Comunidade\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "A passageira entrou com um troféu escrito ÚLTIMO LUGAR. E me avisou: hoje, o perdedor vai ser aplaudido de pé.",
@@ -18,8 +18,8 @@
         "titulo"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "passageira",
+        "aplaudido"
       ]
     },
     {
@@ -29,8 +29,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "achei"
+        "brincadeira",
+        "transporta"
       ]
     },
     {
@@ -40,8 +40,8 @@
         "carro"
       ],
       "destaque": [
-        "Meu",
-        "nome"
+        "Caixeiro",
+        "significa"
       ]
     },
     {
@@ -51,8 +51,8 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "se"
+        "Dalva",
+        "campeonato"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "conversa"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Dalva",
+        "Perguntei"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "tal"
+        "dois",
+        "campeonato"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "carro"
       ],
       "destaque": [
-        "Falei",
-        "que"
+        "Dalva",
+        "participação"
       ]
     },
     {
@@ -95,19 +95,19 @@
         "foto"
       ],
       "destaque": [
-        "Ela",
-        "explicou"
+        "consertava",
+        "quebradas"
       ]
     },
     {
       "fala": "Quando faltava parceiro, ele jogava com quem estivesse sozinho. Quando faltava peça, tirava um jogo novinho da bolsa.",
-      "expr": "neutra",
+      "expr": "triste",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Quando",
-        "faltava"
+        "estivesse"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "havia"
+        "cinco",
+        "estranho"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "conversa"
       ],
       "destaque": [
-        "Dalva",
-        "pediu"
+        "Foi",
+        "comentasse"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "No",
-        "semáforo,"
+        "Eram",
+        "jogadores"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "Havia",
-        "médicos,"
+        "Todos",
+        "professoras"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "carro"
       ],
       "destaque": [
-        "Perguntei",
-        "se"
+        "Dalva",
+        "desconfiava"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos,"
+        "bandeirinhas",
+        "arrumando"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "foto"
       ],
       "destaque": [
-        "Era",
-        "Zé."
+        "carregar",
+        "levando"
       ]
     },
     {
@@ -194,19 +194,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "final"
+        "adversário",
+        "dezesseis"
       ]
     },
     {
       "fala": "Na última rodada, o garoto venceu por um ponto. Zé levantou, apertou a mão dele e foi o primeiro a aplaudir.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Na",
-        "última"
+        "levantou",
+        "primeiro"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "quando"
+        "Anunciou",
+        "Dalva"
       ]
     },
     {
@@ -227,18 +227,18 @@
         "foto"
       ],
       "destaque": [
-        "Zé",
-        "tentou"
+        "levantaram",
+        "começaram"
       ]
     },
     {
       "fala": "Dalva abriu o caderno e leu os nomes. Cada pessoa contou uma pequena coisa boa que tinha aprendido naquela praça.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Dalva",
+        "Cada",
         "abriu"
       ]
     },
@@ -249,8 +249,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "rapaz"
+        "entregou",
+        "campeão"
       ]
     },
     {
@@ -260,19 +260,19 @@
         "foto"
       ],
       "destaque": [
-        "Zé",
+        "perguntou",
         "enxugou"
       ]
     },
     {
       "fala": "Todo mundo riu. Eu saí dali entendendo que algumas pessoas não colecionam vitórias; elas ajudam os outros a vencer.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "Todo",
-        "mundo"
+        "entendendo",
+        "colecionam"
       ]
     },
     {
@@ -283,8 +283,8 @@
         "QUEM MERECE ESSE TROFÉU?"
       ],
       "destaque": [
-        "E",
-        "você:"
+        "Caixeiro",
+        "Conta"
       ]
     }
   ]

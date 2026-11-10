@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "entrou"
+        "Saturno",
+        "obrigatória"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "quinta,",
-        "noite."
+        "oito",
+        "Douglas"
       ]
     },
     {
@@ -37,19 +37,19 @@
         "conversa"
       ],
       "destaque": [
-        "Douglas",
-        "trabalhava"
+        "trabalhava",
+        "madrugada"
       ]
     },
     {
       "fala": "Ele passou a manhã colando círculos de papelão numa camisa azul, achando que faria uma surpresa bonita na feira de ciências.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "celular"
       ],
       "destaque": [
-        "passou",
-        "colando"
+        "surpresa",
+        "círculos"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -70,8 +70,8 @@
         "carro"
       ],
       "destaque": [
-        "caminho,",
-        "criança"
+        "responsáveis",
+        "perguntou"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "Douglas",
-        "percebeu"
+        "abriu",
+        "temáticas"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "voltar",
-        "sugeri"
+        "constrangido",
+        "perguntasse"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "menino",
-        "respondeu"
+        "Saturno",
+        "aplicativo"
       ]
     },
     {
@@ -125,8 +125,8 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
@@ -136,7 +136,7 @@
         "carro"
       ],
       "destaque": [
-        "escola,",
+        "Douglas",
         "professora"
       ]
     },
@@ -147,7 +147,7 @@
         "manchete_v"
       ],
       "destaque": [
-        "Outros",
+        "Saturno",
         "responsáveis"
       ]
     },
@@ -158,18 +158,18 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Voltei para o carro pensando que alguns erros não precisam ser escondidos. Às vezes basta explicar e rir junto.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "Voltei",
+        "escondidos",
         "pensando"
       ]
     },
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

@@ -17,8 +17,8 @@
         "titulo"
       ],
       "destaque": [
-        "estudante",
-        "chamada"
+        "Conceição",
+        "estudante"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "relogio"
       ],
       "destaque": [
-        "sexta-feira,",
+        "quatro",
         "aplicativo"
       ]
     },
@@ -39,19 +39,19 @@
         "conversa"
       ],
       "destaque": [
-        "estudante",
-        "chamada"
+        "Conceição",
+        "universidade"
       ]
     },
     {
       "fala": "Na minha época de fábrica, aprendi que quase toda situação tem dois lados. Por isso faço uma pergunta e escuto a resposta antes de tentar dar conselho.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "fábrica,",
-        "aprendi"
+        "dois",
+        "situação"
       ]
     },
     {
@@ -62,19 +62,19 @@
       ],
       "destaque": [
         "Conceição",
-        "contava"
+        "trabalhar"
       ]
     },
     {
       "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "UMA PISTA"
       ],
       "destaque": [
-        "perguntei",
-        "cuidado"
+        "acontecendo",
+        "perguntei"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "mapa"
       ],
       "destaque": [
-        "nervosa",
-        "acreditava"
+        "acreditava",
+        "saberiam"
       ]
     },
     {
@@ -95,7 +95,7 @@
         "foto"
       ],
       "destaque": [
-        "informação",
+        "Foi",
         "pequenininha"
       ]
     },
@@ -106,19 +106,19 @@
         "conversa"
       ],
       "destaque": [
-        "tentando",
-        "entender"
+        "adiantava",
+        "conclusão"
       ]
     },
     {
       "fala": "Perguntei qual assunto ela mais queria conhecer. Ela respondeu que pretendia pesquisar as lembranças das mulheres do bairro.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "coracao"
       ],
       "destaque": [
-        "Perguntei",
-        "assunto"
+        "lembranças",
+        "Perguntei"
       ]
     },
     {
@@ -129,8 +129,8 @@
         "A VIRADA"
       ],
       "destaque": [
-        "conversa",
-        "ninguém"
+        "sumiu",
+        "conversa"
       ]
     },
     {
@@ -140,7 +140,7 @@
         "notificacao"
       ],
       "destaque": [
-        "chegamos,",
+        "recepcionava",
         "estudantes"
       ]
     },
@@ -151,13 +151,13 @@
         "porta"
       ],
       "destaque": [
-        "engraçado",
-        "sentido"
+        "reviravolta",
+        "engraçado"
       ]
     },
     {
       "fala": "Conceição desceu segurando a mochila e disse que, pela primeira vez em décadas, tinha uma lição de casa por vontade própria.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "carro"
       ],
@@ -173,20 +173,20 @@
         "coracao"
       ],
       "destaque": [
-        "fechou,",
-        "próxima"
+        "apareceu",
+        "pensando"
       ]
     },
     {
       "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "O QUE VOCÊ FARIA?"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "Cada"
       ]
     }
   ],

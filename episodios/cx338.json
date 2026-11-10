@@ -15,8 +15,8 @@
         "titulo"
       ],
       "destaque": [
-        "porque",
-        "cozinheira"
+        "cozinheira",
+        "lançamento"
       ]
     },
     {
@@ -26,8 +26,8 @@
         "relogio"
       ],
       "destaque": [
-        "sábado,",
-        "manhã."
+        "nove",
+        "Lúcia"
       ]
     },
     {
@@ -37,8 +37,8 @@
         "conversa"
       ],
       "destaque": [
-        "deixado",
-        "emprego"
+        "economizar",
+        "deixado"
       ]
     },
     {
@@ -48,8 +48,8 @@
         "celular"
       ],
       "destaque": [
-        "primeira",
-        "semana"
+        "emprestado",
+        "primeira"
       ]
     },
     {
@@ -59,8 +59,8 @@
         "foto"
       ],
       "destaque": [
-        "pessoas",
-        "palpite"
+        "Primeiro",
+        "acontecendo"
       ]
     },
     {
@@ -71,7 +71,7 @@
       ],
       "destaque": [
         "perguntei",
-        "estava"
+        "decorada"
       ]
     },
     {
@@ -81,18 +81,18 @@
         "manchete_v"
       ],
       "destaque": [
-        "menino",
-        "desenhou"
+        "desenhou",
+        "escreveu"
       ]
     },
     {
       "fala": "A essa altura já tinha uma pergunta que não saía da minha cabeça: será que aquela pessoa estava olhando para o problema certo ou só para a parte mais barulhenta?",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "relogio"
       ],
       "destaque": [
-        "altura",
+        "barulhenta",
         "pergunta"
       ]
     },
@@ -103,8 +103,8 @@
         "conversa"
       ],
       "destaque": [
-        "esquina,",
-        "recebeu"
+        "Lúcia",
+        "professora"
       ]
     },
     {
@@ -114,8 +114,8 @@
         "celular"
       ],
       "destaque": [
-        "pedido",
-        "enorme."
+        "dez",
+        "Eram"
       ]
     },
     {
@@ -125,19 +125,19 @@
         "foto"
       ],
       "destaque": [
-        "aquele",
-        "segundo"
+        "Sabe",
+        "Foi"
       ]
     },
     {
       "fala": "Ela sorriu, mas disse que primeiro precisava refazer as contas e verificar se conseguiria atender sem trabalhar no prejuízo.",
-      "expr": "neutra",
+      "expr": "rindo",
       "arte": [
         "carro"
       ],
       "destaque": [
-        "sorriu,",
-        "primeiro"
+        "conseguiria",
+        "precisava"
       ]
     },
     {
@@ -147,8 +147,8 @@
         "manchete_v"
       ],
       "destaque": [
-        "Deixei",
-        "vizinha."
+        "Lúcia",
+        "empréstimo"
       ]
     },
     {
@@ -158,19 +158,19 @@
         "relogio"
       ],
       "destaque": [
-        "percurso",
-        "conferi"
+        "Minha",
+        "permitido"
       ]
     },
     {
       "fala": "Não virou famosa naquela corrida. Virou uma pessoa com o primeiro pedido confirmado e um plano mais concreto do que a caixa vazia.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "conversa"
       ],
       "destaque": [
-        "famosa",
-        "naquela"
+        "Virou",
+        "confirmado"
       ]
     },
     {
@@ -180,8 +180,8 @@
         "celular"
       ],
       "destaque": [
-        "contei",
-        "Rosângela"
+        "Rosângela",
+        "identificasse"
       ]
     },
     {
@@ -191,8 +191,8 @@
         "foto"
       ],
       "destaque": [
-        "estrelas",
-        "história."
+        "Cinco",
+        "estrelas"
       ]
     }
   ],

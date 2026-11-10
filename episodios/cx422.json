@@ -9,7 +9,7 @@
   "cenario": "tarde",
   "visual_style": "cinematic_2d",
   "legenda_tiktok": "📦 Ela entrou no carro e avisou: SE O NOIVO ABRIR ESSA CAIXA, A FESTA ACABA! 😳 Três caixas, um segredo de vinte anos e uma surpresa que ninguém esperava. Você teria aberto? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Casamento",
-  "legenda_post": "💍📦 Dalva tinha uma caixa lacrada e uma missão antes do casamento de Elisa e Renato. O mistério levou todo mundo até uma antiga banca de jornais — e revelou uma homenagem emocionante. Você conseguiria guardar esse segredo? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Reviravolta #HistoriasQueEmocionam",
+  "legenda_post": "💍📦 Dalva tinha uma caixa lacrada e uma missão antes do casamento de Elisa e Renato. O mistério levou todo mundo até uma antiga banca de jornais — e revelou uma homenagem emocionante. Você conseguiria guardar esse segredo? 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Casamento #Reviravolta #HistoriasQueEmocionam\n\nHistória de ficção.",
   "batidas": [
     {
       "fala": "Ela entrou no carro segurando uma caixa de sapatos e disse: se o noivo abrir isso antes do casamento, a festa acaba!",
@@ -18,19 +18,19 @@
         "titulo"
       ],
       "destaque": [
-        "Ela",
-        "entrou"
+        "segurando",
+        "casamento"
       ]
     },
     {
-      "fala": "Eu sou o Caixeiro, e quando alguém entra com uma caixa lacrada e cara de susto, eu já sei que a corrida vai render.",
+      "fala": "Quando alguém entra com uma caixa lacrada e cara de susto, eu já sei que a corrida vai render.",
       "expr": "neutra",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "sou"
+        "lacrada",
+        "corrida"
       ]
     },
     {
@@ -40,19 +40,19 @@
         "foto"
       ],
       "destaque": [
-        "A",
-        "passageira"
+        "SEIS",
+        "Vestia"
       ]
     },
     {
       "fala": "Perguntei se era presente. Ela respondeu: é a única coisa que pode salvar esse casamento. E olhou para o relógio.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
         "Perguntei",
-        "se"
+        "respondeu"
       ]
     },
     {
@@ -62,8 +62,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "imaginei"
+        "desmontado",
+        "documento"
       ]
     },
     {
@@ -73,8 +73,8 @@
         "conversa"
       ],
       "destaque": [
-        "O",
-        "noivo,"
+        "Renato",
+        "surpresa"
       ]
     },
     {
@@ -84,8 +84,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "era"
+        "vinte",
+        "Naquela"
       ]
     },
     {
@@ -95,8 +95,8 @@
         "foto"
       ],
       "destaque": [
-        "Foi",
-        "aí"
+        "Corre",
+        "encontrou"
       ]
     },
     {
@@ -106,8 +106,8 @@
         "foto"
       ],
       "destaque": [
-        "Perguntei",
-        "quantas"
+        "três",
+        "Dalva"
       ]
     },
     {
@@ -117,8 +117,8 @@
         "foto"
       ],
       "destaque": [
-        "Na",
-        "primeira"
+        "brincadeira",
+        "encontrara"
       ]
     },
     {
@@ -128,8 +128,8 @@
         "conversa"
       ],
       "destaque": [
-        "Na",
-        "segunda,"
+        "conheceram",
+        "segunda"
       ]
     },
     {
@@ -139,8 +139,8 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
-        "explicou"
+        "Renato",
+        "Elisa"
       ]
     },
     {
@@ -150,8 +150,8 @@
         "foto"
       ],
       "destaque": [
-        "O",
-        "dono"
+        "dois",
+        "Armando"
       ]
     },
     {
@@ -161,8 +161,8 @@
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "disse"
+        "Dalva",
+        "Isso"
       ]
     },
     {
@@ -172,8 +172,8 @@
         "foto"
       ],
       "destaque": [
-        "Quando",
-        "chegamos"
+        "convidados",
+        "esperando"
       ]
     },
     {
@@ -183,8 +183,8 @@
         "conversa"
       ],
       "destaque": [
-        "Dalva",
-        "pediu"
+        "Renato",
+        "Disse"
       ]
     },
     {
@@ -194,19 +194,19 @@
         "foto"
       ],
       "destaque": [
-        "Mas",
-        "o"
+        "expressão",
+        "casamento"
       ]
     },
     {
       "fala": "Ele gritou: tia Dalva, onde está o anel? Ela respondeu: anel nenhum sumiu, meu filho. Você não entendeu nada!",
-      "expr": "neutra",
+      "expr": "brava",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "gritou:"
+        "Dalva",
+        "Você"
       ]
     },
     {
@@ -216,8 +216,8 @@
         "foto"
       ],
       "destaque": [
-        "Renato",
-        "mostrou"
+        "Atrás",
+        "primeira"
       ]
     },
     {
@@ -227,7 +227,7 @@
         "foto"
       ],
       "destaque": [
-        "Dalva",
+        "Dentro",
         "abriu"
       ]
     },
@@ -238,8 +238,8 @@
         "conversa"
       ],
       "destaque": [
-        "Eram",
-        "os"
+        "Armando",
+        "Renato"
       ]
     },
     {
@@ -249,30 +249,30 @@
         "foto"
       ],
       "destaque": [
-        "Renato",
-        "leu"
+        "Elisa",
+        "bilhete"
       ]
     },
     {
       "fala": "O homem ficou emocionado. Mas aí veio a reviravolta: a terceira caixa não era para ele. Era para seu Armando.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "homem"
+        "Armando",
+        "Era"
       ]
     },
     {
       "fala": "O antigo jornaleiro surgiu da esquina, apoiado na bengala, e recebeu uma miniatura da banca feita pelos dois noivos.",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "O",
-        "antigo"
+        "dois",
+        "jornaleiro"
       ]
     },
     {
@@ -282,8 +282,8 @@
         "foto"
       ],
       "destaque": [
-        "Ele",
-        "não"
+        "convidados",
+        "homenagem"
       ]
     },
     {
@@ -293,31 +293,31 @@
         "conversa"
       ],
       "destaque": [
-        "Renato",
-        "abraçou"
+        "Caixeiro",
+        "Elisa"
       ]
     },
     {
       "fala": "Eu achei que tinha acabado, até Dalva me entregar um bilhete: motorista, você também faz parte da surpresa. Era um convite para o bolo.",
-      "expr": "neutra",
+      "expr": "chocada",
       "arte": [
         "foto"
       ],
       "destaque": [
-        "Eu",
-        "achei"
+        "Dalva",
+        "Era"
       ]
     },
     {
       "fala": "Cinco estrelas para essa corrida! E você, teria aberto a caixa antes da hora? Conta nos comentários e segue o Caixeiro para mais histórias!",
-      "expr": "neutra",
+      "expr": "desconfiada",
       "arte": [
         "manchete_v",
         "VOCÊ ABRIRIA A CAIXA?"
       ],
       "destaque": [
         "Cinco",
-        "estrelas"
+        "Caixeiro"
       ]
     }
   ]
