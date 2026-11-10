@@ -8,8 +8,8 @@ código (Manim + HyperFrames, motor da Nina), com voz, lip sync, legenda karaok�
 
 | Etapa | Workflow | Quando |
 |---|---|---|
-| Renderiza os próximos roteiros (mantém 9 vídeos prontos) | `produzir.yml` | 01:40 e 13:40 (Brasília) |
-| Publica 1 Reel no Instagram + manda link e legenda do TikTok no WhatsApp | `publicar.yml` | 08h, 12h e 20h (Story só às 20h) |
+| Mantém reservas separadas de curtos e longos | `produzir.yml` | chamado pelo workflow dos Reels |
+| Publica Reel curto às 12h e longo às 20h, entrega pelo Telegram | `caixeiro-diario.yml` | 12h e 20h (Brasília); Story às 20h |
 | Renova o token do Instagram | `renovar-token.yml` | toda segunda |
 | Abre issue se a fila estiver baixa | `vigia-fila.yml` | todo dia |
 | Compacta o histórico do Git (vídeos velhos) | `compactar-historico.yml` | domingo |
@@ -51,8 +51,8 @@ O repositório precisa ser **público** (o Instagram baixa o vídeo pelo link ra
 ### Primeira vez
 
 1. Actions → **Produzir episódios** → *Run workflow* (renderiza os 9 primeiros, ~1–2 h).
-2. Actions → **Publicar** → *Run workflow* com `dry_run = true` — confere a prévia e o WhatsApp.
-3. Tudo certo? Mude `PUBLICAR_ATIVO` para `true`. A partir daí é automático.
+2. Actions → **Caixeiro — 12h curto / 20h longo** → *Run workflow* com `dry_run = true` — confere a prévia e o WhatsApp.
+3. Tudo certo? A rotina `caixeiro-diario.yml` publica automaticamente às 12h (curto) e 20h (longo), usando as credenciais da conta. O workflow `publicar.yml` antigo é apenas manual.
 
 ## Regras do personagem
 
@@ -113,3 +113,12 @@ nao deve ser confundido com animacao de membros independente por personagem.
 O Caixeiro usa Kokoro `pm_alex:0.62+pm_santa:0.38`. AntonioNeural é a reserva se a síntese local falhar.
 
 A narração termina com um único convite de envio ligado ao assunto do vídeo.
+
+
+## Experimento de retenção — 10 a 23 de novembro de 2026
+
+- Às **12h BRT**, publicar um Reel curto de **45–75 segundos**.
+- Às **20h BRT**, publicar um Reel longo completo (com Story, como antes).
+- Agendamento no GitHub Actions: `0 15 * * *` e `0 23 * * *` (UTC).
+- O abastecimento de estoque escolhe roteiros curtos e longos separadamente.
+- O banco atual de curtos (`conteudo/curtos_teste.json`) contém **14 episódios**; para manter a publicação diária após o teste, é necessário ampliar esse banco e remover a janela limitada em `motor/formatos.py`.
