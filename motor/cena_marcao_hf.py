@@ -109,7 +109,11 @@ class MarcaoBase(Scene):
             # balanço do carro: leve, com "buraco" de vez em quando
             bump = 0.05 * max(0, np.sin(t * 0.9)) ** 12
             pos_cab = home + np.array([.03 * np.sin(t * 1.1), .025 * np.sin(t * 3.3) + bump, 0])
-            m.shift(pos_cab - p['cab'].get_center())
+            deslocamento = pos_cab - p['cab'].get_center()
+            m.shift(deslocamento)
+            # O adesivo adiciona 'grupo' e 'volante' separadamente à Scene.
+            # Logo o updater deve estar em 'grupo' (na cena) e mover o volante também.
+            p['volante'].shift(deslocamento)
 
             if marcha_ativa:
                 # Descer a mão direita até o câmbio, pausar e voltar ao volante.
@@ -127,7 +131,7 @@ class MarcaoBase(Scene):
                 ajustar_membro(p['bracos'][4], ombro + .50 * (cotovelo - ombro), cotovelo)
                 ajustar_membro(p['bracos'][5], cotovelo, mao)
                 p['mao_d'].move_to(mao)
-        p['tudo'].add_updater(motion)
+        p['grupo'].add_updater(motion)
         ML.animar(self, p, cues)
         self.wait(segs[-1]['fim'] + 2.2)
 
