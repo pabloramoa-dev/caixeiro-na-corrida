@@ -292,7 +292,8 @@ def marcao(expr="neutra", cenario="noite"):
     face = rosto(expr, c)
     grupo = VGroup(pesc, polo, gola, vista, bracos, relogio,
                    orelhas, cab, barba, pelos, cost, nariz, bigode, copa, costuras, botao, escudo, aba, face)
-    return dict(grupo=grupo, cab=cab, rosto=face, volante=volante, roda=roda, expr=expr,
+    return dict(grupo=grupo, cab=cab, rosto=face, volante=volante, roda=roda,
+                bracos=bracos, mao_d=maos[1], expr=expr,
                 tudo=VGroup(grupo, volante))
 
 
@@ -458,6 +459,20 @@ def carro(cenario="noite"):
     # painel embaixo
     painel = Polygon([-W / 2 - 1, -4.3, 0], [W / 2 + 1, -4.0, 0], [W / 2 + 1, -H / 2 - 1, 0], [-W / 2 - 1, -H / 2 - 1, 0],
                      fill_color="#232229", fill_opacity=1, stroke_color=PT, stroke_width=12)
+    # Câmbio manual visível no console, ao lado direito do volante.
+    # Fica fixo no carro para a mão animada alcançar a mesma posição a cada troca.
+    base_cambio = RoundedRectangle(width=0.94, height=0.46, corner_radius=0.14,
+                                   fill_color="#12121b", fill_opacity=1,
+                                   stroke_color=PT, stroke_width=8).move_to([2.10, -5.60, 0])
+    haste_cambio = _curva([[2.10, -5.50, 0], [2.07, -5.22, 0], [2.10, -4.98, 0]],
+                          stroke_color="#a0a4ad", stroke_width=23)
+    manopla = RoundedRectangle(width=0.43, height=0.48, corner_radius=0.20,
+                               fill_color="#353643", fill_opacity=1,
+                               stroke_color=PT, stroke_width=7).move_to([2.10, -4.92, 0])
+    brilho_cambio = Line([2.00, -4.99, 0], [2.02, -4.80, 0],
+                         stroke_color="#8b9099", stroke_width=4)
+    cambio = VGroup(base_cambio, haste_cambio, manopla, brilho_cambio)
+
     # celular no suporte com o mapa aberto (lado direito)
     cel_c = np.array([2.85, -2.75, 0])
     tela = RoundedRectangle(width=1.05, height=1.85, corner_radius=0.12, fill_color="#e6efe2", fill_opacity=1,
@@ -493,5 +508,6 @@ def carro(cenario="noite"):
     reflexo = Polygon([-W / 2, 6, 0], [-W / 2 + 1.6, 6, 0], [-W / 2 + 4.2, -2.6, 0], [-W / 2 + 3.0, -2.6, 0],
                       fill_color=WHITE, fill_opacity=0.04, stroke_width=0)
     neon = VGroup()  # o neon UBER/99 fica no canto da tela (camada HyperFrames)
-    return dict(grupo=VGroup(g, luzes, chuva, reflexo, moldura, encosto, painel, celular), neon=neon,
-                frente=VGroup(retro, terco), luzes=luzes, chuva=chuva, terco=terco)
+    return dict(grupo=VGroup(g, luzes, chuva, reflexo, moldura, encosto, painel, celular, cambio), neon=neon,
+                frente=VGroup(retro, terco), luzes=luzes, chuva=chuva, terco=terco,
+                cambio=cambio, manopla=manopla)
