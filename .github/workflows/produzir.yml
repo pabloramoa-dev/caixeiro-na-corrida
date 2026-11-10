@@ -13,6 +13,11 @@ on:
       alvo:
         description: "Só renderiza se houver menos que isto de vídeos prontos"
         default: "3"
+      formato:
+        description: "Fila de produção"
+        type: choice
+        options: [curto, longo]
+        default: longo
   workflow_call:
     inputs:
       limite:
@@ -21,6 +26,9 @@ on:
       alvo:
         type: string
         default: "3"
+      formato:
+        type: string
+        default: "longo"
 
 concurrency:
   group: caixeiro-estudio
@@ -47,7 +55,7 @@ jobs:
         run: |
           LIM="${{ inputs.limite || '1' }}"
           ALVO="${{ inputs.alvo || '3' }}"
-          python motor/pendentes.py --rel --alvo-prontos "$ALVO" --limite "$LIM" > /tmp/p.txt
+          python motor/pendentes.py --rel --alvo-prontos "$ALVO" --limite "$LIM" --formato "${{ inputs.formato || 'longo' }}" > /tmp/p.txt
           cat /tmp/p.txt
           echo "lista=$(python -c "import json;print(json.dumps(open('/tmp/p.txt').read().split()))")" >> $GITHUB_OUTPUT
           echo "qtd=$(wc -l < /tmp/p.txt)" >> $GITHUB_OUTPUT
