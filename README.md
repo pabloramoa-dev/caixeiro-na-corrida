@@ -107,3 +107,9 @@ sem mudar Caixeiro, voz, lip sync, legendas inferiores, ganchos nem publicacao.
 
 O visual das ilustracoes e de **animacao de camera sobre quadros 2D**:
 nao deve ser confundido com animacao de membros independente por personagem.
+
+## Vozes e encerramento dos Reels
+
+O Caixeiro usa Kokoro `pm_alex:0.62+pm_santa:0.38`. AntonioNeural é a reserva se a síntese local falhar.
+
+A narração termina com um único convite de envio ligado ao assunto do vídeo.

@@ -53,14 +53,15 @@ def main():
     sys.path.insert(0, MOTOR)
     os.environ.setdefault("NINA_MAX_DUR", "240")
     os.environ.setdefault("NINA_FOTOS", "1")
-    os.environ["MARCAO_VOZ"] = VOZ
+    os.environ["MARCAO_VOZ"] = "pm_alex:0.62+pm_santa:0.38"
     from cta import garantir_cta
     from render_version import versao
     from ganchos_caixeiro import aplicar_ganchos
     from formatos import CURTOS, preparar_curto
     from compilar_roteiros import atuar
     ep = json.load(open(a.episodio, encoding="utf-8"))
-    ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(garantir_cta(ep))
+    ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(ep)
+    ep = garantir_cta(ep)
     atuar(ep["batidas"])
     # Gancho de antecipação + micro-reenganche antes da voz e das ilustrações.
     # O arquivo-fonte e os registros de publicação permanecem intactos.
@@ -79,14 +80,13 @@ def main():
     if not os.path.exists(P("voz.wav")):
         open(P("roteiro.txt"), "w", encoding="utf-8").write("\n".join(b["fala"] for b in ep["batidas"]) + "\n")
         try:
-            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_thalita.py"), P("roteiro.txt"),
-                "--voice", VOZ, f"--rate={RATE}", "--gap", str(GAP),
+            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_kokoro.py"), P("roteiro.txt"),
+                "--voz", os.environ["MARCAO_VOZ"], "--speed", "1.0", "--gap", str(GAP),
                 "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
         except subprocess.CalledProcessError:
-            print("::warning::Voz Antonio indisponível; usando Kokoro pm_alex.", flush=True)
-            os.environ["MARCAO_VOZ"] = "kokoro pm_alex"
-            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_kokoro.py"), P("roteiro.txt"),
-                "--voz", "pm_alex", "--speed", "1.0", "--gap", str(GAP),
+            os.environ["MARCAO_VOZ"] = VOZ
+            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_thalita.py"), P("roteiro.txt"),
+                "--voice", VOZ, f"--rate={RATE}", "--gap", str(GAP),
                 "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
         if "reenganche_indice" in ep:
             from ritmo import sincronizar
