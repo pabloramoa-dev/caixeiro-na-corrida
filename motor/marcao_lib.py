@@ -381,8 +381,8 @@ def _neon(txt, cor, largura):
 
 def letreiro_neon():
     """UBER (rosa) e 99 (âmbar) acesos no canto da janela."""
-    uber = _neon("UBER", "#ff4fd8", 1.25)
-    noventa = _neon("99", "#ffb020", 0.75).next_to(uber, DOWN, buff=0.22)
+    uber = _neon("RÁDIO", "#ff4fd8", 1.25)
+    noventa = _neon("CX", "#ffb020", 0.75).next_to(uber, DOWN, buff=0.22)
     g = VGroup(uber, noventa)
     fundo = RoundedRectangle(width=g.width + 0.45, height=g.height + 0.45, corner_radius=0.12,
                              fill_color="#07070f", fill_opacity=0.55, stroke_color="#2a2a3a", stroke_width=4).move_to(g)

@@ -92,15 +92,14 @@ jobs:
             saida_reels/${{ steps.alvo.outputs.id }}-capa.jpg
             saida_reels/${{ steps.alvo.outputs.id }}-render.json
           retention-days: 7
-      - name: Guardar MP4 no repositorio (nao publicar)
+      - name: Guardar mídia na Release
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          id="${{ steps.alvo.outputs.id }}"
-          mkdir -p reels
-          cp "saida_reels/$id.mp4" "reels/$id.mp4"
-          test -f "saida_reels/$id-capa.jpg" && cp "saida_reels/$id-capa.jpg" "reels/$id-capa.jpg" || true
+          python motor/release_media.py saida_reels
           git config user.name "caixeiro-bot"
           git config user.email "actions@github.com"
-          git add "reels/$id.mp4" "reels/$id-capa.jpg"
+          git add reels/*-release.json reels/*-render.json
           git diff --cached --quiet && exit 0
           git commit -m "avulso: MP4 $id [skip ci]"
           for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 7; done

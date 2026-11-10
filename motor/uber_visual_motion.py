@@ -48,6 +48,26 @@ def preparar(ep, segs, assets, dur, intervalo=INTERVALO, gerador=None):
         data = desenhista(cena, ep)
         if not isinstance(data, bytes) or not data.startswith(bytes.fromhex("89504e470d0a1a0a")):
             raise ValueError("Ilustração inválida")
+        if gerador is None:
+            import io
+            import cairosvg
+            from PIL import Image, ImageDraw
+            try:
+                from .objetos_fala import OBJETOS, objeto
+            except ImportError:
+                from objetos_fala import OBJETOS, objeto
+            nome = objeto(cena['text'])
+            if nome:
+                fundo = Image.open(io.BytesIO(data)).convert('RGB')
+                lado = fundo.height // 3
+                icone = Image.open(io.BytesIO(cairosvg.svg2png(bytestring=OBJETOS[nome].encode(),
+                                       output_width=lado, output_height=lado))).convert('RGBA')
+                x,y = fundo.width-lado-18,18
+                ImageDraw.Draw(fundo).rounded_rectangle((x-5,y-5,x+lado+5,y+lado+5),radius=10,fill='#fff1cc')
+                fundo.paste(icone,(x,y),icone)
+                fundo.save(assets/name)
+                nomes.append(name)
+                continue
         (assets / name).write_bytes(data)
         nomes.append(name)
     return nomes

@@ -31,16 +31,11 @@ def duracao(p):
 
 
 def comprimir(mp4):
-    """Mantém o MP4 abaixo de LIMITE_MB (o GitHub recusa arquivo > 100 MB)."""
-    mb = os.path.getsize(mp4) / 1e6
-    if mb <= LIMITE_MB:
-        return mb
-    d = duracao(mp4)
-    kbps = int((LIMITE_MB * 8000 * 0.92) / d) - 160
     tmp = mp4 + ".tmp.mp4"
-    sh(["ffmpeg", "-y", "-loglevel", "error", "-i", mp4, "-c:v", "libx264", "-preset", "medium",
-        "-b:v", f"{kbps}k", "-maxrate", f"{int(kbps*1.3)}k", "-bufsize", f"{kbps*2}k",
-        "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", tmp])
+    sh(["ffmpeg", "-y", "-loglevel", "error", "-i", mp4, "-c:v", "libx264", "-preset", "fast",
+        "-b:v", "5400k", "-minrate", "5400k", "-maxrate", "5400k", "-bufsize", "5400k",
+        "-x264-params", "nal-hrd=cbr:force-cfr=1", "-pix_fmt", "yuv420p",
+        "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", tmp])
     os.replace(tmp, mp4)
     return os.path.getsize(mp4) / 1e6
 
@@ -58,7 +53,11 @@ def main():
     from cta import garantir_cta
     from render_version import versao
     from ganchos_caixeiro import aplicar_ganchos
-    ep = aplicar_ganchos(garantir_cta(json.load(open(a.episodio, encoding="utf-8"))))
+    from formatos import CURTOS, preparar_curto
+    from compilar_roteiros import atuar
+    ep = json.load(open(a.episodio, encoding="utf-8"))
+    ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(garantir_cta(ep))
+    atuar(ep["batidas"])
     # Gancho de antecipação + micro-reenganche antes da voz e das ilustrações.
     # O arquivo-fonte e os registros de publicação permanecem intactos.
     ep["avulso"] = True
@@ -85,6 +84,9 @@ def main():
             sh([sys.executable, os.path.join(MOTOR, "gerar_voz_kokoro.py"), P("roteiro.txt"),
                 "--voz", "pm_alex", "--speed", "1.0", "--gap", str(GAP),
                 "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
+        if "reenganche_indice" in ep:
+            from ritmo import sincronizar
+            sincronizar(P("bruta.wav"), P("segs.json"), ep["reenganche_indice"], ep.get("formato") == "curto")
         from audio_fx import masterizar_voz
         print("master da voz:", masterizar_voz(P("bruta.wav"), P("voz.wav")), flush=True)
 
@@ -99,9 +101,10 @@ def main():
     print(f"tamanho final: {comprimir(final):.1f} MB", flush=True)
 
     if not os.path.exists(P("capa.jpg")):
-        # capa = quadro do título (primeiros segundos), já com a marca do canal
-        sh(["ffmpeg", "-y", "-loglevel", "error", "-ss", "2.2", "-i", final, "-frames:v", "1",
-            "-q:v", "3", P("capa.jpg")])
+        from capa_caixeiro import criar
+        criar(ep, pasta)
+    if ep.get("formato") == "curto" and not 45 <= duracao(final) <= 75:
+        raise ValueError("Curto fora do intervalo de 45–75 segundos")
 
     open(P("legenda.txt"), "w", encoding="utf-8").write(ep["legenda_post"] + "\n")
     open(P("legenda_tiktok.txt"), "w", encoding="utf-8").write(ep.get("legenda_tiktok", "") + "\n")

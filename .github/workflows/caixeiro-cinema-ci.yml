@@ -26,7 +26,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: Install Pillow
-        run: python -m pip install Pillow
+        run: python -m pip install Pillow CairoSVG==2.7.1
       - name: Verificar Python e gerar imagens reais
         run: |
           python -m compileall -q motor/cinematic_story_art.py motor/uber_visual_motion.py motor/render_version.py

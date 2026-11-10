@@ -7,3 +7,5 @@ edge-tts==7.2.8
 pedalboard==0.9.25
 
 requests>=2.32,<3
+
+CairoSVG==2.7.1

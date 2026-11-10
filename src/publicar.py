@@ -21,8 +21,12 @@ from src.instagram import Publicador
 
 
 def publicar_story(pub: Publicador, cfg, ep_id: str) -> str:
-    arq = f"{ep_id}-story.mp4" if (config.REELS / f"{ep_id}-story.mp4").exists() else f"{ep_id}.mp4"
-    container = pub.criar_container_story(f"{cfg.raw_base_url}/reels/{arq}")
+    registro = fila.release(ep_id)
+    if registro:
+        url = registro['urls'][f'{ep_id}-story.mp4']
+    else:
+        url = f"{cfg.raw_base_url}/reels/{ep_id}-story.mp4" if (config.REELS / f"{ep_id}-story.mp4").exists() else f"{cfg.raw_base_url}/reels/{ep_id}.mp4"
+    container = pub.criar_container_story(url)
     pub.aguardar_pronto(container)
     return pub.publicar(container)
 
@@ -35,6 +39,11 @@ def main() -> int:
 
     dry = config._flag("DRY_RUN", "true")
     ig_ligado = config._flag("PUBLICAR_ATIVO", "false") and not dry
+    hoje = fila.datetime.now(fila.BRT).date()
+    if fila.no_teste(hoje):
+        if a.horario == 'manha' or any(p.get('dia_teste') == str(hoje) and p.get('horario') == a.horario for p in fila.ler_publicados()):
+            return 0
+        ig_ligado = not dry
     cfg = config.carregar(exigir_credenciais=ig_ligado)
     ep_id = fila.proximo(a.horario)
     if ep_id is None:
@@ -47,9 +56,15 @@ def main() -> int:
     ep = fila.carregar_ep(ep_id)
     video = f"{cfg.raw_base_url}/reels/{ep_id}.mp4"
     capa = f"{cfg.raw_base_url}/reels/{ep_id}-capa.jpg"
+    registro = fila.release(ep_id)
+    if registro:
+        video = registro['urls'][ep_id+'.mp4']
+        capa = registro['urls'][ep_id+'-capa.jpg']
+    if "ficção" not in ep["legenda_post"].lower():
+        ep["legenda_post"] += "\n\nHistória de ficção."
     rel = {"horario": config.HORARIOS[a.horario], "id": ep_id, "titulo": ep["titulo"],
            "video": video, "capa": capa, "story": com_story,
-           "duracao": round(fila.duracao(config.REELS / f"{ep_id}.mp4"), 1)}
+           "duracao": round(registro["duracao"] if registro else fila.duracao(config.REELS / f"{ep_id}.mp4"), 1)}
 
     if dry:
         rel.update(ok=True, ensaio=True, motivo="DRY_RUN ligado",
@@ -85,7 +100,7 @@ def main() -> int:
     rel["whatsapp"] = zap
 
     if media_id or zap:
-        fila.gravar_publicado(ep_id, media_id, dry=False, instagram=bool(media_id), whatsapp=zap)
+        fila.gravar_publicado(ep_id, media_id, dry=False, instagram=bool(media_id), whatsapp=zap, horario=a.horario, dia_teste=str(hoje) if fila.no_teste(hoje) else None, formato="curto" if ep_id in fila.CURTOS else "longo", duracao=rel["duracao"])
     rel["ok"] = True
     print(json.dumps(rel, ensure_ascii=False, indent=1))
     return 0

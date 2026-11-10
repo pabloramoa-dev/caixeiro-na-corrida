@@ -67,7 +67,7 @@ def _norm(w):
 
 def palavras_chave(b, palavras):
     """Índices das palavras da fala que recebem destaque (máx. 2 por batida)."""
-    pedidas = b.get("hf", {}).get("destaque")
+    pedidas = b.get("destaque") or b.get("hf", {}).get("destaque")
     if pedidas:
         alvo = {_norm(x) for x in pedidas}
         return {i for i, w in enumerate(palavras) if _norm(w) in alvo}
@@ -155,7 +155,7 @@ def legenda(i, b, s, ws, kws, z_fim):
                 cls = ' class="kw"' if k in kws else ''
                 spans.append(f'<span id="v{i}_{k}"{cls}>{html.escape(w)}{pts}</span>')
                 k += 1
-            html_lin.append('<span class="ln">' + "".join(spans) + "</span>")
+            html_lin.append('<span class="ln">' + " ".join(spans) + "</span>")
         parts.append(f'<div id="cap{i}_{gi}" class="clip caps" data-start="{ini}" data-duration="{max(.05, fim - ini)}" '
                      f'data-track-index="3"><div class="speaker">NINA ME CONTOU</div><br>'
                      f'<div class="pill" style="font-size:{size}px">{"".join(html_lin)}</div></div>')

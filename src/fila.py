@@ -16,6 +16,7 @@ import re
 import subprocess
 from datetime import datetime, timezone, timedelta
 
+from motor.formatos import CURTOS, no_teste
 from src import config
 from motor.render_version import versao
 
@@ -53,6 +54,9 @@ def assinatura(ep_id: str) -> str:
 
 
 def desatualizado(ep_id: str) -> bool:
+    registro = release(ep_id)
+    if registro:
+        return registro["assinatura"] != assinatura(ep_id)
     if not (config.REELS / f"{ep_id}.mp4").exists():
         return True
     h = config.REELS / f"{ep_id}.hash"
@@ -61,8 +65,13 @@ def desatualizado(ep_id: str) -> bool:
     return ep_id not in ids_publicados()
 
 
+def release(ep_id):
+    path = config.REELS / f"{ep_id}-release.json"
+    return json.loads(path.read_text()) if path.exists() else {}
+
+
 def pronto(ep_id: str) -> bool:
-    return (config.REELS / f"{ep_id}-capa.jpg").exists() and not desatualizado(ep_id)
+    return (bool(release(ep_id)) or (config.REELS / f"{ep_id}-capa.jpg").exists()) and not desatualizado(ep_id)
 
 
 def episodios() -> list[str]:
@@ -79,6 +88,10 @@ def prontos_nao_publicados() -> list[str]:
 
 def proximo(horario: str | None = None) -> str | None:
     lista = prontos_nao_publicados()
+    if horario and no_teste(datetime.now(BRT).date()):
+        if horario == "manha":
+            return None
+        lista = [e for e in lista if (e in CURTOS) == (horario == "almoco")]
     return lista[0] if lista else None
 
 

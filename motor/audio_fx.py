@@ -156,3 +156,12 @@ def finalizar(mix: np.ndarray, sr: int) -> np.ndarray:
         return mix * min(1.0, TETO_MIX / pico)
     lim = pb.Pedalboard([pb.Limiter(threshold_db=-1.5, release_ms=60)])
     return np.clip(lim(mix.astype(np.float32)[np.newaxis, :], sr)[0], -0.99, 0.99)
+
+
+def normalizar_mix(arquivo, sr):
+    """Normaliza a mixagem completa a -16 LUFS, com teto de -1,5 dBTP."""
+    destino = arquivo.with_suffix('.normalizado.wav')
+    subprocess.run(['ffmpeg','-y','-v','error','-i',str(arquivo),'-af',
+                    'loudnorm=I=-16:TP=-1.5:LRA=11','-ar',str(sr),
+                    '-c:a','pcm_s16le',str(destino)], check=True)
+    os.replace(destino,arquivo)

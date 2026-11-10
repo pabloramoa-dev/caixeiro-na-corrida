@@ -1,7 +1,7 @@
 """Versão visual/voz usada pelo estúdio e pela fila; não carrega o renderizador."""
 import os,json,hashlib
 from pathlib import Path
-HYPERFRAMES_VERSION = 'caixeiro-hyperframes-4-gancho-reenganche-cinema2d'
+HYPERFRAMES_VERSION = 'caixeiro-hyperframes-5-gancho-reenganche-cinema2d'
 def versao():
     motor = os.environ.get('NINA_MOTOR', 'hyperframes')
     if motor not in ('hyperframes', 'manim'):

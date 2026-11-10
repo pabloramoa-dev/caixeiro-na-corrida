@@ -6,10 +6,13 @@ com marca de versão para impedir alterações duplicadas.
 """
 from __future__ import annotations
 
+import json
+from pathlib import Path
 import copy
 import re
 
-VERSAO = "caixeiro-antecipacao-e-reenganche-v1"
+GANCHOS = json.loads((Path(__file__).resolve().parents[1]/"conteudo/ganchos.json").read_text())
+VERSAO = "caixeiro-antecipacao-e-reenganche-v2"
 ABERTURA_COMUM = re.compile(r"^\s*(?:Sobe a[ií][,!]?|Entra a[ií][,!]?|Puxa uma cadeira[,!]?)\b", re.I)
 INICIOS = re.compile(r"^(?:A[ií][, ]+|E a[ií][, ]+|Mas[, ]+|S[oó] que[, ]+|Foi quando[, ]+|Ent[aã]o[, ]+)", re.I)
 EXCLUIR = re.compile(
@@ -84,42 +87,31 @@ def aplicar_ganchos(ep: dict) -> dict:
     if not all(isinstance(b, dict) and str(b.get("fala", "")).strip() for b in beats):
         return out
 
-    # Evita antecipar revelações da parte final: teaser somente em 30–65%.
-    opener = beats[0]["fala"].strip()
-    candidatos = _opcoes(out, 0.30, 0.65)
-    escolhido = candidatos[0] if candidatos else None
-    if ABERTURA_COMUM.search(opener) and escolhido:
-        _, indice, pista = escolhido
-        beats[0]["fala"] = (
-            f"{pista} E eu ainda não fazia ideia de como essa corrida ia terminar."
-        )
-        beats[0]["expr"] = "desconfiada" if beats[0].get("expr") == "neutra" else beats[0].get("expr", "neutra")
-        beats[0]["destaque"] = pista.split()[-2:]
-        # O título existe para o editor, não para recontar as legendas no topo.
-        out["gancho_origem"] = indice
-        out["gancho_pista"] = pista
-        out["gancho_modelo"] = "antecipacao_factual"
-    else:
-        out["gancho_modelo"] = "abertura_editorial_preservada"
-
-    # Reengaja no meio com uma cena real que a narrativa ainda vai explicar.
-    n = len(beats)
-    meio = _opcoes(out, 0.48, 0.73)
-    escolhido_meio = next((v for v in meio if v[1] != out.get("gancho_origem")), None)
-    if escolhido_meio:
-        _, indice, _ = escolhido_meio
-        anterior = beats[indice]["fala"].strip()
-        if not re.match(r"^(?:mas presta aten[cç][aã]o|olha o que veio depois)\b", anterior, re.I):
-            categoria = str(out.get("categoria", "")).lower()
-            if categoria == "humor":
-                prefixo = "E olha a situação que veio agora: "
-            elif categoria in {"reflexao", "superacao", "emocao"}:
-                prefixo = "Mas presta atenção no detalhe dessa corrida: "
-            else:
-                prefixo = "Só que olha o que aconteceu depois: "
-            beats[indice]["fala"] = prefixo + _limpar(anterior)
-            out["reenganche_indice"] = indice
-            out["reenganche_modelo"] = "mudanca_de_cena_factual"
+    try:
+        from .objetos_fala import objeto
+        from .compilar_roteiros import atuar
+    except ImportError:
+        from objetos_fala import objeto
+        from compilar_roteiros import atuar
+    pista = re.sub(r"^Sobe aí, porque ", "", beats[0]["fala"], flags=re.I)
+    if not objeto(pista) or "me fez lembrar" in pista:
+        for beat in beats[2:max(4, len(beats)//2)]:
+            if objeto(beat["fala"]):
+                pista = beat["fala"]
+                break
+    if "me fez lembrar" in pista:
+        pista = beats[2]["fala"]
+    item = objeto(pista)
+    pista = pista[:1].upper() + pista[1:]
+    if "?" not in pista:
+        pergunta = "O que aconteceu depois disso no banco de trás?"
+        pista += " " + pergunta
+    beats[0]["fala"] = GANCHOS.get(out.get("id"), pista)
+    beats[1]["fala"] = re.sub(r"^Eu sou o Caixeiro[,.:! ]*(?:e )?", "", beats[1]["fala"], flags=re.I).capitalize() if beats[1]["fala"].lower().startswith("eu sou o caixeiro") else beats[1]["fala"]
+    idx = min(range(1, len(beats)-2), key=lambda i: abs(sum(len(b["fala"].split()) for b in beats[:i])-54))
+    beats[idx]["fala"] = "Só que tinha um detalhe. " + _limpar(beats[idx]["fala"])
+    out["reenganche_indice"] = idx
+    atuar(beats)
     out["gancho_versao"] = VERSAO
     return out
 

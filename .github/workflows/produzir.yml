@@ -112,9 +112,11 @@ jobs:
         with:
           pattern: reel-*
           merge-multiple: true
-          path: reels/
-      - name: Conferir a fila
-        run: python -m src.fila || true
+          path: saida_reels/
+      - name: Enviar mídia às Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python motor/release_media.py saida_reels
       - name: Gravar no repositório
         run: |
           git config user.name "caixeiro-bot"

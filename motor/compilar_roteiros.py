@@ -42,9 +42,40 @@ TAGS_FIXAS_TT = "#historias #motoristadeaplicativo #uber #fyp #caixeironacorrida
 
 
 def destaque(fala: str) -> list[str]:
-    palavras = fala.split()
-    fortes = [w for w in palavras if re.sub(r"\W", "", w.lower()) not in STOP]
-    return (fortes or palavras)[-2:]
+    palavras = re.findall(r"[\wÀ-ÿ]+", fala)
+    numeros = set("dois duas três quatro cinco seis sete oito nove dez doze vinte cem mil".split())
+    viradas = set("descobriu revelou sumiu abriu cancelado segredo surpresa desapareceu".split())
+    candidatas = [(i, w) for i, w in enumerate(palavras)
+                  if w.lower() not in STOP and (len(w) > 2 or w.isdigit())]
+    def peso(item):
+        i, w = item
+        return (w.isdigit() or w.lower() in numeros, i > 0 and w.istitle(),
+                w.lower() in viradas, len(w))
+    return [w for _, w in sorted(candidatas, key=peso, reverse=True)[:2]]
+
+
+def atuar(batidas):
+    limite = int(len(batidas) * .30)
+    neutras = 0
+    for b in batidas:
+        fala = b["fala"]
+        b["destaque"] = destaque(fala)
+        if b.get("expr") != "neutra":
+            continue
+        for padrao, expr in [(r"chor|saudade|sozinh|triste", "triste"),
+                             (r"risad|sorri|gargalh", "rindo"),
+                             (r"assust|surpresa|de repente", "chocada"),
+                             (r"raiva|brig|gritou", "brava"),
+                             (r"\?|dúvida|pergunt", "desconfiada")]:
+            if re.search(padrao, fala, re.I):
+                b["expr"] = expr
+                break
+        else:
+            if neutras < limite:
+                neutras += 1
+            else:
+                b["expr"] = "desconfiada"
+    return batidas
 
 
 def legendas(cab: dict) -> tuple[str, str]:

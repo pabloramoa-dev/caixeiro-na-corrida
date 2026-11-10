@@ -1,0 +1,30 @@
+name: Comparar retenção dos Reels
+on:
+  schedule:
+    - cron: '45 15,23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: caixeiro-publicacao
+  cancel-in-progress: false
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: pip install -r requirements.txt
+      - run: python -m src.retencao
+        env:
+          IG_ACCESS_TOKEN_CAIXEIRO: ${{ secrets.IG_ACCESS_TOKEN_CAIXEIRO }}
+          GRAPH_API_VERSION: ${{ vars.GRAPH_API_VERSION }}
+      - run: |
+          test -f conteudo/retencao_teste.json || exit 0
+          git config user.name caixeiro-bot
+          git config user.email actions@github.com
+          git add conteudo/retencao_teste.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Medir retenção do teste [skip ci]"
+          git pull --rebase origin main && git push origin main
