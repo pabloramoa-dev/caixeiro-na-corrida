@@ -88,6 +88,10 @@ def prontos_nao_publicados() -> list[str]:
 
 def proximo(horario: str | None = None) -> str | None:
     lista = prontos_nao_publicados()
+    if horario == "diario":
+        # 18h: só episódios completos de ~3 min (os curtos de teste ficam fora).
+        lista = [e for e in lista if e not in CURTOS]
+        return lista[0] if lista else None
     if horario and no_teste(datetime.now(BRT).date()):
         if horario == "manha":
             return None
