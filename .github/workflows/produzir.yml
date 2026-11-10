@@ -1,21 +1,26 @@
 name: Produzir episódios
 
-# Renderiza os próximos roteiros de episodios/ que ainda não têm MP4 em reels/
-# (mantém ~3 dias de vídeos prontos). Cada episódio numa máquina, em paralelo.
+# Renderiza o próximo roteiro de episodios/ que ainda não tem vídeo pronto.
+# UM episódio por vez: é chamado pela rotina diária (caixeiro-diario.yml) ou à mão.
 # Nada é publicado aqui. O CTA (coração + seguir) entra sozinho no final.
 
 on:
-  push:
-    branches: [main]
-    paths: ["episodios/**", "motor/**", "src/fila.py", "video/**", ".github/actions/setup-hyperframes/**", ".github/workflows/produzir.yml", "requirements-estudio.txt"]
-  schedule:
-    - cron: "40 4 * * *"    # 01:40 Brasília
-    - cron: "40 16 * * *"   # 13:40 Brasília
   workflow_dispatch:
     inputs:
       limite:
         description: "Máximo de episódios a renderizar nesta execução"
-        default: "9"
+        default: "1"
+      alvo:
+        description: "Só renderiza se houver menos que isto de vídeos prontos"
+        default: "3"
+  workflow_call:
+    inputs:
+      limite:
+        type: string
+        default: "1"
+      alvo:
+        type: string
+        default: "3"
 
 concurrency:
   group: caixeiro-estudio
@@ -40,8 +45,9 @@ jobs:
       - run: sudo apt-get update && sudo apt-get install -y ffmpeg
       - id: l
         run: |
-          LIM="${{ inputs.limite || '9' }}"
-          python motor/pendentes.py --rel --alvo-prontos 9 --limite "$LIM" > /tmp/p.txt
+          LIM="${{ inputs.limite || '1' }}"
+          ALVO="${{ inputs.alvo || '3' }}"
+          python motor/pendentes.py --rel --alvo-prontos "$ALVO" --limite "$LIM" > /tmp/p.txt
           cat /tmp/p.txt
           echo "lista=$(python -c "import json;print(json.dumps(open('/tmp/p.txt').read().split()))")" >> $GITHUB_OUTPUT
           echo "qtd=$(wc -l < /tmp/p.txt)" >> $GITHUB_OUTPUT
@@ -53,7 +59,7 @@ jobs:
     timeout-minutes: 240
     strategy:
       fail-fast: false
-      max-parallel: 9
+      max-parallel: 1
       matrix:
         episodio: ${{ fromJson(needs.listar.outputs.lista) }}
     steps:
