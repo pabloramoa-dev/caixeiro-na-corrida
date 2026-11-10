@@ -1,21 +1,21 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-4-gancho-reenganche-cinema2d",
+  "versao": "caixeiro-hyperframes-5-gancho-reenganche-cinema2d",
   "fotos": 0,
-  "duracao": 153.516,
+  "duracao": 66.1508,
   "resolucao": [
     1080,
     1920
   ],
   "fps": 30,
   "voz": "kokoro pm_alex",
-  "audio": "pedalboard",
-  "sfx": 75,
+  "audio": "ffmpeg",
+  "sfx": 27,
   "visual": "v4",
   "lip": "rhubarb",
   "cenario": "dia",
-  "batidas": 18,
-  "illustrations": 22,
+  "batidas": 8,
+  "illustrations": 10,
   "illustration_interval": 7.0,
   "animated_support": true,
   "support_source": "original_local"
