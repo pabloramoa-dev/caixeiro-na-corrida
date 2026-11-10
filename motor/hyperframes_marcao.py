@@ -108,7 +108,6 @@ def compor(ep,segs,pasta):
         if i:
             anim.append(f'tl.fromTo("#c{i}",{{y:55,rotation:{-3 if i%2 else 3},scale:.94,opacity:0}},{{y:0,rotation:0,scale:1,opacity:1,duration:.42,immediateRender:false,ease:"back.out(1.15)"}},{a});')
         anim.append(f'tl.to("#c{i} .art",{{y:-8,duration:{max(.1,d-.5)},ease:"none"}},{a+.5});')
-        anim.append(f'tl.to("#base",{{scale:{1.10 if b.get("zoom") or b.get("expr")=="chocada" else 1.02},x:{-12 if i%2 else 12},duration:.55,ease:"power2.inOut"}},{a});')
         if SFX.tem_wipe(b,i):
             anim.append(f'tl.fromTo("#wipe",{{x:"-110%"}},{{x:"110%",duration:.48,immediateRender:false,ease:"power2.inOut"}},{a});')
         if SFX.tem_flash(b,i):
@@ -181,7 +180,7 @@ def compor(ep,segs,pasta):
         i = next((j for j, seg in enumerate(segs) if seg['fim'] > t), len(segs)-1)
         forte = ep['batidas'][i]['expr'] in ('chocada', 'brava', 'triste')
         plano = 1.38 if (forte or t % 15 == 10) and ultimo != 1.38 else (1.17 if ultimo == 1 else 1)
-        anim.append(f'tl.set("#base",{{scale:{plano},transformOrigin:"50% 60%"}},{t});')
+        anim.append(f'tl.set("#base",{{scale:{plano},transformOrigin:"51% 49%"}},{t});')
         ultimo = plano
     modelo = Template(Path(__file__).with_name('caixeiro.html').read_text())
     out = modelo.substitute(dur=dur, estilo=V4.CSS if v4 else '', classe='v4' if v4 else '',

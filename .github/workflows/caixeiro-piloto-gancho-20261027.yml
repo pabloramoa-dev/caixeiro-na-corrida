@@ -27,6 +27,7 @@ jobs:
             .github/actions/setup-hyperframes
             assets
             motor
+            conteudo
             src
             video
             tests

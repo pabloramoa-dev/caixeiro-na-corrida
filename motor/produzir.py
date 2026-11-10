@@ -36,6 +36,10 @@ def comprimir(mp4):
         "-b:v", "5400k", "-minrate", "5400k", "-maxrate", "5400k", "-bufsize", "5400k",
         "-x264-params", "nal-hrd=cbr:force-cfr=1", "-pix_fmt", "yuv420p",
         "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", tmp])
+    taxa = float(subprocess.check_output(["ffprobe","-v","error","-show_entries","format=bit_rate",
+                                          "-of","csv=p=0",tmp]))
+    if not 5_000_000 <= taxa <= 6_000_000:
+        raise ValueError(f"Bitrate final fora da faixa: {taxa:.0f} bps")
     os.replace(tmp, mp4)
     return os.path.getsize(mp4) / 1e6
 

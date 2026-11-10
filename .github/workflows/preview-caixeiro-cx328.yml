@@ -86,11 +86,21 @@ jobs:
             previews/cx328-amostra.jpg
             previews/cx328-validacao.json
           retention-days: 7
-      - name: Disponibilizar MP4 no repositório sem publicar
+      - name: Entregar a prévia pela Release
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           set -e
           printf '{"episodio":"cx328","status":"validado","run_id":"%s"}\n' "$GITHUB_RUN_ID" > previews/cx328-status.json
-          git add previews/cx328.mp4 previews/cx328-amostra.jpg previews/cx328-validacao.json previews/cx328-status.json
+          python - <<'PYTHON'
+          import json, os
+          from pathlib import Path
+          from motor.release_media import enviar
+          urls = enviar('preview-cx328-'+os.environ['GITHUB_RUN_ID'],
+                        [Path('previews/cx328.mp4'),Path('previews/cx328-amostra.jpg')])
+          Path('previews/cx328-release.json').write_text(json.dumps(urls,indent=2))
+          PYTHON
+          git add previews/cx328-release.json previews/cx328-validacao.json previews/cx328-status.json
           git commit -m "preview: MP4 cx328 validado, não publicar [skip ci]"
           for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin HEAD:main && exit 0; sleep 8; done
           exit 1

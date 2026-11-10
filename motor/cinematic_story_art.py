@@ -1,9 +1,12 @@
 """Ilustracoes 2D cinematograficas originais para as historias do Caixeiro (CPU/Pillow)."""
 from __future__ import annotations
 import io, random, unicodedata
+from functools import lru_cache
 try:
+    from .objetos_fala import objeto as substantivo, OBJETOS
     from .local_story_art import choose as escolher_icone
 except ImportError:
+    from objetos_fala import objeto as substantivo, OBJETOS
     from local_story_art import choose as escolher_icone
 from PIL import Image, ImageDraw, ImageFilter
 
@@ -83,10 +86,21 @@ def tipo_objeto(scene,ep):
     tipos=escolher_icone(scene,ep)
     return (tipos[0] if tipos else "letter")
 
+@lru_cache(maxsize=90)
+def desenho_objeto(nome, tamanho):
+    import cairosvg
+    png = cairosvg.svg2png(bytestring=OBJETOS[nome].encode(), output_width=tamanho, output_height=tamanho)
+    return Image.open(io.BytesIO(png)).convert('RGBA').getchannel('A')
+
 def objeto(d,x,y,s,kind):
     """Props em silhueta colorida, compativeis com a paleta do piloto aprovado."""
     def b(a,b0,c,e):return(x+a*s,y+b0*s,x+c*s,y+e*s)
-    if kind == "radio":
+    if kind in OBJETOS:
+        lado = round(470*s)
+        origem = (round(x-lado/2), round(y-lado/2))
+        rr(d,(origem[0],origem[1],origem[0]+lado,origem[1]+lado),PAPER,24*s)
+        d.bitmap(origem, desenho_objeto(kind,lado),fill=INK)
+    elif kind == "radio":
         radio(d,x,y,s)
     elif kind in ("gift","present"):
         gift(d,x,y,s)
@@ -159,7 +173,7 @@ def draw_stage(d,stage,index,kind):
     if stage==0:
         car(d,870,530,.87)
         person(d,390,230,.94,"#e69a91")
-        gift(d,410,655,.58)
+        objeto(d,410,655,.58,kind)
         for k in range(15):
             x=(k*113+index*29)%1440
             d.line((x,40+(k*71)%400,x-28,140+(k*71)%400),fill="#bad1dc",width=3)
@@ -209,7 +223,7 @@ def render(scene,ep):
     stage=index%8
     im=background(stage,index)
     d=ImageDraw.Draw(im)
-    draw_stage(d,stage,index,tipo_objeto(scene,ep))
+    draw_stage(d,stage,index,substantivo(scene["text"]) or tipo_objeto(scene,ep))
     # subdued vignette and film grain provide depth and continuity.
     vign=Image.new("RGBA",(W,H),(0,0,0,0))
     vg=ImageDraw.Draw(vign)

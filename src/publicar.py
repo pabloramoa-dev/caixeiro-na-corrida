@@ -50,6 +50,8 @@ def main() -> int:
         print(json.dumps({"ok": True, "publicado": None,
                           "motivo": f"nada pronto para o horário {config.HORARIOS[a.horario]}"},
                          ensure_ascii=False))
+        if fila.no_teste(hoje) and not dry:
+            raise RuntimeError("Fila sem mídia pronta para o formato deste horário")
         print("::warning::Fila vazia: nenhum episódio pronto.")
         return 0
 

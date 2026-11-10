@@ -13,7 +13,7 @@ def criar(ep, pasta):
     foto = Image.open(io.BytesIO(raw)).convert('RGB')
     w,h = foto.size
     capa = Image.new('RGB',(1080,1920),'#222638')
-    rosto = foto.crop((w*.17,h*.42,w*.83,h*.42+w*.66)).resize((1080,1080),Image.Resampling.LANCZOS)
+    rosto = foto.crop((w*.17,h*.49-w*.33,w*.83,h*.49-w*.33+w*.66)).resize((1080,1080),Image.Resampling.LANCZOS)
     capa.paste(rosto,(0,270))
     draw = ImageDraw.Draw(capa)
     fonte = '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'

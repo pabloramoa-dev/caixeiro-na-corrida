@@ -43,7 +43,7 @@ def _flag(nome: str, padrao: str = "false") -> bool:
 
 
 def carregar(exigir_credenciais: bool = True) -> Config:
-    obrigatorias = ["IG_USER_ID_CAIXEIRO", "IG_ACCESS_TOKEN_CAIXEIRO", "RAW_BASE_URL"]
+    obrigatorias = ["IG_USER_ID_CAIXEIRO", "IG_ACCESS_TOKEN_CAIXEIRO"]
     if exigir_credenciais:
         faltando = [k for k in obrigatorias if not os.getenv(k)]
         if faltando:

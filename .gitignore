@@ -4,3 +4,8 @@ saida/
 video/node_modules/
 .cache/
 *.wav
+
+reels/*.mp4
+reels/*.jpg
+previews/*.mp4
+previews/*.jpg

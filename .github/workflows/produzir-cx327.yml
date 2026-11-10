@@ -8,8 +8,6 @@ on:
     paths:
       - "episodios/cx327.json"
       - "assets/episodios/cx327/**"
-      - "motor/hyperframes_marcao.py"
-      - ".github/workflows/produzir-cx327.yml"
   workflow_dispatch:
 
 permissions:
