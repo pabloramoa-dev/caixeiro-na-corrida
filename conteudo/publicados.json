@@ -11,5 +11,24 @@
   "dia_teste": null,
   "formato": "longo",
   "duracao": 149.5
+ },
+ {
+  "id": "cx350-story",
+  "media_id": "18125595206294822",
+  "quando": "2026-11-10T14:05-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx350",
+  "media_id": "18062912552546002",
+  "quando": "2026-11-10T14:06-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-10",
+  "formato": "longo",
+  "duracao": 149.0
  }
 ]
