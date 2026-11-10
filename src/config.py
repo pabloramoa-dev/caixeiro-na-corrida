@@ -27,7 +27,13 @@ class Config:
     publicar_ativo: bool
     dry_run: bool
 
-    HOST = "https://graph.instagram.com"   # rota "API do Instagram com login do Instagram"
+    @property
+    def HOST(self) -> str:
+        # Token do login do Instagram (IGAA...) -> graph.instagram.com;
+        # token do login unificado / usuário do sistema (EAA...) -> graph.facebook.com.
+        if self.ig_token.startswith("IG"):
+            return "https://graph.instagram.com"
+        return "https://graph.facebook.com"
 
     @property
     def base_conta(self) -> str:
@@ -49,8 +55,8 @@ def carregar(exigir_credenciais: bool = True) -> Config:
         if faltando:
             raise RuntimeError(f"Variáveis obrigatórias ausentes: {faltando}")
     return Config(
-        ig_user_id=os.getenv("IG_USER_ID_CAIXEIRO", ""),
-        ig_token=os.getenv("IG_ACCESS_TOKEN_CAIXEIRO", ""),
+        ig_user_id=os.getenv("IG_USER_ID_CAIXEIRO", "").strip(),
+        ig_token=os.getenv("IG_ACCESS_TOKEN_CAIXEIRO", "").strip(),
         raw_base_url=os.getenv("RAW_BASE_URL", "https://raw.githubusercontent.com/pabloramoa-dev/caixeiro-na-corrida/main").rstrip("/"),
         graph_version=os.getenv("GRAPH_API_VERSION", "v22.0"),
         publicar_ativo=_flag("PUBLICAR_ATIVO", "false"),
