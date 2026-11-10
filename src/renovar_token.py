@@ -77,6 +77,10 @@ def gravar_secret(repo: str, pat: str, valor: str) -> None:
 
 def main() -> int:
     cfg = config.carregar(exigir_credenciais=True)
+    if not cfg.ig_token.startswith("IG"):
+        # Token de usuário do sistema (login unificado) não expira: nada a renovar.
+        print(json.dumps({"ok": True, "renovacao": "desnecessária (token de usuário do sistema não expira)"}, ensure_ascii=False))
+        return 0
 
     try:
         dados = renovar(cfg.ig_token)
