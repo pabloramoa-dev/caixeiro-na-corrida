@@ -1,0 +1,239 @@
+{
+  "id": "cx456",
+  "ep": 456,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA DA ÚLTIMA SESSÃO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no carro com um guarda-chuva aberto em pleno sol e um ingresso de cinema de quinze anos atrás. O que esperava na última sessão? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reencontro",
+  "legenda_post": "🚕☂️ Um guarda-chuva vermelho, um ingresso antigo e uma promessa guardada por quinze anos. Manda para quem valoriza as memórias de família. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Familia\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um guarda-chuva aberto, embora não caísse uma gota de chuva.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de fechar a porta, perguntou se eu conhecia um cinema que havia fechado há quinze anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que sim. E ela respondeu: então corre, porque hoje a sessão vai começar de novo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Lúcia. Trazia uma sacola de papel e um ingresso antigo dobrado em quatro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No ingresso estava escrito: poltrona G doze, sessão das cinco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se haveria algum evento. Ela disse que tinha recebido uma ligação anônima naquela manhã.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A voz pediu que levasse o guarda-chuva vermelho até a antiga bilheteria, exatamente às cinco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Olhei pelo retrovisor. O guarda-chuva estava gasto, com uma costura azul perto da ponta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia explicou que aquele objeto pertencia ao pai, que trabalhara como lanterninha no cinema.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando era menina, ela o esperava na saída. Nos dias de chuva, voltavam juntos debaixo daquele tecido vermelho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois que o cinema fechou, o pai guardou o ingresso da última sessão e nunca mais falou do lugar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Agora, anos depois, alguém sabia do guarda-chuva, do ingresso e até da poltrona.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na metade do caminho, o celular tocou outra vez. Uma voz disse: não entre pela porta principal.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia ficou desconfiada. Eu sugeri que ela telefonasse para confirmar quem estava organizando aquilo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A pessoa se identificou como Raul, antigo projecionista, e explicou que outros colegas estariam presentes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à rua do cinema. A fachada ainda tinha letras apagadas e cartazes desbotados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na porta lateral, um senhor de boné nos esperava com uma pequena lanterna acesa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era Raul. Ele reconheceu o guarda-chuva antes mesmo de Lúcia dizer seu nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Contou que o pai dela ajudava crianças a encontrar os assentos, mesmo quando o filme já tinha começado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na última sessão, ele havia feito uma promessa: um dia, a filha veria o cinema iluminado outra vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul abriu a porta. Lá dentro, antigos funcionários tinham preparado uma pequena homenagem autorizada pelo proprietário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Não havia plateia lotada nem estreia famosa. Só algumas cadeiras, fotografias e um projetor funcionando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na tela apareceu uma fotografia de Lúcia pequena, segurando o mesmo guarda-chuva ao lado do pai.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela levou a mão à boca. Raul contou que o pai havia deixado aquela foto com ele antes de se mudar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então veio a surpresa: cada antigo colega gravara uma lembrança sobre a generosidade daquele homem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia sentou na poltrona G doze. O guarda-chuva vermelho ficou aberto ao lado dela, como nos velhos tempos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, ela disse que não tinha recuperado o cinema. Tinha recuperado uma parte bonita da própria história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que guarda uma lembrança especial de família, manda essa corrida para essa pessoa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
