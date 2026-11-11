@@ -1,0 +1,15 @@
+{
+  "resumo": {
+    "curto": {
+      "amostras": 0,
+      "segundos_medios": null,
+      "percentual_medio": null
+    },
+    "longo": {
+      "amostras": 0,
+      "segundos_medios": null,
+      "percentual_medio": null
+    }
+  },
+  "reels": {}
+}
