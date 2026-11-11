@@ -1,0 +1,239 @@
+{
+  "id": "cx455",
+  "ep": 455,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO SEM NOME",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo sem nome e um endereço escondido na caixa. Quem esperava essa entrega? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Surpresa #Reencontro",
+  "legenda_post": "🚕🎂 Um bolo azul, uma fotografia antiga e uma entrega que ninguém esperava. Manda para quem merece uma lembrança boa. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um bolo de aniversário sem nome e pediu: me leve ao endereço escrito debaixo da caixa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando virei a embalagem, encontrei um endereço e uma data de vinte e cinco anos atrás. Mas o bolo tinha sido feito naquela manhã.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Helena e trabalhava numa pequena confeitaria do centro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que uma senhora havia encomendado o bolo por telefone, pago antecipadamente e deixado instruções muito específicas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A cobertura deveria ser azul, com uma única vela branca, e nenhuma palavra escrita em cima.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena achou estranho, mas o pedido vinha acompanhado de uma fotografia antiga de uma festa de família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, um menino de sete anos segurava um carrinho amarelo diante de um bolo exatamente igual.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A senhora disse apenas: ele vai entender quando olhar para a caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à primeira avenida, Helena recebeu uma mensagem: não entregue na portaria. Procure a oficina dos fundos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se aquilo parecia uma surpresa. Ela respondeu que começava a parecer um quebra-cabeça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na oficina indicada, um homem de avental cinza consertava bicicletas e rádios antigos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele se apresentou como André e disse que ninguém ali fazia aniversário naquele dia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena mostrou a fotografia. André largou a ferramenta e reconheceu imediatamente o carrinho amarelo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era o brinquedo que ele havia perdido na última festa antes de a família mudar de cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele perguntou quem tinha enviado o bolo. Helena só sabia o primeiro nome da cliente: Marta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "André ficou quieto. Marta era a antiga vizinha que cuidava dele enquanto sua mãe trabalhava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois perderam contato depois da mudança, e ele sempre pensou que ela tivesse esquecido sua família.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando Helena percebeu uma pequena aba colada no fundo da caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Debaixo dela havia uma carta curta e um número de telefone escrito à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta dizia que Marta guardara a receita da mãe de André por todos aqueles anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela havia encontrado o endereço da oficina numa entrevista sobre consertos de bicicletas no bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O bolo não era para comemorar a idade dele. Era para devolver uma tarde feliz que os dois lembravam.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "André telefonou. Do outro lado, uma voz perguntou se a cobertura ainda estava azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele respondeu rindo que sim, mas que a vela precisava esperar porque faltava uma convidada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marta prometeu aparecer no sábado, levando o carrinho amarelo que ainda guardava numa caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de irmos embora, André cortou uma fatia para Helena e outra para mim, o motorista.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela corrida aprendi que algumas entregas não levam encomendas. Levam pessoas de volta umas às outras.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que merece receber uma lembrança boa, manda essa história para essa pessoa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
