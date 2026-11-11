@@ -1,0 +1,239 @@
+{
+  "id": "cx457",
+  "ep": 457,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA QUE GUARDAVA UMA CIDADE",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🧳 Ele entrou no carro com uma mala vazia que fazia barulho. O que havia dentro mudou uma família. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #Fotografia",
+  "legenda_post": "🚕🧳 Uma mala antiga, um projetor e uma fotografia esquecida. Uma corrida que devolveu lembranças a um bairro inteiro. Manda para quem guarda fotos de família. #CaixeiroNaCorrida #ReelsBrasil #Memorias #Familia #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ele entrou no carro com uma mala vazia e pediu que eu não abrisse o porta-malas. O estranho era o barulho vindo de dentro dela.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de dizer o destino, perguntou se eu acreditava que uma mala pudesse guardar uma cidade inteira.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu ri, mas ele mostrou uma etiqueta: devolver à estação antes das seis.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro era Otávio, um antigo fotógrafo de rua que não visitava a estação havia vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mala era de couro marrom, com um fecho torto e dezenas de adesivos desbotados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei pelo barulho. Ele abriu só um pouco e revelou um projetor portátil antigo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Disse que aquele projetor tinha registrado a última festa do bairro antes da estação fechar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Otávio recebera uma carta sem assinatura, pedindo que levasse as imagens ao salão comunitário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pensou em ignorar. Fazia anos que não falava com ninguém daquela época.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando paramos no sinal, tirou do bolso uma fotografia de três crianças diante de um trem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma das crianças era sua irmã, Clara, que se mudara para longe ainda adolescente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois perderam contato por causa de uma discussão boba sobre a venda da casa da família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta dizia que a imagem perdida daquela tarde poderia explicar uma antiga confusão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se alguém esperava por ele. Otávio respondeu que só sabia o horário e o lugar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele ligou para o telefone da carta. Uma senhora confirmou que organizava uma exibição aberta ao bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seguimos até o antigo prédio ferroviário, hoje transformado em centro cultural.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na entrada havia um cartaz simples: fotografias que contam a nossa história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma voluntária reconheceu Otávio e apontou para uma mesa onde o projetor poderia ser instalado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele abriu a mala. Dentro havia rolos de fotografias digitalizadas e um envelope com o nome de Clara.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No envelope, uma mensagem explicava que a irmã havia ajudado a restaurar as imagens.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Otávio ficou imóvel. Clara estava ali, do outro lado da sala, segurando uma cópia da foto do trem.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se aproximou e disse que nunca esqueceu as tardes em que os dois fotografavam passageiros.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois conversaram com calma sobre a antiga briga e perceberam quanto tempo tinham perdido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então a primeira imagem apareceu na parede: o bairro inteiro reunido na plataforma, sorrindo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Cada pessoa na sala começou a reconhecer rostos, histórias e lugares que já tinham mudado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Otávio entrou no carro com a mala ainda vazia de roupas, mas cheia de fotografias novas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse que a cidade não cabia naquela mala. Cabia nas pessoas que decidiram se reencontrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você tem uma foto antiga que merece voltar a ser vista, manda essa corrida para alguém que aparece nela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
