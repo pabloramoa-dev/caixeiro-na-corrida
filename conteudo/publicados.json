@@ -30,5 +30,18 @@
   "dia_teste": "2026-11-10",
   "formato": "longo",
   "duracao": 149.0
+ },
+ {
+  "id": "cx335",
+  "media_id": "18117341684166928",
+  "quando": "2026-11-11T19:02-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-11",
+  "formato": "curto",
+  "duracao": 66.2
  }
 ]
