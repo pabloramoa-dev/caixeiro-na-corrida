@@ -111,8 +111,10 @@ def main():
     if not os.path.exists(P("capa.jpg")):
         from capa_caixeiro import criar
         criar(ep, pasta)
-    if ep.get("formato") in ("curto", "corrida_1min") and not 45 <= duracao(final) <= 75:
-        raise ValueError("Reel de um minuto fora do intervalo de 45–75 segundos")
+    # O encoder do HyperFrames arredonda a duração. Causos de ~45s podem
+    # resultar em 44,9s válidos; não derrube um render de dezenas de minutos.
+    if ep.get("formato") in ("curto", "corrida_1min") and not 40 <= duracao(final) <= 75:
+        raise ValueError("Reel de um minuto fora do limite técnico de 40–75 segundos")
 
     open(P("legenda.txt"), "w", encoding="utf-8").write(ep["legenda_post"] + "\n")
     open(P("legenda_tiktok.txt"), "w", encoding="utf-8").write(ep.get("legenda_tiktok", "") + "\n")
