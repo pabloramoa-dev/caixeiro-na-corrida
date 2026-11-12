@@ -1,0 +1,67 @@
+{
+  "id": "cx990",
+  "ep": 990,
+  "avulso": true,
+  "preview_only": true,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto — Piloto",
+  "causo_chave": "humor-001",
+  "ficcao_original": true,
+  "titulo": "PILOTO — A MARMITA QUE NÃO ERA ALMOÇO",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem sempre foge da louça.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | PILOTO — A MARMITA QUE NÃO ERA ALMOÇO\nMinha passageira entrou abraçada numa marmita enorme e avisou que ninguém podia abrir a tampa durante a corrida.\n\nManda pra quem sempre foge da louça.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A MARMITA QUE NÃO ERA ALMOÇO. Manda pra quem sempre foge da louça. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Minha passageira entrou abraçada numa marmita enorme e avisou que ninguém podia abrir a tampa durante a corrida.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiquei curioso porque a marmita fazia um barulhinho de chocalho toda vez que o carro passava numa lombada.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela explicou que era uma surpresa para o marido, mas que ele já desconfiava de tudo e estava fazendo perguntas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na porta de casa, apareceu o marido de avental, pronto para descobrir qual era a receita secreta daquele almoço.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu a marmita e saiu de dentro um monte de peças de dominó e um bilhete: hoje você vai lavar a louça.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O homem ficou olhando para mim, e eu só pensei que a fome tinha passado, mas a partida de dominó ia ser longa.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
