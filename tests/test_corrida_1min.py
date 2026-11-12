@@ -13,10 +13,11 @@ from src import fila
 class CorridaUmMinutoTest(unittest.TestCase):
     def test_catalogo_e_roteiros(self):
         itens = json.loads(CATALOGO.read_text(encoding="utf-8"))
-        self.assertGreaterEqual(len(itens), 30)
+        self.assertGreaterEqual(len(itens), 90)
         validar_catalogo(itens)
         primeiro = montar(itens[0], 0)
         self.assertEqual(primeiro["id"], "cx500")
+        self.assertEqual(montar(itens[-1], len(itens) - 1)["id"], "cx589")
         self.assertEqual(primeiro["formato"], FORMATO)
         self.assertIn("História de ficção", primeiro["legenda_post"])
         self.assertEqual(len(primeiro["batidas"]), 6)
