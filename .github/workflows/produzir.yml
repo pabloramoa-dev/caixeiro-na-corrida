@@ -2,7 +2,7 @@ name: Produzir episódios
 
 # Renderiza o próximo roteiro de episodios/ que ainda não tem vídeo pronto.
 # UM episódio por vez: é chamado pela rotina diária (caixeiro-diario.yml) ou à mão.
-# Nada é publicado aqui. O CTA (coração + seguir) entra sozinho no final.
+# Nada é publicado aqui. Nos causos curtos, o CTA único pede envio contextual.
 
 on:
   workflow_dispatch:
@@ -16,7 +16,7 @@ on:
       formato:
         description: "Fila de produção"
         type: choice
-        options: [curto, longo]
+        options: [curto, corrida_1min, longo]
         default: longo
   workflow_call:
     inputs:
