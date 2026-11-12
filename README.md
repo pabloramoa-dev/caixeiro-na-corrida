@@ -146,5 +146,6 @@ A narração termina com um único convite de envio ligado ao assunto do vídeo.
 - **Proteção:** publicação no máximo uma vez por horário/dia; à noite só episódios longos. As métricas da série curta continuam classificadas como `curto` para comparação com os longos.
 - **Banco ampliado em 11/11/2026:** 30 roteiros iniciais + 60 novos = **90 causos**, capazes de abastecer mais de dois meses de publicações diárias. Após as 90 publicações será necessário acrescentar causos novos; a vigilância abre alerta quando restarem menos de 7. Não há reciclagem de histórias.
 - **Pesquisa de vídeos virais:** `references/pesquisa-virais-corrida-1min-2026-11.md` apresenta referências públicas, lições de formato e regras de originalidade. Nenhum vídeo de terceiros é copiado ou reupado.
+- **Plano de dois meses:** `conteudo/plano_60_dias_corrida_1min.csv` organiza 60 slots diários previstos, de 12/11/2026 a 10/01/2027, às 12h BRT, mais 30 roteiros de reserva. As datas são estimativas editoriais e podem mudar se houver atrasos; o pipeline sempre usa o próximo ID disponível e inédito.
 - **Checagem sem render:** `python -m motor.corridas_1min --checar` e `python -m unittest tests.test_corrida_1min -v`.
 
