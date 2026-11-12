@@ -60,7 +60,11 @@ def main():
     from formatos import CURTOS, preparar_curto
     from compilar_roteiros import atuar
     ep = json.load(open(a.episodio, encoding="utf-8"))
-    ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(ep)
+    if ep.get("formato") == "corrida_1min":
+        # Gancho/punchline escritos especificamente para o humor; sem cortes dos longos.
+        pass
+    else:
+        ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(ep)
     ep = garantir_cta(ep)
     atuar(ep["batidas"])
     # Gancho de antecipação + micro-reenganche antes da voz e das ilustrações.
@@ -107,8 +111,8 @@ def main():
     if not os.path.exists(P("capa.jpg")):
         from capa_caixeiro import criar
         criar(ep, pasta)
-    if ep.get("formato") == "curto" and not 45 <= duracao(final) <= 75:
-        raise ValueError("Curto fora do intervalo de 45–75 segundos")
+    if ep.get("formato") in ("curto", "corrida_1min") and not 45 <= duracao(final) <= 75:
+        raise ValueError("Reel de um minuto fora do intervalo de 45–75 segundos")
 
     open(P("legenda.txt"), "w", encoding="utf-8").write(ep["legenda_post"] + "\n")
     open(P("legenda_tiktok.txt"), "w", encoding="utf-8").write(ep.get("legenda_tiktok", "") + "\n")
