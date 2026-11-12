@@ -43,5 +43,25 @@
   "dia_teste": "2026-11-11",
   "formato": "curto",
   "duracao": 66.2
+ },
+ {
+  "id": "cx351-story",
+  "media_id": "18373910239208094",
+  "quando": "2026-11-12T01:02-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx351",
+  "media_id": "18645303544052656",
+  "quando": "2026-11-12T01:03-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-12",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 148.5
  }
 ]
