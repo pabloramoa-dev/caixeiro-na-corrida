@@ -1,0 +1,42 @@
+name: Caixeiro — preparar Corrida de 1 Minuto antes das 12h
+
+# Prepara dois vídeos de reserva pela manhã, evitando esperar o render ao meio-dia.
+# É só produção: não publica no Instagram nem dispara Telegram.
+
+on:
+  schedule:
+    - cron: "0 9 * * *"  # 06:00 em Brasília (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  roteiros:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Reservar 3 roteiros sem repetir causos
+        run: |
+          python -m motor.corridas_1min --minimo 3
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add episodios/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "conteúdo: reserva matinal de causos [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 6; done
+          exit 1
+
+  produzir_reserva:
+    needs: roteiros
+    uses: ./.github/workflows/produzir.yml
+    with:
+      formato: "corrida_1min"
+      alvo: "2"
+      limite: "2"
+    secrets: inherit
