@@ -63,5 +63,19 @@
   "formato": "longo",
   "serie": null,
   "duracao": 148.5
+ },
+ {
+  "id": "cx500",
+  "media_id": "17959358262302988",
+  "quando": "2026-11-12T18:44-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-12",
+  "formato": "curto",
+  "serie": "Corrida de 1 Minuto",
+  "duracao": 44.9
  }
 ]
