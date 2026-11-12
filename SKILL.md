@@ -1,6 +1,6 @@
 ---
 name: "caixeiro-na-corrida"
-description: Produz vídeos verticais do personagem CAIXEIRO — motorista de aplicativo de 44 anos, casado, bom ouvinte e bem-humorado, que conta do banco do motorista histórias FICCIONAIS que os passageiros viveram ou desabafaram no carro (família, futebol, reflexão, superação, amor, amizade, curiosidades, humor do dia a dia), sempre com tema novo, feitos por código em Manim + HyperFrames no motor da Nina. Use SEMPRE que o Pablo pedir episódio, vídeo, roteiro, história, foto de perfil, capa, bio ou legenda do Caixeiro, do "Caixeiro na Corrida", do "motorista de Uber/aplicativo", ou do antigo nome "Marcão"/"Marcão na Corrida" — mesmo sem citar a skill. Entrega MP4 vertical 1080x1920 de ~3 minutos com voz, lip sync, legenda karaokê e CTA no final, sempre com a legenda de publicação em texto copiável.
+description: Produz vídeos verticais do personagem CAIXEIRO — motorista de aplicativo de 44 anos, casado, bom ouvinte e bem-humorado, que conta do banco do motorista histórias FICCIONAIS que os passageiros viveram ou desabafaram no carro (família, futebol, reflexão, superação, amor, amizade, curiosidades, humor do dia a dia), sempre com tema novo, feitos por código em Manim + HyperFrames no motor da Nina. Use SEMPRE que o Pablo pedir episódio, vídeo, roteiro, história, foto de perfil, capa, bio ou legenda do Caixeiro, do "Caixeiro na Corrida", do "motorista de Uber/aplicativo", ou do antigo nome "Marcão"/"Marcão na Corrida" — mesmo sem citar a skill. Entrega MP4 vertical 1080x1920: à noite histórias completas de ~3 minutos; ao meio-dia série cômica Corrida de 1 Minuto (45–75 s). Voz, lip sync, legenda karaokê e CTA final contextual; legenda copiável.
 ---
 
 # Caixeiro na Corrida — motorista de aplicativo
@@ -43,7 +43,7 @@ fala, tela, legenda ou perfil. Os arquivos de código ainda se chamam
   `🚗 Motorista de app · Histórias do banco de trás` / `🎙️ Cada corrida, uma vida · Ficção`
 - Marca na tela: "CAIXEIRO NA CORRIDA · BANCO DE TRÁS"; rodapé "Cada corrida,
   uma história." + "HISTÓRIA FICTÍCIA". Paleta azul-noite com âmbar.
-- Abertura: "Sobe aí, que essa corrida…" · Fecho: "Cinco estrelas pra essa história."
+- Nos causos de 1 minuto: entrar direto no objeto ou situação curiosa, sem apresentação "Sobe aí" nem vinheta. Fechar com punchline e um único "Manda pra quem..." contextual.
 
 ## Tema novo em TODO episódio (regra principal)
 
@@ -70,8 +70,7 @@ interessante, bonita ou curiosa. Antes de escrever qualquer roteiro:
 
 ## Regras de roteiro
 
-1. **Cada episódio tem ~3 minutos (≈420–450 palavras), história completa com
-   início, meio e fim.** Nada de parte 1/parte 2. No JSON use `"avulso": true`.
+1. **Dois formatos sem misturar as filas:** histórias longas de ~3 minutos às 20h; e "Corrida de 1 Minuto" às 12h, com 45–75 s, ~115–165 palavras, causo original, leve e engraçado, completo, sem parte 1/parte 2. Os curtos são `formato: "corrida_1min"` e têm banco próprio `conteudo/corridas_1min.json`; não são resumos de episódios longos. No JSON use `"avulso": true`.
 2. **Conteúdo para toda a família.** Sem conteúdo sexual, sem cantada, sem
    traição do Caixeiro, sem violência gráfica. Emoção vem de gente de verdade:
    saudade, orgulho, reconciliação, coragem, gentileza, gargalhada.
@@ -86,7 +85,7 @@ interessante, bonita ou curiosa. Antes de escrever qualquer roteiro:
    pode citar o estádio e "o time"; nomear clubes reais é permitido, mas
    alterne para não puxar sempre a mesma torcida.
 5. Moral curta, sem sermão — uma frase que dá vontade de mandar pra alguém.
-6. CTA de seguir **só no final** (o pipeline insere sozinho; não escreva "me segue").
+6. Um único CTA **só no final**, sem pedir curtida, comentário e seguir ao mesmo tempo. Na Corrida de 1 Minuto, escreva um `cta_envio` natural "Manda pra quem..." associado à piada; o pipeline o insere automaticamente.
 7. Legenda: gancho + emoji, pergunta pros comentários ligada ao tema (ex.:
    "Qual frase do seu pai você nunca esqueceu?"), "História de ficção.",
    hashtags do tema terminando em `#caixeironacorrida`.
@@ -128,9 +127,12 @@ python3 marcao/produzir_marcao.py marcao/<episodio>.json
 
 ## Repositório e automação
 
-O canal roda sozinho em `github.com/pabloramoa-dev/caixeiro-na-corrida`:
-300 roteiros (`roteiros/loteNN.txt` → `episodios/cxNNN.json` via
-`motor/compilar_roteiros.py`), renderização no GitHub Actions, 3 Reels por dia
-no Instagram (08h, 12h, 20h + Story às 20h) e link + legenda do TikTok no
-WhatsApp a cada vídeo. Para episódios novos, continue a partir do cx325 e
-confira `references/temas-usados.md` antes — nada pode repetir.
+O canal roda em `github.com/pabloramoa-dev/caixeiro-na-corrida`.
+A agenda ativa são **2 Reels/dia**: 12h BRT = Corrida de 1 Minuto (engraçada,
+45–75s), 20h BRT = episódio longo (~3min, com Story). `caixeiro-diario.yml`
+mantém as filas separadas e a trava de não repetir publicação no mesmo
+horário/dia. O script `motor/corridas_1min.py` mantém 3 roteiros inéditos
+em estoque, começando em `cx500`, a partir de 30 causos do JSON de humor;
+não recicle quando o catálogo acabar. Para longos novos, verifique o último ID
+existente e consulte `references/temas-usados.md` antes — tema não repete.
+Cada entrega deve incluir MP4 e descrição para Instagram/TikTok.
