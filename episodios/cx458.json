@@ -1,0 +1,247 @@
+{
+  "id": "cx458",
+  "ep": 458,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O TROFÉU COM O NOME ERRADO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ela entrou no meu carro com um troféu que tinha o nome errado. O verdadeiro vencedor guardou um segredo por 20 anos! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Amizade #FinalSurpresa",
+  "legenda_post": "🚕🏆 Um troféu antigo, duas bicicletas e uma amizade interrompida por vinte anos. Às vezes a maior vitória é ajudar alguém a chegar. Manda para aquele amigo que nunca te deixou na mão. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Amizade #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro com um troféu embrulhado em jornal e pediu para eu não ler a plaquinha. O nome ali não era dela.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando disse o destino, acrescentou: se ele recusar, você me leva de volta. Eu ainda não sabia quem era ele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Marina e segurava o pacote como se pudesse quebrar a qualquer curva.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era um troféu de uma corrida de bicicletas realizada vinte anos antes, num bairro pequeno.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina contou que tinha vencido aquela prova quando criança, mas nunca recebeu o prêmio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na época, o resultado saiu errado no jornal. O troféu foi entregue a outro menino, o Lucas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ela guardava aquilo depois de tanto tempo. Ela disse que a resposta estava atrás da placa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Num semáforo, mostrou uma fotografia amarelada: duas crianças ao lado de bicicletas de rodas coloridas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lucas era seu melhor amigo. Os dois treinavam na mesma rua e dividiam uma bomba de encher pneu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na manhã da prova, a corrente da bicicleta de Marina caiu, e Lucas parou para ajudá-la.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela chegou primeiro à linha de chegada, mas o fiscal anotou o número da bicicleta errada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lucas tentou corrigir o resultado. Ninguém acreditou em duas crianças dizendo que houve um engano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina ficou magoada, mudou de escola e nunca mais conversou com ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, uma antiga professora encontrou o registro original da competição.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O documento mostrava que Marina realmente tinha vencido, e que Lucas tentara explicar tudo naquele dia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a professora contou mais uma coisa: Lucas havia guardado o troféu durante todos aqueles anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele nunca colocou o prêmio na estante. Deixou numa caixa com a anotação: pertence à Marina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Agora ela queria devolver o troféu a Lucas? Eu perguntei, sem entender.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina virou a placa. O nome gravado era Lucas, mas havia uma segunda plaquinha nova no pacote.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nela estava escrito: prêmio por nunca abandonar um amigo no meio do caminho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos a uma oficina de bicicletas. Lucas estava consertando uma roda na calçada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina desceu e ficou alguns segundos sem conseguir falar. Então estendeu o embrulho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lucas abriu o jornal, reconheceu o troféu e soltou uma risada: você ainda corre mais rápido do que eu?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela respondeu: só se você prometer não parar para arrumar minha corrente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois riram, e Marina mostrou a nova plaquinha. Lucas ficou em silêncio, emocionado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que tinha guardado o prêmio porque nunca quis ganhar uma corrida que não era sua.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de eu sair, os dois combinaram pedalar juntos no domingo, agora sem competição.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquele dia aprendi que algumas vitórias não são sobre chegar primeiro. São sobre quem para para ajudar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para aquele amigo que esteve do seu lado quando você mais precisou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
