@@ -1,7 +1,7 @@
-name: Caixeiro — 12h curto / 20h longo
+name: Caixeiro — 12h Corrida de 1 Minuto / 20h longo
 
-# Teste de retenção: 12h Reel curto, 20h Reel longo (Brasília).
-# Cada horário abastece sua própria fila e publica uma vez.
+# 12h: um causo leve e engraçado de 45-75s; 20h: história de ~3 min (Brasília).
+# Cada horário abastece sua própria fila, sem reciclar vídeos e sem duplicações.
 # Disparo manual permite escolher o formato.
 
 on:
@@ -41,17 +41,28 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Abastecer causos originais do almoço sem repetir histórias
+        if: ${{ (inputs.horario == 'almoco') || (github.event_name == 'schedule' && github.event.schedule == '0 15 * * *') }}
+        run: |
+          python -m motor.corridas_1min --minimo 3
+          git config user.name "caixeiro-bot"
+          git config user.email "actions@github.com"
+          git add episodios/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "conteúdo: repor Corrida de 1 Minuto [skip ci]"
+          for i in 1 2 3 4 5; do git pull --rebase origin main && git push origin main && exit 0; sleep 6; done
+          exit 1
       - id: e
         run: |
           python - <<'PY'
           import os
           from src import fila
           horario = "${{ inputs.horario || '' }}" or ("almoco" if "${{ github.event.schedule }}" == "0 15 * * *" else "noite")
-          formato = "curto" if horario == "almoco" else "longo"
+          formato = "corrida_1min" if horario == "almoco" else "longo"
           prox = fila.proximo(horario)
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"horario={horario}\nformato={formato}\n")
-          print("Próximo pronto:", prox)
+          print("Série:", formato, "| Próximo pronto:", prox)
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"precisa={'true' if prox is None else 'false'}\n")
           PY
