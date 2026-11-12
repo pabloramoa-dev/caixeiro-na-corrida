@@ -14,10 +14,16 @@ def eh_cta(b: dict) -> bool:
 
 
 def garantir_cta(ep: dict) -> dict:
-    """Fecho fixo do canal: aperta o coração + segue pra não perder a próxima."""
+    """Uma única chamada final; nos causos curtos, pedir compartilhamento."""
     ep = copy.deepcopy(ep)
     bats = [b for b in ep["batidas"] if not eh_cta(b)]
-    bats.append({"fala": CTA_FINAL, "envio_final": True, "expr": "ironica",
-                 "arte": ["seguir", PLACA_FINAL], "destaque": ["coração", "próxima"]})
+    if ep.get("formato") == "corrida_1min":
+        fala = ep.get("cta_envio", "Manda pra quem precisa dar uma risada hoje.")
+        bats.append({"fala": fala, "envio_final": True, "expr": "rindo",
+                     "arte": ["manchete_v", "MANDA PRA QUEM VAI RIR"],
+                     "destaque": ["Manda", "rir"]})
+    else:
+        bats.append({"fala": CTA_FINAL, "envio_final": True, "expr": "ironica",
+                     "arte": ["seguir", PLACA_FINAL], "destaque": ["coração", "próxima"]})
     ep["batidas"] = bats
     return ep
