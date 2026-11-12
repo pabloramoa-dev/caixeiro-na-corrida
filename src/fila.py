@@ -2,8 +2,8 @@
 
 Regras
 - Cada episódio é uma história completa num vídeo só (~3 min): episodios/cxNNN.json.
-- 3 horários por dia (8h, 12h, 20h). Sai sempre o menor episódio pronto ainda
-  não publicado. O das 20h também vai pros Stories.
+- Às 12h BRT sai uma Corrida de 1 Minuto cômica; às 20h, uma história
+  longa (~3 min), com Story. Filas independentes e sem repetição.
 - Um vídeo só está "pronto" se foi renderizado a partir da versão ATUAL do
   roteiro (reels/<id>.hash). Roteiro editado = volta pro estúdio.
 - Nunca publica o mesmo id duas vezes (ledger conteudo/publicados.json).
@@ -86,16 +86,25 @@ def prontos_nao_publicados() -> list[str]:
     return [e for e in episodios() if e not in feitos and pronto(e)]
 
 
+def formato_episodio(ep_id: str) -> str:
+    """Separa a série de humor, os curtos antigos e os episódios longos."""
+    ep = carregar_ep(ep_id)
+    if ep.get("formato") == "corrida_1min":
+        return "corrida_1min"
+    if ep_id in CURTOS:
+        return "curto"
+    return "longo"
+
+
 def proximo(horario: str | None = None) -> str | None:
     lista = prontos_nao_publicados()
-    if horario == "diario":
-        # 18h: só episódios completos de ~3 min (os curtos de teste ficam fora).
-        lista = [e for e in lista if e not in CURTOS]
-        return lista[0] if lista else None
-    if horario and no_teste(datetime.now(BRT).date()):
-        if horario == "manha":
-            return None
-        lista = [e for e in lista if (e in CURTOS) == (horario == "almoco")]
+    if horario == "manha":
+        return None
+    if horario == "almoco":
+        # Série diária original, sem reciclar cortes de episódios dramáticos.
+        lista = [e for e in lista if formato_episodio(e) == "corrida_1min"]
+    elif horario in ("noite", "diario"):
+        lista = [e for e in lista if formato_episodio(e) == "longo"]
     return lista[0] if lista else None
 
 
