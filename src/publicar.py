@@ -2,8 +2,8 @@
 
     python -m src.publicar --horario diario     # 18h: Reel (rotina diária atual)
     python -m src.publicar --horario manha      # 08h: Reel  (agenda antiga, só manual)
-    python -m src.publicar --horario almoco     # 12h: Reel  (agenda antiga, só manual)
-    python -m src.publicar --horario noite      # 20h: Reel + Story (agenda antiga, só manual)
+    python -m src.publicar --horario almoco     # 12h: Corrida de 1 Minuto (automática)
+    python -m src.publicar --horario noite      # 20h: história longa + Story (automática)
 
 - Instagram: só publica com PUBLICAR_ATIVO=true e DRY_RUN=false.
 - Telegram: manda o MP4 + a descrição pro TikTok (mesmo bot da Nina).
@@ -42,9 +42,20 @@ def main() -> int:
     dry = config._flag("DRY_RUN", "true")
     ig_ligado = config._flag("PUBLICAR_ATIVO", "false") and not dry
     hoje = fila.datetime.now(fila.BRT).date()
-    if a.horario != "diario" and fila.no_teste(hoje):
-        if a.horario == 'manha' or any(p.get('dia_teste') == str(hoje) and p.get('horario') == a.horario for p in fila.ler_publicados()):
+    if a.horario == "manha":
+        print("Horário da manhã desativado; a agenda é 12h e 20h.")
+        return 0
+    # Trava permanente: um único Reel por slot/dia, inclusive após o teste.
+    if a.horario in ("almoco", "noite") and not dry:
+        ja_saiu = any(
+            not p.get("ensaio") and p.get("horario") == a.horario
+            and str(p.get("quando", "")).startswith(str(hoje))
+            for p in fila.ler_publicados()
+        )
+        if ja_saiu:
+            print(f"Publicação {a.horario} do dia {hoje} já registrada; sem duplicar.")
             return 0
+    if a.horario != "diario" and fila.no_teste(hoje):
         ig_ligado = not dry
     cfg = config.carregar(exigir_credenciais=ig_ligado)
     ep_id = fila.proximo(a.horario)
@@ -118,7 +129,15 @@ def main() -> int:
 
     # Só sai da fila se foi pro Instagram (ou, com o Instagram desligado, se o aviso chegou).
     if media_id or (not ig_ligado and (tg or zap)):
-        fila.gravar_publicado(ep_id, media_id, dry=False, instagram=bool(media_id), telegram=tg, whatsapp=zap, horario=a.horario, dia_teste=str(hoje) if a.horario != "diario" and fila.no_teste(hoje) else None, formato="curto" if ep_id in fila.CURTOS else "longo", duracao=rel["duracao"])
+        formato_real = fila.formato_episodio(ep_id)
+        fila.gravar_publicado(
+            ep_id, media_id, dry=False, instagram=bool(media_id),
+            telegram=tg, whatsapp=zap, horario=a.horario,
+            dia_teste=str(hoje) if a.horario != "diario" and fila.no_teste(hoje) else None,
+            formato="curto" if formato_real != "longo" else "longo",
+            serie=ep.get("serie") if formato_real == "corrida_1min" else None,
+            duracao=rel["duracao"]
+        )
     rel["ok"] = ig_erro is None
     print(json.dumps(rel, ensure_ascii=False, indent=1))
     if ig_erro is not None:
