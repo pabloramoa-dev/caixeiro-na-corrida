@@ -9,6 +9,7 @@ código (Manim + HyperFrames, motor da Nina), com voz, lip sync, legenda karaok�
 | Etapa | Workflow | Quando |
 |---|---|---|
 | Mantém reservas separadas de causos cômicos de 1 minuto e histórias longas | `produzir.yml` | chamado pelo workflow dos Reels |
+| Pré-renderiza até 2 causos para a reserva, sem publicar | `caixeiro-preparar-1min.yml` | 6h (Brasília) |
 | Publica Corrida de 1 Minuto às 12h e história longa às 20h, entrega pelo Telegram | `caixeiro-diario.yml` | 12h e 20h (Brasília); Story às 20h |
 | Renova o token do Instagram | `renovar-token.yml` | toda segunda |
 | Abre issue se a fila estiver baixa | `vigia-fila.yml` | todo dia |
