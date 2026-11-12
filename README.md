@@ -8,8 +8,8 @@ código (Manim + HyperFrames, motor da Nina), com voz, lip sync, legenda karaok�
 
 | Etapa | Workflow | Quando |
 |---|---|---|
-| Mantém reservas separadas de curtos e longos | `produzir.yml` | chamado pelo workflow dos Reels |
-| Publica Reel curto às 12h e longo às 20h, entrega pelo Telegram | `caixeiro-diario.yml` | 12h e 20h (Brasília); Story às 20h |
+| Mantém reservas separadas de causos cômicos de 1 minuto e histórias longas | `produzir.yml` | chamado pelo workflow dos Reels |
+| Publica Corrida de 1 Minuto às 12h e história longa às 20h, entrega pelo Telegram | `caixeiro-diario.yml` | 12h e 20h (Brasília); Story às 20h |
 | Renova o token do Instagram | `renovar-token.yml` | toda segunda |
 | Abre issue se a fila estiver baixa | `vigia-fila.yml` | todo dia |
 | Compacta o histórico do Git (vídeos velhos) | `compactar-historico.yml` | domingo |
@@ -134,8 +134,15 @@ A narração termina com um único convite de envio ligado ao assunto do vídeo.
 
 ## Experimento de retenção — 10 a 23 de novembro de 2026
 
-- Às **12h BRT**, publicar um Reel curto de **45–75 segundos**.
+- Às **12h BRT**, o experimento curto foi substituído pela série própria de humor **Corrida de 1 Minuto**, com **45–75 segundos**.
 - Às **20h BRT**, publicar um Reel longo completo (com Story, como antes).
 - Agendamento no GitHub Actions: `0 15 * * *` e `0 23 * * *` (UTC).
 - O abastecimento de estoque escolhe roteiros curtos e longos separadamente.
-- O banco atual de curtos (`conteudo/curtos_teste.json`) contém **14 episódios**; para manter a publicação diária após o teste, é necessário ampliar esse banco e remover a janela limitada em `motor/formatos.py`.
+- Os 14 roteiros de `conteudo/curtos_teste.json` são históricos do experimento anterior e **não** alimentam mais as 12h.
+- **Novo banco:** `conteudo/corridas_1min.json`, com 30 causos originais. `motor/corridas_1min.py` mantém 3 roteiros inéditos de reserva, criando `episodios/cx500+` sem repetir ou sobrescrever os já existentes. O abastecimento acontece no próprio workflow diário do meio-dia.
+- **Estilo:** pergunta/objeto concreto nos primeiros 2 segundos, situação inusitada, virada, piada final; sem cartão de abertura, sem introdução do personagem nem moral longa. O encerramento tem um único convite contextual para **enviar** o Reel.
+- **Visual e som:** Caixeiro, Kokoro, movimentos do carro, imagens 2D em movimento, legendas karaoke e HyperFrames já existentes. O banco não inventa que são casos reais: todas as legendas indicam ficção.
+- **Proteção:** publicação no máximo uma vez por horário/dia; à noite só episódios longos. As métricas da série curta continuam classificadas como `curto` para comparação com os longos.
+- **Limite do banco inicial:** depois de 30 publicações, será necessário acrescentar novos causos ao JSON; a rotina de vigilância abre alerta quando restarem menos de 7 histórias. Não são recicladas.
+- **Checagem sem render:** `python -m motor.corridas_1min --checar` e `python -m unittest tests.test_corrida_1min -v`.
+
