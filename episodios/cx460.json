@@ -1,0 +1,239 @@
+{
+  "id": "cx460",
+  "ep": 460,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CHAVE DA PADARIA FECHADA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔑 Ela entrou no carro com uma chave gigante e pediu para evitar a rua principal. O que havia na padaria fechada há 12 anos? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #FinalSurpresa",
+  "legenda_post": "🚕🔑 Uma chave antiga, uma padaria fechada e receitas guardadas por doze anos. Nem todo segredo esconde algo ruim. Manda para quem faz o bem sem esperar reconhecimento. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Solidariedade #Memorias\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro segurando uma chave enorme e pediu para eu não passar pela rua principal. Disse que a última pessoa que usou aquela chave desapareceu do bairro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei o destino: uma padaria fechada havia doze anos. E ela avisou que, se a porta abrisse, alguém finalmente saberia a verdade.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Elisa. Trazia a chave presa numa fita amarela e um envelope com uma receita escrita à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ia reabrir a padaria. Ela respondeu que só queria descobrir por que seu avô nunca vendeu o imóvel.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O avô, seu Anselmo, fazia o pão mais famoso do bairro. Todo domingo havia fila antes de o sol nascer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas um dia ele fechou as portas sem explicação. Na vitrine ficou apenas um papel: volto quando for a hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa cresceu ouvindo versões diferentes. Uns diziam que ele tinha perdido dinheiro; outros, que brigara com o sócio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana anterior, durante uma mudança, ela encontrou uma caixa de cartas endereçadas a pessoas da vizinhança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todas tinham a mesma frase: seu pedido está guardado. E nenhuma delas havia sido enviada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu uma carta por curiosidade. Dentro havia uma receita de pão e um bilhete para dona Marta, antiga professora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei o que isso tinha a ver com a chave. Elisa mostrou a etiqueta: armário dos pedidos especiais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à rua lateral. A fachada estava apagada, mas o desenho de um trigo ainda aparecia acima da porta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa tentou a chave na fechadura enferrujada. Não girou. Por um instante, achei que a corrida acabaria ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando um senhor do outro lado da rua gritou: levanta a maçaneta antes de virar! Era o antigo entregador, Nilo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A porta abriu com um estalo. O cheiro era de madeira antiga, não de pão. Lá dentro, as prateleiras estavam vazias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nilo apontou para um armário atrás do balcão. Disse que Anselmo nunca permitia que ninguém mexesse nele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa abriu o armário e encontrou dezenas de cadernos, todos com nomes e datas na capa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Não eram contas atrasadas. Eram receitas adaptadas para famílias que precisavam economizar ou tinham ingredientes faltando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Anselmo anotava o que cada pessoa conseguia comprar e inventava um pão diferente para caber naquele orçamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Num dos cadernos havia uma foto de dona Marta com crianças da escola e a anotação: pão da formatura, pago com desenhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa percebeu que o avô guardara cada pedido porque dizia que nenhuma história devia ser esquecida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas faltava a resposta sobre o fechamento. Nilo puxou uma última pasta debaixo do balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ali estava o documento: Anselmo doara o forno e os equipamentos para a cozinha comunitária do bairro após uma enchente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele fechou a padaria para que outras pessoas pudessem continuar fazendo pão. Nunca contou porque não queria agradecimentos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa ficou em silêncio. Depois fotografou as receitas e ligou para dona Marta, que ainda morava a duas quadras dali.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de ir embora, ela colocou um bilhete novo na vitrine: as receitas voltaram. Agora são de todo mundo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, pensei que a chave não abria só uma padaria. Abria uma história que o bairro quase tinha esquecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para alguém que faz o bem sem esperar reconhecimento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
