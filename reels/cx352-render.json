@@ -1,6 +1,6 @@
 {
   "motor": "hyperframes",
-  "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha",
+  "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha-marca-caixeiro",
   "fotos": 0,
   "duracao": 147.9791,
   "resolucao": [
@@ -9,7 +9,7 @@
   ],
   "fps": 30,
   "voz": "pm_alex:0.62+pm_santa:0.38",
-  "audio": "ffmpeg",
+  "audio": "pedalboard",
   "sfx": 75,
   "visual": "v4",
   "lip": "rhubarb",
