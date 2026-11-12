@@ -157,7 +157,7 @@ def legenda(i, b, s, ws, kws, z_fim):
                 k += 1
             html_lin.append('<span class="ln">' + " ".join(spans) + "</span>")
         parts.append(f'<div id="cap{i}_{gi}" class="clip caps" data-start="{ini}" data-duration="{max(.05, fim - ini)}" '
-                     f'data-track-index="3"><div class="speaker">NINA ME CONTOU</div><br>'
+                     f'data-track-index="3"><div class="speaker">CAIXEIRO NA CORRIDA</div><br>'
                      f'<div class="pill" style="font-size:{size}px">{"".join(html_lin)}</div></div>')
         anim.append(f'tl.fromTo("#cap{i}_{gi} .pill",{{scale:.9,y:14}},{{scale:1,y:0,duration:.22,immediateRender:false,ease:"back.out(1.6)"}},{ini});')
         for k in g:
