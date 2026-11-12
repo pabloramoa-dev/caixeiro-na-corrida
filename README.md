@@ -140,10 +140,11 @@ A narração termina com um único convite de envio ligado ao assunto do vídeo.
 - Agendamento no GitHub Actions: `0 15 * * *` e `0 23 * * *` (UTC).
 - O abastecimento de estoque escolhe roteiros curtos e longos separadamente.
 - Os 14 roteiros de `conteudo/curtos_teste.json` são históricos do experimento anterior e **não** alimentam mais as 12h.
-- **Novo banco:** `conteudo/corridas_1min.json`, com 30 causos originais. `motor/corridas_1min.py` mantém 3 roteiros inéditos de reserva, criando `episodios/cx500+` sem repetir ou sobrescrever os já existentes. O abastecimento acontece no próprio workflow diário do meio-dia.
+- **Novo banco:** `conteudo/corridas_1min.json`, com 90 causos originais. `motor/corridas_1min.py` mantém 3 roteiros inéditos de reserva, criando `episodios/cx500+` sem repetir ou sobrescrever os já existentes. O abastecimento acontece no próprio workflow diário do meio-dia.
 - **Estilo:** pergunta/objeto concreto nos primeiros 2 segundos, situação inusitada, virada, piada final; sem cartão de abertura, sem introdução do personagem nem moral longa. O encerramento tem um único convite contextual para **enviar** o Reel.
 - **Visual e som:** Caixeiro, Kokoro, movimentos do carro, imagens 2D em movimento, legendas karaoke e HyperFrames já existentes. O banco não inventa que são casos reais: todas as legendas indicam ficção.
 - **Proteção:** publicação no máximo uma vez por horário/dia; à noite só episódios longos. As métricas da série curta continuam classificadas como `curto` para comparação com os longos.
-- **Limite do banco inicial:** depois de 30 publicações, será necessário acrescentar novos causos ao JSON; a rotina de vigilância abre alerta quando restarem menos de 7 histórias. Não são recicladas.
+- **Banco ampliado em 11/11/2026:** 30 roteiros iniciais + 60 novos = **90 causos**, capazes de abastecer mais de dois meses de publicações diárias. Após as 90 publicações será necessário acrescentar causos novos; a vigilância abre alerta quando restarem menos de 7. Não há reciclagem de histórias.
+- **Pesquisa de vídeos virais:** `references/pesquisa-virais-corrida-1min-2026-11.md` apresenta referências públicas, lições de formato e regras de originalidade. Nenhum vídeo de terceiros é copiado ou reupado.
 - **Checagem sem render:** `python -m motor.corridas_1min --checar` e `python -m unittest tests.test_corrida_1min -v`.
 
