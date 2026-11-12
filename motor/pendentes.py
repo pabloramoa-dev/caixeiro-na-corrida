@@ -18,12 +18,12 @@ from src import fila  # noqa: E402
 
 def selecionar(alvo: int, limite: int, formato: str = 'longo') -> list[Path]:
     feitos = fila.ids_publicados()
-    prontos = len([e for e in fila.prontos_nao_publicados() if (e in fila.CURTOS) == (formato == 'curto')])
+    prontos = len([e for e in fila.prontos_nao_publicados() if fila.formato_episodio(e) == formato])
     faltam = max(0, alvo - prontos)
     out: list[Path] = []
     # Cada fila é abastecida de forma independente: curtos e longos.
     pendentes = [e for e in fila.episodios()
-                 if e not in feitos and (e in fila.CURTOS) == (formato == 'curto') and fila.desatualizado(e)]
+                 if e not in feitos and fila.formato_episodio(e) == formato and fila.desatualizado(e)]
     for ep_id in pendentes:
         if len(out) >= min(faltam, limite):
             break
@@ -38,7 +38,7 @@ def main() -> int:
     ap.add_argument("--rel", action="store_true")
     ap.add_argument("--alvo-prontos", type=int, default=9)
     ap.add_argument("--limite", type=int, default=9)
-    ap.add_argument("--formato", choices=["curto", "longo"], default="longo")
+    ap.add_argument("--formato", choices=["curto", "corrida_1min", "longo"], default="longo")
     a = ap.parse_args()
     for p in selecionar(max(1, a.alvo_prontos), max(1, a.limite), a.formato):
         print(p.relative_to(RAIZ) if a.rel else p)
