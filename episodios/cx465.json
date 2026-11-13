@@ -1,0 +1,247 @@
+{
+  "id": "cx465",
+  "ep": 465,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A VELA DE ANIVERSÁRIO COM NÚMERO ZERO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo e uma vela de número ZERO. Trinta anos depois, uma promessa ainda esperava para ser cumprida. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Surpresa #Reencontro",
+  "legenda_post": "🚕🎂 Uma vela de número zero, uma promessa de infância e uma biblioteca que ninguém esperava encontrar. Manda para quem te incentivou a começar. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Entrou no meu carro uma senhora com um bolo de aniversário e uma vela marcada com o número zero. Ela disse: hoje vou comemorar uma coisa que nunca aconteceu.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era alguma brincadeira. Ela respondeu: daqui a vinte minutos você vai entender por que essa vela não pode ser acesa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu nome era Helena. No banco de trás, segurava uma caixa azul e conferia um endereço escrito no verso de uma fotografia antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela me contou que, há trinta anos, trabalhava numa pequena biblioteca do bairro, onde um menino chamado Raul aparecia toda tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul não tinha dinheiro para comprar livros, então copiava histórias num caderno e devolvia cada exemplar antes do prazo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia ele anunciou que faria aniversário no sábado. Helena prometeu levar um bolo e convidar os outros leitores.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas na sexta-feira a biblioteca fechou de repente por causa de uma reforma. Ninguém conseguiu avisar Raul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena ficou esperando na porta no sábado com o bolo nas mãos. Raul não apareceu. Ela pensou que o menino tivesse esquecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Meses depois, soube que a família dele tinha se mudado naquela mesma semana. Nunca mais recebeu notícias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei para a vela de número zero e perguntei o que aquilo tinha a ver com hoje. Helena abriu a caixa azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia um cartão amarelado, com desenhos de planetas e a frase: meu primeiro aniversário com amigos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela explicou que Raul dizia nunca ter tido uma festa. O zero era uma brincadeira deles: a primeira festa começaria do zero.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Trinta anos depois, uma antiga colega da biblioteca encontrou o cartão num arquivo e publicou a fotografia numa reunião de ex-alunos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um homem respondeu à publicação. Disse que reconhecia a letra, a caixa e até a estrela torta desenhada no canto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era Raul. Agora professor, ele morava na mesma cidade e dava aulas de leitura para adultos num centro comunitário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena mandou mensagem pedindo desculpas por aquela festa perdida. Raul respondeu com um endereço e uma frase curiosa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele escreveu: traga a vela zero, porque ainda falta acender a primeira. Ela comprou um bolo antes de me chamar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao centro comunitário. Havia gente entrando e saindo com livros nas mãos, mas nenhuma decoração de aniversário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena ficou nervosa. Disse que talvez fosse ridículo aparecer com um bolo depois de tanto tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu falei que promessa antiga não precisa ser perfeita para ser cumprida. Ela ajeitou a caixa e desceu do carro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Da janela, vi Raul se aproximar. Ele reconheceu Helena imediatamente e apontou para a vela com uma gargalhada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas antes que cortassem o bolo, Raul pediu que ela entrasse numa sala onde uma dúzia de alunos esperava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na parede havia uma placa: Biblioteca Helena, inaugurada hoje. O professor tinha dado à sala o nome de quem o ensinou a amar livros.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena levou a mão à boca. Raul explicou que aquela promessa de festa o fizera sentir que alguém se importava com ele.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mesmo sem bolo naquele sábado, ele guardou o convite por décadas. E decidiu criar um lugar onde ninguém precisasse ficar de fora.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os alunos cantaram parabéns pela primeira biblioteca da turma. Raul colocou a vela zero no bolo, sem pressa de apagá-la.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena disse que o zero não significava ausência de festa. Significava que sempre era possível começar alguma coisa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei para o carro pensando em quantas promessas pequenas continuam vivas na memória de alguém, mesmo depois de muitos anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para quem um dia te incentivou a começar, mesmo quando parecia que não dava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
