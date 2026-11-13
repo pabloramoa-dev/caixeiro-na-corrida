@@ -1,0 +1,239 @@
+{
+  "id": "cx464",
+  "ep": 464,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA QUE GUARDOU UM SEGREDO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no carro com um guarda-chuva amarelo em pleno sol. O segredo no cabo mudou uma história de quinze anos. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reviravolta",
+  "legenda_post": "🚕☂️ Um guarda-chuva esquecido, uma estação antiga e um recibo que ninguém encontrou por quinze anos. Antes de julgar, descubra a história inteira. Manda para quem precisa ouvir isso. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Misterio #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro segurando um guarda-chuva fechado, embora estivesse um sol de rachar. E disse: se ele abrir hoje, alguém vai descobrir uma mentira de quinze anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu pensei que fosse superstição. Mas ela mostrou uma etiqueta com um endereço costurado no tecido e pediu que eu a levasse até lá antes das quatro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se chamava Teresa, era restauradora de objetos antigos e tinha encontrado aquele guarda-chuva no depósito de uma estação ferroviária desativada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O objeto era amarelo, com cabo de madeira e uma pequena estrela entalhada. Parecia comum, até ela girar o cabo e ouvir algo solto lá dentro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa contou que, quinze anos antes, seu pai trabalhava como bilheteiro naquela estação. Um dia, foi acusado de perder uma caixa de doações de uma campanha comunitária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A cidade inteira comentou o caso. O pai dela dizia que não tinha tocado no dinheiro, mas ninguém acreditou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pediu demissão, mudou de bairro e nunca mais quis passar perto dos trilhos. Teresa cresceu vendo o pai desviar o olhar sempre que ouvia um trem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, um antigo funcionário entregou a Teresa objetos esquecidos no depósito antes da reforma do prédio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Entre mapas, bancos quebrados e relógios parados estava o guarda-chuva amarelo. Na etiqueta havia o nome do pai dela, escrito com letra muito conhecida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa me mostrou uma fotografia antiga. O pai segurava aquele guarda-chuva ao lado de uma senhora que organizava as doações.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ela não abria logo o objeto. Teresa respondeu: porque o cabo parece ter sido lacrado e eu prometi abrir diante de quem estava lá.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No caminho, paramos numa papelaria para buscar uma lupa. O dono reconheceu a estrela no cabo e contou que fazia marcas assim em presentes para funcionários da estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele lembrou que o guarda-chuva tinha sido entregue ao bilheteiro por uma criança num dia de chuva forte.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A criança era neta da senhora responsável pelas doações. Ela havia deixado um recado dizendo que o avô precisava guardar uma coisa importante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa ficou confusa. O pai nunca mencionara nenhuma criança, nem o presente. Só dizia que havia visto a caixa pela última vez na sala de espera.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à antiga estação, agora transformada em centro cultural. Um pequeno grupo aguardava na plataforma: o pai de Teresa e dois antigos colegas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai olhou para o guarda-chuva e ficou imóvel. Disse que o reconhecia, mas achava que tinha desaparecido no dia da confusão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa perguntou o que havia dentro. Ele respondeu que não sabia, porque nunca conseguiu abrir o cabo sem quebrar a madeira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dos colegas se aproximou e confessou que havia guardado o guarda-chuva no depósito por medo de se envolver na acusação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi aí que Teresa percebeu uma rosca escondida debaixo da estrela. Ela girou devagar, e o cabo se soltou sem esforço.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia um papel enrolado, protegido por plástico. Não era dinheiro. Era um recibo assinado pela coordenadora da campanha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O recibo dizia que a caixa de doações tinha sido retirada oficialmente para depósito no banco, na manhã anterior ao desaparecimento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O segundo colega levou a mão à testa. Lembrou que a coordenadora adoecera naquela semana e o comprovante nunca chegara à administração.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai de Teresa releu a assinatura três vezes. Não houve aplausos nem discurso. Ele apenas sentou no banco da plataforma, aliviado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dos antigos colegas pediu desculpas por ter repetido a acusação sem verificar os fatos. O outro prometeu entregar o documento ao arquivo do centro cultural.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa abriu o guarda-chuva amarelo, mesmo sem uma nuvem no céu. Disse ao pai que, depois de quinze anos, aquele lugar podia voltar a ser apenas uma estação.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, vi os dois caminhando juntos pela plataforma. E pensei que um objeto esquecido às vezes carrega a resposta que ninguém teve coragem de procurar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para quem acredita que vale a pena descobrir a verdade antes de julgar alguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
