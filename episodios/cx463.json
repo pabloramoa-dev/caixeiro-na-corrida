@@ -1,0 +1,247 @@
+{
+  "id": "cx463",
+  "ep": 463,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA QUE SÓ PODIA SER ABERTA ÀS SEIS",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎸 Ele entrou no carro com uma mala vazia e uma ordem: não abrir antes das seis. O segredo era de vinte anos atrás. 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #Amizade",
+  "legenda_post": "🚕🎸 Uma mala, um violão desaparecido e vinte anos sem conversar. Às vezes, a viagem mais importante termina com um pedido de desculpas. Manda para quem merece uma conversa. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Amizade #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Entrou no meu carro um homem carregando uma mala vazia e um bilhete escrito: não abra antes das seis. Só que ele me pediu para chegar às cinco e cinquenta.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que era brincadeira. Mas quando ele falou que aquela mala podia devolver uma amizade de vinte anos, fiquei curioso.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Renato. Trabalhava consertando instrumentos musicais e não parava de olhar o relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ele tinha esquecido alguma coisa. Ele disse: esqueci de pedir desculpas quando ainda dava tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na juventude, Renato tocava numa banda de bairro com o melhor amigo, Davi. Um tocava violão, o outro bateria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eles ensaiavam numa garagem tão pequena que os vizinhos conheciam cada música antes de ficar pronta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia surgiu a chance de tocar num festival. Era a primeira apresentação fora do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na véspera, o violão de Davi desapareceu da garagem. Renato acusou o amigo de ter vendido o instrumento para fugir do palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi ficou ofendido. Disse que jamais faria isso e foi embora sem se apresentar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A banda acabou ali. Cada um seguiu sua vida, e os dois nunca mais conversaram.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinte anos depois, Renato encontrou uma caixa esquecida na antiga garagem, durante uma reforma.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia recibos, uma fotografia e um envelope com o nome de Davi.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando ele descobriu que o dono da garagem tinha levado o violão para consertar uma rachadura, sem avisar ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O recibo mostrava que Davi tinha pago o conserto escondido para surpreender Renato no festival.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato ficou sem palavras. Passou duas décadas culpando o amigo por uma coisa que ele não fez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que a mala estava vazia. Ele respondeu que precisava buscar algo antes de fazer o pedido de desculpas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Paramos numa pequena oficina. Um senhor entregou a Renato um violão restaurado, embrulhado em pano azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era o mesmo instrumento. Renato tinha passado meses procurando até encontrar o antigo dono.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele colocou o violão na mala e me mostrou o bilhete: não abra antes das seis. Era a hora em que o festival começaria naquele dia, vinte anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O endereço final era uma praça onde Davi ensinava música de graça para crianças do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos cedo. Renato ficou no banco de trás, respirando fundo e ensaiando uma frase que nunca conseguia terminar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que talvez um pedido simples fosse melhor que um discurso perfeito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Às seis, Davi apareceu com um grupo de alunos e viu a mala no banco da praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato abriu a mala. Davi reconheceu o violão antes mesmo de olhar para o rosto do antigo amigo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Por alguns segundos, ninguém falou. Então Renato disse: eu estava errado. Desculpa por não ter acreditado em você.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi pegou o instrumento, testou uma corda e respondeu: demorou, mas você chegou a tempo da próxima música.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "As crianças começaram a bater palmas. Os dois tocaram juntos ali mesmo, sem palco, sem ingresso e sem competição.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei para o carro pensando que algumas viagens não servem para recuperar o passado, mas para abrir espaço para um novo começo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para alguém com quem vale a pena conversar de novo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
