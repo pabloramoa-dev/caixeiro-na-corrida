@@ -1,0 +1,67 @@
+{
+  "id": "cx504",
+  "ep": 504,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-005",
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA NO DIA DE SOL",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem planeja tudo e esquece do tempo.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O GUARDA-CHUVA NO DIA DE SOL\nUm homem entrou no carro com três guarda-chuvas abertos e pediu para eu não perguntar nada até a próxima esquina.\n\nManda pra quem planeja tudo e esquece do tempo.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O GUARDA-CHUVA NO DIA DE SOL. Manda pra quem planeja tudo e esquece do tempo. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Um homem entrou no carro com três guarda-chuvas abertos e pediu para eu não perguntar nada até a próxima esquina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu expliquei que dentro do carro precisava fechar os guarda-chuvas, e ele obedeceu fazendo uma cara de missão secreta.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando perguntei o motivo, ele disse que ia participar de uma apresentação de dança surpresa no aniversário da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na chegada, os amigos já estavam esperando com capas de chuva e óculos escuros, todos ensaiando os mesmos passos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Começou a música, os guarda-chuvas abriram e justamente naquele momento caiu uma chuva de verdade sobre a festa.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O coreógrafo falou que era efeito especial, mas eu vi todo mundo correndo para salvar o bolo da aniversariante.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
