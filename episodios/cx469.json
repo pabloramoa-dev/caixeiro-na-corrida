@@ -1,0 +1,223 @@
+{
+  "id": "cx469",
+  "ep": 469,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CHAVE DOURADA DA PADARIA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔑 Ela entrou no carro com uma chave dourada. O que havia na gaveta da padaria mudou duas irmãs para sempre! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #Familia",
+  "legenda_post": "🚕🔑 Uma chave dourada, uma padaria antiga e uma carta que esperou vinte anos. Manda para quem merece uma nova conversa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro com uma chave dourada e perguntou: motorista, você acredita que uma porta fechada há vinte anos ainda pode mudar uma família?",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes que eu respondesse, ela mostrou uma foto de duas irmãs abraçadas diante de uma pequena padaria. Disse que naquela tarde uma delas descobriria a verdade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O nome dela era Rosa. A chave estava presa num cordão azul e fazia barulho toda vez que o carro passava num buraco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa explicou que sua mãe tinha uma padaria. Quando morreu, deixou duas filhas e uma gaveta trancada no balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A irmã mais velha, Marta, acreditava que a mãe preferia Rosa. As duas discutiram pela herança e passaram anos sem se visitar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, um antigo padeiro telefonou. Disse que a gaveta ainda estava intacta, mas a loja seria reformada antes do anoitecer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que ela nunca abriu a gaveta. Rosa respondeu: eu não tinha a chave. Ontem encontrei esta dentro de um livro de receitas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto dirigia, ouvi Rosa ensaiar um pedido de desculpas. Ela repetia a primeira frase e desistia antes de terminar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a padaria estava vazia. Só restavam o balcão antigo e o cheiro de madeira recém-cortada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa colocou a chave na fechadura. Girou uma vez, depois outra. A gaveta abriu com um estalo que pareceu alto demais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia um envelope, duas fotografias e uma folha manchada de farinha. Rosa abriu o envelope com as mãos trêmulas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta começava assim: minhas meninas, se vocês encontraram isto, provavelmente estão brigando por algo que nunca foi de uma só.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiquei perto da porta, tentando não atrapalhar. Rosa continuou lendo, agora em voz alta, como se a mãe estivesse ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta dizia que a padaria só existia porque Marta vendia bolos na escola e Rosa entregava pão de bicicleta depois das aulas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No fim, a mãe escreveu: não deixei duas metades de um negócio. Deixei uma lembrança inteira para vocês cuidarem juntas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa sentou no chão e riu de nervoso. Então viu uma segunda folha: era a receita do bolo que Marta sempre pedia nos aniversários.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pegou o celular e ligou para a irmã. Marta atendeu desconfiada, perguntando se havia algum problema com a reforma.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa disse apenas: encontrei uma coisa da mamãe. Você consegue vir aqui? E, pela primeira vez em anos, não tentou vencer a conversa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marta chegou vinte minutos depois. As duas ficaram frente a frente sem saber se deviam se abraçar ou falar primeiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa entregou a carta. Marta leu até o fim, enxugou os olhos e perguntou: você ainda lembra como fazer aquele bolo?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa respondeu: lembro da receita, mas nunca acertei a cobertura. Marta soltou uma risada: porque você sempre esquecia o limão.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "As duas foram para a cozinha vazia e começaram a procurar utensílios. Eu já ia embora quando Rosa me chamou para provar a primeira fatia.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O bolo saiu torto e a cobertura escorreu. Marta disse que estava perfeito. Rosa respondeu que a mãe teria reclamado do forno.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, vi as duas pendurarem a chave dourada junto à porta. Não era mais uma chave para guardar segredo, mas para lembrar de abrir conversas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Tem gente esperando a frase perfeita para fazer as pazes. Às vezes basta dizer: encontrei algo que queria dividir com você.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para alguém com quem você gostaria de abrir uma nova conversa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
