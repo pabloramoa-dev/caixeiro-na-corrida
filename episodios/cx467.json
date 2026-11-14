@@ -1,0 +1,239 @@
+{
+  "id": "cx467",
+  "ep": 467,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O TROFÉU SEM NOME",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ele entrou no carro com um troféu sem nome. A verdadeira campeã estava prestes a desistir! 🚕 História de ficção. #CaixeiroNaCorrida #HistoriasDeMotorista #Corrida #Reviravolta",
+  "legenda_post": "🏆 Um troféu sem nome, um resultado errado e uma corredora que quase desistiu. Às vezes, reconhecer o erro muda uma vida. Manda para quem merece ser ouvido. História de ficção. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Corrida #Superacao",
+  "batidas": [
+    {
+      "fala": "Um homem entrou no meu carro carregando um troféu sem nome. Disse que precisava devolvê-lo antes que a verdadeira campeã desistisse de correr.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era roubado. Ele respondeu: pior, foi entregue à pessoa errada. E o erro começou comigo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro era Sérgio, organizador de uma corrida de bairro. Na mão, segurava um troféu de madeira com a plaquinha arrancada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na véspera, uma tempestade havia apagado parte dos resultados da prova. Ele reconstruiu a classificação usando anotações molhadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando anunciou a vencedora, todo mundo aplaudiu. Só uma senhora de tênis azul ficou quietinha perto da linha de chegada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chamava-se Dona Lídia. Tinha sessenta e oito anos e treinava havia meses para completar seus primeiros cinco quilômetros.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela não reclamou. Apenas perguntou se os tempos tinham sido conferidos. Sérgio respondeu que sim, sem conferir de novo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "De manhã, ele encontrou uma fotografia tirada por um voluntário. No relógio da chegada, o número de Lídia aparecia claramente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi aí que percebeu a troca: o tempo dela havia sido atribuído a outra competidora com número parecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas tinha uma segunda surpresa. Lídia não era apenas a vencedora da categoria. Ela tinha sido a primeira pessoa a cruzar a chegada na prova comunitária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei o troféu pelo retrovisor. Sérgio disse que tentou ligar, mas Lídia desligou depois de ouvir a palavra resultado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela achou que ele estava telefonando para corrigir alguma coisa contra ela. Naquela manhã, tinha decidido guardar o tênis e parar de correr.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei como ele sabia disso. Sérgio mostrou uma mensagem da neta dela: Vovó disse que não quer mais passar vergonha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A gente parou num sinal. Ele segurou o troféu com as duas mãos e confessou que o pior não era errar uma planilha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era ter respondido com tanta certeza a alguém que só estava pedindo para ser ouvida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No caminho, Sérgio recebeu uma ligação. A neta avisou que a avó estava na praça, doando seus tênis para uma campanha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pediu para eu mudar a rota. Chegamos à praça quando Lídia estava amarrando os cadarços dos tênis para entregar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Sérgio desceu, mas não levantou o troféu. Primeiro pediu desculpas pela pressa e pela maneira como falou com ela.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lídia ficou séria. Perguntou se ele tinha vindo porque alguém reclamou nas redes sociais.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele respondeu: vim porque você estava certa. Eu errei, e devia ter escutado na primeira vez.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então mostrou a foto do relógio, a planilha corrigida e o troféu. Disse que faria a correção pública, com o consentimento dela.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lídia pegou o troféu e começou a rir. Disse que não precisava de cerimônia, mas que queria uma coisa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu pensei que ela pediria uma medalha nova. Ela pediu que, na próxima corrida, alguém conferisse os resultados antes de anunciar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Sérgio prometeu. A neta apareceu correndo e perguntou se a avó ainda ia doar os tênis.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lídia olhou para os tênis azuis, abraçou o troféu e respondeu: doar nada. Domingo tem treino.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando voltou ao carro, Sérgio disse que o troféu era leve, mas tinha pesado o caminho inteiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu falei que admitir um erro dá trabalho. Só que deixar alguém carregar a injustiça dá muito mais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para quem sabe que pedir desculpas também é uma forma de chegar em primeiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
