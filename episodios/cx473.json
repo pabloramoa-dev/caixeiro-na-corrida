@@ -1,0 +1,231 @@
+{
+  "id": "cx473",
+  "ep": 473,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA DE SAPATOS COM CADEADO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔒 Ela entrou no carro com uma caixa trancada e uma chave escondida num foguete de brinquedo. O que havia dentro surpreendeu até o avô! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🔒 Uma caixa de sapatos trancada, um foguete de brinquedo e uma surpresa guardada por anos. Às vezes, o maior presente é saber que alguém se lembra de você. Manda para quem sempre cuidou de você. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Gratidao",
+  "batidas": [
+    {
+      "fala": "Uma mulher entrou no meu carro segurando uma caixa de sapatos com um cadeado. Disse: se eu chegar atrasada, meu avô vai vender a única coisa que ainda me liga à minha infância.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se havia dinheiro na caixa. Ela respondeu: não faço ideia. E esse é justamente o problema.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Lívia. Estava indo à feira de antiguidades, onde o avô, seu Anselmo, tinha uma barraca havia quarenta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na véspera, ele avisara que venderia uma velha caixa esquecida no armário. Disse que não precisava mais guardar tralha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas Lívia reconheceu a caixa numa fotografia. Era a mesma que a avó levava para todos os aniversários da família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando criança, Lívia acreditava que ali morava uma máquina de fabricar surpresas. A avó nunca deixava ninguém espiar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que ela não tinha aberto a caixa antes. Lívia mostrou o cadeado: a chave desapareceu quando a avó morreu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então ela tirou do bolso um chaveiro de plástico em forma de foguete. Encontrara aquilo naquela manhã, dentro de um livro de receitas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O foguete tinha uma pequena chave escondida na base. A avó adorava esconder coisas em lugares improváveis.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse: se a chave abrir, você vai descobrir que sua avó era agente secreta. Lívia riu pela primeira vez na corrida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O trânsito travou perto da praça. Ela ligou para o avô, mas ele não atendeu. A feira já estava começando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto esperávamos o sinal, Lívia contou que o avô andava quieto desde que se aposentara da barraca de consertos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele dizia que ninguém precisava mais de suas ferramentas antigas. Nem das histórias que contava sobre elas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à feira e vimos seu Anselmo colocando uma etiqueta de preço na caixa. Lívia saiu do carro com o foguete na mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiquei esperando a corrida terminar no aplicativo. Vi os dois discutindo baixinho, até ela mostrar a pequena chave.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O avô reconheceu o foguete e levou a mão à testa. Depois tirou a etiqueta e deixou que Lívia abrisse o cadeado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia dezenas de fotografias pequenas, bilhetes coloridos e uma fita métrica com marcas de altura de várias crianças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Cada bilhete tinha uma data e uma frase engraçada. Eram as coisas que os netos diziam quando vinham passar o domingo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dizia: o vovô conserta tudo, menos a chuva. Outro dizia: a vovó faz bolo que parece abraço.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas no fundo havia um envelope novo, escrito com a letra da avó: para Anselmo, quando achar que ninguém se lembra.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Anselmo abriu o envelope. Era uma lista dos consertos que ele fizera de graça para vizinhos, parentes e desconhecidos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Embaixo, a avó escrevera que ele não guardava objetos velhos. Guardava maneiras de fazer as pessoas se sentirem importantes.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele ficou olhando a lista. Lívia apontou para a barraca e perguntou se ele podia ensinar a ela a consertar um relógio.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O velho respondeu: relógio eu ensino. Mas primeiro vou precisar consertar essa etiqueta de preço, que ficou uma vergonha.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois riram. Antes de ir embora, Lívia voltou ao carro e disse que a caixa não tinha sido vendida. Tinha encontrado uma nova dona.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu segui viagem pensando que algumas heranças não cabem no banco. Elas aparecem quando alguém resolve ouvir uma história antiga.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que sempre consertou tudo por você, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
