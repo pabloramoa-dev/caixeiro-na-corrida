@@ -1,0 +1,67 @@
+{
+  "id": "cx502",
+  "ep": 502,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-003",
+  "ficcao_original": true,
+  "titulo": "O BOLO COM O NOME ERRADO",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem manda áudio confuso no grupo.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O BOLO COM O NOME ERRADO\nEntrou uma senhora segurando um bolo com tanto cuidado que até eu passei a desviar dos buracos como se carregasse cristal.\n\nManda pra quem manda áudio confuso no grupo.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O BOLO COM O NOME ERRADO. Manda pra quem manda áudio confuso no grupo. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Entrou uma senhora segurando um bolo com tanto cuidado que até eu passei a desviar dos buracos como se carregasse cristal.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que era aniversário do neto e que tinha encomendado tudo por mensagem, inclusive a frase da cobertura.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o celular tocou, ela leu a foto enviada pela confeitaria e soltou uma gargalhada que quase me assustou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em vez de escrever parabéns, Miguel, a confeiteira tinha colocado exatamente o texto da mensagem: pode escrever parabéns, Miguel.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à festa e a família inteira começou a rir antes mesmo de cortar a primeira fatia do bolo.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu acho que foi o único aniversário em que a instrução veio de presente junto com o recheio de chocolate.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

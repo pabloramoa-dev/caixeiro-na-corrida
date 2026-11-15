@@ -1,0 +1,324 @@
+{
+  "id": "cx427",
+  "ep": 427,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DAS SAPATILHAS AZUIS",
+  "categoria": "misterio_memoria_teatro",
+  "cenario": "tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🩰 Ela entrou no meu carro com sapatilhas azuis e uma carta: precisava abrir o armário 17 antes que esvaziassem um teatro! 😳 O que havia lá mudou tudo. #CaixeiroNaCorrida #HistoriasDeUber #FinalSurpresa #StorytimeBrasil #Misterio",
+  "legenda_post": "🎭🩰 Uma chave escondida, um teatro prestes a fechar e a última carta de uma mãe. Marina não imaginava o que encontraria no armário 17. Que lembrança você guardaria para sempre? ❤️ #CaixeiroNaCorrida #HistoriasDeMotorista #ReelsBrasil #Memorias #Reviravolta\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma sacola de sapatos e disse: se chegarmos depois das seis, vão vender a última lembrança da minha mãe.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "seis",
+        "chegarmos"
+      ]
+    },
+    {
+      "fala": "A passageira, Marina, segurava um par de sapatilhas azuis como se fosse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "passageira"
+      ]
+    },
+    {
+      "fala": "Ela pediu para ir até um antigo teatro do centro, fechado havia muitos anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "fechado",
+        "antigo"
+      ]
+    },
+    {
+      "fala": "Antes de sair, mostrou uma fotografia: uma bailarina sorrindo ao lado de uma menina pequena.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "fotografia",
+        "bailarina"
+      ]
+    },
+    {
+      "fala": "A bailarina era sua mãe, Helena. E aquele teatro seria esvaziado naquela mesma tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "bailarina"
+      ]
+    },
+    {
+      "fala": "Marina explicou que a mãe costurava figurinos e dançava escondida nos intervalos dos espetáculos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "espetáculos",
+        "intervalos"
+      ]
+    },
+    {
+      "fala": "Quando Helena morreu, ficou uma carta: procure o armário número dezessete antes que fechem as portas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "dezessete"
+      ]
+    },
+    {
+      "fala": "Eu perguntei por que ela esperou tanto. Marina respondeu que só tinha encontrado a carta naquela manhã.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "encontrado"
+      ]
+    },
+    {
+      "fala": "Na primeira esquina, o telefone tocou. Um funcionário avisou: o leilão começou mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "funcionário",
+        "primeira"
+      ]
+    },
+    {
+      "fala": "Marina apertou as sapatilhas contra o peito. Eu procurei uma rota sem trânsito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "sapatilhas",
+        "procurei"
+      ]
+    },
+    {
+      "fala": "Ela contou que tinha medo de entrar naquele teatro, porque era onde ouvira a última apresentação da mãe.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "apresentação",
+        "naquele"
+      ]
+    },
+    {
+      "fala": "Quando paramos no sinal, notei uma etiqueta escondida na sapatilha: armário dezessete.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "escondida",
+        "sapatilha"
+      ]
+    },
+    {
+      "fala": "Marina virou o calçado e encontrou uma chave pequena costurada por dentro da fita.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "encontrou",
+        "costurada"
+      ]
+    },
+    {
+      "fala": "Mas a chave estava torta. Ela achou que não serviria e ficou em silêncio.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "serviria",
+        "silêncio"
+      ]
+    },
+    {
+      "fala": "Chegamos ao teatro e vimos caminhões na porta. Um segurança dizia que ninguém mais podia entrar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "caminhões",
+        "segurança"
+      ]
+    },
+    {
+      "fala": "Marina mostrou a carta. O homem reconheceu a assinatura de Helena e mudou de expressão.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "reconheceu"
+      ]
+    },
+    {
+      "fala": "Ele contou que Helena havia ajudado a salvar o teatro de um incêndio muitos anos antes.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "incêndio"
+      ]
+    },
+    {
+      "fala": "O segurança nos conduziu até um corredor estreito, cheio de cartazes antigos e caixas de figurino.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "segurança",
+        "conduziu"
+      ]
+    },
+    {
+      "fala": "O armário dezessete estava lá, coberto de poeira. Marina tentou a chave, mas a fechadura não girou.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "dezessete"
+      ]
+    },
+    {
+      "fala": "Foi então que uma senhora apareceu atrás de nós e disse: sua mãe sempre abria essa porta cantando.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "apareceu",
+        "cantando"
+      ]
+    },
+    {
+      "fala": "Era Rosa, antiga contrarregra. Ela cantarolou uma melodia, enquanto Marina tentava outra vez.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marina",
+        "Rosa"
+      ]
+    },
+    {
+      "fala": "A chave girou. Dentro havia um caderno de desenhos, cartas e um envelope com o nome de Marina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Dentro",
+        "Marina"
+      ]
+    },
+    {
+      "fala": "Marina abriu o envelope e leu que Helena havia guardado ali algo para seu primeiro grande espetáculo.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Mas não havia joias nem dinheiro. Havia um convite escrito à mão e uma lista de pessoas que acreditavam nela.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Havia",
+        "acreditavam"
+      ]
+    },
+    {
+      "fala": "Rosa explicou que todos aqueles nomes eram ex-alunos de Helena, que agora ensinavam dança pela cidade.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "ensinavam"
+      ]
+    },
+    {
+      "fala": "De repente, o saguão se encheu de gente. Eles tinham recebido o aviso e vieram impedir que a memória se perdesse.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Eles",
+        "recebido"
+      ]
+    },
+    {
+      "fala": "Marina colocou as sapatilhas sobre o palco vazio. Os antigos alunos a convidaram para uma apresentação de despedida.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "apresentação",
+        "sapatilhas"
+      ]
+    },
+    {
+      "fala": "Eu saí daquela corrida pensando que algumas heranças não cabem em uma caixa. Quem marcou sua vida assim? Conta aqui e segue o Caixeiro!",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "QUAL LEMBRANÇA VOCÊ GUARDARIA?"
+      ],
+      "destaque": [
+        "Caixeiro",
+        "Conta"
+      ]
+    }
+  ]
+}

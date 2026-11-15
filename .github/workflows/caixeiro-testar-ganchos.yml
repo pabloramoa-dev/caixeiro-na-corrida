@@ -1,0 +1,31 @@
+name: Caixeiro - validar ganchos narrativos
+on:
+  push:
+    branches:
+      - feat/caixeiro-ganchos-antecipacao-20261027
+    paths:
+      - motor/ganchos_caixeiro.py
+      - motor/produzir.py
+      - motor/compilar_roteiros.py
+      - motor/render_version.py
+      - tests/test_ganchos_caixeiro.py
+      - .github/workflows/caixeiro-testar-ganchos.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/caixeiro-ganchos-antecipacao-20261027
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Testar os roteiros existentes
+        run: |
+          python -m unittest discover -s tests -p test_ganchos_caixeiro.py -v
+          python motor/ganchos_caixeiro.py
+          python -m compileall -q motor src

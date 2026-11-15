@@ -1,0 +1,67 @@
+{
+  "id": "cx503",
+  "ep": 503,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-004",
+  "ficcao_original": true,
+  "titulo": "A PLANTA QUE TINHA NOME DE GENTE",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem trata planta como integrante da família.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | A PLANTA QUE TINHA NOME DE GENTE\nUma moça entrou com uma samambaia no banco de trás e pediu que eu dirigisse devagar porque a Dolores estava sensível.\n\nManda pra quem trata planta como integrante da família.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A PLANTA QUE TINHA NOME DE GENTE. Manda pra quem trata planta como integrante da família. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Uma moça entrou com uma samambaia no banco de trás e pediu que eu dirigisse devagar porque a Dolores estava sensível.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor tentando descobrir quem era Dolores, mas só vi a moça e aquela planta gigantesca.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela explicou muito séria que Dolores tinha passado por uma mudança difícil e agora precisava de um lugar com mais luz.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a portaria perguntou o nome da visitante e a moça respondeu Dolores sem nem pensar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O porteiro procurou na lista, olhou para a samambaia e falou que visitante verde só entrava com autorização da síndica.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fui embora com a impressão de que a samambaia ia arrumar apartamento mais rápido do que muita gente.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

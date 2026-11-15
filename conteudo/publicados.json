@@ -1,0 +1,149 @@
+[
+ {
+  "id": "cx349",
+  "media_id": "18162431113556670",
+  "quando": "2026-11-10T13:00-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "diario",
+  "dia_teste": null,
+  "formato": "longo",
+  "duracao": 149.5
+ },
+ {
+  "id": "cx350-story",
+  "media_id": "18125595206294822",
+  "quando": "2026-11-10T14:05-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx350",
+  "media_id": "18062912552546002",
+  "quando": "2026-11-10T14:06-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-10",
+  "formato": "longo",
+  "duracao": 149.0
+ },
+ {
+  "id": "cx335",
+  "media_id": "18117341684166928",
+  "quando": "2026-11-11T19:02-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-11",
+  "formato": "curto",
+  "duracao": 66.2
+ },
+ {
+  "id": "cx351-story",
+  "media_id": "18373910239208094",
+  "quando": "2026-11-12T01:02-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx351",
+  "media_id": "18645303544052656",
+  "quando": "2026-11-12T01:03-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-12",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 148.5
+ },
+ {
+  "id": "cx500",
+  "media_id": "17959358262302988",
+  "quando": "2026-11-12T18:44-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-12",
+  "formato": "curto",
+  "serie": "Corrida de 1 Minuto",
+  "duracao": 44.9
+ },
+ {
+  "id": "cx352-story",
+  "media_id": "18097448099675912",
+  "quando": "2026-11-13T00:18-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx352",
+  "media_id": "18219468256314507",
+  "quando": "2026-11-13T00:19-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-13",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 148.0
+ },
+ {
+  "id": "cx501",
+  "media_id": "17992229013075836",
+  "quando": "2026-11-13T18:11-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-13",
+  "formato": "curto",
+  "serie": "Corrida de 1 Minuto",
+  "duracao": 47.2
+ },
+ {
+  "id": "cx502",
+  "media_id": "18143796967618140",
+  "quando": "2026-11-14T16:43-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-14",
+  "formato": "curto",
+  "serie": "Corrida de 1 Minuto",
+  "duracao": 46.5
+ },
+ {
+  "id": "cx353-story",
+  "media_id": "18012213311778173",
+  "quando": "2026-11-14T23:31-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx353",
+  "media_id": "18130461961884998",
+  "quando": "2026-11-14T23:32-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-14",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 144.8
+ }
+]

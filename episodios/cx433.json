@@ -1,0 +1,324 @@
+{
+  "id": "cx433",
+  "ep": 433,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PASSAGEIRA DA CHAVE ENFERRUJADA",
+  "categoria": "misterio_padaria",
+  "cenario": "fim_de_tarde",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔑 Ela me entregou uma chave enferrujada e pediu: se a porta estiver aberta, não me deixe entrar! 🚕 O motivo mudou tudo. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reviravolta",
+  "legenda_post": "🚕🔑 Uma chave antiga, uma padaria fechada e uma carta misteriosa. Marta voltou à rua da infância para descobrir o último segredo do pai. Você teria coragem de abrir aquela porta? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #FinalSurpresa\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma chave enferrujada e disse: se a porta estiver aberta, não me deixe entrar. Só entendi o aviso quando chegamos.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "enferrujada",
+        "chegamos"
+      ]
+    },
+    {
+      "fala": "Aquela corrida começou num fim de tarde chuvoso, perto do mercado municipal.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "municipal",
+        "corrida"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Marta. Tinha uma sacola de pano e segurava a chave como quem guarda uma notícia difícil.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "Tinha"
+      ]
+    },
+    {
+      "fala": "O destino era uma pequena padaria fechada havia doze anos, na rua onde ela crescera.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "doze",
+        "crescera"
+      ]
+    },
+    {
+      "fala": "Perguntei por que tanta pressa. Ela disse que naquela noite o prédio seria entregue aos novos donos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Perguntei",
+        "entregue"
+      ]
+    },
+    {
+      "fala": "Antes de fechar, a padaria era do pai dela, seu Américo, conhecido por oferecer pão a quem não podia pagar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Américo",
+        "conhecido"
+      ]
+    },
+    {
+      "fala": "Marta se mudou para outra cidade depois de uma discussão com o pai e nunca voltou para conversar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "discussão",
+        "conversar"
+      ]
+    },
+    {
+      "fala": "Na última semana, recebeu uma carta sem remetente: a receita não está no caderno. Está onde a luz entra.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Está",
+        "remetente"
+      ]
+    },
+    {
+      "fala": "A carta vinha acompanhada daquela chave, que ela reconheceu como sendo da antiga porta dos fundos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "acompanhada",
+        "reconheceu"
+      ]
+    },
+    {
+      "fala": "Eu achei que ela procurava dinheiro escondido. Marta respondeu que só queria descobrir por que o pai guardou aquela frase.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "procurava"
+      ]
+    },
+    {
+      "fala": "No caminho, passamos por um mural pintado com pães dourados. Ela pediu que eu diminuísse a velocidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "diminuísse",
+        "velocidade"
+      ]
+    },
+    {
+      "fala": "Ali estava a assinatura do pai, ao lado de dezenas de nomes escritos com tinta azul.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "assinatura",
+        "escritos"
+      ]
+    },
+    {
+      "fala": "Ela explicou que Américo anotava o nome de cada pessoa que ajudava, mas nunca cobrava nada depois.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Américo",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, a fachada estava iluminada. A porta principal, que deveria estar trancada, estava aberta.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "iluminada",
+        "principal"
+      ]
+    },
+    {
+      "fala": "Marta apertou meu braço e repetiu o pedido: se estiver aberta, não me deixe entrar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "apertou",
+        "repetiu"
+      ]
+    },
+    {
+      "fala": "Eu estacionei e perguntei o motivo. Ela contou que tinha medo de encontrar só um salão vazio.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estacionei",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Então uma senhora apareceu na calçada. Era dona Celina, antiga vizinha e cliente da padaria.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "Era"
+      ]
+    },
+    {
+      "fala": "Celina disse que a chave não abria a porta. Abria uma pequena caixa presa à janela dos fundos.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Abria",
+        "pequena"
+      ]
+    },
+    {
+      "fala": "Fomos até lá juntos. A janela recebia o último raio de sol, exatamente como dizia a carta.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "exatamente",
+        "recebia"
+      ]
+    },
+    {
+      "fala": "Dentro da caixa havia cartões de receitas, fotografias e uma lista de nomes que parecia não ter fim.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "fotografias",
+        "receitas"
+      ]
+    },
+    {
+      "fala": "Marta reconheceu os nomes do mural. Cada um tinha escrito uma lembrança de seu Américo.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Américo",
+        "Cada"
+      ]
+    },
+    {
+      "fala": "Um cartão dizia: quando minha família não tinha café, ele deixava pão na porta e fingia que tinha sobrado.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "família",
+        "deixava"
+      ]
+    },
+    {
+      "fala": "Outro dizia: aprendi a fazer massa com ele e hoje sustento meus filhos trabalhando como padeiro.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "trabalhando",
+        "sustento"
+      ]
+    },
+    {
+      "fala": "Marta encontrou também um bilhete do pai: a melhor receita é fazer alguém se sentir bem-vindo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "encontrou",
+        "bilhete"
+      ]
+    },
+    {
+      "fala": "Foi então que Celina revelou a surpresa: os antigos clientes haviam comprado os equipamentos para reabrir a padaria como cozinha comunitária.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Celina",
+        "surpresa"
+      ]
+    },
+    {
+      "fala": "A chave seria entregue a Marta, não para obrigá-la a ficar, mas para que ela decidisse como preservar a história.",
+      "expr": "brava",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Marta",
+        "decidisse"
+      ]
+    },
+    {
+      "fala": "Ela olhou para a porta aberta, respirou fundo e entrou. Desta vez, não encontrou um salão vazio: encontrou uma mesa cheia de gente.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Desta",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "Voltei ao volante pensando que algumas portas só precisam de coragem para serem atravessadas. Você entraria? Comente e siga o Caixeiro!",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "VOCÊ ENTRARIA?"
+      ],
+      "destaque": [
+        "Caixeiro",
+        "Comente"
+      ]
+    }
+  ]
+}

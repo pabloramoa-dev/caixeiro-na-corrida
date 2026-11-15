@@ -1,0 +1,16 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="composition.css">
+<style>$estilo
+.brand,.speaker,#progress{background:#ffb347}
+</style></head><body>
+<div id="root" class="$classe" data-composition-id="caixeiro" data-width="1080" data-height="1920" data-duration="$dur" data-fps="30">
+<video id="base" class="clip" src="assets/base.mp4" data-start="0" data-duration="$dur" data-track-index="0" muted playsinline></video>
+<div class="wash"></div>
+<header><div class="brand">CAIXEIRO NA CORRIDA</div><div class="tag">RÁDIO CAIXEIRO</div></header>
+$paineis$confetti
+<div id="progress"></div><div id="grain"></div><div id="wipe"></div><div id="flash"></div>
+<audio id="voice" src="assets/mix.wav" data-start="0" data-duration="$dur" data-track-index="4"></audio>
+<script src="assets/gsap.min.js"></script>
+<script>const tl=gsap.timeline({paused:true});$anim
+window.__timelines=window.__timelines||{};window.__timelines.caixeiro=tl;</script>
+</div></body></html>

@@ -1,0 +1,255 @@
+{
+  "id": "cx466",
+  "ep": 466,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O SAPATO VERMELHO NA CAIXA DE PIZZA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🍕👠 Ela entrou no carro com um sapato vermelho numa caixa de pizza. O motivo estava escondido havia vinte anos! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reencontro",
+  "legenda_post": "🚕👠 Um sapato vermelho, uma caixa de pizza e uma dança interrompida há vinte anos. Manda para quem acredita que ainda dá tempo de conversar. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Humor\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro com um sapato vermelho dentro de uma caixa de pizza. E avisou: se a dona reconhecer esse sapato, hoje vai ter um casamento inesperado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. Ela acrescentou: só que ninguém pode saber que fui eu que trouxe. Aí percebi que aquela corrida não seria normal.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se chamava Marina e pediu para ir até um salão de festas no centro. No colo, segurava a caixa como se fosse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que não usava uma sacola. Marina respondeu que o sapato tinha passado vinte anos escondido, e uma caixa de pizza era o disfarce perfeito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinte anos antes, sua tia Celina trabalhava costurando vestidos de festa e sonhava em dançar num baile com um rapaz chamado Augusto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na noite do baile, Celina comprou um par de sapatos vermelhos. Mas só conseguiu usar um. O outro desapareceu antes da primeira música.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela procurou por todo lado. Augusto achou que Celina não queria dançar com ele e foi embora, sem ouvir a explicação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que parecia uma história de filme. Marina concordou, mas contou que a parte mais estranha só tinha aparecido naquela semana.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto organizava o depósito da avó, encontrou uma caixa com um sapato vermelho, um ingresso de baile e um bilhete dobrado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No bilhete estava escrito: guardei para que você voltasse amanhã. Só que ninguém assinou, e amanhã virou vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina levou o sapato a um sapateiro antigo. Ele reconheceu a marca e contou que tinha consertado o par para uma moça chamada Celina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O sapateiro lembrava também de um rapaz que apareceu no dia seguinte perguntando se ela tinha voltado. Era Augusto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei onde estava Augusto agora. Marina sorriu e disse: no mesmo salão para onde estamos indo. Ele dá aulas de dança lá.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Celina também estaria no salão, convidada para uma festa de ex-alunos. Mas os dois não se falavam desde aquela noite.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando faltavam dez minutos, Marina recebeu uma mensagem: a tia tinha desistido de ir. Disse que não queria reviver uma vergonha antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina pediu que eu parasse diante de uma floricultura. Comprou uma rosa e colocou junto do sapato, como quem completa uma pista.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi então que o celular dela tocou. Era a avó, perguntando se tinha encontrado a caixa de pizza. Marina respondeu que sim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Do outro lado, a avó ficou em silêncio. Depois confessou: fui eu que escondi aquele sapato, mas não para atrapalhar ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na época, Celina estava prestes a se mudar para outra cidade. A mãe queria que ela ficasse e inventou uma desculpa para adiar o baile.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A avó se arrependeu logo depois, mas teve vergonha de contar. Guardou o sapato e o bilhete de Augusto por todos aqueles anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina ficou quieta no banco de trás. Disse que agora precisava decidir se contaria a verdade ou deixaria os dois seguirem separados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu respondi que um sapato não resolve vinte anos de silêncio, mas talvez abra espaço para uma conversa que nunca aconteceu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao salão. Augusto arrumava as cadeiras quando Marina entregou a caixa. Ele abriu, viu o sapato e reconheceu na hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto tirou do bolso um pequeno chaveiro vermelho. Era a miniatura de um sapato, presente que Celina lhe dera antes daquele baile.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que nunca se casou, mas também nunca esqueceu a amiga. Marina então ligou para Celina e colocou a chamada no viva-voz.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Celina ouviu a voz dele e perguntou: você ainda sabe dançar aquela música? Augusto respondeu: eu só estava esperando a parceira.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma hora depois, Celina chegou ao salão. Não houve casamento, como Marina tinha brincado. Houve uma dança, um pedido de desculpas e muitas risadas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Marina me mostrou uma foto dos dois dançando. A caixa de pizza aparecia em cima de uma mesa, agora cheia de doces.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu aprendi que às vezes o que falta para uma história continuar não é um grande gesto. É alguém ter coragem de entregar uma verdade antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para quem acredita que uma conversa sincera pode mudar o final de uma história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "cx454",
+  "ep": 454,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A FITA DO LADO B",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "📼 Ele entrou no carro com uma chave enferrujada e uma fita misteriosa. O que havia no lado B? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Misterio #Reencontro",
+  "legenda_post": "🚕📼 Uma garagem fechada, uma fita antiga e uma conversa interrompida há vinte anos. Manda para quem merece uma segunda chance. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Amizade #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro com uma chave enferrujada e disse: preciso abrir uma porta que foi fechada há vinte anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas quando chegamos, a porta já estava aberta. E alguém tinha deixado uma cadeira esperando por ele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro era Davi, um técnico de som que quase não falava durante a corrida.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No banco de trás, ele segurava uma caixa pequena com uma fita cassete e uma etiqueta escrita à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ele estava indo visitar alguém. Davi respondeu: talvez eu esteja indo pedir desculpas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que, quando jovem, tocava bateria com o melhor amigo, Breno, numa garagem apertada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois gravavam músicas numa fita velha e sonhavam em tocar numa rádio de verdade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia, surgiu uma oportunidade. Só havia vaga para um músico.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi aceitou sem conversar com Breno e, na semana seguinte, foi embora da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois disso, as mensagens pararam. A garagem fechou e a banda virou uma lembrança desconfortável.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, uma carta chegou à casa de Davi com a chave antiga e uma frase: escute o lado B.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele tentou ouvir a fita, mas o aparelho de casa já não funcionava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então decidiu voltar ao endereço da garagem, levando a fita e a chave.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando faltavam duas ruas, Davi pediu que eu diminuísse a velocidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na calçada havia um cartaz desbotado com o nome da banda que os dois inventaram na adolescência.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A garagem estava aberta. No meio do espaço, uma cadeira e um toca-fitas esperavam.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um senhor saiu da casa vizinha e disse que Breno havia deixado aquilo preparado na semana anterior.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi ficou imóvel. Perguntou se o amigo estava por perto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O senhor explicou que Breno se mudara para outra cidade, mas queria que ele ouvisse a gravação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Colocamos a fita no aparelho. Primeiro veio o barulho de ensaio, depois uma risada antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então ouvimos Breno dizendo: se você estiver escutando, saiba que eu também tinha medo de ficar para trás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi abaixou os olhos. A gravação continuou com uma música que eles nunca tinham terminado.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No final, Breno deixou um convite: sábado, às quatro, a gente termina essa música juntos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi pegou o telefone, procurou o número escrito atrás da fita e ligou ali mesmo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando alguém atendeu, ele só conseguiu dizer: eu trouxe minhas baquetas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fui embora pensando que certas portas não guardam o passado. Guardam uma segunda chance.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que precisa retomar uma conversa antiga, manda essa história para essa pessoa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

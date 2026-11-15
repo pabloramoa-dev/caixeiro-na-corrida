@@ -1,0 +1,22 @@
+{
+  "motor": "hyperframes",
+  "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha-marca-caixeiro",
+  "fotos": 0,
+  "duracao": 144.764,
+  "resolucao": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "voz": "pm_alex:0.62+pm_santa:0.38",
+  "audio": "pedalboard",
+  "sfx": 73,
+  "visual": "v4",
+  "lip": "rhubarb",
+  "cenario": "dia",
+  "batidas": 17,
+  "illustrations": 21,
+  "illustration_interval": 7.0,
+  "animated_support": true,
+  "support_source": "original_local"
+}

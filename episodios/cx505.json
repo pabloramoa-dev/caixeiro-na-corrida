@@ -1,0 +1,67 @@
+{
+  "id": "cx505",
+  "ep": 505,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-006",
+  "ficcao_original": true,
+  "titulo": "O CACHORRO QUE ERA O CONVIDADO",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem faz festa melhor pro pet que pra si.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O CACHORRO QUE ERA O CONVIDADO\nUma senhora pediu corrida para uma festa e trouxe uma gravatinha dentro de uma caixa, toda preocupada com o horário.\n\nManda pra quem faz festa melhor pro pet que pra si.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O CACHORRO QUE ERA O CONVIDADO. Manda pra quem faz festa melhor pro pet que pra si. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Uma senhora pediu corrida para uma festa e trouxe uma gravatinha dentro de uma caixa, toda preocupada com o horário.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela passou o trajeto inteiro perguntando se a roupa combinava com o salão e se iam servir um lanche especial.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que fosse aniversário de criança, mas ela dizia que o homenageado não falava e gostava de dormir no sofá.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos e uma faixa enorme dizia parabéns, Pipoca, bem na entrada de um espaço cheio de brinquedos para cachorro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na hora da foto, o aniversariante fugiu da gravatinha e deitou bem em cima do presente mais caro da mesa.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A senhora suspirou: igualzinho ao pai. Eu preferi não perguntar se o pai também tinha quatro patas.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

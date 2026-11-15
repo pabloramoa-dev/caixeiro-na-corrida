@@ -1,0 +1,215 @@
+{
+  "id": "cx471",
+  "ep": 471,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA AMARELO DA PRAÇA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no carro com um guarda-chuva amarelo em pleno sol. O segredo de um desenho perdido surpreendeu até o Caixeiro! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕☂️ Um guarda-chuva amarelo, um desenho perdido e um gesto que atravessou quinze anos. Manda para quem acreditou em você. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro",
+  "batidas": [
+    {
+      "fala": "Uma mulher entrou no meu carro com um guarda-chuva amarelo fechado, mesmo debaixo de um sol danado. E disse: hoje vou descobrir quem me salvou de uma vergonha enorme.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. Ela mostrou uma etiqueta presa no cabo: devolva ao dono da banca da praça. Mas a banca tinha fechado fazia quinze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu nome era Clara. Quando tinha dez anos, participou de um concurso de desenho na escola e perdeu o desenho na véspera da entrega.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela tinha passado semanas pintando uma praça cheia de pessoas. Sem aquele papel, achava que todos iriam rir dela na apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na manhã seguinte, apareceu na porta de casa um envelope com seu desenho, limpo, sem um único amassado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Junto havia um bilhete: não desista de mostrar o que você fez. Assinado apenas com um desenho de guarda-chuva.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara entregou o trabalho, ganhou uma menção honrosa e, anos depois, virou ilustradora. Guardou o bilhete por toda a vida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela semana, ao arrumar caixas antigas, encontrou uma fotografia da praça. No fundo, um homem segurava exatamente aquele guarda-chuva amarelo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que só agora procurava o dono. Ela respondeu: passei anos agradecendo a uma pessoa que nem sabia quem era.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara descobriu que o homem da foto trabalhava na banca de revistas. Um vizinho disse que ele agora consertava bicicletas do outro lado da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu avisei que o trânsito estava parado. Ela respondeu: pode ir devagar. O que esperei quinze anos pode esperar mais vinte minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à oficina, um senhor saiu com as mãos sujas de graxa. Viu o guarda-chuva e arregalou os olhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele falou: onde você achou isso? Clara explicou sobre o desenho perdido, o envelope e o bilhete com um guarda-chuva.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O senhor se chamava Nestor. Ficou pensando, depois chamou a esposa que estava nos fundos da oficina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela veio rindo e disse: você ainda guarda essa história? Fui eu que encontrei o desenho voando pela praça naquele dia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara ficou sem palavras. A esposa, dona Bete, contou que o papel tinha caído numa poça e que ela passou a noite tentando secar e alisar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nestor completou: eu só emprestei o guarda-chuva para proteger o envelope da chuva quando fomos devolver.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara abriu a bolsa e tirou o bilhete antigo. Dona Bete reconheceu o desenho e começou a rir: eu nunca soube desenhar guarda-chuva direito.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então veio a surpresa. Nestor apontou para uma parede da oficina. Havia ali uma reprodução daquela praça, tirada de um calendário.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara reconheceu seu próprio desenho. Descobriu que dona Bete comprava todos os calendários com ilustrações dela, sem saber que eram da menina do envelope.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que aquilo parecia roteiro de cinema. Nestor respondeu: de cinema não sei, mas já está melhor que o conserto da bicicleta de hoje.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara pediu uma foto com os dois e prometeu voltar com uma ilustração da oficina. Dessa vez, com um guarda-chuva amarelo bem desenhado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, dona Bete devolveu o bilhete para Clara. Disse: guarde. Às vezes um incentivo pequeno leva alguém muito longe.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu terminei a corrida pensando que nem todo herói aparece em fotografia. Às vezes aparece num bilhete molhado e numa boa ação.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém já acreditou em você quando precisava, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

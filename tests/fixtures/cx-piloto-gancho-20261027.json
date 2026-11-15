@@ -1,0 +1,148 @@
+{
+  "id": "cx-piloto-gancho-20261027",
+  "avulso": true,
+  "titulo": "O BOLO QUE CANTAVA NO BANCO DE TRÁS",
+  "categoria": "humor",
+  "cenario": "dia",
+  "legenda_post": "🎂 Uma corrida virou festa antes mesmo do parabéns! E o bolo tinha vontade própria. Você aguentaria duas velas cantando? 😂\n\nHistória de ficção.\n#CaixeiroNaCorrida #HistoriasEngracadas #MotoristaDeAplicativo #Storytime",
+  "legenda_tiktok": "O bolo começou a cantar dentro do carro — e a surpresa saiu do controle! 🎂😂 História de ficção. #storytime #uber #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, que um passageiro entrou no meu carro carregando um bolo que fazia barulho sozinho. E eu achando que já tinha visto de tudo.",
+      "expr": "desconfiada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era sábado, nove da manhã. O Jonas entrou com uma caixa enorme no colo e pediu corrida até a antiga padaria do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que a avó, dona Nair, completava oitenta anos. Queria chegar de surpresa com o bolo antes da família.",
+      "expr": "rindo",
+      "arte": [
+        "presente"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A caixa vinha amarrada com três fitas. Perguntei por quê. Ele falou que a confeiteira avisou para não balançar de jeito nenhum.",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira curva, saiu de dentro da caixa uma musiquinha de aniversário. O Jonas olhou assustado para o bolo.",
+      "expr": "chocada",
+      "arte": [
+        "presente"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele abriu a tampa um pouquinho e mostrou uma vela eletrônica que cantava. O problema é que ninguém sabia desligar aquilo.",
+      "expr": "desconfiada",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Aí o celular dele recebeu uma mensagem da mãe: sua avó não está em casa. Foi à padaria comprar pão.",
+      "expr": "chocada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele me perguntou se dava tempo de mudar a rota. Eu disse que sim, mas era melhor segurar a caixa com as duas mãos.",
+      "expr": "neutra",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando paramos no sinal, a caixa começou a cantar parabéns bem alto. Um rapaz no ônibus do lado entrou no coro.",
+      "expr": "chocada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Jonas olhou para a janela, viu três pessoas batendo palmas e ficou vermelho até a orelha. O bolo ainda nem tinha chegado!",
+      "expr": "ironica",
+      "arte": [
+        "carro"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe dele ligou e deu a notícia: dona Nair tinha acabado de entrar justamente na padaria onde trabalhou durante quarenta anos.",
+      "expr": "desconfiada",
+      "arte": [
+        "celular"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Parei em frente à padaria. O Jonas saiu com a caixa cantando, e a fila inteira olhou para ele como se fosse um desfile.",
+      "expr": "rindo",
+      "arte": [
+        "porta"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dona Nair apareceu no balcão, reconheceu o neto e perguntou: meu filho, você trouxe um bolo ou uma escola de samba?",
+      "expr": "rindo",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O Jonas colocou o bolo na mesa. A vela finalmente ficou quieta. Dona Nair soprou, abraçou o neto e pediu uma foto com todo mundo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Só que o melhor foi quando ela abriu a bolsa. Tirou uma vela igualzinha e disse: eu também comprei uma para fazer surpresa em vocês.",
+      "expr": "chocada",
+      "arte": [
+        "presente"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "As duas velas começaram a cantar ao mesmo tempo. A padaria inteira riu. E eu ganhei uma fatia por ter feito a entrega musical.",
+      "expr": "rindo",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Agora me conta: você entrava na brincadeira ou desligava aquelas duas velas na primeira música?",
+      "expr": "ironica",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": []
+    }
+  ],
+  "fim": "A CORRIDA VIROU FESTA!"
+}

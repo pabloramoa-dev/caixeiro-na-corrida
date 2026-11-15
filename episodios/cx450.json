@@ -1,0 +1,224 @@
+{
+  "id": "cx450",
+  "ep": 450,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA VERMELHO DO CINEMA",
+  "categoria": "reencontro_passageiro",
+  "cenario": "tarde_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Um passageiro levou um guarda-chuva vermelho até um cinema que não existe mais. O que ele esperava encontrar? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🚕☂️ Um ingresso antigo, um número errado e um guarda-chuva vermelho. Quarenta anos depois, Augusto voltou ao lugar onde tudo começou. Qual lembrança você ainda guarda? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "O passageiro entrou com um guarda-chuva vermelho num dia de sol. Pediu uma corrida até um cinema que já não existia.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No banco de trás, ele repetia uma pergunta: será que ela ainda guarda o ingresso?",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O nome dele era Augusto. Tinha sessenta e poucos anos e segurava um envelope amassado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se o endereço estava certo. Ele mostrou uma fotografia antiga da fachada do cinema.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, duas pessoas sorriam debaixo do mesmo guarda-chuva vermelho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto contou que conheceu Lúcia ali, numa sessão de domingo, quarenta anos antes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A chuva caiu de repente quando saíram. Só ele tinha guarda-chuva, e ofereceu dividir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Conversaram até o último ônibus. Antes de ir embora, ela escreveu um telefone no verso do ingresso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele ligou no dia seguinte. O número estava errado por um único dígito.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Tentou voltar ao cinema, mas a reforma fechou o prédio naquela mesma semana.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Durante anos, guardou a foto e o ingresso. Depois, a vida levou cada um para um lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, sua neta encontrou a fotografia e publicou num grupo de memórias do bairro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma mulher respondeu com outra foto: a mesma fachada, o mesmo domingo, o mesmo guarda-chuva.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era Lúcia. Ela também tinha guardado o ingresso, só que a tinta do telefone havia borrado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A neta marcou um encontro na antiga rua do cinema. Augusto pediu que eu o levasse até lá.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, havia uma farmácia onde antes ficava a bilheteria.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto ficou imóvel olhando a vitrine. Disse que talvez tivesse confundido a data.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então vi uma senhora parada do outro lado da rua, segurando um guarda-chuva azul.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela levantou uma fotografia e perguntou em voz alta: você ainda usa aquele vermelho?",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto abriu o guarda-chuva, mesmo sem uma nuvem no céu.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois atravessaram devagar e compararam os ingressos antigos. As datas eram iguais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Não houve grande discurso. Eles começaram rindo do número de telefone errado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia contou que a neta dela tinha escolhido o guarda-chuva azul para não repetir o passado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto me agradeceu e disse que uma corrida curta tinha levado quarenta anos para acontecer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei para o carro pensando em quantas histórias cabem num objeto esquecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "E você, guarda alguma lembrança que merece uma segunda chance? Conta aqui e acompanha o Caixeiro.",
+      "expr": "neutra",
+      "arte": [
+        "manchete_v",
+        "UMA LEMBRANÇA PODE REABRIR CAMINHOS"
+      ],
+      "destaque": []
+    }
+  ]
+}
