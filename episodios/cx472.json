@@ -1,0 +1,207 @@
+{
+  "id": "cx472",
+  "ep": 472,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O RELÓGIO PARADO ÀS SEIS E DEZ",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🕕 Ele entrou no carro com um relógio parado há oito anos. O que havia atrás dele mudou uma família! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #Familia",
+  "legenda_post": "🚕🕕 Um relógio parado às seis e dez e uma carta que esperou oito anos. Às vezes a conversa mais importante é a que estamos adiando. Manda para quem merece uma nova conversa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Um homem entrou no meu carro segurando um relógio de parede que estava parado às seis e dez. Disse que precisava chegar antes que a loja fechasse. E que aquele relógio podia resolver uma briga de família.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era relógio de ouro. Ele respondeu: pior, Caixeiro. É de cozinha, e ninguém acredita na história dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Mauro. Ele e a irmã, Helena, não conversavam desde que venderam a mercearia do pai, oito anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na última noite da loja, o pai prometeu deixar um recado para os dois. Mas faleceu antes de explicar onde estava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena achava que Mauro tinha escondido a carta. Mauro jurava que nunca tinha visto papel nenhum.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, um antigo funcionário ligou para Mauro. Disse que o relógio da cozinha tinha sido guardado num depósito, junto com a placa da mercearia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando Mauro foi buscar, percebeu que os ponteiros continuavam marcando seis e dez. Era o horário em que o pai fechava a loja para jantar com a família.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele abriu a tampa traseira para trocar a pilha. E encontrou um envelope dobrado, preso com fita.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor e perguntei: você leu? Mauro balançou a cabeça. Disse que queria abrir junto com a irmã.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas Helena trabalhava numa floricultura que fechava às seis. E o trânsito naquela avenida parecia decidido a atrapalhar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mauro apertava o relógio contra o peito. Eu falei que não adiantava correr; a gente precisava chegar inteiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele então contou uma lembrança. Quando crianças, os dois competiam para ver quem fechava a porta da mercearia primeiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai sempre fingia que tinha perdido a chave, só para ouvir os filhos rindo enquanto procuravam no balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse: parece que ele gostava mais da bagunça do que das vendas. Mauro respondeu que talvez fosse verdade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à floricultura com as luzes quase apagadas. Helena estava baixando a porta quando viu o irmão com aquele relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela ficou séria e perguntou por que ele tinha aparecido depois de tantos anos. Mauro mostrou o envelope e pediu apenas cinco minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena reconheceu a letra do pai na frente do papel. Os dois abriram juntos, ali mesmo, entre vasos e caixas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta não falava de dinheiro nem de quem estava certo. Dizia que a melhor parte da mercearia era ver os dois trabalhando lado a lado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No fim, havia um pedido: se um dia brigarem, parem às seis e dez, sentem à mesa e conversem antes de decidir qualquer coisa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mauro começou a rir, meio sem jeito. Helena olhou para o relógio parado e disse: ele ainda está mandando na hora do jantar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela puxou duas cadeiras da floricultura. Mauro sentou. Eu fiquei no carro, esperando, e vi os dois conversando pela primeira vez em anos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de ir embora, Mauro voltou à janela e agradeceu. Disse que o relógio não precisava de pilha. Precisava de duas pessoas dispostas a ouvir.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu segui viagem pensando que algumas coisas paradas ainda conseguem colocar uma família em movimento.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém com quem está adiando uma conversa importante, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
