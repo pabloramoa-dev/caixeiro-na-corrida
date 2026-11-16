@@ -1,0 +1,247 @@
+{
+  "id": "cx477",
+  "ep": 477,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CHAVE DA SALA DOZE",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔑 Ela entrou no carro com uma chave que não abria porta nenhuma. Mas a sala doze escondia uma surpresa! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🔑 Uma chave antiga, uma sala fechada e um coral que ninguém esqueceu. Manda para quem te ensinou algo importante. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma chave enorme e disse: se eu chegar atrasada, vão derrubar a porta errada. Só que aquela chave não abria porta nenhuma.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor. Ela segurava um chaveiro com uma etiqueta: SALA 12. E avisou que, no final, eu entenderia a pressa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Marina, professora de música, e pediu corrida até uma escola antiga no centro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que não ligava para a escola. Ela disse que já tinha ligado três vezes, mas ninguém acreditava na história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, uma equipe retiraria os móveis de uma sala fechada havia quinze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina descobriu que a sala guardava algo que pertencia à mãe, antiga professora daquela escola.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era um piano. Ela respondeu: pior, é uma promessa que eu nunca consegui cumprir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando era criança, Marina esperava a mãe terminar as aulas para irem juntas para casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto esperava, ouvia um grupo de alunos ensaiar no corredor, sempre desafinados e felizes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia, a mãe entregou uma chave dourada para Marina e disse: guarde até nossa próxima apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a apresentação foi cancelada quando a escola mudou de prédio, e a chave ficou esquecida numa gaveta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Anos depois, Marina encontrou uma fotografia: sua mãe diante da sala doze, com um cartaz escrito CORAL DE TODOS.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto havia uma criança segurando um pequeno caderno azul. Marina não reconheceu quem era.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela publicou a foto num grupo de ex-alunos. Em poucos minutos, começaram a chegar mensagens.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um homem escreveu: eu era o menino do caderno. Sua mãe me ensinou a cantar quando eu mal conseguia falar em público.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Outra pessoa contou que o coral reunia alunos que não podiam pagar aulas de música.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina percebeu que a sala não guardava apenas instrumentos velhos. Guardava partituras com os nomes de dezenas de crianças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, o celular dela tocou. Era o antigo aluno da foto, agora maestro de um coral comunitário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse que estava a caminho da escola com outros ex-alunos. Marina respondeu: então corre, porque estão esvaziando tudo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos e vimos caixas empilhadas no corredor. Um funcionário segurava uma lista de descarte.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina mostrou a chave dourada. O funcionário riu e explicou que a fechadura havia sido trocada fazia muitos anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Por um instante, ela ficou sem reação. Eu pensei que a viagem tinha sido em vão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então o maestro apareceu com uma pasta cheia de cópias das músicas e pediu apenas cinco minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele abriu a primeira página. No alto, estava escrito: toda voz merece ser ouvida. Era a letra da mãe de Marina.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os ex-alunos começaram a cantar baixinho. Até os funcionários pararam de carregar as caixas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A direção decidiu separar as partituras e fotografias para o arquivo da escola e organizar uma apresentação de reencontro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina guardou a chave no bolso e disse: ela não abriu a porta, mas trouxe todo mundo de volta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, eu pensei que algumas chaves não servem para fechaduras. Servem para lembrar o que vale a pena preservar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém já abriu uma porta importante na sua vida, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
