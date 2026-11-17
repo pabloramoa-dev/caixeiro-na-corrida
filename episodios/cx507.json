@@ -1,0 +1,67 @@
+{
+  "id": "cx507",
+  "ep": 507,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-008",
+  "ficcao_original": true,
+  "titulo": "A VOVÓ E O GPS",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem discute até com o GPS.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | A VOVÓ E O GPS\nUma senhora sentou no banco de trás e avisou que o GPS estava errado porque ela conhecia aquele bairro desde menina.\n\nManda pra quem discute até com o GPS.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A VOVÓ E O GPS. Manda pra quem discute até com o GPS. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Uma senhora sentou no banco de trás e avisou que o GPS estava errado porque ela conhecia aquele bairro desde menina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu segui a rota e, a cada esquina, ela narrava onde tinha sido a padaria, o cinema e o campo de futebol.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o aplicativo mandou virar à direita, ela disse que era impossível porque ali sempre existiu um muro enorme.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Virei devagar e ela ficou em silêncio: no lugar do muro havia uma praça nova, uma farmácia e uma cafeteria.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela olhou para o celular e falou: esse aparelhinho é danado, mas ainda não sabe onde vendem o melhor pão de queijo.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois me ensinou o caminho da padaria antiga, e o GPS perdeu a discussão por uma vantagem de dois pãezinhos.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
