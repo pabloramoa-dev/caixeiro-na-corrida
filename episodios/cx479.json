@@ -1,0 +1,239 @@
+{
+  "id": "cx479",
+  "ep": 479,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO DO ÚLTIMO DIA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo escrito 'parabéns pelo seu último dia'. O que aconteceu na lavanderia surpreendeu até o Caixeiro! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🎂 Um bolo de despedida, 42 bilhetes e uma lavanderia prestes a fechar. O último dia de seu Anselmo virou um novo começo. Manda para quem faz o bem sem aparecer. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um bolo com a frase: parabéns pelo seu último dia. Só que não era aniversário de ninguém.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de dizer o destino, pediu uma coisa estranha: se alguém perguntar, diga que a caixa está vazia.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro, e aquela corrida parecia uma despedida. Mas a surpresa só apareceu quando chegamos ao portão.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira, Lívia, trabalhava numa lavanderia de bairro. O dono, seu Anselmo, fecharia as portas naquela tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se o bolo era para ele. Ela respondeu que era para alguém que ele ainda não conhecia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na tampa havia um bilhete: não abrir antes das quatro. Faltavam vinte e cinco minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia contou que seu Anselmo nunca cobrava de quem precisava de roupa limpa para uma entrevista de emprego.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele também deixava casacos prontos na porta para quem passava frio durante a madrugada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o aluguel aumentou e ele decidiu encerrar a lavanderia depois de trinta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na última semana, Lívia encontrou uma caixa com recibos marcados com a palavra pago, mesmo sem dinheiro no caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pensou que fossem dívidas. Até notar pequenos recados escritos no verso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dizia: consegui meu primeiro emprego. Outro: minha filha voltou a estudar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor e perguntei quantas pessoas tinham deixado aqueles bilhetes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela respondeu: quarenta e duas. E hoje quase todas prometeram aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No caminho, o telefone tocou. Era seu Anselmo dizendo que estava fechando mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia pediu que eu acelerasse dentro do permitido. Não queria que ele saísse antes da surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando viramos a esquina, vimos a porta de aço descendo e um homem guardando a última cadeira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela saiu do carro com o bolo. Eu fiquei segurando a caixa que, segundo ela, deveria parecer vazia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Anselmo leu a cobertura e riu sem entender: último dia de quem, minha filha?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando uma moça de uniforme se aproximou e mostrou uma foto antiga, vestindo a roupa da primeira entrevista.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois veio um rapaz com o casaco que ele havia costurado de graça num inverno difícil.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em poucos minutos, a calçada ficou cheia de gente segurando bilhetes e fotografias.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Anselmo chorou e disse que carinho não pagava aluguel. A moça de uniforme respondeu: mas pode abrir outra porta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que os antigos clientes se organizaram para oferecer a ele uma sala no centro comunitário, sem aluguel, para ensinar o ofício.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu abri a caixa. Dentro havia quarenta e duas cartas e uma placa nova: Oficina do Seu Anselmo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia cortou o bolo. Ele olhou para a placa e disse: então não é meu último dia. É meu primeiro dia de novo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei ao volante pensando que uma ajuda pequena pode viajar muito mais longe do que qualquer corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que faz o bem sem aparecer, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
