@@ -1,0 +1,271 @@
+{
+  "id": "cx483",
+  "ep": 483,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CADEIRA DA PRIMEIRA FILA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🪑 Ela entrou no carro com uma cadeira velha e disse que o pai aplaudiria um lugar vazio se ela atrasasse. O motivo emocionou o Caixeiro. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🪑 Uma cadeira dobrável, uma sanfona e um sonho guardado por sessenta anos. Elisa correu para estar na primeira fila quando o pai finalmente subiu ao palco. Compartilhe com quem sempre esteve presente. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Familia #HistoriasDeMotorista #Gratidao",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma cadeira dobrável e disse: se eu chegar tarde, meu pai vai aplaudir uma cadeira vazia.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida eu descobri por que uma cadeira velha podia valer mais que um ingresso.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Elisa. Estava de uniforme de hospital e segurava um envelope amassado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pediu para ir ao teatro municipal, mas avisou que talvez precisasse parar numa farmácia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se estava tudo bem. Ela respondeu: meu pai vai subir num palco pela primeira vez em sessenta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Orlando era porteiro de escola. Todo fim de tarde tocava sanfona sozinho na guarita.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando era jovem, sonhava tocar num teatro, mas precisou trabalhar para criar os três filhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana anterior, os antigos alunos organizaram uma apresentação para homenageá-lo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa prometera estar na primeira fila. Só que seu plantão se estendeu por causa de uma emergência.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A cadeira dobrável era a mesma que o pai levava aos ensaios da escola, quando ninguém tinha onde sentar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que, quando pequena, dormia nessa cadeira ouvindo a sanfona dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que teatro tem cadeira de sobra. Ela respondeu: essa é a única que ele vai reconhecer de longe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na esquina seguinte, o trânsito parou. Um caminhão tinha quebrado bem no meio da avenida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa olhou o relógio. Faltavam doze minutos para a apresentação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela começou a procurar outro caminho no celular, mas a bateria morreu na mesma hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu conhecia uma rua estreita atrás do mercado. Perguntei se ela confiava no meu atalho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela riu e disse: confio, desde que você não transforme a sanfona do meu pai em música de despedida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Entramos pela rua lateral. No banco de trás, a cadeira batia de leve nas curvas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então o envelope caiu no chão. Dentro havia uma foto antiga de Orlando diante de um teatro fechado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, ele tinha dezessete anos e segurava a mesma sanfona que usaria naquela noite.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa explicou que ele guardou aquela foto por décadas sem nunca mostrar a ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à porta lateral do teatro quando as luzes do saguão já estavam apagando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um funcionário tentou nos barrar. Elisa abriu o envelope e mostrou o nome do pai no programa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele apontou um corredor. Eu ajudei a carregar a cadeira até a primeira fila.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando Orlando entrou no palco, olhou para o público e ficou procurando alguém.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa abriu a cadeira devagar. O barulho das dobradiças ecoou no silêncio do teatro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Orlando viu a filha, sorriu e falou ao microfone: agora posso começar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele tocou a primeira música com as mãos tremendo. No refrão, o teatro inteiro começou a acompanhar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiquei perto da porta, sem querer atrapalhar, e percebi que estava sorrindo feito bobo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Elisa disse que tinha passado a vida achando que o pai esperava um grande palco.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas naquela noite ela entendeu: ele só queria ter alguém conhecido na primeira fila.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa história te lembrou alguém que sempre torceu por você, manda para essa pessoa. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
