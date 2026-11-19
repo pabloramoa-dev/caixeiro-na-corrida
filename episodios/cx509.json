@@ -1,0 +1,67 @@
+{
+  "id": "cx509",
+  "ep": 509,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-010",
+  "ficcao_original": true,
+  "titulo": "O PASSAGEIRO COM UM PEPINO GIGANTE",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem leva a horta muito a sério.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O PASSAGEIRO COM UM PEPINO GIGANTE\nUma moça apareceu na calçada com um pepino enorme e perguntou se eu aceitava transportar uma celebridade do bairro.\n\nManda pra quem leva a horta muito a sério.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O PASSAGEIRO COM UM PEPINO GIGANTE. Manda pra quem leva a horta muito a sério. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Uma moça apareceu na calçada com um pepino enorme e perguntou se eu aceitava transportar uma celebridade do bairro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei para o pepino e achei que ela estava brincando, mas ele veio até acomodado num cobertor de bebê.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que tinha ganhado um concurso de horta comunitária e precisava levar o campeão para receber uma medalha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na feira, o organizador pediu o nome do vencedor, e ela respondeu com orgulho: senhor Pepinaldo, terceiro do seu nome.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O homem procurou uma pessoa na lista, até descobrir que ia precisar pendurar a medalha na haste de um vegetal.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A moça me mandou uma foto depois; o pepino estava de faixa, e eu já tinha conhecido gente menos famosa.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
