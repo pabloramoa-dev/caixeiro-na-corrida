@@ -1,0 +1,223 @@
+{
+  "id": "cx493",
+  "ep": 493,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PANELA VAZIA E O ULTIMO ALMOCO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🍲 Ela entrou no carro com uma panela vazia e uma missão urgente. O segredo no fundo mudou tudo! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🍲 Uma panela antiga, três irmãos afastados e uma carta da mãe. Às vezes, o reencontro começa na cozinha. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Familia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma panela vazia e disse: se eu não chegar antes das seis, meu irmão vai vender a última lembrança da nossa mãe.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E o que apareceu no fundo daquela panela mudou o destino de uma família.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Rosa. Apertava a tampa como quem segurava um segredo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se a panela era de ouro. Ela respondeu: para mim vale mais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe dela cozinhava para os vizinhos todo domingo, mesmo quando faltava dinheiro em casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois que ela morreu, os irmãos brigaram pela venda da casa e pararam de se falar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela tarde, o irmão mais velho ia entregar as chaves ao comprador.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa só queria buscar a panela amassada que a mãe usava nas festas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas quando colocou a panela no banco, ouvi um barulhinho metálico lá dentro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu a tampa. Nada. Só um fundo escuro e arranhado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu brinquei: sua mãe deixou uma moeda para pagar a corrida?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa riu pela primeira vez. Disse que a mãe sempre escondia bilhetes em lugares impossíveis.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Paramos no sinal e ela percebeu dois parafusos pequenos sob a alça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu tinha uma chave de fenda no porta-luvas. Entreguei sem imaginar o que viria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A placa do fundo se soltou. Atrás dela havia um envelope dobrado e protegido por plástico.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na frente, a letra da mãe: para meus três filhos, quando a casa parecer pequena demais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa começou a ler em voz alta. A mãe contava como os irmãos construíram juntos o primeiro fogão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela dizia que a casa não era o que os mantinha unidos. Era o hábito de se sentarem à mesma mesa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No fim, um pedido: antes de decidir qualquer coisa, façam uma última refeição juntos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, o irmão estava no portão com um molho de chaves.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rosa mostrou o envelope. Ele leu em silêncio, com os olhos cheios de lágrimas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O caçula apareceu da varanda e perguntou se ainda dava tempo de fazer o macarrão da mãe.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O comprador esperou enquanto os três entravam na cozinha. A venda ficou para outro dia.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma semana depois, Rosa me mandou uma foto: os três à mesa, com a panela amassada no centro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nem toda corrida termina no endereço do aplicativo. Algumas levam a gente de volta para casa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa história lembrou sua família, compartilhe. Eu sou o Caixeiro e amanhã tem mais uma corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
