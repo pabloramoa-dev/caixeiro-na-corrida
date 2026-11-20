@@ -1,0 +1,271 @@
+{
+  "id": "cx491",
+  "ep": 491,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA DE SAPATOS SEM PRESENTE",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "👟 Ela entrou no carro com uma caixa lacrada e uma dívida de trinta anos. O sapateiro nem imaginava quem estava chegando! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa",
+  "legenda_post": "🚕👟 Uma caixa de sapatos, cartas nunca enviadas e um favor que atravessou trinta anos. Às vezes, a gratidão encontra um jeito de voltar. Compartilhe com quem já ajudou você. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma caixa de sapatos lacrada e pediu: moço, se eu desistir no caminho, não me deixe esquecer por que vim.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela caixa havia uma coisa que podia mudar a vida de dois desconhecidos antes do pôr do sol.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Helena. Tinha as mãos tremendo e um endereço anotado no verso de uma conta antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era presente. Ela respondeu: é uma dívida que minha mãe deixou, mas não é dinheiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena explicou que a mãe, costureira, havia falecido no começo do ano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto organizava as gavetas, encontrou uma caixa com dezenas de cartas nunca enviadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todas eram endereçadas ao mesmo homem: Antônio, o sapateiro da rua do mercado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se Antônio era algum antigo namorado. Helena deu uma risada nervosa: foi o contrário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Trinta anos atrás, a mãe dela entrou na sapataria com uma menina pequena e um tênis rasgado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A menina era Helena. Não tinham dinheiro nem para a passagem de volta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antônio consertou o tênis sem cobrar e ainda deixou uma nota escondida dentro dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na nota dizia: um dia você vai andar mais longe do que imagina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena cresceu, estudou e se tornou professora. A mãe guardou aquele papel por décadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a caixa não continha apenas agradecimentos. Havia uma fotografia recente de Antônio sentado sozinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe visitava a sapataria todo mês para levar café e conversar. Nunca contou isso à filha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Agora Helena queria entregar as cartas e descobrir por que nenhuma tinha sido enviada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Paramos num semáforo. Ela abriu uma delas e leu: obrigada por não tratar a minha vergonha como pobreza.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiquei quieto. Tem corrida em que o melhor assunto é o silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à rua do mercado, a placa da sapataria estava caída e a porta fechada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena desceu correndo. Um vizinho disse que Antônio tinha vendido todas as ferramentas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela empalideceu. Perguntou se ele tinha ido embora. O vizinho apontou para uma pequena praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antônio estava sentado num banco, alimentando pombos, com uma sacola de couro ao lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena mostrou o papel do tênis. O homem reconheceu a letra e abriu um sorriso sem dentes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse que se lembrava daquela menina: saiu pulando da oficina como se tivesse ganhado asas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena entregou a caixa. Antônio leu duas cartas e começou a chorar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então revelou o motivo do fechamento: já não enxergava bem para trabalhar, mas sentia falta das conversas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Helena pensou um instante e perguntou se ele toparia ensinar jovens a consertar sapatos, sem precisar fazer o serviço sozinho.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antônio respondeu que tinha ferramentas guardadas e histórias suficientes para uma turma inteira.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana seguinte, a escola de Helena abriu uma oficina de reparos com o nome da mãe dela na porta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "E a primeira aula começou com Antônio dizendo: antes de consertar um sapato, escute por onde ele andou.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei para casa pensando que um gesto pequeno pode viajar trinta anos e voltar em forma de oportunidade.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém já ajudou você quando ninguém via, mande esta história para essa pessoa. Aqui é o Caixeiro. Até a próxima corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
