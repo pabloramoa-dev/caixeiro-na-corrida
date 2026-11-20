@@ -295,5 +295,25 @@
   "formato": "curto",
   "serie": "Corrida de 1 Minuto",
   "duracao": 46.1
+ },
+ {
+  "id": "cx358-story",
+  "media_id": "17881205421564109",
+  "quando": "2026-11-20T00:57-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx358",
+  "media_id": "18112572218212760",
+  "quando": "2026-11-20T01:05-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-20",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 146.1
  }
 ]
