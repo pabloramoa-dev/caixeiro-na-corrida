@@ -1,0 +1,263 @@
+{
+  "id": "cx492",
+  "ep": 492,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O AQUÁRIO QUE ESCONDIA O TEMPO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🐠 Ela entrou no carro com um aquário vazio para provar que o pai não era ladrão. O segredo estava na madeira! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕 Um aquário vazio, um relógio parado e uma carta guardada por 28 anos. Teresa descobriu que algumas verdades esperam, mas o amor não precisa esperar. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um aquário vazio e disse: se eu chegar atrasada, vão jogar fora a única prova de que meu pai dizia a verdade.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela corrida começou com um aquário, mas terminou com uma cidade inteira olhando para o chão.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Teresa, professora de ciências, e pediu para ir até a antiga estação ferroviária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se tinha algum peixe fugindo. Ela riu: peixe não, uma carta que ficou escondida por vinte e oito anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai dela, seu Raul, tinha sido o último funcionário a cuidar do relógio da estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o relógio parou, todo mundo acusou Raul de ter vendido uma peça rara.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele jurou que guardara a peça para impedir um roubo, mas ninguém acreditou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul morreu sem conseguir limpar o próprio nome. Teresa cresceu ouvindo piadas sobre o homem que roubou o tempo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, um pedreiro encontrou uma fotografia da estação dentro de um livro antigo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A fotografia mostrava Raul ao lado de um aquário sobre o balcão da bilheteria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na parte de trás, uma anotação: quando a água baixar, a verdade aparece.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei pelo retrovisor e perguntei: e por que levar um aquário vazio agora?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa explicou que o aquário original tinha uma base dupla, feita pelo pai com madeira de demolição.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela achou a peça no depósito da escola, onde o aquário tinha sido usado em aulas por décadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o depósito seria esvaziado naquela tarde. Ela precisava mostrar a descoberta antes que descartassem a base.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No trânsito, Teresa abriu a mochila e tirou uma chave minúscula presa a um barbante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era a chave do fundo falso. Só que a fechadura estava emperrada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que conhecia uma pessoa que consertava fechaduras sem quebrar madeira antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Fizemos uma parada rápida na oficina de dona Célia, uma senhora que não gostava de conversa comprida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela examinou a base, colocou uma gota de óleo e girou a chave devagar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O fundo abriu com um estalo. Dentro havia um envelope amarelo, não uma peça de relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa ficou pálida. No envelope, um recibo assinado pelo antigo diretor da estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O documento registrava a retirada da peça para manutenção e tinha a assinatura de duas testemunhas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul não roubara nada. Tinha guardado uma cópia porque desconfiava que perderiam o registro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas havia outra surpresa: um bilhete para Teresa, escrito quando ela ainda era criança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele dizia: minha filha, se um dia duvidarem de mim, não gaste sua vida tentando convencer todo mundo. Viva a sua.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa chorou em silêncio. Dona Célia trouxe um copo de água e fingiu procurar uma ferramenta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à estação antes do fechamento da exposição histórica. A curadora fotografou o recibo e prometeu verificar os arquivos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Semanas depois, a placa sobre Raul foi corrigida. Teresa levou os alunos para conhecer o trabalho do avô que eles nunca viram.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu aprendi que uma verdade pode demorar, mas carinho nenhum precisa esperar. E você, guardaria uma carta por tantos anos?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa corrida te lembrou alguém injustiçado, compartilhe. Eu sou o Caixeiro, e a próxima história pode entrar no meu carro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
