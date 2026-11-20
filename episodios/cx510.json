@@ -1,0 +1,67 @@
+{
+  "id": "cx510",
+  "ep": 510,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-011",
+  "ficcao_original": true,
+  "titulo": "A SENHA QUE VIROU APELIDO",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem já virou número esperando atendimento.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | A SENHA QUE VIROU APELIDO\nPeguei um rapaz segurando o papel de uma senha de atendimento, com cara de quem tinha sobrevivido a uma maratona.\n\nManda pra quem já virou número esperando atendimento.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A SENHA QUE VIROU APELIDO. Manda pra quem já virou número esperando atendimento. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Peguei um rapaz segurando o papel de uma senha de atendimento, com cara de quem tinha sobrevivido a uma maratona.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele falou que passou a manhã inteira num escritório esperando a chamada, mas nunca ouviu ninguém dizer o número dele.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o funcionário finalmente apareceu, todo mundo começou a chamar o rapaz de quarenta e dois, até no corredor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele guardou o papel, entrou no carro e falou que só queria chegar em casa e esquecer aquele dia.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na portaria do prédio, o porteiro perguntou quem estava chegando, e ele respondeu sem pensar: quarenta e dois.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O porteiro abriu a porta na hora e comentou que era bom ver alguém tão comprometido com a própria senha.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
