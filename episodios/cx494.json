@@ -1,0 +1,279 @@
+{
+  "id": "cx494",
+  "ep": 494,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O VESTIDO NO SACO DE LIXO",
+  "categoria": "historia_passageiro",
+  "cenario": "manha_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "👰 Ela entrou no carro com um vestido de noiva num saco de lixo e pediu para impedir um casamento. Mas o segredo era outro! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕👰 Um vestido antigo, uma caixa de botões e uma filha que ninguém esperava ver na igreja. Às vezes, o reencontro é o melhor presente. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Familia",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um vestido de noiva dentro de um saco de lixo e disse: moço, corre, porque hoje eu vou impedir um casamento.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E antes do fim dessa corrida, descobri que o vestido não era da noiva.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Denise, uma costureira de mãos trêmulas e olhos grudados no relógio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era filme de novela. Ela respondeu: se fosse, eu já teria desligado a televisão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise contou que sua melhor amiga, Marta, ia se casar naquele sábado depois de vinte anos sozinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas na noite anterior, Marta apareceu na oficina chorando e deixou aquele vestido para ser jogado fora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Disse que não merecia entrar na igreja com uma roupa que lembrava a mãe falecida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ela mudara de ideia tão perto da cerimônia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise respirou fundo: porque a filha dela disse que não iria ao casamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A filha, Luana, morava longe e as duas estavam sem se falar havia quase três anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No banco de trás, o vestido fazia um barulho estranho toda vez que o carro virava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise abriu o saco e mostrou uma pequena caixa de madeira presa ao forro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Não era joia. Eram botões antigos, uma fotografia e um bilhete escrito à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe de Marta havia costurado o vestido décadas antes, quando a filha ainda era adolescente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No bilhete dizia: quando chegar seu grande dia, escolha quem vai caminhar ao seu lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise me contou que Luana tinha sido criada praticamente dentro daquela oficina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela aprendeu a dar os primeiros pontos de costura com a avó, usando retalhos do mesmo tecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi então que Denise recebeu uma mensagem. Ela leu e ficou em silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era notícia ruim. Ela disse: é a Luana. Está na rodoviária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a cerimônia começaria em vinte minutos e a rodoviária ficava do outro lado da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise ligou no viva-voz. Luana atendeu com a voz embargada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela disse que tinha vindo de surpresa, mas estava com medo de a mãe não querer vê-la.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise respondeu: sua mãe guardou seu lugar na primeira fila até ontem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu fiz a conversão permitida e seguimos para a rodoviária. Nada de milagre, só trânsito e ansiedade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Luana entrou no carro com uma sacola de sapatos e abraçou o vestido como se fosse a própria avó.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que a briga começou por uma mensagem mal interpretada, e o orgulho fez o resto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à igreja, Marta estava sentada na escada, ainda sem coragem de entrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Luana desceu primeiro. As duas se olharam e ninguém conseguiu dizer uma palavra.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então Luana levantou os sapatos e falou: mãe, eu vim caminhar com você.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Denise ajeitou o vestido ali mesmo, atrás da porta da igreja. Eu fiquei esperando, emocionado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Minutos depois, Marta entrou de braços dados com a filha, e o noivo chorou antes de todo mundo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Denise disse uma coisa que eu não esqueci: às vezes a roupa só precisa de um ajuste. A família também.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa corrida mexeu com você, compartilhe com alguém que merece uma segunda conversa. Eu sou o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
