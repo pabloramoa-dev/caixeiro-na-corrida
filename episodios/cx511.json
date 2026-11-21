@@ -1,0 +1,67 @@
+{
+  "id": "cx511",
+  "ep": 511,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-012",
+  "ficcao_original": true,
+  "titulo": "A SOGRA E A LISTA DO MERCADO",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem tem talento duvidoso na cozinha.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | A SOGRA E A LISTA DO MERCADO\nUma senhora entrou com uma lista de compras enorme e anunciou que o genro tinha finalmente se oferecido para cozinhar.\n\nManda pra quem tem talento duvidoso na cozinha.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A SOGRA E A LISTA DO MERCADO. Manda pra quem tem talento duvidoso na cozinha. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Uma senhora entrou com uma lista de compras enorme e anunciou que o genro tinha finalmente se oferecido para cozinhar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela me mostrou o papel, orgulhosa, porque ele tinha escrito ingredientes detalhados para fazer um jantar especial para a família.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No meio da lista apareciam tomate, macarrão, queijo e, com letras enormes, três pacotes de coragem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era alguma marca nova, e ela respondeu que o rapaz devia estar com medo de errar a receita.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na chegada, o genro abriu a porta usando luvas de forno e perguntou se alguém tinha comprado extintor também.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A sogra falou que trouxe coragem em dobro, porque tinha jantado antes de sair de casa.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
