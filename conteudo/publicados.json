@@ -349,5 +349,19 @@
   "formato": "longo",
   "serie": null,
   "duracao": 148.1
+ },
+ {
+  "id": "cx509",
+  "media_id": "17900414502411761",
+  "quando": "2026-11-21T17:46-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "almoco",
+  "dia_teste": "2026-11-21",
+  "formato": "curto",
+  "serie": "Corrida de 1 Minuto",
+  "duracao": 46.1
  }
 ]
