@@ -7,6 +7,7 @@ from manim import *
 import numpy as np
 import marcao_lib as ML
 import caixeiro_marcha as MARCHA
+from cena_passageiro import montar_passageiro, animar_passageiro
 import dvh_vox_papel as V
 import objetos as O
 
@@ -24,6 +25,10 @@ config.frame_rate = 30
 def _montar(scene, expr, cenario):
     cen = ML.carro(cenario)
     scene.add(cen['grupo'], cen['neon'])
+    if EP.get("formato") == "dialogo":
+        pessoa = montar_passageiro()
+        scene.add(pessoa["grupo"])
+        cen["passageiro"] = pessoa
     p = ML.posicionar(ML.marcao(expr, cenario))
     V.colar(scene, p, espessura=22)
     scene.add(p['volante'], cen['frente'])
@@ -132,7 +137,25 @@ class MarcaoBase(Scene):
                 ajustar_membro(p['bracos'][5], cotovelo, mao)
                 p['mao_d'].move_to(mao)
         p['grupo'].add_updater(motion)
-        ML.animar(self, p, cues)
+        if EP.get("formato") == "dialogo":
+            # Os fonemas da trilha sao filtrados pelas janelas de fala de cada um:
+            # motorista nao mexe a boca quando o passageiro esta falando.
+            def cues_do(quem):
+                faixas = [(float(s["ini"]), float(s.get("fim_fala", s["fim"])))
+                          for s in segs if s.get("quem") == quem]
+                out = []
+                for cu in cues:
+                    for ini, fim in faixas:
+                        comeco = max(float(cu["start"]), ini)
+                        termino = min(float(cu["end"]), fim)
+                        if termino > comeco:
+                            out.append({"start": comeco, "end": termino,
+                                        "estado": cu["estado"]})
+                return sorted(out, key=lambda x: x["start"])
+            ML.animar(self, p, cues_do("caixeiro"))
+            animar_passageiro(self, cen["passageiro"], cues_do("passageiro"))
+        else:
+            ML.animar(self, p, cues)
         self.wait(segs[-1]['fim'] + 2.2)
 
 
