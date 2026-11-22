@@ -1,0 +1,263 @@
+{
+  "id": "cx513",
+  "ep": 513,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO NA OFICINA FECHADA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_chuvosa",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo e pediu para chegar antes que fechassem a oficina. O que descobriu sobre o irmão mudou tudo! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro",
+  "legenda_post": "🚕🎂 Um bolo de sessenta anos, uma bicicleta vermelha e vinte e dois anos de silêncio. Às vezes, ainda dá tempo de recomeçar. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um bolo de aniversário inteiro e disse: preciso chegar antes que apaguem o nome dele da porta.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida, um simples bolo ia revelar por que um homem desaparecia todo aniversário.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Lúcia, professora aposentada. O bolo tinha cobertura azul e uma vela com o número sessenta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pediu que eu fosse até uma pequena oficina de conserto de bicicletas, no outro lado da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era surpresa. Ela respondeu: para mim também. Faz vinte e dois anos que não vejo meu irmão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu irmão, Renato, tinha saído de casa depois de uma discussão por causa da venda da bicicleta do pai.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia acreditava que ele tinha levado o dinheiro e abandonado a família quando mais precisavam.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, porém, um antigo vizinho entregou a ela uma caixa de recibos amarelados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Entre os papéis havia pagamentos de hospital, remédios e uma nota com a assinatura de Renato.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi aí que Lúcia percebeu: o dinheiro da bicicleta não tinha sumido. Tinha pago o tratamento da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas por que Renato nunca contou? Ela apertou a caixa contra o peito e olhou pela janela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma chuva fina começou. No sinal vermelho, Lúcia me mostrou uma foto dos dois crianças, numa bicicleta vermelha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela disse que Renato sempre consertava o que quebrava, até quando ninguém pedia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à rua da oficina, vimos a fachada coberta por uma lona de mudança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um rapaz carregava ferramentas para uma caminhonete. Lúcia perguntou por Renato, quase sem voz.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O rapaz respondeu: meu pai está lá dentro, fechando a loja pela última vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia ficou imóvel. Disse que tinha ensaiado aquele encontro cem vezes, mas esqueceu todas as palavras.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu ofereci segurar o bolo. Ela sorriu nervosa e pediu que eu a acompanhasse até a porta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato estava de costas, desmontando uma bicicleta antiga. Quando ouviu o nome dela, largou a chave inglesa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois se olharam por longos segundos. Ele perguntou: você veio cobrar a bicicleta?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia colocou os recibos no balcão e respondeu: vim agradecer por ter cuidado da nossa mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato abaixou a cabeça. Disse que tinha vergonha de admitir que vendera a única lembrança que tinham do pai.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele achava que a irmã jamais perdoaria. Por isso, cada ano que passava tornava mais difícil voltar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia abriu a caixa do bolo. Na cobertura estava escrito: sessenta anos, ainda dá tempo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato começou a rir e chorar ao mesmo tempo. Disse que nunca tinha ganhado um bolo com o próprio nome.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi então que o rapaz trouxe dos fundos uma bicicleta vermelha, restaurada peça por peça.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Renato explicou que havia comprado a bicicleta de volta muitos anos depois, mas nunca teve coragem de entregar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia passou a mão no guidão e disse: a bicicleta pode esperar. Eu quero meu irmão de volta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, os três dividiram o bolo sobre uma bancada, enquanto a chuva batia no telhado da oficina.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu voltei para o carro pensando que algumas distâncias não se medem em quilômetros, mas em conversas adiadas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você tem alguém para procurar, talvez hoje seja o dia. Compartilha essa história. Eu sou o Caixeiro e te espero na próxima corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
