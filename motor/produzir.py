@@ -98,7 +98,7 @@ def main():
                 sh([sys.executable, os.path.join(MOTOR, "gerar_voz_thalita.py"), P("roteiro.txt"),
                     "--voice", VOZ, f"--rate={RATE}", "--gap", str(GAP),
                     "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
-            if "reenganche_indice" in ep:
+        if "reenganche_indice" in ep:
             from ritmo import sincronizar
             sincronizar(P("bruta.wav"), P("segs.json"), ep["reenganche_indice"], ep.get("formato") == "curto")
         from audio_fx import masterizar_voz
