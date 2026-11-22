@@ -1,0 +1,279 @@
+{
+  "id": "cx490",
+  "ep": 490,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A ÚLTIMA SESSÃO DO CINE AURORA",
+  "categoria": "historia_passageiro",
+  "cenario": "noite_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎟️ Ela entrou no carro com um ingresso vencido há vinte anos. A última sessão do cinema guardava uma surpresa! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro",
+  "legenda_post": "🚕🎬 Um ingresso antigo, um cinema prestes a fechar e uma promessa que esperou vinte anos. Às vezes, a primeira palavra é tudo que falta para recomeçar. Compartilhe com alguém especial. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um envelope com a palavra devolução. Disse que precisava chegar antes que desligassem o letreiro do cinema.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela noite, uma entrada de cinema vencida ia mudar o destino de uma família.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Bia, trabalhava numa padaria e olhava para o relógio a cada esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se tinha esquecido algum objeto no cinema. Ela disse: esqueci uma promessa de vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando criança, o pai dela era projecionista do Cine Aurora, um cinema pequeno perto da praça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todo sábado ele prometia guardar a poltrona do meio para assistirem juntos ao último filme da sessão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas ele sempre trabalhava até tarde. Bia cresceu vendo filmes sozinha e achando que ele preferia a cabine.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, o Cine Aurora anunciou sua última sessão. O prédio seria transformado em estacionamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bia encontrou numa caixa uma entrada antiga, nunca usada, com uma frase escrita no verso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela me mostrou a letra tremida: para a sessão em que eu finalmente sentar ao seu lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que ela não convidava o pai. Bia respondeu baixinho que eles não se falavam havia seis anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma discussão sobre a venda da casa da família tinha virado silêncio. Nenhum dos dois soube voltar atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O telefone dela tocou. Era o irmão avisando que o pai estava na praça, olhando o cinema fechado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bia pediu para eu acelerar. Eu disse que faríamos o possível, mas sem transformar nostalgia em multa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela riu pela primeira vez e confessou que tinha ensaiado um discurso inteiro no espelho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No sinal vermelho, apagou a mensagem de desculpas que escrevera. Disse que nenhuma frase parecia suficiente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu respondi que talvez a primeira frase não precisasse resolver tudo. Só precisava abrir a porta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, uma fila pequena contornava a calçada. O letreiro piscava pela última vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bia viu o pai, seu Orlando, de boné cinza, segurando um rolo de filme como quem segura uma lembrança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela desceu com o envelope. Eu fiquei esperando porque a corrida ainda não parecia terminada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Orlando reconheceu a entrada antiga e ficou parado. Depois tirou do bolso outra entrada igual.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na dele estava escrito: para quando minha filha quiser voltar a sentar comigo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bia perguntou por que ele nunca ligou. Orlando respondeu que ligou muitas vezes, mas desligava antes de chamar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que também escrevia mensagens que nunca enviava. Os dois começaram a rir da própria teimosia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O gerente apareceu dizendo que o projetor antigo não funcionava e a despedida seria cancelada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Orlando abriu a caixa de ferramentas que levava consigo. Bia arregaçou as mangas e foi ajudar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em quinze minutos, os dois conseguiram fazer a luz atravessar a cabine outra vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O público aplaudiu quando a primeira imagem surgiu na tela. Mas a maior surpresa veio na fileira central.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O gerente tinha reservado duas poltronas lado a lado com uma fita amarela e os nomes deles.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Orlando sentou primeiro. Bia entregou a entrada vencida e disse: acho que ainda dá tempo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele respondeu: para a nossa sessão, sempre dá. E segurou a mão da filha enquanto as luzes apagavam.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei ao carro pensando em quantas promessas ficam esperando uma conversa de cinco minutos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você também tem alguém com quem precisa conversar, manda esta história. Aqui é o Caixeiro, até a próxima corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

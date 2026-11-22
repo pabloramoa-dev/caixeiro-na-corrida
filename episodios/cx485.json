@@ -1,0 +1,255 @@
+{
+  "id": "cx485",
+  "ep": 485,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O TROFÉU RACHADO DA MERENDEIRA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ele entrou no carro com um troféu quebrado e disse que iam premiar a pessoa errada. O final mudou a cerimônia! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🏆 Um troféu rachado, uma horta escolar e trinta e cinco anos de trabalho invisível. A homenagem tomou outro rumo quando André pediu o microfone. Envie para quem merece reconhecimento. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Meu passageiro entrou com um troféu quebrado e pediu: corre, porque hoje vão entregar esse prêmio para a pessoa errada.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida descobri que um troféu pode esconder uma mentira de vinte anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O homem se chamava André. Segurava a base dourada com tanto cuidado que parecia carregar vidro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei quem tinha quebrado o prêmio. Ele respondeu: fui eu, quando tinha doze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Achei que fosse uma bronca antiga. Mas ele apontou para o endereço: escola municipal, festa de aposentadoria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era a escola onde a mãe dele, dona Sônia, trabalhara como merendeira por trinta e cinco anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquele dia iam homenagear o diretor, que receberia um troféu por um projeto de alimentação escolar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "André respirou fundo e disse: só que a ideia não foi dele. Foi da minha mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele mostrou uma fotografia amarelada. Dona Sônia aparecia com uma horta pequena atrás da cozinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, crianças seguravam alfaces tortas e sorriam como se tivessem ganhado medalhas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ele guardava um troféu quebrado. André contou que a escola tinha organizado uma gincana.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando criança, ele ganhara aquele prêmio de participação e o quebrara na mesma tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe colou a peça com fita e disse: o que importa é você ter tentado, não o brilho do troféu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele levou a lembrança porque precisava de coragem para falar na frente de todo mundo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No trânsito, André ensaiou o discurso três vezes. Na quarta, esqueceu o próprio nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu falei: começa contando da horta. Ninguém resiste a uma boa história com alface.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele riu pela primeira vez e ajeitou a camisa. Mas então chegou uma mensagem: a cerimônia tinha começado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Peguei uma rua lateral. André olhava o relógio como se pudesse acelerar o ponteiro no pensamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a porta do auditório estava aberta e os aplausos já tinham começado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "André desceu correndo, mas voltou para buscar o troféu quebrado que esquecera no banco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Entrei atrás, porque queria descobrir se aquele homem teria coragem de terminar a história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No palco, o diretor segurava a placa de homenagem. André pediu o microfone, tremendo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele mostrou a fotografia e contou como dona Sônia transformou um terreno vazio em uma horta para as crianças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O auditório ficou quieto. Então uma professora se levantou e disse: eu plantei a primeira muda com ela.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Outras pessoas começaram a contar lembranças. O diretor desceu do palco e chamou dona Sônia à frente.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela estava na última fileira, com o avental dobrado na bolsa. Subiu sem entender a confusão.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "André entregou o troféu rachado e disse: mãe, você me ensinou que reconhecimento não precisa ser perfeito.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dona Sônia abraçou o filho. O diretor entregou a placa a ela e prometeu registrar a história da horta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, André me perguntou quanto devia pela espera. Eu disse: só me conta quando colherem a próxima alface.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém já fez algo enorme sem receber crédito, manda esta história para essa pessoa. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "cx478",
+  "ep": 478,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA VAZIA DO ÚLTIMO CINEMA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎞️ Ela entrou no carro com uma mala vazia e uma missão: salvar a última sessão do cinema do pai. O final surpreendeu até o Caixeiro! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🎞️ Uma mala vazia, um rolo de filme esquecido e uma promessa de vinte anos. Manda para quem guardou uma lembrança especial para você. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias #Gratidao",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala vazia e disse: se eu não chegar em vinte minutos, vão vender o último pedaço da infância do meu pai.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu olhei a mala pelo retrovisor. Tinha uma etiqueta amarela escrita NÃO ABRIR ATÉ O FINAL. E ela prometeu explicar tudo no destino.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Clara. Pediu para ir a um pequeno cinema de bairro que fecharia naquela tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que precisava de uma mala vazia. Ela respondeu: porque o que vou buscar não cabe em fotografia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai dela, seu Augusto, tinha sido projecionista do cinema por trinta e oito anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando Clara era pequena, esperava o fim da última sessão sentada na escada da cabine.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele desenhava estrelas em bilhetes usados e dizia que cada pessoa merecia aparecer numa história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o cinema fechou, o prédio foi vendido e os objetos antigos iriam a leilão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara descobriu por acaso que uma caixa de metal da cabine estava no lote daquele dia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se a caixa tinha dinheiro. Ela riu: para o meu pai, valia mais do que qualquer dinheiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No primeiro sinal vermelho, o celular dela tocou. Era o irmão, avisando que os compradores já estavam entrando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela apertou a alça da mala e disse que não queria comprar o passado. Só queria devolver uma promessa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Augusto tinha perdido a visão de um olho e nunca mais conseguiu operar o projetor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Desde então, dizia que ninguém se lembraria dele quando as luzes do cinema apagassem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara encontrou um velho bilhete com a letra dele: guardar a última sessão para quem não pôde assistir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu não entendi. Ela contou que, na noite de encerramento, uma pane elétrica interrompeu o filme antes do final.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Augusto prometeu às crianças que um dia mostraria a cena que faltava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao cinema e encontramos uma fila de gente carregando caixas e cadeiras.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O responsável pelo leilão disse que a caixa de metal já estava reservada para um colecionador.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara mostrou a etiqueta da mala. Nela havia o número exato do lote e uma fotografia da cabine.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O colecionador, que ouvia a conversa, perguntou por que aquela caixa importava tanto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou a história da última sessão interrompida e mostrou o bilhete escrito pelo pai.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O homem ficou em silêncio e abriu a caixa. Dentro havia um rolo de filme e uma lista de nomes de crianças.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse: eu era uma dessas crianças. Esperei vinte anos para descobrir como terminava aquela história.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em vez de levar a caixa, o colecionador propôs emprestar o rolo para uma sessão de reencontro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara abriu a mala vazia. Tirou de dentro um envelope com convites impressos e o nome do pai na primeira linha.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Augusto chegou apoiado no braço do neto e encontrou antigos espectadores sentados diante de uma tela improvisada.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando o filme terminou, ninguém aplaudiu o herói. Todos aplaudiram o homem que guardou o final por tantos anos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Clara me disse que a mala não estava mais vazia. Agora carregava os bilhetes assinados por quem voltou.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu aprendi que certas histórias não acabam quando a luz se apaga. Elas esperam alguém acender de novo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém guardou uma lembrança importante para você, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "cx481",
+  "ep": 481,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O GUARDA-CHUVA DA ESTAÇÃO FECHADA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no carro com um guarda-chuva aberto, mesmo sem chuva. O motivo estava escondido numa estação fechada há vinte anos. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕☂️ Um guarda-chuva amarelo, uma estrela costurada e uma estação reaberta. Algumas lembranças continuam mostrando o caminho. Manda para quem sempre foi seu ponto de encontro. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Memorias",
+  "batidas": [
+    {
+      "fala": "Ela entrou no carro com um guarda-chuva aberto, mesmo sem chover. E disse: se eu fechar isso, a surpresa acaba.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro, e aquela foi a corrida mais estranha que fiz naquela terça-feira.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Teresa. No colo, segurava um guarda-chuva amarelo com um remendo em forma de estrela.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pediu para ir à antiga estação ferroviária, que estava fechada havia quase vinte anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que não fechava o guarda-chuva. Teresa sorriu: porque foi assim que meu pai me ensinou a encontrá-lo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando era pequena, ela se perdia no meio da multidão da estação, sempre que os trens chegavam.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai abria aquele guarda-chuva amarelo e dizia: procure a estrela, que eu estou aqui.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois, ele passou a trabalhar longe. A estação fechou, a família mudou e o guarda-chuva ficou esquecido num armário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana anterior, Teresa recebeu uma caixa enviada por uma antiga funcionária da ferrovia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia uma fotografia, uma passagem nunca usada e um bilhete escrito à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O bilhete dizia: no dia em que a estação abrir de novo, estarei debaixo da estrela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se o pai dela tinha marcado um reencontro. Teresa baixou os olhos: ele morreu há seis anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Por um instante, achei que ela estivesse indo a uma cerimônia de homenagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas ela me mostrou uma mensagem da prefeitura: hoje seria a abertura de um pequeno museu na estação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela não sabia quem havia mandado a caixa, nem por que alguém conhecia aquela frase de infância.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, uma rajada de vento quase virou o guarda-chuva dentro do carro. Nós dois começamos a rir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa o segurou firme. Disse que fazia anos que não ria ao lembrar do pai.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à estação. Na entrada, voluntários montavam cadeiras e penduravam fotografias antigas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma senhora de cabelos brancos viu o guarda-chuva e levou a mão à boca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se apresentou como dona Irene, antiga bilheteira. Disse que conhecia aquele remendo de estrela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi o pai de Teresa quem costurou a estrela, na noite em que a menina se perdeu por quase uma hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Irene contou que ele ajudou dezenas de crianças a encontrar suas famílias nos dias de movimento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de morrer, ele doou à estação um caderno com histórias e desenhos feitos durante os turnos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A última página tinha o desenho de um guarda-chuva amarelo e uma dedicatória para Teresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela leu em voz alta: quando você não souber para onde ir, lembre que sempre pode ser o ponto de encontro de alguém.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa ficou em silêncio. Então fechou o guarda-chuva pela primeira vez desde que entrou no carro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na inauguração, ela ofereceu o guarda-chuva ao museu, mas pediu que ficasse aberto perto da porta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando fui embora, vi uma criança apontar para a estrela e chamar a mãe para tirar uma foto.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquele dia, entendi que certas pessoas continuam mostrando o caminho mesmo depois de partir.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que sempre foi seu ponto de encontro, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

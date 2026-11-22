@@ -1,0 +1,247 @@
+{
+  "id": "cx512",
+  "ep": 512,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CHAVE DO ARMÁRIO 42",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🗝️ Ela entrou no carro com uma chave de vinte anos e um segredo sobre o pai. O armário 42 mudou tudo. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🗝️ Uma chave antiga, dois irmãos e uma verdade esquecida no armário 42. Nem toda história termina como nos contaram. Compartilhe com quem merece uma conversa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma chave de armário e disse: se aquela porta abrir hoje, meu irmão vai descobrir uma mentira de vinte anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E o mais estranho era que ela não queria impedir a descoberta. Queria estar presente quando acontecesse.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Joana. Segurava um bilhete de estação com um número escrito em caneta azul.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela pediu corrida até o antigo terminal rodoviário, que seria reformado na manhã seguinte.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei o que tinha no armário. Ela respondeu: a única coisa que minha mãe nunca teve coragem de contar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando eram crianças, Joana e o irmão, Miguel, acreditavam que o pai tinha abandonado a família numa viagem de ônibus.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe repetia que ele partira sem olhar para trás. Miguel cresceu com raiva e nunca quis falar dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas naquela semana Joana encontrou uma carta escondida no livro de receitas da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta dizia: armário quarenta e dois. Guardei tudo para quando vocês pudessem entender.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O bilhete tinha uma data de vinte anos atrás, e a estação fechava para obras em menos de uma hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Joana ligou para Miguel durante a corrida. Ele atendeu irritado e disse que não queria remexer no passado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela respondeu: não estou pedindo que perdoe ninguém. Só que veja com seus próprios olhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Do outro lado houve silêncio. Depois ele prometeu encontrá-la na plataforma três.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao terminal. O relógio marcava cinco e quarenta, e os funcionários já fechavam as lojas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um segurança reconheceu a chave antiga e nos levou até uma fileira de armários esquecidos atrás do guichê.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O número quarenta e dois estava coberto de poeira. Joana girou a chave, mas a porta não abriu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Miguel apareceu correndo. Sem dizer uma palavra, segurou a porta enquanto a irmã tentou novamente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A fechadura cedeu. Dentro havia uma mochila pequena, fotografias e uma pasta com recibos médicos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira fotografia, o pai estava numa cama de hospital, segurando um desenho feito pelos dois filhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os recibos mostravam tratamento numa cidade distante. A viagem não tinha sido uma fuga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Joana encontrou uma carta: eu fui embora para tratar uma doença e pedi à mãe que não assustasse vocês.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a carta continuava: quando tentei voltar, já era tarde. Se não conseguir, digam que sempre pensei neles.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Miguel sentou no banco da plataforma. A raiva que carregava há vinte anos virou uma pergunta: por que ela escondeu isso?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Joana não inventou resposta. Disse apenas que a mãe também tinha medo e que agora precisavam conversar com ela.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No fundo da mochila havia dois bilhetes de ônibus nunca usados, comprados para uma viagem em família.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Miguel pegou um bilhete e falou baixinho: eu teria ido. Mesmo sem saber para onde.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, os irmãos decidiram visitar a mãe juntos, sem acusações prontas, para ouvir a história inteira.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu vi os dois caminhando lado a lado. Às vezes, a verdade não devolve o tempo, mas muda o caminho daqui para frente.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa corrida te fez pensar em alguém, compartilha. Eu sou o Caixeiro, e te espero na próxima história.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

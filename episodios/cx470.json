@@ -1,0 +1,199 @@
+{
+  "id": "cx470",
+  "ep": 470,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAMPAINHA QUE REUNIU UMA TURMA",
+  "categoria": "historia_passageiro",
+  "cenario": "manha_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🔔 Ele entrou no carro com uma campainha antiga. O segredo da mochila mudou tudo! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #Escola",
+  "legenda_post": "🚕🔔 Uma campainha antiga e uma turma que nunca esqueceu sua professora. Manda para quem marcou sua vida. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Entrou no meu carro um homem segurando uma campainha de balcão. Ele disse: motorista, preciso devolver isto antes que uma escola feche para sempre.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que era brincadeira. Mas ele mostrou uma foto antiga e falou que a campainha tinha feito uma turma inteira mudar de vida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O nome dele era Davi. Quando criança, estudou numa escola pequena, onde a diretora usava aquela campainha para anunciar boas notícias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira semana de aula, Davi não tinha material. Ficava quieto no fundo da sala para ninguém perceber.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia a diretora tocou a campainha e anunciou que alguém tinha deixado uma mochila nova na secretaria. Era para ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele nunca soube quem tinha ajudado. Só lembrava do barulho da campainha e de como a turma inteira bateu palmas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Anos depois, Davi virou marceneiro. Naquela manhã descobriu que a escola seria transformada em depósito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que carregava a campainha. Ele respondeu: achei num brechó ontem. Reconheci o risco na base que eu mesmo fiz quando era menino.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mostrou a marca: duas letras tortas, D e V. Confesso que fiquei curioso para saber o que ele pretendia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele queria encontrar a antiga diretora, dona Irene, antes da despedida dos professores naquela tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No caminho, o celular tocou. Era a filha da diretora avisando que dona Irene não iria à cerimônia. Estava envergonhada por não lembrar mais de todos os alunos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi ficou em silêncio. Depois pediu para mudar o destino: vamos buscar dona Irene em casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos a uma casa com um jardim cheio de vasos. Dona Irene apareceu na janela e perguntou quem tinha chamado um carro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi levantou a campainha. Tocou uma vez. Ela abriu a porta e soltou uma risada: esse som eu conheço!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou sobre a mochila e disse que queria agradecer. Dona Irene respondeu: fui eu que entreguei, mas quem comprou foi sua turma.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela época, cada colega juntou algumas moedas durante semanas. Ninguém queria que Davi se sentisse sozinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele levou a mão ao rosto, surpreso. Disse que passou a vida tentando descobrir o nome de uma pessoa, e eram vinte e três.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dona Irene aceitou ir à escola. No carro, ela pediu para tocar a campainha mais uma vez, só para lembrar do recreio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, antigos alunos estavam no pátio. Davi tocou a campainha e todos ficaram em silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse: hoje a boa notícia é que a senhora não precisa lembrar de cada nome. Nós lembramos do que a senhora fez.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A turma aplaudiu. Dona Irene riu e respondeu: então alguém me ajuda a lembrar onde fica a sala dos professores?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Davi deixou uma campainha nova na escola e levou a antiga para restaurar. Eu ganhei uma história que valeu a corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Tem gesto pequeno que faz barulho por muitos anos. Manda essa história para quem já fez diferença na sua vida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

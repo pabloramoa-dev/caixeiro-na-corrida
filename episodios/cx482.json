@@ -1,0 +1,255 @@
+{
+  "id": "cx482",
+  "ep": 482,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O RELÓGIO QUE VOLTOU A ANDAR",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⌚ Ela entrou no carro com um relógio quebrado havia 17 anos. O que o avô fez ao recebê-lo mudou tudo. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕⌚ Um relógio antigo, uma oficina prestes a fechar e dezessete anos de silêncio. Às vezes, recomeçar é o maior presente. Manda para quem merece uma conversa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Familia #Recomeco",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma sacola de pães e pediu: não deixe meu avô ver a etiqueta. Eu olhei e estava escrito: devolução.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela entrega parecia simples, até a passageira contar por que estava tremendo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O nome dela era Bianca. Tinha um endereço rabiscado na mão e um relógio parado preso ao pulso.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela disse que precisava chegar à oficina do avô antes de ele fechar a porta pela última vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei o que havia na sacola. Ela respondeu: uma coisa que ele consertou sem saber.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O avô, seu Dário, passara quarenta anos reparando relógios na mesma esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas as pessoas agora trocavam tudo por aparelhos novos. A oficina ia fechar naquela tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bianca tinha oito anos quando o avô lhe deu um relógio antigo, prometendo que um dia aprenderia a cuidar dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela quebrou o relógio na escola e, com vergonha, escondeu os pedaços dentro de uma caixa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Anos depois, mudou de cidade. A caixa foi junto, de mudança em mudança, sem nunca ser aberta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana passada, Bianca encontrou os pedaços e levou a um relojoeiro, sem dizer de onde vinham.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O homem olhou a peça e reconheceu a assinatura minúscula gravada atrás: Dário, 1989.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era um antigo aprendiz do avô. Ele consertou o relógio e se recusou a cobrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na devolução, colocou dentro da sacola um bilhete: o mestre me ensinou a não desistir das coisas quebradas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bianca sorriu, mas seus olhos estavam molhados. Ela não sabia como pedir desculpas por tantos anos de silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No sinal vermelho, o relógio começou a fazer tique-taque. Era baixinho, mas encheu o carro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu brinquei: pelo menos um de nós sabe exatamente que horas são. Ela riu pela primeira vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a placa da oficina já estava sendo retirada por dois vizinhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Dário estava na calçada, segurando uma caixa de ferramentas como quem carrega uma vida inteira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Bianca desceu, entregou a sacola e disse: vô, eu estraguei seu presente. Demorei dezessete anos para contar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele abriu o embrulho, reconheceu o relógio e ficou parado, olhando para o ponteiro dos segundos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então perguntou: você achou que eu gostava mais do relógio do que de você?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela balançou a cabeça, sem conseguir responder. Seu Dário a abraçou ali mesmo, no meio da calçada.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas ainda tinha uma surpresa. O antigo aprendiz chegou com três jovens e pediu a chave da oficina.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele havia reunido gente interessada em aprender o ofício. Queria transformar o lugar numa pequena escola.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Dário olhou para Bianca. Ela disse: não é para você trabalhar mais. É para ensinar o que sabe.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pendurou a placa de volta, só que do outro lado: Oficina do Tempo — aulas aos sábados.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando fui embora, ouvi o tique-taque do relógio e uma gargalhada dos dois atrás de mim.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela corrida, aprendi que às vezes o tempo perdido não volta, mas ainda dá para começar de novo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que merece uma segunda chance de conversa, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "cx514",
+  "ep": 514,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O ENVELOPE DE DEMISSÃO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "✉️ Ele entrou no carro com uma carta de demissão que nem era dele. O que fez antes das três mudou o dia de uma colega. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕✉️ Um envelope, um caderno de portaria e dois pedaços de bolo. Às vezes, defender alguém muda muito mais do que um emprego. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Solidariedade #Storytelling",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro segurando um envelope com a palavra DEMITIDO. Só que pediu corrida para o próprio emprego.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E antes daquela corrida terminar, descobri que o envelope não era dele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Davi, tinha cinquenta e poucos anos e vestia uniforme de porteiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele olhava para o relógio a cada esquina. Perguntei se estava atrasado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse: se eu chegar depois das três, uma pessoa inocente vai perder tudo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No banco ao lado havia uma marmita fechada e um envelope amassado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi contou que trabalhava havia dezessete anos num prédio comercial.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, encontrou uma carta de demissão esquecida na impressora da administração.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O nome no papel era o de Marta, a faxineira que sustentava dois netos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O motivo dizia faltas injustificadas. Mas Davi sabia que Marta não faltara.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele mesmo tinha aberto a portaria para ela em todos aqueles dias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que não ligava. Ele mostrou o celular sem bateria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então emprestei o meu. A administração não atendeu nenhuma das três chamadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi respirou fundo e disse que guardava uma prova, mas tinha medo de usá-la.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era o caderno de ocorrências da portaria, com horários e assinaturas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele temia que o chefe dissesse que estava se metendo onde não devia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, perguntei: e se fosse o seu nome naquele envelope?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi ficou quieto. Depois respondeu: eu ia querer que alguém falasse.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao prédio faltando cinco minutos. A recepção já estava cheia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marta estava ali, segurando a própria bolsa, sem entender o que tinha acontecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi entrou com o caderno aberto e pediu para conferirem as datas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A supervisora comparou as assinaturas com o sistema e percebeu o erro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um funcionário havia lançado as faltas no cadastro de Marta por engano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta foi suspensa para revisão, e Marta finalmente conseguiu respirar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o que me pegou foi quando ela abriu a marmita de Davi.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia dois pedaços de bolo. Era o aniversário dela, e ele não tinha esquecido.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela começou a rir e chorar. Disse que achava que ninguém mais lembrava.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei para o carro pensando: às vezes coragem é só não ficar calado diante de um erro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa história te lembrou alguém que merece apoio, compartilha. Eu sou o Caixeiro. Até a próxima corrida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

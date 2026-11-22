@@ -1,0 +1,271 @@
+{
+  "id": "cx489",
+  "ep": 489,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "OS SAPATOS QUE CAMINHARAM SOZINHOS",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "👟 Ela entrou no carro com dois sapatinhos e um segredo de infância. O homem que os fez nunca imaginou o que aconteceria 25 anos depois! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕👟 Um par de sapatos pequenos, uma casa amarela e uma gratidão que atravessou décadas. Às vezes, ajudar alguém é colocar o mundo em movimento. Envie para quem te ajudou a dar o primeiro passo. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Familia",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando um par de sapatos infantis e disse: preciso impedir que vendam a casa antes que encontrem o nome de quem me salvou.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida, dois sapatos pequenos iam revelar uma dívida que ninguém podia pagar com dinheiro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Clara, tinha trinta e dois anos e segurava os sapatos dentro de uma caixa de biscoitos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que alguém guardaria calçados tão pequenos. Ela respondeu: porque foram os primeiros que eu usei para andar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara tinha sido criada pela avó, dona Irene, numa casa amarela no fim de uma rua de terra.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando criança, ficou meses sem conseguir andar depois de um acidente. A família não tinha dinheiro para o tratamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um desconhecido apareceu na porta com uma caixa de sapatos ortopédicos e o endereço de uma clínica.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A avó nunca contou quem era. Só dizia: quando puder, faça por alguém o que fizeram por você.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Agora Irene tinha morrido e a casa seria vendida naquela tarde. Clara procurava um bilhete que a avó escondera.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ela tinha alguma pista. Clara tirou do bolso uma fotografia com uma mancha de café.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, a avó sorria ao lado de um homem de uniforme azul, mas o rosto dele estava dobrado para trás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara disse que havia uma inscrição no verso: o homem que consertou meus passos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu brinquei que talvez fosse um sapateiro. Ela riu e disse que eu era o terceiro motorista a fazer a mesma piada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando o celular tocou. O corretor avisou que os compradores chegariam em vinte minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara pediu que eu acelerasse. Expliquei que chegar inteiro era mais importante do que chegar um minuto antes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No caminho, ela contou que virou fisioterapeuta por causa daquela ajuda recebida na infância.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela atendia crianças de graça uma vez por semana, mas nunca soube a quem agradecer pessoalmente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à casa amarela. A porta estava aberta e caixas de mudança cobriam o corredor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara correu até a cozinha. Atrás de um relógio antigo havia um envelope com seu nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu o envelope tremendo. Dentro havia uma receita médica, uma carta e um recibo de conserto de bicicleta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A carta dizia: o homem do uniforme azul nunca pagou os sapatos. Ele os fez com as próprias mãos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara leu o nome em voz alta: Antônio, o vizinho que todos chamavam de Tonho da Bicicleta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela ficou parada. Tonho ainda morava duas ruas adiante e consertava bicicletas na garagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Fomos até lá. Um senhor de cabelos brancos levantou a cabeça e perguntou se a bicicleta estava fazendo barulho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara mostrou os sapatos. Tonho reconheceu a costura torta e levou a mão à boca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que tinha aprendido a adaptar calçados enquanto cuidava do próprio filho, que morreu muito jovem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois disso, decidiu usar o que sabia para ajudar outras crianças, sem contar a ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Clara abraçou Tonho e disse que agora ajudava crianças a dar seus primeiros passos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Tonho sorriu: então aqueles sapatos caminharam muito mais longe do que eu imaginava.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Clara deixou a caixa no banco por um instante. Parecia que os sapatos tinham ficado maiores.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu aprendi que um gesto pequeno pode atravessar gerações. E você, lembra de quem te ajudou a começar?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa corrida te lembrou alguém, compartilha com essa pessoa. Aqui é o Caixeiro, até a próxima.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

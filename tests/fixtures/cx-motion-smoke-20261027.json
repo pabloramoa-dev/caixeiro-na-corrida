@@ -1,0 +1,49 @@
+{
+  "id": "cx-motion-smoke-20261027",
+  "ep": 999,
+  "avulso": true,
+  "titulo": "A SACOLA NO BANCO DE TRÁS",
+  "categoria": "humor",
+  "cenario": "dia",
+  "preview_only": true,
+  "legenda_post": "História fictícia. Um passageiro esqueceu uma sacola e o motorista descobriu uma surpresa engraçada. #CaixeiroNaCorrida",
+  "legenda_tiktok": "História fictícia. #CaixeiroNaCorrida",
+  "batidas": [
+    {
+      "fala": "O passageiro entrou no meu carro segurando uma sacola como se estivesse levando um tesouro. E pediu: motorista, não faça perguntas.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ]
+    },
+    {
+      "fala": "Na primeira curva, a sacola começou a apitar. Eu olhei no retrovisor e perguntei se tinha um despertador ali dentro.",
+      "expr": "ironica",
+      "arte": [
+        "relogio"
+      ]
+    },
+    {
+      "fala": "Ele ficou vermelho e explicou que era um presente para a esposa. Mas nem ele sabia fazer o aparelho parar de tocar.",
+      "expr": "chocada",
+      "arte": [
+        "presente"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, ele abriu a sacola. Era um robô de limpeza novinho, fazendo barulho com a bateria fraca. O aniversário nem era naquele dia.",
+      "expr": "rindo",
+      "arte": [
+        "presente"
+      ]
+    },
+    {
+      "fala": "Eu só disse: meu amigo, da próxima vez compre flores. Pelo menos elas não pedem carregador. E você, já se atrapalhou com um presente?",
+      "expr": "rindo",
+      "arte": [
+        "coracao"
+      ]
+    }
+  ],
+  "fim": "E VOCÊ, JÁ PASSOU POR ISSO?"
+}

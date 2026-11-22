@@ -1,0 +1,67 @@
+{
+  "id": "cx501",
+  "ep": 501,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-002",
+  "ficcao_original": true,
+  "titulo": "O CLIENTE QUE LEVOU A PRÓPRIA CADEIRA",
+  "categoria": "humor_cotidiano",
+  "cenario": "noite",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem leva competição a sério demais.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O CLIENTE QUE LEVOU A PRÓPRIA CADEIRA\nO passageiro apareceu com uma cadeira dobrável e perguntou se eu tinha espaço no porta-malas para uma reunião muito importante.\n\nManda pra quem leva competição a sério demais.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O CLIENTE QUE LEVOU A PRÓPRIA CADEIRA. Manda pra quem leva competição a sério demais. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "O passageiro apareceu com uma cadeira dobrável e perguntou se eu tinha espaço no porta-malas para uma reunião muito importante.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto eu dirigia, ele conferia a cadeira pelo retrovisor, como se ela fosse um passageiro de primeira classe.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era palestra. Ele respondeu que não podia contar, porque estavam tentando tirar o lugar dele havia semanas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegando ao endereço, vi um grupo de senhores reunidos embaixo de uma árvore, cada um com a sua cadeira.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O meu passageiro desceu todo orgulhoso: era o campeonato de dominó do bairro e alguém tinha escondido a cadeira dele.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nunca vi uma pessoa chegar tão preparada para sentar e continuar discutindo quem roubou a última pedra do jogo.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

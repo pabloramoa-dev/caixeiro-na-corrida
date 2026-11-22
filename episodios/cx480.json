@@ -1,0 +1,239 @@
+{
+  "id": "cx480",
+  "ep": 480,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CAIXA DE SAPATOS DA ÚLTIMA FORNADA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "📦 Ele entrou no carro com uma caixa de sapatos e um segredo de 17 anos. O destino? A padaria da própria mãe. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕📦 Uma caixa de sapatos, uma promessa antiga e a última fornada de uma padaria. Às vezes, a verdade vale mais do que o sucesso. Manda para quem merece uma conversa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Familia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro com uma caixa de sapatos e avisou: se alguém perguntar, eu não estive aqui. Só que o endereço era da própria mãe.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela caixa escondia uma coisa que ele não tinha coragem de mostrar havia dezessete anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro era Rafael, trinta e poucos anos, camisa social amassada e um nervosismo que dava para enxergar pelo retrovisor.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pediu para ir até uma pequena padaria de bairro, antes que fechasse às seis.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se a caixa tinha um presente. Ele respondeu: tem uma dívida que dinheiro nenhum paga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael contou que, quando adolescente, trabalhava com a mãe naquela padaria, acordando antes do sol.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dia, ele foi selecionado para estudar música em outra cidade. Mas a passagem custava mais do que tinham guardado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe vendeu a única máquina de costura que possuía para comprar a passagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael prometeu que voltaria formado e tocaria para ela na inauguração de um palco de verdade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas a vida apertou. Ele desistiu do curso, mudou de emprego e passou anos evitando contar a verdade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na caixa, havia o primeiro uniforme da escola de música, um bilhete de ônibus e uma partitura amarelada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que só agora. Ele mostrou uma mensagem: a padaria vai fechar hoje. Venha se despedir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, Rafael disse que a mãe achava que ele ainda trabalhava com música.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ela nunca descobriu. Ele respondeu que talvez tivesse descoberto, mas nunca o obrigou a confessar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "De repente, o celular tocou. Era a irmã: a mãe estava retirando a última fornada do forno.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael pediu para parar numa floricultura. Comprou uma única flor, porque era tudo que tinha no bolso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, a placa de fechado já estava encostada na porta. Lá dentro, uma senhora limpava o balcão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael entrou devagar. A mãe olhou para a caixa e perguntou: você finalmente trouxe a música?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele começou a pedir desculpas, mas ela o interrompeu: eu nunca precisei que você fosse famoso.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela tirou debaixo do balcão uma pasta cheia de recortes e fotografias dele tocando na escola, antes de desistir.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael ficou sem voz. A mãe disse: eu sabia que você mudou de caminho. Só queria que voltasse a conversar comigo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi aí que a irmã abriu a porta dos fundos. Havia oito cadeiras, um teclado emprestado e vizinhos esperando.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe explicou que não era uma festa de despedida. Era uma noite para ouvir a canção que ele tinha escrito aos quinze anos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Rafael abriu a caixa, colocou a partitura sobre o teclado e tentou tocar. Errou duas notas e começou a rir.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mãe bateu palmas antes mesmo de ele terminar. E os vizinhos acompanharam, desafinados, como se fosse um grande concerto.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, ele me disse que passou dezessete anos com medo de decepcionar alguém que só queria vê-lo em casa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu pensei que às vezes a coragem não é cumprir a promessa antiga. É contar a verdade e fazer uma nova.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se tem alguém esperando uma conversa sua, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": "cx515",
+  "ep": 515,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "A SAMAMBAIA ESPIÃ",
+  "categoria": "humor_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🌿 Ele pediu pro motorista mentir pra esposa... mas a samambaia estava ouvindo tudo! 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasil #PlotTwist",
+  "legenda_post": "🚕🌿 O passageiro entrou com uma samambaia, um segredo e um pedido impossível. Só não imaginava que a esposa estava acompanhando a corrida inteira! 😂 História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HumorDeCasal #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Moço, se minha esposa ligar, fala que eu tô levando uma televisão pra casa. Pelo amor de Deus!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Mas o senhor tá com uma planta no colo. E ela tá maior que o banco!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "É justamente esse o problema. Eu saí pra comprar uma televisão e voltei com uma samambaia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz, o senhor foi assaltado por uma floricultura?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Pior. Eu fui enganado por um bilhete escrito: leve-me pra casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Uma planta com bilhete? Isso tá parecendo início de filme de terror.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Era a última coisa da minha sogra. Minha esposa deixou a planta na calçada depois de uma discussão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E o senhor resolveu resgatar a sogra em versão vegetal? Corajoso.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Eu achei que era uma lembrança importante. Só que agora preciso explicar os dois mil reais que saíram da conta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Dois mil numa samambaia? Ela faz declaração de imposto de renda?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Não! Eu comprei a televisão primeiro. Depois vi a planta na rua. A televisão tá na loja, esperando entrega.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ah, então o senhor tem televisão e samambaia. Onde tá o drama?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha esposa disse que se eu trouxesse mais uma planta, eu dormia na varanda.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pelo tamanho dessa aí, pelo menos o senhor dorme na sombra.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "E tem outra coisa. Eu vi uma foto antiga da minha sogra segurando essa mesma planta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Tá vendo? Sua esposa vai se emocionar. Eu aposto cinco estrelas.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Só que na foto tinha uma etiqueta: Não regar. É de plástico.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí. O senhor resgatou uma planta de plástico da calçada?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Exatamente. E ainda passei no posto pra comprar adubo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Não acredito! Adubo pra plástico é o investimento mais seguro que eu já vi.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Olha o celular! Minha esposa mandou: Você viu a samambaia que eu coloquei no lixo?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Responde que viu. Não precisa falar que ela tá usando cinto no meu banco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela escreveu mais: Tirei porque comprei outra igual, pra surpreender você no nosso aniversário.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Então vocês compraram presente um pro outro? Que bonito!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Calma. Ela disse que a nova planta tem uma câmera escondida pra vigiar o cachorro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Eita. A samambaia é espiã! Agora eu entendi por que ela tava olhando pra mim.",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela acabou de mandar uma foto. A câmera tá nessa aqui. A nova é a que ficou em casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ou seja: sua esposa tá vendo a gente desde que o senhor entrou no carro?",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela mandou um áudio: Amor, devolve meu vaso e para de pedir pro motorista mentir!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Dona Márcia, eu sou inocente! E o adubo foi ideia dele!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela respondeu: Motorista, cinco estrelas. Marido, hoje você dorme com a samambaia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Se você também já tentou esconder uma compra e piorou tudo, manda esse vídeo pra alguém. Eu sou o Caixeiro!",
+      "expr": "surpresa",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

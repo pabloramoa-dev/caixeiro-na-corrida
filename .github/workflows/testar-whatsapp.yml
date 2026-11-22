@@ -1,0 +1,18 @@
+name: Testar WhatsApp
+
+on:
+  workflow_dispatch:
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - env:
+          WHATSAPP_NUMERO: ${{ secrets.WHATSAPP_NUMERO }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python -m src.whatsapp --teste

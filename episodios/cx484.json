@@ -1,0 +1,263 @@
+{
+  "id": "cx484",
+  "ep": 484,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PIZZA QUE NINGUÉM PEDIU",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🍕 Ele entrou no carro com uma pizza lacrada e disse que era uma devolução. Mas dentro da caixa havia algo que ninguém esperava! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Amizade #Reviravolta",
+  "legenda_post": "🚕🍕 Uma pizza fria, dez envelopes e um reencontro depois de uma demissão. O que parecia o fim de uma equipe virou o começo de uma rede de apoio. Envie para aquele colega que virou amigo de verdade. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #AmizadeNoTrabalho #Recomeco",
+  "batidas": [
+    {
+      "fala": "Meu passageiro entrou com uma caixa de pizza lacrada e disse: se alguém perguntar, você nunca viu essa entrega. Eu achei que era brincadeira. Não era.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E o endereço daquela pizza me levou à corrida mais estranha da semana.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O rapaz se chamava Vinícius. Tinha vinte e poucos anos, camisa social amassada e o celular vibrando sem parar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele pediu para ir até um prédio de escritórios do outro lado da cidade. E pediu para não tocar a campainha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era uma entrega secreta. Ele respondeu: é uma devolução. E deu um sorriso nervoso.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, senti cheiro de pizza fria. A caixa estava fechada com três voltas de fita adesiva.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinícius contou que trabalhava numa empresa onde toda sexta-feira a equipe comprava pizza.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas naquele dia o chefe tinha anunciado uma demissão em massa, minutos antes do almoço.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todo mundo saiu em silêncio. A pizza chegou depois. E o entregador ficou sem saber o que fazer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinícius pagou do próprio bolso e levou a caixa para casa, sem conseguir comer uma fatia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Até aí, eu não entendia por que devolver pizza fria a um escritório vazio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Foi quando ele tirou do bolso uma foto: dez colegas sorrindo em volta de uma mesa, um ano antes.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No verso, alguém tinha escrito: quando tudo der errado, a gente se encontra na sexta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ele queria fazer uma homenagem. Ele disse: quero descobrir quem ainda vai aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinícius tinha mandado uma mensagem no grupo antigo: sexta, seis da tarde, mesmo lugar. Tragam fome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Só que ninguém respondeu. Nem um joinha. Nem aquele emoji de polegar que salva qualquer conversa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu brinquei que talvez o grupo estivesse mais morto que a pizza. Ele riu, mas logo ficou quieto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao prédio e a recepção já estava fechada. Vinícius olhou a caixa e disse: eu tentei.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes de ele descer, apareceu uma mulher correndo pela calçada, segurando um pacote de guardanapos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era a ex-colega Júlia. Ela disse: desculpa o atraso. O ônibus quebrou e eu vim andando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Logo atrás veio um homem com copos descartáveis. Depois outra colega, carregando refrigerante quente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em menos de cinco minutos, seis pessoas estavam reunidas na entrada do prédio, sem ter mais crachá para subir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinícius abriu a caixa. Em vez de pizza, havia dez envelopes com os nomes de cada um.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu quase engasguei. Perguntei: e a pizza? Ele apontou para a mochila: tá aqui, em fatias separadas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os envelopes tinham currículos revisados, contatos de vagas e uma mensagem escrita à mão para cada colega.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Vinícius explicou que passara a madrugada procurando oportunidades. Não queria que ninguém enfrentasse aquilo sozinho.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia abriu o envelope e começou a chorar. Depois deu um abraço nele tão forte que quase derrubou a caixa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um dos colegas olhou para mim e perguntou se eu aceitava uma fatia. Aceitei. Motorista também tem coração e fome.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Comemos pizza fria na calçada, rimos das histórias do escritório e trocamos telefones para continuar ajudando.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Vinícius disse: eu achei que ninguém viria. Respondi: às vezes o grupo está em silêncio, mas não está vazio.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você tem alguém do trabalho que virou amigo de verdade, manda essa história para essa pessoa. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

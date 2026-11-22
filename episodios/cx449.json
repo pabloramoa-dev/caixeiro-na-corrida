@@ -1,0 +1,357 @@
+{
+  "id": "cx449",
+  "ep": 449,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO NA ESTAÇÃO FECHADA",
+  "categoria": "reencontro_passageiro",
+  "cenario": "tarde_ensolarada",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela levou um bolo a uma estação fechada havia anos. Quem mandou a mensagem das cinco? 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reencontro #FinalSurpresa",
+  "legenda_post": "🚕🎂 Um bolo de limão, um relógio antigo e uma promessa esquecida. Você tem alguém com quem gostaria de conversar novamente? #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Familia #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um bolo de aniversário e pediu para ir a uma estação de trem desativada. Mas não era festa nenhuma.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "aniversário",
+        "desativada"
+      ]
+    },
+    {
+      "fala": "Aquela corrida tinha uma pergunta que só seria respondida quando o relógio marcasse cinco horas.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "cinco",
+        "respondida"
+      ]
+    },
+    {
+      "fala": "A passageira se chamava Helena. Segurava a caixa do bolo como quem carregava uma coisa muito frágil.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Segurava",
+        "Helena"
+      ]
+    },
+    {
+      "fala": "Perguntei se era aniversário de alguém. Ela disse que sim, mas que o aniversariante talvez nem aparecesse.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "aniversariante",
+        "aniversário"
+      ]
+    },
+    {
+      "fala": "Helena contou que seu irmão Raul tinha trabalhado na estação durante muitos anos, antes de ela ser fechada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Raul",
+        "trabalhado"
+      ]
+    },
+    {
+      "fala": "Quando crianças, os dois se encontravam sempre debaixo do relógio grande da plataforma para voltar para casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "encontravam"
+      ]
+    },
+    {
+      "fala": "Num aniversário, Raul prometeu que nunca deixaria Helena esperar sozinha naquele lugar.",
+      "expr": "triste",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "Raul"
+      ]
+    },
+    {
+      "fala": "Mas a vida mudou. Raul foi trabalhar em outra cidade e os dois perderam contato depois de uma discussão boba.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "Raul"
+      ]
+    },
+    {
+      "fala": "Durante oito anos, Helena tentou ligar algumas vezes. Nenhuma conversa passou de um cumprimento apressado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "oito",
+        "Nenhuma"
+      ]
+    },
+    {
+      "fala": "Na semana anterior, recebeu uma mensagem curta: sexta-feira, cinco horas, debaixo do relógio. Traga o bolo de limão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "cinco",
+        "Traga"
+      ]
+    },
+    {
+      "fala": "Era o bolo que a mãe deles preparava. Helena achou que alguém estivesse fazendo uma brincadeira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "brincadeira"
+      ]
+    },
+    {
+      "fala": "Mesmo assim, encomendou o bolo e decidiu ir. Ela disse que precisava descobrir quem tinha enviado aquela mensagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "encomendou",
+        "precisava"
+      ]
+    },
+    {
+      "fala": "Eu percebi que ela olhava o celular a cada semáforo, esperando outra explicação que nunca chegava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "explicação",
+        "esperando"
+      ]
+    },
+    {
+      "fala": "Quando entramos na rua da estação, vimos o portão aberto e algumas bicicletas encostadas na parede.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "bicicletas",
+        "encostadas"
+      ]
+    },
+    {
+      "fala": "Helena estranhou. A estação estava fechada havia anos, e ninguém deveria estar ali.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "estranhou",
+        "estação"
+      ]
+    },
+    {
+      "fala": "Um senhor com uniforme de manutenção se aproximou e perguntou se ela era a irmã de Raul.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Raul",
+        "manutenção"
+      ]
+    },
+    {
+      "fala": "Ela confirmou e quase deixou a caixa escorregar. O homem pediu que entrasse pela antiga bilheteria.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "escorregar",
+        "bilheteria"
+      ]
+    },
+    {
+      "fala": "Antes de sair do carro, Helena me perguntou se eu poderia esperar alguns minutos. Concordei.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Concordei",
+        "Helena"
+      ]
+    },
+    {
+      "fala": "Do banco do motorista, vi que tinham limpado a plataforma e pendurado fotografias antigas nas paredes.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "fotografias",
+        "plataforma"
+      ]
+    },
+    {
+      "fala": "Debaixo do relógio havia uma mesa pequena, duas cadeiras e um bule de café.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "duas",
+        "cadeiras"
+      ]
+    },
+    {
+      "fala": "Às cinco em ponto, Raul apareceu pela porta lateral carregando um álbum de família.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "cinco",
+        "Raul"
+      ]
+    },
+    {
+      "fala": "Helena ficou parada. Ele explicou que tinha voltado para cuidar da reforma do prédio histórico.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "histórico",
+        "explicou"
+      ]
+    },
+    {
+      "fala": "Raul disse que encontrou numa gaveta uma foto dos dois comendo bolo de limão na estação.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "encontrou"
+      ]
+    },
+    {
+      "fala": "Foi quando percebeu quanto tempo havia perdido sem conversar com a irmã.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "conversar",
+        "percebeu"
+      ]
+    },
+    {
+      "fala": "Ele enviou a mensagem, mas não teve coragem de ligar. Tinha medo de que ela recusasse o convite.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Tinha",
+        "recusasse"
+      ]
+    },
+    {
+      "fala": "Helena respondeu que também tinha medo. Os dois riram, sem saber direito por onde começar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "respondeu"
+      ]
+    },
+    {
+      "fala": "Raul abriu o álbum na primeira página. Ali estava a promessa escrita por ele quando ainda era menino.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Ali",
+        "abriu"
+      ]
+    },
+    {
+      "fala": "Os dois cortaram o bolo de limão debaixo do relógio e começaram a contar tudo o que tinham perdido.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "começaram"
+      ]
+    },
+    {
+      "fala": "Quando Helena voltou ao carro, trouxe um pedaço de bolo para mim e disse que a estação parecia menor.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "Helena",
+        "estação"
+      ]
+    },
+    {
+      "fala": "Eu entendi que o lugar não tinha mudado tanto. O que mudou foi a distância entre os dois.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "dois",
+        "distância"
+      ]
+    },
+    {
+      "fala": "E você, tem alguém com quem gostaria de retomar uma conversa? Conta aqui e acompanha o Caixeiro.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "UMA CONVERSA PODE MUDAR TUDO"
+      ],
+      "destaque": [
+        "Caixeiro",
+        "Conta"
+      ]
+    }
+  ]
+}

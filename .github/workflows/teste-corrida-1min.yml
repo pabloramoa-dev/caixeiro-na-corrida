@@ -1,0 +1,35 @@
+name: "Caixeiro - validar Corrida de 1 Minuto"
+on:
+  push:
+    branches: [main]
+    paths:
+      - "conteudo/corridas_1min.json"
+      - "motor/corridas_1min.py"
+      - "motor/pendentes.py"
+      - "motor/produzir.py"
+      - "motor/cta.py"
+      - "src/fila.py"
+      - "src/publicar.py"
+      - "tests/test_corrida_1min.py"
+      - ".github/workflows/caixeiro-diario.yml"
+      - ".github/workflows/produzir.yml"
+      - ".github/workflows/teste-corrida-1min.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validar Python e catálogo dos causos
+        run: |
+          python -m compileall -q motor/corridas_1min.py motor/pendentes.py motor/produzir.py motor/cta.py src/fila.py src/publicar.py
+          python -m motor.corridas_1min --checar
+          python -m unittest tests.test_corrida_1min tests.test_fila_caixeiro -v

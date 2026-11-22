@@ -1,0 +1,271 @@
+{
+  "id": "cx497",
+  "ep": 497,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA AZUL DA RODOVIÁRIA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🧳 Ela entrou no carro atrás de uma mala azul com o nome de alguém que não via há doze anos. O que encontrou lá dentro mudou tudo. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕🎻 Uma mala esquecida, um violino restaurado e uma conversa adiada por doze anos. Às vezes, ouvir o outro muda a história inteira. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Reencontro #Musica",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um guarda-chuva fechado e avisou: preciso chegar antes que entreguem uma mala que não é minha.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela mala tinha uma etiqueta com o nome de alguém que desapareceu da vida dela há doze anos.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Marina, restauradora de instrumentos musicais, e segurava um recibo amassado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela disse que a rodoviária havia ligado: uma mala esquecida seria encaminhada ao depósito em meia hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O estranho é que o nome escrito na etiqueta era de seu antigo professor de violino, seu Orlando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina não o via desde o dia em que desistiu da música, aos dezessete anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na época, ela perdeu uma apresentação importante e culpou o professor por não ter aparecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele prometera acompanhá-la ao palco. Mas a cadeira reservada ficou vazia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina guardou o violino num armário e nunca mais tocou diante de ninguém.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, a atendente encontrou o telefone dela numa etiqueta costurada à mala.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei como uma mala antiga podia ter o número atualizado. Marina também não sabia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto o trânsito andava devagar, ela contou que trabalhava consertando violinos, mas evitava ouvir concertos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que parecia estranho amar tanto um instrumento e fugir de seu som.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela respondeu que certas lembranças doem mais quando a gente as escuta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à rodoviária e um funcionário trouxe uma mala azul, com uma alça remendada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina reconheceu imediatamente o remendo: ela mesma o costurara quando era adolescente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na etiqueta havia um bilhete: entregar a Marina somente quando ela estiver pronta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu a mala diante do balcão. Dentro havia um estojo de violino e um envelope.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O violino era o dela, aquele que acreditava ter vendido para pagar os estudos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o instrumento estava restaurado, com cordas novas e uma pequena placa com seu nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No envelope, seu Orlando explicava que faltara à apresentação porque socorrera um aluno num acidente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele tentara procurá-la depois, mas Marina havia mudado de endereço e não aceitava mensagens.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Durante anos, ele guardou o violino e pagou pelo conserto, esperando uma oportunidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A última folha dizia que seu Orlando estava vivo, morando numa casa de repouso a poucas ruas dali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina ficou imóvel. Pediu outra corrida, agora sem pressa e sem medo de chegar tarde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando entramos na casa, o professor estava sentado perto da janela, ouvindo um rádio pequeno.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele sorriu ao ver o estojo e perguntou apenas: você ainda lembra da primeira música?",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina abriu o violino. As mãos tremiam, mas ela tocou as primeiras notas de uma melodia simples.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O professor acompanhou batendo os dedos no braço da cadeira, como fazia nas aulas.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela chorou e disse que perdera doze anos por causa de uma história que nunca perguntou até o fim.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, me contou que marcaria uma apresentação pequena para os moradores daquela casa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa corrida te lembrou alguém com quem falta conversar, compartilha essa história. Eu sou o Caixeiro. Até a próxima!",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

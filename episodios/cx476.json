@@ -1,0 +1,255 @@
+{
+  "id": "cx476",
+  "ep": 476,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O TROFÉU SEM NOME",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🏆 Ele entrou no carro com um troféu sem nome. O segredo da taça só apareceu quando voltou à escola. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #StorytimeBrasil",
+  "legenda_post": "🚕🏆 Um troféu sem nome, uma final perdida e uma homenagem vinte anos depois. Manda para quem te ensinou a não desistir. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro com um troféu sem nome e disse: preciso devolvê-lo antes que a escola feche. Só que o troféu era dele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que tinha ouvido errado. Ele apontou para uma etiqueta arrancada e falou: no final você vai entender por que eu não posso ficar com isso.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Davi, tinha uma mochila surrada e segurava a taça como se fosse de vidro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se tinha ganhado um campeonato. Ele respondeu que não jogava futebol desde os quinze anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A escola do bairro ia fechar o ginásio para uma reforma, e os antigos alunos foram convidados para uma última visita.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi não queria encontrar ninguém. Só precisava deixar a taça na sala da diretora antes das quatro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No semáforo, vi que o metal estava arranhado. Havia um espaço retangular onde antes ficava uma plaquinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que, vinte anos antes, o time perdeu a final por um gol. E que ele era o goleiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na última jogada, Davi soltou uma bola fácil. Passou anos ouvindo a mesma piada dos colegas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que guardou o troféu da derrota. Ele respondeu: porque nunca foi meu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela época, o zelador da escola, seu Bento, organizava treinos depois do expediente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando faltava dinheiro para chuteira, ele improvisava. Quando faltava alguém no time, ele chamava os tímidos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Bento prometera entregar uma taça a todos, mesmo sem vitória. Mas saiu da escola antes da festa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi levou a taça para casa para consertar a base quebrada. Depois teve vergonha de voltar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "De repente o celular dele vibrou. Era uma foto do antigo ginásio, enviada por uma colega chamada Paula.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, a quadra estava cheia de gente. No centro havia uma cadeira vazia com um cartaz escrito: RESERVADO.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi ficou pálido. Perguntei quem esperavam. Ele disse baixinho: acho que é o seu Bento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que o zelador tinha se aposentado sem receber uma homenagem. E que ninguém sabia onde ele morava.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Paula descobriu o endereço por acaso, numa reunião de ex-alunos. Tinha convidado o senhor para visitar a escola.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos com alguns minutos de sobra. Davi quis que eu esperasse, porque precisava de coragem para entrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na porta do ginásio, Paula reconheceu a taça. Ela não perguntou pela etiqueta perdida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela abriu uma caixa e mostrou uma placa nova: PARA QUEM ENSINOU A GENTE A JOGAR JUNTO.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi finalmente entendeu. A homenagem não era para o time. Era para o homem que nunca deixou ninguém no banco.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Bento entrou devagar, olhando para as arquibancadas. Quando viu a taça, perguntou quem tinha guardado aquilo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Davi levantou a mão e confessou que tinha levado o troféu para casa por vinte anos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O senhor respondeu: então você cuidou muito bem dele. E pediu que todos os antigos jogadores se aproximassem.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Em vez de discurso, seu Bento quis uma última fotografia, com cada pessoa segurando um pedaço da taça.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Davi me disse que passou duas décadas lembrando de um gol perdido e esqueceu tudo que tinha aprendido naquele time.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu respondi que algumas vitórias só aparecem quando a gente volta para agradecer.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que te ensinou a não desistir, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

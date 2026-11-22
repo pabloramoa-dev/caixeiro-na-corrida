@@ -1,0 +1,71 @@
+name: Caixeiro - prévia da troca de marcha (sem publicar)
+
+on:
+  push:
+    branches: [feat/caixeiro-troca-marcha-20261110, main]
+    paths:
+      - 'motor/caixeiro_marcha.py'
+      - 'motor/cena_marcao_hf.py'
+      - 'motor/marcao_lib.py'
+      - 'tests/test_caixeiro_marcha.py'
+      - '.github/workflows/caixeiro-marcha-preview.yml'
+  pull_request:
+    paths:
+      - 'motor/caixeiro_marcha.py'
+      - 'motor/cena_marcao_hf.py'
+      - 'motor/marcao_lib.py'
+      - 'tests/test_caixeiro_marcha.py'
+      - '.github/workflows/caixeiro-marcha-preview.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  teste-marcha:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Preparar dependências para Manim
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg pkg-config libcairo2-dev libpango1.0-dev espeak-ng fonts-dejavu-core
+          python -m pip install -r requirements-estudio.txt
+      - name: Testar curva, sintaxe e estabilidade
+        run: |
+          python -m compileall -q motor/caixeiro_marcha.py motor/cena_marcao_hf.py motor/marcao_lib.py
+          python -m unittest discover -s tests -p test_caixeiro_marcha.py -v
+      - name: Criar uma prévia real do personagem sem voz e sem postagem
+        env:
+          CAIXEIRO_TROCA_MARCHA: '1'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('preview_troca_marcha')
+          p.mkdir(exist_ok=True)
+          (p / 'segs.json').write_text(json.dumps([{'ini': 0, 'fim': 6.1}]))
+          (p / 'lip.json').write_text('[]')
+          (p / 'ep.json').write_text(json.dumps({
+              'id': 'preview-troca-marcha',
+              'cenario': 'dia',
+              'batidas': [{'fala': 'O Caixeiro dirige e conversa.', 'expr': 'neutra'}]
+          }))
+          PY
+          PASTA="$GITHUB_WORKSPACE/preview_troca_marcha" EPISODIO="$GITHUB_WORKSPACE/preview_troca_marcha/ep.json" \
+            python -m manim -ql --disable_caching --media_dir preview_troca_marcha/media \
+              -o caixeiro-marcha.mp4 motor/cena_marcao_hf.py MarcaoBase
+          find preview_troca_marcha/media -name 'caixeiro-marcha.mp4' -print -quit | grep -q .
+          cp "$(find preview_troca_marcha/media -name 'caixeiro-marcha.mp4' -print -quit)" preview_troca_marcha/troca-marcha.mp4
+          test "$(stat -c%s preview_troca_marcha/troca-marcha.mp4)" -gt 20000
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 preview_troca_marcha/troca-marcha.mp4
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: caixeiro-preview-troca-marcha
+          path: preview_troca_marcha/troca-marcha.mp4
+          retention-days: 3

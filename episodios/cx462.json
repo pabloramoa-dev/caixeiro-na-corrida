@@ -1,0 +1,247 @@
+{
+  "id": "cx462",
+  "ep": 462,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO NA CAIXA DE FERRAMENTAS",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo escondido numa caixa de ferramentas. O motivo levou todo um teatro às lágrimas de alegria! 🚕 #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Surpresa #Gratidao",
+  "legenda_post": "🚕🎭 Uma caixa de ferramentas, um bolo e uma carta esquecida por quarenta anos. O homem que nunca recebia aplausos finalmente ganhou os seus. Manda para quem trabalha nos bastidores e merece reconhecimento. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Gratidao #Reencontro\n\nHistória de ficção.",
+  "batidas": [
+    {
+      "fala": "Uma senhora entrou no meu carro com um bolo dentro de uma caixa de ferramentas. E avisou: se alguém perguntar, eu vim consertar o relógio.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O destino era um teatro antigo. Ela disse que, antes de a cortina subir, alguém precisaria descobrir quem tinha escrito um bilhete de quarenta anos atrás.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se chamava Lúcia, tinha setenta anos e segurava a caixa no colo como se fosse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei por que esconder um bolo. Ela respondeu: porque é surpresa, e eu sou péssima em mentir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O teatro ia receber uma apresentação especial. O porteiro, seu Augusto, completaria quarenta anos trabalhando ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia tinha sido figurinista do lugar. Foi naquele corredor que conheceu Augusto, ainda muito jovem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todo mundo achava que ele só cuidava das chaves. Mas era ele quem guardava cada história daquele palco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando um ator esquecia uma fala, Augusto deixava um copo d'água na coxia e dizia que coragem também precisa de intervalo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na semana anterior, Lúcia encontrou uma carta dentro de uma antiga caixa de figurinos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O envelope dizia: entregar ao homem que nunca aparece nos aplausos. Não tinha assinatura.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela decidiu levar a carta na homenagem. Mas Augusto tinha anunciado que se aposentaria antes da cerimônia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Por isso o plano era entrar discretamente, colocar o bolo no palco e convencê-lo a ficar por mais dez minutos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei o que havia na carta. Lúcia disse que ainda não tinha aberto. Queria que ele fosse o primeiro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao teatro. Um rapaz na entrada apontou para a caixa e perguntou se eu era eletricista.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes que eu respondesse, Lúcia disse: ele é especialista em emergências de aniversário. E me puxou para dentro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Nos bastidores, encontramos uma confusão: as luzes da homenagem estavam apagadas e ninguém achava o interruptor correto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto surgiu com seu molho de chaves e perguntou por que todo mundo estava parado perto da cortina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia tentou esconder a caixa atrás de mim. Só que a tampa abriu e um morango rolou pelo chão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto olhou para o morango, depois para a caixa de ferramentas, e perguntou: agora vocês consertam relógio com chantili?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todo mundo caiu na risada. Lúcia desistiu do disfarce e entregou a carta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto abriu o envelope devagar. Dentro havia uma fotografia da primeira peça do teatro e uma mensagem escrita à mão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A mensagem dizia: você acendeu a luz quando eu achei que não conseguiria entrar em cena. Obrigada por acreditar em mim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No verso, uma assinatura: Helena, a atriz que tinha estreado ali e depois se mudado para outra cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto ficou quieto. Contou que, naquela estreia, Helena estava tão nervosa que quase desistiu.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele só havia dito: o palco é grande, mas você não precisa atravessá-lo sozinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lúcia então abriu a cortina. No palco estavam antigos colegas, artistas e até Helena, que tinha voltado para agradecer pessoalmente.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto tentou dizer que não merecia aquilo. Helena respondeu: sem você, muita gente nem teria entrado em cena.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na saída, Lúcia me deu uma fatia de bolo. E eu percebi que a melhor parte daquela corrida não estava no destino, mas em quem nunca foi esquecido.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Manda essa história para alguém que ajuda os outros sem querer aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

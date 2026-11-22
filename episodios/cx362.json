@@ -1,0 +1,195 @@
+{
+  "id": "cx362",
+  "ep": 362,
+  "avulso": true,
+  "titulo": "O CÃO QUE DEIXOU UM PRESENTE",
+  "categoria": "humor",
+  "cenario": "noite",
+  "preview_only": false,
+  "visual_style": "cinematic_2d",
+  "legenda_post": "🚗 O CÃO QUE DEIXOU UM PRESENTE\n\nEla embarcou com um cachorro calmo, uma bolsa de limpeza e uma manta para o banco. E a virada surpreendeu todo mundo.\n\nVocê já viveu uma situação parecida? 👇\nHistória de ficção. Personagens e acontecimentos originais inspirados em assuntos populares.\n\n#historias #motoristadeaplicativo #corrida #uber #caixeironacorrida",
+  "legenda_tiktok": "🚗 O CÃO QUE DEIXOU UM PRESENTE\nEla embarcou com um cachorro calmo, uma bolsa de limpeza e uma manta para o banco. Qual seria sua reação?\nHistória de ficção.\n#storytime #uber #motoristadeaplicativo #caixeironacorrida",
+  "batidas": [
+    {
+      "fala": "Sobe aí, porque hoje entrou no carro uma adestradora chamada Carol, e o que aconteceu nessa corrida me fez lembrar por que eu gosto de ouvir histórias de gente.",
+      "expr": "chocada",
+      "arte": [
+        "titulo"
+      ],
+      "destaque": [
+        "Carol",
+        "adestradora"
+      ]
+    },
+    {
+      "fala": "Era sábado, dez e quinze da manhã. O aplicativo marcou o ponto de embarque, e eu já estava preparado para seguir o trajeto normal até o destino combinado.",
+      "expr": "neutra",
+      "arte": [
+        "relogio"
+      ],
+      "destaque": [
+        "dez",
+        "aplicativo"
+      ]
+    },
+    {
+      "fala": "Uma adestradora chamada Carol explicou a situação logo depois de sentar: ela embarcou com um cachorro calmo, uma bolsa de limpeza e uma manta para o banco.",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "Carol",
+        "adestradora"
+      ]
+    },
+    {
+      "fala": "A corrida parecia comum no aplicativo, mas a conversa mudou assim que passamos pela primeira esquina. A pessoa estava tentando resolver algo importante.",
+      "expr": "neutra",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "aplicativo",
+        "importante"
+      ]
+    },
+    {
+      "fala": "Carol perguntou antes se o transporte do animal estava adequado e mostrou que tinha preparado tudo para manter o carro limpo.",
+      "expr": "rindo",
+      "arte": [
+        "celular"
+      ],
+      "destaque": [
+        "transporte",
+        "perguntou"
+      ]
+    },
+    {
+      "fala": "Eu perguntei com cuidado se aquela situação já vinha acontecendo havia algum tempo. A resposta deixou claro que tinha mais coisa por trás do primeiro detalhe.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "UMA PISTA"
+      ],
+      "destaque": [
+        "acontecendo",
+        "perguntei"
+      ]
+    },
+    {
+      "fala": "Durante a viagem, o cachorro se acomodou, enquanto a dona contava que trabalhava ensinando cuidados básicos aos tutores.",
+      "expr": "triste",
+      "arte": [
+        "mapa"
+      ],
+      "destaque": [
+        "trabalhava",
+        "ensinando"
+      ]
+    },
+    {
+      "fala": "Eu olhei para a rota e avisei quanto faltava, sem inventar atalhos. A notícia mudou o tom da conversa e fez surgir mais uma lembrança.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": [
+        "lembrança",
+        "inventar"
+      ]
+    },
+    {
+      "fala": "Fiquei tentando entender a parte que ainda faltava. Não adiantava tirar conclusão com metade da conversa; tinha que deixar o resto aparecer.",
+      "expr": "neutra",
+      "arte": [
+        "conversa"
+      ],
+      "destaque": [
+        "adiantava",
+        "conclusão"
+      ]
+    },
+    {
+      "fala": "Quando chegamos, Carol recolheu a manta e percebeu que o cão tinha deixado um brinquedo pequeno debaixo do banco.",
+      "expr": "neutra",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "Carol",
+        "brinquedo"
+      ]
+    },
+    {
+      "fala": "Lembrei da Rosângela dizendo que a gente não precisa ganhar toda discussão. Às vezes a coisa certa é encontrar uma forma de conversar com respeito.",
+      "expr": "rindo",
+      "arte": [
+        "manchete_v",
+        "A VIRADA"
+      ],
+      "destaque": [
+        "Rosângela",
+        "discussão"
+      ]
+    },
+    {
+      "fala": "Ela recuperou o brinquedo, agradeceu a corrida e me entregou um cartão com informações sobre adoção responsável.",
+      "expr": "desconfiada",
+      "arte": [
+        "notificacao"
+      ],
+      "destaque": [
+        "informações",
+        "responsável"
+      ]
+    },
+    {
+      "fala": "É engraçado como o sentido de uma viagem muda quando alguém decide olhar para a situação por outro lado. Não é preciso inventar uma grande reviravolta.",
+      "expr": "desconfiada",
+      "arte": [
+        "porta"
+      ],
+      "destaque": [
+        "reviravolta",
+        "engraçado"
+      ]
+    },
+    {
+      "fala": "No dia seguinte, encontrei outro passageiro que procurava orientação sobre como acolher um animal abandonado e indiquei canais adequados.",
+      "expr": "desconfiada",
+      "arte": [
+        "carro"
+      ],
+      "destaque": [
+        "passageiro",
+        "orientação"
+      ]
+    },
+    {
+      "fala": "O aplicativo marcou a chegada, mas a conversa continuou por mais alguns instantes, o suficiente para uma despedida tranquila.",
+      "expr": "ironica",
+      "arte": [
+        "coracao"
+      ],
+      "destaque": [
+        "aplicativo",
+        "suficiente"
+      ]
+    },
+    {
+      "fala": "Cinco estrelas pra essa história. E me diz: se você estivesse no lugar dessa pessoa, como teria reagido? Cada corrida tem um destino, mas algumas deixam uma lembrança.",
+      "expr": "desconfiada",
+      "arte": [
+        "manchete_v",
+        "O QUE VOCÊ FARIA?"
+      ],
+      "destaque": [
+        "Cinco",
+        "Cada"
+      ]
+    }
+  ],
+  "lote": "100-novas-historias-20261029",
+  "ficcao_original": true
+}

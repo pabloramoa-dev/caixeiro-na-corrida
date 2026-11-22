@@ -1,0 +1,322 @@
+{
+  "id": "cx516",
+  "ep": 516,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "O CASAMENTO QUE VIROU DOIS",
+  "categoria": "humor_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "💍 O noivo entrou no carro querendo impedir o próprio casamento... e descobriu que a família ia dobrar! 😂🚕 Ficção. #CaixeiroNaCorrida #HumorBrasil #HistoriasDeUber #PlotTwist",
+  "legenda_post": "🚕💍 Um noivo desesperado, uma sanfona e dois casamentos no mesmo dia. A conversa no banco traseiro virou uma confusão de família! 😂 Ficção. #CaixeiroNaCorrida #ReelsBrasil #HumorDeFamilia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Moço, pode acelerar? Eu preciso impedir meu próprio casamento. E o casamento é hoje!",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Impedir? O senhor é o noivo ou o sogro com ciúme?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Sou o noivo. Mas não é o que você tá pensando.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ainda bem, porque eu já tava escolhendo a música da fuga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha noiva me mandou uma mensagem: não apareça de terno. Venha como você realmente é.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Bonito! Ela quer sinceridade. Vai de bermuda e chinelo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Eu pensei isso. Só que fui até o salão e vi uma placa: casamento surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera. O senhor não sabia que ia casar hoje?",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Sabia. O problema é que a festa é surpresa pra minha mãe.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Sua mãe não sabe que o filho vai casar? Isso é novidade até pra novela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela acha que vai participar de um concurso de dança. Passou a semana ensaiando forró.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz, essa senhora vai entrar dançando no próprio casamento do filho!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "E minha noiva quer que eu apareça vestido de sanfoneiro pra não estragar a surpresa.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ah! Então o terno é que tá errado. E cadê a sanfona?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Tá no porta-malas. Só tem um detalhe: eu não sei tocar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Meu amigo, eu não sei nem estacionar ouvindo sanfona. Imagina tocar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela disse que basta fingir por trinta segundos. Depois entra a banda.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Trinta segundos? Dá pra enganar o povo. Menos sua mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha mãe foi professora de música durante quarenta anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pronto. A senhora vai pedir bis e descobrir o golpe no primeiro acorde.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Eu tô pensando em cancelar a surpresa. Ela vai ficar decepcionada.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ou o senhor pode contar a verdade. Mãe gosta de surpresa, mas gosta mais de filho feliz.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Espera. Ela tá me ligando agora. Mãe, onde a senhora tá?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Bota no viva-voz. Agora eu também tô envolvido nessa novela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela disse que tá num carro de aplicativo, indo pro concurso de dança.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Que coincidência. Minha próxima corrida também é pra um concurso de dança.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela mandou uma foto do motorista. Caixeiro... é você!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Como assim? Eu tô aqui com o senhor. Não tenho irmão gêmeo, não!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Olha a foto direito. É o seu pai! Ele usa o mesmo boné e tem o mesmo bigode!",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Meu pai? Ele disse que tinha parado de dirigir pra fazer aula de forró!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "E minha mãe acabou de mandar: não conta pro noivo, mas eu vou casar com o motorista depois da festa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí! Então o senhor vai casar com minha irmã e minha mãe vai casar com seu pai?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Não! Eu vou casar com sua irmã. E minha mãe com seu pai. A gente vai virar família duas vezes!",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Se essa confusão parece reunião da sua família, compartilha! Só não me chama pra tocar sanfona!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

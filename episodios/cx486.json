@@ -1,0 +1,255 @@
+{
+  "id": "cx486",
+  "ep": 486,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A MALA VAZIA E A ÚLTIMA FITA",
+  "categoria": "historia_passageiro",
+  "cenario": "manha_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "📼 Ela entrou no carro com uma mala vazia e disse que iam vender a infância dela por cinquenta reais. O que havia numa fita mudou tudo. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕📼 Uma mala vazia, um gravador azul e uma mensagem que esperou anos para ser ouvida. Às vezes, a coragem chega acompanhada de alguém. Compartilhe com quem guarda uma lembrança especial. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Memorias #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com uma mala vazia e disse: se eu chegar atrasada, vão vender a minha infância por cinquenta reais.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela manhã descobri por que uma mala sem nada pode pesar tanto.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Marina. Segurava um papel amassado com o endereço de um bazar beneficente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei o que tinha de tão importante naquele bazar. Ela respondeu: uma caixa de fitas cassete.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu pensei em música antiga. Mas Marina explicou que a mãe dela gravava mensagens em fitas para os aniversários dos filhos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Todo ano, mesmo trabalhando de madrugada no hospital, a mãe encontrava tempo para gravar uma história.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando Marina completou quinze anos, a mãe ficou doente. A última fita nunca chegou a ser ouvida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Depois que a família se mudou, as caixas ficaram num depósito que fechou há poucos dias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um vizinho avisou que tudo tinha sido doado para um bazar, inclusive um gravador azul e várias fitas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina mostrou uma fotografia: uma menina de tranças abraçada a uma mulher diante de um bolo torto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ela não tinha ido antes. Ela baixou a cabeça: fiquei com medo de ouvir a voz dela de novo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O semáforo fechou. Ficamos em silêncio por alguns segundos, até ela perguntar se eu já tinha guardado alguma coisa por medo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Contei que ainda tenho uma receita escrita pelo meu avô, mas nunca consegui preparar o prato sozinho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina sorriu: então você entende por que eu preciso daquela caixa, mesmo que não consiga apertar o play.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos ao bazar, mas uma funcionária estava fechando as portas. O movimento tinha terminado mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina correu até ela e mostrou a foto do gravador. A mulher reconheceu o aparelho na hora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Disse que um senhor havia comprado tudo meia hora antes. Marina ficou imóvel na calçada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes que ela desistisse, perguntei se o comprador tinha deixado algum contato para retirar os objetos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A funcionária lembrou que ele morava duas ruas acima e ainda voltaria para buscar uma cadeira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Fomos até lá. Na varanda, um senhor testava o gravador azul com um fone enorme.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina explicou a história. Ele desligou o aparelho e perguntou: você é a filha da enfermeira Helena?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela assentiu, surpresa. O homem contou que Helena tinha cuidado da esposa dele durante meses.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele comprara as fitas porque reconheceu o nome escrito nas etiquetas e não queria que fossem jogadas fora.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Entregou a caixa sem cobrar nada. Em cima estava escrito: Marina, quinze anos, para quando você estiver pronta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina segurou a fita como quem segura uma mão. Pediu para ouvir só os primeiros segundos.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O gravador chiou. Uma voz doce disse: minha filha, não precisa ser corajosa todos os dias.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Marina começou a chorar, mas sorriu quando a mãe continuou: nos dias difíceis, pede ajuda e come um pedaço de bolo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O senhor apareceu com três fatias de bolo de fubá. Eu juro que parecia uma cena combinada, mas não era.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Marina deixou a mala aberta no banco. Agora estava cheia de fitas e de histórias para descobrir.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você tem uma lembrança esperando coragem, compartilha esta corrida com alguém especial. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "cx488",
+  "ep": 488,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O BOLO TORTO DA PORTARIA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ela entrou no carro com um bolo sem cobertura e pediu pressa para um aniversário que o próprio aniversariante queria esquecer. O final virou música! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Surpresa",
+  "legenda_post": "🚕🎂 Um bolo torto, um porteiro de 70 anos e uma música guardada por quatro décadas. Às vezes, o melhor presente é lembrar alguém de que sua voz importa. Envie para quem merece uma surpresa. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Aniversario #Gratidao",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro com um bolo de aniversário sem cobertura e falou: preciso chegar antes que apaguem as velas de alguém que nem sabe que faz aniversário hoje.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela corrida começou com um bolo torto, mas terminou com uma surpresa que ninguém tinha ensaiado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira era Lívia, professora de música, e segurava a caixa no colo como se transportasse um tesouro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei quem tinha esquecido o próprio aniversário. Ela respondeu: seu Augusto, o porteiro do prédio onde dou aula.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Augusto completava setenta anos. Há meses, dizia a todos que aniversário era só mais uma terça-feira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas Lívia tinha descoberto que ele guardava, numa gaveta, uma foto antiga de um coral infantil.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na foto, Augusto aparecia na última fileira, com uma gravata vermelha e um sorriso enorme.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele havia cantado naquele coral quando era menino. Depois passou décadas trabalhando à noite e parou de cantar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia decidiu reunir antigos alunos para fazer uma apresentação surpresa na portaria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O problema é que a escola liberou a turma mais cedo, e a apresentação seria antecipada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela olhou o celular e suspirou. Se chegarmos depois das quatro, vão cortar o bolo sem mim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Olhei para a caixa. Perguntei por que o bolo estava sem cobertura.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela riu: eu tentei fazer um glacê bonito, mas ficou parecendo cimento. Raspei tudo e vim assim mesmo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que um bolo com cara de obra combinava com uma portaria. Foi a primeira risada da viagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No sinal, Lívia mostrou um áudio de Augusto cantarolando baixinho enquanto varria o corredor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Era uma melodia antiga. Ela explicou que o coral ensaiara aquela mesma música durante duas semanas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas havia um detalhe: Augusto não sabia que alguém tinha ouvido sua voz.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando faltavam três ruas, o celular dela tocou. A coordenadora avisou que Augusto tinha ido embora mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia ficou pálida. Perguntou se eu podia dar meia-volta e levá-la até a casa dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse que primeiro precisava saber uma coisa: ele foi embora por quê?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela ligou de novo. Descobriu que Augusto estava sentado no banco da praça, em frente ao prédio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Estacionei perto da praça. Dava para vê-lo sozinho, com um saquinho de pão e um jornal dobrado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia pediu que eu esperasse no carro. Mas eu já tinha carregado aquele bolo por metade da cidade.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Fomos juntos. Ela ofereceu a caixa e disse: parabéns, seu Augusto. Desculpa que ficou torto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele olhou o bolo e respondeu: torto era o meu primeiro uniforme de coral. Minha mãe costurou de madrugada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Antes que Lívia falasse qualquer coisa, ouvimos vozes vindo da esquina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os alunos surgiram cantando. Augusto levou a mão ao peito e tentou acompanhar, bem baixinho.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na segunda estrofe, sua voz ficou mais forte. Ele sabia a música inteira.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando terminaram, Augusto contou que fazia quarenta anos que ninguém pedia para ouvi-lo cantar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Lívia acendeu uma vela no bolo sem cobertura. Augusto fez um pedido e dividiu a primeira fatia comigo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Voltei ao carro com farelos na camisa e uma certeza: surpresa boa não precisa ser perfeita para ser inesquecível.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que merece ser lembrado hoje, manda esta corrida para essa pessoa. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

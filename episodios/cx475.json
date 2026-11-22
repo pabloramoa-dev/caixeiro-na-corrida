@@ -1,0 +1,239 @@
+{
+  "id": "cx475",
+  "ep": 475,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O ENVELOPE QUE NÃO ERA PARA O DONO",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "✉️ Ela entrou no carro com um envelope escrito NÃO ENTREGAR AO DONO. O destino era justamente o dono! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕✉️ Um envelope misterioso, uma banca de jornais e uma surpresa para quem ensinou crianças a amar a leitura. Manda para quem te apresentou um bom livro. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Leitura #Gratidao",
+  "batidas": [
+    {
+      "fala": "Uma mulher entrou no meu carro com um envelope marcado: NÃO ENTREGAR AO DONO. E pediu que eu a levasse justamente até ele.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era alguma pegadinha. Ela disse: se eu contar agora, você não vai acreditar no que tem aqui dentro.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Elisa. No colo, levava um envelope azul e uma pequena chave presa num barbante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela queria chegar a uma antiga banca de jornais antes do meio-dia, quando o proprietário devolveria as chaves do ponto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Álvaro vendia jornais havia quarenta anos. Mas, nos últimos meses, quase ninguém parava para conversar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa contou que, quando criança, ia à banca todo sábado para ler as manchetes sem comprar nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Álvaro nunca reclamou. Separava as revistas antigas e dizia que notícia boa também podia ser compartilhada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que o envelope dizia para não entregar ao dono. Ela respondeu: porque ele é teimoso demais para aceitar presente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na primeira esquina, ela recebeu uma mensagem e ficou preocupada. O caminhão da mudança tinha chegado mais cedo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então Elisa me mostrou uma fotografia antiga: uma fila de crianças diante da banca, cada uma segurando um gibi.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela apontou para uma menina na ponta. Era ela, vinte anos antes, no dia em que aprendeu a ler uma história inteira.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se Álvaro sabia disso. Ela disse que nunca tinha contado, porque achava que ele lembrava de todo mundo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas, quando voltou ao bairro, descobriu que ele nem imaginava quantas crianças tinham aprendido a gostar de livros ali.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa reuniu antigos frequentadores. Uma virou professora. Outro, ilustrador. Um terceiro abriu uma pequena livraria.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O envelope guardava uma proposta assinada pelos três. Só faltava a resposta de Álvaro.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Faltando duas ruas, o trânsito travou. Elisa apertou a chave no barbante e perguntou se dava para chegar a pé.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu parei num lugar permitido. Ela saiu depressa, mas voltou à janela e disse: você precisa ver a reação dele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos à banca, Álvaro estava empilhando as últimas revistas numa caixa de papelão.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa entregou a fotografia, não o envelope. Ele reconheceu as crianças e começou a lembrar seus apelidos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Logo apareceram os antigos leitores, cada um trazendo um livro que havia marcado sua infância.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Álvaro achou que fosse uma despedida. Até que Elisa mostrou a chave e apontou para a sala vazia ao lado.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A professora tinha conseguido o espaço para uma biblioteca comunitária. O ilustrador faria as placas, e a livraria doaria os primeiros livros.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O envelope era um convite para Álvaro cuidar do acervo e contar histórias uma tarde por semana, se quisesse.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele leu devagar. Depois perguntou por que tinham escrito NÃO ENTREGAR AO DONO.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Elisa respondeu: porque o senhor não é dono disso. Essa biblioteca é de todo mundo que aprendeu alguma coisa aqui.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Álvaro guardou a fotografia no bolso e pediu só uma condição: que sempre houvesse uma cadeira para quem quisesse conversar.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Elisa me mostrou o envelope vazio. Eu disse que algumas corridas terminam com uma porta fechando e outra abrindo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que despertou seu amor pela leitura, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": "cx487",
+  "ep": 487,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A CHAVE DA BIBLIOTECA FECHADA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🗝️ Ela entrou no carro com uma chave gigante para impedir que derrubassem a biblioteca do pai. Mas o homem da obra sabia um segredo! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #FinalSurpresa",
+  "legenda_post": "🚕📚 Uma chave antiga, uma biblioteca fechada e uma promessa que atravessou gerações. Seu Nestor ensinou que histórias só vivem quando são compartilhadas. Envie para quem abriu portas na sua vida. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HistoriasDeMotorista #Biblioteca #Gratidao",
+  "batidas": [
+    {
+      "fala": "Ela entrou no meu carro segurando uma chave enorme e avisou: se eu chegar depois das duas, vão derrubar a porta que meu pai construiu.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E aquela corrida tinha uma chave que não abria fechadura nenhuma. Pelo menos era o que eu pensava.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A passageira se chamava Júlia. No colo, carregava uma chave de ferro presa a uma fita vermelha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se ela estava indo salvar uma casa. Júlia respondeu: uma biblioteca. Ou o que sobrou dela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O pai dela, seu Nestor, tinha sido zelador de uma biblioteca de bairro durante trinta e oito anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando a biblioteca fechou, ele guardou a chave principal e prometeu devolvê-la no dia em que o lugar reabrisse.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas Nestor morreu no inverno passado. E hoje uma equipe começaria a desmontar o prédio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia descobriu que a chave tinha uma etiqueta: entregue à pessoa que ainda acredita nas histórias.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se ela sabia quem era essa pessoa. Ela balançou a cabeça e apertou a fita vermelha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "No sinal, Júlia mostrou uma foto do pai rodeado de crianças, cada uma segurando um livro diferente.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela contou que o pai não sabia escrever bem, mas decorava o nome de todo mundo que frequentava a biblioteca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando uma criança não podia pagar o ônibus, ele levava livros de bicicleta até a casa dela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Uma vez, durante uma enchente, salvou primeiro as caixas de livros infantis. Só depois pensou nos próprios sapatos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia riu e disse que a mãe nunca perdoou os sapatos encharcados. Era a primeira risada daquela viagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O trânsito travou a duas quadras do destino. Ela olhou o relógio e pediu para descer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse: calma, vou estacionar aqui e te acompanho. Uma chave daquele tamanho merece escolta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na porta da biblioteca, encontramos um caminhão e um homem com capacete amarelo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia pediu cinco minutos. O homem respondeu que as obras já tinham começado, mas quis saber de quem era a chave.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando ouviu o nome Nestor, tirou o capacete. Era o Miguel, um dos meninos da fotografia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele contou que aprendera a ler ali e agora era o arquiteto responsável pela reforma do prédio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Reforma? Júlia repetiu, quase sem voz. Miguel explicou que o lugar seria transformado em uma biblioteca comunitária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O caminhão não vinha demolir o prédio. Vinha trazer estantes, mesas e uma porta nova.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Miguel mostrou o desenho da entrada. No alto estava escrito: Biblioteca Seu Nestor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia começou a chorar. Eu fiquei olhando a chave, sem saber se oferecia um lenço ou um abraço.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então Miguel apontou para uma pequena caixa na parede: o pai dela tinha deixado uma última instrução.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro havia um bilhete: a porta mais importante não é a que eu abro. É a que vocês mantêm aberta.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A chave antiga não servia mais na fechadura nova. Mesmo assim, Miguel a colocou numa moldura ao lado da entrada.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Júlia me perguntou quanto devia pela espera. Respondi que já tinha recebido: uma história boa para levar comigo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, vi crianças entrando com mochilas coloridas. A biblioteca ainda nem tinha inaugurado e já parecia viva.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se alguém já abriu uma porta importante para você, manda esta corrida para essa pessoa. Aqui é o Caixeiro.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

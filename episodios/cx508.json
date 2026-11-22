@@ -1,0 +1,67 @@
+{
+  "id": "cx508",
+  "ep": 508,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-009",
+  "ficcao_original": true,
+  "titulo": "O FANTASMA DA FESTA JUNINA",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem improvisa fantasia na última hora.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | O FANTASMA DA FESTA JUNINA\nMeu passageiro entrou vestido de fantasma, com um lençol branco e uma bota caipira aparecendo lá embaixo.\n\nManda pra quem improvisa fantasia na última hora.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: O FANTASMA DA FESTA JUNINA. Manda pra quem improvisa fantasia na última hora. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Meu passageiro entrou vestido de fantasma, com um lençol branco e uma bota caipira aparecendo lá embaixo.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse que precisava chegar à escola antes de começar a quadrilha e que a fantasia tinha sido ideia da professora.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei se era festa junina ou apresentação de terror, e ele explicou que faria o papel do susto da roça.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na entrada da escola, uma professora veio correndo e perguntou por que o fantasma estava usando o lençol da cantina.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O menino respondeu que a mãe tinha pegado o primeiro branco do armário e que tinha cheiro de pão de alho.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele saiu correndo, e eu fiquei pensando que aquele devia ser o único fantasma do mundo capaz de dar fome.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

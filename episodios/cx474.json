@@ -1,0 +1,239 @@
+{
+  "id": "cx474",
+  "ep": 474,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "A PLACA QUE NÃO DEIXOU A OFICINA FECHAR",
+  "categoria": "historia_passageiro",
+  "cenario": "manha_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "☂️ Ela entrou no carro com uma placa de FECHADO. O verso escondia uma surpresa para um senhor que consertava guarda-chuvas. 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #Reviravolta #StorytimeBrasil",
+  "legenda_post": "🚕☂️ Uma placa de FECHADO, 47 nomes e uma oficina que ganhou um novo começo. Manda para quem te ensinou algo importante. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Gratidao #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Uma passageira entrou no meu carro com uma placa escrita FECHADO. E disse: se eu não chegar antes das dez, a cidade vai perder uma coisa que nem sabe que tem.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu achei que fosse uma loja. Mas ela segurava a placa como quem protege uma fotografia. E o motivo só apareceu no fim da corrida.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela se chamava Teresa e trabalhava numa pequena banca de conserto de guarda-chuvas perto da rodoviária.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Naquela manhã, o dono, seu Orlando, ia fechar a banca depois de trinta e dois anos. Ninguém mais mandava consertar nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa contou que tinha conhecido Orlando aos oito anos, quando apareceu ali com um guarda-chuva quebrado e duas moedas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele consertou as varetas, devolveu as moedas e disse que uma criança não devia chegar molhada à escola.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que ela carregava uma placa de FECHADO. Ela respondeu que tinha encontrado a placa no lixo da oficina.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Queria devolvê-la? Não. Queria impedir que fosse pendurada na porta pela última vez.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa abriu a bolsa e tirou uma lista de nomes escrita num papel amassado. Havia quarenta e sete assinaturas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu disse: isso é abaixo-assinado? Ela respondeu: é um mapa de pessoas que ele ajudou sem cobrar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Um nome era de uma enfermeira que tinha um uniforme salvo de uma chuva forte. Outro, de um vendedor que trabalhava na rua.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas o nome mais estranho era de um músico que nunca havia entrado na oficina. E eu quis saber como isso era possível.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa explicou que Orlando consertava sombrinhas para o grupo de teatro da escola. O músico tinha usado uma delas no primeiro show.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Enquanto ela falava, o celular tocou. Era o filho de Orlando avisando que um caminhão já estava chegando para levar os móveis.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Faltavam três quarteirões. O trânsito parou por causa de uma obra. Teresa olhou o relógio e ficou em silêncio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sugeri uma rua lateral. Ela respondeu: se der certo, hoje você vai entender por que trouxe essa placa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos e encontramos Orlando sozinho, fechando uma caixa de ferramentas. Na porta havia um espaço vazio, esperando a placa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa saiu do carro e entregou a lista. Ele leu o primeiro nome e perguntou de onde ela tinha tirado aquilo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Então apareceram duas pessoas com guarda-chuvas coloridos. Depois mais três. Em poucos minutos, a calçada ficou cheia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Cada pessoa segurava um objeto consertado por Orlando. Não era protesto. Era uma despedida organizada por Teresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O músico trouxe um violão e contou que o primeiro cachê havia sido pago graças àquela apresentação de escola.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Orlando tentou falar, mas Teresa mostrou o verso da placa. Ali estava escrito, em letras grandes: ABERTO PARA ENSINAR.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela explicou que a escola do bairro oferecera uma sala para ele ensinar reparos uma vez por semana, sem aluguel.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele perguntou quem pagaria pelas ferramentas. O filho apareceu com a velha caixa e disse: eu já separei as melhores.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Seu Orlando virou a placa devagar. Pela primeira vez naquela manhã, ele pareceu não estar se despedindo de nada.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Teresa voltou ao carro para pagar a corrida. Eu disse que a placa tinha viajado no banco mais importante do dia.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ela riu e respondeu: não foi a placa. Foi tudo o que ainda dava para fazer com ela.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se você conhece alguém que ensina sem pedir nada em troca, manda essa história para essa pessoa.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

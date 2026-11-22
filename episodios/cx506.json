@@ -1,0 +1,67 @@
+{
+  "id": "cx506",
+  "ep": 506,
+  "avulso": true,
+  "preview_only": false,
+  "formato": "corrida_1min",
+  "serie": "Corrida de 1 Minuto",
+  "causo_chave": "humor-007",
+  "ficcao_original": true,
+  "titulo": "A ENCOMENDA QUE ERA UMA DESCULPA",
+  "categoria": "humor_cotidiano",
+  "cenario": "dia",
+  "visual_style": "cinematic_2d",
+  "cta_envio": "Manda pra quem se reconcilia mas não dispensa presente.",
+  "legenda_post": "🚕 CORRIDA DE 1 MINUTO | A ENCOMENDA QUE ERA UMA DESCULPA\nPeguei um passageiro com uma caixa de sapatos vazia que ele segurava como se estivesse levando uma encomenda preciosa.\n\nManda pra quem se reconcilia mas não dispensa presente.\n\nHistória de ficção.\n\n#CorridaDe1Minuto #CaixeiroNaCorrida #Humor #MotoristaDeAplicativo #ReelsBrasil",
+  "legenda_tiktok": "🚕 Corrida de 1 Minuto: A ENCOMENDA QUE ERA UMA DESCULPA. Manda pra quem se reconcilia mas não dispensa presente. História de ficção. #CorridaDe1Minuto #CaixeiroNaCorrida #Humor #Storytime",
+  "batidas": [
+    {
+      "fala": "Peguei um passageiro com uma caixa de sapatos vazia que ele segurava como se estivesse levando uma encomenda preciosa.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele disse que precisava entregar aquilo ao irmão, com quem tinha discutido por causa de uma partida de videogame.",
+      "expr": "desconfiada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei por que a caixa estava vazia, e ele explicou que o presente tinha sido comprado pela internet.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando chegamos, o irmão abriu a caixa e encontrou apenas um papel escrito: seu presente chega quando você me perdoar.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O irmão respondeu que perdoava, mas queria saber se podia trocar a reconciliação por um tênis de verdade.",
+      "expr": "rindo",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois começaram a rir e eu descobri que a paz familiar às vezes vem com prazo de entrega de quinze dias.",
+      "expr": "ironica",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}

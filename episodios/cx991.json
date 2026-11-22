@@ -1,0 +1,314 @@
+{
+  "id": "cx991",
+  "ep": 991,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "FUI AO MEU PRÓPRIO VELÓRIO",
+  "categoria": "conversa_passageiro",
+  "cenario": "dia",
+  "visual_style": "classic",
+  "personagens": {
+    "caixeiro": {
+      "papel": "motorista",
+      "voz": "pm_alex:0.62+pm_santa:0.38"
+    },
+    "passageiro": {
+      "papel": "passageiro no banco traseiro",
+      "nome": "Antônio",
+      "voz": "pm_santa"
+    }
+  },
+  "legenda_post": "🚕💀 Um passageiro entrou no carro e contou que recebeu uma homenagem de despedida... estando vivinho! O Caixeiro não aguentou as respostas. 😂 Episódio de ficção com conversa entre motorista e passageiro. #CaixeiroNaCorrida #CausosDeMotorista #HistoriasEngracadas #HumorBrasileiro",
+  "legenda_tiktok": "😂🚗 O homem foi parar no próprio velório e ainda levou bronca da tia! História fictícia em diálogo com o Caixeiro. #CaixeiroNaCorrida #HistoriasDeUber #Humor #Storytime",
+  "fim": "CAIXEIRO NA CORRIDA · HISTÓRIA FICTÍCIA",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Motorista, o senhor já recebeu convite pro próprio velório?",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "O CONVITE IMPOSSÍVEL"
+      ],
+      "tela": "O CONVITE IMPOSSÍVEL",
+      "hf": {
+        "titulo": "O CONVITE IMPOSSÍVEL"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Como assim, meu amigo? O senhor tá vivo ou eu peguei a corrida errada?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "A CORRIDA ERRADA?"
+      ],
+      "tela": "A CORRIDA ERRADA?",
+      "hf": {
+        "titulo": "A CORRIDA ERRADA?"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Vivo demais! Mas semana passada minha família me enterrou no grupo do WhatsApp.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "VELÓRIO NO WHATSAPP"
+      ],
+      "tela": "VELÓRIO NO WHATSAPP",
+      "hf": {
+        "titulo": "VELÓRIO NO WHATSAPP"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí. E quem foi que espalhou uma notícia dessas?",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "QUEM ESPALHOU?"
+      ],
+      "tela": "QUEM ESPALHOU?",
+      "hf": {
+        "titulo": "QUEM ESPALHOU?"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Na minha cidade tem dois Antônios Pereira. Um deles faleceu. A notícia chegou sem foto e minha irmã achou que era eu.",
+      "expr": "neutra",
+      "arte": [
+        "conversa",
+        "DOIS ANTÔNIOS"
+      ],
+      "tela": "DOIS ANTÔNIOS",
+      "hf": {
+        "titulo": "DOIS ANTÔNIOS"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E ninguém resolveu ligar pro senhor primeiro?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "NINGUÉM LIGOU?"
+      ],
+      "tela": "NINGUÉM LIGOU?",
+      "hf": {
+        "titulo": "NINGUÉM LIGOU?"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ligaram. Cinquenta e nove vezes! Só que eu tava pescando, num lugar sem sinal nenhum.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "59 CHAMADAS PERDIDAS"
+      ],
+      "tela": "59 CHAMADAS PERDIDAS",
+      "hf": {
+        "titulo": "59 CHAMADAS PERDIDAS"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz... e o senhor descobriu como?",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "A DESCOBERTA"
+      ],
+      "tela": "A DESCOBERTA",
+      "hf": {
+        "titulo": "A DESCOBERTA"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Voltei da pescaria, liguei o celular e vi uma homenagem: descanse em paz, Toninho. Com uma foto minha de óculos escuros!",
+      "expr": "chocada",
+      "arte": [
+        "conversa",
+        "DESCANSE EM PAZ?"
+      ],
+      "tela": "DESCANSE EM PAZ?",
+      "hf": {
+        "titulo": "DESCANSE EM PAZ?"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Até foto escolheram! E o senhor fez o quê?",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "ATÉ FOTO!"
+      ],
+      "tela": "ATÉ FOTO!",
+      "hf": {
+        "titulo": "ATÉ FOTO!"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Fui direto ao velório. Queria entender quem tava descansando no meu lugar.",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "VISITA SURPRESA"
+      ],
+      "tela": "VISITA SURPRESA",
+      "hf": {
+        "titulo": "VISITA SURPRESA"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "O senhor entrou lá assim, do nada?",
+      "expr": "desconfiada",
+      "arte": [
+        "conversa",
+        "ENTROU MESMO?"
+      ],
+      "tela": "ENTROU MESMO?",
+      "hf": {
+        "titulo": "ENTROU MESMO?"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Entrei e falei: boa tarde, gente. Qual de vocês me matou?",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "QUAL DE VOCÊS?"
+      ],
+      "tela": "QUAL DE VOCÊS?",
+      "hf": {
+        "titulo": "QUAL DE VOCÊS?"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ah, não! O pessoal deve ter saído correndo!",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "TODO MUNDO CORREU?"
+      ],
+      "tela": "TODO MUNDO CORREU?",
+      "hf": {
+        "titulo": "TODO MUNDO CORREU?"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha prima derrubou o café. Meu cunhado sentou no chão. Mas minha tia cruzou os braços.",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "A REAÇÃO DA TIA"
+      ],
+      "tela": "A REAÇÃO DA TIA",
+      "hf": {
+        "titulo": "A REAÇÃO DA TIA"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ih, essa tia sabia de alguma coisa!",
+      "expr": "ironica",
+      "arte": [
+        "conversa",
+        "ESSA TIA..."
+      ],
+      "tela": "ESSA TIA...",
+      "hf": {
+        "titulo": "ESSA TIA..."
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela disse: Antônio, até pra chegar no próprio velório você se atrasa!",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "ATÉ NO VELÓRIO!"
+      ],
+      "tela": "ATÉ NO VELÓRIO!",
+      "hf": {
+        "titulo": "ATÉ NO VELÓRIO!"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ha, ha, ha! Essa tia não perdoa nem assombração!",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "NÃO PERDOA!"
+      ],
+      "tela": "NÃO PERDOA!",
+      "hf": {
+        "titulo": "NÃO PERDOA!"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Depois explicaram a confusão. O outro Antônio era um senhor muito querido. Eu fiquei e prestei minha homenagem a ele.",
+      "expr": "neutra",
+      "arte": [
+        "conversa",
+        "A CONFUSÃO EXPLICADA"
+      ],
+      "tela": "A CONFUSÃO EXPLICADA",
+      "hf": {
+        "titulo": "A CONFUSÃO EXPLICADA"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pelo menos terminou tudo bem. E sua família aprendeu a confirmar as notícias?",
+      "expr": "neutra",
+      "arte": [
+        "conversa",
+        "LIÇÃO DA CORRIDA"
+      ],
+      "tela": "LIÇÃO DA CORRIDA",
+      "hf": {
+        "titulo": "LIÇÃO DA CORRIDA"
+      }
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Aprendeu. Agora, quando eu vou pescar, minha irmã só pergunta: vai levar o carregador, fantasma?",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "O FANTASMA DA FAMÍLIA"
+      ],
+      "tela": "O FANTASMA DA FAMÍLIA",
+      "hf": {
+        "titulo": "O FANTASMA DA FAMÍLIA"
+      }
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Essa eu vou guardar! Manda esse causo pra quem tem uma tia que não perdoa nem no velório.",
+      "expr": "rindo",
+      "arte": [
+        "conversa",
+        "MANDA PRA SUA TIA"
+      ],
+      "tela": "MANDA PRA SUA TIA",
+      "hf": {
+        "titulo": "MANDA PRA SUA TIA"
+      }
+    }
+  ]
+}

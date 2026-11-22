@@ -1,0 +1,271 @@
+{
+  "id": "cx495",
+  "ep": 495,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "titulo": "O RELÓGIO PARADO NA COZINHA",
+  "categoria": "historia_passageiro",
+  "cenario": "tarde_chuvosa_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "⏰ Ele entrou no carro com uma carta molhada e pediu para chegar antes que vendessem a casa. O segredo estava atrás de um relógio! 🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #StorytimeBrasil #Reviravolta",
+  "legenda_post": "🚕⏰ Uma casa prestes a ser vendida, um relógio parado e uma parede cheia de lembranças. Às vezes, a maior herança é a chance de conversar novamente. História fictícia. #CaixeiroNaCorrida #ReelsBrasil #Familia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "fala": "Ele entrou no meu carro segurando um envelope molhado e falou: se eu chegar depois das seis, minha irmã vai vender a casa sem saber o que tem na parede.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu sou o Caixeiro. E naquela corrida descobri por que alguém esconderia uma fotografia atrás de um relógio parado.",
+      "expr": "chocada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O passageiro se chamava Raul, tinha tinta nas mãos e olhava o celular a cada semáforo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Perguntei se era herança. Ele disse: é pior, é uma promessa que eu deixei vencer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul e a irmã, Patrícia, não se falavam desde o enterro do pai, três anos atrás.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "A casa da família seria entregue ao comprador naquela tarde. O contrato já estava assinado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Mas naquela manhã um antigo vizinho mandou a Raul a foto de um relógio de parede desmontado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Atrás do relógio aparecia a ponta de um envelope com o nome dos dois irmãos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul reconheceu a letra do pai e correu para buscar a chave reserva.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Só que a chave estava com Patrícia, que não atendia nenhuma ligação.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei: e por que esse envelope está molhado? Raul suspirou: porque eu caí na chuva tentando salvar uma cópia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Ele mostrou uma folha borrada. Dava para ler apenas: não derrubem a parede da cozinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Confesso que pensei em dinheiro escondido. Raul também. E ficou com vergonha de admitir.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na esquina seguinte, Patrícia finalmente respondeu com uma mensagem: tenho dez minutos, depois entrego tudo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul pediu que eu seguisse pelo caminho mais rápido permitido. Nada de atalhos perigosos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Durante o trajeto, contou que o pai marcava a altura dos filhos na parede, ano após ano.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Quando Raul foi embora de casa, aos dezoito, o pai continuou fazendo uma marca no mesmo dia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu perguntei como ele sabia disso. Raul respondeu: o vizinho viu, mas nunca me contou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Chegamos à casa e Patrícia esperava no portão, de braços cruzados, com o corretor ao lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul mostrou o papel molhado. Patrícia leu, respirou fundo e abriu a porta sem dizer nada.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O relógio ainda estava na cozinha, parado nas cinco e quarenta, hora em que o pai sempre chegava do trabalho.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eles tiraram o relógio juntos. Atrás havia outro envelope, seco, preso com fita antiga.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Dentro, nenhuma escritura secreta. Havia uma fotografia dos dois pequenos, cobertos de farinha, fazendo pão com o pai.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na outra face, uma frase: a casa é de vocês, mas essa parede guarda a melhor parte da nossa vida.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Patrícia afastou um armário e revelou as marcas de altura. A última tinha sido feita depois que Raul saiu.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Embaixo estava escrito: hoje ele não veio, mas continua crescendo longe daqui.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Raul ficou sem voz. Patrícia confessou que também nunca tinha visto aquelas palavras.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "O corretor perguntou se a venda estava cancelada. Patrícia respondeu: não, só precisamos de uma fotografia antes.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Os dois registraram a parede inteira e combinaram guardar uma parte dela na nova casa de Patrícia.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Na volta, Raul me disse que passou três anos tentando ganhar uma discussão que o pai nunca quis que existisse.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Eu respondi que às vezes a família não precisa recuperar uma casa, só encontrar um jeito de conversar de novo.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "fala": "Se essa história te lembrou alguém, manda para essa pessoa hoje. Aqui é o Caixeiro, e a próxima corrida pode surpreender.",
+      "expr": "emocionada",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
