@@ -65,7 +65,8 @@ def main():
         pass
     else:
         ep = preparar_curto(ep) if ep["id"] in CURTOS else aplicar_ganchos(ep)
-    ep = garantir_cta(ep)
+    # O piloto dialogado ja possui despedida propria e falante em cada batida.
+    ep = ep if ep.get("formato") == "dialogo" else garantir_cta(ep)
     atuar(ep["batidas"])
     # Gancho de antecipação + micro-reenganche antes da voz e das ilustrações.
     # O arquivo-fonte e os registros de publicação permanecem intactos.
@@ -83,16 +84,21 @@ def main():
 
     if not os.path.exists(P("voz.wav")):
         open(P("roteiro.txt"), "w", encoding="utf-8").write("\n".join(b["fala"] for b in ep["batidas"]) + "\n")
-        try:
-            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_kokoro.py"), P("roteiro.txt"),
-                "--voz", os.environ["MARCAO_VOZ"], "--speed", "1.0", "--gap", str(GAP),
-                "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
-        except subprocess.CalledProcessError:
-            os.environ["MARCAO_VOZ"] = VOZ
-            sh([sys.executable, os.path.join(MOTOR, "gerar_voz_thalita.py"), P("roteiro.txt"),
-                "--voice", VOZ, f"--rate={RATE}", "--gap", str(GAP),
-                "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
-        if "reenganche_indice" in ep:
+        if ep.get("formato") == "dialogo":
+            # Duas vozes reais, montadas batida a batida como no Previsao Modelo.
+            sh([sys.executable, os.path.join(MOTOR, "dialogo_caixeiro.py"),
+                ep_path, "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
+        else:
+            try:
+                sh([sys.executable, os.path.join(MOTOR, "gerar_voz_kokoro.py"), P("roteiro.txt"),
+                    "--voz", os.environ["MARCAO_VOZ"], "--speed", "1.0", "--gap", str(GAP),
+                    "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
+            except subprocess.CalledProcessError:
+                os.environ["MARCAO_VOZ"] = VOZ
+                sh([sys.executable, os.path.join(MOTOR, "gerar_voz_thalita.py"), P("roteiro.txt"),
+                    "--voice", VOZ, f"--rate={RATE}", "--gap", str(GAP),
+                    "--out", P("bruta.wav"), "--seg-json", P("segs.json")])
+            if "reenganche_indice" in ep:
             from ritmo import sincronizar
             sincronizar(P("bruta.wav"), P("segs.json"), ep["reenganche_indice"], ep.get("formato") == "curto")
         from audio_fx import masterizar_voz
