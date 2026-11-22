@@ -128,7 +128,11 @@ def compor(ep,segs,pasta):
         fim_fala=float(s.get('fim_fala',z-.25));fim_fala=max(a+.01,min(z,fim_fala))
         if v4:
             wt=V4.tempos(b,a,fim_fala);kws=V4.palavras_chave(b,[w for w,_,_ in wt])
-            cp,ca=V4.legenda(i,b,s,wt,kws,z);parts.extend(cp);anim.extend(ca)
+            cp,ca=V4.legenda(i,b,s,wt,kws,z)
+            if ep.get("formato") == "dialogo":
+                nome = "PASSAGEIRO" if b.get("quem") == "passageiro" else "CAIXEIRO"
+                cp = [item.replace("CAIXEIRO NA CORRIDA</div>", nome + "</div>") for item in cp]
+            parts.extend(cp);anim.extend(ca)
             continue
         ws=b['fala'].split();total=sum(max(2,len(w)) for w in ws);t=a;j=0
         groups=chunks(b['fala'])
@@ -293,7 +297,7 @@ def renderizar(ep,pasta,raiz):
             nome = f'illustration-{i:02d}.png'
             desenho.convert('RGB').save(assets / nome, format='PNG')
             ep['_support_frames'].append(nome)
-    if imagens_moveis and not especificacao:
+    if imagens_moveis and not especificacao and ep.get("formato") != "dialogo":
         try:
             from uber_visual_motion import preparar, INTERVALO
             ep['_support_interval'] = INTERVALO
@@ -332,6 +336,6 @@ def renderizar(ep,pasta,raiz):
     final=pasta/(ep['id']+'.mp4');tmp=pasta/(ep['id']+'.rendering.mp4')
     sh(['node',cli,'render',work,'--output',tmp,'--workers',os.environ.get('NINA_HF_WORKERS','2'),'--no-browser-gpu'],env=env)
     conferir(tmp,dur);tmp.replace(final)
-    info={'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval'),'animated_support':bool(ep.get('_support_frames')),'support_source':'original_local' if ep.get('_free_story_visuals') else ('approved_sequence' if especificacao else 'none')}
+    info={'dialogo':ep.get('formato')=='dialogo','voz_passageiro':'pm_santa' if ep.get('formato')=='dialogo' else None,'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval'),'animated_support':bool(ep.get('_support_frames')),'support_source':'original_local' if ep.get('_free_story_visuals') else ('approved_sequence' if especificacao else 'none')}
     (pasta/'render.json').write_text(json.dumps(info,ensure_ascii=False,indent=2))
     return final
