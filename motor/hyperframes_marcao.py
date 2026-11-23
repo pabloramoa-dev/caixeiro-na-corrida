@@ -231,7 +231,7 @@ def mixar(voz,segs,dur,destino,ep=None):
     v,_=sf.read(v48,dtype='float64');v=np.pad(v,(0,max(0,n-len(v))))[:n]
     bed=audio_fx.tratar_trilha(_bed(dur,sr),sr)*2.4
     bed=bed*audio_fx.ducking(v,sr)
-    extra=V4.eventos_extra(ep,segs) if (ep and usa_v4()) else ()
+    extra=V4.eventos_extra(ep,segs) if (ep and usa_v4() and ep.get("formato") != "dialogo") else ()
     efeitos=SFX.trilha_sfx(ep,segs,dur,extra) if ep else np.zeros(n)
     mix=audio_fx.finalizar(v+bed+efeitos[:n],sr)
     sf.write(destino.with_name('bed.wav'),bed,sr);sf.write(destino.with_name('sfx.wav'),efeitos,sr)
@@ -336,6 +336,6 @@ def renderizar(ep,pasta,raiz):
     final=pasta/(ep['id']+'.mp4');tmp=pasta/(ep['id']+'.rendering.mp4')
     sh(['node',cli,'render',work,'--output',tmp,'--workers',os.environ.get('NINA_HF_WORKERS','2'),'--no-browser-gpu'],env=env)
     conferir(tmp,dur);tmp.replace(final)
-    info={'dialogo':ep.get('formato')=='dialogo','voz_passageiro':'pm_santa' if ep.get('formato')=='dialogo' else None,'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval'),'animated_support':bool(ep.get('_support_frames')),'support_source':'original_local' if ep.get('_free_story_visuals') else ('approved_sequence' if especificacao else 'none')}
+    info={'dialogo':ep.get('formato')=='dialogo','voz_passageiro':json.loads((pasta/'voz_meta.json').read_text()).get('vozes_efetivas', {}).get('passageiro') if (ep.get('formato')=='dialogo' and (pasta/'voz_meta.json').exists()) else None,'motor':'hyperframes','versao':HYPERFRAMES_VERSION,'fotos':len(ep['_fotos']),'duracao':dur,'resolucao':[1080,1920],'fps':30,'voz':os.environ.get('MARCAO_VOZ','kokoro pm_alex'),'audio':'pedalboard' if audio_fx.disponivel() else 'ffmpeg','sfx':len(SFX.eventos(ep,segs)),'visual':'v4' if usa_v4() else 'v3','lip':os.environ.get('NINA_LIP','rhubarb'),'cenario':ep.get('cenario','tarde'),'batidas':len(segs),'illustrations':len(ep.get('_support_frames', [])),'illustration_interval':ep.get('_support_interval'),'animated_support':bool(ep.get('_support_frames')),'support_source':'original_local' if ep.get('_free_story_visuals') else ('approved_sequence' if especificacao else 'none')}
     (pasta/'render.json').write_text(json.dumps(info,ensure_ascii=False,indent=2))
     return final
