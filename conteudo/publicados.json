@@ -363,5 +363,25 @@
   "formato": "curto",
   "serie": "Corrida de 1 Minuto",
   "duracao": 46.1
+ },
+ {
+  "id": "cx360-story",
+  "media_id": "18177697462458521",
+  "quando": "2026-11-23T00:37-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx360",
+  "media_id": "18102999815408322",
+  "quando": "2026-11-23T00:38-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": "2026-11-23",
+  "formato": "longo",
+  "serie": null,
+  "duracao": 148.9
  }
 ]
