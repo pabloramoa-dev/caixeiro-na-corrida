@@ -1,0 +1,24 @@
+{
+  "dialogo": true,
+  "voz_passageiro": "pt_BR-faber-medium",
+  "motor": "hyperframes",
+  "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha-marca-caixeiro",
+  "fotos": 0,
+  "duracao": 157.569,
+  "resolucao": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "voz": "pm_alex:0.62+pm_santa:0.38",
+  "audio": "ffmpeg",
+  "sfx": 1,
+  "visual": "v4",
+  "lip": "rhubarb",
+  "cenario": "tarde_urbana",
+  "batidas": 34,
+  "illustrations": 0,
+  "illustration_interval": null,
+  "animated_support": false,
+  "support_source": "none"
+}
