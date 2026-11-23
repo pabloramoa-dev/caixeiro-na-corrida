@@ -17,8 +17,7 @@
     "passageiro": {
       "papel": "passageiro no banco traseiro",
       "nome": "Antônio",
-      "voz": "pt-BR-DonatoNeural",
-      "voz_reserva": "pm_santa (pitch -14%, diferenciacao offline)"
+      "voz": "pt_BR-faber-medium (Piper TTS, masculino pt-BR)"
     }
   },
   "legenda_post": "🚕💀 Um passageiro entrou no carro e contou que recebeu uma homenagem de despedida... estando vivinho! O Caixeiro não aguentou as respostas. 😂 Episódio de ficção com conversa entre motorista e passageiro. #CaixeiroNaCorrida #CausosDeMotorista #HistoriasEngracadas #HumorBrasileiro",
@@ -318,11 +317,14 @@
       }
     }
   ],
-  "revisao": "piloto-dialogo-v2-passageiro-esquerda-cambio-esquerda-vozes-distintas-eq-suave-risadas",
+  "revisao": "piloto-dialogo-v3-faber-voz-natural-sem-pitch",
   "audio": {
     "masterizacao": "dialogo_suave_v2",
     "efeitos": "risadas leves nas pausas, efeitos de humor discretos",
-    "publicar": false
+    "publicar": false,
+    "modelo_passageiro": "pt_BR-faber-medium",
+    "alteracao_pitch": false,
+    "sem_fallback_voz": true
   },
   "cenario_piloto": {
     "passageiro_lado_tela": "esquerda",
