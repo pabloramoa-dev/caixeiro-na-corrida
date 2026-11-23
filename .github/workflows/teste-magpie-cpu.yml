@@ -1,4 +1,5 @@
 name: "Piloto NVIDIA Magpie TTS (CPU, sem publicar)"
+# Teste isolado disparado por push; nunca publica redes sociais
 
 on:
   workflow_dispatch:
