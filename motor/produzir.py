@@ -102,7 +102,7 @@ def main():
             from ritmo import sincronizar
             sincronizar(P("bruta.wav"), P("segs.json"), ep["reenganche_indice"], ep.get("formato") == "curto")
         from audio_fx import masterizar_voz
-        print("master da voz:", masterizar_voz(P("bruta.wav"), P("voz.wav")), flush=True)
+        print("master da voz:", masterizar_voz(P("bruta.wav"), P("voz.wav"), suave=ep.get("formato") == "dialogo"), flush=True)
 
     if not os.path.exists(P("lip.json")):
         lip = "lipsync_rhubarb.py" if os.environ.get("NINA_LIP", "rhubarb") == "rhubarb" else "lipsync_amplitude.py"
