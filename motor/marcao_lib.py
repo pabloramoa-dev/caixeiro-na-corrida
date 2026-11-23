@@ -293,7 +293,7 @@ def marcao(expr="neutra", cenario="noite"):
     grupo = VGroup(pesc, polo, gola, vista, bracos, relogio,
                    orelhas, cab, barba, pelos, cost, nariz, bigode, copa, costuras, botao, escudo, aba, face)
     return dict(grupo=grupo, cab=cab, rosto=face, volante=volante, roda=roda,
-                bracos=bracos, mao_d=maos[1], expr=expr,
+                bracos=bracos, mao_e=maos[0], mao_d=maos[1], expr=expr,
                 tudo=VGroup(grupo, volante))
 
 
@@ -459,17 +459,17 @@ def carro(cenario="noite"):
     # painel embaixo
     painel = Polygon([-W / 2 - 1, -4.3, 0], [W / 2 + 1, -4.0, 0], [W / 2 + 1, -H / 2 - 1, 0], [-W / 2 - 1, -H / 2 - 1, 0],
                      fill_color="#232229", fill_opacity=1, stroke_color=PT, stroke_width=12)
-    # Câmbio manual visível no console, ao lado direito do volante.
+    # Câmbio manual espelhado para o lado ESQUERDO da tela, ao lado do motorista.
     # Fica fixo no carro para a mão animada alcançar a mesma posição a cada troca.
     base_cambio = RoundedRectangle(width=0.94, height=0.46, corner_radius=0.14,
                                    fill_color="#12121b", fill_opacity=1,
-                                   stroke_color=PT, stroke_width=8).move_to([2.10, -5.60, 0])
-    haste_cambio = _curva([[2.10, -5.50, 0], [2.07, -5.22, 0], [2.10, -4.98, 0]],
+                                   stroke_color=PT, stroke_width=8).move_to([-2.10, -5.60, 0])
+    haste_cambio = _curva([[-2.10, -5.50, 0], [-2.07, -5.22, 0], [-2.10, -4.98, 0]],
                           stroke_color="#a0a4ad", stroke_width=23)
     manopla = RoundedRectangle(width=0.43, height=0.48, corner_radius=0.20,
                                fill_color="#353643", fill_opacity=1,
-                               stroke_color=PT, stroke_width=7).move_to([2.10, -4.92, 0])
-    brilho_cambio = Line([2.00, -4.99, 0], [2.02, -4.80, 0],
+                               stroke_color=PT, stroke_width=7).move_to([-2.10, -4.92, 0])
+    brilho_cambio = Line([-2.20, -4.99, 0], [-2.18, -4.80, 0],
                          stroke_color="#8b9099", stroke_width=4)
     cambio = VGroup(base_cambio, haste_cambio, manopla, brilho_cambio)
 
