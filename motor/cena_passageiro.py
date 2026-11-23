@@ -1,21 +1,21 @@
 """Passageiro animado no banco traseiro para o piloto dialogado do Caixeiro.
-Arte vetorial original Manim: passageiro menor e ao fundo, sem alterar o motorista.
+Arte vetorial original Manim: passageiro menor e ao fundo, no lado ESQUERDO da tela.
 """
 from manim import *
 import numpy as np
 
 def montar_passageiro():
-    centro = np.array([2.38, 1.00, 0.0])
+    centro = np.array([-2.38, 1.00, 0.0])
     tinta = "#151420"
     pele = "#be8868"
     # Banco traseiro: encosto, apoio de cabeca e cinto, com profundidade.
     banco = VGroup(
         RoundedRectangle(width=2.45, height=4.4, corner_radius=.54,
                          fill_color="#292936", fill_opacity=1, stroke_color=tinta,
-                         stroke_width=13).move_to([2.35, -1.85, 0]),
+                         stroke_width=13).move_to([-2.35, -1.85, 0]),
         RoundedRectangle(width=1.45, height=1.05, corner_radius=.3,
                          fill_color="#41404b", fill_opacity=1, stroke_color=tinta,
-                         stroke_width=9).move_to([2.35, .12, 0]))
+                         stroke_width=9).move_to([-2.35, .12, 0]))
     tronco = RoundedRectangle(width=1.8, height=2.28, corner_radius=.43,
                               fill_color="#7d3f4b", fill_opacity=1,
                               stroke_color=tinta, stroke_width=12).move_to(centro+DOWN*2.0)
@@ -48,7 +48,7 @@ def montar_passageiro():
     boca_centro = centro+DOWN*.44
     boca = Line(boca_centro+LEFT*.16,boca_centro+RIGHT*.16,
                 stroke_width=8,stroke_color="#683c35")
-    cinto = Line(centro+np.array([.50,-1.0,0]),centro+np.array([-.55,-2.9,0]),
+    cinto = Line(centro+np.array([-.50,-1.0,0]),centro+np.array([.55,-2.9,0]),
                  stroke_color="#1b1e2e",stroke_width=25)
     grupo = VGroup(banco, tronco, pescoco, orelhas, cabeca, cabelo, franja,
                    olhos, sobrancelhas, nariz, boca, cinto)
