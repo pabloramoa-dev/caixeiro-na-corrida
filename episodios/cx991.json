@@ -17,7 +17,8 @@
     "passageiro": {
       "papel": "passageiro no banco traseiro",
       "nome": "Antônio",
-      "voz": "pm_santa"
+      "voz": "pt-BR-DonatoNeural",
+      "voz_reserva": "pm_santa (pitch -14%, diferenciacao offline)"
     }
   },
   "legenda_post": "🚕💀 Um passageiro entrou no carro e contou que recebeu uma homenagem de despedida... estando vivinho! O Caixeiro não aguentou as respostas. 😂 Episódio de ficção com conversa entre motorista e passageiro. #CaixeiroNaCorrida #CausosDeMotorista #HistoriasEngracadas #HumorBrasileiro",
@@ -74,7 +75,8 @@
       "tela": "QUEM ESPALHOU?",
       "hf": {
         "titulo": "QUEM ESPALHOU?"
-      }
+      },
+      "sfx_dialogo": "pop"
     },
     {
       "quem": "passageiro",
@@ -152,7 +154,8 @@
       "tela": "ATÉ FOTO!",
       "hf": {
         "titulo": "ATÉ FOTO!"
-      }
+      },
+      "sfx_dialogo": "pop"
     },
     {
       "quem": "passageiro",
@@ -204,7 +207,8 @@
       "tela": "TODO MUNDO CORREU?",
       "hf": {
         "titulo": "TODO MUNDO CORREU?"
-      }
+      },
+      "risada": true
     },
     {
       "quem": "passageiro",
@@ -243,7 +247,8 @@
       "tela": "ATÉ NO VELÓRIO!",
       "hf": {
         "titulo": "ATÉ NO VELÓRIO!"
-      }
+      },
+      "sfx_dialogo": "pop"
     },
     {
       "quem": "caixeiro",
@@ -256,7 +261,8 @@
       "tela": "NÃO PERDOA!",
       "hf": {
         "titulo": "NÃO PERDOA!"
-      }
+      },
+      "risada": true
     },
     {
       "quem": "passageiro",
@@ -295,7 +301,8 @@
       "tela": "O FANTASMA DA FAMÍLIA",
       "hf": {
         "titulo": "O FANTASMA DA FAMÍLIA"
-      }
+      },
+      "risada": true
     },
     {
       "quem": "caixeiro",
@@ -310,5 +317,18 @@
         "titulo": "MANDA PRA SUA TIA"
       }
     }
-  ]
+  ],
+  "revisao": "piloto-dialogo-v2-passageiro-esquerda-cambio-esquerda-vozes-distintas-eq-suave-risadas",
+  "audio": {
+    "masterizacao": "dialogo_suave_v2",
+    "efeitos": "risadas leves nas pausas, efeitos de humor discretos",
+    "publicar": false
+  },
+  "cenario_piloto": {
+    "passageiro_lado_tela": "esquerda",
+    "cambio_lado_tela": "esquerda",
+    "mao_marcha_lado_tela": "esquerda",
+    "volante": "centro motorista",
+    "resolucao": "1080x1920"
+  }
 }
