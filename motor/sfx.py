@@ -136,18 +136,39 @@ def brilho():
     return _norm(out)
 
 
+def risada_curta():
+    """Risadinha sintetizada original: 3 pequenas expirações vocalizadas.
+    Volume intencionalmente discreto para acompanhar, nunca encobrir, a fala.
+    """
+    n = int(0.62 * SR)
+    out = np.zeros(n, dtype=np.float64)
+    rng = _rng(912)
+    for k, inicio in enumerate((0.035, 0.205, 0.375)):
+        d = 0.158
+        tt = _t(d)
+        freq = 160.0 + 20 * np.sin(2 * np.pi * 3.0 * tt) - 34 * tt / d
+        fase = 2 * np.pi * np.cumsum(freq) / SR
+        voz = np.sin(fase) + 0.37 * np.sin(2 * fase) + 0.14 * np.sin(3 * fase)
+        respiracao = _lowpass(rng.normal(size=len(tt)), 2300)
+        envelope = np.sin(np.pi * np.clip(tt / d, 0, 1)) ** 1.4
+        syll = (0.80 * voz + 0.20 * respiracao) * envelope * (0.85 - .1*k)
+        i = round(inicio * SR)
+        out[i:i+len(tt)] += syll
+    return _norm(out)
+
+
 SONS = {
     "whoosh": whoosh, "whoosh_grave": lambda: whoosh(0.7, grave=True, seed=7),
     "pop": pop, "papel": papel, "ping": ping, "tique": tique, "taque": lambda: tique(False),
     "coracao": coracao, "digitando": digitando, "portao": portao,
-    "impacto": impacto, "brilho": brilho,
+    "impacto": impacto, "brilho": brilho, "risada_curta": risada_curta,
 }
 
 # volume de cada som na mixagem (pico); a voz fica perto de 0.85
 VOLUME = {
     "whoosh": 0.16, "whoosh_grave": 0.18, "pop": 0.11, "papel": 0.10, "ping": 0.12,
     "tique": 0.06, "taque": 0.06, "coracao": 0.26, "digitando": 0.07, "portao": 0.16,
-    "impacto": 0.24, "brilho": 0.10,
+    "impacto": 0.24, "brilho": 0.10, "risada_curta": 0.085,
 }
 
 
@@ -162,6 +183,19 @@ def tem_flash(b, i):
 def eventos(ep, segs):
     """(tempo, som, volume) alinhados às animações do compor()."""
     ev = []
+    if ep.get("formato") == "dialogo":
+        # Nao somar efeito de digitacao/ping em todas as 22 falas.
+        # Apenas reacoes pontuais e risadinhas no intervalo entre vozes.
+        for i, (b, s) in enumerate(zip(ep["batidas"], segs)):
+            a, z = float(s["ini"]), float(s["fim"])
+            fim_fala = float(s.get("fim_fala", z))
+            if b.get("risada") and z - fim_fala >= 0.58:
+                ev.append((fim_fala + 0.06, "risada_curta", VOLUME["risada_curta"]))
+            tipo = b.get("sfx_dialogo")
+            if tipo in ("pop", "ping", "whoosh_grave"):
+                ev.append((a + 0.10, tipo, VOLUME[tipo] * 0.30))
+        ev.append((float(segs[-1]["fim"]), "brilho", 0.035))
+        return ev
     for i, (b, s) in enumerate(zip(ep["batidas"], segs)):
         a, z = float(s["ini"]), float(s["fim"])
         d = z - a
