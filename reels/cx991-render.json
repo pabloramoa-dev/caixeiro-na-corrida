@@ -1,10 +1,10 @@
 {
   "dialogo": true,
-  "voz_passageiro": "pm_santa (tom diferenciado)",
+  "voz_passageiro": "pt_BR-faber-medium",
   "motor": "hyperframes",
   "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha-marca-caixeiro",
   "fotos": 0,
-  "duracao": 101.111,
+  "duracao": 97.895,
   "resolucao": [
     1080,
     1920
