@@ -1,0 +1,322 @@
+{
+  "id": "cx519",
+  "ep": 519,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "O BOLO DO DIVÓRCIO",
+  "categoria": "humor_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ele entrou no carro com um bolo de DIVÓRCIO e pediu para fugir da própria rua! O motivo fez até o motorista rir 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasil #Reviravolta",
+  "legenda_post": "🚕🎂 Um bolo escrito 'Parabéns pelo divórcio', uma sogra animada e uma família que adora uma pegadinha. Você cairia nessa? 😂 História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HumorDeFamilia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Motorista, tem como fazer essa corrida sem passar na frente da minha própria casa? Se minha mulher me vir, acabou meu casamento.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz, e esse bolo de casamento no seu colo? O senhor tá casando de novo?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Pior. Eu tô levando um bolo escrito: Parabéns pelo divórcio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Aí complicou. O senhor tá comemorando o divórcio de quem?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Da minha sogra. Ela separou do marido depois de trinta anos. A família fez uma festa surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Até aí tudo bem. O problema é o senhor estar escondido da esposa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "É que a minha esposa acha que a mãe tá sofrendo. Eu falei que ia comprar remédio pra ela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E voltou com um bolo escrito divórcio? Remédio com cobertura de chantili?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Foi ideia da própria sogra! Ela mandou mensagem: hoje eu tô livre, tragam refrigerante.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Sua sogra é mais animada que muito solteiro em carnaval.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Só que ela proibiu contar pra filha. Quer revelar tudo no jantar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Entendi. E por que não pode passar na sua rua?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Porque minha esposa tá na varanda e sabe que a confeitaria fica do outro lado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Olha, a gente pode ir pela avenida. Mas esse bolo tá balançando demais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ai, não! Caiu o enfeite de cima. Era um casalzinho de noivos cortado ao meio.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Esse bolo tá mais dramático que novela das nove.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Espera. Minha sogra acabou de mandar áudio: mudamos o plano, venham direto pra minha casa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pronto, chegamos em dez minutos. Só não vai esconder o bolo no porta-malas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Tem outra mensagem. Ela disse: tragam o motorista também. Preciso de uma testemunha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Testemunha? Eu só tenho habilitação, meu amigo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela escreveu: quero provar que fui eu que encomendei o bolo. Minha filha não vai acreditar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Aí eu topo. Sou especialista em provar que passageiro não inventou desculpa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Chegamos. Mas olha ali na porta... minha esposa! Como ela descobriu?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ela tá segurando um bolo também. Tá escrito: Bem-vindo de volta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Bem-vindo de volta? Pra quem? Meu sogro voltou?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Calma, tem um senhor saindo do portão com uma mala. E ele tá sorrindo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "É meu sogro! Eles se reconciliaram antes da festa?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí. A sua sogra tá abraçando a sua esposa e apontando pro senhor.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ela disse que o divórcio foi de mentira. Eles só queriam anunciar que vão morar separados... na mesma rua!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E por que esse bolo de divórcio então?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Porque a sogra se divorciou foi do grupo de WhatsApp da família. Saiu de todos!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ah, não! Trinta anos de casamento e o verdadeiro problema era o bom dia com florzinha!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha mulher tá rindo. Disse que eu caí direitinho na pegadinha da mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Se você conhece uma família que transforma qualquer coisa em novela, compartilha esse vídeo. Eu sou o Caixeiro, e hoje quase virei testemunha de bolo!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
