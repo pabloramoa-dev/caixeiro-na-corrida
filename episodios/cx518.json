@@ -1,0 +1,322 @@
+{
+  "id": "cx518",
+  "ep": 518,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "O ASPIRADOR FOFOQUEIRO",
+  "categoria": "humor_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🤖 O passageiro vendeu o presente da mãe porque o aspirador contava todos os segredos da casa! 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasil #PlotTwist",
+  "legenda_post": "🚕🤖 Um aspirador fofoqueiro, uma vizinha curiosa e uma dentadura perdida há cinco anos. Essa corrida saiu do controle! 😂 História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HumorDoCotidiano #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Moço, preciso chegar no aniversário da minha mãe antes que ela descubra que eu vendi o presente dela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Vendeu o presente da própria mãe? Isso é coragem ou pedido de deserdamento?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Calma! Era um robô aspirador. Eu vendi porque ele começou a mandar mensagem pra vizinha.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Robô aspirador mandando mensagem? Ele aprendeu a fofocar varrendo a sala?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "O aplicativo avisava: sua casa está suja. Só que eu cadastrei o telefone da dona Célia sem querer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E a dona Célia recebeu relatório da sujeira da sua mãe?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Todo dia! Na segunda ele disse que tinha encontrado trinta e sete migalhas de biscoito.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz, isso não é aspirador. É fiscal de rodapé.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Na terça ele travou debaixo do sofá e mandou alerta: objeto suspeito encontrado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "O que tinha lá?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Uma dentadura. Minha mãe jurava que tinha perdido no dentista há cinco anos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Cinco anos? Essa dentadura já tinha adquirido usucapião do sofá.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "A dona Célia apareceu com bolo pra comemorar o achado. Minha mãe ficou furiosa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E aí o senhor vendeu o robô para acabar com a fofoca?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Exatamente. Só que a pessoa que comprou pediu entrega na casa da dona Célia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Não me diga que a vizinha comprou o fofoqueiro de volta!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Comprou. E colocou um laço vermelho nele. Disse que era presente de aniversário pra minha mãe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Então a dona Célia devolveu o aspirador com embalagem de presente?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Pior. Ela programou o robô pra cantar parabéns quando abrir a porta.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pelo menos vai limpar o chão depois que cair bolo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Mas eu tô com medo do que ele vai anunciar na frente dos convidados.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "A senhora tem mais migalhas do que visitas?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Não brinca! Olha a mensagem da minha mãe: filho, o robô falou seu nome.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Falou o quê?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ele disse: o presente foi vendido pelo seu filho por cento e vinte reais.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pronto. O aspirador virou delator premiado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Espera! Ela mandou outra: ainda bem que você vendeu. Eu queria mesmo era uma air fryer.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ufa! Final feliz. Então agora vocês vão comer bolo na air fryer?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Não. Ela mandou: usei os cento e vinte reais pra comprar a air fryer da dona Célia.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí. A vizinha comprou o robô e sua mãe comprou a air fryer dela?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Sim. E agora o robô tá mandando mensagem: sua air fryer está com migalhas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Essa vizinhança precisa de terapia, não de eletrodoméstico!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha mãe acabou de perguntar se você aceita uma fatia de bolo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Aceito, mas longe do aspirador! Se você conhece uma vizinha fofoqueira, compartilha esse vídeo. Aqui é o Caixeiro!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
