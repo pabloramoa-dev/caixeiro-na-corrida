@@ -1,6 +1,6 @@
 """Curva temporal determinística para a troca de marcha do Caixeiro.
 
-A mão direita fica no volante quase todo o tempo. A cada ciclo ela desce,
+A mão do lado esquerdo da tela fica no volante quase todo o tempo. A cada ciclo ela desce,
 permanece brevemente no câmbio e retorna sem saltos entre frames.
 Esta camada não depende de Manim e pode ser testada separadamente.
 """
