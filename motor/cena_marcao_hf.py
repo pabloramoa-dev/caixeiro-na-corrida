@@ -93,9 +93,9 @@ class MarcaoBase(Scene):
         # Referências relativas à cabeça: permitem animar ombro, cotovelo e mão
         # sem deslocar o personagem quando a geometria do braço muda.
         home = p['cab'].get_center().copy()
-        ombro_rel = p['bracos'][3][0].get_start() - home
-        cotovelo_rel = p['bracos'][4][0].get_end() - home
-        mao_rel = p['mao_d'].get_center() - home
+        ombro_rel = p['bracos'][0][0].get_start() - home
+        cotovelo_rel = p['bracos'][1][0].get_end() - home
+        mao_rel = p['mao_e'].get_center() - home
         marcha_ativa = os.environ.get('CAIXEIRO_TROCA_MARCHA', '1').lower() not in ('0', 'false', 'nao')
         state = {'i': 0}
 
@@ -121,21 +121,21 @@ class MarcaoBase(Scene):
             p['volante'].shift(deslocamento)
 
             if marcha_ativa:
-                # Descer a mão direita até o câmbio, pausar e voltar ao volante.
-                # O braço esquerdo, volante, rosto e lip sync seguem independentes.
+                # A mão do lado ESQUERDO da imagem desce ao câmbio espelhado;
+                # braço oposto, volante, rosto e lip sync seguem independentes.
                 f = MARCHA.progresso(t)
                 cab = p['cab'].get_center()
                 ombro = cab + ombro_rel
                 cotovelo_neutro = cab + cotovelo_rel
                 mao_neutra = cab + mao_rel
                 mao_cambio = cen['manopla'].get_center()
-                cotovelo_cambio = ombro + 0.53 * (mao_cambio - ombro) + np.array([.11, -.13, 0])
+                cotovelo_cambio = ombro + 0.53 * (mao_cambio - ombro) + np.array([-.11, -.13, 0])
                 cotovelo = (1 - f) * cotovelo_neutro + f * cotovelo_cambio
                 mao = (1 - f) * mao_neutra + f * mao_cambio
-                ajustar_membro(p['bracos'][3], ombro, ombro + .55 * (cotovelo - ombro))
-                ajustar_membro(p['bracos'][4], ombro + .50 * (cotovelo - ombro), cotovelo)
-                ajustar_membro(p['bracos'][5], cotovelo, mao)
-                p['mao_d'].move_to(mao)
+                ajustar_membro(p['bracos'][0], ombro, ombro + .55 * (cotovelo - ombro))
+                ajustar_membro(p['bracos'][1], ombro + .50 * (cotovelo - ombro), cotovelo)
+                ajustar_membro(p['bracos'][2], cotovelo, mao)
+                p['mao_e'].move_to(mao)
         p['grupo'].add_updater(motion)
         if EP.get("formato") == "dialogo":
             # Os fonemas da trilha sao filtrados pelas janelas de fala de cada um:
