@@ -37,6 +37,14 @@ MASTER_FFMPEG = ("highpass=f=70,equalizer=f=130:t=q:w=0.9:g=2.0,"
                  "equalizer=f=7000:t=q:w=1.4:g=-1.0,lowpass=f=11000,"
                  "acompressor=threshold=-21dB:ratio=2.2:attack=12:release=160,"
                  "aecho=1.0:1.0:19|33:0.030|0.015")
+# Acabamento especifico da conversa: calor, menos sibilancia, compressao leve.
+MASTER_DIALOGO_FFMPEG = (
+    "highpass=f=80,equalizer=f=180:t=q:w=0.9:g=0.7,"
+    "equalizer=f=340:t=q:w=1.0:g=-2.0,equalizer=f=3100:t=q:w=0.8:g=-0.5,"
+    "equalizer=f=6300:t=q:w=1.2:g=-1.8,lowpass=f=9500,"
+    "acompressor=threshold=-24dB:ratio=1.65:attack=18:release=220"
+)
+RMS_DIALOGO = -15.0
 RMS_VOZ = -13.0                      # nível da fala (dB RMS) antes do limitador suave
 TETO_VOZ = 10 ** (-1.5 / 20)
 TETO_MIX = 10 ** (-1.5 / 20)
@@ -81,6 +89,21 @@ def cadeia_voz():
     ])
 
 
+def cadeia_voz_dialogo():
+    """Equalizacao suave com minimo reverb, sem distorcer o timbre."""
+    return pb.Pedalboard([
+        pb.HighpassFilter(cutoff_frequency_hz=80),
+        pb.PeakFilter(cutoff_frequency_hz=180, gain_db=0.7, q=0.9),
+        pb.PeakFilter(cutoff_frequency_hz=340, gain_db=-2.0, q=1.0),
+        pb.PeakFilter(cutoff_frequency_hz=3100, gain_db=-0.5, q=0.8),
+        pb.PeakFilter(cutoff_frequency_hz=6300, gain_db=-1.8, q=1.2),
+        pb.LowpassFilter(cutoff_frequency_hz=9500),
+        pb.Compressor(threshold_db=-24, ratio=1.65, attack_ms=18, release_ms=220),
+        pb.Reverb(room_size=0.08, damping=0.85, wet_level=0.015,
+                  dry_level=1.0, width=0.0),
+    ])
+
+
 def deesser(x, sr, lo=5200.0, hi=10500.0, limiar=0.42, max_db=8.0):
     """De-esser: abaixa só a faixa do chiado, e só nos instantes em que o "s" domina.
 
@@ -110,22 +133,24 @@ def deesser(x, sr, lo=5200.0, hi=10500.0, limiar=0.42, max_db=8.0):
     return x - faixa * (1 - g)
 
 
-def masterizar_voz(entrada, saida) -> str:
+def masterizar_voz(entrada, saida, suave=False) -> str:
     audio, sr = sf.read(str(entrada), dtype="float32", always_2d=True)
-    mono = deesser(audio.mean(axis=1).astype(np.float64), sr)
+    mono = deesser(audio.mean(axis=1).astype(np.float64), sr,
+                    limiar=0.36 if suave else 0.42,
+                    max_db=6.0 if suave else 8.0)
     if pb is None:
         with tempfile.TemporaryDirectory() as tmp:
             limpo, bruto = os.path.join(tmp, "d.wav"), os.path.join(tmp, "m.wav")
             sf.write(limpo, mono, sr, subtype="FLOAT")
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", limpo, "-ac", "1",
-                            "-af", MASTER_FFMPEG, "-ar", str(sr), "-c:a", "pcm_f32le", bruto], check=True)
+                            "-af", MASTER_DIALOGO_FFMPEG if suave else MASTER_FFMPEG, "-ar", str(sr), "-c:a", "pcm_f32le", bruto], check=True)
             out, _ = sf.read(bruto, dtype="float64")
         motor = "ffmpeg"
     else:
-        out = cadeia_voz()(mono.astype(np.float32)[np.newaxis, :], sr)[0].astype(np.float64)
+        out = (cadeia_voz_dialogo() if suave else cadeia_voz())(mono.astype(np.float32)[np.newaxis, :], sr)[0].astype(np.float64)
         motor = "pedalboard"
     out = np.pad(out, (0, max(0, len(mono) - len(out))))[: len(mono)]       # mesma duração
-    out = _nivelar(out, RMS_VOZ, TETO_VOZ)
+    out = _nivelar(out, RMS_DIALOGO if suave else RMS_VOZ, TETO_VOZ)
     sf.write(str(saida), out, sr, subtype="PCM_16")
     return motor
 
