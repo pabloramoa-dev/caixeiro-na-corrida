@@ -1,10 +1,10 @@
 {
   "dialogo": true,
-  "voz_passageiro": "pm_santa",
+  "voz_passageiro": "pm_santa (tom diferenciado)",
   "motor": "hyperframes",
   "versao": "caixeiro-hyperframes-6-gancho-reenganche-cinema2d-marcha-marca-caixeiro",
   "fotos": 0,
-  "duracao": 99.708,
+  "duracao": 101.111,
   "resolucao": [
     1080,
     1920
@@ -12,7 +12,7 @@
   "fps": 30,
   "voz": "pm_alex:0.62+pm_santa:0.38",
   "audio": "ffmpeg",
-  "sfx": 96,
+  "sfx": 7,
   "visual": "v4",
   "lip": "rhubarb",
   "cenario": "dia",
