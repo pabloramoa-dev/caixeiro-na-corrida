@@ -1,0 +1,358 @@
+{
+  "id": "cx520",
+  "ep": 520,
+  "avulso": true,
+  "preview_only": true,
+  "ficcao_original": true,
+  "formato": "dialogo",
+  "titulo": "O SÓSIA DA FESTA DE OITENTA ANOS",
+  "categoria": "humor_passageiro",
+  "cenario": "tarde_urbana",
+  "visual_style": "cinematic_2d",
+  "legenda_tiktok": "🎂 Ele contratou um sósia para enganar a mãe no aniversário de 80 anos... mas o motorista descobriu quem era o verdadeiro convidado! 😂🚕 História fictícia. #CaixeiroNaCorrida #HistoriasDeUber #HumorBrasil #Reviravolta",
+  "legenda_post": "🚕🎂 Uma festa de 80 anos, um irmão gêmeo, um ator preso no trânsito e um motorista que sabia mais do que imaginava. Quem nunca viveu uma confusão em família? 😂 História fictícia. #CaixeiroNaCorrida #ReelsBrasil #HumorDeFamilia #HistoriasDeMotorista",
+  "batidas": [
+    {
+      "quem": "passageiro",
+      "fala": "Motorista, preciso chegar no salão antes da minha mãe. Se ela descobrir que eu contratei um sósia, acabou minha vida!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Um sósia? Rapaz, o senhor tá indo pra festa ou pra trocar de identidade?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "É aniversário de oitenta anos dela. Eu prometi levar meu irmão gêmeo, que mora longe.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E o irmão não veio?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Ele perdeu o avião. Aí contratei um ator parecido com ele pela internet.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Já começou errado. Gêmeo de aluguel é novidade até pra mim.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "O ator chegou de chapéu, óculos escuros e pediu metade do cachê adiantado.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pelo menos veio vestido de gente. Tem cada coisa nesse aplicativo!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Só que ele ligou dizendo que tá no salão e minha mãe começou a fazer perguntas.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Perguntas de mãe são piores que entrevista de emprego. Ela perguntou o quê?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Qual era o nome do cachorro que eles tinham quando eram pequenos.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "E o senhor passou a resposta?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Passei. Bolota. Só que o ator respondeu Pipoca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pronto. O cachorro mudou de nome e o golpe foi descoberto.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Aí minha mãe falou: Pipoca? Você lembra dele? E começou a chorar.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ué! Então o ator acertou?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Eu também achei estranho. Porque eu nunca tive cachorro chamado Pipoca.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Rapaz, nessa família tem mais segredo que senha de banco.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Agora o ator me mandou uma foto. Ele tá abraçado com minha mãe, e ela tá chamando ele de meu menino.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Pera aí. Mostra essa foto. Esse homem tem uma cicatriz na sobrancelha?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Tem. Como o senhor sabe?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Porque eu levei um passageiro com essa cicatriz pro aeroporto hoje cedo. Ele tava voltando de viagem.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Meu irmão? Mas ele disse que perdeu o avião!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Ele falou que ia fazer uma surpresa pra mãe. E tava com uma mala cheia de doces.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Então quem eu contratei?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Talvez o ator nem tenha chegado. Liga pra ele.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Tá chamando... Alô? O senhor tá no salão?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Coloca no viva-voz. Eu já tô investido nessa novela.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "O ator falou que tá preso no trânsito... dentro de outro carro de aplicativo!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Então o homem da foto é seu irmão de verdade. E sua mãe já sabe de tudo.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Minha mãe acabou de mandar mensagem: Filho, não precisa contratar ninguém pra me fazer feliz.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Bonito isso. Até me emocionou.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Tem mais: Ela disse que guardou um pedaço de bolo pro motorista que salvou a surpresa.",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Opa! Aí sim. Mas como ela sabe que eu tô dirigindo?",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "Porque meu irmão reconheceu seu carro na foto que eu mandei e contou que foi o senhor que levou ele!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Então o sósia era de verdade, o ator ficou no trânsito, e eu ainda ganhei bolo? Melhor corrida da semana!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "passageiro",
+      "fala": "E o pior: o ator tá pedindo taxa de cancelamento. Minha mãe quer convidar ele pra festa também!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    },
+    {
+      "quem": "caixeiro",
+      "fala": "Se sua família também transforma aniversário em confusão, compartilha esse vídeo! Eu sou o Caixeiro. Até a próxima corrida!",
+      "expr": "neutra",
+      "arte": [
+        "foto"
+      ],
+      "destaque": []
+    }
+  ]
+}
