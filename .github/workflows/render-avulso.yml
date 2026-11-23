@@ -70,6 +70,11 @@ jobs:
         with:
           path: ~/.cache/dvh_kokoro
           key: ${{ runner.os }}-${{ runner.arch }}-cache-kokoro-caixeiro-v1
+      - name: Cache da voz Piper Faber
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/caixeiro_piper
+          key: ${{ runner.os }}-${{ runner.arch }}-piper-faber-ptbr-v1
       - name: Renderizar sem publicar
         env:
           NINA_HF_WORKERS: '2'
