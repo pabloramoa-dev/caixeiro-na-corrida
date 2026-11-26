@@ -403,5 +403,25 @@
   "formato": "longo",
   "serie": null,
   "duracao": 144.6
+ },
+ {
+  "id": "cx362-story",
+  "media_id": "18114847766351838",
+  "quando": "2026-11-26T01:47-03:00",
+  "ensaio": false
+ },
+ {
+  "id": "cx362",
+  "media_id": "17958483429298319",
+  "quando": "2026-11-26T01:48-03:00",
+  "ensaio": false,
+  "instagram": true,
+  "telegram": true,
+  "whatsapp": false,
+  "horario": "noite",
+  "dia_teste": null,
+  "formato": "longo",
+  "serie": null,
+  "duracao": 150.7
  }
 ]
